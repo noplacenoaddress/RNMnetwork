@@ -1,4 +1,4 @@
-# The true about the italo catalan digital mafia
+# The true about the digital mafia
 
 ## ![](/home/taglio/Pictures/luzdegas.jpg)
 
