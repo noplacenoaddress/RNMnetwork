@@ -2,67 +2,84 @@
 
 ## ![](/home/taglio/Pictures/luzdegas.jpg)
 
-**To stalk**, a verb with root in [Protoindo European](https://en.wikipedia.org/wiki/Indo-European_languages) languages, [ancient Greek](<https://en.wikipedia.org/wiki/Ancient_Greek>) and old [Armenian](<https://en.wikipedia.org/wiki/Classical_Armenian>). Four possible meanings of this verb:
+**To stalk**, a verb with root in Protoindo European [[1]](https://en.wikipedia.org/wiki/Indo-European_languages ) languages, ancient Greek [[2]](https://en.wikipedia.org/wiki/Ancient_Greek>) and old Armenian [[3]](https://en.wikipedia.org/wiki/Classical_Armenian). Four  possible meanings of this verb:
 
 1. To approach slowly and quietly in order not to be discovered when getting closer.
-2. To (try to) follow or contact someone constantly, often resulting in **harassment**. 
+2. To (try to) follow or contact someone constantly, often resulting in **harassment** [[4]](https://en.wikipedia.org/wiki/Harassment). 
 3. To walk slowly and cautiously; to walk in a stealthy, noiseless manner. 
 4. To walk behind something, such as a screen, for the purpose of approaching game; to proceed under cover.
 
-From this verb we can extract the noun **stalking**, three possibles meanings:
+From this verb we can extract the noun **stalking** [[5]](https://en.wikipedia.org/wiki/Stalking), three possibles meanings:
 
 1. Hunting for game by moving silently and stealthily or by waiting in ambush.
 2. The crime of following or **harassing** another person, causing him or her to fear death or injury.	
 3. The removal of stalks from bunches of grapes prior to winemaking.
 
-We can appreciate in bold two times words with root in the verb **to harass**, from [old French](<https://en.wikipedia.org/wiki/Old_French>):
+We can appreciate in bold two times words with root in the verb **to harass**, from old French:
 
 1. To fatigue or to tire with repeated and exhausting efforts. 
 2. To annoy endlessly or systematically; to molest. 
 3. To put excessive burdens upon; to subject to anxieties. 
 
-We speak about **gangstalking** when we refer to the stalking of an individual by a large number of people who coordinate their stalking activities. Normally used by criminals organizations to claim a drogue debt, to induct to suicide an opposer, or to aniquilate a political figure. 
+We speak about **gangstalking** [[6]](https://www.urbandictionary.com/define.php?term=gang%20stalking) when we refer to the stalking of an individual by a large number of people who coordinate their stalking activities. Normally used by criminals organizations to claim a drogue debt, to induct to suicide an opposer, to aniquilate a political figure, to limit a expecially creative brain or to generate thousand millons euro. 
 
-Has you can see in the image on top of the paragraph i've used the Spanish name "**Luz de Gas**" that is the traduction of **gaslighting** that is a form of psychological manipulation in which a person seeks to sow seeds of doubt in a targeted individual or in members of a targeted group, making them question their own memory, perception, and sanity. Using persistent denial, misdirection, contradiction, and lying, gaslighting involves attempts to destabilize the victim and delegitimize the victim's belief. Is the form of gangstalking that a crew perpetuate in the Catalan European territory. 
+Has you can see in the image on top of the paragraph i've used the Spanish name "**Luz de Gas**" [[7]](https://ca.wikipedia.org/wiki/Fer_llum_de_gas) that is the traduction of **gaslighting** [[8]](https://en.wikipedia.org/wiki/Gaslighting) that is a form of psychological manipulation in which a person seeks to sow seeds of doubt in a **targeted individual** [[9]](https://www.urbandictionary.com/define.php?term=targeted%20individual) or in members of a targeted group, making them question their own memory, perception, and sanity. Using persistent denial, misdirection, contradiction, and lying, gaslighting involves attempts to destabilize the victim and delegitimize the victim's belief. 
 
-From the name of "Luz de Gas", a practice that without technology was executed also by the **franquist falangist** in the Catalan Republic, we can arrive to the word of a defunct masonry whos name is "**illuminati**". In Italy and in all over the world nowadays is utilized by a pseudo digital dictature that is doing terrorism in Europe. Does illuminati really exist? For sure simply search the hashtag **#illuminati** in Twitter or in Instagram, in this one with infographics this masonry have got more than two millons of results.
+From the name of "Luz de Gas", a practice that without technology was executed also by the franquist falangist in the Catalan Republic, we can arrive to the word of a defunct masonry whos name is "**illuminati**" [[10]](https://www.nationalgeographic.com/archaeology-and-history/magazine/2016/07-08/profile-adam-weishaupt-illuminati-secret-society/). In Italy and in all over the world nowadays is utilized by a pseudo digital dictature that is doing terrorism in Europe. Does illuminati really exist? For sure simply search the hashtag **#illuminati** [[11]](https://www.instagram.com/explore/tags/illuminati/) [[12]](https://twitter.com/search?q=%23illuminati&src=typd) in Twitter or in Instagram, in this one with infographics this masonry have got more than two millons of results.
 
-But what is a **pseudo dictature**? Is a form of a state under the declared state. A **B-side** of the democracy where black markets, stalkings, sexual harrassments, illegal control is done. Normally is regulated by a **pyramid structure** with **paramilitary** or mercenary forces controlling the victims that fall in with a gangstalking or the workers, drug sellers or prostitute. 
+But what is a pseudo dictature? Is a form of a state under the declared state. *A B*-side of the democracy where black markets, stalkings, sexual harrassments, illegal control is done. Normally is regulated by a **pyramid structure **[[13]](https://en.wikipedia.org/wiki/Organization#Pyramids_or_hierarchies) with **paramilitary** [[14]](https://en.wikipedia.org/wiki/Paramilitary) or **mercenary** [[15]](https://en.wikipedia.org/wiki/Mercenary) forces controlling the victims that fall in with a gangstalking or the workers, drug sellers or prostitute. 
 
 
 
 ### The gangstalking "game"
 
+
+
 ![](/home/taglio/Work/The true about gangstalking/trote.jpg)
 
-Basically gangstalking and gaslighting are based upon the sistematically destruction of your past and present. *Love, friendship, work, home, pets and your posessions are loose* in a short period of time. I've got a personal experience about a patron used in these tortures. We can speak about "**target individuals**", and i use the plural because there are always two victim, **a men and his love**. It's simple, the man loose all like i've said before and the woman like one year after start to think that world have changed and that she'll meet with her love another time after a **sexual game**. *She thinks that is a game, or a videogame* with the new technologies (advanced neuroscience). The two targets are separeted and inducted to suicide with a mental destroyer game, normally a gangstalking for him and a **gangbang** (manies) for her. The two in different time range, him usually one or half year before, are victims also of what is knowed as **brainwashing**. The twos in different time laps are victims of stalkers that are normally **mind hackers** that try to change the classic knowledge in them lifes. The man usually have no money, no friends and no sex. Go in **depression** and tipically live of what he founds on the street, so the society classify them as indigents and sick with **diogenes syndrome** and **compulsive hoarding**. The woman is blocked in a vortex of sex and orgies thinking that the world has changed. In somehow the woman think that pass certain level of diary sex, many times violent, she could rejoin the man of his life. All of this is brainwashing. First of all when the two separetes, that is the start of the loose of all his goods for the man, the woman is betrayed to go away from him with money. Next she's got a relation with a personal trainer or a figure like this. Next the sex game start. 
+Basically gangstalking and gaslighting are based upon the sistematically destruction of your past and present. *Love, friendship, work, home, pets and your posessions are loose* in a short period of time. I've got a personal experience about a pattern used in these tortures. We can speak about "**target individuals**", and i use the plural because there are always two victim, **a men and his love**. It's simple, the man loose all his life like i've said before and the woman like one year after start to think that world have changed and that she'll meet with this man another time after a **sexual game**. *She thinks that this is a game*. The two targets are separeted and inducted to suicide with a mental destroyer game, normally a gangstalking for him and a **gang bang** [[16]](https://en.wikipedia.org/wiki/Gang_bang) (manies) for her. The two in different time range, him usually one or half year before, are victims also of what is knowed as **brainwashing** [[17]](https://en.wikipedia.org/wiki/Brainwashing). The twos in different time laps are victims of stalkers that are normally **mind hackers** [[18]](https://www.gitbook.com/) that try to change the basics of them lifes. The man usually have no money, no friends and no sex. Go in **major depressive disorder** [[19]](https://en.wikipedia.org/wiki/Major_depressive_disorder) and tipically live of what he founds on the street, so the society classify them as indigents and sick with **diogenes syndrome** [[20]](https://en.wikipedia.org/wiki/Diogenes_syndrome) and **compulsive hoarding** [[21]](https://en.wikipedia.org/wiki/Compulsive_hoarding). The woman is blocked in a vortex of sex and orgies thinking that the world has changed. In somehow the woman think that pass certain level of diary sex, many times violent, she could rejoin the man of his life. All of this is brainwashing. First of all when the two separetes, that is the start of the loose of all his goods for the man, the woman is betrayed to go away from him with money. Next she's got a relation with a personal trainer or a figure like this. Next the sex game start. 
 
-What is the final objective of these machinated steps? It's simple, but when you're leaving them if your not very clever and intelligent the twos will die commiting suicide. The final goal for the woman, if she doesn't kill herself, is to grew up a sexual slave prostitute builded *to satisfy extreme desire for high class society individuals*. 
+What is the final objective of these machinated steps? It's simple, but when you're leaving them if your not very clever and intelligent the twos will die commiting **suicide**[[22]](https://en.wikipedia.org/wiki/Suicide). The final goal for the woman, if she doesn't kill herself, is to grew up a sexual slave prostitute builded *to satisfy extreme desire for high class society individuals*. 
 
-Normally the man, who has lost everything, commit suicide because  see her in **porn movies** and images found on the web, deep web, and many others technological platform. The woman when the man loose his life understand that this was not a game and commit suicide also or terminate in heavy drug adiction like **heroine** or **crack**. 
+Normally the man, who has lost everything, commit suicide because  see her in porn movies and images found on the web, deep web, and many others technological platform. The woman when the man loose his life understand that this was not a game and commit suicide also or terminate in heavy drug adiction like **heroine** [[23]](https://en.wikipedia.org/wiki/Heroin) or **crack** [[24]](https://en.wikipedia.org/wiki/Crack_cocaine). 
 
-This "game" is reality is recurrent patron where a love is forcely broken and two people commit suicide. With this crime, gangstalker can gain **billons euro**, alimenting **terrorism** in a silent mode. How is possible to gain such amount of money with this **criminal patron**? It's simple, they bet on all about the life of the two target individulas, and the woman in engaged in  **sexual harrassment** and **human traffic**. They use her to do sexual favoures to big drugs clients, rich casino players or so on. She doesn't gain. When she lost her naturally protection about sexual violence they sell her to ultra high class customers that simply enslave her or kill her in a ritual.
+This "game" is reality is recurrent pattern where a love is forcely broken and two people commit suicide. With this crime, gangstalker can gain **billons euro**, alimenting **terrorism** [[25]](https://en.wikipedia.org/wiki/Terrorism) in a silent mode. How is possible to gain such amount of money with this **criminal pattern**? It's simple, they bet on all about the life of the two target individulas, and the woman in engaged in  **sexual harassment** [[26]](https://en.wikipedia.org/wiki/Sexual_harassment) ,**human traffic** [[27] ](https://en.wikipedia.org/wiki/Human_Traffic)and **forced prostitution** [[28]](https://en.wikipedia.org/wiki/Forced_prostitution). They use her to do sexual favoures to big drugs clients, rich casino players or so on. She doesn't gain. When she lost her naturally protection about sexual violence they sell her to ultra high class customers that simply enslave her or kill her in a ritual.
 
-With the coming of neuroscience and it technology this game have envolved in something more terrifing because is always the same patron but repeated many times for the woman, so it produces more money never the less probably she doesn't commit suicide. 
-
-
-
-
-
-
+*I'll explain step by step how this game with the help of a lot of technology is the real plague of our democracy, and the cause of the right turning in the Europe of the XXI siegle.*
 
 
 
 ### External links
 
-- <https://en.wikipedia.org/wiki/Gaslighting>
-- <https://search.wikileaks.org/?q=mkultra>
-- <https://search.wikileaks.org/?query=&exact_phrase=mind+control&any_of=&exclude_words=&document_date_start=&document_date_end=&released_date_start=&released_date_end=&new_search=True&order_by=most_relevant#results>
-- <https://www.instagram.com/explore/tags/illuminati/>
-- <https://twitter.com/search?q=%23illuminati&src=typd>
-- <https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights>
-- <https://en.wikipedia.org/wiki/Brainwashing>
-- <https://en.wikipedia.org/wiki/Diogenes_syndrome>
-- <https://en.wikipedia.org/wiki/Compulsive_hoarding>
-- <https://en.wikipedia.org/wiki/Forced_prostitution>
-- <https://en.wikipedia.org/wiki/Sexual_slavery>
+![networking](/home/taglio/Pictures/1-intro_113_0.jpg)
+
+
+
+1. https://en.wikipedia.org/wiki/Indo-European_languages 
+2. https://en.wikipedia.org/wiki/Ancient_Greek
+3. https://en.wikipedia.org/wiki/Classical_Armenian
+4. <https://en.wikipedia.org/wiki/Harassment>
+5. <https://en.wikipedia.org/wiki/Stalking>
+6. https://www.urbandictionary.com/define.php?term=gang%20stalking
+7. <https://ca.wikipedia.org/wiki/Fer_llum_de_gas>
+8. <https://en.wikipedia.org/wiki/Gaslighting>
+9. <https://www.urbandictionary.com/define.php?term=targeted%20individual>
+10. <https://www.nationalgeographic.com/archaeology-and-history/magazine/2016/07-08/profile-adam-weishaupt-illuminati-secret-society/>
+11. https://www.instagram.com/explore/tags/illuminati/
+12. <https://twitter.com/search?q=%23illuminati&src=typd>
+13. <https://en.wikipedia.org/wiki/Organization#Pyramids_or_hierarchies>
+14. <https://en.wikipedia.org/wiki/Paramilitary>
+15. <https://en.wikipedia.org/wiki/Mercenary>
+16. <https://en.wikipedia.org/wiki/Gang_bang>
+17. https://en.wikipedia.org/wiki/Brainwashing
+18. <https://www.mindhacki.ng/content/>
+19. <https://en.wikipedia.org/wiki/Major_depressive_disorder>
+20. https://en.wikipedia.org/wiki/Diogenes_syndrome
+21. https://en.wikipedia.org/wiki/Compulsive_hoarding
+22. https://en.wikipedia.org/wiki/Suicide
+23. https://en.wikipedia.org/wiki/Heroin
+24. https://en.wikipedia.org/wiki/Crack_cocaine
+25. https://en.wikipedia.org/wiki/Terrorism
+26. <https://en.wikipedia.org/wiki/Sexual_harassment>
+27. <https://en.wikipedia.org/wiki/Human_Traffic>
+28. https://en.wikipedia.org/wiki/Forced_prostitution
