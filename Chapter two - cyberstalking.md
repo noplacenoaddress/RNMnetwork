@@ -2,21 +2,21 @@
 
 
 
-![](/home/taglio/Work/The%20true%20about%20gangstalking/Cyberstalking.jpg)
+![Cyberstalking](/home/taglio/Work/The%20true%20about%20gangstalking/Cyberstalking.jpg)
 
 
 
-In the last twenty years, gangstalking has evolved and it has evolved very rapidly using IT technology and telecomunications, touching what is knowed as **cyberstalking** or **cyber gangstalking**. Normally in a gangstalking crew there's a lot of **hackers**, **crackers** and **amateur radio** telecomunications experts, like **satellite**, **ELF**, **ULF**, **DC over wireless**, **HF**, **VHF** and **UHF**. 
+In the last twenty years, gangstalking has evolved and it has evolved very rapidly using IT technology and telecomunications, touching what is knowed as **cyberstalking** [[1]](https://en.wikipedia.org/wiki/Cyberstalking) or **cyber gangstalking**. Normally in a gangstalking crew there's a lot of **hackers** [[2]](https://en.wikipedia.org/wiki/Hacker), **crackers** [[3]](http://www.catb.org/jargon/html/C/cracker.html) and **ham radio** [[4]](https://en.wikipedia.org/wiki/Amateur_radio) telecomunications experts, like **satellite** [[5]](https://en.wikipedia.org/wiki/Satellite), **ELF** [[6]](https://en.wikipedia.org/wiki/Extremely_low_frequency), **ULF** [[7]](https://en.wikipedia.org/wiki/Ultra_low_frequency), **WPT** [[8]](https://en.wikipedia.org/wiki/Wireless_power_transfer), **HF** [[9]](https://en.wikipedia.org/wiki/High_frequency), **VHF** [[10]](https://en.wikipedia.org/wiki/Very_high_frequency) and **UHF** [[11]](https://en.wikipedia.org/wiki/Ultra_high_frequency). 
 
-**Neuroscience** is another gangstalking IT branch. With the grow up of **BCI**, brain computer interfaces, and the fall down of the price of them with **Arduino** and other **open hardware** solutions, neuroscience is now low cost. 
+**Neuroscience** is another gangstalking IT branch. With the grow up of **BCI** [[12]](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), and the fall down of the price of them with **Arduino** [[13]](https://en.wikipedia.org/wiki/Arduino) and other **open hardware** [[14]](https://en.wikipedia.org/wiki/Open-source_hardware) solutions, **neuroscience** [[15]](https://en.wikipedia.org/wiki/Neuroscience) is now low cost. 
 
-What in the cold war was patented by US researcher with various acronym like **V2K**, voice to skull or **syntethic telepathy**, **MKULTRA**, knowed also as CIA mind control program, **TMS**, **transcranial magnetic stimulation** and **digital hypnosis**, could be [found on the internet](https://drive.google.com/drive/folders/1dYyHmF7aN5sX1TrxHWfHHZgEY1fNxKxf?usp=sharing) and it is actively used by gangstalker hackers. Also in wikileaks we can found some information more about those technologies. 
+What in the **cold war** [[16]](https://en.wikipedia.org/wiki/Cold_War) was patented by US researcher with various acronym like **V2K** knowed also as "voice to skull" [[17]](https://sites.google.com/site/targetedindividuals101/home/v2k) or "infrasound" [[18]](https://en.wikipedia.org/wiki/Infrasound), **MKULTRA** [[19]](https://en.wikipedia.org/wiki/Project_MKUltra), knowed also as CIA mind control program, **TMS** [[20]](https://en.wikipedia.org/wiki/Transcranial_random_noise_stimulation), transcranial magnetic stimulation also in remote, and **NLP** [[21]](https://en.wikipedia.org/wiki/Neuro-linguistic_programming), neuro-linguistic programming (see also methods [[22]](https://en.wikipedia.org/wiki/Methods_of_neuro-linguistic_programming)) synthetic hypnosis , could be found in my personal repository [[23]](https://drive.google.com/drive/folders/1p_ZjYQu33qaeZTE89Ae48biWiBG9EPcK) and it is actively used by gangstalker and hackers. Also in wikileaks we can found some information more about those technologies. 
 
-But is gangstalkers connected to the US secret services and goverments? No, probably not. It's very common that they are using the public patents and leaks from [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange) team to build the **synthetic telepathy** network.
+But is gangstalkers connected to the US secret services and goverments? No, probably not. It's very common that they are using the public patents and leaks from Julian Assange [[24]](https://en.wikipedia.org/wiki/Julian_Assange) team to build the synthetic telepathy network.
 
 
 
-![](/home/taglio/Pictures/D-3AgjKX4AE3QX2.jpg)
+![Synthetic Telepathy](/home/taglio/Pictures/D-3AgjKX4AE3QX2.jpg)
 
 
 
@@ -33,3 +33,36 @@ Is gangstalking and gaslighting only related to drug debt or another kind of deb
 - article 4: no one shall be held in slavery or servitude: slavery and the slave trade shall be prohibited in all their forms.
     - 
 
+1. https://en.wikipedia.org/wiki/Cyberstalking
+2. <https://en.wikipedia.org/wiki/Hacker>
+3. <http://www.catb.org/jargon/html/C/cracker.html>
+4. https://en.wikipedia.org/wiki/Amateur_radio
+5. <https://en.wikipedia.org/wiki/Satellite>
+6. <https://en.wikipedia.org/wiki/Extremely_low_frequency>
+7. <https://en.wikipedia.org/wiki/Ultra_low_frequency>
+8. https://en.wikipedia.org/wiki/Wireless_power_transfer
+9. https://en.wikipedia.org/wiki/High_frequency
+10. https://en.wikipedia.org/wiki/Very_high_frequency
+11. https://en.wikipedia.org/wiki/Ultra_high_frequency
+12. <https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface>
+13. <https://en.wikipedia.org/wiki/Arduino>
+14. <https://en.wikipedia.org/wiki/Open-source_hardware>
+15. <https://en.wikipedia.org/wiki/Neuroscience>
+16. <https://en.wikipedia.org/wiki/Cold_War>
+17. <https://sites.google.com/site/targetedindividuals101/home/v2k>
+18. <https://en.wikipedia.org/wiki/Infrasound>
+19. <https://en.wikipedia.org/wiki/Project_MKUltra>
+20. <<https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation>
+21. <https://en.wikipedia.org/wiki/Neuro-linguistic_programming>
+22. <https://en.wikipedia.org/wiki/Methods_of_neuro-linguistic_programming>
+23. <https://drive.google.com/drive/folders/1p_ZjYQu33qaeZTE89Ae48biWiBG9EPcK>
+24. https://en.wikipedia.org/wiki/Julian_Assange
+25. <https://search.wikileaks.org/?query=&exact_phrase=mind+control&any_of=&exclude_words=&document_date_start=&document_date_end=&released_date_start=&released_date_end=&new_search=True&order_by=most_relevant#results>
+26. <>
+27. 
+28. <https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights>
+29. <https://en.wikipedia.org/wiki/Brainwashing>
+30. <>
+31. <>
+32. <>
+33. <https://en.wikipedia.org/wiki/Sexual_slavery
