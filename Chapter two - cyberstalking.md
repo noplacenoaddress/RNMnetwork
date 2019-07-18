@@ -20,7 +20,7 @@ But is gangstalkers connected to the US secret services and goverments? No, prob
 
 
 
-![Synthetic Telepathy](/home/taglio/Pictures/D-3AgjKX4AE3QX2.jpg)
+![Synthetic Telepathy](/home/taglio/Pictures/redtelepatia.jpg)
 
 
 
@@ -28,8 +28,9 @@ Let's analyse device by device what is the synthetic telepathy network that is c
 
 The synthetic telepathy network is described in real world by methaphores, or what is called nowadays as memes in Internet. 
 
-- **Target:** For the gangstalkers and for the network administrator is a "M"achine. What does it mean? Simple; in gangstalking for example, but it's valid in a lot of services more that are implemented by network administrators, a family of militaries connected with the Italian Navy based on Genova, every machine has an identificator, an id to witch in a VPN virtual private network there's a correspondence with a control manage system with a lot of devices remote controllables by various iot or so on. A "M"achine, later i will explain teory and technology about this death device, could be shared by many clientes, usually humans but also animals.
+- **Target machine:** For the gangstalkers and for the network administrator is a "M"achine. What does it mean? Simple; in gangstalking for example, but it's valid in a lot of services more that are implemented by network administrators, a family of militaries connected with the Italian Navy based on Genova, every machine has an identificator, an id to witch in a VPN virtual private network there's a correspondence with a control manage system with a lot of devices remote controllables by various iot or so on. A "M"achine, later i will explain teory and technology about this death device, could be shared by many clientes, usually humans but also animals.
 - **Target in reality**: one or more persons that doesn't have access to the administration of his "M"achine, s/he loose totally her/his privacy and all the time passed without access is considered like a slave. Many times she/he is also considered only like an object, they use to do experiments with the person to archieve data under extreme stress, violent sex situations and brain experiments. The target individual is a human guinea pig.
+- **Machine in metaphore**: A mobile telephone, protected by a simple PIN of four numbers. It's security it's so basic because allow gangstalker to steal money of the target machine or another client that doesn't know about basic security. Money are always in crypto concurrencies.
 - **Target in metaphore**: Is a dog, gangstalkers consider a target individual with the same rights of an animal. They give her/him orders, deny to her/him every types of drets, electronically punish her/him and hit her/him. So did practically all the persons connected to this system because if they doesn't torture the victim they loose privilege in the network and return to the victim state that is the initial state when you forces to join this hell network. In Barcelona Spain i think that there are more than two hundred thousand clients connected.
 - Geosynchronous Satellite:
 
