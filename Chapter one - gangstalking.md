@@ -51,7 +51,7 @@ This "game" is reality is a recurrent pattern where a love is forcely broken and
 
 ### External links
 
-![networking](/home/taglio/Pictures/1-intro_113_0.jpg)
+![networking](1-intro_113_0.jpg)
 
 
 
