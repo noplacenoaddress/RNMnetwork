@@ -14,7 +14,7 @@ Gangstalking is the *B-side of the audiovisual industry*.
 
 What in the **cold war** [[16]](https://en.wikipedia.org/wiki/Cold_War) was patented by US researcher with various acronym like **V2K** knowed also as "voice to skull" [[17]](https://sites.google.com/site/targetedindividuals101/home/v2k) or "infrasound" [[18]](https://en.wikipedia.org/wiki/Infrasound), **MKULTRA** [[19]](https://en.wikipedia.org/wiki/Project_MKUltra), knowed also as CIA mind control program, **TMS** [[20]](https://en.wikipedia.org/wiki/Transcranial_random_noise_stimulation), transcranial magnetic stimulation also in remote, and **NLP** [[21]](https://en.wikipedia.org/wiki/Neuro-linguistic_programming), neuro-linguistic programming (see also methods [[22]](https://en.wikipedia.org/wiki/Methods_of_neuro-linguistic_programming)) synthetic hypnosis , could be found in my personal repository [[23]](https://drive.google.com/drive/folders/1p_ZjYQu33qaeZTE89Ae48biWiBG9EPcK) and it is actively used by gangstalker and hackers. Also in wikileaks we can found some information more about those technologies. 
 
-But is gangstalkers connected to the US secret services and goverments? No, probably not. It's very common that they are using the public patents and leaks from **Julian Assange** [[24]](https://en.wikipedia.org/wiki/Julian_Assange) team to build the synthetic telepathy network, nowadays an information technology evolution of a part of the radio television broadcast system.	
+But is gangstalkers connected to the US secret services and goverments? No, probably not. It's very common that they are using the public patents and leaks from **Julian Assange** [[24]](https://en.wikipedia.org/wiki/Julian_Assange) team to improve the synthetic telepathy network, nowadays an information technology evolution of a part of the radio television broadcast system.	
 
 
 
@@ -26,7 +26,7 @@ But is gangstalkers connected to the US secret services and goverments? No, prob
 
 
 
-Let's analyse device by device what is the synthetic telepathy network that is changing in my opinion all Europe and is determining a right turning in our goverments. It's very dangerous and probably it's the start of what i think it could be a **neo nazism** [[25]](https://en.wikipedia.org/wiki/Neo-Nazism) digital dictature and a start of a alpha stage of what we found in Internet named as **cyberwarfare** [[26]](https://en.wikipedia.org/wiki/Cyberwarfare).
+Let's analyse device by device what is the synthetic telepathy network, a telecomunication facility that is changing in my opinion all Europe and is determining a right turning in our goverments. It's very dangerous and probably it's the start of what i think it could be a **neo nazism** [[25]](https://en.wikipedia.org/wiki/Neo-Nazism) digital dictature and a start of a alpha stage of what we found in Internet named as **cyberwarfare** [[26]](https://en.wikipedia.org/wiki/Cyberwarfare).
 
 The synthetic telepathy network is described in real world by **methaphors** [[27],](https://en.wikipedia.org/wiki/Metaphor) or what is called nowadays as **Internet meme** [[28]](https://en.wikipedia.org/wiki/Metaphor). 
 
