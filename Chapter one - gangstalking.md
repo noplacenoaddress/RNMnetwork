@@ -1,6 +1,6 @@
 # The true about gangstalking
 
-## ![](/home/taglio/Pictures/luzdegas.jpg)
+## ![](luzdegas.jpg)
 
 **To stalk**, a verb with root in Protoindo European [[1]](https://en.wikipedia.org/wiki/Indo-European_languages ) languages, ancient Greek [[2]](https://en.wikipedia.org/wiki/Ancient_Greek>) and old Armenian [[3]](https://en.wikipedia.org/wiki/Classical_Armenian). Four  possible meanings of this verb:
 
