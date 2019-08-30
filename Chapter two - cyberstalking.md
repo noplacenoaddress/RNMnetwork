@@ -2,7 +2,7 @@
 
 
 
-![Cyberstalking](/home/taglio/Work/The%20true%20about%20gangstalking/Cyberstalking.jpg)
+![Cyberstalking](Cyberstalking.jpg)
 
 
 
@@ -22,7 +22,7 @@ But is gangstalkers connected to the US secret services and goverments? No, prob
 
 
 
-![Synthetic Telepathy](/home/taglio/Pictures/redtelepatia.jpg)
+![Synthetic Telepathy](redtelepatia.jpg)
 
 
 
