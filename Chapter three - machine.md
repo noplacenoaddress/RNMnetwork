@@ -1,0 +1,75 @@
+# The remote brainwaves machine
+
+![Bjork analogue televion](/home/taglio/Work/gangstalking/bjork-tv.png)
+
+In the last chapter we speak about the target machine, a virtual system under which many clients, conscious or not, are organized in a pyramid structure. But what is exactly the machine, or **M** [[1]](https://en.wikipedia.org/wiki/M_(James_Bond))? First of all there is practically no public document speaking about, so it's like a secret or something similar, many people know about it, someone can technically explain it, but no one write about. Why? I really don't know the real reason and i strongly believe in the **open source model** [[2]](https://en.wikipedia.org/wiki/Open-source_model) and i will try here to explain what I've understand about with some background and knowledge about computer science, telecommunication, neuroscience and ham radio. 
+
+In 1988 the Iceland artist **Björk Guðmundsdóttir** [[3]](https://en.wikipedia.org/wiki/Bj%C3%B6rk) speak about the **analog television** [[4]](https://en.wikipedia.org/wiki/Analog_television) with a fascinated voice  Here is part of her logic-defying monologue:
+
+*This beautiful television has put me, like I said before, in all sorts of situations.*
+
+*I remember being very scared because an Icelandic poet told me that not like in cinemas, where the thing that throws the picture from it just sends light on the screen, but this is different. This is millions and millions of little screens that send light, some sort of electric light, I'm not really sure.*
+
+*But because there are so many of them, and in fact you are watching very many things when you are watching TV. Your head is very busy all the time to calculate and put it all together into one picture.*
+
+*And then because you're so busy doing that, you don't watch very carefully what the program you are watching is really about. So you become hypnotized. So all that's on TV, it just goes directly into your brain and you stop judging it's right or not.*
+
+*You just swallow and swallow. This is what an Icelandic poet told me.*
+
+*And I became so scared to television that I always got headaches when I watched it. Then, later on, when I got my Danish book on television, I stopped being afraid because I read the truth, the scientifical truth and it was much better.*
+
+*You shouldn't let poets lie to you.*
+
+Image to have en front of yours eye a **cathode ray tube** [[5]](https://en.wikipedia.org/wiki/Cathode-ray_tube) that projects all the reality in our line of sight more some object like in an augmented reality system or completely rewrite all the world before us with a totally computer graphic ambient, something like interactive architectural visualization made by **unreal engine** [[6]](https://en.wikipedia.org/wiki/Unreal_Engine) **four** [[7]](https://www.unrealengine.com/en-US/); this is what they call as **immersion in virtual reality** [[8]](https://en.wikipedia.org/wiki/Immersion_(virtual_reality)) but without any hardware device. 
+
+Image to have surrounding your ears a special headphone that reproduce all the audio around you but add a voice chat, could duplicate on the fly the exact voice of a human or any type of sound or audio, could rewrite on the fly the voice of a person speaking with you and so on. Something that could emulate what is nowadays call **3D audio effect** [[9]](https://en.wikipedia.org/wiki/3D_audio_effect).
+
+Image also but not only to have all your **nervous system** [[10]](https://en.wikipedia.org/wiki/Nervous_system) and **muscles** [[11]](https://en.wikipedia.org/wiki/Muscle) connected by **acupuncture** [[12]](https://en.wikipedia.org/wiki/Acupuncture) and **electrodes** [[13]](https://en.wikipedia.org/wiki/Electrode) to a perfect human body reproduction external and internal. They can torture you without touching you but only reproducing the **pain** [[14]](https://en.wikipedia.org/wiki/Pain) remotely stimulating your **nerves** [[15]](https://en.wikipedia.org/wiki/Nerve) and your **brain** [[16]](https://en.wikipedia.org/wiki/Brain).
+
+Image also to have your brain divided in **Dyson spheres** [[17]](https://en.wikipedia.org/wiki/Dyson_sphere) each sphere act like a unix terminal **tty** [[18]](https://en.wikipedia.org/wiki/Tty_(unix)) providing to our brain what it can be described as real **human multitasking** [[19]](https://en.wikipedia.org/wiki/Human_multitasking). 
+
+This seems to be a science fiction film but it's true and it's up and running. It's what i can describe as the more powerful tool product by computer science applied to human being but if used with the only goal the archive more money than possible it's the nightmare of the democracy in our old but great **European Union** [[20]](https://en.wikipedia.org/wiki/European_Union); *world have to know*. 
+
+### The visual system read and MitM remote device
+
+![human visual system pathway](/home/taglio/Work/gangstalking/Comprehensive_List_of_Relevant_Pathways_for_the_Visual_System.png)
+
+
+
+The human visual system is composed by:
+
+- **Cornea** [[21]](https://en.wikipedia.org/wiki/Cornea) and **Lens** [[22]](https://en.wikipedia.org/wiki/Lens_(anatomy)): reflect light into a small image and shine it on the **retina** [[23]](https://en.wikipedia.org/wiki/Retina).
+- **Retina**: translate the image received by cornea and lens into electrical neural impulse to the brain to create **visual perception** [[24]](https://en.wikipedia.org/wiki/Visual_perception).
+- **Optic nerve** [[25]](https://en.wikipedia.org/wiki/Optic_nerve): a paired **cranial nerve** [[26]](https://en.wikipedia.org/wiki/Cranial_nerves) that transmit visual information from the retina to the brain.
+
+
+
+### External links
+
+1. https://en.wikipedia.org/wiki/M_(James_Bond)
+2. https://en.wikipedia.org/wiki/Open-source_model
+3. [https://en.wikipedia.org/wiki/Bj%C3%B6rk](https://en.wikipedia.org/wiki/Björk)
+4. https://en.wikipedia.org/wiki/Analog_television
+5. https://en.wikipedia.org/wiki/Cathode-ray_tube
+6. https://en.wikipedia.org/wiki/Unreal_Engine
+7. https://www.unrealengine.com/en-US/
+8. https://en.wikipedia.org/wiki/Immersion_(virtual_reality)
+9. https://en.wikipedia.org/wiki/3D_audio_effect
+10. https://en.wikipedia.org/wiki/Nervous_system
+11. https://en.wikipedia.org/wiki/Muscle
+12. https://en.wikipedia.org/wiki/Acupuncture
+13. https://en.wikipedia.org/wiki/Electrode
+14. https://en.wikipedia.org/wiki/Pain
+15. https://en.wikipedia.org/wiki/Nerve
+16. https://en.wikipedia.org/wiki/Brain
+17. https://en.wikipedia.org/wiki/Dyson_sphere
+18. https://en.wikipedia.org/wiki/Tty_(unix)
+19. https://en.wikipedia.org/wiki/Human_multitasking
+20. https://en.wikipedia.org/wiki/European_Union
+21. https://en.wikipedia.org/wiki/Cornea
+22. https://en.wikipedia.org/wiki/Lens_(anatomy)
+23. https://en.wikipedia.org/wiki/Retina
+24. https://en.wikipedia.org/wiki/Visual_perception
+25. https://en.wikipedia.org/wiki/Optic_nerve
+26. https://en.wikipedia.org/wiki/Cranial_nerves
+
