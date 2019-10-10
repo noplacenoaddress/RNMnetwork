@@ -1,6 +1,6 @@
 # The remote brainwaves machine
 
-![Bjork analogue televion](/home/taglio/Work/gangstalking/bjork-tv.png)
+![Bjork analogue televion](bjork-tv.png)
 
 In the last chapter we speak about the target machine, a virtual system under which many clients, conscious or not, are organized in a pyramid structure. But what is exactly the machine, or **M** [[1]](https://en.wikipedia.org/wiki/M_(James_Bond))? First of all there is practically no public document speaking about, so it's like a secret or something similar, many people know about it, someone can technically explain it, but no one write about. Why? I really don't know the real reason and i strongly believe in the **open source model** [[2]](https://en.wikipedia.org/wiki/Open-source_model) and i will try here to explain what I've understand about with some background and knowledge about computer science, telecommunication, neuroscience and ham radio. 
 
