@@ -68,7 +68,7 @@ Let's introduce every device of the network scheme above:
     - **Sensory control**: machines dedicated to the automatic control and regulation on all what append in the *feedback monitoring*  facility. Certainly dominated by machine intelligence, **machine learning** [[83]](https://en.wikipedia.org/wiki/Machine_learning) and **neural network** [[84]](https://en.wikipedia.org/wiki/Neural_network).
 - **Artificial Intelligence**: all in the synthetic telepathy network, or BRAINnet, is absolutely dominated by machine intelligence. I think that there isn't a big crew of administrators but there is a lot of excellent programmers. I've found connections with the **Neuralink** [[85]](https://en.wikipedia.org/wiki/Neuralink) project by **Elon Musk** [[86]](https://en.wikipedia.org/wiki/Neuralink) and what have said **Mark Zuckerberg** [[87]](https://en.wikipedia.org/wiki/Mark_Zuckerberg) at **F8 conference in 2017** [[88]](https://newsroom.fb.com/news/2017/04/f8-2017-day-1/).
 
-![Mark Zuckerberg at F8 conference in 2017](/home/taglio/Work/gangstalking/f8_mz_d.jpg)
+![Mark Zuckerberg at F8 conference in 2017](f8_mz_d.jpg)
 
 
 
