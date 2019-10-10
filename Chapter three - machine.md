@@ -32,7 +32,7 @@ This seems to be a science fiction film but it's true and it's up and running. I
 
 ### The visual system read and MitM remote device
 
-![human visual system pathway](/home/taglio/Work/gangstalking/Comprehensive_List_of_Relevant_Pathways_for_the_Visual_System.png)
+![human visual system pathway](Comprehensive_List_of_Relevant_Pathways_for_the_Visual_System.png)
 
 
 
