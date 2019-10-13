@@ -66,11 +66,13 @@ The human auditory system is composed by the **auditory system** [[38]](https://
 
 The auditory system is totally bypassed by the voice to skull technology. Voice to skull from the early seventy until now was classified as mental sickness. Voice to skull technology was patented on 27 October 1992 by United States Patent under the official name of **silent subliminal presentation system** [[40]](https://patents.google.com/patent/US5159703A/en). The system generate a single **sideband** [[41]](https://en.wikipedia.org/wiki/Sideband), **suppressed carrier** [[42]](https://en.wikipedia.org/wiki/Double-sideband_suppressed-carrier_transmission), **amplitude modulated (AM)** [[43]](https://en.wikipedia.org/wiki/Amplitude_modulation) signal with a channel width of 14.5 KHz, the frequency is 462.25 KHz. 
 
-With this frequency all the B-side, probably all over the world, is administrated. What is the **B-side** [[44]](https://en.wikipedia.org/wiki/B-Sides)? **The dark side of the moon** [[45]](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon)? The two faces of the same medal? It's simple, it is all what is concerned to what ever is connected to underground world, black market, illegal pornography, deep internet, crypt concurrency, unknown location club, human test, electronic weapons development, society illegal control and so on. All the people working on the shadow economy infrastructures and markets know it but no one speak about in a public network like Internet. 
+With this frequency all the B-side, probably all over the world, is administrated. What is the **B-side** [[44]](https://en.wikipedia.org/wiki/B-Sides)? **The dark side of the moon** [[45]](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon)? The two faces of the same medal? It's simple, it is all what is concerned to what ever is connected to the underground world, black market, illegal pornography, deep internet, crypt concurrency, unknown location club, human test, electronic weapons development, society illegal control, audiovisual and so on. All the people working on the shadow economy infrastructures and markets know it but no one speak about in a public network like Internet. 
 
 ![B-side Barcelona](b-side.png)
 
-So this network is known by also the governments but since i was tortured by probably electronic weapons development and since i'm under continuous control  by third parts i decide to speak about it, doing it in a open source way. 
+So this network is known by also the governments but *since i was tortured* by probably electronic weapons development and since i'm under continuous control  by third parts i decide to speak about it, doing it in an open source way. 
+
+But what is the MitM remote equipment that could rewrite on fly audio from every sources on our **auditory field** [[46]](http://www.cochlea.org/en/hear/human-auditory-range) ? This is very complex. And is for sure done with a receiver in the same frequency of the **frequency range of human hearing** [[47]](https://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml) and a transmitter that use the same patent, the **US5159703A**.
 
 
 
@@ -122,5 +124,7 @@ So this network is known by also the governments but since i was tortured by pro
 42. https://en.wikipedia.org/wiki/Double-sideband_suppressed-carrier_transmission
 43. https://en.wikipedia.org/wiki/Amplitude_modulation
 44. https://en.wikipedia.org/wiki/B-Side
-45. 
+45. https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon
+46. http://www.cochlea.org/en/hear/human-auditory-range
+47. https://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml
 
