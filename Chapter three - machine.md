@@ -74,6 +74,10 @@ So this network is known by also the governments but *since i was tortured* by p
 
 But what is the MitM remote equipment that could rewrite on fly audio from every sources on our **auditory field** [[46]](http://www.cochlea.org/en/hear/human-auditory-range) ? This is very complex. And is for sure done with a receiver in the same frequency of the **frequency range of human hearing** [[47]](https://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml) and a transmitter that use the same patent, the **US5159703A**.
 
+This supposed system could have this abstracted scheme:
+
+**Receiver** [20Hz to 20Khz] --> **Vocoder** [[48]](https://en.wikipedia.org/wiki/Vocoder) (**speech** [[49]](https://en.wikipedia.org/wiki/Speech) to bit) --> **Operating system** [[50]](https://en.wikipedia.org/wiki/Operating_system) --> Vocoder (bit to speech) --> **Transmitter** [462.25 KHz] [[51]](https://en.wikipedia.org/wiki/Transmitter)
+
 
 
  
@@ -127,4 +131,8 @@ But what is the MitM remote equipment that could rewrite on fly audio from every
 45. https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon
 46. http://www.cochlea.org/en/hear/human-auditory-range
 47. https://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml
+48. https://en.wikipedia.org/wiki/Vocoder
+49. https://en.wikipedia.org/wiki/Speech
+50. https://en.wikipedia.org/wiki/Operating_system
+51. https://en.wikipedia.org/wiki/Transmitter
 
