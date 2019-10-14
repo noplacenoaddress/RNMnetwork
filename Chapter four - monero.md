@@ -14,9 +14,23 @@ But it's possible to simply go to a cash dispenser and get euro? Yes it is.
 
 ![](/home/taglio/Pictures/btcpoint_bitcoin_atm_c828d19c75.jpg)
 
-Remember that to get cash from this **ATM** [[4]](https://en.wikipedia.org/wiki/Automated_teller_machine) normally you have to change XMP to LTC, then use a bitcoin debit card and go to the machine to get normal currency money. So people beside this system, people who work in the synthetic telepathy network gain money in various different ways, doing what is called normally an *articulated economic fraud*:
+Remember that to get cash from this bitcoin **ATM** [[4]](https://en.wikipedia.org/wiki/Automated_teller_machine) normally you have to change **XMR** [[5]](https://www.coinbase.com/price/monero?locale=en) to **LTC** [[6]](https://www.coinbase.com/price/litecoin?locale=en), then go to a local ATM as you can find in **coin ATM radar** [[7]](https://coinatmradar.com/). In Barcelona for example there's the network called **BitBase** [[8]](https://bitbase.es/) where you can sell also directly Monero. 
 
+Another method is to buy a debit bitcoin card that you can recharge on line from your wallet and then simply go to every type of classic currency ATM and got cash. Like **CyptoPay** [[9]](https://cryptopay.me/bitcoin-debit-card/#uk). Criminals use false identities and SIM card without identification to buy online those goods. And this is a fraud. 
 
+What those criminals can do in the same Monero circuit? I don't know but using a little bit of logic and remembering that we're speaking about B-side it's very simple:
+
+- Drug market buy and sell.
+- Black market buy and sell.
+- Human traffic.
+- Forced prostitution.
+- All kind of illegal good buy and sell.
+- Illegal apartment rent.
+- Credit card fraud.
+- Cracker services rent.
+- Corruption. 
+
+This is only a little window over this terrorist and criminal network. We'll go deeper in the next chapters.
 
 
 
@@ -26,4 +40,9 @@ Remember that to get cash from this **ATM** [[4]](https://en.wikipedia.org/wiki/
 2. https://en.wikipedia.org/wiki/Blockchain
 3. https://en.wikipedia.org/wiki/Monero_(cryptocurrency)
 4. https://en.wikipedia.org/wiki/Automated_teller_machine
+5. https://www.coinbase.com/price/monero?locale=en
+6. https://www.coinbase.com/price/litecoin?locale=en
+7. https://coinatmradar.com/
+8. https://bitbase.es/
+9. https://cryptopay.me/bitcoin-debit-card/#uk
 
