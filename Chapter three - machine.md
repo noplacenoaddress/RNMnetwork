@@ -93,7 +93,7 @@ Do you know the project **OpenBCI** [[53]](https://en.wikipedia.org/wiki/OpenBCI
 
 Do you know that Facebook **has adquired** [[58]](https://www.theverge.com/2019/9/23/20881032/facebook-ctrl-labs-acquisition-neural-interface-armband-ar-vr-deal) **CTRL-Labs** [[59]](https://www.ctrl-labs.com/) that produce an **neural control interface NCI** [[60]](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), a wristband to control machine with muscles on a arm?
 
-![CTRL-labs Facebook wristband](/home/taglio/Work/gangstalking/CTRL-labs.jpeg)
+![CTRL-labs Facebook wristband](CTRL-labs.jpeg)
 
 Imagine those devices acting in remote without any physical brain implant or device on the victim or the client of the synthetic telepathy network, this is exactly what is the "Machine". This is an extremely powerful device that used in a bad way could start what it can me named as a pseudo dictatorship. A digital mafia. Owning rapidly black market and clear economy and politics. This is what it is passing just now, nowadays, at this moment in our country, Europe. This is not a joke. This is what we're leaving now and no one speak about it. **Brexit** [[61]](https://en.wikipedia.org/wiki/Brexit)? This is probably what it start it. 
 
