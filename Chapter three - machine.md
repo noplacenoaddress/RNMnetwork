@@ -1,4 +1,4 @@
-# The remote brainwaves machine
+# The Machine
 
 ![Bjork analogue televion](bjork-tv.png)
 
@@ -76,7 +76,20 @@ But what is the MitM remote equipment that could rewrite on fly audio from every
 
 This supposed system could have this abstracted scheme:
 
-**Receiver** [20Hz to 20Khz] --> **Vocoder** [[48]](https://en.wikipedia.org/wiki/Vocoder) (**speech** [[49]](https://en.wikipedia.org/wiki/Speech) to bit) --> **Operating system** [[50]](https://en.wikipedia.org/wiki/Operating_system) --> Vocoder (bit to speech) --> **Transmitter** [462.25 KHz] [[51]](https://en.wikipedia.org/wiki/Transmitter)
+**Receiver** [20Hz to 20Khz] [[48]](https://en.wikipedia.org/wiki/Radio_receiver) --> **Vocoder** [[49]](https://en.wikipedia.org/wiki/Vocoder) (**speech** [[50]](https://en.wikipedia.org/wiki/Speech) to bit) --> **Operating system** [[51]](https://en.wikipedia.org/wiki/Operating_system) --> Vocoder (bit to speech) --> **Transmitter** [462.25 KHz] [[52]](https://en.wikipedia.org/wiki/Transmitter)
+
+What can be archived with this system?
+
+1. Automatic voice recognition.
+2. Automatic translation in what ever language; input and output.
+3. On the fly voice or sound rewrite.
+4. Sound effects and like augmented reality system.
+
+### The nervous system and muscle remote control
+
+Do you know the project **OpenBCI** [[53]](https://en.wikipedia.org/wiki/OpenBCI)? An **open hardware** [[54]](https://en.wikipedia.org/wiki/Open-source_hardware) project to amplify, read and processing **EEG** [[55]](https://en.wikipedia.org/wiki/Electroencephalography), **EMG** [[56]](https://en.wikipedia.org/wiki/Electromyography) and **EKG** [[57]](https://en.wikipedia.org/wiki/Electrocardiography).
+
+![OpenBCI](IMG_7586.jpg)
 
 
 
@@ -131,8 +144,15 @@ This supposed system could have this abstracted scheme:
 45. https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon
 46. http://www.cochlea.org/en/hear/human-auditory-range
 47. https://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml
-48. https://en.wikipedia.org/wiki/Vocoder
-49. https://en.wikipedia.org/wiki/Speech
-50. https://en.wikipedia.org/wiki/Operating_system
-51. https://en.wikipedia.org/wiki/Transmitter
+48. https://en.wikipedia.org/wiki/Radio_receiver
+49. https://en.wikipedia.org/wiki/Vocoder
+50. https://en.wikipedia.org/wiki/Speech
+51. https://en.wikipedia.org/wiki/Operating_system
+52. https://en.wikipedia.org/wiki/Transmitter
+53. https://en.wikipedia.org/wiki/OpenBCI
+54. https://en.wikipedia.org/wiki/Open-source_hardware
+55. https://en.wikipedia.org/wiki/Electroencephalography
+56. https://en.wikipedia.org/wiki/Electromyography
+57. https://en.wikipedia.org/wiki/Electrocardiography
+58. 
 
