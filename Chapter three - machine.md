@@ -95,7 +95,9 @@ Do you know that Facebook **has adquired** [[58]](https://www.theverge.com/2019/
 
 ![CTRL-labs Facebook wristband](CTRL-labs.jpeg)
 
-Imagine those devices acting in remote without any physical brain implant or device on the victim or the client of the synthetic telepathy network, this is exactly what is the "Machine". This is an extremely powerful device that used in a bad way could start what it can me named as a pseudo dictatorship. A digital mafia. Owning rapidly black market and clear economy and politics. This is what it is passing just now, nowadays, at this moment in our country, Europe. This is not a joke. This is what we're leaving now and no one speak about it. **Brexit** [[61]](https://en.wikipedia.org/wiki/Brexit)? This is probably what it start it. 
+Imagine those devices acting in remote without any physical brain implant or device on the victim or the client of the synthetic telepathy network, this is exactly what is the "Machine". This is an extremely powerful device that used in a bad way could start what it can me named as a pseudo dictatorship. A digital mafia. Owning rapidly black market and clear economy and politics. This is what it is passing just now, nowadays, at this moment in our country, Europe. This is not a joke. This is what we're leaving now and no one speak about it. **Brexit** [[61]](https://en.wikipedia.org/wiki/Brexit)? This is probably what it start it. It's possible that is acronym of "*brain exit*"?
+
+it the person **on this article** [[62]](https://www.guineapigzero.com/i-was-a-brain-slave.html) a schizophrenic? Absolutely not, but he doesn't know why he is a slave. Why does he speaks about UFO and stupidity like this? Because when human kind cannot explain a phenomenon use divinity, like our ancestor do with polytheism and monotheism. The real problem is that our politics, administrations and police doesn't know exactly what it is passing or they are totally corrupted by the Machine. How it is possible? We will see in the next chapter.
 
 ### External links
 
@@ -160,4 +162,5 @@ Imagine those devices acting in remote without any physical brain implant or dev
 59. https://www.ctrl-labs.com/
 60. https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
 61. https://en.wikipedia.org/wiki/Brexit
+62. https://www.guineapigzero.com/i-was-a-brain-slave.html
 
