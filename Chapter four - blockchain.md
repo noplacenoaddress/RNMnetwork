@@ -34,11 +34,11 @@ What those criminals can do in the same Monero circuit? I don't know but using a
 
 This is only a little window over this terrorist and criminal network. We'll go deeper in the next chapters.
 
-### The SAFE network blockchain 
+# The SAFE network blockchain 
 
 ![SAFE network blockchain](1200px-Safe_Water_Network_logo.svg.png)
 
-
+A blockchain model applied to networking **ISO/OSI** [[11]](https://en.wikipedia.org/wiki/OSI_model) stack. It replace the last fourth pile of the Internet model. Packets are replaced with data chunks mixed in various different locations without a fixed one, a central server. It's like the old style **p2p** [[12]](https://en.wikipedia.org/wiki/Peer-to-peer) but with new encryptions models that guarantee **privacy** [[13]](https://en.wikipedia.org/wiki/Privacy), **cryptography** [14], confidentiality, integrity, and availability.
 
 ### External Links
 
@@ -52,4 +52,8 @@ This is only a little window over this terrorist and criminal network. We'll go 
 8. https://bitbase.es/
 9. https://cryptopay.me/bitcoin-debit-card/#uk
 10. https://cryptwerk.com/pay-with/xmr/
+11. https://en.wikipedia.org/wiki/OSI_model
+12. https://en.wikipedia.org/wiki/Peer-to-peer
+13. https://en.wikipedia.org/wiki/Privacy
+14. https://en.wikipedia.org/wiki/Cryptography
 
