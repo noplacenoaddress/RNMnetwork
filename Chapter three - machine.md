@@ -66,6 +66,10 @@ The human auditory system is composed by the **auditory system** [[38]](https://
 
 The auditory system is totally bypassed by the voice to skull technology. Voice to skull from the early seventy until now was classified as mental sickness. Voice to skull technology was patented on 27 October 1992 by United States Patent under the official name of **silent subliminal presentation system** [[40]](https://patents.google.com/patent/US5159703A/en). The system generate a single **sideband** [[41]](https://en.wikipedia.org/wiki/Sideband), **suppressed carrier** [[42]](https://en.wikipedia.org/wiki/Double-sideband_suppressed-carrier_transmission), **amplitude modulated (AM)** [[43]](https://en.wikipedia.org/wiki/Amplitude_modulation) signal with a channel width of 14.5 KHz, the frequency is 462.25 KHz. 
 
+![Voice to skull in Catalunya](v2k.png)
+
+This is the *voice to skull service active in Catalunya*, Spain. As you can see the center frequency move in function of time. Nowadays it's certainly coded with a script in a SDR environment, but it's a technology from like thirty years ago. It is emitted from terrestrial radio equipment. This frequency is classified by **ITU** as **medium frequency** and normally use a **mast radiator** like antenna, with a single radio it can cover hundred of kilometers using **ground waves** and **ionosphere** reflection. 
+
 With this frequency all the B-side, probably all over the world, is administrated. What is the **B-side** [[44]](https://en.wikipedia.org/wiki/B-Sides)? **The dark side of the moon** [[45]](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon)? The two faces of the same medal? It's simple, it is all what is concerned to what ever is connected to the underground world, black market, illegal pornography, deep internet, crypt concurrency, unknown location club, human test, electronic weapons development, society illegal control, audiovisual and so on. All the people working on the shadow economy infrastructures and markets know it but no one speak about in a public network like Internet. 
 
 ![B-side Barcelona](b-side.png)
