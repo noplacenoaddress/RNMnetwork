@@ -6,6 +6,8 @@ For you my sun flower. For you Saray. For you my love.
 
 For you Lucia. For your future.
 
+For all the womans that have been violated in BRAINnet.
+
 #illuminati i will destroy U.
 
 Ricky.
