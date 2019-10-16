@@ -8,6 +8,8 @@ But they are used by the synthetic telepathy network owners to do crimes. Horrib
 
 Who are the new dictators, who is building this pseudo dictatorship, who is destroying our dreams of the late sixties? Always the same persons. The elite. Now the elite have semi owned the Internet, the most important invention in the last century and with the tech giants they are building the eye that all see. Something similar to the Egyptian gods, mysticism upon ignorance; in Internet and radio frequency but now also in the *decimal society* they call "Illuminati", an Internet **fraud**. The new mafia is the **digital mafia** and is international. 
 
+But why they are doing crimes like those? It's simple. To get profound and go ahead with technology. All of this is for always the same think. Like the cold war. Is for the arms race. The nowadays cold war have a name but no one speak about, **cyber warfare**. 
+
 *Those are my two cents.*   
 
 # The Monero crypt concurrency
