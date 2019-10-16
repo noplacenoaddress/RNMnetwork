@@ -1,8 +1,20 @@
+# Just my 2 cents
+
+First of all i wanna do with you, reader, a consideration. We've got analyzed the synthetic telepathy network and the radio waves Machine. Those two IT systems are to control, break our privacy laws, abuse persons, destroy souls, change our life. 
+
+Now i want to introduce to you technologies that are exactly on the opposite site. Those technologies are actively developed to do the exact in front work. Those peer to peer derived protocols are born to guarantee privacy and security to the end users. 
+
+But they are used by the synthetic telepathy network owners to do crimes. Horrible crimes like foment pedophilia or illegal pornography. But those are not the real crimes, though they are the most horrible of mankind. The ultimate end is despise the work of those programmers that work for freedom. *Freedom is the most important background of our democracy*.
+
+Who are the new dictators, who is building this pseudo dictatorship, who is destroying our dreams of the late sixties? Always the same persons. The elite. Now the elite have semi owned the Internet, the most important invention in the last century and with the tech giants they are building the eye that all see. Something similar to the Egyptian gods, mysticism upon ignorance; in Internet and radio frequency but now also in the *decimal society* they call "Illuminati", an Internet **fraud**. The new mafia is the **digital mafia** and is international. 
+
+*Those are my two cents.*   
+
 # The Monero crypt concurrency
 
 ![The Monero circuit](monero.png)
 
-**Monero** [[1]](https://www.getmonero.org/) is decentralized cryptocurrency, meaning it is secure digital cash  operated by a network of users. Transactions are confirmed by  distributed consensus and then immutably recorded on the **blockchain** [[2]](https://en.wikipedia.org/wiki/Blockchain).  Third-parties do not need to be trusted to keep your **Monero** [[3]](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) safe. Monero is *totally* untraceable. 
+**Monero** [[1]](https://www.getmonero.org/) is decentralized crypt currency, meaning it is secure digital cash  operated by a network of users. Transactions are confirmed by  distributed consensus and then immutably recorded on the **blockchain** [[2]](https://en.wikipedia.org/wiki/Blockchain).  Third-parties do not need to be trusted to keep your **Monero** [[3]](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) safe. Monero is *totally* untraceable. 
 
 Let's do some considerations before start with a deep dive into this network. First of all **M** is its logotype, simple is the concurrency of the Machine, what we start to explain in the last chapter. But does it can be converted into classical money? Yes for sure here it is the exchange graphic:
 
@@ -38,7 +50,7 @@ This is only a little window over this terrorist and criminal network. We'll go 
 
 ![SAFE network blockchain](1200px-Safe_Water_Network_logo.svg.png)
 
-A blockchain model applied to networking **ISO/OSI** [[11]](https://en.wikipedia.org/wiki/OSI_model) stack. It replace the last fourth pile of the Internet model. Packets are replaced with data chunks mixed in various different locations without a fixed one, a central server. It's like the old style **p2p** [[12]](https://en.wikipedia.org/wiki/Peer-to-peer) but with new encryptions models that guarantee **privacy** [[13]](https://en.wikipedia.org/wiki/Privacy), **cryptography** [14], confidentiality, integrity, and availability.
+A blockchain model applied to networking **ISO/OSI** [[11]](https://en.wikipedia.org/wiki/OSI_model) stack. It replace the last fourth pile of the Internet model. Packets are replaced with data chunks mixed in various different locations without a fixed one, a central server. It's like the old style **p2p** [[12]](https://en.wikipedia.org/wiki/Peer-to-peer) but with new encryptions models that guarantee **privacy** [[13]](https://en.wikipedia.org/wiki/Privacy), **cryptography** [[14]](https://en.wikipedia.org/wiki/Cryptography), confidentiality, integrity, and availability.
 
 ### External Links
 
