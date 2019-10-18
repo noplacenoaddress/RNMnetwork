@@ -11,3 +11,5 @@ For all the womans that have been violated in BRAINnet.
 #illuminati i will destroy U.
 
 Ricky.
+
+PS: my father call this "rete di controllo internazionale"
