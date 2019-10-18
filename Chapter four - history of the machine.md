@@ -1,4 +1,3 @@
 # The historic point of view
 
-![Benedetto Mussolini](Benitto_Mussolini_mugshot_1903.jpg)
-
+![Noble family tree](albero-genealogico.jpg)
