@@ -1,6 +1,21 @@
 # 	The synthetic telepathy network services
 
+The first question that we can do when we speak about a service is who is the type of client that search for all the services that are packaged in this network? Remember that all of those utilities are illegals; some of them are possible to be classified as terrorist in my opinion.
 
+- Businessman
+- Politicians
+- Market analysts
+- Mafia organizations
+- High-class scammers
+- High-class stalkers
+- Subversive groups
+- Extra European spies
+- Audiovisual industry
+- Military warfare industry
+- Big tech firm B-Side
+- Concert industry
+- 
+- 
 
 ### Gangstalking
 
@@ -71,9 +86,7 @@ What in the **cold war** [[44]](https://en.wikipedia.org/wiki/Cold_War) was pate
 
 But is gangstalkers connected to the US secret services and governments? No, probably not. It's very common that they are using the public patents and leaks from **Julian Assange** [[52]](https://en.wikipedia.org/wiki/Julian_Assange) team to improve the synthetic telepathy network, nowadays an information technology evolution of a part of the radio television broadcast system.	
 
-
-
-
+### 
 
 ### External links
 
