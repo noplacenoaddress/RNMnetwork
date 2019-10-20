@@ -14,6 +14,8 @@ The first question that we can do when we speak about a service is who is the ty
 - Military warfare industry
 - Big tech firm B-Side
 - Concert industry
+- 
+- 
 
 ### Gangstalking
 
@@ -23,11 +25,11 @@ The first question that we can do when we speak about a service is who is the ty
 >
 > *Type of service: probably 365 days duration with possibility of renew the contract.*
 >
-> *Price of service: unknown.*
+> *Price of service: unknown, but in radio frequency they speak about 3 millions Monero for year of service*.
 >
 > *Target: one or more human victims.*
 >
-> *Source of income: contract, sale of victims various type of data, plot for film and/or series productions, video on demand amateur pornography, forced prostitution, human traffic.*
+> *Source of income: contract, sale of victims various type of data, plot for film and/or series productions, video on demand illegal amateur pornography, forced prostitution, human traffic.*
 
 **To stalk**, a verb with root in Protoindo European [[1]](https://en.wikipedia.org/wiki/Indo-European_languages ) languages, ancient Greek [[2]](https://en.wikipedia.org/wiki/Ancient_Greek>) and old Armenian [[3]](https://en.wikipedia.org/wiki/Classical_Armenian). Four  possible meanings of this verb:
 
@@ -85,8 +87,6 @@ This "game" is reality is a recurrent pattern where a love is forcedly broken an
 
 
 In the last twenty years, gangstalking has evolved and it has evolved very rapidly using IT technology and telecommunications, touching what is known as **cyberstalking** [[29]](https://en.wikipedia.org/wiki/Cyberstalking) or **cyber gangstalking**. Normally in a gangstalking crew there's a lot of **hackers** [[30]](https://en.wikipedia.org/wiki/Hacker), **crackers** [[31]](http://www.catb.org/jargon/html/C/cracker.html) and **ham radio** [[32]](https://en.wikipedia.org/wiki/Amateur_radio) telecommunications experts, like **satellite** [33](https://en.wikipedia.org/wiki/Satellite), **ELF** [[34]](https://en.wikipedia.org/wiki/Extremely_low_frequency), **ULF** [[35]](https://en.wikipedia.org/wiki/Ultra_low_frequency), **WPT** [36](https://en.wikipedia.org/wiki/Wireless_power_transfer), **HF** [37], **VHF** [[38]](https://en.wikipedia.org/wiki/Very_high_frequency) and **UHF** [[39]](https://en.wikipedia.org/wiki/Ultra_high_frequency). 
-
-Gangstalking is the *B-side of the audiovisual industry*.
 
 **Neuroscience** is another gangstalking IT branch. With the grow up of **BCI** [[40]](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), and the fall down of the price of them with **Arduino** [[41]](https://en.wikipedia.org/wiki/Arduino) and other **open hardware** [[42]](https://en.wikipedia.org/wiki/Open-source_hardware) solutions, **neuroscience** [[43]](https://en.wikipedia.org/wiki/Neuroscience) is now low cost. 
 

@@ -6,9 +6,9 @@ Low class drug sellers
 
 Induced prostitutes
 
+Human movie camera 
+
 Corruption
-
-
 
 Virtual casino
 
