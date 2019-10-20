@@ -21,6 +21,16 @@ The first question that we can do when we speak about a service is who is the ty
 
 ## ![](luzdegas.jpg)
 
+> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups.*
+>
+> *Type of service: probably 365 days duration with possibility of renew the contract.*
+>
+> *Price of service: unknown.*
+>
+> *Target: one or more human victims.*
+>
+> *Source of income: contract, sale of victims various type of data, plot for film and/or series productions, video on demand amateur pornography, forced prostitution, human traffic.*
+
 **To stalk**, a verb with root in Protoindo European [[1]](https://en.wikipedia.org/wiki/Indo-European_languages ) languages, ancient Greek [[2]](https://en.wikipedia.org/wiki/Ancient_Greek>) and old Armenian [[3]](https://en.wikipedia.org/wiki/Classical_Armenian). Four  possible meanings of this verb:
 
 1. To approach slowly and quietly in order not to be discovered when getting closer.
