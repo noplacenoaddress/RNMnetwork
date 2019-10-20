@@ -14,7 +14,8 @@ The first question that we can do when we speak about a service is who is the ty
 - Military warfare industry
 - Big tech firm B-Side
 - Concert industry
-
+- 
+- 
 
 # Gangstalking
 
@@ -109,7 +110,7 @@ But is gangstalkers connected to the US secret services and governments? No, pro
 >
 > *Source of income: contract, sold of all the conversations to opposites, police and governments.*
 
-
+Telecommunications for inmates is another service bind by the synthetic  telepathy network. Radio wave at low frequency like is voice to skull  obtained by the applications of the patent US5159703A (462.25Khz) can  bypass all kind of material utilized in construction. It's an analog but clientless semi secure telecommunication system.
 
 ### External links
 
