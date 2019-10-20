@@ -14,8 +14,6 @@ The first question that we can do when we speak about a service is who is the ty
 - Military warfare industry
 - Big tech firm B-Side
 - Concert industry
-- 
-- 
 
 ### Gangstalking
 
