@@ -14,12 +14,14 @@ The first question that we can do when we speak about a service is who is the ty
 - Military warfare industry
 - Big tech firm B-Side
 - Concert industry
+- 
+- 
 
-### Gangstalking
+# Gangstalking
 
 ## ![](luzdegas.jpg)
 
-> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups.*
+> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, High-class stalkers.*
 >
 > *Type of service: probably 365 days duration with possibility of renew the contract.*
 >
@@ -92,7 +94,23 @@ What in the **cold war** [[44]](https://en.wikipedia.org/wiki/Cold_War) was pate
 
 But is gangstalkers connected to the US secret services and governments? No, probably not. It's very common that they are using the public patents and leaks from **Julian Assange** [[52]](https://en.wikipedia.org/wiki/Julian_Assange) team to improve the synthetic telepathy network, nowadays an information technology evolution of a part of the radio television broadcast system.	
 
-### 
+# Telecommunications for inmates
+
+![radio signals see through walls](4D41F26E00000578-5838529-image-a-2_1529053047445.jpg)
+
+
+
+> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, Extra European spies.*
+>
+> *Type of service: probably for month service like a normal provider.*
+>
+> *Price of service: unknown.*
+>
+> *Target: in reality the same contractor because all the conversations are registered!*
+>
+> *Source of income: contract, sold of all the conversations to opposites, police and governments.*
+
+
 
 ### External links
 
