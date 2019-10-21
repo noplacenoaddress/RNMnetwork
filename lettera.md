@@ -2,7 +2,7 @@
 
 Da circa trent'anni non vedo Francesca personalmente e purtroppo da cinque sono vittima di un crimine orribile perpetuato per parte di sua figlia, che ahimè a mio avviso è diventata una pericolosa criminale, le chiedo scusa anticipatamente per la parola tanto dura quanto veritiera.
 
-Mi ha inserito senza mio previo consentimento in una rete che io definisco di "telepatia sintetica" con il fine di indurmi al suicidio. Ho perso la mia ditta, un ISP con circa 3500 clienti, la mia fidanzata, la signorina Saray Linares Hervas, una casa e tutti i miei averi. Sono finito per strada, in galera e pure in manicomio essendo io un ragazzo lavoratore, legale e affezionato al proprio circolo di amicizia.
+Mi ha inserito senza mio previo consentimento in una rete che io definisco di "telepatia sintetica" con il fine di indurmi al suicidio. Ho perso la mia ditta, un ISP con circa 3500 clienti, la mia fidanzata, la signorina Saray, una casa e tutti i miei averi. Sono finito per strada, in galera e pure in manicomio essendo io un ragazzo lavoratore, legale e affezionato al proprio circolo di amicizia.
 
 Le mando in lingua spagnola circa 300 pagine di relato sopra quello che mi è successo e altre 50 circa in lingua inglese circa un'analisi più fredda e distaccata sopra la rete che sua figlia assieme a un gruppo di gente abbiente Genovese ha montato circa dieci anni fà. 
 
