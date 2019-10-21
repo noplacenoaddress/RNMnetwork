@@ -120,15 +120,15 @@ Why i explain this in this section? It's obvious. Who contract this clientless s
 
 ![Coworking](cowork.jpeg)
 
-> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, Extra European spies.*
+> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, Audiovisual industry, Big tech firm B-Side, Hackers crew*.
 >
-> *Type of service: probably for month service like a normal provider.*
+> *Type of service: probably for month service.*
 >
 > *Price of service: unknown.*
 >
-> *Target: in reality the same contractor because all the conversations are registered!*
+> *Target: in reality the same contractor because all the ambient is registered!*
 >
-> *Source of income: contract, sold of all the conversations to opposites, police and governments.*
+> *Source of income: contract, sold of all informations to opponent, police and governments.*
 
 
 
