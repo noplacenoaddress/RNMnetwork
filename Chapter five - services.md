@@ -5,7 +5,7 @@ The first question that we can do when we speak about a service is who is the ty
 - Businessman
 - Politicians
 - Market analysts
-- Mafia organizations
+
 - High-class scammers
 - High-class stalkers
 - Subversive groups
@@ -14,14 +14,12 @@ The first question that we can do when we speak about a service is who is the ty
 - Military warfare industry
 - Big tech firm B-Side
 - Hackers crew
-- 
-- 
 
 # Gangstalking
 
 ## ![](luzdegas.jpg)
 
-> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, High-class stalkers.*
+> *Clients: Businessman, Politicians, Subversive groups, High-class stalkers.*
 >
 > *Type of service: probably 365 days duration with possibility of renew the contract.*
 >
@@ -100,7 +98,7 @@ But is gangstalkers connected to the US secret services and governments? No, pro
 
 
 
-> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, Extra European spies.*
+> *Clients: Businessman, Politicians, Subversive groups, Extra European spies.*
 >
 > *Type of service: probably for month service like a normal provider.*
 >
@@ -120,7 +118,7 @@ Why i explain this in this section? It's obvious. Who contract this clientless s
 
 ![Coworking](cowork.jpeg)
 
-> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, Audiovisual industry, Big tech firm B-Side, Hackers crew*.
+> *Clients: Businessman, Politicians, Subversive groups, Audiovisual industry, Big tech firm B-Side, Hackers crew*.
 >
 > *Type of service: probably for month service.*
 >
