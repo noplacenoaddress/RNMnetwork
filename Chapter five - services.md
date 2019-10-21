@@ -13,7 +13,7 @@ The first question that we can do when we speak about a service is who is the ty
 - Audiovisual industry
 - Military warfare industry
 - Big tech firm B-Side
-- Concert industry
+- Hackers crew
 - 
 - 
 
@@ -115,6 +115,22 @@ Telecommunications for inmates is another service bind by the synthetic  telepat
 With radio waves as you can see in the image above it's possible to obtain also remote imaging. It's from a **MIT** [[53]](http://www.mit.edu/) research and it's called **RF Pose** [[54]](http://rfpose.csail.mit.edu/). But it's also possible to obtain 3D **skeletons** [[55]](https://en.wikipedia.org/wiki/Skeleton) models always through walls with something called **RF-Pose3D** [[56]](http://rfpose3d.csail.mit.edu/). But it's also possible to remote reading learning **sleep stages** [[57]](https://es.wikipedia.org/wiki/Arquitectura_del_sue%C3%B1o) from radio signals with something called **RF-Sleep** [[58]](http://sleep.csail.mit.edu/) and at least but not last we've got **EQ-Radio** [[59]](http://eqradio.csail.mit.edu/) that is a remote emotion recognition. 
 
 Why i explain this in this section? It's obvious. Who contract this clientless service in reality he's also a victim. Because of all the technologies that i've explained above. With this awesome technology the owners of the network can know passions of the victims and seeing this in a criminal way it is possible to obtain ways to coerce victims. Reflect.
+
+# Semi physic remote desktop environment
+
+![Coworking](cowork.jpeg)
+
+> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, Extra European spies.*
+>
+> *Type of service: probably for month service like a normal provider.*
+>
+> *Price of service: unknown.*
+>
+> *Target: in reality the same contractor because all the conversations are registered!*
+>
+> *Source of income: contract, sold of all the conversations to opposites, police and governments.*
+
+
 
 
 
