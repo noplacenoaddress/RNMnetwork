@@ -116,7 +116,7 @@ Why i explain this in this section? It's obvious. Who contract this clientless s
 
 # Semi physic remote desktop environment
 
-![Coworking](/home/taglio/Work/gangstalking/cowork.jpeg)
+![Islamic Terrorism](p8-ponnuru-a-20151125.jpg)
 
 > *Clients: Businessman, Politicians, Criminal organizations, Subversive groups, Audiovisual industry, Big tech firm B-Side.*
 >
@@ -128,7 +128,9 @@ Why i explain this in this section? It's obvious. Who contract this clientless s
 >
 > *Source of income: contract, sold of all the conversations to opposites, police and governments.*
 
-With the use of brain waves joint together with voice to skull service clients of this criminal network can work in physic remote site only with their brain. This is a very interesting technology because a person can work 
+With the use of brain waves joint together with voice to skull service, clients of this criminal network can work in physic remote site only with their brain. This is a very interesting technology because a person can work physically like a waiter for example and, using what we have refer in another chapter like human multi tasking, do a parallel job. This is a very productive feature but as usual if it's used by bad guys it could determine the grow up of undetectable terrorism. Why i use this important word? It's simple. Think about an hacker crew like the phenomenon that we see in **Al Qaeda** [[60]](https://en.wikipedia.org/wiki/Al-Qaeda) or other mercenary crew working for **Islamic Terrorism** [[61]](https://en.wikipedia.org/wiki/Islamic_terrorism). With this feature they can work using information technology without that any secret service or military police can detect it. 
+
+This is absolutely criminal if sold to the wrong customer. Who is controlling this network? Is police able to stop the grow up of the "Illuminati" pseudo dictatorship? I cannot find information about the synthetic telepathy network and i'm a victim of. I was electronically tortured for two years and i decide to write about all what i've understood in those hell years. Someone have to stop this. Just now. I think that is responsible of the birth of the new **populist movements** [[62]](https://en.wikipedia.org/wiki/Populism) in Europe, extreme right movements, grow up of Neo-Nazism [[63]](https://en.wikipedia.org/wiki/Neo-Nazism) and so on. *This is not a joke.*  
 
 ### External links
 
@@ -253,6 +255,14 @@ With the use of brain waves joint together with voice to skull service clients o
 58. http://sleep.csail.mit.edu/
 
 59. http://eqradio.csail.mit.edu/
+
+60. https://en.wikipedia.org/wiki/Al-Qaeda
+
+61. https://en.wikipedia.org/wiki/Islamic_terrorism
+
+62. https://en.wikipedia.org/wiki/Populism
+
+63. https://en.wikipedia.org/wiki/Neo-Nazism
 
     
 
