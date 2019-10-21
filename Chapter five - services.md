@@ -5,7 +5,7 @@ The first question that we can do when we speak about a service is who is the ty
 - Businessman
 - Politicians
 - Market analysts
-- Mafia organizations
+- Criminal organizations
 - High-class scammers
 - High-class stalkers
 - Subversive groups
@@ -19,7 +19,7 @@ The first question that we can do when we speak about a service is who is the ty
 
 ## ![](luzdegas.jpg)
 
-> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, High-class stalkers.*
+> *Clients: Businessman, Politicians, Criminal organizations, Subversive groups, High-class stalkers.*
 >
 > *Type of service: probably 365 days duration with possibility of renew the contract.*
 >
@@ -98,7 +98,7 @@ But is gangstalkers connected to the US secret services and governments? No, pro
 
 
 
-> *Clients: Businessman, Politicians, Mafia organizations, Subversive groups, Extra European spies.*
+> *Clients: Businessman, Politicians, Criminal organizations, Subversive groups, Extra European spies.*
 >
 > *Type of service: probably for month service like a normal provider.*
 >
@@ -117,6 +117,18 @@ Why i explain this in this section? It's obvious. Who contract this clientless s
 # Semi physic remote desktop environment
 
 ![Coworking](/home/taglio/Work/gangstalking/cowork.jpeg)
+
+> *Clients: Businessman, Politicians, Criminal organizations, Subversive groups, Audiovisual industry, Big tech firm B-Side.*
+>
+> *Type of service: probably for month service like a normal provider.*
+>
+> *Price of service: unknown.*
+>
+> *Target: in reality the same contractor because all the environment is registered!*
+>
+> *Source of income: contract, sold of all the conversations to opposites, police and governments.*
+
+With the use of brain waves joint together with voice to skull service clients of this criminal network can work in physic remote site only with their brain. This is a very interesting technology because a person can work 
 
 ### External links
 
