@@ -14,7 +14,8 @@ The first question that we can do when we speak about a service is who is the ty
 - Military warfare industry
 - Big tech firm B-Side
 - Concert industry
-
+- 
+- 
 
 # Gangstalking
 
@@ -91,7 +92,7 @@ In the last twenty years, gangstalking has evolved and it has evolved very rapid
 
 What in the **cold war** [[44]](https://en.wikipedia.org/wiki/Cold_War) was patented by US researcher with various acronym like **V2K** known also as "voice to skull" [[45]](https://sites.google.com/site/targetedindividuals101/home/v2k) or "infrasound" [[46]](https://en.wikipedia.org/wiki/Infrasound), **MKULTRA** [[47]](https://en.wikipedia.org/wiki/Project_MKUltra), known also as CIA mind control program, **TMS** [[48]](https://en.wikipedia.org/wiki/Transcranial_random_noise_stimulation), transcranial magnetic stimulation also in remote, and **NLP** [[49]](https://en.wikipedia.org/wiki/Neuro-linguistic_programming), neuro-linguistic programming (see also methods [[50]](https://en.wikipedia.org/wiki/Methods_of_neuro-linguistic_programming)) synthetic hypnosis , could be found in my personal repository [[51]](https://drive.google.com/drive/folders/1p_ZjYQu33qaeZTE89Ae48biWiBG9EPcK) and it is actively used by gangstalker and hackers. Also in wikileaks we can found some information more about those technologies. 
 
-But is gangstalkers connected to the US secret services and governments? No, probably not. It's very common that they are using the public patents and leaks from **Julian Assange** [[52]](https://en.wikipedia.org/wiki/Julian_Assange) team to improve the synthetic telepathy network, nowadays an information technology evolution of a part of the radio television broadcast system.	
+But is gangstalkers connected to the US secret services and governments? No, probably not. It's very common that they are using the public patents and leaks from **Julian Assange** [[52]](https://en.wikipedia.org/wiki/Julian_Assange) team to improve the synthetic telepathy network, nowadays an information technology evolution of a part of the radio television broadcast system. 
 
 # Telecommunications for inmates
 
@@ -109,7 +110,13 @@ But is gangstalkers connected to the US secret services and governments? No, pro
 >
 > *Source of income: contract, sold of all the conversations to opposites, police and governments.*
 
-Telecommunications for inmates is another service bind by the synthetic  telepathy network. Radio wave at low frequency like is voice to skull  obtained by the applications of the patent US5159703A (462.25Khz) can  bypass all kind of material utilized in construction. It's an analog but clientless semi secure telecommunication system.
+Telecommunications for inmates is another service bind by the synthetic  telepathy network. Radio wave at low frequency like is voice to skull  obtained by the applications of the patent US5159703A (462.25 KHz) can  bypass all kind of material utilized in construction. It's an analog but clientless semi secure telecommunication system.
+
+With radio waves as you can see in the image above it's possible to obtain also remote imaging. It's from a **MIT** [[53]](http://www.mit.edu/) research and it's called **RF Pose** [[54]](http://rfpose.csail.mit.edu/). But it's also possible to obtain 3D **skeletons** [[55]](https://en.wikipedia.org/wiki/Skeleton) models always through walls with something called **RF-Pose3D** [[56]](http://rfpose3d.csail.mit.edu/). But it's also possible to remote reading learning **sleep stages** [[57]](https://es.wikipedia.org/wiki/Arquitectura_del_sue%C3%B1o) from radio signals with something called **RF-Sleep** [[58]](http://sleep.csail.mit.edu/) and at least but not last we've got **EQ-Radio** [[59]](http://eqradio.csail.mit.edu/) that is a remote emotion recognition. 
+
+Why i explain this in this section? It's obvious. Who contract this clientless service in reality he's also a victim. Because of all the technologies that i've explained above. With this awesome technology the owners of the network can know passions of the victims and seeing this in a criminal way it is possible to obtain ways to coerce victims. Reflect.
+
+
 
 ### External links
 
@@ -220,6 +227,20 @@ Telecommunications for inmates is another service bind by the synthetic  telepat
 51. https://drive.google.com/drive/folders/1p_ZjYQu33qaeZTE89Ae48biWiBG9EPcK
 
 52. https://en.wikipedia.org/wiki/Julian_Assange
+
+53. http://www.mit.edu/
+
+54. http://rfpose.csail.mit.edu/
+
+55. https://en.wikipedia.org/wiki/Skeleton
+
+56. http://rfpose3d.csail.mit.edu/
+
+57. https://es.wikipedia.org/wiki/Arquitectura_del_sue%C3%B1o
+
+58. http://sleep.csail.mit.edu/
+
+59. http://eqradio.csail.mit.edu/
 
     
 
