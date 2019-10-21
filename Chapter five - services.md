@@ -132,6 +132,18 @@ With the use of brain waves joint together with voice to skull service, clients 
 
 This is absolutely lawbreaker if sold to the wrong customer. Who is controlling this network? Is police able to stop the grow up of the "Illuminati" pseudo dictatorship? I cannot find information about the synthetic telepathy network and i'm a victim of. *I was electronically tortured for two years* and i decide to write about all what i've understood in those hell years. *Someone have to stop this. Just now.* I think that is responsible of the birth of the new **populist movements** [[62]](https://en.wikipedia.org/wiki/Populism) in Europe, extreme right movements, grow up of **Neo-Nazism** [[63]](https://en.wikipedia.org/wiki/Neo-Nazism) and so on. *This is not a joke.*  
 
+# 3D semi real sexual holograms  sell
+
+![Coachella Valley Music](ca-times.brightspotcdn.com.jpeg)
+
+
+
+
+
+
+
+
+
 ### External links
 
 ![networking](1-intro_113_0.jpg)
