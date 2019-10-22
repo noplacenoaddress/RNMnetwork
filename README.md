@@ -12,4 +12,4 @@ For all the womans that have been violated in BRAINnet.
 
 Ricky.
 
-PS: my father call this "rete di controllo internazionale", but we can call it the aristocratic telecomunications system.
+PS: my father call this "rete di controllo internazionale", but we can call it the aristocratic telecomunications system, the digital mafia or the audiovisual monster.
