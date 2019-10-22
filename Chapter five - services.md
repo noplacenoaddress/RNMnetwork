@@ -159,6 +159,13 @@ But some times it's used also by municipal administration in the A-side. Doing w
 
 But who is behind all of this goodness? So simple the audio visual industry. But what is the real shit about all of this goodness? **Food for pedophiles**. 
 
+In radio frequency people speak about secret about this awesome technology. But it's not. It's only a patchwork of cutting edge universities discoveries. And someone build upon those works a *digital mafia*. Who is? *A/B B/A*. Remember human multitasking? Ok now you've got the reply:
+
+- Big tech companies
+- Audiovisual industry
+- **Hollywood** [[66]](https://en.wikipedia.org/wiki/Hollywood), **Bollywood** [[67]](https://en.wikipedia.org/wiki/Bollywood) **Cinecittà** [[68]](https://en.wikipedia.org/wiki/Cinecitt%C3%A0) and so on.
+- etcetera etcetera
+
 ### External links
 
 ![networking](1-intro_113_0.jpg)
@@ -294,6 +301,12 @@ But who is behind all of this goodness? So simple the audio visual industry. But
 64. https://en.wikipedia.org/wiki/Holography
 
 65. https://en.wikipedia.org/wiki/Projection_mapping
+
+66. https://en.wikipedia.org/wiki/Hollywood
+
+67. https://en.wikipedia.org/wiki/Bollywood
+
+68. https://en.wikipedia.org/wiki/Cinecitt%C3%A0
 
     
 
