@@ -138,6 +138,14 @@ This is absolutely lawbreaker if sold to the wrong customer. Who is controlling 
 
 
 
+This is the cutting edge in prostitution. This is what consume high class society. With this, they can fuck, kill, eat whatever they want. And the shape is the shape of a real person.
+
+**Holography** [[64]](https://en.wikipedia.org/wiki/Holography).  But remember is holography without a projector. Who it is possible? Satellite. The city of Barcelona is totally covered. Genova and Milano without any doubt. In radio frequency the speak about Roma, Copenhague but is very likely that all Europe is under this kind of illegal services. 
+
+But some times it's used also by municipal administration in the A-side. Doing what? Urban projection using what is called **projection mapping** [[65]](https://en.wikipedia.org/wiki/Projection_mapping).
+
+![Street Projection Casa Batllo](CasaBatllo-mapping-800x472.jpg)
+
 
 
 
@@ -275,6 +283,10 @@ This is absolutely lawbreaker if sold to the wrong customer. Who is controlling 
 62. https://en.wikipedia.org/wiki/Populism
 
 63. https://en.wikipedia.org/wiki/Neo-Nazism
+
+64. https://en.wikipedia.org/wiki/Holography
+
+65. https://en.wikipedia.org/wiki/Projection_mapping
 
     
 
