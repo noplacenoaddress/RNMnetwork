@@ -13,7 +13,8 @@ The first question that we can do when we speak about a service is who is the ty
 - Audiovisual industry
 - Military warfare industry
 - Big tech firm B-Side
-- Concert industry
+- High class society
+- High level ecclesiastics
 
 # Gangstalking
 
@@ -136,7 +137,15 @@ This is absolutely lawbreaker if sold to the wrong customer. Who is controlling 
 
 ![Coachella Valley Music](ca-times.brightspotcdn.com.jpeg)
 
-
+> *Clients: Businessman, Politicians, Criminal organizations, High class society, High class ecclesiastics.*
+>
+> *Type of service: Different types, for hour like a prostitute or for month like a service.*
+>
+> *Price of service: unknown.*
+>
+> *Target: The person that is connected with the machine to the hologram.*
+>
+> *Source of income: service, contract, and informations about sexual customs of the client.*
 
 This is the cutting edge in prostitution. This is what consume high class society. With this, they can fuck, kill, eat whatever they want. And the shape is the shape of a real person.
 
