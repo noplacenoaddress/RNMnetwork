@@ -203,6 +203,12 @@ Another fantastic service from this totally criminal network. But don't be shame
 
 This is a screenshot of the open source application **Gpredict** [[78]](http://gpredict.oz9aec.net/). Look at the orbits in the sky of every satellites. Yes they are moving but with the transit of one after other you can track in real time every street of Europe. If a camion with drug is traveling in the **International E-road network** [[79]](https://en.wikipedia.org/wiki/International_E-road_network) is under constant control. But what is the goodness? Simple. If there's a police roadblock in his path with this technology and the voice to skull service working on the driver the game is done. A change in his trip and there's no lost of goods. Remember that goods could be also human, because of human traffic.
 
+# Undetectable remote assassination
+
+![Lighting strike](Screen Shot 2019-05-31 at 6.11.22 PM.png)
+
+Perhaps this seems to be a craziness. But  no, it isn't. 
+
 # External links
 
 ![networking](1-intro_113_0.jpg)
