@@ -148,9 +148,7 @@ But some times it's used also by municipal administration in the A-side. Doing w
 
 
 
-
-
-
+But who is behind all of this goodness? So simple the audio visual industry. But what is the real shit about all of this goodness? **Food for pedophiles**. 
 
 ### External links
 
