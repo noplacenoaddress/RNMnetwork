@@ -170,7 +170,11 @@ So they sell you a package, an hologram with the shape of a girl. You buy it in 
 
 ![Barcelona port](car-parking-near-maremagnum-centre-barcelona.gif)
 
-###  External links
+Barcelona is famous in this new era market. Barcelona actually is one of the capital of this extreme sex luxury tourist destination. From about five years, it's blowing this hell wind of changes in my favorite city. It's possible to correlate this with the advancement of the **Lion club of Barcelona** [[76]](https://www.e-clubhouse.org/sites/barcelona_gaudi/)? But this is only my little opinion. *A man that has walked 4000 km by foot in the last three years to investigate what is passing here.*  
+
+![Lions Barcelona](lions.png)
+
+#  External links
 
 ![networking](1-intro_113_0.jpg)
 
@@ -325,6 +329,8 @@ So they sell you a package, an hologram with the shape of a girl. You buy it in 
 74. https://en.wikipedia.org/wiki/Geographic_coordinate_system
 
 75. https://scholar.google.com/scholar?q=human+memory+imprinting&hl=es&as_sdt=0&as_vis=1&oi=scholart
+
+76. https://www.e-clubhouse.org/sites/barcelona_gaudi/
 
     
 
