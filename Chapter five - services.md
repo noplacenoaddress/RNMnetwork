@@ -166,7 +166,11 @@ In radio frequency people speak about secret about this awesome technology. But 
 - **Hollywood** [[66]](https://en.wikipedia.org/wiki/Hollywood), **Bollywood** [[67]](https://en.wikipedia.org/wiki/Bollywood) **Cinecittà** [[68]](https://en.wikipedia.org/wiki/Cinecitt%C3%A0) and so on.
 - etcetera etcetera
 
-### External links
+So they sell you a package, an hologram with the shape of a girl. You buy it in a virtual catalog that could be consulted in deep Internet, **Tor** [[69]](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) **i2p** [[70]](https://en.wikipedia.org/wiki/I2P) and so on. Payment is obviously in crypt concurrency, **Litecoin** [[71]](https://en.wikipedia.org/wiki/Litecoin) for example. So the client is secured buy a theoretically untraceable transference. Image that every Sunday there's a **forward auction** [[72]](https://en.wikipedia.org/wiki/Reverse_auction) in a virtual reality ambient like a living room where's people dressed with what so over shape, image something like "the presidents" in the **Point Break** [[73]](https://en.wikipedia.org/wiki/Point_Break) film. Girls are presented like sexual slaves and people offerer a quantity for a type of service. Who pay the more amount of money got a immediate delivery in a geographic exact point in **latitude, longitude and elevation** [[74]](https://en.wikipedia.org/wiki/Geographic_coordinate_system) in a physical site of the city, like in a luxury boat dock in the port or what so ever. The girl, that is treated like a videogame or a object, in reality is at her house but all her nervous system and her brain is totally connected to the hologram by the network. People that buy those services normally do extreme sexual violence, and she pass hell pains and above all in here memory the experience is true. This is **human memory imprinting** [[75]](https://scholar.google.com/scholar?q=human+memory+imprinting&hl=es&as_sdt=0&as_vis=1&oi=scholart).  
+
+![Barcelona port](car-parking-near-maremagnum-centre-barcelona.gif)
+
+###  External links
 
 ![networking](1-intro_113_0.jpg)
 
@@ -307,6 +311,22 @@ In radio frequency people speak about secret about this awesome technology. But 
 67. https://en.wikipedia.org/wiki/Bollywood
 
 68. https://en.wikipedia.org/wiki/Cinecitt%C3%A0
+
+69. https://en.wikipedia.org/wiki/Tor_(anonymity_network)
+
+70. https://en.wikipedia.org/wiki/I2P
+
+71. https://en.wikipedia.org/wiki/Litecoin
+
+72. https://en.wikipedia.org/wiki/Forward_auction
+
+73. https://en.wikipedia.org/wiki/Point_Break
+
+74. https://en.wikipedia.org/wiki/Geographic_coordinate_system
+
+75. https://scholar.google.com/scholar?q=human+memory+imprinting&hl=es&as_sdt=0&as_vis=1&oi=scholart
+
+    
 
     
 
