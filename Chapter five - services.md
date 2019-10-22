@@ -174,7 +174,16 @@ Barcelona is famous in this new era market. Barcelona actually is one of the cap
 
 ![Lions Barcelona](lions.png)
 
-#  External links
+But is this a secret? No! Here is some international press articles and porn movies:
+
+- https://www.mirror.co.uk/tech/holographic-porn-bring-3d-naked-9525844
+- https://www.pornhub.com/view_video.php?viewkey=2114250286
+- https://www.pornhub.com/view_video.php?viewkey=ph5ccdfd32e138a
+- https://fortune.com/2019/01/11/ces-holograms/
+
+Doing a rapid search on Google i've found a name of a Greek billionaire connected to holograms related business, **Alki David** [[77]](https://en.wikipedia.org/wiki/Alki_David).
+
+# External links
 
 ![networking](1-intro_113_0.jpg)
 
@@ -331,6 +340,8 @@ Barcelona is famous in this new era market. Barcelona actually is one of the cap
 75. https://scholar.google.com/scholar?q=human+memory+imprinting&hl=es&as_sdt=0&as_vis=1&oi=scholart
 
 76. https://www.e-clubhouse.org/sites/barcelona_gaudi/
+
+77. https://en.wikipedia.org/wiki/Alki_David
 
     
 
