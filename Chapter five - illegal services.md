@@ -231,11 +231,11 @@ Let's start with a reflexion about this. What can be done playing with this natu
 
 ![south america BDSM digital](bdsmeradigital.png)
 
+**This flier is not about an illegal service.**
 
+*First of all i want to transmit to all my readers that i'm absolutely not in opposite to immigration and human circulation all over the world. I'm not racist because i love freedom and i'm a democratic left side man.  I love cultures from all over the world but i think that we've always to respect local traditions without fomenting political or territorial divisions and we've to search a good balance between all the cultures in a cosmopolitan city, like the city that i'm in love to, Barcelona.*
 
-
-
-
+What is this flier announcing **BDSM** [[84]](https://en.wikipedia.org/wiki/BDSM) from south America using digitals techniques? I will write about what is happening just now under the eyes of all the police forces and government of Barcelona. 
 
 # External links
 
@@ -408,6 +408,10 @@ Let's start with a reflexion about this. What can be done playing with this natu
 82. https://en.wikipedia.org/wiki/Troposphere
 
 83. https://en.wikipedia.org/wiki/Electron
+
+84. https://en.wikipedia.org/wiki/BDSM
+
+    
 
     
 

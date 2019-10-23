@@ -103,6 +103,14 @@ Imagine those devices acting in remote without any physical brain implant or dev
 
 it the person **on this article** [[62]](https://www.guineapigzero.com/i-was-a-brain-slave.html) a schizophrenic? Absolutely not, but he doesn't know why he is a slave. Why does he speaks about UFO and stupidity like this? Because when human kind cannot explain a phenomenon use divinity, like our ancestor do with polytheism and monotheism. The real problem is that our politics, administrations and police doesn't know exactly what it is passing or they are totally corrupted by the Machine. How it is possible? We will see in the next chapter.
 
+### The reproductive system over excitement and control
+
+![Women masturbation brain response](nihms303557f2.jpg)
+
+**Human sexual activity** [[63]](https://en.wikipedia.org/wiki/Human_sexual_activity) can be overloaded by the use of the radio and digital Machine from the synthetic telepathy network. This can create induced sex slaves, prostitutes and child violations. Who it is possible? 
+
+In the **study before** [[64]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186818/) we can appreciate in the fMRI images in composite the brain zone neuron activated by different parts self masturbation in a woman. 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/M_(James_Bond)
@@ -167,4 +175,6 @@ it the person **on this article** [[62]](https://www.guineapigzero.com/i-was-a-b
 60. https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
 61. https://en.wikipedia.org/wiki/Brexit
 62. https://www.guineapigzero.com/i-was-a-brain-slave.html
+63. https://en.wikipedia.org/wiki/Human_sexual_activity
+64. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186818/
 
