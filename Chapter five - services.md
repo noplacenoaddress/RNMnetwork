@@ -203,9 +203,19 @@ Another fantastic service from this totally criminal network. But don't be shame
 
 This is a screenshot of the open source application **Gpredict** [[78]](http://gpredict.oz9aec.net/). Look at the orbits in the sky of every satellites. Yes they are moving but with the transit of one after other you can track in real time every street of Europe. If a camion with goods is traveling in the **International E-road network** [[79]](https://en.wikipedia.org/wiki/International_E-road_network) is under constant control. But what is the goodness? Simple. If there's some roadblock in his path with this technology and the voice to skull service working on the driver the game is done. A change in his trip and there's no lost of goods. Remember that goods could be also humans.
 
-# Remote controlled lamps
+# Remote controlled lightning strike
 
-![Lighting strike](thunder.png)
+![Lighting](actractlighting.png)
+
+> *Clients: Criminal organizations, Subversive groups.*
+>
+> *Type of service: Price for kilometers.*
+>
+> *Price of service: Unknown.*
+>
+> *Target: Some transports are obviously sold to the police or opposite organizations.*
+>
+> *Source of income: service, contract, and informations about quantities.*
 
 Perhaps this seems to be a craziness. But  no, it isn't. 
 
