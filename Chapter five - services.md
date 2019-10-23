@@ -208,13 +208,13 @@ This is a screenshot of the open source application **Gpredict** [[78]](http://g
 
 > *Clients: Businessman, Politicians, Criminal organizations, Subversive groups.*
 >
-> *Type of service: Price for kilometers.*
+> *Type of service: Price for strike.*
 >
 > *Price of service: Unknown.*
 >
-> *Target: Some transports are obviously sold to the police or opposite organizations.*
+> *Target: Opposites, politician, criminals, industry.*
 >
-> *Source of income: service, contract, and informations about quantities.*
+> *Source of income: service, and the information about who contract it.*
 
 Perhaps this seems to be a craziness. But  no, it isn't. Ok with radio frequency it's possible to **electric charge** [[80]](https://en.wikipedia.org/wiki/Electric_charge) a site, like a mono familiar house a car or a airplane, with **protons** [[81]](https://en.wikipedia.org/wiki/Proton). Because that a thunder born in the **Troposphere** [[82]](https://en.wikipedia.org/wiki/Troposphere) minus charged, **electrons** [[83]](https://en.wikipedia.org/wiki/Electron) are attracted by protons and can be tele guided.  
 
