@@ -9,7 +9,6 @@ The first question that we can do when we speak about a service is who is the ty
 - High-class scammers
 - High-class stalkers
 - Subversive groups
-- Extra European spies
 - Audiovisual industry
 - Military warfare industry
 - Big tech firm B-Side
@@ -207,7 +206,7 @@ This is a screenshot of the open source application **Gpredict** [[78]](http://g
 
 ![Lighting](actractlighting.png)
 
-> *Clients: Criminal organizations, Subversive groups.*
+> *Clients: Businessman, Politicians, Criminal organizations, Subversive groups.*
 >
 > *Type of service: Price for kilometers.*
 >
@@ -217,7 +216,16 @@ This is a screenshot of the open source application **Gpredict** [[78]](http://g
 >
 > *Source of income: service, contract, and informations about quantities.*
 
-Perhaps this seems to be a craziness. But  no, it isn't. 
+Perhaps this seems to be a craziness. But  no, it isn't. Ok with radio frequency it's possible to **electric charge** [[80]](https://en.wikipedia.org/wiki/Electric_charge) a site, like a mono familiar house a car or a airplane, with **protons** [[81]](https://en.wikipedia.org/wiki/Proton). Because that a thunder born in the **Troposphere** [[82]](https://en.wikipedia.org/wiki/Troposphere) minus charged, **electron** [[83]](https://en.wikipedia.org/wiki/Electron) are attracted by protons and can be tele guided.  
+
+Let's start with a reflexion about this. What can be done playing with this natural phenomenon?
+
+- Explosions, like in a chemical or war industry.
+- Fires, like in a farmland or in a forest.
+- Accidents, in transport, civil or military.
+- Death by a lightning strike like you can see in the graph below
+
+![US Lighting Deaths](800px-US_Lightning_Deaths.png)
 
 # External links
 
@@ -382,6 +390,14 @@ Perhaps this seems to be a craziness. But  no, it isn't.
 78. http://gpredict.oz9aec.net/
 
 79. https://en.wikipedia.org/wiki/International_E-road_network
+
+80. https://en.wikipedia.org/wiki/Electric_charge
+
+81. https://en.wikipedia.org/wiki/Proton
+
+82. https://en.wikipedia.org/wiki/Troposphere
+
+83. https://en.wikipedia.org/wiki/Electron
 
     
 
