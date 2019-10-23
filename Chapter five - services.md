@@ -216,7 +216,7 @@ This is a screenshot of the open source application **Gpredict** [[78]](http://g
 >
 > *Source of income: service, contract, and informations about quantities.*
 
-Perhaps this seems to be a craziness. But  no, it isn't. Ok with radio frequency it's possible to **electric charge** [[80]](https://en.wikipedia.org/wiki/Electric_charge) a site, like a mono familiar house a car or a airplane, with **protons** [[81]](https://en.wikipedia.org/wiki/Proton). Because that a thunder born in the **Troposphere** [[82]](https://en.wikipedia.org/wiki/Troposphere) minus charged, **electron** [[83]](https://en.wikipedia.org/wiki/Electron) are attracted by protons and can be tele guided.  
+Perhaps this seems to be a craziness. But  no, it isn't. Ok with radio frequency it's possible to **electric charge** [[80]](https://en.wikipedia.org/wiki/Electric_charge) a site, like a mono familiar house a car or a airplane, with **protons** [[81]](https://en.wikipedia.org/wiki/Proton). Because that a thunder born in the **Troposphere** [[82]](https://en.wikipedia.org/wiki/Troposphere) minus charged, **electrons** [[83]](https://en.wikipedia.org/wiki/Electron) are attracted by protons and can be tele guided.  
 
 Let's start with a reflexion about this. What can be done playing with this natural phenomenon?
 
