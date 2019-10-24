@@ -275,6 +275,12 @@ Normally we can underline this chain of sales of small businesses nowadays:
 
 This is obviously the new criminal organization, the Illuminati, a fraud.
 
+Look at the numbers of the china community in Catalunya, this study from **UAB** [[91]](https://en.wikipedia.org/wiki/Autonomous_University_of_Barcelona) is impressive:
+
+http://www.fti.uab.es/interasia/documents/Beltran-La%20Inmigraci%F3n%20China%20en%20Catalu%F1a.pdf
+
+
+
 # External links
 
 ![networking](1-intro_113_0.jpg)
@@ -460,6 +466,8 @@ This is obviously the new criminal organization, the Illuminati, a fraud.
 89. https://en.wikipedia.org/wiki/Gross_domestic_product
 
 90. https://en.wikipedia.org/wiki/Forced_prostitution
+
+91. https://en.wikipedia.org/wiki/Autonomous_University_of_Barcelona
 
     
 
