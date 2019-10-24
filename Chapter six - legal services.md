@@ -15,18 +15,15 @@ So another good investigation practice to put in jail those criminals, the Illum
 But there's also a lot of new type of markets that could use this awesome technology, because, yes it is, it is awesome but used in a wrong way. Doing a little bit of **brainstorming** [[7]](https://en.wikipedia.org/wiki/Brainstorming) applications of this Machine are enormous,  from small business to city administration, and more.
 
 - Interconnected brains to do war game strategies in **Q-zar** [[8]](https://en.wikipedia.org/wiki/Q-Zar) like ambients. 
-
 - **Virtual tour** [[9]](https://en.wikipedia.org/wiki/Virtual_tour) with muscle brain and nerves connected in the real ambient, something like an extreme **three-dimensional virtual tourism** [[10]](https://en.wikipedia.org/wiki/Three-dimensional_virtual_tourism).
-
 - People movement control and counter near large surfaces to know what product attracts more customers.
-
 - Legal digital **coworking** [[11]](https://en.wikipedia.org/wiki/Coworking) ambient.
-
 - Citizen plague control and on fly patch.
-
 - Port container census by maritime police.
+- Support for conventional traffic control.
+- etcetera etcetera.
 
-  
+This is only a ten minutes thinking. *Applications are near infinity*.
 
 
 
