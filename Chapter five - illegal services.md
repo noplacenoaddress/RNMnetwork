@@ -233,9 +233,27 @@ Let's start with a reflexion about this. What can be done playing with this natu
 
 **This flier is not about an illegal service.**
 
+> *Clients: Businessman, Politicians, Criminal organizations, High-class stalkers, Audiovisual industry, High class society, High level ecclesiastics.*
+>
+> *Type of service: Price for monthly service for person.*
+>
+> *Price of service: Unknown.*
+>
+> *Target: Mainly young womens.*
+>
+> *Source of income: service, and the information about who contract it.*
+
 *First of all i want to transmit to all my readers that i'm absolutely not in opposite to immigration and human circulation all over the world. I'm not racist because i love freedom and i'm a democratic left side man.  I love cultures from all over the world but i think that we've always to respect local traditions without fomenting political or territorial divisions and we've to search a good balance between all the cultures in a cosmopolitan city, like the city that i'm in love to, Barcelona.*
 
-What is this flier announcing **BDSM** [[84]](https://en.wikipedia.org/wiki/BDSM) from south America using digitals techniques? I will write about what is happening just now under the eyes of all the police forces and government of Barcelona. 
+What is this flier announcing **BDSM** [[84]](https://en.wikipedia.org/wiki/BDSM) from south America using digitals techniques? I will write about what is happening just now under the eyes of all the police forces and government of Barcelona.
+
+Like i've said on chapter two, with the  Machine it's possible to overload the genital system of a women, or a man, with electro magnetism over some part of our brain. And also to get feeling of physical touch in the reproducing apparatus. Now this is all ok if the "target" is consenting. Those feelings that with this technology can be like real (reaD they call in voice to skull chat) it's important to understand that can be activated by two persons with them brains at the same level of importance, in a master / slave configuration like in the real BDSM world, and also with sexual **bot** [[85]](https://en.wikipedia.org/wiki/Internet_bot) or applications. 
+
+![Baron Mood Instagram](analfist.png)
+
+
+
+ 
 
 # External links
 
@@ -410,6 +428,8 @@ What is this flier announcing **BDSM** [[84]](https://en.wikipedia.org/wiki/BDSM
 83. https://en.wikipedia.org/wiki/Electron
 
 84. https://en.wikipedia.org/wiki/BDSM
+
+85. https://en.wikipedia.org/wiki/Internet_bot
 
     
 

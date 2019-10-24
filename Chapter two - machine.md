@@ -113,7 +113,7 @@ In the **study before** [[64]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186
 
 So like we've seen before with this technology and **electromagnetic waves** [[65]](https://en.wikipedia.org/wiki/Electromagnetic_radiation) it's possible to remotely stimulate neurons like it's done in a physic MRI machine. 
 
-Doing a rapid technical analysis we can consider that radios working in a magnetic resonance environment use **shortwave** [[66]](https://en.wikipedia.org/wiki/Shortwave_radio) frequencies. 
+Doing a rapid technical analysis we can consider that radios are working in a magnetic resonance environment use **shortwave** [[66]](https://en.wikipedia.org/wiki/Shortwave_radio) frequencies. Transmitters and receivers are called **radio frequency coils** [[67]](https://en.wikipedia.org/wiki/Radiofrequency_coil) and use **loop antennas** [[68]](https://en.wikipedia.org/wiki/Loop_antenna) or **ferrite loop antennas** [[69]](https://en.wikipedia.org/wiki/Comoros).
 
 ### External links
 
@@ -183,4 +183,7 @@ Doing a rapid technical analysis we can consider that radios working in a magnet
 64. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186818/
 65. https://en.wikipedia.org/wiki/Electromagnetic_radiation
 66. https://en.wikipedia.org/wiki/Shortwave_radio
+67. https://en.wikipedia.org/wiki/Radiofrequency_coil
+68. https://en.wikipedia.org/wiki/Loop_antenna
+69. https://en.wikipedia.org/wiki/Ferrite_core#Ferrite_rod_aerial
 
