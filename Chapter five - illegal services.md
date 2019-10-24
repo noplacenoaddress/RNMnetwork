@@ -273,7 +273,7 @@ Normally we can underline this chain of sales of small businesses nowadays:
 
 *small Catalan entrepreneur -> sale in cash to Chinese people who deal with the purchase of businesses -> resale to Europeans, mainly Italians.*
 
-This is obviously the new criminal organization, the Illuminati.
+This is obviously the new criminal organization, the Illuminati, a fraud.
 
 # External links
 
