@@ -253,7 +253,17 @@ Like i've said on chapter two, with the  Machine it's possible to overload the g
 
 
 
- 
+ What could be obtained? Extreme sexual appetite, induced prostitution,  brain washing, loose of principles, climb of the threshold of sexual  violence. *Is this a crime*? For sure, it's **sexual violence** [[86]](https://en.wikipedia.org/wiki/Sexual_violence) and **psychological  abuse** [[87]](https://en.wikipedia.org/wiki/Psychological_abuse).
+
+Why the customers who pay for this service is searching for example the climb of the threshold of sexual  violence? As usual is very easy to explain using only some logic, the base of the human thinking. Obviously it's to sold those victims that normally are sexy beautiful womens or athletic mans in sex parties with rich mans that consider them like objects of sexual abuse. Orgies without a decent limit. They are slaved and in this system they obtain a very little financial compensation in crypt concurrency, in totally contrast with the real gain of entrepreneurs that normally round at four digits. It's luxury extreme prostitutions that could be payed like one thousand euro for person and obviously is **exploitation of prostitution** [[88]](http://www.europarl.europa.eu/RegData/etudes/etudes/join/2014/493040/IPOL-FEMM_ET(2014)493040_EN.pdf).  
+
+Now look at sexual ads in Barcelona in a web page called NuevoLoquo, this is an ads for pay not affiliated portal. 
+
+https://www.nuevoloquo.com/anuncios-eroticos/barcelona/putas/catalan/
+
+There is a lot of Catalans young girls. It's so estrange because this territory got a high **PIB** [[89]](https://en.wikipedia.org/wiki/Gross_domestic_product),  33661$ as 2017.  Are those victims of digital **forced prostitution** [[90]](https://en.wikipedia.org/wiki/Forced_prostitution)? Yes, in my opinion. 
+
+Prostitution in the synthetic telepathy network is, like all the structures, a pyramid. 
 
 # External links
 
@@ -430,6 +440,16 @@ Like i've said on chapter two, with the  Machine it's possible to overload the g
 84. https://en.wikipedia.org/wiki/BDSM
 
 85. https://en.wikipedia.org/wiki/Internet_bot
+
+86. https://en.wikipedia.org/wiki/Sexual_violence
+
+87. https://en.wikipedia.org/wiki/Psychological_abuse
+
+88. http://www.europarl.europa.eu/RegData/etudes/etudes/join/2014/493040/IPOL-FEMM_ET(2014)493040_EN.pdf
+
+89. https://en.wikipedia.org/wiki/Gross_domestic_product
+
+90. https://en.wikipedia.org/wiki/Forced_prostitution
 
     
 
