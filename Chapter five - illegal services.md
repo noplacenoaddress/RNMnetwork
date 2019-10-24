@@ -265,6 +265,8 @@ There is a lot of Catalans young girls. It's so estrange because this territory 
 
 Prostitution in the synthetic telepathy network is, like all the structures, a pyramid. 
 
+![pyramid structures](scop.jpeg)
+
 # External links
 
 ![networking](1-intro_113_0.jpg)
