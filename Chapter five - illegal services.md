@@ -158,7 +158,7 @@ But some times it's used also by municipal administration in the A-side. Doing w
 
 But who is behind all of this goodness? So simple the audio visual industry. But what is the real shit about all of this goodness? **Food for pedophiles**. 
 
-In radio frequency people speak about secret about this awesome technology. But it's not. It's only a patchwork of cutting edge universities discoveries. And someone build upon those works a *digital mafia*. Who is? *A/B B/A*. Remember human multitasking? Ok now you've got the reply:
+In radio frequency people speak about secret about this awesome technology. But it's not. It's only a patchwork of cutting edge universities discoveries. And someone build upon those works a *digital criminal organization*. Who is? *A/B B/A*. Remember human multitasking? Ok now you've got the reply:
 
 - Big tech companies
 - Audiovisual industry
@@ -273,7 +273,7 @@ Normally we can underline this chain of sales of small businesses nowadays:
 
 *small Catalan entrepreneur -> sale in cash to Chinese people who deal with the purchase of businesses -> resale to Europeans, mainly Italians.*
 
-This is obviously the new Mafia, the Illuminati.
+This is obviously the new criminal organization, the Illuminati.
 
 # External links
 
