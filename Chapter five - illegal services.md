@@ -267,6 +267,14 @@ Prostitution in the synthetic telepathy network is, like all the structures, a p
 
 ![pyramid structures](scop.jpeg)
 
+Barcelona has changed in the last ten years. A lot. Yes the city have been reformed and restored. Its face is clean and beautiful. But is this true? No. Someone, who is washing and cleaning B-side money from this system, yes absolutely, is doing a great job to maintain a good facade. But the old city, the heart of the Catalan capital, was and is totally sold to extra communitarian, but not only, contractors. You can't feel now the real soul and smell of the streets. 
+
+Normally we can underline this chain of sales of small businesses nowadays:
+
+*small Catalan entrepreneur -> sale in cash to Chinese people who deal with the purchase of businesses -> resale to Europeans, mainly Italians.*
+
+This is obviously the new Mafia, the Illuminati.
+
 # External links
 
 ![networking](1-intro_113_0.jpg)
