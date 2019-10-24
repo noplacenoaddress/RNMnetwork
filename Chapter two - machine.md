@@ -107,9 +107,13 @@ it the person **on this article** [[62]](https://www.guineapigzero.com/i-was-a-b
 
 ![Women masturbation brain response](nihms303557f2.jpg)
 
-**Human sexual activity** [[63]](https://en.wikipedia.org/wiki/Human_sexual_activity) can be overloaded by the use of the radio and digital Machine from the synthetic telepathy network. This can create induced sex slaves, prostitutes and child violations. Who it is possible? 
+**Human sexual activity** [[63]](https://en.wikipedia.org/wiki/Human_sexual_activity) can be overloaded by the use of the radio and digital Machine from the synthetic telepathy network. This can create induced sex slaves, prostitutes and child violations. How it is possible? 
 
 In the **study before** [[64]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186818/) we can appreciate in the fMRI images in composite the brain zone neuron activated by different parts self masturbation in a woman. 
+
+So like we've seen before with this technology and **electromagnetic waves** [[65]](https://en.wikipedia.org/wiki/Electromagnetic_radiation) it's possible to remotely stimulate neurons like it's done in a physic MRI machine. 
+
+Doing a rapid technical analysis we can consider that radios working in a magnetic resonance environment use **shortwave** [[66]](https://en.wikipedia.org/wiki/Shortwave_radio) frequencies. 
 
 ### External links
 
@@ -177,4 +181,6 @@ In the **study before** [[64]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186
 62. https://www.guineapigzero.com/i-was-a-brain-slave.html
 63. https://en.wikipedia.org/wiki/Human_sexual_activity
 64. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186818/
+65. https://en.wikipedia.org/wiki/Electromagnetic_radiation
+66. https://en.wikipedia.org/wiki/Shortwave_radio
 
