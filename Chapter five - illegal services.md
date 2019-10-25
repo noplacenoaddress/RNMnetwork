@@ -283,7 +283,7 @@ http://www.fti.uab.es/interasia/documents/Beltran-La%20Inmigraci%F3n%20China%20e
 
 # External links
 
-![networking](1-intro_113_0.jpg)
+![networking](1-intro_113_0.jpg)	
 
 
 

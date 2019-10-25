@@ -11,6 +11,7 @@ So another good investigation practice to put in jail those criminals, the Illum
 - The IT tech **district 22@** [[6]](https://en.wikipedia.org/wiki/22@) of Barcelona.
 - The contemporary Catalan theater.
 - The audiovisual Catalan industry.
+- The telecommunication industry
 
 But there's also a lot of new type of markets that could use this awesome technology, because, yes it is, it is awesome but used in a wrong way. Doing a little bit of **brainstorming** [[7]](https://en.wikipedia.org/wiki/Brainstorming) applications of this Machine are enormous,  from small business to city administration, and more.
 
