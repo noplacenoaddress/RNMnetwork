@@ -32,6 +32,12 @@ This is only a ten minutes thinking. *Applications are near infinity*.
 
 Barcelona, the city of my love. Fantastic bohemian Mediterranean port. A city that start a new age from **1992 Summer Olympics**  [[12]](https://en.wikipedia.org/wiki/1992_Summer_Olympics). 
 
+Barcelona has changed a lot, i start to live here from new year day of 2007. The city has reborn with new skyscrapers, new concept transport and technologies, how it's cleaned every day for it tourist facade, what languages you can listen on his old town concurred streets, the dominants colors in your line of sight were pastels and now are led and neon. Like many European capitals, technology is dominant. 
+
+![Gaudi art at Barcelona](barcelona-rutas-turisticas-alternativas-1030x633.jpg)
+
+
+
 # External Links
 
 1. https://en.wikipedia.org/wiki/Al_Capone
