@@ -26,7 +26,11 @@ But there's also a lot of new type of markets that could use this awesome techno
 
 This is only a ten minutes thinking. *Applications are near infinity*.
 
+# Real estate holding 
 
+![Burbuja inmobiliaria](bolle-4.jpg)
+
+Barcelona, the city of my love. Fantastic bohemian Mediterranean port. A city that start a new age from **1992 Summer Olympics**  [[12]](https://en.wikipedia.org/wiki/1992_Summer_Olympics). 
 
 # External Links
 
@@ -41,3 +45,4 @@ This is only a ten minutes thinking. *Applications are near infinity*.
 9. https://en.wikipedia.org/wiki/Virtual_tour
 10. https://en.wikipedia.org/wiki/Three-dimensional_virtual_tourism
 11. https://en.wikipedia.org/wiki/Coworking
+12. https://en.wikipedia.org/wiki/1992_Summer_Olympics
