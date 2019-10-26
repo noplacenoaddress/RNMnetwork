@@ -291,7 +291,7 @@ If a person resist to the fascist crime of gangstalking, namely don't fall in he
 
 Secondly, and i say this because of the possibility to try to catch this individual, i want to remember to him that human hacking is a crime respect to **human right declaration** [[94]](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights). A crime against humanity, not a game. 
 
-![Hacking humans](hacking-humans-podcast-cyberwire-054-1380.jpg)
+![Human Rights](asdadsd33.jpg)
 
 # External links
 
