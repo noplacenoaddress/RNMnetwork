@@ -39,27 +39,28 @@ Barcelona has changed a lot, i start to live here from new year day of 2007. The
 In the last ten years here is the list of Barcelona's neighborhoods and small cities in the province that have got big real estate holdings:
 
 - **Gorg** [[13]](https://en.wikipedia.org/wiki/Gorg,_Badalona), **Badalona** [[14]](https://ca.wikipedia.org/wiki/Badalona). 
-
   - http://territori.scot.cat/cat/notices/transformaciO_urbana_del_barri_del_gorg_badalona_1111.php
   - http://www.marinabadalona-sa.es/
-
 - Port Forum, **Sant Adrià de Besòs** [[15]](https://en.wikipedia.org/wiki/Sant_Adri%C3%A0_de_Bes%C3%B2s).
-
   - https://en.wikipedia.org/wiki/2004_Universal_Forum_of_Cultures
   - http://portforum.barcelona/
-
 - **Poblenou** [[16]](https://ca.wikipedia.org/wiki/Poblenou), Barcelona.
-
   - https://www.elperiodico.com/es/juegos-barcelona92/20170720/casi-billon-pesetas-para-barcelona-92-6175711
   - https://web.archive.org/web/20130613173355/http://www.arxiuhistoricpoblenou.es/
-
 - **Sitges** [[17]](https://en.wikipedia.org/wiki/Sitges), Barcelona:
-
   - https://www.durancarasso.com/
   - https://www.laplanadesitges.com/casas/
   - http://www.vertix.es/
 
-  Ok. Now to go ahead it's not so difficult. A little bit of **OSINT** [[18]](https://en.wikipedia.org/wiki/Open-source_intelligence) technique and Internet to understand underground connections between those companies. Our principle tool is named **Maltego** [[19]](https://en.wikipedia.org/wiki/Maltego).
+Ok. Now to go ahead it's not so difficult. A little bit of **OSINT** [[18]](https://en.wikipedia.org/wiki/Open-source_intelligence) technique and Internet to understand underground connections between those companies. Our principle tool is named **Maltego** [[19]](https://en.wikipedia.org/wiki/Maltego).
+
+![Glorias C31](1475666443_559218_1475666930_noticia_normal.jpg)
+
+# Techno music
+
+![Nina Kraviz techno music](techno.jpg)
+
+
 
 # External Links
 
