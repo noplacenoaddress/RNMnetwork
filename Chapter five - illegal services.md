@@ -279,7 +279,17 @@ Look at the numbers of the china community in Catalunya, this study from **UAB**
 
 http://www.fti.uab.es/interasia/documents/Beltran-La%20Inmigraci%F3n%20China%20en%20Catalu%F1a.pdf
 
+# Hacking applied to humans
 
+![Gold river search](xssa.jpg)
+
+If a person resist to the fascist crime of gangstalking, namely don't fall in heroin drug abuse, don't fall in psychiatric disorders, don't fall in extreme sex disorders, etcetera etcetera could be next victim of another difficult to detect subliminal crime, but always a very big crime, that could be named as **human hacking** [[92]](https://thecyberwire.com/podcasts/hacking-humans-episode-list.html) and exaggeration of **social engineering** [[93]](https://en.wikipedia.org/wiki/Social_engineering_(security)), a branch of cyber security. 
+
+> *Remember that human hacking is accomplished by very difficult to capture criminals. Serial criminals. Persons who taste sexual pleasure seeing who they can manipulate big masses of humans doing whatever they want. Almost are extremely intelligent individuals, and probably classified by the government as mentally ill. Persons that use others like hacking tools, to hack the victim that they call case of study to expand their recurrent method, used to obtain sexual pleasure.* *This is my two cents, awl (the nickname of one of them)*.
+
+ First of all the synthetic telepathy network is abused by those kind of criminals, remember that i say abuse because though it is an illegal network it is also hacked by these figure. A strange and complex man. Yes because it is only one. But i'll not speak directly about him because he's the most special human that i find in my life. **I'm studying him**. He is using the owner of this facility like a virus, a worm, a girl born in Genova, Italy.
+
+Secondly, and i say this because of the possibility to try to catch this individual, i want to remember to him that human hacking is a crime respect to **human right declaration** [[94]](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights). A crime against humanity, not a game. 
 
 # External links
 
@@ -468,6 +478,14 @@ http://www.fti.uab.es/interasia/documents/Beltran-La%20Inmigraci%F3n%20China%20e
 90. https://en.wikipedia.org/wiki/Forced_prostitution
 
 91. https://en.wikipedia.org/wiki/Autonomous_University_of_Barcelona
+
+92. https://thecyberwire.com/podcasts/hacking-humans-episode-list.html
+
+93. https://en.wikipedia.org/wiki/Social_engineering_(security)
+
+94. https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
+
+    
 
     
 
