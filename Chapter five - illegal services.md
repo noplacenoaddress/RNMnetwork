@@ -299,7 +299,9 @@ The final goal is obviously the destruction of a singular, a singularity better 
 
 But remember always, reader, those connections between different science branch  collide into what nations call mental illness. Don't try to fuck your mind alone.
 
-Are them actors or are them directors of an invented tragedy? I don't, i've never try it.  
+*Are them actors or are them directors of an invented tragedy? I don't, i've never try it.* 
+
+**To be continued**....
 
 # External links
 
