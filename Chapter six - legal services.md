@@ -60,7 +60,23 @@ Ok. Now to go ahead it's not so difficult. A little bit of **OSINT** [[18]](http
 
 ![Nina Kraviz techno music](techno.jpg)
 
+In techno music concert the Machine of this network is used. But no one say nothing, look at the concerts dates of **Nina Kraviz** [[20]](https://en.wikipedia.org/wiki/Nina_Kraviz), one of the most famous **disk jockey** [[21]](https://en.wikipedia.org/wiki/Disc_jockey) nowadays. Those below are the official dates on **Resident Advisor** [[22]](https://en.wikipedia.org/wiki/Resident_Advisor), but remember that we don't know about unofficial parties.
 
+https://www.residentadvisor.net/dj/ninakraviz/dates?yr=2018
+
+Look at more than two concerts dates on same day like those on 2 of June 2018:
+
+1. https://www.residentadvisor.net/events/1049111 in United Kingdom.
+2. https://www.residentadvisor.net/events/1040928 in France.
+3. https://www.residentadvisor.net/events/1104721 in Germany.
+
+Or those on 15 of September 2018:
+
+1. https://www.residentadvisor.net/events/1135225 in Japan.
+2. https://www.residentadvisor.net/events/1051295 in Netherlands.
+3. https://www.residentadvisor.net/events/1149115 in Japan.
+
+That are like missions impossible calculating airplane travel, airport times, trip to the concert, join the main stage and so on. If you analyze you'll find that for **time zone** [[23]](https://en.wikipedia.org/wiki/Time_zone) they're possible but counting all the steps that i've rapidly listed almost not. *So that the doubt is legitimate*.
 
 # External Links
 
@@ -83,3 +99,7 @@ Ok. Now to go ahead it's not so difficult. A little bit of **OSINT** [[18]](http
 17. https://en.wikipedia.org/wiki/Sitges
 18. https://en.wikipedia.org/wiki/Open-source_intelligence
 19. https://en.wikipedia.org/wiki/Maltego
+20. https://en.wikipedia.org/wiki/Nina_Kraviz
+21. https://en.wikipedia.org/wiki/Disc_jockey
+22. https://en.wikipedia.org/wiki/Resident_Advisor
+23. https://en.wikipedia.org/wiki/Time_zone
