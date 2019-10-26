@@ -78,6 +78,14 @@ Or those on 15 of September 2018:
 
 That are like missions impossible calculating airplane travel, airport times, trip to the concert, join the main stage and so on. If you analyze you'll find that for **time zone** [[23]](https://en.wikipedia.org/wiki/Time_zone) they're possible but counting all the steps that i've rapidly listed almost not. *So that the doubt is legitimate*.
 
+# Tech, but not only, industry.
+
+![Secret services US chain](intelligence-liaison-partners.png)
+
+
+
+Remember when i speak about human hackers? There's another mode to focus them. As high level private investigator or secret services agents and so on.
+
 # External Links
 
 1. https://en.wikipedia.org/wiki/Al_Capone
