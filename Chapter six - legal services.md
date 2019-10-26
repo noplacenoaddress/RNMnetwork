@@ -1,4 +1,4 @@
-# The legal services in Catalunya, ideas.
+# The legal services, ideas.
 
 ![The Untouchables](maxresdefault.jpg)
 
@@ -26,7 +26,7 @@ But there's also a lot of new type of markets that could use this awesome techno
 
 This is only a ten minutes thinking. *Applications are near infinity*.
 
-# Real estate holding 
+# Real estate holding in Catalunya
 
 ![Burbuja inmobiliaria](bolle-4.jpg)
 
@@ -56,7 +56,7 @@ Ok. Now to go ahead it's not so difficult. A little bit of **OSINT** [[18]](http
 
 ![Glorias C31](1475666443_559218_1475666930_noticia_normal.jpg)
 
-# Techno music
+# Techno music in the world
 
 ![Nina Kraviz techno music](techno.jpg)
 
