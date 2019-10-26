@@ -293,6 +293,14 @@ Secondly, and i say this because of the possibility to try to catch this individ
 
 ![Human Rights](asdadsd33.jpg)
 
+But what is the final goal of human hacking and in what consist these complex and very long in time attack?
+
+The final goal is obviously the destruction of a singular, a singularity better saying. What is the total destruction? The suicide. But what happen in this wide way? Scorched earth (\#882D17 or **Sienna** [[95]](https://en.wikipedia.org/wiki/Sienna)). When two singularity meet, it's like two stars collide. Results is only death. Death of whatever is in them orbit. All. Next is life. Or one of the most dangerous unknown object will born, a black hole; or if they are like black holes the results in a **binary black hole system** [[96]](https://en.wikipedia.org/wiki/Binary_black_hole). But death is a natural process, the result in falling down a black hole is totally unknown. Some participle are ejected at furious velocities and others go in something that mankind don't know. Some speak about **wormhole** [[97]](https://en.wikipedia.org/wiki/Wormhole). A game of **spacetime** [[98]](https://en.wikipedia.org/wiki/Spacetime) and speed. **Multiverse** [[99]](https://en.wikipedia.org/wiki/Multiverse).  
+
+But remember always, reader, those connections between different science branch  collide into what nations call mental illness. Don't try to fuck your mind alone.
+
+Are them actors or are them directors of an invented tragedy? I don't, i've never try it.  
+
 # External links
 
 ![networking](1-intro_113_0.jpg)	
@@ -486,6 +494,16 @@ Secondly, and i say this because of the possibility to try to catch this individ
 93. https://en.wikipedia.org/wiki/Social_engineering_(security)
 
 94. https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
+
+95. https://en.wikipedia.org/wiki/Sienna
+
+96. https://en.wikipedia.org/wiki/Binary_black_hole
+
+97. https://en.wikipedia.org/wiki/Wormhole
+
+98. https://en.wikipedia.org/wiki/Spacetime
+
+99. https://en.wikipedia.org/wiki/Multiverse
 
     
 
