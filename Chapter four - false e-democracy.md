@@ -54,13 +54,28 @@ I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a no
 
 *How are the real persons behind that? Our fathers, because they are old people, they've lived and they only think about personal problems. They don't like humans and unconsciously or not have destroyed the life of their grandchildren.* 
 
-# Piloted feminism
+# Piloted feminism and others mass feelings
 
 ![Girl power](feminismpuppetry-punchierpink-958x559.jpg)
 
 **Feminism** [[28]](https://en.wikipedia.org/wiki/Feminism) is also another paint of this system, they have been very clever and got analyzed the weak points in our society. Attention theoretically feminism is a great movement is for freedom and equality in **human rights** [[29]](https://en.wikipedia.org/wiki/Human_rights) for women, in reply to **machismo** [[30]](https://en.wikipedia.org/wiki/Machismo) and **gender violence** [[31]](https://en.wikipedia.org/wiki/Gender_violence). So it's a democratic movement.     
 
-So who can utilize democratic movements to complain with a turn in totalitarianism in our Europe? Great service entrepreneurs departments by human hackers.
+So who can utilize democratic movements to complain with a turn in totalitarianism in our Europe? Great service entrepreneurs departments followed by human hackers.
+
+Why i speak about paint when i speak about feminist? It's not to illegitimate a true sentiment but it's to do a reflexion and i want that you, girls, do the same with my phrases that are not a manipulation but an object thinking. When we speak about sentiment that move a lot of persons, we can speak about masses. Masses are an incredible power tool for politicians and big entrepreneurs. Masses guided using a real sentiment with another final goal are very dangerous for democracy, masses vote almost the same when there's an **election** [[32]](https://en.wikipedia.org/wiki/Election) in the current **legislature** [[33]](https://en.wikipedia.org/wiki/Legislature).   
+
+![Carles Puigdemont in the Catalan parliament](1024px-Carles_Puigdemont_el_10_d'octubre_de_2017.jpg)
+
+Very unfortunately always when we speak about masses common feeling if they are not managed by great minds alien to foreign influences and primarily not corrupted by money, like it happen with the advance of the "Illuminati" pseudo dictatorship, they can be addressed where the corrupter want. 
+
+*The common address nowadays is the devious, for now, totalitarian regime.*
+
+Here it is others masses common feelings that is manipulated with this hell technology in my opinion:
+
+- The Catalan Republican feeling.
+- Associations against homophobia.
+- Football club supports.
+- Disgruntled citizens from the current political scene.
 
 # External links
 
@@ -95,4 +110,6 @@ So who can utilize democratic movements to complain with a turn in totalitariani
 29. https://en.wikipedia.org/wiki/Human_rights
 30. https://en.wikipedia.org/wiki/Machismo
 31. https://en.wikipedia.org/wiki/Gender_violence
+32. https://en.wikipedia.org/wiki/Election
+33. https://en.wikipedia.org/wiki/Legislature
 
