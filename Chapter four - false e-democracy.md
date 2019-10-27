@@ -58,6 +58,8 @@ I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a no
 
 ![Girl power](feminismpuppetry-punchierpink-958x559.jpg)
 
+**Feminism** [[28]](https://en.wikipedia.org/wiki/Feminism) is also another paint of this system, they have been very clever and got analyzed the weak points in our society. Attention theoretically feminism is a great movement is for freedom and equality in **human rights** [[29]](https://en.wikipedia.org/wiki/Human_rights) for women, in reply to **machismo** [[30]](https://en.wikipedia.org/wiki/Machismo) and **gender violence** [[31]](https://en.wikipedia.org/wiki/Gender_violence). So it's a democratic movement.     
+
 # External links
 
 1. https://en.wikipedia.org/wiki/Claustrophobia
@@ -87,4 +89,8 @@ I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a no
 25. https://en.wikipedia.org/wiki/Ignorance
 26. https://en.wikipedia.org/wiki/Money
 27. https://emojipedia.org/rolling-on-the-floor-laughing/
+28. https://en.wikipedia.org/wiki/Feminism
+29. https://en.wikipedia.org/wiki/Human_rights
+30. https://en.wikipedia.org/wiki/Machismo
+31. https://en.wikipedia.org/wiki/Gender_violence
 
