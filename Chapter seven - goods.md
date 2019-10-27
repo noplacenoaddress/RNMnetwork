@@ -13,9 +13,14 @@ People that normally doesn't accept this condition ends suicides or heroin addic
 
 Remember also a thing, if a person accept under torture, yes because who enter in this system is tortured to obtain **genuflection** [[1]](https://en.wikipedia.org/wiki/Genuflection), it's seems to be like a religion, selling drugs or obtain return from prostitution he's doing a crime so the owners of the network could press him to do whatever they want, like torture others friends that end in this vortex. 
 
-They do this also with the ghost of pederasty against children of the victims. 
+They do this also with the ghost of **pederasty** [[2]](https://en.wikipedia.org/wiki/Pederasty) against children of the victims. 
+
+> *There is another my two cents, i'm totally crazy or this digital and radio world perhaps in guided by some Vatican branch, some sect, or what so ever?* 
+>
+> *Something like this shit? **Communion and Liberation** [[3]](https://en.wikipedia.org/wiki/Communion_and_Liberation).*
 
 # External links
 
 1. https://en.wikipedia.org/wiki/Genuflection
 2. https://en.wikipedia.org/wiki/Pederasty
+3. https://en.wikipedia.org/wiki/Communion_and_Liberation
