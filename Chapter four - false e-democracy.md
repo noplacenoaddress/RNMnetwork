@@ -4,9 +4,22 @@
 
 As you can see there's a pyramid structure in this graphic, so, it's simple, it's a fraud. And electronic democracy *it's not democracy*. I remember my father telling me about his sense of **claustrophobia** [[1]](https://en.wikipedia.org/wiki/Claustrophobia) inside the **Giza pyramid complex** [[2]](https://en.wikipedia.org/wiki/Giza_pyramid_complex), also this illness could be classified as **anxiety disorder** [[3]](https://en.wikipedia.org/wiki/Anxiety_disorder). Look at the second last step before **e-democracy** [[4]](https://en.wikipedia.org/wiki/E-democracy), it's **big data** [[5]](https://en.wikipedia.org/wiki/Big_data) analysis. All of this data in the synthetic telepathy network has grow up a lot. In this criminal network there's absolutely no **privacy** [[6]](https://en.wikipedia.org/wiki/Privacy). And privacy is one of the most important towers of democracy. Where's no privacy there's no democracy.
 
-First of all all people that connected with the service of remote neural monitoring has got their mind read, auditory cortex and visual cortex first of all. What's happen? People are like remote video cameras! All in their line of sight is uploaded to the computing center, this probably could be in **Switzerland** [[7]](https://en.wikipedia.org/wiki/Switzerland).
+First of all all people that are connected with the service of remote neural monitoring has got their mind read, auditory cortex and visual cortex first of all. What's happen? People are like remote video cameras! All in their line of sight is uploaded to the computing center, this probably could be in **Switzerland** [[7]](https://en.wikipedia.org/wiki/Switzerland).
 
+What gain do you get in transforming humans into a device? 
 
+1.  Data recollecting about:	
+   1. Customs and traditions of people.
+   2. People's sexual clothes.
+   3. Political inclination.
+   4. All about them life and about life of his own circle of knowledge.
+   5. Total control on what so ever is them line of sight, like cars, license plates, people, etcetera etcetera.
+
+But speaking about democracy that is the title of this chapter the worst think is obviously that another tower of our democracies is broken, the **secret ballot** [[8]](https://en.wikipedia.org/wiki/Secret_ballot). 
+
+What is this network? I cannot understand why no one say nothing and my fear for a third world war and the consequent deaths is very high. This is terrorism, and is destroying the **United States of Europe** [[9]](https://en.wikipedia.org/wiki/United_States_of_Europe)
+
+![United States of Europe](9yvgtx5swr621.png) 	 
 
 # Piloted feminism
 
@@ -21,4 +34,6 @@ First of all all people that connected with the service of remote neural monitor
 5. https://en.wikipedia.org/wiki/Big_data
 6. https://en.wikipedia.org/wiki/Privacy
 7. https://en.wikipedia.org/wiki/Switzerland
+8. https://en.wikipedia.org/wiki/Secret_ballot
+9. https://en.wikipedia.org/wiki/United_States_of_Europe
 
