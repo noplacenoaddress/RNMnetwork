@@ -8,12 +8,13 @@ First of all all people that are connected with the service of remote neural mon
 
 What gain do you get in transforming humans into a device? 
 
-1.  Data recollecting about:	
-   1. Customs and traditions of people.
-   2. People's sexual clothes.
-   3. Political inclination.
-   4. All about them life and about life of his own circle of knowledge.
-   5. Total control on what so ever is them line of sight, like cars, license plates, people, etcetera etcetera.
+Data recollecting about:	
+
+1. Customs and traditions of people.
+2. People's sexual clothes.
+3. Political inclination.
+4. All about them life and about life of his own circle of knowledge.
+5. Total control on what so ever is them line of sight, like cars, license plates, people, etcetera etcetera.
 
 But speaking about democracy that is the title of this chapter the worst think is obviously that another tower of our democracies is broken, the **secret ballot** [[8]](https://en.wikipedia.org/wiki/Secret_ballot). 
 
