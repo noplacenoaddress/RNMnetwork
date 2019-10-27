@@ -11,7 +11,7 @@ Those slaves first of all enter for a couple of years in the lowest part of this
 
 People that normally doesn't accept this condition ends suicides or heroin addicted or in jail, this last phase underline the big corruption present in our society, and no one say nothing but it is under the eyes of everyone first of all the workers of hospitals, psychiatric structures, courts and jails.
 
-Remember also a thing, if a person accept under torture, yes because who enter in this system is tortured to obtain **genuflection** [[1]](https://en.wikipedia.org/wiki/Genuflection) (it's seems to be like a religion sure?)
+Remember also a thing, if a person accept under torture, yes because who enter in this system is tortured to obtain **genuflection** [[1]](https://en.wikipedia.org/wiki/Genuflection), it's seems to be like a religion sure?
 
 # External links
 
