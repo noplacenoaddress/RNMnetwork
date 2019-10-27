@@ -40,6 +40,12 @@ And tell me my dear reader, in what these currents flow into? Another time is ve
 
 Dear fellow reader how many persons die in the last **authoritarianism** [[23]](https://en.wikipedia.org/wiki/Authoritarianism). Only an example **World War 2** [[24]](https://en.wikipedia.org/wiki/World_War_II_casualties) casualties where 55 million. 
 
+Why people don't understand the real danger about "Illuminati"? It's so simple. 
+
+**Ignorance** [[25]](https://en.wikipedia.org/wiki/Ignorance). 
+
+But is ignorance a crime? No it isn't nor it is a bad word to describe the state of a person. It's not an insult. The crime is farm ignorance, with what? *In not so ancient time with supernatural, cult and church. Now with piloted mass media, television and Internet*. 
+
 # Piloted feminism
 
 ![Girl power](feminismpuppetry-punchierpink-958x559.jpg)
@@ -70,4 +76,6 @@ Dear fellow reader how many persons die in the last **authoritarianism** [[23]](
 22. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
 23. https://en.wikipedia.org/wiki/Authoritarianism
 24. https://en.wikipedia.org/wiki/World_War_II_casualties
+25. https://en.wikipedia.org/wiki/Ignorance
+26. 
 
