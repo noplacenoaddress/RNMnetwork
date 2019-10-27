@@ -76,6 +76,7 @@ Here it is others masses common feelings that is manipulated with this hell tech
 - Associations against homophobia.
 - Football club supports.
 - Disgruntled citizens from the current political scene.
+- Religious believers.
 
 # External links
 
