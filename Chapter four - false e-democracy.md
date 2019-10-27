@@ -46,6 +46,14 @@ Why people don't understand the real danger about "Illuminati"? It's so simple.
 
 But is ignorance a crime? No it isn't nor it is a bad word to describe the state of a person. It's not an insult. The crime is farm ignorance, with what? *In not so ancient time with supernatural, cult and church. Now with piloted mass media, television and Internet*. 
 
+But if they understand but no one say nothing, what is the cause. Always very simple:
+
+**Money** [[26]](https://en.wikipedia.org/wiki/Money).
+
+I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a nowadays technological acronym, a lot. For money and ignorance our sons and we are going to leave another forty years of blackout like the start of the twentieth century more dangerous because of extreme evolution of technology. 
+
+*How are the real persons behind that? Our fathers, because they are old people, they've lived and they only think about personal problems. They don't like humans and unconsciously or not have destroyed the life of their grandchildren.* 
+
 # Piloted feminism
 
 ![Girl power](feminismpuppetry-punchierpink-958x559.jpg)
@@ -77,5 +85,6 @@ But is ignorance a crime? No it isn't nor it is a bad word to describe the state
 23. https://en.wikipedia.org/wiki/Authoritarianism
 24. https://en.wikipedia.org/wiki/World_War_II_casualties
 25. https://en.wikipedia.org/wiki/Ignorance
-26. 
+26. https://en.wikipedia.org/wiki/Money
+27. https://emojipedia.org/rolling-on-the-floor-laughing/
 
