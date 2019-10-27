@@ -18,9 +18,13 @@ Data recollecting about:
 
 But speaking about democracy that is the title of this chapter the worst think is obviously that another tower of our democracies is broken, the **secret ballot** [[8]](https://en.wikipedia.org/wiki/Secret_ballot). 
 
-What is this network? I cannot understand why no one say nothing and my fear for a third world war and the consequent deaths is very high. This is terrorism, and is destroying the **United States of Europe** [[9]](https://en.wikipedia.org/wiki/United_States_of_Europe)
+What is this network? I cannot understand why no one say nothing and my fear for a third world war and the consequent deaths is very high. This is terrorism, and is destroying the **United States of Europe** [[9]](https://en.wikipedia.org/wiki/United_States_of_Europe).
 
-![United States of Europe](9yvgtx5swr621.png) 	 
+![United States of Europe](9yvgtx5swr621.png) 	
+
+Why our political don't do nothing about? Remember that United Kingdom has vote for ***Brexit***! 
+
+It's very simple and it's astonished how controllers, services and other political group say nothing! The answer is always the same and is the worst cancer of the democracy: **corruption** [[10]](https://en.wikipedia.org/wiki/Corruption). 
 
 # Piloted feminism
 
@@ -37,4 +41,5 @@ What is this network? I cannot understand why no one say nothing and my fear for
 7. https://en.wikipedia.org/wiki/Switzerland
 8. https://en.wikipedia.org/wiki/Secret_ballot
 9. https://en.wikipedia.org/wiki/United_States_of_Europe
+10. https://en.wikipedia.org/wiki/Corruption
 
