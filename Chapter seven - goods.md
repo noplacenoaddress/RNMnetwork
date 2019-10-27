@@ -19,7 +19,7 @@ They do this also with the ghost of **pederasty** [[2]](https://en.wikipedia.org
 >
 > *Something like this? **Communion and Liberation** [[5]](https://en.wikipedia.org/wiki/Communion_and_Liberation).*
 
-
+So in fact this pseudo dictatorship is founded in drug sell and prostitution. But where does it reverses its revenues? Basically in technology to fortify the digital explosion ship of people. Who're behind this monster? Aristocrats, Vatican, great entrepreneurs and so on. The **elite** [[6]](https://en.wikipedia.org/wiki/Elite).
 
 # External links
 
@@ -28,3 +28,4 @@ They do this also with the ghost of **pederasty** [[2]](https://en.wikipedia.org
 3. https://en.wikipedia.org/wiki/Complaint
 4. https://en.wikipedia.org/wiki/Equality_before_the_law
 5. https://en.wikipedia.org/wiki/Communion_and_Liberation
+6. https://en.wikipedia.org/wiki/Elite
