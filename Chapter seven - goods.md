@@ -15,7 +15,7 @@ Remember also a thing, if a person accept under torture, yes because who enter i
 
 They do this also with the ghost of **pederasty** [[2]](https://en.wikipedia.org/wiki/Pederasty) against children of the victims. 
 
-> *There is another my two cents, i'm totally crazy or this digital and radio world perhaps in guided by some Vatican branch, some sect, or what so ever?* 
+> *There is another my two cents, i'm totally crazy or this digital and radio world perhaps in guided by some sect, or what so ever?* 
 >
 > *Something like this? **Communion and Liberation** [[3]](https://en.wikipedia.org/wiki/Communion_and_Liberation).*
 
