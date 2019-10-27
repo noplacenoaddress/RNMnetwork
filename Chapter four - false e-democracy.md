@@ -26,6 +26,8 @@ Why our political don't do nothing about? Remember that United Kingdom has vote 
 
 It's very simple and it's astonished how controllers, services and other political group say nothing! The answer is always the same and is the worst cancer of the democracy: **corruption** [[10]](https://en.wikipedia.org/wiki/Corruption). 
 
+How has changed corruption with the "Illuminati" pseudo dictatorship? Simple, with untraceable crypt concurrency like Monero every type of public figure, like politicians or police, can be corrupted with this system. It's very important understand that on line crypt bank like  **Freewallet** [[11]](https://freewallet.org/) are totally anonymous, if used with the **Tor project** [[12]](https://www.torproject.org/) or a free **proxy server** [[13]](https://en.wikipedia.org/wiki/Proxy_server) also source **IP address** [[14]](https://en.wikipedia.org/wiki/IP_address) is rewritten so the service is near absolutely totally secure.
+
 # Piloted feminism
 
 ![Girl power](feminismpuppetry-punchierpink-958x559.jpg)
@@ -42,4 +44,8 @@ It's very simple and it's astonished how controllers, services and other politic
 8. https://en.wikipedia.org/wiki/Secret_ballot
 9. https://en.wikipedia.org/wiki/United_States_of_Europe
 10. https://en.wikipedia.org/wiki/Corruption
+11. https://freewallet.org/
+12. https://www.torproject.org/
+13. https://en.wikipedia.org/wiki/Proxy_server
+14. https://en.wikipedia.org/wiki/IP_address
 
