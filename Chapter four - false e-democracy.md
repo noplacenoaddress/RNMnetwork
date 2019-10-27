@@ -30,6 +30,16 @@ How has changed corruption with the "Illuminati" pseudo dictatorship? Simple, wi
 
 So we can start thinking about what is known as **election day** [[15]](https://en.wikipedia.org/wiki/Election_day) fraud and what is passing just now in our Europe, that is **democratic backsliding** [[16]](https://en.wikipedia.org/wiki/Democratic_backsliding). Since the end of the **cold war** [[17]](https://en.wikipedia.org/wiki/Cold_War) this process in active in the background of our democracies and is something that have been decided by the elite. Like no one have say nothing about the real tool and cause of this right totalitarianism turn, the tool and cause is this network, the synthetic telepathy network and the pseudo dictatorship "Illuminati". I think that at this time, 2019, this process is near to be irreversible like the **climate change** [[18]](https://en.wikipedia.org/wiki/Climate_change), *we've got to do something all together just now*. And in a public way and without using masks. The activists group **Anonymous** [[19]](https://en.wikipedia.org/wiki/Anonymous_(group)) is doing something about, but they've *been classified as terrorist* from ours politicians and also they have not do work in a clear way using simple words without two or more meanings, so a lot of people doesn't understand the real sense. This is a previous accord with the owners of this network where Anonymous got access and do a little bit of opposition, *but it's not sufficient*.
 
+What political currents have born from this backsliding? Remember always, history repeat because humans are always the same. Now with technology, the most important invention in the last century. 
+
+**Populism** [[20]](https://en.wikipedia.org/wiki/Populism). 
+
+And tell me my dear reader, in what these currents flow into? Another time is very simple, but *an icy shiver runs in my spine*:
+
+**Fascism** [[21]](https://en.wikipedia.org/wiki/Fascism) sold as social revolution, sold as **new world order** [[22]](https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)) (a fraud it's always the same elite gaming with people).
+
+Dear fellow reader how many persons die in the last **authoritarianism** [[23]](https://en.wikipedia.org/wiki/Authoritarianism). Only an example **World War 2** [[24]](https://en.wikipedia.org/wiki/World_War_II_casualties) casualties where 55 million. 
+
 # Piloted feminism
 
 ![Girl power](feminismpuppetry-punchierpink-958x559.jpg)
@@ -55,4 +65,9 @@ So we can start thinking about what is known as **election day** [[15]](https://
 17. https://en.wikipedia.org/wiki/Cold_War
 18. https://en.wikipedia.org/wiki/Climate_change
 19. https://en.wikipedia.org/wiki/Anonymous_(group)
+20. https://en.wikipedia.org/wiki/Populism
+21. https://en.wikipedia.org/wiki/Fascism
+22. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
+23. https://en.wikipedia.org/wiki/Authoritarianism
+24. https://en.wikipedia.org/wiki/World_War_II_casualties
 
