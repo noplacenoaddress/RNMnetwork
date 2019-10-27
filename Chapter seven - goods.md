@@ -31,9 +31,9 @@ Remember that all people in this network, victims or not, are under remote neura
 
 ![idea theft](brojid.com_.-Idea-Theft-1.jpg)
 
-# Porn industry food
 
-![Porn video on demand](welcome3.jpg)
+
+
 
 # External links
 
