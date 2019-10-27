@@ -50,7 +50,7 @@ But if they understand but no one say nothing, what is the cause. Always very si
 
 **Money** [[26]](https://en.wikipedia.org/wiki/Money).
 
-I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a nowadays technological acronym, a lot. For money and ignorance our sons and we are going to leave another forty years of blackout like the start of the twentieth century more dangerous because of extreme evolution of technology. 
+I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a nowadays technological acronym, a lot. For money and ignorance our sons and we are about to live another forty years of blackout like the start of the twentieth century more dangerous because of extreme evolution of technology. 
 
 *How are the real persons behind that? Our fathers, because they are old people, they've lived and they only think about personal problems. They don't like humans and unconsciously or not have destroyed the life of their grandchildren.* 
 
