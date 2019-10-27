@@ -21,9 +21,20 @@ Let's start the little scene about the destruction of the basis of girl's normal
 13. [ETAPA DEL CONTROL DEL 2000 HASTA 2010]()
 14. [ETAPA DESDE 2010 HASTA LA EXTINCIÓN](https://drive.google.com/open?id=1d09wG-Oxp0LXhrRveA8MzQgV4On6QZwr)
 
+As you can see this is totally absurd. But in all of this shit there's is some trace of true. Religion, church, Nazi and technology.  But i'm an average man caught. What happened to a young girl without culture and inducted to drugs utilized to cut drugs to sniff like cocaine or **ketamine** [[3]](https://en.wikipedia.org/wiki/Ketamine)? The most dangerous cut it's called **dopamine** [[4]](https://en.wikipedia.org/wiki/Dopamine). Dopamine augment libido, what is called **reward system** [[5]](https://en.wikipedia.org/wiki/Reward_system) is boosted. In simple words the girl with the use of cocaine and dopamine more the electronic reproductive system over excitement conduct the victim to extreme sexual behaviors. 
 
+Next 
 
 # External Links 
 
 1. https://en.wikipedia.org/wiki/Internet_fraud
+
 2. https://en.wikipedia.org/wiki/Anorexia_nervosa
+
+3. https://en.wikipedia.org/wiki/Ketamine
+
+4. https://en.wikipedia.org/wiki/Dopamine
+
+5. https://en.wikipedia.org/wiki/Reward_system
+
+   
