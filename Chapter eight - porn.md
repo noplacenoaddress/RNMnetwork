@@ -21,9 +21,21 @@ Let's start the little scene about the destruction of the basis of girl's normal
 13. [ETAPA DEL CONTROL DEL 2000 HASTA 2010]()
 14. [ETAPA DESDE 2010 HASTA LA EXTINCIÓN](https://drive.google.com/open?id=1d09wG-Oxp0LXhrRveA8MzQgV4On6QZwr)
 
-As you can see this is totally absurd. But in all of this shit there's is some trace of true. Religion, church, Nazi and technology.  But i'm an average man caught. What happened to a young girl without culture and inducted to drugs utilized to cut drugs to sniff like cocaine or **ketamine** [[3]](https://en.wikipedia.org/wiki/Ketamine)? The most dangerous cut it's called **dopamine** [[4]](https://en.wikipedia.org/wiki/Dopamine). Dopamine augment libido, what is called **reward system** [[5]](https://en.wikipedia.org/wiki/Reward_system) is boosted. In simple words the girl with the use of cocaine and dopamine more the electronic reproductive system over excitement conduct the victim to extreme sexual behaviors. 
+As you can see this is totally absurd. But in all of this shit there's is some trace of true. *Religion, church, Nazi and technology*.  But i'm an average man caught. What happened to a young girl without culture and inducted to drugs utilized to cut drugs to sniff like cocaine or **ketamine** [[3]](https://en.wikipedia.org/wiki/Ketamine)? The most dangerous cut it's called **dopamine** [[4]](https://en.wikipedia.org/wiki/Dopamine). Dopamine augment libido, what is called **reward system** [[5]](https://en.wikipedia.org/wiki/Reward_system) is boosted. In simple words the girl with the use of cocaine and dopamine more the electronic reproductive system over excitement conduct the victim to extreme sexual behaviors. 
 
-Next 
+After these systematic destruction of the basis of society, democracy and sexual behavior in the mind and memory of the victim, she is theoretically approached by chance by individuals that takes advantage of his confusion and over-excitement to get her up and put her in extreme sex environments and BDSM parties. What is the final goal of this process? As usual it's simple. Money. The girl think that she has a lucky time to know new friends obviously of good economic status and participate in what this stalkers call "new world order", basically based on rituals and sex orgies for young women of good aspect. In reality she's sold to aristocratic or entrepreneurs to have sexual encounters and be treated like a sex slave. 
+
+Where does she will fall? Normally after a period of time where she is victim of human traffic and sexual harassment she'll die by a car accident, overdose or put in jail. Remember what i've say about gangastalking.
+
+Who are the clients of this horrible crime?
+
+- Ecclesiastical.
+- Aristocrat.
+- Business man.
+- High class drug trafficker.    
+- etcetera etcetera
+
+Will the girl gain money? No absolutely not. *She is fated to a bad destiny*. 
 
 # External Links 
 
