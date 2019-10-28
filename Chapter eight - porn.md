@@ -71,6 +71,7 @@ There is others networks that are called **imageboard** [[21]](https://en.wikipe
 4. https://www.2chan.net/
 5. http://7chan.org/
 6. http://oxwugzccvk3dk6tj.onion
+7. https://bbw-chan.nl/
 
 First reflexion almost all the girls on those portals are victim of this criminal network. Almost all are ex girlfriend of mans that are victims of gang stalking searching for hers and fall into a suicide vortex. 
 
@@ -94,6 +95,18 @@ Others pages are not for live interaction but there i've found some porn video a
 - https://xhamster.com/
 
 But nowadays there's a lot of streaming porn video site. This industry is one of the most important branch of the digital revolution. I don't know the exact magnitude of the machine's utilization but i think that a good part in percent of the market. 
+
+But there's a lot of others resources on Internet about porn, a good list in:
+
+https://www.mrporngeek.com/
+
+Last but not least is the platform **Reddit** [[27]](https://en.wikipedia.org/wiki/Reddit):
+
+- https://www.reddit.com/r/gonewild/
+- https://www.reddit.com/r/nsfw/
+- https://www.reddit.com/r/nsfw_gif
+- https://www.reddit.com/r/realgirls
+- https://www.reddit.com/r/holdthemoan/
 
 # External Links 
 
@@ -148,6 +161,10 @@ But nowadays there's a lot of streaming porn video site. This industry is one of
 25. https://en.wikipedia.org/wiki/Organizational_chart
 
 26. https://en.wikipedia.org/wiki/Interpol
+
+27. https://en.wikipedia.org/wiki/Reddit
+
+    
 
     
 
