@@ -55,6 +55,14 @@ If this is done at large scale this could destabilize society and also democracy
 
 Don't be afraid to speak about, i'm Riccardo Giuntoli and i say to you that there is not any problem. In democracy, and yes we live in this system of **government** [[17]](https://en.wikipedia.org/wiki/Government), there is the **freedom of speech** [[18]](https://en.wikipedia.org/wiki/Freedom_of_speech) that is another important defense's tower. 
 
+# World wide web porn portals
+
+First of all a consideration. Machine of the synthetic telepathy network in porn is present. No one say nothing but it's a reality. Cam site permit to connect people under this system with the models acting in the other site. **Cam4** [[19]](https://en.wikipedia.org/wiki/CAM4) and **Chaturbate** [[20]](https://en.wikipedia.org/wiki/Chaturbate) for sure. So there is an accord between the owners of those web pages and the owners of the network. Who they are?
+
+![Chaturbate web cam](chatturbate.png)
+
+Another consideration. A girl that is victim of this criminal system could be connected to many actress doing live sex on those portals as the owners want. What does it mean? The victim when close her eyes every time will see a porn scene so she cannot sleep and she is always over stimulated always searching to create a sexual slave. *This is a torture that destroy the life of the victim.* Be careful *they can do this also with a children*. Connecting a child to those womens acting in front of the cam will change the behavior of the child, preparing to a possible sold to a pederast.  They use this threat to obtain also sexual slavery from the mom. 
+
 # External Links 
 
 1. https://en.wikipedia.org/wiki/Internet_fraud
@@ -92,5 +100,11 @@ Don't be afraid to speak about, i'm Riccardo Giuntoli and i say to you that ther
 17. https://en.wikipedia.org/wiki/Government
 
 18. https://en.wikipedia.org/wiki/Freedom_of_speech
+
+19. https://en.wikipedia.org/wiki/CAM4
+
+20. https://en.wikipedia.org/wiki/Chaturbate
+
+    
 
     
