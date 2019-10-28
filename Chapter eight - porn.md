@@ -61,7 +61,17 @@ First of all a consideration. Machine of the synthetic telepathy network in porn
 
 ![Chaturbate web cam](chatturbate.png)
 
-Another consideration. A girl that is victim of this criminal system could be connected to many actress doing live sex on those portals as the owners want. What does it mean? The victim when close her eyes every time will see a porn scene so she cannot sleep and she is always over stimulated always searching to create a sexual slave. *This is a torture that destroy the life of the victim.* Be careful *they can do this also with a children*. Connecting a child to those womens acting in front of the cam will change the behavior of the child, preparing to a possible sold to a pederast.  They use this threat to obtain also sexual slavery from the mom. 
+Another consideration. A girl that is victim of this criminal system could be connected to many actress doing live sex on those portals as the owners want. What does it mean? The victim when close her eyes every time will see a porn scene so she cannot sleep and she is always over stimulated always searching to create a sexual slave. *This is a torture that destroy the life of the victim.* Be careful *they can do this also with a children*. Connecting a child to those womens acting in front of the cam will change the behavior of the child, preparing to a possible sold to a pederast.  They use this threat, *i think almost always its only a threat* but i cannot swear it, to obtain also sexual slavery from the mom. 
+
+There is others networks that are called **imageboard** [[21]](https://en.wikipedia.org/wiki/Imageboard), on wikipedia is declared as property of the Anonymous group but *i've got my doubts*. They are on clear and deep Internet . They've got many amateur pornography post a little bit strange because of violence in many cases, we can find on Internet those addresses:
+
+1. https://www.4chan.org/ 
+2. https://www.4channel.org/
+3. https://www.2chan.net/
+4. http://7chan.org/
+5. http://oxwugzccvk3dk6tj.onion
+
+Propertar 
 
 # External Links 
 
@@ -104,6 +114,10 @@ Another consideration. A girl that is victim of this criminal system could be co
 19. https://en.wikipedia.org/wiki/CAM4
 
 20. https://en.wikipedia.org/wiki/Chaturbate
+
+21. https://en.wikipedia.org/wiki/Imageboard
+
+22. https://en.wikipedia.org/wiki/4chan
 
     
 
