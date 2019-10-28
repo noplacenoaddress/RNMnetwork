@@ -37,6 +37,24 @@ Who are the clients of this horrible crime?
 
 Will the girl gain money? No absolutely not. *She is fated to a bad destiny*. 
 
+# Barcelona swingers and BDSM ambient.
+
+![Club rosas cinco](bdsm-rosas-cinco-barcelona.png)
+
+**Swinging** [[6]](https://en.wikipedia.org/wiki/Swinging_(sexual_practice)), intercambio de parejas in Spanish, intercanvi de parelles in Catalan. A phenomenon that has seen Barcelona, the Catalunya most important city, like one of the most important sexual tourism destination about this sexual practice. 
+
+**BDSM** [[7]](https://en.wikipedia.org/wiki/Swinging_(sexual_practice)) another extreme sexual practice based on **dominance and submission** [[8]](https://en.wikipedia.org/wiki/Dominance_and_submission). Slavery. Perhaps we are speaking about the old **Atlantic slave trade** [[9]](https://en.wikipedia.org/wiki/Atlantic_slave_trade)? Or another mental illness? Or a tool? All the four, sex, commerce command and conquer, health, **handicraft** [[10]](https://en.wikipedia.org/wiki/Handicraft). 
+
+Speaking about induced sexual slave with the Machine of the "Illuminati" network and focusing over this kind of installations we've to reflect about the real meaning of all of this. Why owners of this network use humans after a brain wash procedure in those rituals? Remembers that *animals don't do orgies*, don't use pain to cause pleasure. This seems to be something like **the Decameron** [[11]](https://en.wikipedia.org/wiki/The_Decameron), **One Thousand and One Nights** [[12]](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights). But also something like **middle ages** [[13]](https://en.wikipedia.org/wiki/Middle_Ages) **torture** [[14]](https://en.wikipedia.org/wiki/Torture). 
+
+Here is my point of view. 
+
+In this focus we've got the girl molded has sexual slave but not only, someone could have the mask of slave but in reality is a master. Next we've got normally an husband and his wife that search for extra matrimonial pleasure because of them low sexual activity due to time and almost probably because in reality they got married without be in real love, because, yes, *real love exist* it's only difficult to find. "Illuminati" play this game of destruction over families to divide families to gain money doing **gambling** [[15]](https://en.wikipedia.org/wiki/Gambling) over on the lives of destroyed people, children are also victims they can be sold in human traffic crimes or even be victims of **organ trade** [[16]](https://en.wikipedia.org/wiki/Organ_trade). *And this real and true in the Europe of 2019, incredible*. 
+
+If this is done at large scale this could destabilize society and also democracy. So the final goal is always the same. Terrorism. The sale of Europe. 
+
+Don't be afraid to speak about, i'm Riccardo Giuntoli and i say to you that there is not any problem. In democracy, and yes we live in this system of **government** [[17]](https://en.wikipedia.org/wiki/Government), there is the **freedom of speech** [[18]](https://en.wikipedia.org/wiki/Freedom_of_speech) that is another important defense's tower. 
+
 # External Links 
 
 1. https://en.wikipedia.org/wiki/Internet_fraud
@@ -49,4 +67,30 @@ Will the girl gain money? No absolutely not. *She is fated to a bad destiny*.
 
 5. https://en.wikipedia.org/wiki/Reward_system
 
-   
+6. https://en.wikipedia.org/wiki/Swinging_(sexual_practice)
+
+7. https://en.wikipedia.org/wiki/BDSM
+
+8. https://en.wikipedia.org/wiki/Dominance_and_submission
+
+9. https://en.wikipedia.org/wiki/Atlantic_slave_trade
+
+10. https://en.wikipedia.org/wiki/Handicraft
+
+11. https://en.wikipedia.org/wiki/The_Decameron
+
+12. https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights
+
+13. https://en.wikipedia.org/wiki/Middle_Ages
+
+14. https://en.wikipedia.org/wiki/Torture
+
+15. https://en.wikipedia.org/wiki/Gambling
+
+16. https://en.wikipedia.org/wiki/Organ_trade
+
+17. https://en.wikipedia.org/wiki/Government
+
+18. https://en.wikipedia.org/wiki/Freedom_of_speech
+
+    
