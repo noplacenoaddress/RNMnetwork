@@ -67,11 +67,26 @@ There is others networks that are called **imageboard** [[21]](https://en.wikipe
 
 1. https://www.4chan.org/ 
 2. https://www.4channel.org/
-3. https://www.2chan.net/
-4. http://7chan.org/
-5. http://oxwugzccvk3dk6tj.onion
+3. https://420chan.org/
+4. https://www.2chan.net/
+5. http://7chan.org/
+6. http://oxwugzccvk3dk6tj.onion
 
-Propertar 
+First reflexion almost all the girls on those portals are victim of this criminal network. Almost all are ex girlfriend of mans that are victims of gang stalking searching for hers and fall into a suicide vortex. 
+
+Who are behind those image boards?
+
+1. **Christopher Poole** [[22]](https://en.wikipedia.org/wiki/Christopher_Poole)
+2. **Hiroyuki Nishimura** [[23]](https://en.wikipedia.org/wiki/Hiroyuki_Nishimura).
+3. **Fredrick Brennan** [[24]](https://en.wikipedia.org/wiki/Fredrick_Brennan).
+
+Here i've personally found **263 images and porn video** of my ex girlfriend. Because yes, i'm a victim of this system. I'm a target individual. But i'm a senior network engineer, a white hat hacker and a OSINT investigator. I want to shut down this evil network. And Saray, this is her name, is a victim from about ten years. I love her. And all of this is only for her and her baby. 
+
+ ![Saray](sarayporn.png)
+
+But the most important think is that i know personally like almost the **organization chart**  [[25]](https://en.wikipedia.org/wiki/Organizational_chart). They have to be put in jail from International Police like **Interpol** [[26]](https://en.wikipedia.org/wiki/Interpol). 
+
+*Saray need help, i wish you where here little baby. Kisses.*
 
 # External Links 
 
@@ -117,7 +132,15 @@ Propertar
 
 21. https://en.wikipedia.org/wiki/Imageboard
 
-22. https://en.wikipedia.org/wiki/4chan
+22. https://en.wikipedia.org/wiki/Christopher_Poole
+
+23. https://en.wikipedia.org/wiki/Hiroyuki_Nishimura
+
+24. https://en.wikipedia.org/wiki/Fredrick_Brennan
+
+25. https://en.wikipedia.org/wiki/Organizational_chart
+
+26. https://en.wikipedia.org/wiki/Interpol
 
     
 
