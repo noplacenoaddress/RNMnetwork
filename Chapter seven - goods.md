@@ -39,7 +39,18 @@ With remote neural monitoring what happen to business man:
 
 So another kind of victim of the network are young inexpert businessman, like i was, that are inserted violently in this system. They theft all his possession and fall in the gang stalking game, normally for a couple of years or more depending on his capacities and **synonym** [[14]](https://en.wikipedia.org/wiki/Synonym).
 
+The word is format:
 
+1. pattern.
+2. size.
+3. erase.
+4. layout.
+
+Format has many other meanings as well, but with those four it's sufficient. I think that readers could easily understand what i want to say, i this network be careful to listen to every word and phrases in radio frequency because people here are very expert and real meaning is always various way like a **conditional** [[15]](https://en.wikipedia.org/wiki/Conditional_(computer_programming)) in computer programming. 
+
+**Ocaml** [[16]](https://en.wikipedia.org/wiki/OCaml) is without any doubt a program language very common in this system.
+
+![ocaml.re](1*uxmsEQN95oGc1M2UQCIywA.png)
 
 # External links
 
@@ -70,5 +81,9 @@ So another kind of victim of the network are young inexpert businessman, like i 
 13. https://en.wikipedia.org/wiki/Competition_law
 
 14. https://en.wikipedia.org/wiki/Synonym
+
+15. https://en.wikipedia.org/wiki/Conditional_(computer_programming)
+
+16. https://en.wikipedia.org/wiki/OCaml
 
     
