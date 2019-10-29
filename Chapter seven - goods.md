@@ -35,9 +35,9 @@ With remote neural monitoring what happen to business man:
 
 - **Unfair competition** [[11]](https://en.wikipedia.org/wiki/Unfair_competition)
 - **Misappropriation** [[12]](https://en.wikipedia.org/wiki/Misappropriation)
-- Break of **Competition law** [[13]](https://en.wikipedia.org/wiki/Competition_law)
+- Break of **competition law** [[13]](https://en.wikipedia.org/wiki/Competition_law)
 
-So another kind of victim of the network are young inexpert businessman, like i was, that are inserted violently in this system. They theft all his possession and fall in the gang stalking game, normally for a couple of years or more depending on his capacities. 
+So another kind of victim of the network are young inexpert businessman, like i was, that are inserted violently in this system. They theft all his possession and fall in the gang stalking game, normally for a couple of years or more depending on his capacities and **synonym** [[14]](https://en.wikipedia.org/wiki/Synonym).
 
 
 
@@ -68,5 +68,7 @@ So another kind of victim of the network are young inexpert businessman, like i 
 12. https://en.wikipedia.org/wiki/Misappropriation
 
 13. https://en.wikipedia.org/wiki/Competition_law
+
+14. https://en.wikipedia.org/wiki/Synonym
 
     

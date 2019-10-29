@@ -6,7 +6,7 @@ Yes. And mass media and television owners believe more than you. Do you know **T
 
 Who are the beautiful girls of this '90 photo shoot? **Gianni Boncompagni** [[2]](https://en.wikipedia.org/wiki/Gianni_Boncompagni) productions "**Non è la rai**" [[3]](https://it.wikipedia.org/wiki/Non_%C3%A8_la_Rai).
 
-
+In this world, the B-side, people use four meanings for every words. People that don't know rules of this fascinating other side of life, like me, got some difficult to easy understand rapidly what is the real meaning but with some experience and a good music to concentrate us we can understand the real meaning of format (disambiguation) as usual only using wikipedia and 	
 
 # External links
 

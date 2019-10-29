@@ -54,7 +54,7 @@ This is only a little window over this terrorist and criminal network. We'll go 
 
 A blockchain model applied to networking **ISO/OSI** [[11]](https://en.wikipedia.org/wiki/OSI_model) stack. It replace the last fourth pile of the Internet model. Packets are replaced with data chunks mixed in various different locations without a fixed one, a central server. It's like the old style **p2p** [[12]](https://en.wikipedia.org/wiki/Peer-to-peer) but with new encryptions models that guarantee **privacy** [[13]](https://en.wikipedia.org/wiki/Privacy), **cryptography** [[14]](https://en.wikipedia.org/wiki/Cryptography), confidentiality, integrity, and availability.
 
-### External Links
+# External Links	
 
 1. https://www.getmonero.org/
 2. https://en.wikipedia.org/wiki/Blockchain
