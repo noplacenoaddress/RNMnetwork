@@ -78,6 +78,24 @@ Here it is others masses common feelings that is manipulated with this hell tech
 - Disgruntled citizens from the current political scene.
 - Religious believers.
 
+# Documentation and bank identity thief
+
+![CaixaBank](60410.jpg)
+
+There is others towers of our democracy government like the importance of keeping your identification and banking documents private. With this technology all of yours documents are read by the visual cortex remote reading by the neural control.
+
+Also, and yes it's true, with radio frequency it's possible to simulate a **magnetic stripe reader** [[34]](https://en.wikipedia.org/wiki/Card_reader) device and chip reader. It's true and it's under our eyes every days. Do you know **contactless payment** [[35]](https://en.wikipedia.org/wiki/Contactless_payment)? Do you know **radio frequency identification** [[36]](https://en.wikipedia.org/wiki/Radio-frequency_identification)? Could you image that the same system is done from a satellite network? You probably don't understand that we've totally loose our democracy. E-democracy is totally hacked by satterrorism. And it's now, and no one speak about? Does mass media say nothing? No. Why? Because of democratic backsliding that have fallen into populism political real movement and that obviously will fall into fascism and millions of death. The history always is repeating because of human kind, we're always the same animal and with technology we're too dangerous. For our planet and for our fellow men. *What is happening in reality*?
+
+![Capitalist pyramid](Pyramid_of_Capitalist_System.png) 
+
+Look another pyramid, another fraud, this have more than two thousand years. A strong one. Ok but now there's one layer upper that is **outer space** [[37]](https://en.wikipedia.org/wiki/Outer_space) and **cyberspace** [[38]](https://en.wikipedia.org/wiki/Cyberspace).
+
+Old summit of the capitalist pyramid, that have been always the same aristocratic cast, have lost them supremacy. This is called **new world order** [[39]](https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)), but is a conspiracy theory (in wikipedia, a web portal...).
+
+![New World Order](nwo.png)
+
+Look at this false **esoterism** [[40]](https://en.wikipedia.org/wiki/Western_esotericism) **masonic** [[41]](https://en.wikipedia.org/wiki/Freemasonry) symbol, you can find it on the **dollar** [[42]](https://en.wikipedia.org/wiki/Dollar) . Remember *paper money is a fraud also*.  A pyramid, a fraud, broken in his summit by an eye in space. *Satellite nothing else*.
+
 # External links
 
 1. https://en.wikipedia.org/wiki/Claustrophobia
@@ -113,4 +131,13 @@ Here it is others masses common feelings that is manipulated with this hell tech
 31. https://en.wikipedia.org/wiki/Gender_violence
 32. https://en.wikipedia.org/wiki/Election
 33. https://en.wikipedia.org/wiki/Legislature
+34. https://en.wikipedia.org/wiki/Card_reader
+35. https://en.wikipedia.org/wiki/Contactless_payment
+36. https://en.wikipedia.org/wiki/Radio-frequency_identification
+37. https://en.wikipedia.org/wiki/Outer_space
+38. https://en.wikipedia.org/wiki/Cyberspace
+39. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
+40. https://en.wikipedia.org/wiki/Western_esotericism
+41. https://en.wikipedia.org/wiki/Freemasonry
+42. https://en.wikipedia.org/wiki/Dollar
 
