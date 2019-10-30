@@ -112,7 +112,7 @@ They call them the **unicorn club** [[43]](https://en.wikipedia.org/wiki/Unicorn
 
 Look at those last three tech giant, are Chinese. 
 
-The reality is one. **Barcelona was owned to BAT tech giants.** And also the B-side is under those group. Because big tech nowadays control also black markets. Yes, it's true and yes the new mafia. The digital one.
+The reality is one. **Barcelona was owned by BAT tech giants.** And also the B-side is under those group. Because big tech nowadays control also black markets. Yes, it's true and yes the new mafia. The digital one.
 
 ![BAT](Batman-Golden-Age-Featured-Image-Cropped.jpg)
 
