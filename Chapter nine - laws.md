@@ -2,7 +2,7 @@
 
 ![La legge è uguale per tutti](-piero-calamandrei--la-legge--20190913-160438-legge-uguale-tutti.jpg)
 
-
+l
 
 ### Crimes and internationals laws about gangstalking and gaslighting
 

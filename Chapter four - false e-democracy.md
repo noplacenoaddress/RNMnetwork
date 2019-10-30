@@ -96,6 +96,10 @@ Old summit of the capitalist pyramid, that have been always the same aristocrati
 
 Look at this false **esoterism** [[40]](https://en.wikipedia.org/wiki/Western_esotericism) **masonic** [[41]](https://en.wikipedia.org/wiki/Freemasonry) symbol, you can find it on the **dollar** [[42]](https://en.wikipedia.org/wiki/Dollar) . Remember *paper money is a fraud also*.  A pyramid, a fraud, broken in his summit by an eye in space. *Satellite nothing else*.
 
+But who are who have broken the capitalist summit? Big technological firm.
+
+
+
 # External links
 
 1. https://en.wikipedia.org/wiki/Claustrophobia

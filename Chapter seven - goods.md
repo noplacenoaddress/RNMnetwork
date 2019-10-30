@@ -31,7 +31,7 @@ Remember that all people in this network, victims or not, are under remote neura
 
 ![idea theft](brojid.com_.-Idea-Theft-1.jpg)
 
-With remote neural monitoring what happen to business man: 
+With remote neural monitoring what happen to business mans: 
 
 - **Unfair competition** [[11]](https://en.wikipedia.org/wiki/Unfair_competition)
 - **Misappropriation** [[12]](https://en.wikipedia.org/wiki/Misappropriation)
@@ -68,11 +68,5 @@ So another kind of victim of the network are young inexpert businessman, like i 
 12. https://en.wikipedia.org/wiki/Misappropriation
 
 13. https://en.wikipedia.org/wiki/Competition_law
-
-14. https://en.wikipedia.org/wiki/Synonym
-
-15. https://en.wikipedia.org/wiki/Conditional_(computer_programming)
-
-16. https://en.wikipedia.org/wiki/OCaml
 
     
