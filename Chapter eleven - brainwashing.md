@@ -19,7 +19,7 @@ Format has many other meanings as well, but with those four it's sufficient. I t
 
 **Ocaml** [[16]](https://en.wikipedia.org/wiki/OCaml) is without any doubt a program language very common in this system.
 
-![ocaml.re](/home/taglio/Work/gangstalking/1*uxmsEQN95oGc1M2UQCIywA.png)
+![ocaml.re](1*uxmsEQN95oGc1M2UQCIywA.png)
 
 # External links
 
