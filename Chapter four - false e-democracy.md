@@ -98,50 +98,121 @@ Look at this false **esoterism** [[40]](https://en.wikipedia.org/wiki/Western_es
 
 But who are who have broken the capitalist summit? Big technological firm.
 
+They call them the **unicorn club** [[43]](https://en.wikipedia.org/wiki/Unicorn_(finance)), another symbol. And the biggest are the **GAFAM** [[44]](https://en.wikipedia.org/wiki/Big_Four_tech_companies), next "**the big nine G-MAFIA BAT**" [[45]](https://www.wired.com/beyond-the-beyond/2019/03/big-nine-g-mafia-bat/). Those are the companies:
+
+1. Google
+2. Amazon
+3. IBM
+4. Facebook
+5. Apple
+6. Microsoft
+7. **Baidu** [[46]](https://en.wikipedia.org/wiki/Alibaba_Group)
+8. **Alibaba** [[47]](https://en.wikipedia.org/wiki/Alibaba_Group)
+9. **Tencent** [[46]](https://en.wikipedia.org/wiki/Tencent)
+
+Look at those last three tech giant, are Chinese. 
+
+The reality is one. **Barcelona was owned to BAT tech giants.** And also the B-side is under those group. Because big tech nowadays control also black markets. Yes, it's true and yes the new mafia. The digital one.
+
+![BAT](Batman-Golden-Age-Featured-Image-Cropped.jpg)
+
 
 
 # External links
 
 1. https://en.wikipedia.org/wiki/Claustrophobia
+
 2. https://en.wikipedia.org/wiki/Giza_pyramid_complex
+
 3. https://en.wikipedia.org/wiki/Anxiety_disorder
+
 4. https://en.wikipedia.org/wiki/E-democracy
+
 5. https://en.wikipedia.org/wiki/Big_data
+
 6. https://en.wikipedia.org/wiki/Privacy
+
 7. https://en.wikipedia.org/wiki/Switzerland
+
 8. https://en.wikipedia.org/wiki/Secret_ballot
+
 9. https://en.wikipedia.org/wiki/United_States_of_Europe
+
 10. https://en.wikipedia.org/wiki/Corruption
+
 11. https://freewallet.org/
+
 12. https://www.torproject.org/
+
 13. https://en.wikipedia.org/wiki/Proxy_server
+
 14. https://en.wikipedia.org/wiki/IP_address
+
 15. https://en.wikipedia.org/wiki/Election_day
+
 16. https://en.wikipedia.org/wiki/Democratic_backsliding
+
 17. https://en.wikipedia.org/wiki/Cold_War
+
 18. https://en.wikipedia.org/wiki/Climate_change
+
 19. https://en.wikipedia.org/wiki/Anonymous_(group)
+
 20. https://en.wikipedia.org/wiki/Populism
+
 21. https://en.wikipedia.org/wiki/Fascism
+
 22. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
+
 23. https://en.wikipedia.org/wiki/Authoritarianism
+
 24. https://en.wikipedia.org/wiki/World_War_II_casualties
+
 25. https://en.wikipedia.org/wiki/Ignorance
+
 26. https://en.wikipedia.org/wiki/Money
+
 27. https://emojipedia.org/rolling-on-the-floor-laughing/
+
 28. https://en.wikipedia.org/wiki/Feminism
+
 29. https://en.wikipedia.org/wiki/Human_rights
+
 30. https://en.wikipedia.org/wiki/Machismo
+
 31. https://en.wikipedia.org/wiki/Gender_violence
+
 32. https://en.wikipedia.org/wiki/Election
+
 33. https://en.wikipedia.org/wiki/Legislature
+
 34. https://en.wikipedia.org/wiki/Card_reader
+
 35. https://en.wikipedia.org/wiki/Contactless_payment
+
 36. https://en.wikipedia.org/wiki/Radio-frequency_identification
+
 37. https://en.wikipedia.org/wiki/Outer_space
+
 38. https://en.wikipedia.org/wiki/Cyberspace
+
 39. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
+
 40. https://en.wikipedia.org/wiki/Western_esotericism
+
 41. https://en.wikipedia.org/wiki/Freemasonry
+
 42. https://en.wikipedia.org/wiki/Dollar
+
+43. https://en.wikipedia.org/wiki/Unicorn_(finance)
+
+44. https://en.wikipedia.org/wiki/Big_Four_tech_companies
+
+45. https://www.wired.com/beyond-the-beyond/2019/03/big-nine-g-mafia-bat/
+
+46. https://en.wikipedia.org/wiki/Baidu
+
+    
+
+    
 
