@@ -116,9 +116,24 @@ The reality is one. **Barcelona was owned by BAT tech giants.** And also the B-s
 
 ![BAT](Batman-Golden-Age-Featured-Image-Cropped.jpg)
 
+# Oaths break
 
+![Hippocratic Oath](HippocraticOath.jpg)
 
-# External links
+There's various professional figures in a democratic state that have to oath in front of the state about the professional secret of customers personal data and cases. 
+
+ Those professionals are important to maintains people sovereign state:
+
+- Doctors and odontologist, **Hippocratic Oath** [[47]](https://en.wikipedia.org/wiki/Hippocratic_Oath).
+- Military and also military police like **Carabinieri** [[48]](https://en.wikipedia.org/wiki/Carabinieri) or **Guardia Civil** [[49]](https://en.wikipedia.org/wiki/Civil_Guard_(Spain)),  **Oath of allegiance** [[50]](https://en.wikipedia.org/wiki/Oath_of_allegiance).
+- **Oath of politicians office** [[51]](https://en.wikipedia.org/wiki/Oath_of_office).
+- Oath of **lawyers** [[52]](https://en.wikipedia.org/wiki/Lawyer).
+
+With this criminal networks it's impossible to maintain professional secrecy! All what we're saying to a lawyer or a police officers or our medicals records are registered and stolen. They have the knowledge of all about us. 
+
+I call it a pseudo dictatorship because it is a state under the state like it is the old Mafia. But it's important to understand that this kind of digital Mafia with this extreme invasive technology got all about every citizen  and professional. It's absolutely the end of democracy, no privacy, without rights, every victim or target individual is totally naked in front of the perpetuators of this horrible criminal state. Something that start in Internet like a fraud, the *"Illuminati" now are a very dangerous Mafia which is taking ground in the civil status but also in the ancient mafias*. 
+
+# E xternal links
 
 1. https://en.wikipedia.org/wiki/Claustrophobia
 
@@ -211,6 +226,20 @@ The reality is one. **Barcelona was owned by BAT tech giants.** And also the B-s
 45. https://www.wired.com/beyond-the-beyond/2019/03/big-nine-g-mafia-bat/
 
 46. https://en.wikipedia.org/wiki/Baidu
+
+47. https://en.wikipedia.org/wiki/Hippocratic_Oath
+
+48. https://en.wikipedia.org/wiki/Carabinieri
+
+49. https://en.wikipedia.org/wiki/Civil_Guard_(Spain)
+
+50. https://en.wikipedia.org/wiki/Oath_of_allegiance
+
+51. https://en.wikipedia.org/wiki/Oath_of_office
+
+52. https://en.wikipedia.org/wiki/Lawyer
+
+    
 
     
 
