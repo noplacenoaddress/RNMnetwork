@@ -58,7 +58,7 @@ But what is a pseudo dictatorship? Is a form of a state under the declared state
 
 
 
-### The gangstalking "game"
+# The gangstalking "game"
 
 
 
@@ -76,7 +76,7 @@ This "game" is reality is a recurrent pattern where a love is forcedly broken an
 
 
 
-### 	Cyberstalking
+# 	Cyberstalking
 
 
 
@@ -305,7 +305,7 @@ But remember always, reader, those connections between different science branch 
 
 ![Nast Boss](Nast-Boss-Tweed-1871.jpg)
 
-
+​    *"Gambling in which persons participate by the use of remote communication"*
 
 
 
