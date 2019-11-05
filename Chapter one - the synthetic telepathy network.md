@@ -51,9 +51,22 @@ Let's introduce every device of the network scheme above:
 
 ![Mark Zuckerberg at F8 conference in 2017](f8_mz_d.jpg)
 
+# The network seen as layers
 
+This network is part of a series of layers in a **top-down design** [[89]](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) of importance. The most important are parts of **global mass surveillance** [[90]](https://en.wikipedia.org/wiki/Global_surveillance):
 
-### External Links
+- Surveillance systems like **ECHELON** [[91]](https://en.wikipedia.org/wiki/ECHELON) and **Frenchelon** [[92]](https://en.wikipedia.org/wiki/Frenchelon).
+- Aristocratic network of telecommunications. In this network take part nobles families and dynasties. 
+- This network, the synthetic telepathy network.
+
+Next there are products of the network, they call them "*games*". Games where people die like target individuals committing suicide.
+
+-  The "Illuminati" pseudo dictatorship, a pyramid hierarchy human tree to create slaves. A fraud.
+- The **techno** [[93]](https://en.wikipedia.org/wiki/Techno) network, a system used by **disc jockey** [[94]](https://en.wikipedia.org/wiki/Disc_jockey) to play in different parts of the world at the same time. 
+
+![Frenchelon](EMERAUDE_-_Domme.jpg)
+
+# External Links
 
 1. https://en.wikipedia.org/wiki/Cyberstalking
 2. <https://en.wikipedia.org/wiki/Hacker>
@@ -143,3 +156,9 @@ Let's introduce every device of the network scheme above:
 86. https://en.wikipedia.org/wiki/Elon_Musk
 87. https://en.wikipedia.org/wiki/Mark_Zuckerberg
 88. https://newsroom.fb.com/news/2017/04/f8-2017-day-1/x
+89. https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
+90. https://en.wikipedia.org/wiki/Global_surveillance
+91. https://en.wikipedia.org/wiki/ECHELON
+92. https://en.wikipedia.org/wiki/Frenchelon
+93. https://en.wikipedia.org/wiki/Techno
+94. https://en.wikipedia.org/wiki/Disc_jockey
