@@ -325,6 +325,18 @@ Who fall in this bet vortex? Someone, like me, that have something special, a si
 
 **Joseph Oller** [[112]](https://en.wikipedia.org/wiki/Joseph_Oller), a Catalan born in 1839, was the inventor of the **parimutuel betting** [[113]](https://en.wikipedia.org/wiki/Parimutuel_betting) system. And in this network the service of parimutuel betting is done in remote. And *this is the real cause of all the others services*. A billions black market, now bitcoin based, but not only. The worst thing is that if your quota pass a certain gain level in this *game* play noble families and **dynasty** [[114]](https://en.wikipedia.org/wiki/Dynasty). But there's also another big crime, all the people that are forced to join the synthetic telepathy network are subdued to bets. The important thing is not to exceed the quota, which I did however since I did not accept working as a drug dealer for this pyramid of organized digital crime.
 
+Where does people could bet on this human black market? In the normal **sports betting** [[115]](https://en.wikipedia.org/wiki/Sports_betting) there is a double key of lecture. But also there's the crypt betting market:
+
+- https://www.cloudbet.com/en/
+- https://1xbit.com/en/
+- https://fortunejack.com/
+- https://sportsbet.io/
+- https://22bet.co.uk/sport
+
+In those circuit and also off line this occult world those type of bets and all the life of the target individuals are *played* in low class games. Like the ones that we find in **app stores** [[116]](https://en.wikipedia.org/wiki/App_store).
+
+So here you are the explanation on why there's this fascist persecution of all the society against a single, betting, money.
+
 
 
 # External links
@@ -560,6 +572,12 @@ Who fall in this bet vortex? Someone, like me, that have something special, a si
 113. https://en.wikipedia.org/wiki/Parimutuel_betting
 
 114. https://en.wikipedia.org/wiki/Dynasty
+
+115. https://en.wikipedia.org/wiki/Sports_betting
+
+116. https://en.wikipedia.org/wiki/App_store
+
+     
 
      
 
