@@ -307,7 +307,9 @@ But remember always, reader, those connections between different science branch 
 
 ​    *"Gambling in which persons participate by the use of remote communication"*
 
+I live in Catalunya from about twelve years. A great country, great traditions and hermetic people live here. People that have fight a lot in the last century with the fascist dictatorship guided by **Francisco Franco** [[100]](https://en.wikipedia.org/wiki/Francisco_Franco). People that have died in the **Spanish civil war** [[101]](https://en.wikipedia.org/wiki/Spanish_Civil_War). **Republicans** [[102]](https://en.wikipedia.org/wiki/Republican_faction_(Spanish_Civil_War)). And after the civil war people that have been persecuted by Franco using what we've called as *gaslighting*. The persecution against one; something that I'm living from about four years. Franco use voice to skull radio technology in MF and mast radiators like we've described in chapter two. Franco use the national provider **RNE** [[103]](https://en.wikipedia.org/wiki/Radio_Nacional_de_Espa%C3%B1a) to mask this criminal emissions. Look at this mast radiator in **Palau-solita i Plegamans** [[104]](https://ca.wikipedia.org/wiki/Palau-solit%C3%A0_i_Plegamans) in Catalunya.
 
+![MF in Palau de Plegamans](mast-riadiator.png)
 
 
 
@@ -517,13 +519,23 @@ But remember always, reader, those connections between different science branch 
 
 99. https://en.wikipedia.org/wiki/Multiverse
 
-    
+100. https://en.wikipedia.org/wiki/Francisco_Franco
 
-    
+101. https://en.wikipedia.org/wiki/Spanish_Civil_War
 
-    
+102. https://en.wikipedia.org/wiki/Republican_faction_(Spanish_Civil_War)
 
-    
+103. https://en.wikipedia.org/wiki/Radio_Nacional_de_Espa%C3%B1a
 
-    
+104. https://ca.wikipedia.org/wiki/Palau-solit%C3%A0_i_Plegamans
+
+     
+
+     
+
+     
+
+     
+
+     
 
