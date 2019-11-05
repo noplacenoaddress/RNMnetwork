@@ -319,7 +319,11 @@ This is not so simple to explain but i can argue that five years ago in Cataluny
 
 *Bets on everything related to a person's personal life. Suicide bets.*
 
-Something that generate billions, something that is administrated by the Catalan **tax haven** [[109]](https://en.wikipedia.org/wiki/Tax_haven), **Andorra** [[110]](https://en.wikipedia.org/wiki/Andorra). Something that until the advent of the "Illuminati" was managed by hand, but with BRAINnet it is totally automatic. It's an expansion of the tax heaven in the European state, Spain. A fraud. A fiscal fraud. 
+Something that generate billions, something that is administrated by the Catalan **tax haven** [[109]](https://en.wikipedia.org/wiki/Tax_haven), **Andorra** [[110]](https://en.wikipedia.org/wiki/Andorra). Something that until the advent of the "Illuminati" was managed by hand, but with BRAINnet it is totally automatic. It's an expansion of the tax heaven in the European state, Spain. A fraud. A fiscal fraud. And obviously something that is done also in Genoa using the other fiscal haven, the **Principality of Monaco** [[111]](https://en.wikipedia.org/wiki/Monaco).
+
+Who fall in this bet vortex? Someone, like me, that have something special, a singularity. Someone that pass a complex check list to be classified as a *special case*. Or someone that is a potential political opponent of both the state and the church, also like me. Or someone that was a good entrepreneur, also like me.
+
+**Joseph Oller** [[112]](https://en.wikipedia.org/wiki/Joseph_Oller), a Catalan born in 1839, was the inventor of the **parimutuel betting** [[113]](https://en.wikipedia.org/wiki/Parimutuel_betting) system. And in this network the service of parimutuel betting is done in remote. And *this is the real cause of all the others services*. A billions black market, now bitcoin based, but not only. The worst thing is that if your quota pass a certain gain level in this *game* play noble families and **dynasty** [[114]](https://en.wikipedia.org/wiki/Dynasty). But there's also another big crime, all the people that are forced to join the synthetic telepathy network are subdued to bets. The important thing is not to exceed the quota, which I did however since I did not accept working as a drug dealer for this pyramid of organized digital crime.
 
 
 
@@ -548,6 +552,16 @@ Something that generate billions, something that is administrated by the Catalan
 109. https://en.wikipedia.org/wiki/Tax_haven
 
 110. https://en.wikipedia.org/wiki/Andorra
+
+111. https://en.wikipedia.org/wiki/Monaco
+
+112. https://en.wikipedia.org/wiki/Joseph_Oller
+
+113. https://en.wikipedia.org/wiki/Parimutuel_betting
+
+114. https://en.wikipedia.org/wiki/Dynasty
+
+     
 
      
 
