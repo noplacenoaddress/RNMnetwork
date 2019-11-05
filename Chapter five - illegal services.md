@@ -311,7 +311,15 @@ I live in Catalunya from about twelve years. A great country, great traditions a
 
 ![MF in Palau de Plegamans](mast-riadiator.png)
 
+Almost every old person that live in Catalunya can listen to voice to skull emission. They have been tortured by the dictator. The "Illuminati" pseudo dictatorship use the same technology but done with **SDR** [[105]](https://en.wikipedia.org/wiki/Software-defined_radio) radio devices. Open source and open hardware, very dangerous because of low cost. "Illuminati" also have expanded this with what i call remote **BRAINnet** [[106]](https://www.nature.com/articles/s41598-019-41895-7?fbclid=IwAR2dpWDv9RZk41Xt8xcQPLbCXBTfJo_qpaXVAiu--AoIgOyKjhjJqmFCCEI) to create slaves like we've just explained.
 
+But what is the connection between "Illuminati", that are been created ten years ago in **Genoa** [[107]](https://en.wikipedia.org/wiki/Genoa) Italy, and Catalunya fascist voice to skull technology?
+
+This is not so simple to explain but i can argue that five years ago in Catalunya there was a radical change. Now all the B-side of Barcelona is guided by the "Illuminati" **hierarchical** [[108]](https://en.wikipedia.org/wiki/Hierarchy) pyramid tree. Why? In Catalunya there's a silent way to gain millions of Euro, an underground economy to which only wealthy Catalans have access, something handed down according to blood lineage. Something that I'm victim of:
+
+*Bets on everything related to a person's personal life. Suicide bets.*
+
+Something that generate billions, something that is administrated by the Catalan **tax haven** [[109]](https://en.wikipedia.org/wiki/Tax_haven), **Andorra** [[110]](https://en.wikipedia.org/wiki/Andorra). Something that until the advent of the "Illuminati" was managed by hand, but with BRAINnet it is totally automatic. It's an expansion of the tax heaven in the European state, Spain. A fraud. A fiscal fraud. 
 
 
 
@@ -528,6 +536,20 @@ I live in Catalunya from about twelve years. A great country, great traditions a
 103. https://en.wikipedia.org/wiki/Radio_Nacional_de_Espa%C3%B1a
 
 104. https://ca.wikipedia.org/wiki/Palau-solit%C3%A0_i_Plegamans
+
+105. https://en.wikipedia.org/wiki/Software-defined_radio
+
+106. https://www.nature.com/articles/s41598-019-41895-7?fbclid=IwAR2dpWDv9RZk41Xt8xcQPLbCXBTfJo_qpaXVAiu--AoIgOyKjhjJqmFCCEI
+
+107. https://en.wikipedia.org/wiki/Genoa
+
+108. https://en.wikipedia.org/wiki/Hierarchy
+
+109. https://en.wikipedia.org/wiki/Tax_haven
+
+110. https://en.wikipedia.org/wiki/Andorra
+
+     
 
      
 
