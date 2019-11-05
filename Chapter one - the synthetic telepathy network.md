@@ -66,6 +66,12 @@ Next there are products of the network, they call them "*games*". Games where pe
 - The hacker scene.
 - A game where i was supposed to find my ex girlfriend in Barcelona, Catalunya. What i've called mindgame. Where I was threatened to be part of the "Illuminati" as a low class drug seller or i will die.
 
+Next there are some commercial products or some university study, is what the big public can see about, the face to the public:
+
+- Neuralink, commercial.
+- BRAINnet, opensource. 
+- etcetera etcetera.
+
 ![Frenchelon](EMERAUDE_-_Domme.jpg)
 
 # External Links
