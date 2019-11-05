@@ -337,7 +337,9 @@ In those circuit and also off line this occult world those type of bets and all 
 
 So here you are the explanation on why there's this fascist persecution of all the society against a single, betting, money.
 
+Parimutuel betting are a dangerous form of betting when we speak about large amount of money. Because people have to pay before of the deadline, in this case probably in a crypt concurrency bank account. So if you pass the infamous quota dangerous people have already payed and no one can withdraw the bet, it is the cat that bites its tail. If we speak about bet about humans you can understand that this method is the most dangerous one for the life of the victim, like I'm. The bank account it's obvious property of the **bookmaker**  [[117]](https://en.wikipedia.org/wiki/Bookmaker), in this case they are the owners of the network. 
 
+Why i said that all the peoples that enter in the "Illuminati" hierarchy tree are subject to parimutuel betting?  Because every years there is gambling on who do more invoice selling goods, black market, legal market and so on. Like in a **greyhound racing** [[119]](https://en.wikipedia.org/wiki/Greyhound_racing). But here you will die if you arrive further down the place number thirteen. And obviously there is also, probably with another method, a bet in your life using normal concurrency. 
 
 # External links
 
@@ -576,6 +578,12 @@ So here you are the explanation on why there's this fascist persecution of all t
 115. https://en.wikipedia.org/wiki/Sports_betting
 
 116. https://en.wikipedia.org/wiki/App_store
+
+117. https://en.wikipedia.org/wiki/Bookmaker
+
+118. https://en.wikipedia.org/wiki/Olympic_Games
+
+119. https://en.wikipedia.org/wiki/Greyhound_racing
 
      
 
