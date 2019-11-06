@@ -1,14 +1,12 @@
 For all my friends. For all of you that have suffered the Illuminati pseudo dictatorship.
 
-For who commit suicide.
-
-Yes, i'm Riccardo Giuntoli. But i don't like this work. I hate it.
+For who have commited suicide.
 
 For you my sun flower. For you Saray. For you my love.
 
 For you Lucia. For your future.
 
-For all the womans that have been violated in the "Illuminati" network.
+For all the womans that have been violated in the "Illuminati" network by the digital mafia.
 
 Ricky.
 
