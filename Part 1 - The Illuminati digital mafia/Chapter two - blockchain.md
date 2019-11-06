@@ -1,5 +1,7 @@
 # Just my 2 cents
 
+![I'm a wild man](../Images/wild.png)
+
 First of all i wanna do with you, reader, a consideration. We've got analyzed the synthetic telepathy network and the radio waves Machine. Those two IT systems are to control, break our privacy laws, abuse persons, destroy souls, change our life. 
 
 Now i want to introduce to you technologies that are exactly on the opposite site. Those technologies are actively developed to do the exact in front work. Those peer to peer derived protocols are born to guarantee privacy and security to the end users. 
@@ -58,7 +60,9 @@ A good player got always in mind this factor and use good web pages to keep the 
 
 https://coinmarketcap.com/
 
-This is a very good portal to know about it. But why I speak about this feature?  
+This is a very good portal to know about it. *But why I speak about this feature*?  
+
+Many Bitcoin or **Ethereum** [[11]](https://en.wikipedia.org/wiki/Ethereum) based crypt concurrency are connected to the "Illuminati" pseudo dictatorship. Many of them are connected to the black, drug and prostitution market. Many also with corruption. I've done a public web page where you can consult about those coin that I've learned in radio frequency (voice to skull) about.
 
 
 
@@ -84,8 +88,9 @@ A blockchain model applied to networking **ISO/OSI** [[11]](https://en.wikipedia
 8. https://bitbase.es/
 9. https://cryptopay.me/bitcoin-debit-card/#uk
 10. https://cryptwerk.com/pay-with/xmr/
-11. https://en.wikipedia.org/wiki/OSI_model
-12. https://en.wikipedia.org/wiki/Peer-to-peer
-13. https://en.wikipedia.org/wiki/Privacy
-14. https://en.wikipedia.org/wiki/Cryptography
+11. https://en.wikipedia.org/wiki/Ethereum
+12. https://en.wikipedia.org/wiki/OSI_model
+13. https://en.wikipedia.org/wiki/Peer-to-peer
+14. https://en.wikipedia.org/wiki/Privacy
+15. https://en.wikipedia.org/wiki/Cryptography
 
