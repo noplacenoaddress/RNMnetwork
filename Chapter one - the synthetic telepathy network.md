@@ -64,7 +64,7 @@ Next there are products of the network, they call them "*games*". Games where pe
 -  The "Illuminati" pseudo dictatorship, a pyramid hierarchy human tree to create slaves. A fraud.
 - The **techno** [[93]](https://en.wikipedia.org/wiki/Techno) network, a system used by **disc jockey** [[94]](https://en.wikipedia.org/wiki/Disc_jockey) to play in different parts of the world at the same time. 
 - The hacker scene.
-- A game where i was supposed to find my ex girlfriend in Barcelona, Catalunya. What i've called mindgame. Where I was threatened to be part of the "Illuminati" as a low class drug seller or i will die.
+- A game where i was supposed to find my ex girlfriend in Barcelona, Catalunya. What i've called mindgame. Where I was threatened to be part of the "Illuminati" as a low class drug seller or i will die. In reality my game is an hacker attack to the city of Barcelona and Genova, attack that have connected thousand of people to the synthetic telepathy network resulting in hundreds of death by suicide.
 
 Next there are some commercial products or some university study, is what the big public can see about, the face to the public:
 
