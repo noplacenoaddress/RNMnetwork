@@ -341,14 +341,6 @@ Parimutuel betting are a dangerous form of betting when we speak about large amo
 
 Why i said that all the peoples that enter in the "Illuminati" hierarchy tree are subject to parimutuel betting?  Because every years there is gambling on who do more invoice selling goods, black market, legal market and so on. Like in a **greyhound racing** [[119]](https://en.wikipedia.org/wiki/Greyhound_racing). But here you will die if you arrive further down the place number thirteen. And obviously there is also, probably with another method, a bet in your life using normal concurrency. 
 
-Machine are like coworking group. Preassigned when a person in born depending on the **horoscope** [[120]](https://en.wikipedia.org/wiki/Horoscope). 
-
-![horoscope](Astrological_Chart_-_New_Millennium.JPG)
-
-As you can see is something circular. A machine it's a group of eighty eight people that are connected in their life by this system and they don't know it. It's a round table of enterprise administration, a business round table. Something similar to the **knights of the round table** [[121]](https://en.wikipedia.org/wiki/Knights_of_the_Round_Table). This is something very ancient, people are really connected by natal chart by something called **Anima mundi** [[122]](https://en.wikipedia.org/wiki/Anima_mundi), something real something special. People in the last century have reinforced it using technology. 
-
-*Remember that in all our history pyramid are fraud. But round table aren't. This is the true.*
-
 # External links
 
 ![networking](1-intro_113_0.jpg)	
