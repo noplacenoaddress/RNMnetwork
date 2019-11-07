@@ -32,7 +32,7 @@ Our brain is also able to execute two complete tasks, yes two life, at the same 
 
 This seems to be a science fiction film but it's true and it's up and running. It's what i can describe as the more powerful tool product by computer science applied to human being but if used with the only goal the archive more money than possible it's the nightmare of the democracy in our old but great **European Union** [[20]](https://en.wikipedia.org/wiki/European_Union); *world have to know*. 
 
-# The visual system MitM remote device
+### The visual system MitM remote device
 
 ![human visual system pathway](../Images/Comprehensive_List_of_Relevant_Pathways_for_the_Visual_System.png)
 
@@ -58,7 +58,7 @@ This kind of ultra hard work it' seems to be obviously related to military force
 
 Another obvious connection, because of one of the most important speaker in the voice to skull chat that i know from my primary school always in Genoa, is the **Italian Navy** [[34]](https://en.wikipedia.org/wiki/Italian_Navy), i think that speaking about the **CEMM** [[35]](https://it.wikipedia.org/wiki/Corpo_degli_equipaggi_militari_marittimi) the section is obviously the **SSC/TLC/GE** [[36]](http://www.marina.difesa.it/il-tuo-futuro-e-il-mare/carriere/per-grado/sottufficiali/Documents/categ_sottufficiali.pdf). She is the grandson of one of the second world war hero, **Luigi Durand de la Penne** [[37]](https://en.wikipedia.org/wiki/Luigi_Durand_de_la_Penne).
 
-# The auditory system  MitM remote device
+### The auditory system  MitM remote device
 
 The human auditory system is composed by the **auditory system** [[38]](https://en.wikipedia.org/wiki/Auditory_system) and the **primary auditory cortex** [[39]](https://en.wikipedia.org/wiki/Auditory_cortex).
 
@@ -91,7 +91,7 @@ What can be archived with this system?
 3. On the fly voice or sound rewrite.
 4. Sound effects and like augmented reality system.
 
-### The nervous system and muscle remote control
+### The nervous system and muscle control
 
 Do you know the project **OpenBCI** [[53]](https://en.wikipedia.org/wiki/OpenBCI)? An **open hardware** [[54]](https://en.wikipedia.org/wiki/Open-source_hardware) project to amplify, read and processing **EEG** [[55]](https://en.wikipedia.org/wiki/Electroencephalography), **EMG** [[56]](https://en.wikipedia.org/wiki/Electromyography) and **EKG** [[57]](https://en.wikipedia.org/wiki/Electrocardiography). 
 
@@ -117,7 +117,9 @@ So like we've seen before with this technology and **electromagnetic waves** [[6
 
 Doing a rapid technical analysis we can consider that radios are working in a magnetic resonance environment use **shortwave** [[66]](https://en.wikipedia.org/wiki/Shortwave_radio) frequencies. Transmitters and receivers are called **radio frequency coils** [[67]](https://en.wikipedia.org/wiki/Radiofrequency_coil) and use **loop antennas** [[68]](https://en.wikipedia.org/wiki/Loop_antenna) or **ferrite loop antennas** [[69]](https://en.wikipedia.org/wiki/Comoros).
 
-### External links
+
+
+# External links
 
 1. https://en.wikipedia.org/wiki/M_(James_Bond)
 2. https://en.wikipedia.org/wiki/Open-source_model

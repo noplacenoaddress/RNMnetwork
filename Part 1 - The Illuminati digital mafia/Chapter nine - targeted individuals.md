@@ -1,3 +1,3 @@
 # Targeted individuals
 
-![targeted individuals](Dr0yW3JVAAArKa-.jpg)
+![targeted individuals](../Images/Dr0yW3JVAAArKa-.jpg)

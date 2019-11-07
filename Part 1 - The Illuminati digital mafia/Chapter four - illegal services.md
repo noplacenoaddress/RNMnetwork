@@ -17,7 +17,7 @@ The first question that we can do when we speak about a service is who is the ty
 
 # Gangstalking
 
-## ![](luzdegas.jpg)
+![](../Images/luzdegas.jpg)
 
 > *Clients: Businessman, Politicians, Criminal organizations, Subversive groups, High-class stalkers.*
 >
@@ -62,7 +62,7 @@ But what is a pseudo dictatorship? Is a form of a state under the declared state
 
 
 
-![](trote.jpg)
+![](../Images/trote.jpg)
 
 Basically gangstalking and gaslighting are based upon the systematically destruction of your past and present. *Love, friendship, work, home, pets and your possessions are loose* in a short period of time. I've got a personal experience about a pattern used in these tortures. We can speak about "**target individuals**", and i use the plural because there are always two victim, **a men and his love**. It's simple, the man loose all his life like I've said before and the woman like one year after start to think that world have changed and that she'll meet with this man another time after a **sexual game**. *She thinks that this is a game, very similar to what we found in the internationals ready-made television formats*. The two targets are separated and inducted to suicide with a mental destroyer situation, normally a gangstalking for him and a **gang bang** [[16]](https://en.wikipedia.org/wiki/Gang_bang)  for her. The two in different time range, him usually one or half year before, are victims also of what is known as **brainwashing** [[17]](https://en.wikipedia.org/wiki/Brainwashing). The twos in different time laps are victims of stalkers that are normally **mind hackers** [[18]](https://www.gitbook.com/) that try to change the basics of them life. The man usually have no money, no friends and no sex. Go in **major depressive disorder** [[19]](https://en.wikipedia.org/wiki/Major_depressive_disorder) and typically live of what he founds on the street, so the society classify them as indigent and sick with **Diogenes syndrome** [[20]](https://en.wikipedia.org/wiki/Diogenes_syndrome) and **compulsive hoarding** [[21]](https://en.wikipedia.org/wiki/Compulsive_hoarding). The woman is blocked in a vortex of sex and orgies thinking that she is partaking in a game, every game for the women i think that has got one year of time with the goal of four years in total. All of this is brainwashing. First of all when the two separates, that is the start of the loose of all his goods for the man, the woman is betrayed to go away from him with hoax. Next she's got a relation with a personal trainer or a figure like this to have got a perfect body in vision of the games that nothing more are than illegal pornography sold in video on demand bitcoin stores and be a victim of human trade. 
 
@@ -80,7 +80,7 @@ This "game" is reality is a recurrent pattern where a love is forcedly broken an
 
 
 
-![Cyberstalking](Cyberstalking.jpg)
+![Cyberstalking](../Images/Cyberstalking.jpg)
 
 
 
@@ -94,7 +94,7 @@ But is gangstalkers connected to the US secret services and governments? No, pro
 
 # Telecommunications for inmates
 
-![radio signals see through walls](4D41F26E00000578-5838529-image-a-2_1529053047445.jpg)
+![radio signals see through walls](../Images/4D41F26E00000578-5838529-image-a-2_1529053047445.jpg)
 
 
 
@@ -116,7 +116,7 @@ Why i explain this in this section? It's obvious. Who contract this clientless s
 
 # Semi physic remote desktop environment
 
-![Islamic Terrorism](p8-ponnuru-a-20151125.jpg)
+![Islamic Terrorism](../Images/p8-ponnuru-a-20151125.jpg)
 
 > *Clients: Businessman, Politicians, Criminal organizations, Subversive groups, Audiovisual industry, Big tech firm B-Side.*
 >
@@ -134,7 +134,7 @@ This is absolutely lawbreaker if sold to the wrong customer. Who is controlling 
 
 # Sexual holograms  sale
 
-![Coachella Valley Music](ca-times.brightspotcdn.com.jpeg)
+![Coachella Valley Music](../Images/ca-times.brightspotcdn.com.jpeg)
 
 > *Clients: Businessman, Politicians, Criminal organizations, High class society, High class ecclesiastics.*
 >
@@ -152,7 +152,7 @@ This is the cutting edge in prostitution. This is what consume high class societ
 
 But some times it's used also by municipal administration in the A-side. Doing what? Urban projection using what is called **projection mapping** [[65]](https://en.wikipedia.org/wiki/Projection_mapping).
 
-![Street Projection Casa Batllo](CasaBatllo-mapping-800x472.jpg)
+![Street Projection Casa Batllo](../Images/CasaBatllo-mapping-800x472.jpg)
 
 
 
@@ -167,11 +167,11 @@ In radio frequency people speak about secret about this awesome technology. But 
 
 So they sell you a package, an hologram with the shape of a girl. You buy it in a virtual catalog that could be consulted in deep Internet, **Tor** [[69]](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) **i2p** [[70]](https://en.wikipedia.org/wiki/I2P) and so on. Payment is obviously in crypt concurrency, **Litecoin** [[71]](https://en.wikipedia.org/wiki/Litecoin) for example. So the client is secured buy a theoretically untraceable transference. Image that every Sunday there's a **forward auction** [[72]](https://en.wikipedia.org/wiki/Reverse_auction) in a virtual reality ambient like a living room where's people dressed with what so over shape, image something like "the presidents" in the **Point Break** [[73]](https://en.wikipedia.org/wiki/Point_Break) film. Girls are presented like sexual slaves and people offerer a quantity for a type of service. Who pay the more amount of money got a immediate delivery in a geographic exact point in **latitude, longitude and elevation** [[74]](https://en.wikipedia.org/wiki/Geographic_coordinate_system) in a physical site of the city, like in a luxury boat dock in the port or what so ever. The girl, that is treated like a videogame or a object, in reality is at her house but all her nervous system and her brain is totally connected to the hologram by the network. People that buy those services normally do extreme sexual violence, and she pass hell pains and above all in here memory the experience is true. This is **human memory imprinting** [[75]](https://scholar.google.com/scholar?q=human+memory+imprinting&hl=es&as_sdt=0&as_vis=1&oi=scholart).  
 
-![Barcelona port](car-parking-near-maremagnum-centre-barcelona.gif)
+![Barcelona port](../Images/car-parking-near-maremagnum-centre-barcelona.gif)
 
 Barcelona is famous in this new era market. Barcelona actually is one of the capital of this extreme sex luxury tourist destination. From about five years, it's blowing this hell wind of changes in my favorite city. It's possible to correlate this with the advancement of the **Lion club of Barcelona** [[76]](https://www.e-clubhouse.org/sites/barcelona_gaudi/)? But this is only my little opinion. *A man that has walked 4000 km by foot in the last three years to investigate what is passing here.*  
 
-![Lions Barcelona](lions.png)
+![Lions Barcelona](../Images/lions.png)
 
 But is this a secret? No! Here is some international press articles and porn movies:
 
@@ -184,7 +184,7 @@ Doing a rapid search on Google i've found a name of a Greek billionaire connecte
 
 # Goods transport route control
 
-![Indian Satellite](indiansatelite_resize_md.jpg)
+![Indian Satellite](../Images/indiansatelite_resize_md.jpg)
 
 > *Clients: Criminal organizations, Subversive groups.*
 >
@@ -198,13 +198,13 @@ Doing a rapid search on Google i've found a name of a Greek billionaire connecte
 
 Another fantastic service from this totally criminal network. But don't be shame, it's not with video camera. It's with radio frequency. This is what i call satellite terrorism. All our streets and highways are under control with an array of radio in a satellite network. What network? It's difficult because of open hardware satellite.
 
-![Gpredict](sat.png)
+![Gpredict](../Images/sat.png)
 
 This is a screenshot of the open source application **Gpredict** [[78]](http://gpredict.oz9aec.net/). Look at the orbits in the sky of every satellites. Yes they are moving but with the transit of one after other you can track in real time every street of Europe. If a camion with goods is traveling in the **International E-road network** [[79]](https://en.wikipedia.org/wiki/International_E-road_network) is under constant control. But what is the goodness? Simple. If there's some roadblock in his path with this technology and the voice to skull service working on the driver the game is done. A change in his trip and there's no lost of goods. Remember that goods could be also humans.
 
 # Remote controlled lightning strike
 
-![Lighting](actractlighting.png)
+![Lighting](../Images/actractlighting.png)
 
 > *Clients: Businessman, Politicians, Criminal organizations, Subversive groups.*
 >
@@ -229,7 +229,7 @@ Let's start with a reflexion about this. What can be done playing with this natu
 
 # Women sexual overexcitation
 
-![south america BDSM digital](bdsmeradigital.png)
+![south america BDSM digital](../Images/bdsmeradigital.png)
 
 **This flier is not about an illegal service.**
 
@@ -249,7 +249,7 @@ What is this flier announcing **BDSM** [[84]](https://en.wikipedia.org/wiki/BDSM
 
 Like i've said on chapter two, with the  Machine it's possible to overload the genital system of a women, or a man, with electro magnetism over some part of our brain. And also to get feeling of physical touch in the reproducing apparatus. Now this is all ok if the "target" is consenting. Those feelings that with this technology can be like real (reaD they call in voice to skull chat) it's important to understand that can be activated by two persons with them brains at the same level of importance, in a master / slave configuration like in the real BDSM world, and also with sexual **bot** [[85]](https://en.wikipedia.org/wiki/Internet_bot) or applications. 
 
-![Baron Mood Instagram](analfist.png)
+![Baron Mood Instagram](../Images/analfist.png)
 
 
 
@@ -265,7 +265,7 @@ There is a lot of Catalans young girls. It's so estrange because this territory 
 
 Prostitution in the synthetic telepathy network is, like all the structures, a pyramid. 
 
-![pyramid structures](scop.jpeg)
+![pyramid structures](../Images/scop.jpeg)
 
 Barcelona has changed in the last ten years. A lot. Yes the city have been reformed and restored. Its face is clean and beautiful. But is this true? No. Someone, who is washing and cleaning B-side money from this system, yes absolutely, is doing a great job to maintain a good facade. But the old city, the heart of the Catalan capital, was and is totally sold to extra communitarian, but not only, contractors. You can't feel now the real soul and smell of the streets. 
 
@@ -281,7 +281,7 @@ http://www.fti.uab.es/interasia/documents/Beltran-La%20Inmigraci%F3n%20China%20e
 
 # Hacking applied to humans
 
-![Gold river search](xssa.jpg)
+![Gold river search](../Images/xssa.jpg)
 
 If a person resist to the fascist crime of gangstalking, namely don't fall in heroin drug abuse, don't fall in psychiatric disorders, don't fall in extreme sex disorders, etcetera etcetera could be next victim of another difficult to detect subliminal crime, but always a very big crime, that could be named as **human hacking** [[92]](https://thecyberwire.com/podcasts/hacking-humans-episode-list.html) and exaggeration of **social engineering** [[93]](https://en.wikipedia.org/wiki/Social_engineering_(security)), a branch of cyber security. 
 
@@ -291,7 +291,7 @@ If a person resist to the fascist crime of gangstalking, namely don't fall in he
 
 Secondly, and i say this because of the possibility to try to catch this individual, i want to remember to him that human hacking is a crime respect to **human right declaration** [[94]](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights). A crime against humanity, not a game. 
 
-![Human Rights](asdadsd33.jpg)
+![Human Rights](../Images/asdadsd33.jpg)
 
 But what is the final goal of human hacking and in what consist these complex and very long in time attack?
 
@@ -303,13 +303,13 @@ But remember always, reader, those connections between different science branch 
 
 # Parimutuel crypt betting
 
-![Nast Boss](Nast-Boss-Tweed-1871.jpg)
+![Nast Boss](../Images/Nast-Boss-Tweed-1871.jpg)
 
 ​    *"Gambling in which persons participate by the use of remote communication"*
 
 I live in Catalunya from about twelve years. A great country, great traditions and hermetic people live here. People that have fight a lot in the last century with the fascist dictatorship guided by **Francisco Franco** [[100]](https://en.wikipedia.org/wiki/Francisco_Franco). People that have died in the **Spanish civil war** [[101]](https://en.wikipedia.org/wiki/Spanish_Civil_War). **Republicans** [[102]](https://en.wikipedia.org/wiki/Republican_faction_(Spanish_Civil_War)). And after the civil war people that have been persecuted by Franco using what we've called as *gaslighting*. The persecution against one; something that I'm living from about four years. Franco use voice to skull radio technology in MF and mast radiators like we've described in chapter two. Franco use the national provider **RNE** [[103]](https://en.wikipedia.org/wiki/Radio_Nacional_de_Espa%C3%B1a) to mask this criminal emissions. Look at this mast radiator in **Palau-solita i Plegamans** [[104]](https://ca.wikipedia.org/wiki/Palau-solit%C3%A0_i_Plegamans) in Catalunya.
 
-![MF in Palau de Plegamans](mast-riadiator.png)
+![MF in Palau de Plegamans](../Images/mast-riadiator.png)
 
 Almost every old person that live in Catalunya can listen to voice to skull emission. They have been tortured by the dictator. The "Illuminati" pseudo dictatorship use the same technology but done with **SDR** [[105]](https://en.wikipedia.org/wiki/Software-defined_radio) radio devices. Open source and open hardware, very dangerous because of low cost. "Illuminati" also have expanded this with what i call remote **BRAINnet** [[106]](https://www.nature.com/articles/s41598-019-41895-7?fbclid=IwAR2dpWDv9RZk41Xt8xcQPLbCXBTfJo_qpaXVAiu--AoIgOyKjhjJqmFCCEI) to create slaves like we've just explained.
 
@@ -343,7 +343,7 @@ Why i said that all the peoples that enter in the "Illuminati" hierarchy tree ar
 
 # External links
 
-![networking](1-intro_113_0.jpg)	
+![networking](../Images/1-intro_113_0.jpg)	
 
 
 

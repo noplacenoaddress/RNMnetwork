@@ -1,4 +1,4 @@
-# Just my 2 cents
+# Blockchain technology
 
 ![I'm a wild man](../Images/wild.png)
 
@@ -14,7 +14,7 @@ But why they are doing crimes like those? It's simple. To get profound and go ah
 
 *Those are my two cents.*   
 
-# The Monero crypt concurrency
+### The Monero crypt concurrency
 
 ![The Monero circuit](../Images/monero.png)
 
@@ -28,7 +28,7 @@ Let's do some considerations before start with a deep dive into this network. Fi
 
 But it's possible to simply go to a cash dispenser and get euro? Yes it is.
 
-## ![Bitchain ATM cash dispenser](../Images/btcpoint_bitcoin_atm_c828d19c75.jpg)
+![Bitchain ATM cash dispenser](../Images/btcpoint_bitcoin_atm_c828d19c75.jpg)
 
 Remember that to get cash from this bitcoin **ATM** [[4]](https://en.wikipedia.org/wiki/Automated_teller_machine) normally you have to change **XMR** [[5]](https://www.coinbase.com/price/monero?locale=en) to **LTC** [[6]](https://www.coinbase.com/price/litecoin?locale=en), then go to a local ATM as you can find in **coin ATM radar** [[7]](https://coinatmradar.com/). In Barcelona for example there's the network called **BitBase** [[8]](https://bitbase.es/) where you can sell also directly Monero. 
 
@@ -50,7 +50,7 @@ What those criminals can do in the same Monero circuit? I don't know but using a
 
 This is only a little window over this terrorist and criminal network. We'll go deeper in the next chapters.
 
-# The crypt concurrency market  
+### The crypt concurrency market  
 
 ![Bitcoin](../Images/AT8rEjx8lVL6PQ1GCU.jpeg)
 
@@ -64,11 +64,7 @@ This is a very good portal to know about it. *But why I speak about this feature
 
 Many Bitcoin or **Ethereum** [[11]](https://en.wikipedia.org/wiki/Ethereum) based crypt concurrency are connected to the "Illuminati" pseudo dictatorship. Many of them are connected to the black, drug and prostitution market. Many also with corruption. I've done a public web page where you can consult about those coin that I've learned in radio frequency (voice to skull) about.
 
-
-
-
-
-# The SAFE network blockchain 
+### The SAFE network blockchain 
 
 ![SAFE network blockchain](../Images/1200px-Safe_Water_Network_logo.svg.png)
 

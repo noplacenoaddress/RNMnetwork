@@ -1,6 +1,6 @@
 # Hierarchical pyramid tree
 
-![Hierarchical pyramid tree](k11381.gif)
+![Hierarchical pyramid tree](../Images/k11381.gif)
 
 
 

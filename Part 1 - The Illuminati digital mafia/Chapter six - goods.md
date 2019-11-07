@@ -1,6 +1,6 @@
 # Products from the assembly line 
 
-![Car's assembly line](1923-automobile-fabbrica-di-automobili-sulla-linea-di-assemblaggio-finale-di-new-york-cmt08n.jpg)
+![Car's assembly line](../Images/1923-automobile-fabbrica-di-automobili-sulla-linea-di-assemblaggio-finale-di-new-york-cmt08n.jpg)
 
 The synthetic telepathy network is like an industry of human brains.  It models masses of brains according to predetermined patrons to create figures of work and exploitation in order to foster the greatest gain due to imposed digital slavery. 
 
@@ -21,7 +21,7 @@ They do this also with the ghost of **pederasty** [[2]](https://en.wikipedia.org
 
 So in fact this pseudo dictatorship is founded in drug sell and prostitution. But where does it reverses its revenues? Basically in technology to fortify the digital explosion ship of people. Who're behind this monster? Aristocrats, Vatican, great entrepreneurs and so on. The **elite** [[6]](https://en.wikipedia.org/wiki/Elite). And now the so-called elitist have decided to destroy our democracy probably to reinvigorate the arms market, especially the electronic weapons market in view of a new cyber cold war that currently has already targeted our United Europe to favor the two great giants, the United States and Russia. **Mediterranean Sea** [[7]](https://en.wikipedia.org/wiki/Mediterranean_Sea) always was board of silent cold wars for is geographical center position between the two empires.
 
-![Mediterranean Sea](Mediterranee_02_EN.jpg)
+![Mediterranean Sea](../Images/Mediterranee_02_EN.jpg)
 
 # Theft of ideas and unfair competition
 
@@ -29,7 +29,7 @@ Remember that all people in this network, victims or not, are under remote neura
 
 **Idea theft** [[10]](https://lawtl.com/idea-theft) is a crime! *And i'm victim of*.
 
-![idea theft](brojid.com_.-Idea-Theft-1.jpg)
+![idea theft](../Images/brojid.com_.-Idea-Theft-1.jpg)
 
 With remote neural monitoring what happen to business mans: 
 
