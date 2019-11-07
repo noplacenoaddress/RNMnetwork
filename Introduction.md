@@ -70,11 +70,13 @@ Next there are products of this network, the aristocratic call them "*games*". G
 
 - The **techno** [[93]](https://en.wikipedia.org/wiki/Techno) network, a system used by **disc jockey** [[94]](https://en.wikipedia.org/wiki/Disc_jockey) to play in different parts of the world at the same time this could be classified as service but not only. It serve new victims to the Illuminati.
 
-- The hacker scene. Where only the best hackers in the world work obtaining money from the aristocratic cast. It's an unauthorized access to the synthetic telepathy network, hacker crew that can obtain it are rewarded and the aristocratic cast permit a limited use to them. But they have to work for them making incredible crap to the population by creating human guinea pigs.  Those hackers are also victims of the aristocratic cast and more often they are treated as scapegoats to hide the true instigators of these horrible crimes they call games.
+- The human hacker scene. Where only the best hackers in the world work obtaining money from the aristocratic cast. It's an unauthorized access to the synthetic telepathy network, hacker crew that can obtain it are rewarded and the aristocratic cast permit a limited use to them. But they have to work for them making incredible crap to the population by creating human guinea pigs.  Those hackers are also victims of the aristocratic cast and more often they are treated as scapegoats to hide the true instigators of these horrible crimes they call games.
 
   I and my ex girlfriend are victim of one game that have changed the city of Barcelona in the last five years:
 
   - A game where i was supposed to find my ex girlfriend in Barcelona, Catalunya. What I've called mindgame. Where I was threatened to be part of the "Illuminati" as a low class drug seller or i will die. In reality my game is an hacker attack to the city of Barcelona and Genova, attack that have connected thousand of people to the synthetic telepathy network resulting in hundreds of death by suicide. Those people all are forced to sell drug or to be a prostitute if they don't commit suicide. Also them life is object of bets.
+  
+- An audiovisual network, connected to big companies like **Hollywood** [[95]](https://en.wikipedia.org/wiki/Hollywood), **Bollywood** [[96]](https://en.wikipedia.org/wiki/Bollywood), **Cinecittà** [[97]](https://en.wikipedia.org/wiki/Cinecitt%C3%A0) and **El Deseo** [[97]](https://en.wikipedia.org/wiki/El_Deseo) film production. 
 
 Next there are some commercial products or some university study, is what the big public can see about, the face to the public:
 
@@ -181,3 +183,7 @@ Next there are some commercial products or some university study, is what the bi
 92. https://en.wikipedia.org/wiki/Frenchelon
 93. https://en.wikipedia.org/wiki/Techno
 94. https://en.wikipedia.org/wiki/Disc_jockey
+95. https://en.wikipedia.org/wiki/Hollywood
+96. https://en.wikipedia.org/wiki/Bollywood
+97. https://en.wikipedia.org/wiki/Cinecitt%C3%A0
+98. https://en.wikipedia.org/wiki/El_Deseo
