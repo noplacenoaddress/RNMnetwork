@@ -133,7 +133,19 @@ I think that is possible using this technology to induce to a victim an attack o
 
 ![Epilepsy](../Images/shutterstock_590081462-1000x480.jpg)
 
-**Epileptic seizures** [[73]](https://en.wikipedia.org/wiki/Epileptic_seizure) are the result of excessive and abnormal neuronal activity in the cortex of the brain. This abnormal neuronal activity can be induced at 3Hz at **extremely low frequency** [[74]](https://en.wikipedia.org/wiki/Extremely_low_frequency).
+**Epileptic seizures** [[72]](https://en.wikipedia.org/wiki/Epileptic_seizure) are the result of excessive and abnormal neuronal activity in the cortex of the brain. This abnormal neuronal activity can be induced at 3Hz at **extremely low frequency** [[73]](https://en.wikipedia.org/wiki/Extremely_low_frequency).
+
+### Death method
+
+![DEW](../Images/laser-weapons-illustration-1200.jpg)
+
+Yes, in this network it's possible to induce to death rapidly and slowly to a victim. Rapidly i can describe those methods:
+
+- Prolonged attack of epilepsy.
+- **Intracranial aneurysm** [[74]](https://en.wikipedia.org/wiki/Intracranial_aneurysm) inducted by amphetamine or cocaine more pressure in cranial **blood vessels** [[75]](https://en.wikipedia.org/wiki/Blood_vessel), a **vasospasm** [[76]](https://en.wikipedia.org/wiki/Vasospasm).
+- **Myocardial infarction** [[77]](https://en.wikipedia.org/wiki/Myocardial_infarction).
+
+But there is also worst method to kill persons using this network. One is very slowly but so effective. Using radio waves pointed exactly always in the same interior organ, like a **lung** [[78]](https://en.wikipedia.org/wiki/Lung), you can create a **pleurisy** [[79]](https://en.wikipedia.org/wiki/Pleurisy). Because pleuritis is an **inflammation** [[80]](https://en.wikipedia.org/wiki/Inflammation) if it is prolonged for years it can degenerate in a **lung cancer** [[81]](https://en.wikipedia.org/wiki/Lung_cancer).  If the victim is a smoker it can be used like an effective manner to kill.
 
 
 
@@ -210,7 +222,14 @@ I think that is possible using this technology to induce to a victim an attack o
 69. https://en.wikipedia.org/wiki/Ferrite_core#Ferrite_rod_aerial
 70. https://en.wikipedia.org/wiki/Psychological_trauma
 71. https://en.wikipedia.org/wiki/Epilepsy
-72. https://en.wikipedia.org/wiki/Electroencephalography
-73. https://en.wikipedia.org/wiki/Epileptic_seizure
-74. https://en.wikipedia.org/wiki/Extremely_low_frequency
+72. https://en.wikipedia.org/wiki/Epileptic_seizure
+73. https://en.wikipedia.org/wiki/Extremely_low_frequency
+74. https://en.wikipedia.org/wiki/Intracranial_aneurysm
+75. https://en.wikipedia.org/wiki/Blood_vessel
+76. https://en.wikipedia.org/wiki/Vasospasm
+77. https://en.wikipedia.org/wiki/Myocardial_infarction
+78. https://en.wikipedia.org/wiki/Lung
+79. https://en.wikipedia.org/wiki/Pleurisy
+80. https://en.wikipedia.org/wiki/Inflammation
+81. https://en.wikipedia.org/wiki/Lung_cancer
 
