@@ -117,6 +117,24 @@ So like we've seen before with this technology and **electromagnetic waves** [[6
 
 Doing a rapid technical analysis we can consider that radios are working in a magnetic resonance environment use **shortwave** [[66]](https://en.wikipedia.org/wiki/Shortwave_radio) frequencies. Transmitters and receivers are called **radio frequency coils** [[67]](https://en.wikipedia.org/wiki/Radiofrequency_coil) and use **loop antennas** [[68]](https://en.wikipedia.org/wiki/Loop_antenna) or **ferrite loop antennas** [[69]](https://en.wikipedia.org/wiki/Comoros).
 
+### Remote EEG plotting 
+
+![Spike Wavesz](../Images/Spike-waves.png)
+
+Whit this technology it's possible to obtain remote plotting of brain waves to obtain a complete clinical picture of the victim; but not only using this informations is possible to keep under control various state of mind induced by external agents, like provoked situations, or to study effect of drug abuse in a victim. Results can be different between targets. 
+
+Stalkers and human hackers with a large career, criminals, can use those remote informations to trace a possible degrade in the life of the victim using **psychological traumas** [[70]](https://en.wikipedia.org/wiki/Psychological_trauma) and inducted drug abuse to obtain the suicide of the target. Those criminals always play pushing the psychological limit  using provoked anxiety stress and schizophrenias on the victims to obtain extreme data to sell for example to military facilities or to obtain the suicide gaining money using a system of bets that i'll explain later.
+
+Those criminals are the most dangerous ones in the earth. Using this network they can apply this method to a large part of the population changing life of entire families, groups and so on. Can obtain change in political elections. *This is terrorism*.
+
+Another thing about remote EEG it's not only the possibility to read. But this i really don't know. 
+
+I think that is possible using this technology to induce to a victim an attack of **epilepsy** [[71]](https://en.wikipedia.org/wiki/Epilepsy). 
+
+![Epilepsy](../Images/shutterstock_590081462-1000x480.jpg)
+
+**Epileptic seizures** [[73]](https://en.wikipedia.org/wiki/Epileptic_seizure) are the result of excessive and abnormal neuronal activity in the cortex of the brain. This abnormal neuronal activity can be induced at 3Hz at **extremely low frequency** [[74]](https://en.wikipedia.org/wiki/Extremely_low_frequency).
+
 
 
 # External links
@@ -190,4 +208,9 @@ Doing a rapid technical analysis we can consider that radios are working in a ma
 67. https://en.wikipedia.org/wiki/Radiofrequency_coil
 68. https://en.wikipedia.org/wiki/Loop_antenna
 69. https://en.wikipedia.org/wiki/Ferrite_core#Ferrite_rod_aerial
+70. https://en.wikipedia.org/wiki/Psychological_trauma
+71. https://en.wikipedia.org/wiki/Epilepsy
+72. https://en.wikipedia.org/wiki/Electroencephalography
+73. https://en.wikipedia.org/wiki/Epileptic_seizure
+74. https://en.wikipedia.org/wiki/Extremely_low_frequency
 
