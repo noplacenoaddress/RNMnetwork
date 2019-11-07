@@ -54,9 +54,7 @@ How is possible to do a MitM on the human visual system? I think that the develo
 
 This kind of ultra hard work it' seems to be obviously related to military forces research department. I live in  Europe so the team is Europe related. I was studying computer science at the university of Genoa, Italy. Here i've known the only genius that i've known in my life, i will not write is name here because of possible complaints. What i know that he's working hard on this criminal network and he's working for German military forces (the **Bundeswehr** [[32]](https://en.wikipedia.org/wiki/Bundeswehr)). The Deutschland military cyber forces is named **Cyber and Information Domain Service** [[33]](https://en.wikipedia.org/wiki/Cyber_and_Information_Domain_Service_(Germany)).
 
-![Luigi Durand de la Penne](../Images/Durand_de_la_Penne3.jpg)
-
-Another obvious connection, because of one of the most important speaker in the voice to skull chat that i know from my primary school always in Genoa, is the **Italian Navy** [[34]](https://en.wikipedia.org/wiki/Italian_Navy), i think that speaking about the **CEMM** [[35]](https://it.wikipedia.org/wiki/Corpo_degli_equipaggi_militari_marittimi) the section is obviously the **SSC/TLC/GE** [[36]](http://www.marina.difesa.it/il-tuo-futuro-e-il-mare/carriere/per-grado/sottufficiali/Documents/categ_sottufficiali.pdf). She is the grandson of one of the second world war hero, **Luigi Durand de la Penne** [[37]](https://en.wikipedia.org/wiki/Luigi_Durand_de_la_Penne).
+Another obvious connection, because of one of the most important speaker in the voice to skull chat that i know from my primary school always in Genoa, is the **Italian Navy** [[34]](https://en.wikipedia.org/wiki/Italian_Navy), i think that speaking about the **CEMM** [[35]](https://it.wikipedia.org/wiki/Corpo_degli_equipaggi_militari_marittimi) the section is obviously the **SSC/TLC/GE** [[36]](http://www.marina.difesa.it/il-tuo-futuro-e-il-mare/carriere/per-grado/sottufficiali/Documents/categ_sottufficiali.pdf). 
 
 ### The auditory system  MitM remote device
 
