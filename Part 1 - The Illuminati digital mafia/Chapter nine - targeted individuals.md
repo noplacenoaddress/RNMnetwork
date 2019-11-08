@@ -28,6 +28,10 @@ Do you want to know the reality? *I'm a target individuals by a military family 
 
 Many times people don't understand why they are target individuals? They do money betting on life of persons, only destroying a family unit they could obtain thousands of euro. And no one understand it. 
 
+Look at the image above. It say "contract stalking". What does it mean? It means that someone, probably persons that you know very well like "friends" of yours, have contracted this service in the synthetic telepathy network to oblige you to commit suicide. Who they are? It's very simple revise with clear mind the years before that this provoked situations has affected your life. Try to draw a graph as a function of time and nefarious events. You will find that those friends could be also your family. Someone that you've call brother. Like me. But why all of this shit could happen to a normal guy? The reply it's only one, envies one of the **seven deadly sins** [[11]](https://en.wikipedia.org/wiki/Seven_deadly_sins). Or something that you haven't under your control, an inheritance. Or simply your business, that provoke interest in some medium size shark. As usual I'm victim of the three cases.
+
+![Seven deadly sins](../Images/Tableau_de_mission_-François-Marie_Balanant_tableau_1-.jpg)
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Octopus
@@ -40,3 +44,4 @@ Many times people don't understand why they are target individuals? They do mone
 8. https://en.wikipedia.org/wiki/George_Orwell
 9. https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 10. https://en.wikipedia.org/wiki/James_Cameron
+11. https://en.wikipedia.org/wiki/Seven_deadly_sins
