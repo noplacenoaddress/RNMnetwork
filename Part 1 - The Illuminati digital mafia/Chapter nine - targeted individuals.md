@@ -26,6 +26,8 @@ So why i speak about a film saga and a novel? Because this network use indigent 
 
 Do you want to know the reality? *I'm a target individuals by a military family from when i was born*. But this i will explain in another section, my personal experience.
 
+Many times people don't understand why they are target individuals? They do money betting on life of persons, only destroying a family unit they could obtain thousands of euro. And no one understand it. 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Octopus
