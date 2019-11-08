@@ -149,7 +149,11 @@ But there is also worst method to kill persons using this network. One is very s
 
 ![Electronic harassment](../Images/cyber-harassment.jpg)
 
+**Electromagnetic torture** [[82]](https://en.wikipedia.org/wiki/Electronic_harassment) are normally classified for the governments as **hallucinations** [[83]](https://en.wikipedia.org/wiki/Hallucination) thats because people cannot explain scientifically the real cause of the voice to skull and other sensations feelings that provoke them. 
 
+This book want to be exactly the necessary proof, the **evidences** [[84]](https://en.wikipedia.org/wiki/Evidence_(law)),  to denounce these criminals who are ruining the lives of millions of people. 
+
+**Electromagnetic pollution** [[85]](https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health) exist. And mistakenly these issues are classified as such. Electro smog is also dangerous for our health. 
 
 # External links
 
@@ -234,4 +238,8 @@ But there is also worst method to kill persons using this network. One is very s
 79. https://en.wikipedia.org/wiki/Pleurisy
 80. https://en.wikipedia.org/wiki/Inflammation
 81. https://en.wikipedia.org/wiki/Lung_cancer
+82. https://en.wikipedia.org/wiki/Electronic_harassment
+83. https://en.wikipedia.org/wiki/Hallucination
+84. https://en.wikipedia.org/wiki/Evidence_(law)
+85. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
 
