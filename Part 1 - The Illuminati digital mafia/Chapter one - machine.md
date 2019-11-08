@@ -103,6 +103,12 @@ Imagine those devices acting in remote without any physical brain implant or dev
 
 it the person **on this article** [[62]](https://www.guineapigzero.com/i-was-a-brain-slave.html) a schizophrenic? Absolutely not, but he doesn't know why he is a slave. Why does he speaks about UFO and stupidity like this? Because when human kind cannot explain a phenomenon use divinity, like our ancestor do with polytheism and monotheism. The real problem is that our politics, administrations and police doesn't know exactly what it is passing or they are totally corrupted by the Machine. How it is possible? We will see in the next chapter.
 
+### The visible light radio wave monitor television
+
+![Visible light frequency](../Images/visible_light.jpg)
+
+This is the best feature of this network. People that have payed to enter or girls that have passed two years of slavery are in. When you're in you visualize, and only you, a virtual monitor above your head. Something similar to the effect of the physic **Google glass** [[63]](https://en.wikipedia.org/wiki/Google_Glass). Augmented reality without a device, it's real and it's now. It's changing our democracy. Just now, under our eyes.
+
 ### The reproductive system over excitement and control
 
 ![Women masturbation brain response](../Images/nihms303557f2.jpg)
@@ -230,30 +236,31 @@ Those hardware size EMF using the **Tesla unit** [[88]](https://en.wikipedia.org
 60. https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
 61. https://en.wikipedia.org/wiki/Brexit
 62. https://www.guineapigzero.com/i-was-a-brain-slave.html
-63. https://en.wikipedia.org/wiki/Human_sexual_activity
-64. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186818/
-65. https://en.wikipedia.org/wiki/Electromagnetic_radiation
-66. https://en.wikipedia.org/wiki/Shortwave_radio
-67. https://en.wikipedia.org/wiki/Radiofrequency_coil
-68. https://en.wikipedia.org/wiki/Loop_antenna
-69. https://en.wikipedia.org/wiki/Ferrite_core#Ferrite_rod_aerial
-70. https://en.wikipedia.org/wiki/Psychological_trauma
-71. https://en.wikipedia.org/wiki/Epilepsy
-72. https://en.wikipedia.org/wiki/Epileptic_seizure
-73. https://en.wikipedia.org/wiki/Extremely_low_frequency
-74. https://en.wikipedia.org/wiki/Intracranial_aneurysm
-75. https://en.wikipedia.org/wiki/Blood_vessel
-76. https://en.wikipedia.org/wiki/Vasospasm
-77. https://en.wikipedia.org/wiki/Myocardial_infarction
-78. https://en.wikipedia.org/wiki/Lung
-79. https://en.wikipedia.org/wiki/Pleurisy
-80. https://en.wikipedia.org/wiki/Inflammation
-81. https://en.wikipedia.org/wiki/Lung_cancer
-82. https://en.wikipedia.org/wiki/Electronic_harassment
-83. https://en.wikipedia.org/wiki/Hallucination
-84. https://en.wikipedia.org/wiki/Evidence_(law)
-85. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
-86. https://en.wikipedia.org/wiki/EMF_measurement
-87. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
-88. https://en.wikipedia.org/wiki/Tesla_(unit)
+63. https://en.wikipedia.org/wiki/Google_Glass
+64. https://en.wikipedia.org/wiki/Human_sexual_activity
+65. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3186818/
+66. https://en.wikipedia.org/wiki/Electromagnetic_radiation
+67. https://en.wikipedia.org/wiki/Shortwave_radio
+68. https://en.wikipedia.org/wiki/Radiofrequency_coil
+69. https://en.wikipedia.org/wiki/Loop_antenna
+70. https://en.wikipedia.org/wiki/Ferrite_core#Ferrite_rod_aerial
+71. https://en.wikipedia.org/wiki/Psychological_trauma
+72. https://en.wikipedia.org/wiki/Epilepsy
+73. https://en.wikipedia.org/wiki/Epileptic_seizure
+74. https://en.wikipedia.org/wiki/Extremely_low_frequency
+75. https://en.wikipedia.org/wiki/Intracranial_aneurysm
+76. https://en.wikipedia.org/wiki/Blood_vessel
+77. https://en.wikipedia.org/wiki/Vasospasm
+78. https://en.wikipedia.org/wiki/Myocardial_infarction
+79. https://en.wikipedia.org/wiki/Lung
+80. https://en.wikipedia.org/wiki/Pleurisy
+81. https://en.wikipedia.org/wiki/Inflammation
+82. https://en.wikipedia.org/wiki/Lung_cancer
+83. https://en.wikipedia.org/wiki/Electronic_harassment
+84. https://en.wikipedia.org/wiki/Hallucination
+85. https://en.wikipedia.org/wiki/Evidence_(law)
+86. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
+87. https://en.wikipedia.org/wiki/EMF_measurement
+88. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+89. https://en.wikipedia.org/wiki/Tesla_(unit)
 
