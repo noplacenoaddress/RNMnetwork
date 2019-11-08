@@ -15,7 +15,7 @@ The first question that we can do when we speak about a service is who is the ty
 - High class society
 - High level ecclesiastics
 
-# Gangstalking
+### Gangstalking
 
 ![](../Images/luzdegas.jpg)
 
@@ -58,7 +58,7 @@ But what is a pseudo dictatorship? Is a form of a state under the declared state
 
 
 
-# The gangstalking "game"
+### The gangstalking "game"
 
 
 
@@ -76,7 +76,7 @@ This "game" is reality is a recurrent pattern where a love is forcedly broken an
 
 
 
-# 	Cyberstalking
+### 	Cyberstalking
 
 
 
@@ -92,7 +92,7 @@ What in the **cold war** [[44]](https://en.wikipedia.org/wiki/Cold_War) was pate
 
 But is gangstalkers connected to the US secret services and governments? No, probably not. It's very common that they are using the public patents and leaks from **Julian Assange** [[52]](https://en.wikipedia.org/wiki/Julian_Assange) team to improve the synthetic telepathy network, nowadays an information technology evolution of a part of the radio television broadcast system. 
 
-# Telecommunications for inmates
+### Telecommunications for inmates
 
 ![radio signals see through walls](../Images/4D41F26E00000578-5838529-image-a-2_1529053047445.jpg)
 
@@ -114,7 +114,7 @@ With radio waves as you can see in the image above it's possible to obtain also 
 
 Why i explain this in this section? It's obvious. Who contract this clientless service in reality he's also a victim. Because of all the technologies that i've explained above. With this awesome technology the owners of the network can know passions of the victims and seeing this in a criminal way it is possible to obtain ways to coerce victims. Reflect.
 
-# Semi physic remote desktop environment
+### Semi physic remote desktop environment
 
 ![Islamic Terrorism](../Images/p8-ponnuru-a-20151125.jpg)
 
@@ -132,7 +132,7 @@ With the use of brain waves joint together with voice to skull service, clients 
 
 This is absolutely lawbreaker if sold to the wrong customer. Who is controlling this network? Is police able to stop the grow up of the "Illuminati" pseudo dictatorship? I cannot find information about the synthetic telepathy network and i'm a victim of. *I was electronically tortured for two years* and i decide to write about all what i've understood in those hell years. *Someone have to stop this. Just now.* I think that is responsible of the birth of the new **populist movements** [[62]](https://en.wikipedia.org/wiki/Populism) in Europe, extreme right movements, grow up of **Neo-Nazism** [[63]](https://en.wikipedia.org/wiki/Neo-Nazism) and so on. *This is not a joke.*  
 
-# Sexual holograms  sale
+### Sexual holograms  sale
 
 ![Coachella Valley Music](../Images/ca-times.brightspotcdn.com.jpeg)
 
@@ -182,7 +182,7 @@ But is this a secret? No! Here is some international press articles and porn mov
 
 Doing a rapid search on Google i've found a name of a Greek billionaire connected to holograms related business, **Alki David** [[77]](https://en.wikipedia.org/wiki/Alki_David).
 
-# Goods transport route control
+### Goods transport route control
 
 ![Indian Satellite](../Images/indiansatelite_resize_md.jpg)
 
@@ -225,9 +225,9 @@ Let's start with a reflexion about this. What can be done playing with this natu
 - Accidents, in transport, civil or military.
 - Death by a lightning strike like you can see in the graph below
 
-![US Lighting Deaths](800px-US_Lightning_Deaths.png)
+![US Lighting Deaths](../Images/800px-US_Lightning_Deaths.png)
 
-# Women sexual overexcitation
+### Women sexual overexcitation
 
 ![south america BDSM digital](../Images/bdsmeradigital.png)
 
@@ -279,7 +279,7 @@ Look at the numbers of the china community in Catalunya, this study from **UAB**
 
 http://www.fti.uab.es/interasia/documents/Beltran-La%20Inmigraci%F3n%20China%20en%20Catalu%F1a.pdf
 
-# Hacking applied to humans
+### Hacking applied to humans
 
 ![Gold river search](../Images/xssa.jpg)
 
@@ -301,7 +301,7 @@ But remember always, reader, those connections between different science branch 
 
 *Are them actors or are them directors of an invented tragedy? I don't know, i've never try it.* 
 
-# Parimutuel crypt betting
+### Parimutuel crypt betting
 
 ![Nast Boss](../Images/Nast-Boss-Tweed-1871.jpg)
 
@@ -341,7 +341,7 @@ Parimutuel betting are a dangerous form of betting when we speak about large amo
 
 Why i said that all the peoples that enter in the "Illuminati" hierarchy tree are subject to parimutuel betting?  Because every years there is gambling on who do more invoice selling goods, black market, legal market and so on. Like in a **greyhound racing** [[119]](https://en.wikipedia.org/wiki/Greyhound_racing). But here you will die if you arrive further down the place number thirteen. And obviously there is also, probably with another method, a bet in your life using normal concurrency. 
 
-# External links
+### External links
 
 ![networking](../Images/1-intro_113_0.jpg)	
 
