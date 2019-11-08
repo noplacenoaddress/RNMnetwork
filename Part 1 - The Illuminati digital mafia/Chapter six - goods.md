@@ -61,7 +61,7 @@ Remember also that visual cortex of all the human clients of the network is read
 
 To hunt, to pursue, to chase, to *stalk*. Or in computer science, a **trojan horse** [[19]](https://en.wikipedia.org/wiki/Trojan_horse_(computing)); something in a good shape that hide something terrible and dangerous. *Prostitutes*? Something more complex, they aren't directly sold in web pages. They go out in the **Saturday Night Fever** [[20]](https://en.wikipedia.org/wiki/Saturday_Night_Fever) trying to catch, and yes all the days they go out they catch, the correct prey. Someone that isn't connected to the network, someone that has got a good bank account, or someone that is a possible competitor for others clients of the network. In this way  my ex-girlfriend ended up being a slave to the neural control network for a year and raped several times before becoming a millionaire huntress berthed in the tourist port of Barcelona. Under threat of losing the chance to see his daughter.
 
- *She too, like me, a victim*.
+ *She is too, like me, a victim. But a different type of*.
 
 What is the forced process to become a slayer? What steps must a huntress follow to avoid being tortured daily by the owners of this criminal network? How many victims hunt my ex girlfriend and twenty other four girls in Barcelona? What kind of drugs are they administered to make them lose the limit of violence? How many men and women forced to be slaves of this hell in their turn? How much money did you generate for the owners? How is it possible that the police do not stop this continuous crime? How many orgies did you have to deal with international dealers and characters of dubious origin? How many times has your life been endangered?
 
