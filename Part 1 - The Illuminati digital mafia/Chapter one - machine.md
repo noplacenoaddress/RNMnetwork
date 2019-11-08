@@ -52,7 +52,7 @@ How is possible to do a MitM on the human visual system? I think that the develo
 
 ![Cyber and Information Domain Service](../Images/InternesVerbandsabzeichenKdoCIR.png)
 
-This kind of ultra hard work it' seems to be obviously related to military forces research department. I live in  Europe so the team is Europe related. I was studying computer science at the university of Genoa, Italy. Here i've known the only genius that i've known in my life, i will not write is name here because of possible complaints. What i know that he's working hard on this criminal network and he's working for German military forces (the **Bundeswehr** [[32]](https://en.wikipedia.org/wiki/Bundeswehr)). The Deutschland military cyber forces is named **Cyber and Information Domain Service** [[33]](https://en.wikipedia.org/wiki/Cyber_and_Information_Domain_Service_(Germany)).
+This kind of ultra hard work it' seems to be obviously related to military forces research department. I live in  Europe so the team is Europe related. I was studying computer science at the university of Genoa, Italy. Here I've known the only genius that I've known in my life, i will not write is name here because of possible complaints. What i know that he's working hard on this criminal network and he's working for German military forces (the **Bundeswehr** [[32]](https://en.wikipedia.org/wiki/Bundeswehr)). The Deutschland military cyber forces is named **Cyber and Information Domain Service** [[33]](https://en.wikipedia.org/wiki/Cyber_and_Information_Domain_Service_(Germany)).
 
 Another obvious connection, because of one of the most important speaker in the voice to skull chat that i know from my primary school always in Genoa, is the **Italian Navy** [[34]](https://en.wikipedia.org/wiki/Italian_Navy), i think that speaking about the **CEMM** [[35]](https://it.wikipedia.org/wiki/Corpo_degli_equipaggi_militari_marittimi) the section is obviously the **SSC/TLC/GE** [[36]](http://www.marina.difesa.it/il-tuo-futuro-e-il-mare/carriere/per-grado/sottufficiali/Documents/categ_sottufficiali.pdf). 
 
@@ -144,6 +144,10 @@ Yes, in this network it's possible to induce to death rapidly and slowly to a vi
 - **Myocardial infarction** [[77]](https://en.wikipedia.org/wiki/Myocardial_infarction).
 
 But there is also worst method to kill persons using this network. One is very slowly but so effective. Using radio waves pointed exactly always in the same interior organ, like a **lung** [[78]](https://en.wikipedia.org/wiki/Lung), you can create a **pleurisy** [[79]](https://en.wikipedia.org/wiki/Pleurisy). Because pleuritis is an **inflammation** [[80]](https://en.wikipedia.org/wiki/Inflammation) if it is prolonged for years it can degenerate in a **lung cancer** [[81]](https://en.wikipedia.org/wiki/Lung_cancer).  If the victim is a smoker it can be used like an effective manner to kill.
+
+### Electronic harassment
+
+![Electronic harassment](../Images/cyber-harassment.jpg)
 
 
 
