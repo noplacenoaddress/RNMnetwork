@@ -41,7 +41,7 @@ So another kind of victim of the network are young inexpert businessman, like i 
 
 ### People with similar physiognomy
 
-![Collages of Faces](../Images/Collage of Faces.jpg)
+![Collages of Faces](../Images/Collage.jpg)
 
 **Physiognomy** [[14]](https://en.wikipedia.org/wiki/Physiognomy). **Clone** [[15]](https://en.wikipedia.org/wiki/Clone_(computing)) in computing. What does those words got in common? 
 
