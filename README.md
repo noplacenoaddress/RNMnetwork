@@ -10,4 +10,4 @@ For all the womans that have been violated in the "Illuminati" network by the di
 
 Ricky.
 
-PS: my father call this "rete di controllo internazionale", but we can call it the aristocratic telecomunications system, the digital mafia or the audiovisual monster.
+All material publicated in this git repository is strictly protected by the "Creative Commons Attribution-NonCommercial 4.0 International" license.
