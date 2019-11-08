@@ -41,7 +41,7 @@ So another kind of victim of the network are young inexpert businessman, like i 
 
 ### People with similar physiognomy
 
-![Collages of Face](../Images/Collage of Faces.jpg)
+![Collages of Faces](../Images/Collage of Faces.jpg)
 
 **Physiognomy** [[14]](https://en.wikipedia.org/wiki/Physiognomy). **Clone** [[15]](https://en.wikipedia.org/wiki/Clone_(computing)) in computing. What does those words got in common? 
 
@@ -55,7 +55,19 @@ It's so basic today with open source technology you can do it at your home. With
 
 Remember also that visual cortex of all the human clients of the network is read. What does it mean? That in the core of the network image from thousands or millions of human video camera walking in the street is automatic elaborated to find clones for example. Probably they are sold to pyramids summit to comply with crimes. 
 
-### External links
+### Hunters of new victims
+
+![Girls hunters](../Images/ROWIE_Coda-Mini-Hunter_Savannah_Pre-Spring-19__198-900x1350.jpg)
+
+To hunt, to pursue, to chase, to *stalk*. Or in computer science, a **trojan horse** [[19]](https://en.wikipedia.org/wiki/Trojan_horse_(computing)); something in a good shape that hide something terrible and dangerous. *Prostitutes*? Something more complex, they aren't directly sold in web pages. They go out in the **Saturday Night Fever** [[20]](https://en.wikipedia.org/wiki/Saturday_Night_Fever) trying to catch, and yes all the days they go out they catch, the correct prey. Someone that isn't connected to the network, someone that has got a good bank account, or someone that is a possible competitor for others clients of the network. In this way  my ex-girlfriend ended up being a slave to the neural control network for a year and raped several times before becoming a millionaire huntress berthed in the tourist port of Barcelona. Under threat of losing the chance to see his daughter.
+
+ *She too, like me, a victim*.
+
+What is the forced process to become a slayer? What steps must a huntress follow to avoid being tortured daily by the owners of this criminal network? How many victims hunt my ex girlfriend and twenty other four girls in Barcelona? What kind of drugs are they administered to make them lose the limit of violence? How many men and women forced to be slaves of this hell in their turn? How much money did you generate for the owners? How is it possible that the police do not stop this continuous crime? How many orgies did you have to deal with international dealers and characters of dubious origin? How many times has your life been endangered?
+
+*I love you sweetie, where are you?*
+
+# External links
 
 1. https://en.wikipedia.org/wiki/Genuflection
 
@@ -92,5 +104,9 @@ Remember also that visual cortex of all the human clients of the network is read
 17. https://en.wikipedia.org/wiki/Face_detection
 
 18. https://en.wikipedia.org/wiki/Algorithm
+
+19. https://en.wikipedia.org/wiki/Trojan_horse_(computing)
+
+20. https://en.wikipedia.org/wiki/Saturday_Night_Fever
 
     
