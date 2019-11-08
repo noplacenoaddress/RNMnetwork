@@ -109,6 +109,8 @@ it the person **on this article** [[62]](https://www.guineapigzero.com/i-was-a-b
 
 This is the best feature of this network. People that have payed to enter or girls that have passed two years of slavery are in. When you're in you visualize, and only you, a virtual monitor above your head. Something similar to the effect of the physic **Google glass** [[63]](https://en.wikipedia.org/wiki/Google_Glass). Augmented reality without a device, it's real and it's now. It's changing our democracy. Just now, under our eyes.
 
+What you visualize is a big tablet Android equipped above your head. And also a augmented reality vision. How do you control it? With two virtual arms that you control with your brain. All of this it's visible only by the end user, others users in the network could not visualize it. 
+
 ### The reproductive system over excitement and control
 
 ![Women masturbation brain response](../Images/nihms303557f2.jpg)
