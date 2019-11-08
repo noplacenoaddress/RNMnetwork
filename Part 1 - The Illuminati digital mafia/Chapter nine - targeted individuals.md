@@ -20,7 +20,7 @@ Why there's so much human guinea pigs in our streets and no one reflect on the r
 
 It's simple. And this is not apocalyptic. Have you seen the Terminator saga? Do you understand the **Terminator character concept** [[7]](https://en.wikipedia.org/wiki/Terminator_(character_concept))? Have you think about that the first film left on cinema on 1984? 
 
-**George Orwell** has written a novel in 1947 after the second world war called **Nineteen Eighty-Four** [[9]](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four). He wrote about a big brother society based on global mass surveillance. He had a lot of fantasy? I don't think so. He was a visionary? I don't think so. But those are just my two cents as usual.
+**George Orwell** [[8]](https://en.wikipedia.org/wiki/George_Orwell) has written a novel in 1947 after the second world war called **Nineteen Eighty-Four** [[9]](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four). He wrote about a big brother society based on global mass surveillance. He had a lot of fantasy? I don't think so. He was a visionary? I don't think so. But those are just my two cents as usual.
 
 So why i speak about a film saga and a novel? Because this network use indigent to obtain human data under extreme stress situations and very low physical health to go ahead with extreme speed in artificial intelligence, neural network, and electronic weapon development. In a few decades the real scenario will be exactly the one proposed by **James Cameron** [[10]](https://en.wikipedia.org/wiki/James_Cameron)? Another visionary? I don't think so, just the elite that with great film productions advance to the big public what will be one of probable feature. But no one say nothing. And let the tortures goes on. Fuck.
 
