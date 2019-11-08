@@ -155,6 +155,17 @@ This book want to be exactly the necessary proof, the **evidences** [[84]](https
 
 **Electromagnetic pollution** [[85]](https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health) exist. And mistakenly these issues are classified as such. Electro smog is also dangerous for our health. 
 
+![EMF](../Images/EMF-3.png)
+
+This detections was done in my house on march 2019. Like you can appreciate the normal values  are shown on the left , this is the correct on people that are not target individuals. The right side is a person, like me, subjected to electromagnetic assault. Those are called **EMF measurement** [[86]](https://en.wikipedia.org/wiki/EMF_measurement) can be obtained with physical meters or with applications in mobile that've got a **MEMS magnetic field sensor** [[87]](https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor). Almost all medium size smart mobile got one nowadays. Here you are some application to size it:
+
+- https://play.google.com/store/apps/details?id=smf.detector
+- https://play.google.com/store/apps/details?id=com.mreprogramming.ultimateemfdetector
+
+Those hardware size EMF using the **Tesla unit** [[88]](https://en.wikipedia.org/wiki/Tesla_(unit)). 
+
+ 
+
 # External links
 
 1. https://en.wikipedia.org/wiki/M_(James_Bond)
@@ -242,4 +253,7 @@ This book want to be exactly the necessary proof, the **evidences** [[84]](https
 83. https://en.wikipedia.org/wiki/Hallucination
 84. https://en.wikipedia.org/wiki/Evidence_(law)
 85. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
+86. https://en.wikipedia.org/wiki/EMF_measurement
+87. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+88. https://en.wikipedia.org/wiki/Tesla_(unit)
 
