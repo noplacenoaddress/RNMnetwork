@@ -39,7 +39,21 @@ With remote neural monitoring what happen to business mans:
 
 So another kind of victim of the network are young inexpert businessman, like i was, that are inserted violently in this system. They theft all his possession and fall in the gang stalking game, normally for a couple of years or more depending on his capacities.
 
+### People with similar physiognomy
 
+![Collages of Faces](../Images/Collage of Faces.jpg)
+
+**Physiognomy** [[14]](https://en.wikipedia.org/wiki/Physiognomy). **Clone** [[15]](https://en.wikipedia.org/wiki/Clone_(computing)) in computing. What does those words got in common? 
+
+In the "Illuminati" pseudo dictatorship all about technology it is applied to human being and society. So we speak about human hacking and not simply hacking. It's fascinating but somewhat disturbing the bizarre but effective result of the creators of this network.
+
+Think about pyramid structures with a summit and next top-down levels from minus to more members. One of the feature of this system is to find with the network or in Internet in social web sites persons with similar physiognomy of the summit of the pyramid? Why? To protect to real identity of the head of. Or other applications.
+
+Who can they do it?
+
+It's so basic today with open source technology you can do it at your home. With **OpenCV** [[16]](https://en.wikipedia.org/wiki/OpenCV) some **face detection** [[17]](https://en.wikipedia.org/wiki/Face_detection) **algorithm** [[18]](https://en.wikipedia.org/wiki/Algorithm) and a good programmers department the game is done. Nothing of the other world. 
+
+Remember also that visual cortex of all the human clients of the network is read. What does it mean? That in the core of the network image from thousands or millions of human video camera walking in the street is automatic elaborated to find clones for example. Probably they are sold to pyramids summit to comply with crimes. 
 
 ### External links
 
@@ -68,5 +82,15 @@ So another kind of victim of the network are young inexpert businessman, like i 
 12. https://en.wikipedia.org/wiki/Misappropriation
 
 13. https://en.wikipedia.org/wiki/Competition_law
+
+14. https://en.wikipedia.org/wiki/Physiognomy
+
+15. https://en.wikipedia.org/wiki/Clone_(computing)
+
+16. https://en.wikipedia.org/wiki/OpenCV
+
+17. https://en.wikipedia.org/wiki/Face_detection
+
+18. https://en.wikipedia.org/wiki/Algorithm
 
     
