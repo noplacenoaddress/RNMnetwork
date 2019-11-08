@@ -69,6 +69,16 @@ What is the forced process to become a slayer? What steps must a huntress follow
 
 This is a two years process, started with brainwash and ended with continuous praise and helpful additives to boost self esteem. Provoked situations orchestrated by a strong mind, like a master. Something similar but not equal to a sept. The adepts are beautiful women with a great desire to overcome and to be noticed in a complicated world. With a great desire to reach economic goals glimpsed in the upper floors of the direction of this deadly weapon, the network of synthetic telepathy. Situations in which these beautiful girls after being treated as slaves for mid-level stalkers are lured with false promises and made safe by theoretically random facts. For example, being invited to high-class parties, such as parties in football players' private villas and being able to have sex, even multiple ones, with so-called famous people. Other tools of the owners of the network.
 
+So that their self-esteem rises exponentially in a short period of time. Since you don't even have money to eat quickly you are invited to luxurious parties. Then a work is proposed to her, based on the seduction ballet. On the hunt, on sex on the capacity for conviction.
+
+*Why do they make money?*
+
+Easy, actually people who have nights of madness with these beautiful women, including my ex-girlfriend, are victims of a subtle crime of invasion of privacy. Girls are human cameras. The owners of the network observe the sexual clothes of the victims in case they are high-level people, obviously they are not included in the invasive form, but only in a hidden way.
+
+*Let us remember that the naked man is a more vulnerable man.*
+
+
+
 # External links
 
 1. https://en.wikipedia.org/wiki/Genuflection
