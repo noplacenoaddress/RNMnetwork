@@ -22,7 +22,9 @@ It's simple. And this is not apocalyptic. Have you seen the Terminator saga? Do 
 
 **George Orwell** has written a novel in 1947 after the second world war called **Nineteen Eighty-Four** [[9]](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four). He wrote about a big brother society based on global mass surveillance. He had a lot of fantasy? I don't think so. He was a visionary? I don't think so. But those are just my two cents as usual.
 
-So why i speak about a film saga and a novel? Because this network use indigent to obtain human data under extreme stress situations and very low physical health to go ahead with extreme speed in artificial intelligence, neural network, and electronic weapon development. In a few decades the real scenario will be exactly the one proposed by **James Cameron** [[10]](https://en.wikipedia.org/wiki/James_Cameron)? Another visionary? I don't think so, just the elite that with great film productions advance to the big public what will be one of probable features. But no one say nothing. And let the tortures goes on. Fuck.
+So why i speak about a film saga and a novel? Because this network use indigent to obtain human data under extreme stress situations and very low physical health to go ahead with extreme speed in artificial intelligence, neural network, and electronic weapon development. In a few decades the real scenario will be exactly the one proposed by **James Cameron** [[10]](https://en.wikipedia.org/wiki/James_Cameron)? Another visionary? I don't think so, just the elite that with great film productions advance to the big public what will be one of probable feature. But no one say nothing. And let the tortures goes on. Fuck.
+
+Do you want to know the reality? *I'm a target individuals by a military family from when i was born*. But this i will explain in another section, my personal experience.
 
 ### External links
 
