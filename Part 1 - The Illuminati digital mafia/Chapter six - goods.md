@@ -23,7 +23,7 @@ So in fact this pseudo dictatorship is founded in drug sell and prostitution. Bu
 
 ![Mediterranean Sea](../Images/Mediterranee_02_EN.jpg)
 
-# Theft of ideas and unfair competition
+### Theft of ideas and unfair competition
 
 Remember that all people in this network, victims or not, are under remote neural monitoring. Them minds are read. In a vast amount of people there's always some singularity, some especial person, some inventor. This system have got a branch of rapid idea development. The problem is that who has got the idea don't know this feature and his idea is theft and rapidly pass in production. Those people has got all the tools and stuff, not only digital, to produce whatever good, also physic. They produce millions of euro stealing good ideas.  Why they do more moneys than a single? Simply, in this network there's a lot of great entrepreneurs all of them participate with non-legal **shares** [[8]](https://en.wikipedia.org/wiki/Share_(finance)) of the company, that make a percentage completely out of the market so that they attract a lot of **shareholders** [[9]](https://en.wikipedia.org/wiki/Shareholder). So all participate in the purchase and marketisation of the product. Very simple, dude.
 
@@ -41,7 +41,7 @@ So another kind of victim of the network are young inexpert businessman, like i 
 
 
 
-# External links
+### External links
 
 1. https://en.wikipedia.org/wiki/Genuflection
 

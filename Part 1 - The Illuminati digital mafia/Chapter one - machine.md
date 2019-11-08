@@ -164,7 +164,7 @@ This detections was done in my house on march 2019. Like you can appreciate the 
 
 Those hardware size EMF using the **Tesla unit** [[88]](https://en.wikipedia.org/wiki/Tesla_(unit)). 
 
- 
+
 
 # External links
 

@@ -14,6 +14,16 @@ But this is not the worst think. In this network another shit happen to those po
 
 Those people are heavy tortured almost every day and every night to obtain value to sell to military facilities. Tortured by sadist. Bent by the excruciating pain of electronic weapons that are a reality silenced by corruption as subtle but as thick as a fog bank that is destroying our Europe in front of our white cocaine noses.
 
+Some of them, who got a family that can maintain them like me, try to resist to this monster, this network. And some, always like me, are IT technologist. Someone don't loose his mind after the complicate brain washing phases and the gangstalking one. Like me. Look in twitter the hashtag **#targetindividuals** [[6]](https://twitter.com/hashtag/targetindividuals). This is the legal and silenced by corruption human right abuse in our false electronic democracy. This is the end of ours states. No one speak about and this have to finish right now.
+
+Why there's so much human guinea pigs in our streets and no one reflect on the real reason?
+
+It's simple. And this is not apocalyptic. Have you seen the Terminator saga? Do you understand the **Terminator character concept** [[7]](https://en.wikipedia.org/wiki/Terminator_(character_concept))? Have you think about that the first film left on cinema on 1984? 
+
+**George Orwell** has written a novel in 1947 after the second world war called **Nineteen Eighty-Four** [[9]](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four). He wrote about a big brother society based on global mass surveillance. He had a lot of fantasy? I don't think so. He was a visionary? I don't think so. But those are just my two cents as usual.
+
+So why i speak about a film saga and a novel? Because this network use indigent to obtain human data under extreme stress situations and very low physical health to go ahead with extreme speed in artificial intelligence, neural network, and electronic weapon development. In a few decades the real scenario will be exactly the one proposed by **James Cameron** [[10]](https://en.wikipedia.org/wiki/James_Cameron)? Another visionary? I don't think so, just the elite that with great film productions advance to the big public what will be one of probable features. But no one say nothing. And let the tortures goes on. Fuck.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Octopus
@@ -21,3 +31,8 @@ Those people are heavy tortured almost every day and every night to obtain value
 3. https://en.wikipedia.org/wiki/Health_care
 4. https://en.wikipedia.org/wiki/Brain_tumor
 5. https://en.wikipedia.org/wiki/Poverty
+6. https://twitter.com/hashtag/targetindividuals
+7. https://en.wikipedia.org/wiki/Terminator_(character_concept)
+8. https://en.wikipedia.org/wiki/George_Orwell
+9. https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+10. https://en.wikipedia.org/wiki/James_Cameron

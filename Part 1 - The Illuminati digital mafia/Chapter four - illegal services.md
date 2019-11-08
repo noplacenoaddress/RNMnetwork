@@ -345,8 +345,6 @@ Why i said that all the peoples that enter in the "Illuminati" hierarchy tree ar
 
 ![networking](../Images/1-intro_113_0.jpg)	
 
-
-
 1. https://en.wikipedia.org/wiki/Indo-European_languages 
 
 2. https://en.wikipedia.org/wiki/Ancient_Greek

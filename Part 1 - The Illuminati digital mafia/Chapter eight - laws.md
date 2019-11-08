@@ -1,8 +1,6 @@
 # Laws violated by this system
 
-![La legge è uguale per tutti](-piero-calamandrei--la-legge--20190913-160438-legge-uguale-tutti.jpg)
-
-l
+![La legge è uguale per tutti](../Images/-piero-calamandrei--la-legge--20190913-160438-legge-uguale-tutti.jpg)
 
 ### Crimes and internationals laws about gangstalking and gaslighting
 
