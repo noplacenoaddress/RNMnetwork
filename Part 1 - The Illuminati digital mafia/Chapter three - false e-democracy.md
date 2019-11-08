@@ -54,7 +54,7 @@ I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a no
 
 *How are the real persons behind that? Our fathers, because they are old people, they've lived and they only think about personal problems. They don't like humans and unconsciously or not have destroyed the life of their grandchildren.* 
 
-# Piloted feminism and others mass feelings
+### Piloted feminism and others mass feelings
 
 ![Girl power](../Images/feminismpuppetry-punchierpink-958x559.jpg)
 
@@ -78,7 +78,7 @@ Here it is others masses common feelings that is manipulated with this hell tech
 - Disgruntled citizens from the current political scene.
 - Religious believers.
 
-# Documentation and bank identity thief
+### Documentation and bank identity thief
 
 ![CaixaBank](../Images/60410.jpg)
 
@@ -116,7 +116,7 @@ The reality is one. **Barcelona was owned by BAT tech giants.** And also the B-s
 
 ![BAT](../Images/Batman-Golden-Age-Featured-Image-Cropped.jpg)
 
-# Oaths break
+### Oaths break
 
 ![Hippocratic Oath](../Images/HippocraticOath.jpg)
 
