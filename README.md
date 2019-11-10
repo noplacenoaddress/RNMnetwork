@@ -8,7 +8,7 @@ For you Lucia. For your future.
 
 For all the womans that have been violated in the "Illuminati" network by the digital mafia.
 
-For all the Catalans woman that have been violated for the remote parimutuel betting system.
+For all the Catalans womans that have been violated for the remote parimutuel betting system.
 
 Ricky.
 
