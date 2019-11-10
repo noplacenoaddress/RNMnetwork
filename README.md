@@ -10,7 +10,7 @@ For all the womans that have been digitally violated in the "Illuminati" network
 
 For all the Catalans womans that have been physically violated by the remote parimutuel betting system.
 
-We are not dogs. My two little puppies where killed.
+We are not dogs. My two little puppies were killed.
 
 Ricky.
 
