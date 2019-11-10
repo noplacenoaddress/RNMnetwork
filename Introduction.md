@@ -1,6 +1,6 @@
 # Killer wireless networks.
 
-In the world there is a series of networks organized in layers in a **top-down design** [[89]](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) of importance that have different level of access and is distributed around the world depending on who enter here.. The most important are parts of **global mass surveillance** [[90]](https://en.wikipedia.org/wiki/Global_surveillance):
+In the world there is a series of networks organized in layers in a **top-down design** [[89]](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) of importance that have different level of access and is distributed around the world depending on who enter here. The most important are parts of **global mass surveillance** [[90]](https://en.wikipedia.org/wiki/Global_surveillance):
 
 ![Menwith](Images/Menwith-hill-radomes.jpg)
 
