@@ -2,7 +2,7 @@ For our freedom, for the democracy. For all of you that have suffered the Illumi
 
 For them that have commited suicide.
 
-For you my sun flower. For you Saray. For you my love.
+For you my sun flower. For you Saray. For you my love. To revenge what he has done with your mind.
 
 For you Lucia. For your future.
 
