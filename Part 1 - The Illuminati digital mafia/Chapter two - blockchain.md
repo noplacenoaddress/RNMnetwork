@@ -64,11 +64,23 @@ This is a very good portal to know about it. *But why I speak about this feature
 
 Many Bitcoin or **Ethereum** [[11]](https://en.wikipedia.org/wiki/Ethereum) based crypt concurrency are connected to the "Illuminati" pseudo dictatorship. Many of them are connected to the black, drug and prostitution market. Many also with corruption. I've done a public web page where you can consult about those coin that I've learned in radio frequency (voice to skull) about.
 
+There are safe crypt currency bank and others that respect totally the privacy of the owners. Some want that you send your passport and a photography of you keeping it opened in front of a webcam, nothing very secure, and others are totally anonymous:
+
+- https://www.coinbase.com/ is the one more secure.
+
+- https://freewallet.org/ the other more privacy related.
+
+  But there is also games bitcoin based that are based onto Caribbean tax heavens like **Curaçao** [[12]](https://en.wikipedia.org/wiki/Cura%C3%A7ao). Here you can open free and totally anonymous crypt concurrency directions where to clean money in a series of washing machines. To obtain totally anonymity in a bitcoin transaction. One of those games is:
+
+  https://duckdice.io/?modal=greeting
+
+  That is probably related to the privacy based search engine **Duck, duck, goose** [[13]](https://en.wikipedia.org/wiki/DuckDuckGo).
+
 ### The SAFE network blockchain 
 
 ![SAFE network blockchain](../Images/1200px-Safe_Water_Network_logo.svg.png)
 
-A blockchain model applied to networking **ISO/OSI** [[11]](https://en.wikipedia.org/wiki/OSI_model) stack. It replace the last fourth pile of the Internet model. Packets are replaced with data chunks mixed in various different locations without a fixed one, a central server. It's like the old style **p2p** [[12]](https://en.wikipedia.org/wiki/Peer-to-peer) but with new encryptions models that guarantee **privacy** [[13]](https://en.wikipedia.org/wiki/Privacy), **cryptography** [[14]](https://en.wikipedia.org/wiki/Cryptography), confidentiality, integrity, and availability.
+A blockchain model applied to networking **ISO/OSI** [[14]](https://en.wikipedia.org/wiki/OSI_model) stack. It replace the last fourth pile of the Internet model. Packets are replaced with data chunks mixed in various different locations without a fixed one, a central server. It's like the old style **p2p** [[15]](https://en.wikipedia.org/wiki/Peer-to-peer) but with new encryptions models that guarantee **privacy** [[16]](https://en.wikipedia.org/wiki/Privacy), **cryptography** [[17]](https://en.wikipedia.org/wiki/Cryptography), confidentiality, integrity, and availability.
 
 
 
@@ -85,8 +97,10 @@ A blockchain model applied to networking **ISO/OSI** [[11]](https://en.wikipedia
 9. https://cryptopay.me/bitcoin-debit-card/#uk
 10. https://cryptwerk.com/pay-with/xmr/
 11. https://en.wikipedia.org/wiki/Ethereum
-12. https://en.wikipedia.org/wiki/OSI_model
-13. https://en.wikipedia.org/wiki/Peer-to-peer
-14. https://en.wikipedia.org/wiki/Privacy
-15. https://en.wikipedia.org/wiki/Cryptography
+12. https://en.wikipedia.org/wiki/Cura%C3%A7ao
+13. https://en.wikipedia.org/wiki/DuckDuckGo
+14. https://en.wikipedia.org/wiki/OSI_model
+15. https://en.wikipedia.org/wiki/Peer-to-peer
+16. https://en.wikipedia.org/wiki/Privacy
+17. https://en.wikipedia.org/wiki/Cryptography
 
