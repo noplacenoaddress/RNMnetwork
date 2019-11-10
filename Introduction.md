@@ -10,7 +10,7 @@ In the world there is a series of networks organized in layers in a **top-down d
 - The synthetic telepathy network almost open source and open hardware based.
 - A small Catalan network, terrestrial radio wave used, only voice to skull binded. Five years ago was absorbed by the synthetic telepathy network that use v2k terrestrial in Catalunya. Excellent latency in voice service.
 
-What is the principle difference between those networks? The last mile technology. In the synthetic telepathy network is satellite. In the Catalan network is terrestrial radio wave. The Aristocratic one i think but it's only a supposition that is an embedded hardware in LTE towers from the **Huawei** [[5]](https://en.wikipedia.org/wiki/Huawei). There's a little disclosure in Internet about the **concerns over Chinese involvement in 5G wireless networks** [[6]](https://en.wikipedia.org/wiki/Concerns_over_Chinese_involvement_in_5G_wireless_networks).
+What is the principle difference between those networks? The last mile technology. In the synthetic telepathy network is mixed between satellite and ground stations. In the Catalan network is terrestrial radio wave. The Aristocratic one i think but it's only a supposition that is an embedded hardware in LTE towers from the **Huawei** [[5]](https://en.wikipedia.org/wiki/Huawei). There's a little disclosure in Internet about the **concerns over Chinese involvement in 5G wireless networks** [[6]](https://en.wikipedia.org/wiki/Concerns_over_Chinese_involvement_in_5G_wireless_networks).
 
 Next there are products of this network, the aristocratic call them "*games*". Games where people die like target individuals committing suicide. Games where they change the world. Others product can be classified as services.
 
