@@ -1,6 +1,6 @@
 For our freedom, for the democracy. For all of you that have suffered the Illuminati pseudo dictatorship.
 
-For who have commited suicide.
+For them that have commited suicide.
 
 For you my sun flower. For you Saray. For you my love.
 
