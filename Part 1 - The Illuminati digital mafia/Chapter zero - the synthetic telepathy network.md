@@ -1,6 +1,6 @@
 # The synthetic telepathy network
 
-![Synthetic Telepathy](/home/taglio/Work/gangstalking/Images/redtelepatia.jpg)
+![Synthetic Telepathy network](../Images/redtelepatia.jpg)
 
 
 
