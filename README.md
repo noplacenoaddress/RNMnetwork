@@ -1,4 +1,4 @@
-For all my friends. For all of you that have suffered the Illuminati pseudo dictatorship.
+For our freedom, for the democracy. For all of you that have suffered the Illuminati pseudo dictatorship.
 
 For who have commited suicide.
 
