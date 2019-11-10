@@ -176,7 +176,7 @@ Those hardware size EMF using the **Tesla unit** [[88]](https://en.wikipedia.org
 
 ![Virtual Reality full immersion](../Images/virtual-reality-augmented-reality-3.jpg)
 
-Look above. This man is experiencing what we can define as virtual and augmented reality full immersion. Ok, but this mas has go to this site and want to test it. Correct. Imagine if someone put you in this world without authorization and whenever he wants. You could die if your driving for example. This feature is the most terrible one of this network. Thousand of woman are suffer violence with this terrible system.
+Look above. This man is experiencing what we can define as virtual and augmented reality full immersion. Ok, but this mas has go to this site and want to test it. Correct. Imagine if someone put you in this world without authorization and whenever he wants. You could die if your driving for example. This feature is the most terrible one of this network. Thousand of woman are suffering violence with this terrible system. But also minors. In this network there is a lot of pederast that buy services from the owners.
 
 
 
