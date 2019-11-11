@@ -38,14 +38,16 @@ I am victim of one game that have changed the city of Barcelona in the last five
 
 A game where i was supposed to find my ex girlfriend in Barcelona, Catalunya. What I've called mindgame. Where I was threatened to be part of the "Illuminati" as a low class drug seller or i will die. In reality my game is an hacker attack to the city of Barcelona and Genova, attack that have connected thousand of people to the synthetic telepathy network resulting in hundreds of death by suicide. Those people all are forced to sell drug or to be a prostitute if they don't commit suicide. Also them life is object of bets. And i'm also victim of the Catalan remote parimutuel betting system.
 
-My ex girlfriend was also victim with her husband of the Catalan game but physically, now the game it's digitalized. The twos were victims of the remote parimutuel betting system.
+My ex girlfriend was also victim with her husband of the Catalan game but physically, now the game it's digitalized. The twos were victims of the remote parimutuel betting system. 
+
+But by ex girlfriend is also victim of another crime. Her shape, her body and her voice was copied by the owners of the "Illuminati" synthetic telepathy network and they use her to induct to suicide with gang stalking all of them victims. 
 
 # External Links
 
-1. https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
-2. https://en.wikipedia.org/wiki/Global_surveillance
-3. https://en.wikipedia.org/wiki/ECHELON
-4. https://en.wikipedia.org/wiki/Frenchelon
+89. https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
+90. https://en.wikipedia.org/wiki/Global_surveillance
+91. https://en.wikipedia.org/wiki/ECHELON
+92. https://en.wikipedia.org/wiki/Frenchelon
 5. https://en.wikipedia.org/wiki/Huawei
 6. https://en.wikipedia.org/wiki/Concerns_over_Chinese_involvement_in_5G_wireless_networks
 7. https://en.wikipedia.org/wiki/Techno
