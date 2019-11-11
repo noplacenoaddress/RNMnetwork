@@ -31,6 +31,14 @@ But there is another break point. When i came to Catalunya i fall in love with o
 
 I don't wanna describe more in deep, my dear, just best regards and keep up the good work. I'll do the same. Cheers.
 
+### A tools of him, a queen, a virus
+
+![Stupid little bitch](../Images/71-noRUB19L._SS500_.jpg)
+
+**I call her, stupid little bitch.** The violet, the number five or sixteen. An **Aries** [[17]](https://en.wikipedia.org/wiki/Aries_(astrology)), cocaine addicted and drug seller. Work in prostitution exploitation. Very famous and ridiculous. A person to put in jail for ever. And i will do it. 
+
+Kisses, Ricky.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Guifi.net
@@ -64,5 +72,9 @@ I don't wanna describe more in deep, my dear, just best regards and keep up the 
 15. https://en.wikipedia.org/wiki/Heavy_metal_music
 
 16. https://es.wikipedia.org/wiki/Cine_quinqui
+
+17. https://en.wikipedia.org/wiki/Aries_(astrology)
+
+    
 
     
