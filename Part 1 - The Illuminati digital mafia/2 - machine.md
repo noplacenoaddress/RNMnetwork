@@ -178,6 +178,22 @@ Those hardware size EMF using the **Tesla unit** [[88]](https://en.wikipedia.org
 
 Look above. This man is experiencing what we can define as virtual and augmented reality full immersion. Ok, but this mas has go to this site and want to test it. Correct. Imagine if someone put you in this world without authorization and whenever he wants. You could die if your driving for example. This feature is the most terrible one of this network. Thousand of woman are suffering violence with this terrible system. But also minors. In this network there is a lot of pederast that buy services from the owners.
 
+![Unreal Engine 4](../Images/bSwKV9Xom4cuyCGW.jpg)
+
+**Unreal Engine 4** [[90]](https://en.wikipedia.org/wiki/Unreal_Engine) permit the construction of virtual world that absolutely seems to be real like you can see in the image above. It runs without any problems in a **Playstation 4** [[91]](https://en.wikipedia.org/wiki/PlayStation_4) hardware, something that cost for below of 300 **Dollar** [[92]](https://en.wikipedia.org/wiki/Dollar). 
+
+Imagine this graphic engine streamed on your visual cortex and your nervous system binded to the virtual world. Imagine to be chained to a chair and a lot of people, humans or not, is doing sexual violence to you. Imagine that they kill you and the sensations, the pain, is the almost the same. Image it, but it's true and it's now and it's changing the life of many womans and mans in Europe. 
+
+Imagine a person that couldn't explain this using science. Do you remember what happen when humankind cannot explain processes with science? *It's the start of a new sept or religion*. Do you try to image a person that want to denounce it and try to explain to police that she seen her in a BDSM torture chamber every night? What happened to the girl? The police send her immediately to the **mental asylum** [[93]](https://en.wikipedia.org/wiki/Psychiatric_hospital). 
+
+Can you image that your child start "dreaming" and in reality a porn is streamed in their visual cortex a pedophile start abuse them? This is what is pass in this hell network.
+
+Girls start to think about **UFO** [[94]](https://en.wikipedia.org/wiki/Unidentified_flying_object). Could you image if this continuous sexual violence that don't keep signs of violence in the body of the woman is accompanied by stalker brain washing job and the use of psychotic drug like amphetamine? 
+
+What does it pass to the woman? Nothing good. 
+
+I want to share in public this document because Europe has changed. This is real. And my ex girlfriend is a victim. Please help, *spread the world*! 
+
 
 
 # External links
@@ -271,4 +287,9 @@ Look above. This man is experiencing what we can define as virtual and augmented
 87. https://en.wikipedia.org/wiki/EMF_measurement
 88. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
 89. https://en.wikipedia.org/wiki/Tesla_(unit)
+90. https://en.wikipedia.org/wiki/Unreal_Engine
+91. https://en.wikipedia.org/wiki/PlayStation_4
+92. https://en.wikipedia.org/wiki/Dollar
+93. https://en.wikipedia.org/wiki/Psychiatric_hospital
+94. https://en.wikipedia.org/wiki/Unidentified_flying_object
 
