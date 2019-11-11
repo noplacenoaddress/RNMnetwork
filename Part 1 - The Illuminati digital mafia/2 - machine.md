@@ -194,7 +194,7 @@ What does it pass to the woman? Nothing good.
 
 I want to share in public this document because Europe has changed. This is real. And my ex girlfriend is a victim. Please help, *spread the world*! 
 
-
+But what is the real purposes of stream violence sex ambients in the visual cortex of a victim? Always the same. Change her life. She cannot work because if she is serving in a restaurant for example, and they start to do data injection with something similar and she doesn't visualize the real world, because they can do a complete rewrite, she will fall to the ground. And if they masturbate her with the reproductive system over excitement and control she will got an orgasm while she is working. She will lost the job and probably she will be raped also by her employer or by some client. And if those stalkers that has got access to the network will send at her workplace some payed actor, she will be raped yes or yes. This is what is passing. When she lost the job she will search for another, if she cannot explain with science what is passing to her she will lost the other. And so? She will fall in prostitution. This is what they've done to my ex girlfriend.
 
 # External links
 
