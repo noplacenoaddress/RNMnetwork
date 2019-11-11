@@ -37,6 +37,8 @@ I don't wanna describe more in deep, my dear, just best regards and keep up the 
 
 **I call her, stupid little bitch.** The violet, the number five or sixteen. An **Aries** [[17]](https://en.wikipedia.org/wiki/Aries_(astrology)), cocaine addicted and drug seller. Work in prostitution exploitation. Very famous and ridiculous. A person to put in jail for ever. And i will do it. 
 
+> *She has obligate my ex girlfriend to do sex favors to medium size drug seller. From Friday to Thursday. Saray please call me they have to be put in jail.* 
+
 Kisses, Ricky.
 
 
