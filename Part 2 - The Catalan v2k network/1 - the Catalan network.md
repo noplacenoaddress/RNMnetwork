@@ -21,6 +21,8 @@ In the Catalan Guifi network there is a **obfs4 bridge** [[11]](https://2019.www
 
 **She calls him daddy, but her dad has died.** And i love her. It seems to me a sexual rape scene, but i really don't know. She doesn't reply to me. When he has known me, always he uses extreme sexual insinuations, and one time with a woman start to play a BDSM master/slave game. But he doesn't violate me because i realize it. He uses fear and sexual subjugation and who i love calls him daddy. And in radio frequency there like two thousand persons that i know personally and nobody help me because of money. But the real think is that because of him. He manipulates masses of people all together. His power is astonished because many of them i know from more than twenty years. It's impossible understand how he can do it. But he does.
 
+But there is another break point. When i came to Catalunya i fall in love with one girl, **but also her dad has died**. The two mans where heavy drug addicted, one more than the other. The eighty in Spain was so heavy.  Heavy metal. **Cine quinqui** [[15]](https://es.wikipedia.org/wiki/Cine_quinqui), a film genre that describe exactly what i wanna explain to you, dear fellow.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Guifi.net
@@ -50,5 +52,7 @@ In the Catalan Guifi network there is a **obfs4 bridge** [[11]](https://2019.www
 13. https://en.wikipedia.org/wiki/Punk_subculture
 
 14. https://en.wikipedia.org/wiki/Heavy_metal_music
+
+15. https://es.wikipedia.org/wiki/Cine_quinqui
 
     
