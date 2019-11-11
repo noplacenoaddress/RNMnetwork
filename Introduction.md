@@ -40,17 +40,18 @@ A game where i was supposed to find my ex girlfriend in Barcelona, Catalunya. Wh
 
 My ex girlfriend was also victim with her husband of the Catalan game but physically, now the game it's digitalized. The twos were victims of the remote parimutuel betting system. 
 
-But by ex girlfriend is also victim of another crime. Her shape, her body and her voice was copied by the owners of the "Illuminati" synthetic telepathy network and they use her to induct to suicide with gang stalking all of them victims. 
+But my ex girlfriend is also victim of another crime. Her shape, her body and her voice was copied by the owners of the "Illuminati" synthetic telepathy network and they use her to induct to suicide with gang stalking all of them victims. Was copied by a **3D scanner** [[11]](https://en.wikipedia.org/wiki/3D_scanning).
 
 # External Links
 
-89. https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
-90. https://en.wikipedia.org/wiki/Global_surveillance
-91. https://en.wikipedia.org/wiki/ECHELON
-92. https://en.wikipedia.org/wiki/Frenchelon
+1. https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
+2. https://en.wikipedia.org/wiki/Global_surveillance
+3. https://en.wikipedia.org/wiki/ECHELON
+4. https://en.wikipedia.org/wiki/Frenchelon
 5. https://en.wikipedia.org/wiki/Huawei
 6. https://en.wikipedia.org/wiki/Concerns_over_Chinese_involvement_in_5G_wireless_networks
 7. https://en.wikipedia.org/wiki/Techno
 8. https://en.wikipedia.org/wiki/Disc_jockey
 9. https://en.wikipedia.org/wiki/Neuralink
 10. https://www.nature.com/articles/s41598-019-41895-7?fbclid=IwAR2dpWDv9RZk41Xt8xcQPLbCXBTfJo_qpaXVAiu--AoIgOyKjhjJqmFCCEI
+11. https://en.wikipedia.org/wiki/3D_scanning
