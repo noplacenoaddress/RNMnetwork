@@ -41,8 +41,10 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 3. **Great Dane Dog** [[10]](https://en.wikipedia.org/wiki/Great_Dane). This is also sex related. It's about masculine anal sex. But i don't like homosexual sex. But in a particular provoked situations they can violate me. And i a man but i don't have any  shame to talk about it publicly. If they violate me they gain money! 
 
 > *But what is the real final goal of this shit? Obviously the sold of sex amateur videos. With this technology your privacy is destroyed. In your home there's people masturbating. Old people. Millionaires, nobles and church priest. It's not a joke. It's the fucking true!*
->
-> ### The audiovisual Catalan industry
+
+
+
+### The audiovisual Catalan industry
 
 ![Nadie sabe nada](../Images/asda23232es.jpg)
 
