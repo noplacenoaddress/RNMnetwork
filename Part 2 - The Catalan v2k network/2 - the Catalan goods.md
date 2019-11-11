@@ -6,9 +6,9 @@ This is a recent shoot of the **bingo** [[1]](https://en.wikipedia.org/wiki/Bing
 
 Why I speak about Badalona, because i know him there and i love this city, little tourism and the wind smell like **Andalucia** [[4]](https://en.wikipedia.org/wiki/Andalusia). 
 
+### The Catalan metaphor about greyhound racing
 
-
-
+![Greyhound turn](../Images/Greyhound_racing_turn.jpg)
 
 ### External links
 
