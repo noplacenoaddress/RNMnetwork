@@ -40,7 +40,7 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 2. **Spanish galgo** [[7]](https://en.wikipedia.org/wiki/Galgo_Espa%C3%B1ol). This is sex related. The legal owners gain a percent if the victim got sex and suffer about **premature ejaculation** [[8]](https://en.wikipedia.org/wiki/Premature_ejaculation). Remember the name contain the word "spanish". It's a dog very common here in Barcelona, Spain. It's like one year and a half that i don't have sex with a woman and i don't like mans. And they touch  my penis continuously with radio frequency. What it is the result. It's obvious the skin over the **gland** [[9]](https://en.wikipedia.org/wiki/Gland) is irritated and lost day by day cells. So yes, if i've got a sporadic relation, that i don't like, because of threat it's very common that i'll suffer about premature ejaculation so the owners will gain. Absurd but true.
 3. **Great Dane Dog** [[10]](https://en.wikipedia.org/wiki/Great_Dane). This is also sex related. It's about masculine anal sex. But i don't like homosexual sex. But in a particular provoked situations they can violate me. And i a man but i don't have any  shame to talk about it publicly. If they violate me they gain money! 
 
-### The audiovisual Catalan industry.
+### The audiovisual Catalan industry
 
 ![Nadie sabe nada](../Images/asda23232es.jpg)
 
