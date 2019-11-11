@@ -15,17 +15,40 @@ Because of the nature of this router system operative, you can find it also in *
 
 "Illuminati" synthetic telepathy network hackers has illegally owned the guifi.net subliminal voice services and others services utilized by not so many Catalans hackers. With those access they have digitally violated a lot of Catalans womans. They have copy the technology of the Catalans, subliminal voice and visual cortex injection, and put them onto satellite creating a monster that is changing that will do it more and more Europe. A global mass surveillance system and a global brain washing system. Active upon our heads and the heads of our babies.
 
+In the Catalan Guifi network there is a **obfs4 bridge** [[11]](https://2019.www.torproject.org/docs/bridges.html.en) that permit access to the B-side network, subliminal voice and visual cortex injection like the synthetic telepathy network more a very special magnetic device who inventor call "steam engine". It's something special very difficult to understand how it works. This person, that is also a very special man very clever and interesting, is also a big network hacker, like me, Unix lover, like me, but also a very dangerous stalker. But he normally keeps care that victims doesn't commit suicide. Why? He's so clever and keep in equilibrium the limit between a crime for at least twenty years in prison and the Stockholm syndrome. He has got in his hand the mind of various precious womans, obtained with the techniques that i've explained before, that pays in crypt concurrency and in betting system. They study new victims. Like me. I'm victim of this big stalker, but i can consider that I'm also perhaps in part passing the Stockholm syndrome because I don't denunciate him and I'm preferring the public way to help those girls, who I know personally more than five and I've got two large relations. He is extremely clever and with him I'm supposing to do a chess play. He has a criminal background. He has analyzed a lot of brains. He has a very deep understanding in human comportments under extreme stress. I'm totally sure that he has an enormous handmade diagram in parentheses, where he decides with almost weekly anticipation where to leave the victim with his steam engine false theater. All is false. All. One of the worst sentiment that grow up in your mind is impotence. In my case was the impotence the keep in safe the life of a woman. This is my week point in his manner to see life. He plays with brains. People that protect him do thousand millions euro in bet system. I don't think that he loves to obtain great amount of money. He loves to understand humans, because he thinks to be superior. And yes he is, but not of alls. He is an **anarchic** [[12]](https://en.wikipedia.org/wiki/Anarchy), a **punk** [[13]](https://en.wikipedia.org/wiki/Punk_subculture) and an **heavy metal** [[14]](https://en.wikipedia.org/wiki/Heavy_metal_music) follower. But i know him in a techno music little reserved club. But in reality he is so complex that i think that he can dress whatever gown.
 
+![Chess Play](../Images/VENEZIA-Play-chess-in-Marostica-1920X1080.jpg)
+
+**She calls him daddy, but her dad has died.** And i love her. It seems to me a sexual rape scene, but i really don't know. She doesn't reply to me. When he has known me, always he uses extreme sexual insinuations, and one time with a woman start to play a BDSM master/slave game. But he doesn't violate me because i realize it. He uses fear and sexual subjugation and who i love calls him daddy. And in radio frequency there like two thousand persons that i know personally and nobody help me because of money. But the real think is that because of him. He manipulates masses of people all together. His power is astonished because many of them i know from more than twenty years. It's impossible understand how he can do it. But he does.
 
 ### External links
 
 1. https://en.wikipedia.org/wiki/Guifi.net
+
 2. https://en.wikipedia.org/wiki/MikroTik
+
 3. https://en.wikipedia.org/wiki/Ubiquiti_Networks
+
 4. https://en.wikipedia.org/wiki/Network_layer
+
 5. https://en.wikipedia.org/wiki/Open_Shortest_Path_First
+
 6. https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
+
 7. https://en.wikipedia.org/wiki/Virtual_Private_LAN_Service
+
 8. https://en.wikipedia.org/wiki/Metropolitan_area_network
+
 9. https://mikrotik.com/software
+
 10. https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+
+11. https://2019.www.torproject.org/docs/bridges.html.en
+
+12. https://en.wikipedia.org/wiki/Anarchy
+
+13. https://en.wikipedia.org/wiki/Punk_subculture
+
+14. https://en.wikipedia.org/wiki/Heavy_metal_music
+
+    
