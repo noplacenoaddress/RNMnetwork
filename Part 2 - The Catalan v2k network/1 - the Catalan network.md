@@ -15,7 +15,7 @@ Because of the nature of this router system operative, you can find it also in *
 
 "Illuminati" synthetic telepathy network hackers has illegally owned the guifi.net subliminal voice services and others services utilized by not so many Catalans hackers. With those access they have digitally violated a lot of Catalans womans. They have copy the technology of the Catalans, subliminal voice and visual cortex injection, and put them onto satellite creating a monster that is changing that will do it more and more Europe. A global mass surveillance system and a global brain washing system. Active upon our heads and the heads of our babies.
 
-### The Catalan head of a crew
+### The Catalan head
 
 ![Buho](../Images/gufo.jpg)
 
@@ -30,6 +30,8 @@ But there is another break point. When i came to Catalunya i fall in love with o
 > *Ambiguous equivocal devious backhanded doubtful ambidexter*
 
 I don't wanna describe more in deep, my dear, just best regards and keep up the good work. I'll do the same. Cheers.
+
+
 
 ### A tools of him, a queen, a virus. A psychotic girl from Genoa
 
