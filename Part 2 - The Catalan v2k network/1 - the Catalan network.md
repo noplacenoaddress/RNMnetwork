@@ -15,7 +15,7 @@ Because of the nature of this router system operative, you can find it also in *
 
 "Illuminati" synthetic telepathy network hackers has illegally owned the guifi.net subliminal voice services and others services utilized by not so many Catalans hackers. With those access they have digitally violated a lot of Catalans womans. They have copy the technology of the Catalans, subliminal voice and visual cortex injection, and put them onto satellite creating a monster that is changing that will do it more and more Europe. A global mass surveillance system and a global brain washing system. Active upon our heads and the heads of our babies.
 
-### The Catalan head
+### The Catalan head, a guarantor
 
 ![Buho](../Images/gufo.jpg)
 
@@ -31,19 +31,17 @@ But there is another break point. When i came to Catalunya i fall in love with o
 
 I don't wanna describe more in deep, my dear, just best regards and keep up the good work. I'll do the same. Cheers.
 
-
-
-### A tools of him, a queen, a virus. A psychotic girl from Genoa
+### The leader of an hacker crew, a virus. A psychotic girl from Genoa
 
 ![Stupid little bitch](../Images/71-noRUB19L._SS500_.jpg)
+
+She use the name Anonymous, but no she isn't. The crew is Genoa based and they came the destroy the beauty of Barcelona five years ago.  They aren't good for this city. The city is **mediocre** [18] now. But Barcelona is awesome.
 
 **I call her, stupid little bitch.** The violet, the number five or sixteen. An **Aries** [[17]](https://en.wikipedia.org/wiki/Aries_(astrology)), cocaine addicted and drug seller. Work in prostitution exploitation. Very famous and ridiculous. A person to put in jail for ever. And i will do it. 
 
 > *She has obligate my ex girlfriend to do sex favors to medium size drug seller. From Friday to Thursday. Saray please call me they have to be put in jail.* 
 
 Kisses, Ricky.
-
-
 
 ### External links
 
