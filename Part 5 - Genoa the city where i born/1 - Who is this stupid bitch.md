@@ -8,7 +8,7 @@
 
 Barcelona, August 2017. Ramblas. One of the so called **2017 Barcelona attacks** [[2]](https://en.wikipedia.org/wiki/2017_Barcelona_attacks). Another tragedy. 13 people die.
 
-My two cities; the two seriously affected by two tragedies. Rest in pace. God bless you.
+My two cities; the two seriously affected by two tragedies. Rest in peace. God bless you.
 
 
 
