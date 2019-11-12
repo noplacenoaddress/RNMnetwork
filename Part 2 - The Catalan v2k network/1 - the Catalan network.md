@@ -41,9 +41,11 @@ She use the name Anonymous, but no, she isn't. Anonymous are an activist group t
 
 What she has done to my dream, my country, my house? What she has done to Barcelona? She came here and destroy the smell of the streets. She destroy the Almodovarian environment of the city. Probably she doesn't seen all the **film career** [[21]](https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var#Film_career) of this genius. Like i've done when i was fifteen in native language subtitled in Italian.
 
-At the end of the **Rambla** [[22]](https://en.wikipedia.org/wiki/La_Rambla,_Barcelona) in Barcelona there's no bird market. There's no **parrots** [[23]](https://parrotlinux.org/) to buy. Until 2010, the *Rambla dels Estudis* was the site of an open-air  market for caged birds and other small pets. However animal protection  laws made it difficult for the market to continue. After years of  fighting the legislation, the market was forced to close. And the streets artist have got a limited number to perform. She has corrupted all the city. In the she is a terrorist.
+At the end of the **Rambla** [[22]](https://en.wikipedia.org/wiki/La_Rambla,_Barcelona) in Barcelona there's no bird market. There's no **parrots** [[23]](https://parrotlinux.org/) to buy. Until 2010, the *Rambla dels Estudis* was the site of an open-air  market for caged birds and other small pets. After years of  fighting the legislation, the market was forced to close. And the streets artist have got a limited number to perform. She has corrupted all the city. In the she is a terrorist.
 
 ![periquitos](../Images/ramblero-1900.jpg)
+
+She is fomenting populism. She is weakening Spain and Turkey. She provokes **brexit** [[24]](https://en.wikipedia.org/wiki/Brexit). She is dividing Europe. This is not a joke. She is planning a war, because she is son of a military family and they build and sell war material.
 
 > *She has obligate my ex girlfriend to do sex favors to medium size drug seller. From Friday to Thursday. Saray please call me they have to be put in jail.* 
 
@@ -98,6 +100,8 @@ Kisses, Ricky.
 22. https://en.wikipedia.org/wiki/La_Rambla,_Barcelona
 
 23. https://parrotlinux.org/
+
+24. https://en.wikipedia.org/wiki/Brexit
 
     
 
