@@ -18,6 +18,10 @@ My two cities; the two seriously affected by two tragedies. Rest in peace. God b
 
 24 May of 2019. A professor of mine, doctor **Giuseppe Ciaccio** [[5]](https://person.dibris.unige.it/ciaccio-giuseppe/), **lost his life** [[6]](https://www.ilsecoloxix.it/genova/2019/05/24/news/trovato-morto-escursionista-disperso-a-punta-martin-1.32924897) in an excursion. Apparently. He wants edge **punta Martin** [[7]](https://it.wikipedia.org/wiki/Punta_Martin), in Liguria, Genoa. In radio frequency she says that she knows about this death. Rest in peace Giuseppe. He was also a radio operator, **IZ1QZE** [[8]](https://www.qsl.net/iz1qze/).
 
+![Suicides in Catalonya](../Images/suicides.png)
+
+In this graph, obtained reading the **official data** [[9]](https://www.idescat.cat/pub/?id=aec&n=616&lang=es) by **statistical institute of Catalonia** [[10]](https://ca.wikipedia.org/wiki/Institut_d%27Estad%C3%ADstica_de_Catalunya), you can see how suicide tax has grown like 25%. Another case? *I don't think so*. This increase it's probably related to the "Illuminati" pseudo dictatorship. 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Ponte_Morandi
@@ -28,3 +32,5 @@ My two cities; the two seriously affected by two tragedies. Rest in peace. God b
 6. https://www.ilsecoloxix.it/genova/2019/05/24/news/trovato-morto-escursionista-disperso-a-punta-martin-1.32924897
 7. https://it.wikipedia.org/wiki/Punta_Martin
 8. https://www.qsl.net/iz1qze/
+9. https://www.idescat.cat/pub/?id=aec&n=616&lang=es
+10. https://ca.wikipedia.org/wiki/Institut_d%27Estad%C3%ADstica_de_Catalunya
