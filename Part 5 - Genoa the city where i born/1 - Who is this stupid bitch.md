@@ -10,7 +10,7 @@ Barcelona, August 2017. Ramblas. One of the so called **2017 Barcelona attacks**
 
 My two cities; the two seriously affected by two tragedies. Rest in peace. God bless you.
 
-![Suicide in Genoa](../Images/clinica maugeri ospedale nervi-2.jpg)
+![Suicide in Genoa](../Images/clinica.jpg)
 
  12 of May 2016. A friend of mine, Cristian, commit suicide in a psychiatric hospital. **Clinica Maugeri** [[3]](https://www.icsmaugeri.it/dove-siamo/ics-genova-nervi). An **article** [[4]](http://www.genovatoday.it/cronaca/nervi-suicidio-ospedale.html) in a local newspaper say that he was mental sick. But no he wasn't. He was a great man. One victim of this criminal system. Another victim of this stupid little bitch. This is the true.
 
