@@ -28,6 +28,15 @@ In this graph, obtained reading the **official data** [[9]](https://www.idescat.
 
 As you can see in the image above, in Catalunya respect others district of Spain there is an abnormal density of **electrical storms** [[11]](https://en.wikipedia.org/wiki/Thunderstorm). The map is from **AEMET** [[12]](https://es.wikipedia.org/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa) an official organization of the central state.
 
+![table](../Images/rayosBCNtable.png)
+
+Barcelona, Girona, Tarragona and Lleida are in position first, third, fourth and fifth in the national ranking. This is not normal, don't you think so? *I don't*. But why it's important? First of all there's a number of death related to **lighting strikes** [[13]](https://en.wikipedia.org/wiki/Lightning_strike). Those can be real time monitored in the Internet with web applications like:
+
+- https://www.lightningmaps.org/
+- http://en.blitzortung.org
+
+Here you can appreciate also a database containing statistics and graphs. Stations 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Ponte_Morandi
@@ -42,3 +51,4 @@ As you can see in the image above, in Catalunya respect others district of Spain
 10. https://ca.wikipedia.org/wiki/Institut_d%27Estad%C3%ADstica_de_Catalunya
 11. https://en.wikipedia.org/wiki/Thunderstorm
 12. https://es.wikipedia.org/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa
+13. https://en.wikipedia.org/wiki/Lightning_strike
