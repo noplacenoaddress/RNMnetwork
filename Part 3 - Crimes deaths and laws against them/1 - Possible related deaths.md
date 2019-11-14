@@ -35,20 +35,36 @@ Barcelona, Girona, Tarragona and Lleida are in position first, third, fourth and
 - https://www.lightningmaps.org/
 - http://en.blitzortung.org
 
-Here you can appreciate also a database containing statistics and graphs. Stations 
+Here you can appreciate also a database containing statistics and graphs. Stations are equipped with **lighting detection** [[14]](https://en.wikipedia.org/wiki/Lightning_detection) systems.
 
 ### External links
 
 1. https://en.wikipedia.org/wiki/Ponte_Morandi
+
 2. https://en.wikipedia.org/wiki/2017_Barcelona_attacks
+
 3. https://www.icsmaugeri.it/dove-siamo/ics-genova-nervi
+
 4. http://www.genovatoday.it/cronaca/nervi-suicidio-ospedale.html
+
 5. https://person.dibris.unige.it/ciaccio-giuseppe/
+
 6. https://www.ilsecoloxix.it/genova/2019/05/24/news/trovato-morto-escursionista-disperso-a-punta-martin-1.32924897
+
 7. https://it.wikipedia.org/wiki/Punta_Martin
+
 8. https://www.qsl.net/iz1qze/
+
 9. https://www.idescat.cat/pub/?id=aec&n=616&lang=es
+
 10. https://ca.wikipedia.org/wiki/Institut_d%27Estad%C3%ADstica_de_Catalunya
+
 11. https://en.wikipedia.org/wiki/Thunderstorm
+
 12. https://es.wikipedia.org/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa
+
 13. https://en.wikipedia.org/wiki/Lightning_strike
+
+14. https://en.wikipedia.org/wiki/Lightning_detection
+
+    
