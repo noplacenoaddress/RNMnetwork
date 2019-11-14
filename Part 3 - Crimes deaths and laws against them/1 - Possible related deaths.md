@@ -22,6 +22,12 @@ My two cities; the two seriously affected by two tragedies. Rest in peace. God b
 
 In this graph, obtained reading the **official data** [[9]](https://www.idescat.cat/pub/?id=aec&n=616&lang=es) by **statistical institute of Catalonia** [[10]](https://ca.wikipedia.org/wiki/Institut_d%27Estad%C3%ADstica_de_Catalunya), you can see how suicide tax has grown like 25%. Another case? *I don't think so*. This increase it's probably related to the "Illuminati" pseudo dictatorship. 
 
+### Abnormal electrical storms in Catalunya
+
+![Electrical storms density](../Images/rayoscat.png)
+
+As you can see in the image above, in Catalunya respect others district of Spain there is an abnormal density of **electrical storms** [[11]](https://en.wikipedia.org/wiki/Thunderstorm). The map is from **AEMET** [[12]](https://es.wikipedia.org/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa) an official organization of the central state.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Ponte_Morandi
@@ -34,3 +40,5 @@ In this graph, obtained reading the **official data** [[9]](https://www.idescat.
 8. https://www.qsl.net/iz1qze/
 9. https://www.idescat.cat/pub/?id=aec&n=616&lang=es
 10. https://ca.wikipedia.org/wiki/Institut_d%27Estad%C3%ADstica_de_Catalunya
+11. https://en.wikipedia.org/wiki/Thunderstorm
+12. https://es.wikipedia.org/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa
