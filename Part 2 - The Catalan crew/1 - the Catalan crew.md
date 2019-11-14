@@ -1,12 +1,14 @@
-# The Catalan head
+# The Catalan head, the butcher
 
 ![Buho](../Images/gufo.jpg)
 
 In the Catalan Guifi network there is a **obfs4 bridge** [[11]](https://2019.www.torproject.org/docs/bridges.html.en) that permit access to the B-side network, subliminal voice and visual cortex injection like the synthetic telepathy network more a very special magnetic device who inventor call "steam engine". Ops perhaps we speak about the **Steam community** [[12]](https://store.steampowered.com/) in nowadays slang. It's something special very difficult to understand how it works. This person, that is also a very special man very clever and interesting, is also a big network hacker, like me, Unix lover, like me, but also a very dangerous stalker. But he normally keeps care that victims doesn't commit suicide. Why? He's so clever and keep in equilibrium the limit between a crime for at least twenty years in prison and the Stockholm syndrome. He has got in his hand the mind of various precious womans, obtained with the techniques that i've explained before, that pays in crypt concurrency and in betting system. They study new victims. Like me. I'm victim of this big stalker, but i can consider that I'm also perhaps in part passing the Stockholm syndrome because I don't denunciate him and I'm preferring the public way to help those girls, who I know personally more than five and I've got two large relations. He is extremely clever and with him I'm supposing to do a chess play. He has a criminal background. He has analyzed a lot of brains. He has a very deep understanding in human comportments under extreme stress. I'm totally sure that he has an enormous handmade diagram in parentheses, where he decides with almost weekly anticipation where to leave the victim with his steam engine false theater. All is false. All. One of the worst sentiment that grow up in your mind is impotence. In my case was the impotence the keep in safe the life of a woman. This is my week point in his manner to see life. He plays with brains. People that protect him do thousand millions euro in bet system. I don't think that he loves to obtain great amount of money. He loves to understand humans, because he thinks to be superior. And yes he is, but not of alls. He is an **anarchic** [[13]](https://en.wikipedia.org/wiki/Anarchy), a **punk** [[14]](https://en.wikipedia.org/wiki/Punk_subculture) and an **heavy metal** [[15]](https://en.wikipedia.org/wiki/Heavy_metal_music) follower. But i know him in a techno music little reserved club. But in reality he is so complex that i think that he can dress whatever gown.
 
-![Chess Play](../Images/VENEZIA-Play-chess-in-Marostica-1920X1080.jpg)
+![Matadero publico](../Images/matadero.jpg)
 
 **She calls him daddy, but her dad has died.** And i love her. It seems to me a sexual rape scene, but i really don't know. She doesn't reply to me. When he has known me, always he uses extreme sexual insinuations, and one time with a woman start to play a BDSM master/slave game. But he doesn't violate me because i realize it. He uses fear and sexual subjugation and who i love calls him daddy. And in radio frequency there like two thousand persons that i know personally and nobody help me because of money. But the real think is that because of him. He manipulates masses of people all together. His power is astonished because many of them i know from more than twenty years. It's impossible understand how he can do it. But he does.
+
+![The butcher in Marina](../Images/cerdanya.png)
 
 But there is another break point. When i came to Catalunya i fall in love with one girl, **but also her dad has died**. The two mans where heavy drug addicted, one more than the other. The **eighty** in Spain was so heavy.  Heavy metal. **Cine quinqui** [[16]](https://es.wikipedia.org/wiki/Cine_quinqui), a film genre that describe exactly what i wanna explain to you, dear fellow.
 
@@ -73,6 +75,16 @@ So who is he? Someone that copy the source code from github or another repositor
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10562
 
 With those three exploit he could have build an enormous Mirai fork botnet. 
+
+### The only real hacker.
+
+![hentai](../Images/h_olymp_A2_22_www.pervify.com_0009.jpg)
+
+I will not say his name, because yes, he is. He is an hacker, i think the only one in this crew. He likes to program and to write **Hentai** [[33]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
+
+In the art of brain wash, this time with my mind he was the most efficient one and he didn't do nothing bad at all. So, yes *he is the best one*. With the network he finds one girl that has the same name and very similar physiognomy to one of the two girls that i've said before. She is practically identical to my ex when i start to go out with her. And he has build a sexual violence scene without doing it. And yes, i cry a lot. I remember she. And why i say that he is the best one. Because i'm victim of this network and victim of this crew of human hackers that probably do suicide betting over people and he is the only one that doesn't permit that i know him. So i cannot describe a lot of him nor i want.
+
+So who is he? I will let the reader think about.
 
 
 
@@ -141,6 +153,8 @@ With those three exploit he could have build an enormous Mirai fork botnet.
 31. https://en.wikipedia.org/wiki/Customer-premises_equipment
 
 32. http://www.catb.org/jargon/html/C/cracker.html
+
+33. https://en.wikipedia.org/wiki/Hentai
 
     
 
