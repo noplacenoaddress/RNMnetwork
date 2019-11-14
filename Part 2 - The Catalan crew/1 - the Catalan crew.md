@@ -34,7 +34,15 @@ She is fomenting populism. She is weakening Spain and Turkey. She provokes **bre
 
 Kisses, Ricky.
 
+### Twenty four girls
 
+![Girls](../Images/91euKKv9oUL._RI_.jpg)
+
+*Twenty four beauties*. Twenty four victims of the head. All with familiar problems. The figure of the dad is key. I personally know nine or probably more, and I've got two large sentimental relations with two of them. Why i personally know many? Because the head in his network has always control me. I came to Catalunya in 2009, i think that in 2010 he was controlling me. But not only me. Why he controls me? Because I'm a network engineer and i work in wireless telecommunications  but in the A side. He is like me but more bigger and work in the B side. He is older than me he has got much more experience. So I respect him but I have to act legally against him even if I don't like the idea. 
+
+*Someone has sold me to him. Someone that i know very well, but this i will explain in part four.*
+
+He calls them hackers. But no, they aren't. He uses the term hacker to describe girls that are human cameras that he uses to analyses the victims. Victims of what? Systematic destroy of them life, like me, and consequent bet tunnel. Like I've already explain and i will do better in the next chapter. They follow his scripts and act like a B side actresses. 
 
 ### External links
 
