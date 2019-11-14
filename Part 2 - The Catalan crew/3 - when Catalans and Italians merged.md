@@ -1,6 +1,6 @@
 # The Catalan wireless free network
 
-![Streaming audio](/home/taglio/Work/killernetworks/Images/streamingaudio.png)
+![Streaming audio](../Images/streamingaudio.png)
 
 This Catalan network is radio wave terrestrial based. Low latency and good performances. All open source based and open hardware. A great job but full of crimes. And some services can be utilized by rapists. It's embedded in the **guifi.net** [[1]](https://en.wikipedia.org/wiki/Guifi.net) network, a great project. Full of great people that interconnect via wi-fi, **Mikrotik** [[2]](https://en.wikipedia.org/wiki/MikroTik) and **Ubiquiti** [[3]](https://en.wikipedia.org/wiki/Ubiquiti_Networks) based, various nodes. It's a **layer 3** [[4]](https://en.wikipedia.org/wiki/Network_layer) **ospf** [[5]](https://en.wikipedia.org/wiki/Open_Shortest_Path_First), **mpls** [[6]](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching), **vpls** [[7]](https://en.wikipedia.org/wiki/Virtual_Private_LAN_Service) switched **MAN network** [[8]](https://en.wikipedia.org/wiki/Metropolitan_area_network). A free network, something incredible and very good administrated. A nice work. I was the owner of something similar but commercial. A wireless Internet service provider. 
 
