@@ -34,6 +34,8 @@ She is fomenting populism. She is weakening Spain and Turkey. She provokes **bre
 
 Kisses, Ricky.
 
+PS: for an investigation this girl in radio frequency affirm that she was involved in the Liberia attack.  
+
 ### Twenty four girls
 
 ![Girls](../Images/91euKKv9oUL._RI_.jpg)
@@ -51,6 +53,28 @@ The girls are victim from a lot of time. Victim of brain washing at high level. 
 *This magnetic network its the state of the art. He is a genius.* 
 
 *But he is the most dangerous person that I've known in my life.*
+
+### One of his wife. A malware.
+
+![Mirai Botnet](../Images/DDoS-493312984.jpg)
+
+Her name is very similar to the most dangerous **botnet** [[25]](https://en.wikipedia.org/wiki/Botnet) in the world: **Mirai** [[26]](https://en.wikipedia.org/wiki/Mirai_(malware)). He calls her wife, but no she isn't. She is another old victim of this monster. Nothing more. She says she is an hacker. I don't know, i think that yes she is. But nothing so special, more human and brain hacker.
+
+She uses to forge girls to be huntress of new victims, like she has done with my ex girlfriend. She is a stalker, a person that with fear and violent sex change life of beautiful woman that simply enjoy sexuality. She try to do brain wash to me but i didn't fall. Her method is for ignorant people. But at bottom she is a good person. He touches her very deeply. What i don't like about her is the fact that in some kind of manner she is fascist, but i really don't think that she is the most probably thing is that her family is and she is also a victim of this kind of culture that is nowadays active in some old families in Spain. Remember that Franco has died only forty years ago. And fascism is living in Spain.
+
+I don't think that he or she is the creator of this **malware** [[27]](https://en.wikipedia.org/wiki/Malware). Like you know, my reader, Mirai is opensource. And its hosted on github.
+
+https://github.com/jgamblin/Mirai-Source-Code
+
+So who is he? Someone that copy the source code from github or another repository, public or private, and develop a private version to build a **DDoS** [[28]](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack) net. What kind of hosts could he has infected with this malware? One idea to follow his footprints, because he is Catalan, is that he probably has compromised routers of **Movistar** [[29]](https://en.wikipedia.org/wiki/Movistar), the Spanish first ISP. Remember that now with **FTTH** [[30]](https://en.wikipedia.org/wiki/Fiber_to_the_x) house connection has got like 1gbps symmetric bandwidth. And **CPE** [[31]](https://en.wikipedia.org/wiki/Customer-premises_equipment) are the most easy to break system for a **cracker** [[32]](http://www.catb.org/jargon/html/C/cracker.html). Here is some vulnerability that this crew and his head could have used to break Spanish fibers and a possible line of investigation:
+
+- https://www.exploit-db.com/exploits/43061
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10561
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10562
+
+With those three exploit he could have build an enormous Mirai fork botnet. 
+
+
 
 ### External links
 
@@ -101,6 +125,22 @@ The girls are victim from a lot of time. Victim of brain washing at high level. 
 23. https://parrotlinux.org/
 
 24. https://en.wikipedia.org/wiki/Brexit
+
+25. https://en.wikipedia.org/wiki/Botnet
+
+26. https://en.wikipedia.org/wiki/Mirai_(malware)
+
+27. https://en.wikipedia.org/wiki/Malware
+
+28. https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack
+
+29. https://en.wikipedia.org/wiki/Movistar
+
+30. https://en.wikipedia.org/wiki/Fiber_to_the_x
+
+31. https://en.wikipedia.org/wiki/Customer-premises_equipment
+
+32. http://www.catb.org/jargon/html/C/cracker.html
 
     
 
