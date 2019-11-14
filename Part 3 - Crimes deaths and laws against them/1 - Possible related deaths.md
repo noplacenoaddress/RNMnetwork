@@ -18,6 +18,8 @@ My two cities; the two seriously affected by two tragedies. Rest in peace. God b
 
 24 May of 2019. A professor of mine, doctor **Giuseppe Ciaccio** [[5]](https://person.dibris.unige.it/ciaccio-giuseppe/), **lost his life** [[6]](https://www.ilsecoloxix.it/genova/2019/05/24/news/trovato-morto-escursionista-disperso-a-punta-martin-1.32924897) in an excursion. Apparently. He wants edge **punta Martin** [[7]](https://it.wikipedia.org/wiki/Punta_Martin), in Liguria, Genoa. In radio frequency she says that she knows about this death. Rest in peace Giuseppe. He was also a radio operator, **IZ1QZE** [[8]](https://www.qsl.net/iz1qze/).
 
+### Abnormal soaring deaths from suicide in Catalunya 
+
 ![Suicides in Catalonya](../Images/suicides.png)
 
 In this graph, obtained reading the **official data** [[9]](https://www.idescat.cat/pub/?id=aec&n=616&lang=es) by **statistical institute of Catalonia** [[10]](https://ca.wikipedia.org/wiki/Institut_d%27Estad%C3%ADstica_de_Catalunya), you can see how suicide tax has grown like 25%. Another case? *I don't think so*. This increase it's probably related to the "Illuminati" pseudo dictatorship. 
@@ -36,6 +38,18 @@ Barcelona, Girona, Tarragona and Lleida are in position first, third, fourth and
 - http://en.blitzortung.org
 
 Here you can appreciate also a database containing statistics and graphs. Stations are equipped with **lighting detection** [[14]](https://en.wikipedia.org/wiki/Lightning_detection) systems.
+
+### Abnormal rise in death from mental disorders in Catalunya
+
+![mental disorders](../Images/Mental_Disorder_Silhouette.png)
+
+This is another official statistics this time from Spanish  **National Statistics Institute** [[15]](https://en.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Spain)). This time numbers are horribles. And speak about deaths, as usual. And no, numbers don't lie. *So do i*. 
+
+![Mental Disorders](../Images/mentaldisorders.png)
+
+You can appreciate what happened from 2010 to 2017. The climb in number is incredible. This couldn't be a case, for me it's related with the "Illuminati" pseudo dictatorship and those killer networks that we've analyzed. People start to listen to subliminal messages direct to them brains and think to be mad. Go to the hospital and got directly hospitalized in psychiatric center where they start to assume **barbiturates** [[16]](https://en.wikipedia.org/wiki/Barbiturate). These legal drug used to calm anxiety for example is addictive. Can provoke **overdose** [[17]](https://en.wikipedia.org/wiki/Barbiturate_overdose). Nowadays many young and not so young persons consume cocaine and alcohol. Those two drugs mixed are dangerous and produce agitation, **tachycardia** [[18]](https://en.wikipedia.org/wiki/Tachycardia). People that have got barbiturates dependency use to take them to relax themselves. But together with cocaine and alcohol are mortal. Don't do it. 
+
+*Don't do it sweetie, i love you.*
 
 ### External links
 
@@ -66,5 +80,13 @@ Here you can appreciate also a database containing statistics and graphs. Statio
 13. https://en.wikipedia.org/wiki/Lightning_strike
 
 14. https://en.wikipedia.org/wiki/Lightning_detection
+
+15. https://en.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Spain)
+
+16. https://en.wikipedia.org/wiki/Barbiturate
+
+17. https://en.wikipedia.org/wiki/Barbiturate_overdose
+
+18. https://en.wikipedia.org/wiki/Tachycardia
 
     
