@@ -44,6 +44,14 @@ Kisses, Ricky.
 
 He calls them hackers. But no, they aren't. He uses the term hacker to describe girls that are human cameras that he uses to analyses the victims. Victims of what? Systematic destroy of them life, like me, and consequent bet tunnel. Like I've already explain and i will do better in the next chapter. They follow his scripts and act like a B side actresses. 
 
+He gains money with kilometers done searching for one of those twenty four girls believing that they are in danger, with amateur sex sold, with body data under stress sold to military and hi tech facilities, with scripts to audiovisual industry, and so on. The girls for him are hi tech prostitutes in reality. Nothing more. He plays with the victims in the manner that they think that the girls are the real guilty of this horrible crime, but no they aren't. 
+
+The girls are victim from a lot of time. Victim of brain washing at high level. Brain washing that change for ever them life. They couldn't live in a normal family, they are alone against this monster of the mind. But no they aren't. I want to give freedom to you, Saray and Thais, and to you all. Also the baby of Saray, Lucia, is inside this hell. I want that you, and all of you that are victim of the Catalan magnetic network, will be free forever. It's dangerous and difficult. 
+
+*This magnetic network its the state of the art. He is a genius.* 
+
+*But he is the most dangerous person that I've known in my life.*
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Guifi.net
