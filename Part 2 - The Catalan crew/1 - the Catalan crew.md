@@ -76,21 +76,25 @@ So who is he? Someone that copy the source code from github or another repositor
 
 With those three exploit he could have build an enormous Mirai fork botnet. 
 
-### The only real hacker.
+### An esoteric hacker.
 
 ![hentai](../Images/h_olymp_A2_22_www.pervify.com_0009.jpg)
 
-I will not say his name, because yes, he is. He is an hacker, i think the only one in this crew. He likes to program and to write **Hentai** [[33]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
+An **esoteric** [[33]](https://en.wikipedia.org/wiki/Western_esotericism), **black magic** [[34]](https://en.wikipedia.org/wiki/Black_magic) hacker. I will not say his name, because yes, he is. He is an hacker. He likes to program and to write **Hentai** [[35]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
 
 In the art of brain wash, this time with my mind he was the most efficient one and he didn't do nothing bad at all. So, yes *he is the best one*. With the network he finds one girl that has the same name and very similar physiognomy to one of the two girls that i've said before. She is practically identical to my ex when i start to go out with her. And he has build a sexual violence scene without doing it. And yes, i cry a lot. I remember she. And why i say that he is the best one. Because i'm victim of this network and victim of this crew of human hackers that probably do suicide betting over people and he is the only one that doesn't permit that i know him. So i cannot describe a lot of him nor i want.
 
-He came from the **THC German crew** [[34]](https://web.archive.org/web/20131231060750/https://www.thc.org/) here is them public repository, old stuff:
+He came from the **THC German crew** [[36]](https://web.archive.org/web/20131231060750/https://www.thc.org/) here is them public repository, old stuff:
 
 https://github.com/vanhauser-thc/THC-Archive
 
-They are the creators of the significant **brute force** [[35]](https://en.wikipedia.org/wiki/Brute-force_attack) tool **Hydra** [[36]](https://tools.kali.org/password-attacks/hydra). 
+They are the creators of the significant **brute force** [[37]](https://en.wikipedia.org/wiki/Brute-force_attack) tool **Hydra** [[38]](https://tools.kali.org/password-attacks/hydra). 
 
-He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably meat another girl from this crew, a woman from **Ladinia** [[37]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
+He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably meat another girl from this crew, a woman from **Ladinia** [[39]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
+
+I like him because i've read some publication and i've seen how he love to use opensource methods to explain to the outside world his work. Like i've done in the past. He is an expert of windows **shellcode** [[40]](https://en.wikipedia.org/wiki/Shellcode).
+
+He is important in Barcelona in the **graffiti** [[41]](https://en.wikipedia.org/wiki/Graffiti) underground culture.
 
 *I've seen a photo of him kissing mi ex girlfriend.*
 
@@ -162,15 +166,23 @@ He has got a lot of cam4 public profiles where he speaks with people from the sw
 
 32. http://www.catb.org/jargon/html/C/cracker.html
 
-33. https://en.wikipedia.org/wiki/Hentai
+33. https://en.wikipedia.org/wiki/Western_esotericism
 
-34. https://web.archive.org/web/20131231060750/https://www.thc.org/
+34. https://en.wikipedia.org/wiki/Black_magic
 
-35. https://en.wikipedia.org/wiki/Brute-force_attack
+35. https://en.wikipedia.org/wiki/Hentai
 
-36. https://tools.kali.org/password-attacks/hydra
+36. https://web.archive.org/web/20131231060750/https://www.thc.org/
 
-37. https://en.wikipedia.org/wiki/Ladinia
+37. https://en.wikipedia.org/wiki/Brute-force_attack
+
+38. https://tools.kali.org/password-attacks/hydra
+
+39. https://en.wikipedia.org/wiki/Ladinia
+
+40. https://en.wikipedia.org/wiki/Shellcode
+
+41. https://en.wikipedia.org/wiki/Graffiti
 
     
 
