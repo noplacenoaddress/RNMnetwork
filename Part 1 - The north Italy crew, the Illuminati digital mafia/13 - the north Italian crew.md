@@ -10,7 +10,7 @@ What she has done to my dream, my country, my house? What she has done to Barcel
 
 At the end of the **Rambla** [[6]](https://en.wikipedia.org/wiki/La_Rambla,_Barcelona) in Barcelona there's no bird market. There's no **parrots** [[7]](https://parrotlinux.org/) to buy. Until 2010, the *Rambla dels Estudis* was the site of an open-air  market for caged birds and other small pets. After years of  fighting the legislation, the market was forced to close. And the streets artist have got a limited number to perform. She has corrupted all the city. She is a terrorist.
 
-![periquitos](/home/taglio/Work/killernetworks/Images/ramblero-1900.jpg)
+![periquitos](../Images/ramblero-1900.jpg)
 
 She is fomenting populism. She is weakening Spain and Turkey. She provokes **brexit** [[8]](https://en.wikipedia.org/wiki/Brexit). She is dividing Europe. This is not a joke. She is planning a war, because she is son of a military family and they build and sell war material.
 
