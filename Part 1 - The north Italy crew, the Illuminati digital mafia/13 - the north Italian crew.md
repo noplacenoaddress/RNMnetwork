@@ -1,6 +1,6 @@
 # The leader of the Italians. A girl 
 
-![Stupid little bitch](/home/taglio/Work/killernetworks/Images/71-noRUB19L._SS500_.jpg)
+![Stupid little bitch](../Images/71-noRUB19L._SS500_.jpg)
 
 And something else, a virus. She use the name Anonymous, but no, she isn't. Anonymous are an activist group that work for freedom. This bitch use this mask to do **crimes against humanity** [[1]](https://en.wikipedia.org/wiki/Crimes_against_humanity). The crew is Genoa based and they came the destroy the beauty of Barcelona five years ago, they join the Catalan crew after a reunion in an apartment near c/ Arago six years ago.  She isn't good for this city. The city is **mediocre** [[2]](https://dictionary.cambridge.org/dictionary/english/mediocre) now. But Barcelona is awesome. She also ruin the **progressive** [[3]](https://youtu.be/fUtMUvJE49w) techno music in the first decade of this century. *And she ruin who i call brother. And a lot of friends of mine.*
 
@@ -10,7 +10,7 @@ What she has done to my dream, my country, my house? What she has done to Barcel
 
 At the end of the **Rambla** [[6]](https://en.wikipedia.org/wiki/La_Rambla,_Barcelona) in Barcelona there's no bird market. There's no **parrots** [[7]](https://parrotlinux.org/) to buy. Until 2010, the *Rambla dels Estudis* was the site of an open-air  market for caged birds and other small pets. After years of  fighting the legislation, the market was forced to close. And the streets artist have got a limited number to perform. She has corrupted all the city. She is a terrorist.
 
-![periquitos](/home/taglio/Work/killernetworks/Images/ramblero-1900.jpg)
+![periquitos](../Images/ramblero-1900.jpg)
 
 She is fomenting populism. She is weakening Spain and Turkey. She provokes **brexit** [[8]](https://en.wikipedia.org/wiki/Brexit). She is dividing Europe. This is not a joke. She is planning a war, because she is son of a military family and they build and sell war material.
 
