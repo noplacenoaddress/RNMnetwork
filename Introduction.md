@@ -30,7 +30,7 @@ Next there are some commercial products or some university study, is what the bi
 
 ### Who can i know about that?
 
-I was connected to the Catalan voice to skull service in November 2017 after a year of gangstalking. My ex girlfriend was connected also to the Catalan network in 2009, and was also victim.
+I was connected to the Catalan voice to skull service in November 2017 after a year of gangstalking. 
 
 I am victim of one game that have changed the city of Barcelona in the last five years:
 
