@@ -54,27 +54,31 @@ So who is he? Someone that copy the source code from github or another repositor
 
 With those three exploit he could have build an enormous Mirai fork botnet. 
 
+But owning home routers it's only to build a ddosnet? No. Absolutely not. It's to deeply know all about the family the live in the house. **MitM attacks over HTTPS** [[25]](http://www.cs.ru.nl/E.Poll/sws2/2015/slides/sws2_7_mitm.pdf) session it's a reality from 2009. And those people are creating a pseudo dictatorship with this. First of all a digital one, but this phase is almost done, and next a real one. Populism and piloted demonstration are changing our Europe that is passing a very difficult phase. 
+
+*Please help*
+
 ### An esoteric hacker.
 
 ![hentai](../Images/h_olymp_A2_22_www.pervify.com_0009.jpg)
 
-An **esoteric** [[25]](https://en.wikipedia.org/wiki/Western_esotericism), **black magic** [[26]](https://en.wikipedia.org/wiki/Black_magic) hacker. I will not say his name, because yes, he is. He is an hacker. He likes to program and to write **Hentai** [[27]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
+An **esoteric** [[26]](https://en.wikipedia.org/wiki/Western_esotericism), **black magic** [[27]](https://en.wikipedia.org/wiki/Black_magic) hacker. I will not say his name, because yes, he is. He is an hacker. He likes to program and to write **Hentai** [[28]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
 
 In the art of brain wash, this time with my mind he was the most efficient one and he didn't do nothing bad at all. So, yes *he is the best one*. With the network he finds one girl that has the same name and very similar physiognomy to one of the two girls that i've said before. She is practically identical to my ex when i start to go out with her. And he has build a sexual violence scene without doing it. And yes, i cry a lot. I remember she. And why i say that he is the best one. Because i'm victim of this network and victim of this crew of human hackers that probably do suicide betting over people and he is the only one that doesn't permit that i know him. So i cannot describe a lot of him nor i want.
 
-He came from the **THC German crew** [[28]](https://web.archive.org/web/20131231060750/https://www.thc.org/) here is them public repository, old stuff:
+He came from the **THC German crew** [[29]](https://web.archive.org/web/20131231060750/https://www.thc.org/) here is them public repository, old stuff:
 
 https://github.com/vanhauser-thc/THC-Archive
 
-They are the creators of the significant **brute force** [[29]](https://en.wikipedia.org/wiki/Brute-force_attack) tool **Hydra** [[30]](https://tools.kali.org/password-attacks/hydra). 
+They are the creators of the significant **brute force** [[30]](https://en.wikipedia.org/wiki/Brute-force_attack) tool **Hydra** [[31]](https://tools.kali.org/password-attacks/hydra). 
 
-He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably met another girl from this crew, a woman from **Ladinia** [[31]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
+He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably met another girl from this crew, a woman from **Ladinia** [[32]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
 
-I like him because i've read some publication and i've seen how he love to use opensource methods to explain to the outside world his work. Like i've done in the past. He is an expert of windows **shellcode** [[32]](https://en.wikipedia.org/wiki/Shellcode).
+I like him because i've read some publication and i've seen how he love to use opensource methods to explain to the outside world his work. Like i've done in the past. He is an expert of windows **shellcode** [[33]](https://en.wikipedia.org/wiki/Shellcode).
 
-He is important in Barcelona in the **graffiti** [[33]](https://en.wikipedia.org/wiki/Graffiti) underground culture.
+He is important in Barcelona in the **graffiti** [[34]](https://en.wikipedia.org/wiki/Graffiti) underground culture.
 
-He has got contacts with a north Italy crew from **Bergamo** [[34]](https://en.wikipedia.org/wiki/Bergamo), so yes he is one of the most important in the Catalan crew but he has got importance also in the north Italian one, the "Illuminati".
+He has got contacts with a north Italy crew from **Bergamo** [[35]](https://en.wikipedia.org/wiki/Bergamo), so yes he is one of the most important in the Catalan crew but he has got importance also in the north Italian one, the "Illuminati".
 
 *I've seen a photo of him kissing mi ex girlfriend.*
 
@@ -130,25 +134,27 @@ He has got contacts with a north Italy crew from **Bergamo** [[34]](https://en.w
 
 24. http://www.catb.org/jargon/html/C/cracker.html
 
-25. https://en.wikipedia.org/wiki/Western_esotericism
+25. http://www.cs.ru.nl/E.Poll/sws2/2015/slides/sws2_7_mitm.pdf
 
-26. https://en.wikipedia.org/wiki/Black_magic
+26. https://en.wikipedia.org/wiki/Western_esotericism
 
-27. https://en.wikipedia.org/wiki/Hentai
+27. https://en.wikipedia.org/wiki/Black_magic
 
-28. https://web.archive.org/web/20131231060750/https://www.thc.org/
+28. https://en.wikipedia.org/wiki/Hentai
 
-29. https://en.wikipedia.org/wiki/Brute-force_attack
+29. https://web.archive.org/web/20131231060750/https://www.thc.org/
 
-30. https://tools.kali.org/password-attacks/hydra
+30. https://en.wikipedia.org/wiki/Brute-force_attack
 
-31. https://en.wikipedia.org/wiki/Ladinia
+31. https://tools.kali.org/password-attacks/hydra
 
-32. https://en.wikipedia.org/wiki/Shellcode
+32. https://en.wikipedia.org/wiki/Ladinia
 
-33. https://en.wikipedia.org/wiki/Graffiti
+33. https://en.wikipedia.org/wiki/Shellcode
 
-34. https://en.wikipedia.org/wiki/Bergamo
+34. https://en.wikipedia.org/wiki/Graffiti
+
+35. https://en.wikipedia.org/wiki/Bergamo
 
     
 
