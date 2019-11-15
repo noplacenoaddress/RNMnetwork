@@ -24,7 +24,7 @@ This pyramid structures are organized by a **paramilitary** [[4]](https://en.wik
 
 This system was inspired by the **Italian navy** [[7]](https://en.wikipedia.org/wiki/Italian_Navy) environment. The Francese, this is her nickname in radio frequency, is a terrorist. All Italy is folded by this pseudo dictatorship. And now also Spain. 
 
-*Please help, my ex girlfriend is slaved by this system. Help me.*
+*Please help. Help me.*
 
 ### External Links
 
