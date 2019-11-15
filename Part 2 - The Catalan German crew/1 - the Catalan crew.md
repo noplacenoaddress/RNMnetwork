@@ -54,7 +54,7 @@ So who is he? Someone that copy the source code from github or another repositor
 
 With those three exploit he could have build an enormous Mirai fork botnet. 
 
-But owning home routers it's only to build a ddosnet? No. Absolutely not. It's to deeply know all about the family the live in the house. **MitM attacks over HTTPS** [[25]](http://www.cs.ru.nl/E.Poll/sws2/2015/slides/sws2_7_mitm.pdf) session it's a reality from 2009. And those people are creating a pseudo dictatorship with this. First of all a digital one, but this phase is almost done, and next a real one. Populism and piloted demonstration are changing our Europe that is passing a very difficult phase. 
+But owning home routers it's only to build a ddosnet? No. Absolutely not. It's to deeply know all about the family that live in the house. **MitM attacks over HTTPS** [[25]](http://www.cs.ru.nl/E.Poll/sws2/2015/slides/sws2_7_mitm.pdf) session it's a reality from 2009. And those people are creating a pseudo dictatorship with this. First of all a digital one, but this phase is almost done, and next a real one. Populism and piloted demonstration are changing our Europe that is passing a very difficult phase. 
 
 *Please help*
 
