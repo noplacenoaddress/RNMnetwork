@@ -28,6 +28,10 @@ He is a good man, he has a good soul. Very strong and with deep knowledge. A fig
 
 The techno music is another passion of him, he came from the progressive techno music scene. Now supporter and promoter of the **hardtechno** [[9]](https://en.wikipedia.org/wiki/Hardtechno) scene, he is one of the few without perversions, one of the few faithful men, as a man must be.
 
+Here is some music from the old progressive techno scene:
+
+https://www.youtube.com/user/Mrblack1971
+
 I don't want to describe more of this man, he is great. Some connection with south America and Caribbean culture.
 
 Cheers, my friend.
