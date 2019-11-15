@@ -12,7 +12,7 @@ All of those structures are nothing more than frauds. In the lowest level many b
 
 People in Europe in 2019 are living slavery. And this is the true.
 
-Another particular about those pyramids is that the summit has got many clones, people that have very similar **human physical appearances **[[1]](https://en.wikipedia.org/wiki/Human_physical_appearance). Why? It's simple. Image one habitual client of drug. If he knows how "Illuminati" work just go in an appointment and another guy different every time but with similar connotation sell him drug. This is for deterring the police. So simple.
+Another particular about those pyramids is that the summit has got many clones, people that have very similar **human physical appearances**[[1]](https://en.wikipedia.org/wiki/Human_physical_appearance). Why? It's simple. Image one habitual client of drug. If he knows how "Illuminati" work just go in an appointment and another guy different every time but with similar connotation sell him drug. This is for deterring the police. So simple.
 
 What is determine your position in the pyramid? How much money do you have. And it's all black market related. All in crypt concurrencies. 
 
