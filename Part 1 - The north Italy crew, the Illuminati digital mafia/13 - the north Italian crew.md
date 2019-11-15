@@ -48,7 +48,9 @@ A motorcycle. In the "Illuminati" pseudo dictatorship the metaphor for this item
 
 *We were very good friends until 2016*. 
 
-But he was planning my suicide for money. And unfortunately he has become rich and powerful. How? With the remote parimutuel betting system. This one, the one utilized in the synthetic telepathy network. 
+But someone was planning my suicide for money. And he accepts, and unfortunately he has become rich and powerful. How? With the remote parimutuel betting system. This one, the one utilized in the synthetic telepathy network. 
+
+But not only.
 
 ### External links 
 
