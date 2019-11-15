@@ -96,6 +96,8 @@ I like him because i've read some publication and i've seen how he love to use o
 
 He is important in Barcelona in the **graffiti** [[41]](https://en.wikipedia.org/wiki/Graffiti) underground culture.
 
+He has got contacts with a north Italy crew from **Bergamo** [[42]](https://en.wikipedia.org/wiki/Bergamo), so yes he is one of the most important in the Catalan crew but he has got importance also in the north Italian one, the "Illuminati".
+
 *I've seen a photo of him kissing mi ex girlfriend.*
 
 
@@ -183,6 +185,8 @@ He is important in Barcelona in the **graffiti** [[41]](https://en.wikipedia.org
 40. https://en.wikipedia.org/wiki/Shellcode
 
 41. https://en.wikipedia.org/wiki/Graffiti
+
+42. https://en.wikipedia.org/wiki/Bergamo
 
     
 
