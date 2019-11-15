@@ -18,7 +18,7 @@ She is fomenting populism. She is weakening Spain and Turkey. She provokes **bre
 
 Kisses, Ricky.
 
-PS: for an investigation this girl in radio frequency affirm that she was involved in the Liberia attack.  
+PS: for an investigation this girl in radio frequency affirm that she was involved in the **Liberia attack** [[9]](https://www.welivesecurity.com/2016/11/04/colossal-ddos-attack-liberia-wipes-majority-country-offline/).  
 
 ### Batman
 
@@ -26,7 +26,7 @@ PS: for an investigation this girl in radio frequency affirm that she was involv
 
 He is a good man, he has a good soul. Very strong and with deep knowledge. A fighter. Mask his knowledge leaving in the street. The street is one of him passions, and so it is for me.
 
-The techno music is another passion of him, he came from the progressive techno music scene. Now supporter and promoter of the **hardtechno** [[9]](https://en.wikipedia.org/wiki/Hardtechno) scene, he is one of the few without perversions, one of the few faithful men, as a man must be.
+The techno music is another passion of him, he came from the progressive techno music scene. Now supporter and promoter of the **hardtechno** [[10]](https://en.wikipedia.org/wiki/Hardtechno) scene, he is one of the few without perversions, one of the few faithful men, as a man must be.
 
 Here is some music from the old progressive techno scene:
 
@@ -52,4 +52,5 @@ Cheers, my friend.
 6. https://en.wikipedia.org/wiki/La_Rambla,_Barcelona
 7. https://parrotlinux.org/
 8. https://en.wikipedia.org/wiki/Brexit
-9. https://en.wikipedia.org/wiki/Hardtechno
+9. https://www.welivesecurity.com/2016/11/04/colossal-ddos-attack-liberia-wipes-majority-country-offline/
+10. https://en.wikipedia.org/wiki/Hardtechno
