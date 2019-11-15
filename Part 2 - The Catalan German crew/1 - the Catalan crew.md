@@ -82,7 +82,27 @@ He has got contacts with a north Italy crew from **Bergamo** [[35]](https://en.w
 
 *I've seen a photo of him kissing mi ex girlfriend.*
 
+### A fake Nazi, the girl that meet him
 
+![St Vigil in Enneberg](../Images/D-9632-piste-san-viglio-pisten-St-Vigil-in-Enneberg.jpg)
+
+Yes, she seems to be a theorist of digital **neo-nazism** [[36]](https://en.wikipedia.org/wiki/Neo-Nazism). 
+
+*But is she really a Nazi? No. But the argument is very difficult to understand. All of theme are ambiguous.*
+
+She is the most difficult one to analyze. She is beautiful, she has an accent very difficult to understand. It's a mixture between north Italian and German. She is from **Brunico **[[37]](https://en.wikipedia.org/wiki/Bruneck). **South Tyrol** [[38]](https://en.wikipedia.org/wiki/South_Tyrol). 
+
+But what does the head of the Italian crew who name is "Francese" with a fake digital Nazi theorist? 
+
+*Very difficult to explain but so dangerous to let them operate in Europe.*
+
+Why i speak about Nazism? Because of **Esoteric Nazism** [[39]](https://en.wikipedia.org/wiki/Esoteric_Nazism). Because of the man that i've write above. In a presentations that he has done for THC crew you can see that he doesn't like esoteric. He was a good man. Someone has change him. And yes, i think that she was like she has done with another friend of mine that is in love with her. 
+
+She is an expert brain hacker. Nothing more.
+
+*She is dangerous but not so much.*
+
+ 
 
 ### External links
 
@@ -155,6 +175,14 @@ He has got contacts with a north Italy crew from **Bergamo** [[35]](https://en.w
 34. https://en.wikipedia.org/wiki/Graffiti
 
 35. https://en.wikipedia.org/wiki/Bergamo
+
+36. https://en.wikipedia.org/wiki/Neo-Nazism
+
+37. https://en.wikipedia.org/wiki/Bruneck
+
+38. https://en.wikipedia.org/wiki/South_Tyrol
+
+39. https://en.wikipedia.org/wiki/Esoteric_Nazism
 
     
 
