@@ -90,7 +90,7 @@ Yes, she seems to be a theorist of digital **neo-nazism** [[36]](https://en.wiki
 
 *But is she really a Nazi? No. But the argument is very difficult to understand. All of theme are ambiguous.*
 
-She is the most difficult one to analyze. She is beautiful, she has an accent very difficult to understand. It's a mixture between north Italian and German. She is from **Brunico **[[37]](https://en.wikipedia.org/wiki/Bruneck). **South Tyrol** [[38]](https://en.wikipedia.org/wiki/South_Tyrol). 
+She is the most difficult one to analyze. She is beautiful, she has an accent very difficult to understand. It's a mixture between north Italian and German. She is from **Brunico**[[37]](https://en.wikipedia.org/wiki/Bruneck). **South Tyrol** [[38]](https://en.wikipedia.org/wiki/South_Tyrol). 
 
 But what does the head of the Italian crew who name is "Francese" with a fake digital Nazi theorist? 
 
