@@ -1,6 +1,6 @@
 # The leader of the Italians. A girl 
 
-![Stupid little bitch](/home/taglio/Work/killernetworks/Images/71-noRUB19L._SS500_.jpg)
+![Stupid little bitch](../Images/71-noRUB19L._SS500_.jpg)
 
 And something else, a virus. She use the name Anonymous, but no, she isn't. Anonymous are an activist group that work for freedom. This bitch use this mask to do **crimes against humanity** [[1]](https://en.wikipedia.org/wiki/Crimes_against_humanity). The crew is Genoa based and they came the destroy the beauty of Barcelona five years ago, they join the Catalan crew after a reunion in an apartment near c/ Arago six years ago.  She isn't good for this city. The city is **mediocre** [[2]](https://dictionary.cambridge.org/dictionary/english/mediocre) now. But Barcelona is awesome. She also ruin the **progressive** [[3]](https://youtu.be/fUtMUvJE49w) techno music in the first decade of this century. *And she ruin who i call brother. And a lot of friends of mine.*
 
