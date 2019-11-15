@@ -32,11 +32,15 @@ Here is some music from the old progressive techno scene:
 
 https://www.youtube.com/user/Mrblack1971
 
+I put him here cause i don't wanna describe the old Tuscan crew. Because they were absorbed by the "Illuminati". But the root is different.
+
 I don't want to describe more of this man, he is great. Some connection with south America and Caribbean culture.
 
 Cheers, my friend.
 
 > *Probably he is inside this crew to revenge the collapse of the progressive movement done by the Francese, the girl above.*
+
+
 
 ### External links 
 
