@@ -40,7 +40,15 @@ Cheers, my friend.
 
 > *Probably he is inside this crew to revenge the collapse of the progressive movement done by the Francese, the girl above.*
 
+### Who i was calling brother
 
+![Benelli Leonino](../Images/Benelli_Leoncino_500_Sport_2018_1000_0001.jpg)
+
+A motorcycle. In the "Illuminati" pseudo dictatorship the metaphor for this item is brother. This is a **Benelli Leoncino** [[11]](https://www.motorcyclenews.com/bike-reviews/benelli/leoncino/2018/). Small lion, not so small. Do you know **Lions club** [[12]](https://lionsclubs.org/en)? Yes he is. Do you know masonic  **Symbolic Grand Lodge of Spain** [[13]](https://es.wikipedia.org/wiki/Gran_Logia_Simb%C3%B3lica_Espa%C3%B1ola), yes he is. 
+
+*We were very good friends until 2016*. 
+
+But he was planning my suicide for money. And unfortunately he has become rich and powerful. How? With the remote parimutuel betting system. This one, the one utilized in the synthetic telepathy network. 
 
 ### External links 
 
@@ -54,3 +62,6 @@ Cheers, my friend.
 8. https://en.wikipedia.org/wiki/Brexit
 9. https://www.welivesecurity.com/2016/11/04/colossal-ddos-attack-liberia-wipes-majority-country-offline/
 10. https://en.wikipedia.org/wiki/Hardtechno
+11. https://www.motorcyclenews.com/bike-reviews/benelli/leoncino/2018/
+12. https://lionsclubs.org/en
+13. https://es.wikipedia.org/wiki/Gran_Logia_Simb%C3%B3lica_Espa%C3%B1ola
