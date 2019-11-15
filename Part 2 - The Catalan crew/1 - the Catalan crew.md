@@ -90,7 +90,7 @@ https://github.com/vanhauser-thc/THC-Archive
 
 They are the creators of the significant **brute force** [[37]](https://en.wikipedia.org/wiki/Brute-force_attack) tool **Hydra** [[38]](https://tools.kali.org/password-attacks/hydra). 
 
-He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably meat another girl from this crew, a woman from **Ladinia** [[39]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
+He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably met another girl from this crew, a woman from **Ladinia** [[39]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
 
 I like him because i've read some publication and i've seen how he love to use opensource methods to explain to the outside world his work. Like i've done in the past. He is an expert of windows **shellcode** [[40]](https://en.wikipedia.org/wiki/Shellcode).
 
