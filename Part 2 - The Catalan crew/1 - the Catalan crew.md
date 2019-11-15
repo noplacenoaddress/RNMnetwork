@@ -16,28 +16,6 @@ But there is another break point. When i came to Catalunya i fall in love with o
 
 I don't wanna describe more in deep, my dear, just best regards and keep up the good work. I'll do the same. Cheers.
 
-### The leader of the Italians, a virus. A girl from Genoa
-
-![Stupid little bitch](../Images/71-noRUB19L._SS500_.jpg)
-
-And something else. She use the name Anonymous, but no, she isn't. Anonymous are an activist group that work for freedom. This bitch use this mask to do **crimes against humanity** [[17]](https://en.wikipedia.org/wiki/Crimes_against_humanity). The crew is Genoa based and they came the destroy the beauty of Barcelona five years ago, they join the Catalan crew after a reunion in an apartment near c/ Arago six years ago.  She isn't good for this city. The city is **mediocre** [[18]](https://dictionary.cambridge.org/dictionary/english/mediocre) now. But Barcelona is awesome. She also ruin the **progressive** [[19]](https://youtu.be/fUtMUvJE49w) techno music in the first decade of this century. *And she ruin who i call brother. And a lot of friends of mine.*
-
-**I call her, stupid little bitch.** The violet, the number five or sixteen. An **Aries** [[20]](https://en.wikipedia.org/wiki/Aries_(astrology)), cocaine addicted and drug seller. Work in prostitution exploitation. Very famous and ridiculous. A person to put in jail for ever. And i will do it. 
-
-What she has done to my dream, my country, my house? What she has done to Barcelona? She came here and destroy the smell of the streets. She destroy the Almodovarian environment of the city. Probably she doesn't seen all the **film career** [[21]](https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var#Film_career) of this genius. Like i've done when i was fifteen in native language subtitled in Italian.
-
-At the end of the **Rambla** [[22]](https://en.wikipedia.org/wiki/La_Rambla,_Barcelona) in Barcelona there's no bird market. There's no **parrots** [[23]](https://parrotlinux.org/) to buy. Until 2010, the *Rambla dels Estudis* was the site of an open-air  market for caged birds and other small pets. After years of  fighting the legislation, the market was forced to close. And the streets artist have got a limited number to perform. She has corrupted all the city. She is a terrorist.
-
-![periquitos](../Images/ramblero-1900.jpg)
-
-She is fomenting populism. She is weakening Spain and Turkey. She provokes **brexit** [[24]](https://en.wikipedia.org/wiki/Brexit). She is dividing Europe. This is not a joke. She is planning a war, because she is son of a military family and they build and sell war material.
-
-> *She has obligate my ex girlfriend to do sex favors to medium size drug seller. From Friday to Thursday. Saray please call me they have to be put in jail.* 
-
-Kisses, Ricky.
-
-PS: for an investigation this girl in radio frequency affirm that she was involved in the Liberia attack.  
-
 ### Twenty four girls
 
 ![Girls](../Images/91euKKv9oUL._RI_.jpg)
@@ -60,15 +38,15 @@ The girls are victim from a lot of time. Victim of brain washing at high level. 
 
 ![Mirai Botnet](../Images/DDoS-493312984.jpg)
 
-Her name is very similar to the most dangerous **botnet** [[25]](https://en.wikipedia.org/wiki/Botnet) in the world: **Mirai** [[26]](https://en.wikipedia.org/wiki/Mirai_(malware)). He calls her wife, but no she isn't. She is another old victim of this monster. Nothing more. She says she is an hacker. I don't know, i think that yes she is. But nothing so special, more human and brain hacker.
+Her name is very similar to the most dangerous **botnet** [[17]](https://en.wikipedia.org/wiki/Botnet) in the world: **Mirai** [[18]](https://en.wikipedia.org/wiki/Mirai_(malware)). He calls her wife, but no she isn't. She is another old victim of this monster. Nothing more. She says she is an hacker. I don't know, i think that yes she is. But nothing so special, more human and brain hacker.
 
 She uses to forge girls to be huntress of new victims, like she has done with my ex girlfriend. She is a stalker, a person that with fear and violent sex change life of beautiful woman that simply enjoy sexuality. She try to do brain wash to me but i didn't fall. Her method is for ignorant people. But at bottom she is a good person. He touches her very deeply. What i don't like about her is the fact that in some kind of manner she is fascist, but i really don't think that she is the most probably thing is that her family is and she is also a victim of this kind of culture that is nowadays active in some old families in Spain. Remember that Franco has died only forty years ago. And fascism is living in Spain.
 
-I don't think that he or she is the creator of this **malware** [[27]](https://en.wikipedia.org/wiki/Malware). Like you know, my reader, Mirai is opensource. And its hosted on github.
+I don't think that he or she is the creator of this **malware** [[19]](https://en.wikipedia.org/wiki/Malware). Like you know, my reader, Mirai is opensource. And its hosted on github.
 
 https://github.com/jgamblin/Mirai-Source-Code
 
-So who is he? Someone that copy the source code from github or another repository, public or private, and develop a private version to build a **DDoS** [[28]](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack) net. What kind of hosts could he has infected with this malware? One idea to follow his footprints, because he is Catalan, is that he probably has compromised routers of **Movistar** [[29]](https://en.wikipedia.org/wiki/Movistar), the Spanish first ISP. Remember that now with **FTTH** [[30]](https://en.wikipedia.org/wiki/Fiber_to_the_x) house connection has got like 1gbps symmetric bandwidth. And **CPE** [[31]](https://en.wikipedia.org/wiki/Customer-premises_equipment) are the most easy to break system for a **cracker** [[32]](http://www.catb.org/jargon/html/C/cracker.html). Here is some vulnerability that this crew and his head could have used to break Spanish fibers and a possible line of investigation:
+So who is he? Someone that copy the source code from github or another repository, public or private, and develop a private version to build a **DDoS** [[20]](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack) net. What kind of hosts could he has infected with this malware? One idea to follow his footprints, because he is Catalan, is that he probably has compromised routers of **Movistar** [[21]](https://en.wikipedia.org/wiki/Movistar), the Spanish first ISP. Remember that now with **FTTH** [[22]](https://en.wikipedia.org/wiki/Fiber_to_the_x) house connection has got like 1gbps symmetric bandwidth. And **CPE** [[23]](https://en.wikipedia.org/wiki/Customer-premises_equipment) are the most easy to break system for a **cracker** [[24]](http://www.catb.org/jargon/html/C/cracker.html). Here is some vulnerability that this crew and his head could have used to break Spanish fibers and a possible line of investigation:
 
 - https://www.exploit-db.com/exploits/43061
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10561
@@ -80,23 +58,23 @@ With those three exploit he could have build an enormous Mirai fork botnet.
 
 ![hentai](../Images/h_olymp_A2_22_www.pervify.com_0009.jpg)
 
-An **esoteric** [[33]](https://en.wikipedia.org/wiki/Western_esotericism), **black magic** [[34]](https://en.wikipedia.org/wiki/Black_magic) hacker. I will not say his name, because yes, he is. He is an hacker. He likes to program and to write **Hentai** [[35]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
+An **esoteric** [[25]](https://en.wikipedia.org/wiki/Western_esotericism), **black magic** [[26]](https://en.wikipedia.org/wiki/Black_magic) hacker. I will not say his name, because yes, he is. He is an hacker. He likes to program and to write **Hentai** [[27]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
 
 In the art of brain wash, this time with my mind he was the most efficient one and he didn't do nothing bad at all. So, yes *he is the best one*. With the network he finds one girl that has the same name and very similar physiognomy to one of the two girls that i've said before. She is practically identical to my ex when i start to go out with her. And he has build a sexual violence scene without doing it. And yes, i cry a lot. I remember she. And why i say that he is the best one. Because i'm victim of this network and victim of this crew of human hackers that probably do suicide betting over people and he is the only one that doesn't permit that i know him. So i cannot describe a lot of him nor i want.
 
-He came from the **THC German crew** [[36]](https://web.archive.org/web/20131231060750/https://www.thc.org/) here is them public repository, old stuff:
+He came from the **THC German crew** [[28]](https://web.archive.org/web/20131231060750/https://www.thc.org/) here is them public repository, old stuff:
 
 https://github.com/vanhauser-thc/THC-Archive
 
-They are the creators of the significant **brute force** [[37]](https://en.wikipedia.org/wiki/Brute-force_attack) tool **Hydra** [[38]](https://tools.kali.org/password-attacks/hydra). 
+They are the creators of the significant **brute force** [[29]](https://en.wikipedia.org/wiki/Brute-force_attack) tool **Hydra** [[30]](https://tools.kali.org/password-attacks/hydra). 
 
-He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably met another girl from this crew, a woman from **Ladinia** [[39]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
+He has got a lot of cam4 public profiles where he speaks with people from the swinger world and hes has lived in German and Italy in the past where he probably met another girl from this crew, a woman from **Ladinia** [[31]](https://en.wikipedia.org/wiki/Ladinia) an extreme north country in Italy.
 
-I like him because i've read some publication and i've seen how he love to use opensource methods to explain to the outside world his work. Like i've done in the past. He is an expert of windows **shellcode** [[40]](https://en.wikipedia.org/wiki/Shellcode).
+I like him because i've read some publication and i've seen how he love to use opensource methods to explain to the outside world his work. Like i've done in the past. He is an expert of windows **shellcode** [[32]](https://en.wikipedia.org/wiki/Shellcode).
 
-He is important in Barcelona in the **graffiti** [[41]](https://en.wikipedia.org/wiki/Graffiti) underground culture.
+He is important in Barcelona in the **graffiti** [[33]](https://en.wikipedia.org/wiki/Graffiti) underground culture.
 
-He has got contacts with a north Italy crew from **Bergamo** [[42]](https://en.wikipedia.org/wiki/Bergamo), so yes he is one of the most important in the Catalan crew but he has got importance also in the north Italian one, the "Illuminati".
+He has got contacts with a north Italy crew from **Bergamo** [[34]](https://en.wikipedia.org/wiki/Bergamo), so yes he is one of the most important in the Catalan crew but he has got importance also in the north Italian one, the "Illuminati".
 
 *I've seen a photo of him kissing mi ex girlfriend.*
 
@@ -136,57 +114,41 @@ He has got contacts with a north Italy crew from **Bergamo** [[42]](https://en.w
 
 16. https://es.wikipedia.org/wiki/Cine_quinqui
 
-17. https://en.wikipedia.org/wiki/Crimes_against_humanity
+17. https://en.wikipedia.org/wiki/Botnet
 
-18. https://dictionary.cambridge.org/dictionary/english/mediocre
+18. https://en.wikipedia.org/wiki/Mirai_(malware)
 
-19. https://youtu.be/fUtMUvJE49w
+19. https://en.wikipedia.org/wiki/Malware
 
-20. https://en.wikipedia.org/wiki/Aries_(astrology)
+20. https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack
 
-21. https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var#Film_career
+21. https://en.wikipedia.org/wiki/Movistar
 
-22. https://en.wikipedia.org/wiki/La_Rambla,_Barcelona
+22. https://en.wikipedia.org/wiki/Fiber_to_the_x
 
-23. https://parrotlinux.org/
+23. https://en.wikipedia.org/wiki/Customer-premises_equipment
 
-24. https://en.wikipedia.org/wiki/Brexit
+24. http://www.catb.org/jargon/html/C/cracker.html
 
-25. https://en.wikipedia.org/wiki/Botnet
+25. https://en.wikipedia.org/wiki/Western_esotericism
 
-26. https://en.wikipedia.org/wiki/Mirai_(malware)
+26. https://en.wikipedia.org/wiki/Black_magic
 
-27. https://en.wikipedia.org/wiki/Malware
+27. https://en.wikipedia.org/wiki/Hentai
 
-28. https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack
+28. https://web.archive.org/web/20131231060750/https://www.thc.org/
 
-29. https://en.wikipedia.org/wiki/Movistar
+29. https://en.wikipedia.org/wiki/Brute-force_attack
 
-30. https://en.wikipedia.org/wiki/Fiber_to_the_x
+30. https://tools.kali.org/password-attacks/hydra
 
-31. https://en.wikipedia.org/wiki/Customer-premises_equipment
+31. https://en.wikipedia.org/wiki/Ladinia
 
-32. http://www.catb.org/jargon/html/C/cracker.html
+32. https://en.wikipedia.org/wiki/Shellcode
 
-33. https://en.wikipedia.org/wiki/Western_esotericism
+33. https://en.wikipedia.org/wiki/Graffiti
 
-34. https://en.wikipedia.org/wiki/Black_magic
-
-35. https://en.wikipedia.org/wiki/Hentai
-
-36. https://web.archive.org/web/20131231060750/https://www.thc.org/
-
-37. https://en.wikipedia.org/wiki/Brute-force_attack
-
-38. https://tools.kali.org/password-attacks/hydra
-
-39. https://en.wikipedia.org/wiki/Ladinia
-
-40. https://en.wikipedia.org/wiki/Shellcode
-
-41. https://en.wikipedia.org/wiki/Graffiti
-
-42. https://en.wikipedia.org/wiki/Bergamo
+34. https://en.wikipedia.org/wiki/Bergamo
 
     
 
