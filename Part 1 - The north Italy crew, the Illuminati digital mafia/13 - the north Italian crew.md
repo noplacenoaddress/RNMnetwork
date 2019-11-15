@@ -52,6 +52,12 @@ But someone was planning my suicide for money. And he accepts, and unfortunately
 
 But not only.
 
+With the pyramidal system of the "Illuminati" they have changed his mind. Yes he is important but in this shit, a shit that have ruin Barcelona the city where we start to live many years ago.
+
+We use to dream in Spanish. And now in Barcelona people speak Italian. A foreign language, a language that have corrupted and deleted the freedom of this wonder city. Oblige Catalans womans to prostitute. Like it has passed to a girl that i'm in love to. 
+
+But i'm Italian, but i totally hate this shit. Totally. 
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Crimes_against_humanity
