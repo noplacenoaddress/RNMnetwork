@@ -76,6 +76,8 @@ We've got the same age more or less and we start go together in dancing clubs. L
 
 As you can see in this ensign the Italian world "**balneare**" [[18]](https://it.wiktionary.org/wiki/balneare), is apparently bad written as **balneaRF**. Radio Frequency. This is one of the most important club of techno progressive scene in the Italy of the nineties. Radio Frequency it's not an error. The crew behind this Italian scene has invented the first radio frequency Machine. One of the progenitor of those hell networks was this one. The one invented by the scene. This scene was destroyed by this funny stupid little bitch that is the owner of this north Italian crew. But it's only my two cents. Nothing more, nothing less. 
 
+Hes has got a sexual deviation. He has got a stable relationship but he is maniacal about doing sex with physical violence to obtain strong **sodomy** [[19]](https://en.wikipedia.org/wiki/Sodomy). Slavery. But he is suffering probably of the effect of **Cinderella** [[20]](https://en.wikipedia.org/wiki/Cinderella_effect). 
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Crimes_against_humanity
@@ -96,3 +98,5 @@ As you can see in this ensign the Italian world "**balneare**" [[18]](https://it
 16. https://en.wikipedia.org/wiki/Tirrenia
 17. https://en.wikipedia.org/wiki/Darby_Military_Community
 18. https://it.wiktionary.org/wiki/balneare
+19. https://en.wikipedia.org/wiki/Sodomy
+20. https://en.wikipedia.org/wiki/Cinderella_effect
