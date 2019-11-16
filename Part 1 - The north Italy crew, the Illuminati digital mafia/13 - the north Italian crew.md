@@ -78,6 +78,8 @@ As you can see in this ensign the Italian world "**balneare**" [[18]](https://it
 
 Hes has got a sexual deviation. He has got a stable relationship but he is maniacal about doing sex with physical violence to obtain strong **sodomy** [[19]](https://en.wikipedia.org/wiki/Sodomy). Slavery. But he is suffering probably of the effect of **Cinderella** [[20]](https://en.wikipedia.org/wiki/Cinderella_effect). 
 
+*My little poor boy.* 
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Crimes_against_humanity
