@@ -4,7 +4,7 @@
 
 "Illuminati" is a series of interconnected pyramid structures. A series of interconnected frauds. Every structure got a number.
 
-In Barcelona for example the structure number four is sex related, six drug related, five is property of the leader of the Italian crew, two of a woman that administrate like two thousands of girls, many reduced to heroin addiction and prostitution and the one is composed by four chief. 
+In Barcelona for example the structure number four is sex related, six drug related, five is property of the leader of the Italian crew, two of a woman that administrate like two thousands of girls, many reduced to heroin addiction and prostitution. 
 
 Every structure in the low level are slavery. Or forced prostitution or forced drug selling without any rewards. This for the first year for womens and two for mans. But womens always remains in the theme of prostitution, simply go ahead if they are sweetie and start to gain some money in litecoin. Every up level gain a little from the levels belows. 
 
@@ -12,7 +12,7 @@ All of those structures are nothing more than frauds. In the lowest level many b
 
 People in Europe in 2019 are living slavery. And this is the true.
 
-Another particular about those pyramids is that the summit has got many clones, people that have very similar **human physical appearances**[[1]](https://en.wikipedia.org/wiki/Human_physical_appearance). Why? It's simple. Image one habitual client of drug. If he knows how "Illuminati" work just go in an appointment and another guy different every time but with similar connotation sell him drug. This is for deterring the police. So simple.
+Another particular about those pyramids is that the summit has got many clones, people that have very similar **human physical appearances **[[1]](https://en.wikipedia.org/wiki/Human_physical_appearance). Why? It's simple. Image one habitual client of drug. If he knows how "Illuminati" work just go in an appointment and another guy different every time but with similar connotation sell him drug. This is for deterring the police. So simple.
 
 What is determine your position in the pyramid? How much money do you have. And it's all black market related. All in crypt concurrencies. 
 
@@ -24,7 +24,7 @@ This pyramid structures are organized by a **paramilitary** [[4]](https://en.wik
 
 This system was inspired by the **Italian navy** [[7]](https://en.wikipedia.org/wiki/Italian_Navy) environment. The Francese, this is her nickname in radio frequency, is a terrorist. All Italy is folded by this pseudo dictatorship. And now also Spain. 
 
-*Please help. Help me.*
+*Please help, my ex girlfriend is slaved by this system. Help me.*
 
 ### External Links
 
