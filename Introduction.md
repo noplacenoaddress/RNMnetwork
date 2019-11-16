@@ -46,7 +46,7 @@ But my ex girlfriend is also victim of another crime. Her shape, her body and he
 
 ![I'm](Images/75478437_10221285466268748_3495719559191592960_n.jpg)
 
-I'm an hacker. A white hat hacker. If don't know what is it don't blame me like if i'm criminal, the criminals are you. I'm a professional Unix lover, nothing more, nothing less.
+I'm an hacker. A white hat hacker. If you don't know what is it don't blame me like if i'm criminal, the criminals are you. I'm a professional Unix lover, nothing more, nothing less.
 
 When i was young i start to play with Internet at sixteen, and use to join an **IRC** [[14]](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel served by the network **IRCNet** [[15]](https://en.wikipedia.org/wiki/IRCnet).  We was a group, or better saying a crew, of young hackers that enjoy computer science and **IRC takeover** [[16]](https://en.wikipedia.org/wiki/IRC_takeover). 
 
