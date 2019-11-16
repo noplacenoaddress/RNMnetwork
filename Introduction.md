@@ -62,6 +62,10 @@ Next i build with others two a **shell provider** [[34]](https://web.archive.org
 
 https://lists.freebsd.org/pipermail/freebsd-pf/2005-June/001105.html
 
+Also i was a radio amateur from when i was twelve. Enjoy **SSB band** [[37]](https://en.wikipedia.org/wiki/Single-sideband_modulation), **ZG radio equipment** [[38]](http://www.zgitaly.it/inglese/), and **President radio** [[39]](https://president-electronics.com/) **CB** [[40]](https://en.wikipedia.org/wiki/Citizens_band_radio).
+
+So yes I'm an hacker and i want to demonstrate how various crew has bet over my life and destroy Barcelona. 
+
 ### 
 
 ### External Links
@@ -100,3 +104,7 @@ https://lists.freebsd.org/pipermail/freebsd-pf/2005-June/001105.html
 32. https://web.archive.org/web/20050409113133/http://www.6shells.net/
 33. https://www.freebsd.org/
 34. https://en.wikipedia.org/wiki/Mailing_list
+35. https://en.wikipedia.org/wiki/Single-sideband_modulation
+36. http://www.zgitaly.it/inglese/
+37. https://president-electronics.com/
+38. https://en.wikipedia.org/wiki/Citizens_band_radio
