@@ -58,6 +58,14 @@ We use to dream in Spanish. And now in Barcelona people speak Italian. A foreign
 
 But i'm Italian, but i totally hate this shit. Totally. 
 
+### His blood brother
+
+![Hotel Splendido](../Images/Spledido.jpg)
+
+This luxury hotel is where he starts to work when i was nineteen. He, and his brother, didn't come from a high class family. They are from a lower middle class. Good people. Parking luxury cars was his job.
+
+He likes a lot luxury, and always attended higher class persons from rich Genoese neighborhoods and the same **riviera** [[14]](https://en.wikipedia.org/wiki/Italian_Riviera). He wants to arrive where those persons born. But he didn't study a lot and start to search to arrive doing doubtful jobs but not drug related. He is a good boy in a certain way to say.
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Crimes_against_humanity
@@ -73,3 +81,4 @@ But i'm Italian, but i totally hate this shit. Totally.
 11. https://www.motorcyclenews.com/bike-reviews/benelli/leoncino/2018/
 12. https://lionsclubs.org/en
 13. https://es.wikipedia.org/wiki/Gran_Logia_Simb%C3%B3lica_Espa%C3%B1ola
+14. https://en.wikipedia.org/wiki/Italian_Riviera
