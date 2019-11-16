@@ -64,7 +64,17 @@ But i'm Italian, but i totally hate this shit. Totally.
 
 This luxury hotel is where he starts to work when i was nineteen. He, and his brother, didn't come from a high class family. They are from a lower middle class. Good people. Parking luxury cars was his job.
 
-He likes a lot luxury, and always attended higher class persons from rich Genoese neighborhoods and the same **riviera** [[14]](https://en.wikipedia.org/wiki/Italian_Riviera). He wants to arrive where those persons born. But he didn't study a lot and start to search to arrive doing doubtful jobs but not drug related. He is a good boy in a certain way to say.
+He likes a lot luxury, and always attended higher class persons from rich Genoese neighborhoods and the same **riviera** [[14]](https://en.wikipedia.org/wiki/Italian_Riviera). He wants to arrive where those persons born. But he didn't study a lot and start to search to arrive doing doubtful jobs but not drug related. 
+
+He is a good boy in a certain way to say.
+
+He starts with the world of little frauds. Semi legals. In this Hotel he was knowing old rich woman and he does a sort of luxury **gigolo** [[15]](https://en.wikipedia.org/wiki/Male_prostitution).  Autonomous. But who put him in this ambient? I don't know.
+
+We've got the same age more or less and we start go together in dancing clubs. Like Imperiale in **Tirrenia** [[16]](https://en.wikipedia.org/wiki/Tirrenia), Tuscany. Not far from the **Darby Military Community** [[17]](https://en.wikipedia.org/wiki/Darby_Military_Community).
+
+![Imperiale club](../Images/imperialeclub.jpg)
+
+As you can see in this ensign the Italian world "**balneare**" [[18]](https://it.wiktionary.org/wiki/balneare), is apparently bad written as **balneaRF**. Radio Frequency. This is one of the most important club of techno progressive scene in the Italy of the nineties. Radio Frequency it's not an error. The crew behind this Italian scene has invented the first radio frequency Machine. One of the progenitor of those hell networks was this one. The one invented by the scene. This scene was destroyed by this funny stupid little bitch that is the owner of this north Italian crew. But it's only my two cents. Nothing more, nothing less. 
 
 ### External links 
 
@@ -82,3 +92,7 @@ He likes a lot luxury, and always attended higher class persons from rich Genoes
 12. https://lionsclubs.org/en
 13. https://es.wikipedia.org/wiki/Gran_Logia_Simb%C3%B3lica_Espa%C3%B1ola
 14. https://en.wikipedia.org/wiki/Italian_Riviera
+15. https://en.wikipedia.org/wiki/Male_prostitution
+16. https://en.wikipedia.org/wiki/Tirrenia
+17. https://en.wikipedia.org/wiki/Darby_Military_Community
+18. https://it.wiktionary.org/wiki/balneare
