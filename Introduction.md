@@ -64,7 +64,11 @@ https://lists.freebsd.org/pipermail/freebsd-pf/2005-June/001105.html
 
 Also i was a radio amateur from when i was twelve. Enjoy **SSB band** [[37]](https://en.wikipedia.org/wiki/Single-sideband_modulation), **ZG radio equipment** [[38]](http://www.zgitaly.it/inglese/), and **President radio** [[39]](https://president-electronics.com/) **CB** [[40]](https://en.wikipedia.org/wiki/Citizens_band_radio).
 
-So yes I'm an hacker and i want to demonstrate how various crew has bet over my life and destroy Barcelona. 
+So yes I'm an hacker and i want to demonstrate how various crew has bet over my life and destroy Barcelona. All of them depend by the conduction of a girl, she is coming to my primary school in Genoa. 
+
+She is a terrorist of extreme right. And i'm a democratic Europeanist.
+
+> *She is destroying Europe, and she has destroyed my life and the life of my ex girlfriend. Saray. My sun flower.*
 
 ### 
 
