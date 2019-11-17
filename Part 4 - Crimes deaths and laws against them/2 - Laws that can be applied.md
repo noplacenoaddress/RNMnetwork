@@ -24,6 +24,19 @@ All of them are horribles crimes that destroy **human rights** [[8]](https://en.
 
 *I love you.*
 
+### How to hit every network of neural control
+
+![Test your IQ](../Images/B88103384Z.1_20180321200953_000_GET490KV.2-0_Super_Portrait.jpg)
+
+Like we've already said one of the tower of democracy is without any doubt privacy. In Spain, the country where i live there's a lot of laws protecting this fundamental right of the citizen. Spain is **Europe Union** [[9]](https://en.wikipedia.org/wiki/European_Union). 
+
+- In the **Universal Declaration of Human Rights** [[10]](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) of 1948 privacy was defended and guaranteed. It says that everyone got the right to protect his **intimacy** [[11]](https://en.wikipedia.org/wiki/Intimate_relationship), family, home, **reputation** [[12]](https://en.wikipedia.org/wiki/Reputation).
+- In the article 18 of the **Spanish Constitution** [[13]](https://en.wikipedia.org/wiki/Constitution_of_Spain) the right of **honor** [[14]](https://en.wikipedia.org/wiki/Honour), intimacy and personal image.
+- **Organic law** [[15]](https://en.wikipedia.org/wiki/Organic_law) **11982** [[16]](https://elderecho.com/ley-organica-11982-5-mayo-proteccion-civil-del-derecho-al-honor-la-intimidad-personal-familiar-la-imagen) 
+- **General Data Protection Regulation** [[17]](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) from 25 of May 2018
+- Organic law **15/1999** [[18]](https://en.wikipedia.org/wiki/Ley_Org%C3%A1nica_de_Protecci%C3%B3n_de_Datos_de_Car%C3%A1cter_Personal) of December 13 of protection of **personal data** [[19]](https://en.wikipedia.org/wiki/Personal_data)
+- 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Human_trafficking
@@ -34,3 +47,14 @@ All of them are horribles crimes that destroy **human rights** [[8]](https://en.
 6. https://es.wikipedia.org/wiki/Esclavitud
 7. https://es.wikipedia.org/wiki/Proxenetismo
 8. https://en.wikipedia.org/wiki/Human_rights
+9. https://en.wikipedia.org/wiki/European_Union
+10. https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
+11. https://en.wikipedia.org/wiki/Intimate_relationship
+12. https://en.wikipedia.org/wiki/Reputation
+13. https://en.wikipedia.org/wiki/Constitution_of_Spain
+14. https://en.wikipedia.org/wiki/Honour
+15. https://en.wikipedia.org/wiki/Organic_law
+16. https://elderecho.com/ley-organica-11982-5-mayo-proteccion-civil-del-derecho-al-honor-la-intimidad-personal-familiar-la-imagen
+17. https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+18. https://en.wikipedia.org/wiki/Ley_Org%C3%A1nica_de_Protecci%C3%B3n_de_Datos_de_Car%C3%A1cter_Personal
+19. https://en.wikipedia.org/wiki/Personal_data
