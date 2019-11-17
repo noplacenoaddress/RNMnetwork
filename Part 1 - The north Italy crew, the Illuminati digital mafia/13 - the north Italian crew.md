@@ -62,7 +62,7 @@ But i'm Italian, but i totally hate this shit. Totally.
 
 ![Hotel Splendido](../Images/Spledido.jpg)
 
-This luxury hotel is where he starts to work when i was nineteen. He, and his brother, didn't come from a high class family. They are from a lower middle class. Good people. Parking luxury cars was his job.
+This luxury hotel is where he starts to work when he was nineteen. He, and his brother, didn't come from a high class family. They are from a lower middle class. Good people. Parking luxury cars was his job.
 
 He likes a lot luxury, and always attended higher class persons from rich Genoese neighborhoods and the same **riviera** [[14]](https://en.wikipedia.org/wiki/Italian_Riviera). He wants to arrive where those persons born. But he didn't study a lot and start to search to arrive doing doubtful jobs but not drug related. 
 
@@ -79,6 +79,8 @@ As you can see in this ensign the Italian world "**balneare**" [[18]](https://it
 Hes has got a sexual deviation. He has got a stable relationship but he is maniacal about doing sex with physical violence to obtain strong **sodomy** [[19]](https://en.wikipedia.org/wiki/Sodomy). Slavery. But he is suffering probably of the effect of **Cinderella** [[20]](https://en.wikipedia.org/wiki/Cinderella_effect). 
 
 *My little poor boy.* 
+
+In Barcelona he starts a cybercafe in Marina street in 2004 with others three fellows. This is the district where i met the girl that now is slaved by the radio frequency machine. And yes, he works for this structure. They call it "techno" or "Illuminati".
 
 ### External links 
 
