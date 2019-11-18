@@ -42,6 +42,23 @@ This laws if violated could represent fines and penalties and also jail defined 
 
 So like our visual cortex and auditory cortex and much more brain parts are totally under control in a remote neural control network this laws, those above are the Spanish ones, have to be held en front of a penal **judgment** [[23]](https://en.wikipedia.org/wiki/Judgement).
 
+Those are the pains:
+
+- prison from one to three years for disseminate facts about a person without their consent, even if they have not participated in obtaining such information.
+- prison from one to four years:
+  -  Seize documents or personal effects of a person without their consent.
+  - Use recording, transmission or broadcasting devices without the individual's permission.
+  - Treatment of a person's information without their consent in computer files or telematic records.
+- prison from three to five years:
+  - It is imposed when the crimes of intrusion and disclosure of information have been committed by those responsible or responsible for the processing of the files, or by their representatives.
+  - Disseminate data that reveals the person's race, ideology, religion or sexual condition.
+  - Disclose data relating to minors or disabled persons.
+- prison from four to seven years committing the above crimes for profit.
+
+The last point is what is break under remote neural control networks. And obviously the pain will be the maximum because for example in my case its two years that I'm below this crime in active, with subliminal voice service activated, and many years more in silent mode, or in **hide** [[24]](https://www.thesaurus.com/browse/hide) like i call it.
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Human_trafficking
@@ -89,5 +106,7 @@ So like our visual cortex and auditory cortex and much more brain parts are tota
 22. https://es.wikipedia.org/wiki/C%C3%B3digo_Penal_(Espa%C3%B1a)
 
 23. https://en.wikipedia.org/wiki/Judgement
+
+24. https://www.thesaurus.com/browse/hide
 
     
