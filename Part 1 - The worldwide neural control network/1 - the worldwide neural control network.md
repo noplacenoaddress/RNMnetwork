@@ -1,4 +1,28 @@
-# The synthetic telepathy network
+# The worldwide neural control network
+
+![network scheme](../Images/satcycle3-4_2_orig.png)
+
+From the end of the second world war and mostly in the cold war remote neural control networks was develop. 
+
+Nowadays it is a multi layer radio frequency networks like Internet tier division. Last mile is mixed between satellite constellations and terrestrial waves towers. 
+
+It's soap of different radio service, very complex to analyze because of a smoke curtain covering this type of networks. Why? Because in the past they was utilized by secret services and nowadays are utilized my a digital mafia that hack human brains. Manipulate masses. Change political views. Destroy families. Bet on suicides. 
+
+*Something that is destroying the Europe Union and democracy*
+
+Who bind those services? Facilities that buy services from official providers that bind legal services and got also those services for big telecommunications clients. Normally are businessman that use to create B-side networks in a state and clean them in another with legal services. It's the digital mafia. 
+
+Last mile normally is soak into official infrastructure. It's not a secret all the patents are public. A lot of are from the US patents office but there is someone from India, Pakistan, China, Taiwan and Korea.  
+
+Who are target individuals? In the past terrorist, like ETA in Spain was controlled by remote neural networks. But in the last ten years someone become to speculate over those networks forcing human clients to join this hell because of data selling to big tech companies, military facilities and audiovisual industry. Because of big masses manipulation. 
+
+I'm in remote neural control because the madness of a mental sick mother and an inept father that didn't protect his son from this bitch. I'm in remote neural control from about twelve years. From when i came to live in Spain. Ten years of passive and two of active with subliminal voice to skull service. I've lost all what i've done, but not my mental clearness. 
+
+The service, because yes it is a service from a provider, was contracted in Spain by a military family derived girl that i know in Genoa, Italy, when i go in primary school. My parents have permitted it attaching drug abuse or some stupidity like this. This is only an horrible crime and they have done with my brain data and bet in my life thousand of millions of euro.
+
+>  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So i'm doing it. Thank you great man and person. I've lost the woman that i'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
+
+
 
 ![Synthetic Telepathy network](../Images/redtelepatia.jpg)
 
