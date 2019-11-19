@@ -50,7 +50,7 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 
 ### Special service prostitution
 
-![Salesia Badalona](/home/taglio/Work/killernetworks/Images/photo-2579-normal.jpg)
+![Salesia Badalona](../Images/photo-2579-normal.jpg)
 
 Women that captured with the Machine in reality are sold to the church. Especially  **Salesians of Don Bosco** [[16]](https://en.wikipedia.org/wiki/Salesians_of_Don_Bosco). They call this special service and it costs thousands of current money, euro, probably transferred to Andorran bank accounts. 
 
