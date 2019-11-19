@@ -42,13 +42,27 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 
 > *But what is the real final goal of this shit? Obviously the sold of sex amateur videos. With this technology your privacy is destroyed. In your home there's people masturbating. Old people. Millionaires, nobles and church priest. It's not a joke. It's the fucking true!*
 
-
-
 ### The audiovisual Catalan industry
 
 ![Nadie sabe nada](../Images/asda23232es.jpg)
 
 **Andreu Bonafuente** [[11]](https://ca.wikipedia.org/wiki/Andreu_Buenafuente_Moreno) and **Berto Romero** [[12]](https://ca.wikipedia.org/wiki/Alberto_Romero_Tom%C3%A1s) are two TV and radio presenters working in the Catalan radio **cadena Ser** [[13]](https://ca.wikipedia.org/wiki/Cadena_SER) and in the format producer **el Terrat** [[14]](https://ca.wikipedia.org/wiki/El_Terrat). The twos work in various TV and theater show in Barcelona. They are great. But in some kind of manner, it's seems incredible but yes it's true, sometimes they do gag over what have passed to me and to my ex girlfriend. And this is profit over a misfortune and i don't know if it is completely legal. And the most important think is how it is possible that a TV format producer or a radio company know about a victim of the Catalan killer wireless network? The answer is so simple. Owners of the network sell our mishaps to people who write **screenplays** [[15]](https://en.wikipedia.org/wiki/Screenplay). 
+
+### Special service prostitution
+
+![Salesia Badalona](/home/taglio/Work/killernetworks/Images/photo-2579-normal.jpg)
+
+Women that captured with the Machine in reality are sold to the church. Especially  **Salesians of Don Bosco** [[16]](https://en.wikipedia.org/wiki/Salesians_of_Don_Bosco). They call this special service and it costs thousands of current money, euro, probably transferred to Andorran bank accounts. 
+
+My ex girlfriend was sold three years with this method.
+
+Those pigs buy womans, that in reality are not prostitute but are brainwash victims and then constrained by the radio waves machine with pain and with coercion, for horrible services including **coprophagia** [[17]](https://en.wikipedia.org/wiki/Coprophagia) and others bestiality. 
+
+They use to drugs them with stimulants like **dopamine** [[18]](https://psychonautwiki.org/wiki/Dopamine), **hallucinogens** [[19]](https://psychonautwiki.org/wiki/Hallucinogens) and **dissociative** [[20]](https://psychonautwiki.org/wiki/Dissociative) like **ketamine** [[21]](https://psychonautwiki.org/wiki/Ketamine).    
+
+**In reality is an international scandal and to be uncovered.** 
+
+> *In this method in Catalunya have dead thousand of people including the wife of a man that i know. And my ex girlfriend has suffered sexual harassment and violence for three years.*
 
 ### External links
 
@@ -67,3 +81,9 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 13. https://ca.wikipedia.org/wiki/Cadena_SER
 14. https://ca.wikipedia.org/wiki/El_Terrat
 15. https://en.wikipedia.org/wiki/Screenplay
+16. https://en.wikipedia.org/wiki/Salesians_of_Don_Bosco
+17. https://en.wikipedia.org/wiki/Coprophagia
+18. https://psychonautwiki.org/wiki/Dopamine
+19. https://psychonautwiki.org/wiki/Hallucinogens
+20. https://psychonautwiki.org/wiki/Dissociative
+21. https://psychonautwiki.org/wiki/Ketamine
