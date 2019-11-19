@@ -22,6 +22,8 @@ The service, because yes it is a service from a provider, was contracted in Spai
 
 >  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So i'm doing it. Thank you great man and person. I've lost the woman that i'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
 
+
+
 ### Magnetic field area network, the radio steam machine
 
 ![Magnetic field](../Images/magneticsd.png)
@@ -31,6 +33,10 @@ The magnetic field are network or MFAN is a terrestrial magnetic radio where the
 They call this steam machine. 
 
 With this virtual device the environment near the victim is like a tac machine. And it is continuously, the real mean is that we this system is carcinogenic for our brain and body. 
+
+![Unique ID magnetic field](../Images/Screen-Shot-2018-11-09-at-11.08.08-AM-1.png)
+
+
 
 ### The synthetic telepathy network computing center 
 
