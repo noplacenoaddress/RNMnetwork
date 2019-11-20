@@ -18,9 +18,22 @@ Those was my possessions that I've lost in this systematic destruction plot by s
 - A house where i got all my possessions including a lot of computer data located in **Av. de les Palmeres, 12, 08811 Canyelles, Barcelona, Spain** [[10]](https://goo.gl/maps/9u4pJv5835CL6B1t5). The house was privately rented.
 - Four motorbikes. Two registered with my name, one in Italy and the other in Spain, one that I've payed in cash and is registered to the name of the girlfriend of a man that i know, and one without registration number. 
 
+More than this I've suffered:
 
+- Being a target individual in the worldwide remote neural control network.
+- Being object of bet about my sexual life, that is like zero from about two years, in a remote parimutuel betting system. A digitalized version of the system invented by a Catalan one centuries ago.
+- Being one year, from 2016 to 2017, victim of a fascist practice called "Luz de Gas".
+- Being isolated from almost all the people that I've known, here in this network and playing bet over my life there is like two hundred persons that was friends of mine. Someone i think that however is and other one that i don't know for sure is.
+- A provoked motorbike accident very dangerous where i could had lost my life. They also bet about this event.
+- Being victim of a terrible case of **medical malpractice** [[11]](https://en.wikipedia.org/wiki/Medical_malpractice) in the **Hospital Clinic** [[12]](https://www.clinicbarcelona.org/idibaps) of Barcelona, Spain. Where they almost rape me.
+- A provoked incarceration for four days where a slight crime was committed but was conjectured.
+- Various petty thefts when I was practically living on the street with no possessions.
 
+But the worst think is that the women that i love was sold in forced prostitution after be victim of a very heavy brainwashing technique and sadomasochist sexual slavery. 
 
+> *I love you sweetie, be careful. Don't accept drug from anyone. Take care my sun flower.* 
+
+![ti amo](../Images/tiamo.png)
 
 ### External links
 
@@ -34,3 +47,5 @@ Those was my possessions that I've lost in this systematic destruction plot by s
 8. https://en.wikipedia.org/wiki/Sexual_harassment
 9. https://en.wikipedia.org/wiki/Wireless_Internet_service_provider
 10. https://goo.gl/maps/9u4pJv5835CL6B1t5
+11. https://en.wikipedia.org/wiki/Medical_malpractice
+12. https://www.clinicbarcelona.org/idibaps
