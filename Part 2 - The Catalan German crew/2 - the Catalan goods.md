@@ -52,15 +52,11 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 
 ![Salesia Badalona](../Images/photo-2579-normal.jpg)
 
-Women that captured with the Machine in reality are sold to the church. Especially  **Salesians of Don Bosco** [[16]](https://en.wikipedia.org/wiki/Salesians_of_Don_Bosco). They call this special service and it costs thousands of current money, euro, probably transferred to Andorran bank accounts. 
-
-My ex girlfriend was sold three years with this method.
+Women that captured with the Machine in reality are sold. They call this special service and it costs thousands of current money, euro, probably transferred to Andorran bank accounts. 
 
 Those pigs buy womans, that in reality are not prostitute but are brainwash victims and then constrained by the radio waves machine with pain and with coercion, for horrible services including **coprophagia** [[17]](https://en.wikipedia.org/wiki/Coprophagia) and others bestiality. 
 
 They use to drugs them with stimulants like **dopamine** [[18]](https://psychonautwiki.org/wiki/Dopamine), **hallucinogens** [[19]](https://psychonautwiki.org/wiki/Hallucinogens) and **dissociative** [[20]](https://psychonautwiki.org/wiki/Dissociative) like **ketamine** [[21]](https://psychonautwiki.org/wiki/Ketamine).    
-
-**In reality is an international scandal and to be uncovered.** 
 
 > *In this method in Catalunya have dead thousand of people including the wife of a man that i know. And my ex girlfriend has suffered sexual harassment and violence for three years.*
 
