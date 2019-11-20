@@ -18,6 +18,8 @@ Those was my possessions that I've lost in this systematic destruction plot by s
 - A house where i got all my possessions including a lot of computer data located in **Av. de les Palmeres, 12, 08811 Canyelles, Barcelona, Spain** [[10]](https://goo.gl/maps/9u4pJv5835CL6B1t5). The house was privately rented.
 - Four motorbikes. Two registered with my name, one in Italy and the other in Spain, one that I've payed in cash and is registered to the name of the girlfriend of a man that i know, and one without registration number. 
 
+![Fingerprints](../Images/1280px-Fingerprints_taken_by_William_James_Herschel_1859-1860.jpg)
+
 More than this I've suffered:
 
 - Being a target individual in the worldwide remote neural control network.
@@ -26,7 +28,8 @@ More than this I've suffered:
 - Being isolated from almost all the people that I've known, here in this network and playing bet over my life there is like two hundred persons that was friends of mine. Someone i think that however is and other one that i don't know for sure is.
 - A provoked motorbike accident very dangerous where i could had lost my life. They also bet about this event.
 - Being victim of a terrible case of **medical malpractice** [[11]](https://en.wikipedia.org/wiki/Medical_malpractice) in the **Hospital Clinic** [[12]](https://www.clinicbarcelona.org/idibaps) of Barcelona, Spain. Where they almost rape me.
-- A provoked incarceration for four days where a slight crime was committed but was conjectured.
+- A forced detection in mental clinic **hospital Moises Broggi** [[13]](https://www.csi.cat/ciutadans/centres/hospital-moises-broggi/es_index.php).
+- A provoked incarceration for four days where a slight crime was committed but was conjectured. One night in the **Mossos** [[14]](https://mossos.gencat.cat/ca/inici/) **commissary** [[15]](http://serveisoberts.gencat.cat/equipaments/3040055) in the Barcelona district of **Les Corts** [[16]](https://ca.wikipedia.org/wiki/Les_Corts). Two nights and days in the **national police** [[17]](https://www.policia.es/) la Verneda where they take my **fingerprints** [[18]](https://en.wikipedia.org/wiki/Fingerprint), my **elbows** [[19]](https://en.wikipedia.org/wiki/Elbow) prints, and photographs of an operation derived from the incident caused. I had never been arrested.
 - Various petty thefts when I was practically living on the street with no possessions.
 
 But the worst think is that the women that i love was sold in forced prostitution after be victim of a very heavy brainwashing technique and sadomasochist sexual slavery. 
@@ -49,3 +52,10 @@ But the worst think is that the women that i love was sold in forced prostitutio
 10. https://goo.gl/maps/9u4pJv5835CL6B1t5
 11. https://en.wikipedia.org/wiki/Medical_malpractice
 12. https://www.clinicbarcelona.org/idibaps
+13. https://www.csi.cat/ciutadans/centres/hospital-moises-broggi/es_index.php
+14. https://mossos.gencat.cat/ca/inici/
+15. http://serveisoberts.gencat.cat/equipaments/3040055
+16. https://ca.wikipedia.org/wiki/Les_Corts
+17. https://www.policia.es/
+18. https://en.wikipedia.org/wiki/Fingerprint
+19. https://en.wikipedia.org/wiki/Elbow
