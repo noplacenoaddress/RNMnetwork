@@ -32,6 +32,8 @@ More than this I've suffered:
 - A provoked incarceration for four days where a slight crime was committed but was conjectured. One night in the **Mossos** [[14]](https://mossos.gencat.cat/ca/inici/) **commissary** [[15]](http://serveisoberts.gencat.cat/equipaments/3040055) in the Barcelona district of **Les Corts** [[16]](https://ca.wikipedia.org/wiki/Les_Corts). Two nights and days in the **national police** [[17]](https://www.policia.es/) la Verneda where they take my **fingerprints** [[18]](https://en.wikipedia.org/wiki/Fingerprint), my **elbows** [[19]](https://en.wikipedia.org/wiki/Elbow) prints, and photographs of an operation derived from the incident caused. I had never been arrested.
 - Various petty thefts when I was practically living on the street with no possessions.
 
+![Operation](../Images/op.png)
+
 But the worst think is that the women that i love was sold in forced prostitution after be victim of a very heavy brainwashing technique and sadomasochist sexual slavery. 
 
 > *I love you sweetie, be careful. Don't accept drug from anyone. Take care my sun flower.* 
