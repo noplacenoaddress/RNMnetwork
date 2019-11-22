@@ -20,6 +20,8 @@ He is an assassin.
 
 *But I didn't know it. I was an ignorant. I'm so sorry Saray, I'm crying all the days. I'm so sorry sweetie. I'm so sad to not completely understand you. Sorry.* 
 
+He create a tool, what I've described as Mantis. A tool to hunt new pries of this hell network, a prostitute to satisfy special services, and a suicide actress. All of this with coercion over her baby. All of this with mental violence. All in the pyramid number four of the "Illuminati" pseudo dictatorship gain money over her body. All. And I know all of them, I'm writing this book to let my readers understand the real danger that has got a big stalker like him a the democratic society. She has been violating her for eleven years and has never even made her a sign because with the steam machine and unreal engine visual cortex injection it makes her lives the most horrible experiences full of blood pain and violent sex. In Barcelona many girls are in the same condition. No one knows how to denounce this monster. And I want to stop it. She is her slave. She needs help. 
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Sedative
