@@ -24,7 +24,7 @@ The motorbike was transported to a Honda shop. A friend of one person that I've 
 
 ![R6 ](../Images/IMG-20151211-WA0032.jpg)
 
-Nothing special at all. The problem is that this person, that is in effect one component of the "Illuminati" digital mafia, has machined that the shop close and i have to denunciate it.
+Nothing special at all. The problem is that this person, that is in effect one component of the "Illuminati" digital mafia, has machined that the shop close, they stole my bike,  and i have to denunciate it.
 
 I don't receive nothing about the accident and i was handicapped for life. People bet over my life and do money with the retransmission of the operation. 
 
