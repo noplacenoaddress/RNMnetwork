@@ -22,6 +22,22 @@ He is an assassin.
 
 He create a tool, what I've described as Mantis. A tool to hunt new pries of this hell network, a prostitute to satisfy special services, and a suicide actress. All of this with coercion over her baby. All of this with mental violence. All in the pyramid number four of the "Illuminati" pseudo dictatorship gain money over her body. All. And I know all of them, I'm writing this book to let my readers understand the real danger that has got a big stalker like him a the democratic society. She has been violating her for eleven years and has never even made her a sign because with the steam machine and unreal engine visual cortex injection it makes her lives the most horrible experiences full of blood pain and violent sex. In Barcelona many girls are in the same condition. No one knows how to denounce this monster. And I want to stop it. She is her slave. She needs help. 
 
+She is under a suicide bet vortex from about ten years. People bet and gain money over her sexuality. I listen her voice and see her in my dreams with visual cortex injection and brainwave rewrite from July of 2018. I've understand all now, she is enslaved in a house with four man taking cocaine all the day and fucking. Every Thursday she is sold to doing orgies with probably **monks** [[2]](https://en.wikipedia.org/wiki/Monk) dressed as civilians. In the network her body is sold to beasts. Her brain is divided in multi task sessions and her shape is utilized in Barcelona to induct to suicide. She has to satisfy sexual necessity of people who sell drug for this monster.
+
+I really need help. She lost the custody of her baby. I need help.  
+
+This woman is wonderful, only has sentiment in her heart and she is victim of sexual harassment from a decade. She doesn't denunciate because of her son. I'll do it for you, sorry for delay. Sorry.
+
+This is the real problem of Barcelona, a chain of death, a chain where the real purpose is sell beautiful women like Saray to special service orgies. Almost **catholic church** [[3]](https://en.wikipedia.org/wiki/Catholic_Church) related. No one have the bravery to stop this billionaire market. 
+
+*They speak about prices from 10000 Eur to 100000 Eur.* 
+
+She was threatened to go away from our house in Canyelles and join a body building trainer. Now it's three years that is heavily sold. Now she has done horrible thinks and her mind doesn't break her mental chains. Her mind doesn't understand that life goes on and that those criminals have to get jailed all. 
+
+But I will do it for you sweetie. And for your son. I love you.
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Sedative
+2. https://en.wikipedia.org/wiki/Monk
+3. https://en.wikipedia.org/wiki/Catholic_Church
