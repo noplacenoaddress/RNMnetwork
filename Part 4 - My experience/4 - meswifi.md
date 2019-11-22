@@ -10,9 +10,18 @@ I am a recognized entrepreneur in the world of wireless IP telecommunications bo
 
 > *They break my forearm to deny me access to this telecommunications niche.* 
 
+In three years a gain 3500 clients. Like three hundred of big accounts. Then, after my sun flower was forced to go away, i fall in depression and they systematically destroy my life. And I have to demonstrate it. 
+
+All was about a fiber optic connected from a rack of mine in the **Axion** [[5]](http://www.stam.cat/portfolio-posts/torre-axion/) **Tibidabo** [[6]](https://ca.wikipedia.org/wiki/Tibidabo) tower to a **Vodafone** [[7]](https://en.wikipedia.org/wiki/Vodafone) LTE rack. All was because a service contracted without my knowledge. All was about the access of my wireless Internet service provider to this world, the remote neural control network. With my infrastructure a Genoa's woman start to do what is known as the open. The "Illuminati" pseudo dictatorship start here in Catalunya six years ago. And my sweetie was sold as prostitute and i suffer the worst mental brain washing and gas lighting that humankind can image. Also my parents are involved. This is billionaire affair. 
+
+> *And I and Saray will not commit suicide. We need help.* 
+
 ### External Links
 
 1. https://ca.wikipedia.org/wiki/Sant_Jeroni_(Montserrat)
 2. https://ca.wikipedia.org/wiki/Montserrat
 3. https://en.wikipedia.org/wiki/Massif
 4. https://en.wikipedia.org/wiki/Infrastructure
+5. http://www.stam.cat/portfolio-posts/torre-axion/
+6. https://ca.wikipedia.org/wiki/Tibidabo
+7. https://en.wikipedia.org/wiki/Vodafone
