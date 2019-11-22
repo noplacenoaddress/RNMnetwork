@@ -36,6 +36,8 @@ She was threatened to go away from our house in Canyelles and join a body buildi
 
 *But I will do it for you sweetie. And for your son. I love you.*
 
+![chain breaks](../Images/depositphotos_75624997-stock-illustration-man-hands-breaking-steel-handcuffs.jpg)
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Sedative
