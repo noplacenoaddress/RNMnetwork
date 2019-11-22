@@ -34,7 +34,7 @@ This is the real problem of Barcelona, a chain of death, a chain where the real 
 
 She was threatened to go away from our house in Canyelles and join a body building trainer. Now it's three years that is heavily sold. Now she has done horrible thinks and her mind doesn't break her mental chains. Her mind doesn't understand that life goes on and that those criminals have to get jailed all. 
 
-But I will do it for you sweetie. And for your son. I love you.
+*But I will do it for you sweetie. And for your son. I love you.*
 
 ### External links 
 
