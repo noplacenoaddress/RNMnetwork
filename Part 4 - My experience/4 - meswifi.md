@@ -8,6 +8,8 @@ Above the **sant Jeroni** [[1]](https://ca.wikipedia.org/wiki/Sant_Jeroni_(Monts
 
 I am a recognized entrepreneur in the world of wireless IP telecommunications both in Spain and throughout South America. I deal with **infrastructure** [[4]](https://en.wikipedia.org/wiki/Infrastructure) in areas where large ISP do not have service. I'm also a good professor about this specific technology. But I'm also a wild nature lover. 
 
+> *The break my forearm to deny me access to this telecommunications niche.* 
+
 ### External Links
 
 1. https://ca.wikipedia.org/wiki/Sant_Jeroni_(Montserrat)
