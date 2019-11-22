@@ -6,7 +6,7 @@ Here I'm doing my job. Job that they have stole me. Job that I've created. Job w
 
 Above the **sant Jeroni** [[1]](https://ca.wikipedia.org/wiki/Sant_Jeroni_(Montserrat)) **Montserrat** [[2]](https://ca.wikipedia.org/wiki/Montserrat) **massif** [[3]](https://en.wikipedia.org/wiki/Massif) in the image above. 
 
-I am a recognized entrepreneur in the world of wireless IP telecommunications both in Spain and throughout South America. I deal with **infrastructure** [[4]](https://en.wikipedia.org/wiki/Infrastructure) in areas where large ISPs and specialized courses do not have service.
+I am a recognized entrepreneur in the world of wireless IP telecommunications both in Spain and throughout South America. I deal with **infrastructure** [[4]](https://en.wikipedia.org/wiki/Infrastructure) in areas where large ISP do not have service. I'm also a good professor about this specific technology. But I'm also a wild nature lover. 
 
 ### External Links
 
