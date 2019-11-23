@@ -40,6 +40,14 @@ She always clean herself and her baby with **wet wipes** [[5]](https://en.wikipe
 
 This is was the start of the destruction. Something provoked by a lot of people, my family also, and I and my love have been drowned in this sea of technological shit. And also who i was calling brother, but yes he is. But it's obviously something orchestrated by an enemy, she is a girl. And I know her. And, i really don't know, perhaps she likes **caiman** [[8]](https://en.wikipedia.org/wiki/Caiman). Do you know what I mean, **Nanni Moretti** [[9]](https://en.wikipedia.org/wiki/Nanni_Moretti)?
 
+#### 19 March of 2015 - she lefts me
+
+![she left me](../Images/IMG-20150319-WA0000.jpeg)
+
+And some one say to me on a social network, a cine face. And I know why, but it is B-side cine. 
+
+> *Gangstalking*
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Visionary
