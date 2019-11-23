@@ -28,18 +28,48 @@ A closed Catalan man, from the interior. A good man, a business man. Not very cu
 
 In the year 2012 i follow to work in 34Telecom and start to configure privately the WISP. At the end of the year I know Saray. In a year I've got a good patron to configure all the machines, study the correct way to install and the best method to guaranty a "work like a charm" service, secure and guarantor of privacy of my clients. The best service wireless service provider in Spain without any doubt, but also very good at European level. I've got a real good reputation in this niche market.
 
-My 
+The first service was a simple copper **VDSL** [[12]](https://en.wikipedia.org/wiki/VDSL) dynamically divided between one hundred clients in the rural zone of **Valles Occidental** [[13]](https://ca.wikipedia.org/wiki/Vall%C3%A8s_Occidental) using first the roof of a private house in a hill near the town and interconnecting roof by roof building a start type network.
+
+Then we start to connect to official towers. At north we decide to grow up with an old radio ham private tower in the town of **Caldes de Montbui** [[14]](https://ca.wikipedia.org/wiki/Caldes_de_Montbui) in the mountain of **Farell** [[15]](https://ca.wikipedia.org/wiki/Fort_Farell). Next was the **serralada de Marina** [[16]](https://ca.wikipedia.org/wiki/Serralada_de_Marina) tower in **sant Fost de Campsentelles** [[17]](https://ca.wikipedia.org/wiki/Sant_Fost_de_Campsentelles) a tower from the municipality.
+
+![sant Fost](../Images/1367578604315.jpg)
+
+Look at the summit antenna. It's for the magnetic steam machine.
 
 ### External Links
 
 1. https://ca.wikipedia.org/wiki/Sant_Jeroni_(Montserrat)
+
 2. https://ca.wikipedia.org/wiki/Montserrat
+
 3. https://en.wikipedia.org/wiki/Massif
+
 4. https://en.wikipedia.org/wiki/Infrastructure
+
 5. http://www.stam.cat/portfolio-posts/torre-axion/
+
 6. https://ca.wikipedia.org/wiki/Tibidabo
+
 7. https://en.wikipedia.org/wiki/Vodafone
+
 8. https://en.wikipedia.org/wiki/Copenhagen
+
 9. https://en.wikipedia.org/wiki/MikroTik
+
 10. https://en.wikipedia.org/wiki/Palau-solit%C3%A0_i_Plegamans
+
 11. https://en.wikipedia.org/wiki/Monopoly
+
+12. https://en.wikipedia.org/wiki/VDSL
+
+13. https://ca.wikipedia.org/wiki/Vall%C3%A8s_Occidental
+
+14. https://ca.wikipedia.org/wiki/Caldes_de_Montbui
+
+15. https://ca.wikipedia.org/wiki/Fort_Farell
+
+16. https://ca.wikipedia.org/wiki/Serralada_de_Marina
+
+17. https://ca.wikipedia.org/wiki/Sant_Fost_de_Campsentelles
+
+    
