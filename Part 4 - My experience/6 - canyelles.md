@@ -38,6 +38,8 @@ It's seems to be **Channel Five** [[3]](https://en.wikipedia.org/wiki/Canale_5) 
 
 She always clean herself and her baby with **wet wipes** [[5]](https://en.wikipedia.org/wiki/Wet_wipe), but those wipes cannot be cannot be pulled into the toilet above all because the house was not connected to **sewerage** [[6]](https://en.wikipedia.org/wiki/Sewerage) network of the town. It was a country house with a **cesspit** [[7]](https://en.wikipedia.org/wiki/Cesspit). My father when he was young fall into one. Probably this is the next one.
 
+This is was the start of the destruction. Something provoked by a lot of people, my family also, and I and my love have been drowned in this sea of technological shit. And also who i was calling brother, but yes he is. But it's obviously something orchestrated by an enemy, she is a girl. And I know her. And, i really don't know, perhaps she likes **caiman** [[8]](https://en.wikipedia.org/wiki/Caiman). Do you know what I mean, **Nanni Moretti** [[9]](https://en.wikipedia.org/wiki/Nanni_Moretti)?
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Visionary
@@ -47,3 +49,5 @@ She always clean herself and her baby with **wet wipes** [[5]](https://en.wikipe
 5. https://en.wikipedia.org/wiki/Wet_wipe
 6. https://en.wikipedia.org/wiki/Sewerage
 7. https://en.wikipedia.org/wiki/Cesspit
+8. https://en.wikipedia.org/wiki/Caiman
+9. https://en.wikipedia.org/wiki/Nanni_Moretti
