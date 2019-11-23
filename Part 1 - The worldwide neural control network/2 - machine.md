@@ -1,10 +1,10 @@
-# The Illuminati Machine
+# The remote neural monitor wave Machine
 
 ![Bjork analogue televion](../Images/bjork-tv.png)
 
 
 
-In the last chapter we speak about the target machine, a virtual system under which many clients, conscious or not, are organized in a pyramid structure. But what is exactly the machine, or **M** [[1]](https://en.wikipedia.org/wiki/M_(James_Bond))? First of all there is practically no public document speaking about, so it's like a secret or something similar, many people know about it, someone can technically explain it, but no one write about. Why? I really don't know the real reason and i strongly believe in the **open source model** [[2]](https://en.wikipedia.org/wiki/Open-source_model) and i will try here to explain what I've understand about with some background and knowledge about computer science, telecommunication, neuroscience and ham radio. 
+In the last chapter we speak about the target machine, a virtual system under which many clients, conscious or not, are organized in a pyramid structure. But what is exactly the machine, or **M** [[1]](https://en.wikipedia.org/wiki/M_(James_Bond))? First of all there is practically no public document speaking about, so it's like a secret or something similar, many people know about it, someone can technically explain it, but no one write about. Why? I really don't know the real reason and i strongly believe in the **open source model** [[2]](https://en.wikipedia.org/wiki/Open-source_model) and i will try here to explain what I've understand about with some background knowledge about computer science, telecommunication, neuroscience and ham radio. 
 
 In 1988 the Iceland artist **Björk Guðmundsdóttir** [[3]](https://en.wikipedia.org/wiki/Bj%C3%B6rk) speak about the **analog television** [[4]](https://en.wikipedia.org/wiki/Analog_television) with a fascinated voice  Here is part of her logic-defying monologue:
 
@@ -200,7 +200,21 @@ What can pass also to a woman if they put her brain into full immersion?
 
 If she is with those stalkers, that are also **rapist** [[95]](https://en.wikipedia.org/wiki/Rape), they can tie her. And then they can violate her. As many as they want. This is why i'm searching to explain to the outside world what is this network. 
 
+### Body full copy and body instances 
 
+![3D scan](../Images/vsdvsdvsdvsd.jpeg)
+
+With **3D scanning** [[96]](https://en.wikipedia.org/wiki/3D_scanning) methods it's possible to achieve the full body scan of a human in ten minutes. The data obtained by the scan are usable in augmented reality worlds. 
+
+With the radio waves Machine is possible to use those bodies connected to a real human with system nervous interaction. With this I can say that body of a victim could be utilized by another person. Also a body of a child. To aliment pederast. And this is what is passing with the administration of the "Francese".
+
+The body of my ex girlfriend was scanned and used in all the network of remote neural monitoring. 
+
+Bodies are like **instances** [[97]](https://en.wikipedia.org/wiki/Instance_(computer_science)) of a class of an **object oriented programming** [[98]](https://en.wikipedia.org/wiki/Object-oriented_programming) language. By the way the shape, the figure, is the same of the victim. What does it mean? That is sex violence. 
+
+In the data center of the synthetic telepathy network many times the body isn't government by the interaction with a real human. Many times, in routine movements like suck a dick for example, the body is moved by a program. And in many conversation in the subliminal message system the body is connected to a chatbot governed by artificial intelligence. 
+
+> *By the way, her body is raped millions of times. By the way the body is the most important secret of  a woman. And the woman that I love has lost her body in this hell. And we need justice.*
 
 # External links
 
@@ -299,4 +313,7 @@ If she is with those stalkers, that are also **rapist** [[95]](https://en.wikipe
 93. https://en.wikipedia.org/wiki/Psychiatric_hospital
 94. https://en.wikipedia.org/wiki/Unidentified_flying_object
 95. https://en.wikipedia.org/wiki/Rape
+96. https://en.wikipedia.org/wiki/3D_scanning
+97. https://en.wikipedia.org/wiki/Instance_(computer_science)
+98. https://en.wikipedia.org/wiki/Object-oriented_programming
 
