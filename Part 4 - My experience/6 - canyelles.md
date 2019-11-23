@@ -28,8 +28,17 @@ I've seen a photo of you, I've seen three hundred photos of you, I've seen your 
 
 *But I'm a **visionary** [[1]](https://en.wikipedia.org/wiki/Visionary). And they are all like zombies.*
 
+#### 27 January of 2015 - fecal water invades the ground floor
 
+![](../Images/IMG-20150127-WA0005.jpg)
 
-# External Links
+In the systematic destruction of my life the number **five** [[2]](https://en.wikipedia.org/wiki/5_(disambiguation)) it's omnipresent. 
+
+It's seems to be **Channel Five** [[3]](https://en.wikipedia.org/wiki/Canale_5) from the telecommunication monster **Mediaset** [[4]](https://en.wikipedia.org/wiki/Mediaset), but it's not possible...it's too big for me. Or not? I'm too lame...yes it's not possible ;) 
+
+### External Links
 
 1. https://en.wikipedia.org/wiki/Visionary
+2. https://en.wikipedia.org/wiki/5_(disambiguation)
+3. https://en.wikipedia.org/wiki/Canale_5
+4. https://en.wikipedia.org/wiki/Mediaset
