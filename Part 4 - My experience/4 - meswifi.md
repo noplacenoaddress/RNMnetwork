@@ -36,6 +36,10 @@ Then we start to connect to official towers. At north we decide to grow up with 
 
 Look at the summit antenna. It's for the magnetic steam machine. And other cable, this time **ethernet** [[18]](https://en.wikipedia.org/wiki/Ethernet), is culpable of all my adventure.
 
+My partner was a **plumber** [[19]](https://en.wikipedia.org/wiki/Plumber). And with his experience I start to learn something about installations. Was a good professor. And in a year I start to mount point of presence and customer premises equipment like an operator, but I was the chief, but it's so important in my opinion have a complete vision of the business. And I love it, because you stay in nature all the day. We normally do three hundred kilometers for day. So thank you Adam, and thank you Miguel. 
+
+![](../Images/20140313_162109.jpg)
+
 ### External Links
 
 1. https://ca.wikipedia.org/wiki/Sant_Jeroni_(Montserrat)
@@ -73,5 +77,7 @@ Look at the summit antenna. It's for the magnetic steam machine. And other cable
 17. https://ca.wikipedia.org/wiki/Sant_Fost_de_Campsentelles
 
 18. https://en.wikipedia.org/wiki/Ethernet
+
+19. https://en.wikipedia.org/wiki/Plumber
 
     
