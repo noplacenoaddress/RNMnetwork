@@ -34,7 +34,7 @@ Then we start to connect to official towers. At north we decide to grow up with 
 
 ![sant Fost](../Images/1367578604315.jpg)
 
-Look at the summit antenna. It's for the magnetic steam machine. And other cable, this type **ethernet** [[18]](https://en.wikipedia.org/wiki/Ethernet), is culpable of all my adventure.
+Look at the summit antenna. It's for the magnetic steam machine. And other cable, this time **ethernet** [[18]](https://en.wikipedia.org/wiki/Ethernet), is culpable of all my adventure.
 
 ### External Links
 
