@@ -1,4 +1,4 @@
-# Canyelles, my lost house
+# Canyelles, our lost house
 
 ![Canyelles](../Images/35299207_456863851422799_639551734527557632_n.jpg)
 
