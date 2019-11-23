@@ -40,6 +40,12 @@ My partner was a **plumber** [[19]](https://en.wikipedia.org/wiki/Plumber). And 
 
 ![](../Images/20140313_162109.jpg)
 
+Next was the most important one for our grow up. Sant Jeroni in Montserrat. It permit coverage on **Bages** [[20]](https://ca.wikipedia.org/wiki/Bages), **Lluçanes **[[21]](https://ca.wikipedia.org/wiki/Llu%C3%A7an%C3%A8s), **Anoia** [[22]](https://ca.wikipedia.org/wiki/Anoia), **Moianes** [[23]](https://ca.wikipedia.org/wiki/Moian%C3%A8s), **Alt Penedes** [[24]](https://ca.wikipedia.org/wiki/Alt_Pened%C3%A8s), **Llobregat** [[25]](https://ca.wikipedia.org/wiki/Llobregat). We go up the mountain with forty kilograms of goods every one. I do this fantastic walk like thirty times. Was like a dream, work but doing a mountain trip. And they stole it from me. 
+
+> *They stole my dreams. And with the steam machine they write my dreams. They have to be stopped.* 
+
+![nature](../Images/11659220_10207247886218020_6564094909592538389_n.jpg)
+
 ### External Links
 
 1. https://ca.wikipedia.org/wiki/Sant_Jeroni_(Montserrat)
@@ -79,5 +85,17 @@ My partner was a **plumber** [[19]](https://en.wikipedia.org/wiki/Plumber). And 
 18. https://en.wikipedia.org/wiki/Ethernet
 
 19. https://en.wikipedia.org/wiki/Plumber
+
+20. https://ca.wikipedia.org/wiki/Bages
+
+21. https://ca.wikipedia.org/wiki/Llu%C3%A7an%C3%A8s
+
+22. https://ca.wikipedia.org/wiki/Anoia
+
+23. https://ca.wikipedia.org/wiki/Moian%C3%A8s
+
+24. https://ca.wikipedia.org/wiki/Alt_Pened%C3%A8s
+
+25. https://ca.wikipedia.org/wiki/Llobregat
 
     
