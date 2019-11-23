@@ -48,6 +48,26 @@ This is our lost terrace. Here we made love. And some one say to me on a social 
 
 > *Gangstalking*
 
+#### 22 December 2015 - a lighting strike that had to destroy all
+
+![lighting strike](../Images/6RFGJ2F65QI6TFEGIBWI6S7HAY.jpg)
+
+Incredible, remember that this chapter it's only about our house. But all in this part it's about destructions. About personal **apocalypse** [[10]](https://en.wikipedia.org/wiki/Apocalyptic_literature). But the real name it's another, I call this *digital mafia*. And yes with this lighting strike exactly over our house, incredible, all the technology was totally destroyed. And i had an accident, she left me, and so on. 
+
+No. This is not causality. This is **attempted murder** [[11]](https://en.wikipedia.org/wiki/Attempted_murder).
+
+But I've got **surge protectors** [[12]](https://en.wikipedia.org/wiki/Surge_protector), I've lost those goods:
+
+- A big flat television.
+- Some security cameras.
+- A satellite receiver.
+- An electric water **pump** [[13]](https://en.wikipedia.org/wiki/Pump).
+- A diesel boiler.
+- A television signal amplifier and splitter.
+- A **hot tub** [[14]](https://en.wikipedia.org/wiki/Hot_tub).
+
+And i was a **surrenderer** [[15]](https://en.wikipedia.org/wiki/Surrender_(law)) with a private contract, and the owner had no **insurance** [[16]](https://en.wikipedia.org/wiki/Insurance). And the house begin to decline.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Visionary
@@ -59,3 +79,10 @@ This is our lost terrace. Here we made love. And some one say to me on a social 
 7. https://en.wikipedia.org/wiki/Cesspit
 8. https://en.wikipedia.org/wiki/Caiman
 9. https://en.wikipedia.org/wiki/Nanni_Moretti
+10. https://en.wikipedia.org/wiki/Apocalyptic_literature
+11. https://en.wikipedia.org/wiki/Attempted_murder
+12. https://en.wikipedia.org/wiki/Surge_protector
+13. https://en.wikipedia.org/wiki/Pump
+14. https://en.wikipedia.org/wiki/Hot_tub
+15. https://en.wikipedia.org/wiki/Surrender_(law)
+16. https://en.wikipedia.org/wiki/Insurance
