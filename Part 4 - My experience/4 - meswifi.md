@@ -46,6 +46,18 @@ Next was the most important one for our grow up. Sant Jeroni in Montserrat. It p
 
 ![nature](../Images/11659220_10207247886218020_6564094909592538389_n.jpg)
 
+And we continue to grow up with many others point of presence. And we start to invoice like four millions of Eur, legally. This is a great amount of money. And we do only with fifteen thousand Eur of initial inversion. Nothing at all. We do a great job.
+
+After Saray go out from our house I've got a very bad period, but was all provoked by the neural control network dudes. And I don't know nothing at all. I start go in depression. But I continue to work. 
+
+On the summer of 2016 my depression go out and I start to have vacations, prolonged this the true. But it was to wake up from a bad depression moment. So I decide to live the life. Night style and so on because i love it from when I was a child. It's not a secret but it's not a crime. And I was the chief and the business still goes on without problems.
+
+But something start to be wrong with my associate and he starts when i was out, and obviously from practically the first year that we start, to plot against me with the support of the same man that i speak about in the chapter thirteen of the first part, the blood brother of i was calling as brother. He starts to plot with Italians from my same city, Genoa. And he starts to plot, this is incredible, with my parents. Incredible. My mother mostly. She is totally guilty. He starts to plot with this man that connect him in a Lions club party where I also participate, but I don't know nothing at all, with the stupid little bitch of the "Illuminati" pseudo dictatorship. A game of the telecommunications lobby. A game where has died a lot of persons in Barcelona committing suicide. 
+
+> *Her nickname in subliminal voice chat, in the remote neural control network is "Francese".*
+
+
+
 ### External Links
 
 1. https://ca.wikipedia.org/wiki/Sant_Jeroni_(Montserrat)
