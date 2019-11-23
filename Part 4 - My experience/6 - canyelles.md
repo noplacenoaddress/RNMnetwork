@@ -36,9 +36,14 @@ In the systematic destruction of my life the number **five** [[2]](https://en.wi
 
 It's seems to be **Channel Five** [[3]](https://en.wikipedia.org/wiki/Canale_5) from the telecommunication monster **Mediaset** [[4]](https://en.wikipedia.org/wiki/Mediaset), but it's not possible...it's too big for me. Or not? I'm too lame...yes it's not possible ;) 
 
+She always clean herself and her baby with **wet wipes** [[5]](https://en.wikipedia.org/wiki/Wet_wipe), but those wipes cannot be cannot be pulled into the toilet above all because the house was not connected to **sewerage** [[6]](https://en.wikipedia.org/wiki/Sewerage) network of the town. It was a country house with a **cesspit** [[7]](https://en.wikipedia.org/wiki/Cesspit). My father when he was young fall into one. Probably this is the next one.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Visionary
 2. https://en.wikipedia.org/wiki/5_(disambiguation)
 3. https://en.wikipedia.org/wiki/Canale_5
 4. https://en.wikipedia.org/wiki/Mediaset
+5. https://en.wikipedia.org/wiki/Wet_wipe
+6. https://en.wikipedia.org/wiki/Sewerage
+7. https://en.wikipedia.org/wiki/Cesspit
