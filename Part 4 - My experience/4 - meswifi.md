@@ -56,7 +56,9 @@ But something start to be wrong with my associate and he starts when i was out, 
 
 > *Her nickname in subliminal voice chat, in the remote neural control network is "Francese".*
 
+![A military ship](../Images/MM_Luigi_Durand_de_la_Penne_D560.jpg)
 
+This **destroyer** [[26]](https://en.wikipedia.org/wiki/Destroyer) has got her surname. It's from the **Italian Navy** [[27]](https://en.wikipedia.org/wiki/Italian_Navy). Search it in Wikipedia! Spread the world.
 
 ### External Links
 
@@ -109,5 +111,9 @@ But something start to be wrong with my associate and he starts when i was out, 
 24. https://ca.wikipedia.org/wiki/Alt_Pened%C3%A8s
 
 25. https://ca.wikipedia.org/wiki/Llobregat
+
+26. https://en.wikipedia.org/wiki/Destroyer
+
+27. https://en.wikipedia.org/wiki/Italian_Navy
 
     
