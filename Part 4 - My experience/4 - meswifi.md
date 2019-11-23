@@ -34,7 +34,7 @@ Then we start to connect to official towers. At north we decide to grow up with 
 
 ![sant Fost](../Images/1367578604315.jpg)
 
-Look at the summit antenna. It's for the magnetic steam machine.
+Look at the summit antenna. It's for the magnetic steam machine. And other cable, this type **ethernet** [[18]](https://en.wikipedia.org/wiki/Ethernet), is culpable of all my adventure.
 
 ### External Links
 
@@ -71,5 +71,7 @@ Look at the summit antenna. It's for the magnetic steam machine.
 16. https://ca.wikipedia.org/wiki/Serralada_de_Marina
 
 17. https://ca.wikipedia.org/wiki/Sant_Fost_de_Campsentelles
+
+18. https://en.wikipedia.org/wiki/Ethernet
 
     
