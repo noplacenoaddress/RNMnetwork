@@ -44,7 +44,7 @@ This is was the start of the destruction. Something provoked by a lot of people,
 
 ![she left me](../Images/IMG-20150319-WA0000.jpeg)
 
-And some one say to me on a social network, a cine face. And now I know why, but it is B-side cine. 
+This is our lost terrace. Here we made love. And some one say to me on a social network, a cine face. And now I know why, but it is B-side cine. 
 
 > *Gangstalking*
 
