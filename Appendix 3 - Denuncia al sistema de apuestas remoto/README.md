@@ -1,0 +1,2 @@
+Esta vez en Castellano. Un resumen de todo lo que me ha pasado para denunciar entero el sistema de apuestas de lo cual soy victima y romper la cadena que ha arruinado la vida a practicamente todos mis amigos.
+Os quiero aunqué no habéis sabido romper con este delito gravisimo. Saray deja de ganar con mi polla, hazme el favor. Gracias. Porqué la semana de tu cumpleaños denuncio al 100%. Me la suda que estás con Javi. Un besitoooo
