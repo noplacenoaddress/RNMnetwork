@@ -16,13 +16,18 @@ I've seen a photo of you, I've seen three hundred photos of you, I've seen your 
 
 ### A chronological history of disasters 
 
+![the cold Europe, moon of Jupiter](../Images/800px-Europa-moon-with-margins.jpg)
+
 We was happy, but she was nervous. But sometimes she lets her soul see. And she was not what people thought about her. She was, and is, who I love. Full stop. But there's something more, something that overshadow her being a woman, something from which she escaped. Something she needed to scream for help.
 
 And now i know what is. This chain of suicides and provoked familiar disasters. The Catalan remote parimutuel  betting system. The remote neural control network. The synthetic telepathy network. The destroy of our democracy. A system where she is a protagonist, where she is a victim. A system where they use her body and violate her soul. But she didn't tell me. She was afraid of. And she escapes.
 
-After that they take me all my bikes and my cars i don't know how to move from my house that was five kilometers from the first bus stop. 
+She lets myself see the truth through gestures that are difficult to understand. But my ignorance only made me cry. I was and I'm very ignorant. And she is very complex, articulated and I want to let she stops  living in different abstraction plans possible through the use of this machine. And be a happy woman. I think happiness is simple. I think happiness is walking along the dew of a meadow to the rise of a warm sun. 
+
+They build abstraction plan to create human machines. Human machines that are able to induct to suicide another human. Human machines that bet over the life of another.  Why? Image this to a vast scale. If apply to an entire continent, like Europe, could destroy the continent step by step. And this is what is passing to our country. They are fomenting the return of fascism. False promises to help destroyed soul. Millions of deaths for alimenting the war industry.
+
+But I'm a **visionary** [[1]](https://en.wikipedia.org/wiki/Visionary). And they are all like zombies.
 
 # External Links
 
-1. https://en.wikipedia.org/wiki/Star_wars
-2. https://en.wikipedia.org/wiki/One-upmanship
+1. https://en.wikipedia.org/wiki/Visionary
