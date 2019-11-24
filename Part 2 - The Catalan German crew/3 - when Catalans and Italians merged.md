@@ -12,49 +12,54 @@ Like I've already said guifi is based upon Mikrotik. The stupid little purple bi
   https://www.andorratelecom.ad) **6752** [[12]](https://www.peeringdb.com/net/14854)
 - **Claranet** [[13]](http://www.clara.net) **8426** [[14]](https://www.peeringdb.com/net/116)
 - **Cloudfare** [[15]](https://www.cloudflare.com) **13335**  [[16]](https://www.peeringdb.com/net/4224)
-- Google LLC
-- Microsoft
-- Orange Spain
-- RedIRIS
-- RIPE NCC
-- Hurricane Electric
-- ISC
-- T-Systems
-- Telefonica de España
-- VeriSign
+- **Google LLC** [[17]](https://about.google/intl/en/) **15169** [[18]](https://www.peeringdb.com/net/433)
+- **Microsoft** [[19]](https://www.microsoft.com/nl-nl/)  **8075** [[20]](https://www.peeringdb.com/net/694)
+- **Orange Spain** [[21]](https://www.peeringdb.com/net/11902) **11902** [[22]](https://www.peeringdb.com/net/11902)
+- **RedIRIS** [[23]](https://www.peeringdb.com/net/2813) **766** [[24]](https://www.peeringdb.com/net/2813)
+- **RIPE NCC** [[25]](https://stat.ripe.net/widget/looking-glass) **12654** [[26]](https://www.peeringdb.com/net/621)
+- **Hurricane Electric** [[27]](http://lg.he.net) **6939** [[28]](https://www.peeringdb.com/net/291)
+- **ISC** [[29]](https://www.isc.org) **1280** [[30]](https://www.peeringdb.com/net/1111)
+- **T-Systems** [[31]](https://www.t-systems.es) **30892** [[32]](https://www.peeringdb.com/net/10653)
+- **Telefonica de España** [[33]](http://www.telefonica.es/) **3352** [[34]](https://www.peeringdb.com/net/12709)
+- **VeriSign** [[35]](http://www.verisign.com/rirs) **26415** [[36]](https://www.peeringdb.com/net/9897)
+
+
 
 ### External links
 
 1. https://en.wikipedia.org/wiki/B.A.T.M.A.N.
-
 2. https://en.wikipedia.org/wiki/Open_Shortest_Path_First
-
 3. https://en.wikipedia.org/wiki/Border_Gateway_Protocol
-
 4. https://www.inetdaemon.com/tutorials/internet/ip/routing/bgp/autonomous_system_number.shtml
-
 5. https://www.peeringdb.com/asn/49835
-
 6. https://www.catnix.net/
-
 7. https://en.wikipedia.org/wiki/Internet_exchange_point
-
 8. http://www.adamo.es
-
 9. https://www.peeringdb.com/net/1989
-
 10. http://www.espanix.net
-
 11. https://www.andorratelecom.ad
-
 12. https://www.peeringdb.com/net/14854
-
 13. http://www.clara.net
-
 14. https://www.peeringdb.com/net/116
-
 15. https://www.cloudflare.com
-
 16. https://www.peeringdb.com/net/4224
-
-    
+17. https://about.google/intl/en/
+18. https://www.peeringdb.com/net/433
+19. https://www.microsoft.com/nl-nl/
+20. https://www.peeringdb.com/net/694
+21. https://www.orange.es/
+22. https://www.peeringdb.com/net/11902
+23. http://www.rediris.es
+24. https://www.peeringdb.com/net/2813
+25. https://stat.ripe.net/widget/looking-glass
+26. https://www.peeringdb.com/net/621
+27. http://lg.he.net
+28. https://www.peeringdb.com/net/291
+29. https://www.isc.org
+30. https://www.peeringdb.com/net/1111
+31. https://www.t-systems.es
+32. https://www.peeringdb.com/net/10653
+33. www.telefonica.es
+34. https://www.peeringdb.com/net/12709
+35. http://www.verisign.com/rirs
+36. https://www.peeringdb.com/net/9897
