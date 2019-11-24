@@ -52,13 +52,25 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 
 ![Salesia Badalona](../Images/photo-2579-normal.jpg)
 
-Women that captured with the Machine in reality are sold. They call this special service and it costs thousands of current money, euro, probably transferred to Andorran bank accounts. 
+Women that captured with the Machine in reality are sold and also them babies. They call this special service and it costs thousands of current money, euro, probably transferred to Andorran bank accounts. 
 
 Those pigs buy womans, that in reality are not prostitute but are brainwash victims and then constrained by the radio waves machine with pain and with coercion, for horrible services including **coprophagia** [[17]](https://en.wikipedia.org/wiki/Coprophagia) and others bestiality. 
 
 They use to drugs them with stimulants like **dopamine** [[18]](https://psychonautwiki.org/wiki/Dopamine), **hallucinogens** [[19]](https://psychonautwiki.org/wiki/Hallucinogens) and **dissociative** [[20]](https://psychonautwiki.org/wiki/Dissociative) like **ketamine** [[21]](https://psychonautwiki.org/wiki/Ketamine).    
 
-> *In this method in Catalunya have dead thousand of people including the wife of a man that i know. And my ex girlfriend has suffered sexual harassment and violence for three years.*
+> *In this method in Catalunya have dead thousand of people including the wife of a man that i know. And my ex girlfriend has suffered sexual harassment and violence for three years, and also her baby.*
+
+### The saint Antony chain of suicide
+
+![Chain of sant'Antoni](../Images/76678353_10221426968366212_6830992437423374336_o.jpg)
+
+All of those goods are related to a **chain of saint Antoni** [[22]](https://it.wikipedia.org/wiki/Catena_di_sant%27Antonio) translated to the humans in a suicide induction a bet version. Saint Antoni was object of popular **catholic devotion** [[23]](https://en.wikipedia.org/wiki/Catholic_devotions). In computer science when someone receive a mail of a **chain letter** [[24]](https://en.wikipedia.org/wiki/Chain_letter) if he is an ignorant eh would resend it to all is contacts like the same mail asks. Normally a chain letter contain an **hoax** [[25]](https://en.wikipedia.org/wiki/Hoax) or a **confidence trick** [[26]](https://en.wikipedia.org/wiki/Confidence_trick) or a **virus** [[27]](https://en.wikipedia.org/wiki/Computer_virus) like the old **ILOVEYOU** [[28]](https://en.wikipedia.org/wiki/ILOVEYOU). Was an infect method utilized in the **1990s** [[29]](https://en.wikipedia.org/wiki/1990s). 
+
+This is how works the suicide bet chain in Catalunya, and yes it's church related. And yes the "Illuminati" digital mafia base their revenue in this shit and another like drug market, prostitution and so on. But this is one of the most important profound for them. 
+
+1. The chain has started many years ago, with who I call the butcher and probably others. But probably this was also a problem when he was a child and he is also a victim. But I don't know. He start to find beautiful girl with the steam machine that simply enjoy them family and enjoy sex. Beauties of nature. Or little girls son of drug addicted or thieves or frequent visitors of the phenomenon **Ruta Destroy** [[30]](https://ca.wikipedia.org/wiki/Ruta_Destroy). In reality in Spain is very common because of poverty and because of very recent **Francoism** [[31]](https://en.wikipedia.org/wiki/Francoist_Spain#Francoism). Who came in Spain to fish? The son of a military family based in Genoa, Italy. The city where i born. A person that came with me at primary school. This is an international scandal. This girls work for a rotten brunch of the Catholic church. 
+2. When  a woman fall in this chain start to be sold as prostitute, have to destroy families, loses custody of his son, fall in heavy drug addiction. When a woman fall in this chain it's very common that commit suicide. Those who not commit suicide, like the woman that I'm love to, become the mantis tool the I've speak before.
+3. When a man fall in this chain, suffer mental brain washing, can fall in heavy drug addiction, become a low level drug seller like who I'm calling brother, and become the pig tool.
 
 ### External links
 
@@ -83,3 +95,13 @@ They use to drugs them with stimulants like **dopamine** [[18]](https://psychona
 19. https://psychonautwiki.org/wiki/Hallucinogens
 20. https://psychonautwiki.org/wiki/Dissociative
 21. https://psychonautwiki.org/wiki/Ketamine
+22. https://it.wikipedia.org/wiki/Catena_di_sant%27Antonio
+23. https://en.wikipedia.org/wiki/Catholic_devotions
+24. https://en.wikipedia.org/wiki/Chain_letter
+25. https://en.wikipedia.org/wiki/Hoax
+26. https://en.wikipedia.org/wiki/Confidence_trick
+27. https://en.wikipedia.org/wiki/Computer_virus
+28. https://en.wikipedia.org/wiki/ILOVEYOU
+29. https://en.wikipedia.org/wiki/1990s
+30. https://ca.wikipedia.org/wiki/Ruta_Destroy
+31. https://en.wikipedia.org/wiki/Francoist_Spain#Francoism
