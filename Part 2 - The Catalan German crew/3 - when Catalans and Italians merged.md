@@ -1,16 +1,60 @@
-# The Catalan wireless free network
+# The meeting in Arago, Barcelona
 
-![Streaming audio](/home/taglio/Work/killernetworks/Images/streamingaudio.png)
+![Guifi network](../Images/guifi-net.png)
 
-This Catalan network is radio wave terrestrial based. Low latency and good performances. All open source based and open hardware. A great job but full of crimes. And some services can be utilized by rapists. It's embedded in the **guifi.net** [[1]](https://en.wikipedia.org/wiki/Guifi.net) network, a great project. Full of great people that interconnect via wi-fi, **Mikrotik** [[2]](https://en.wikipedia.org/wiki/MikroTik) and **Ubiquiti** [[3]](https://en.wikipedia.org/wiki/Ubiquiti_Networks) based, various nodes. It's a **layer 3** [[4]](https://en.wikipedia.org/wiki/Network_layer) **ospf** [[5]](https://en.wikipedia.org/wiki/Open_Shortest_Path_First), **mpls** [[6]](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching), **vpls** [[7]](https://en.wikipedia.org/wiki/Virtual_Private_LAN_Service) switched **MAN network** [[8]](https://en.wikipedia.org/wiki/Metropolitan_area_network). A free network, something incredible and very good administrated. A nice work. I was the owner of something similar but commercial. A wireless Internet service provider. 
+This is the network graph of guifi.net. A wireless routed layer three network. **B.A.T.M.A.N.** [[1]](https://en.wikipedia.org/wiki/B.A.T.M.A.N.) routing protocol is active, but also **OSPF** [[2]](https://en.wikipedia.org/wiki/Open_Shortest_Path_First) and **BGP** [[3]](https://en.wikipedia.org/wiki/Border_Gateway_Protocol). 
 
-Why i defined it full of crimes? Because the low security level that bind the **RouterOS** [[9]](https://mikrotik.com/software) system operative. Look at those remote exploit:
+Like I've already said guifi is based upon Mikrotik. The stupid little purple bitch, a telecommunications entrepreneur in France, a daughter of military family in Italy, an hacker of systems and people in Spain and a terrorist in the world have used a public exploit to gain access in this free  network. The problem is that this free network has got a **BGP autonomous system number** [[4]](https://www.inetdaemon.com/tutorials/internet/ip/routing/bgp/autonomous_system_number.shtml). The primary exchange ASN is **49835** [[5]](https://www.peeringdb.com/asn/49835), the data center is the **Catalunya neutral Internet exchange** [[6]](https://www.catnix.net/). In the same **IXP** [[7]](https://en.wikipedia.org/wiki/Internet_exchange_point) there is others very important connections:
 
-1. https://www.exploit-db.com/exploits/45578
-2. https://www.exploit-db.com/exploits/46444
-3. https://www.exploit-db.com/exploits/44290
-4. https://www.exploit-db.com/exploits/44284
+- **Adamo** [[8]](http://www.adamo.es) **35699** [[9]](https://www.peeringdb.com/net/1989)
+  - **ESPANIX** [[10]](http://www.espanix.net) 
+- **Andorra Telecom** [[11]](
+  https://www.andorratelecom.ad) **6752** [[12]](https://www.peeringdb.com/net/14854)
+- **Claranet** [[13]](http://www.clara.net) **8426** [[14]](https://www.peeringdb.com/net/116)
+- **Cloudfare** [[15]](https://www.cloudflare.com) **13335**  [[16]](https://www.peeringdb.com/net/4224)
+- Google LLC
+- Microsoft
+- Orange Spain
+- RedIRIS
+- RIPE NCC
+- Hurricane Electric
+- ISC
+- T-Systems
+- Telefonica de España
+- VeriSign
 
-Because of the nature of this router system operative, you can find it also in **BGP** [[10]](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) gateways, it's totally insane put it on those machines so important. Five years ago in Catalunya there was an hacker attack that have changed all. It seems to be impossible, but yes it is. 
+### External links
 
-"Illuminati" synthetic telepathy network hackers has illegally owned the guifi.net subliminal voice services and others services utilized by not so many Catalans hackers. With those access they have digitally violated a lot of Catalans womans. They have copy the technology of the Catalans, subliminal voice and visual cortex injection, and put them onto satellite creating a monster that is changing that will do it more and more Europe. A global mass surveillance system and a global brain washing system. Active upon our heads and the heads of our babies.
+1. https://en.wikipedia.org/wiki/B.A.T.M.A.N.
+
+2. https://en.wikipedia.org/wiki/Open_Shortest_Path_First
+
+3. https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+
+4. https://www.inetdaemon.com/tutorials/internet/ip/routing/bgp/autonomous_system_number.shtml
+
+5. https://www.peeringdb.com/asn/49835
+
+6. https://www.catnix.net/
+
+7. https://en.wikipedia.org/wiki/Internet_exchange_point
+
+8. http://www.adamo.es
+
+9. https://www.peeringdb.com/net/1989
+
+10. http://www.espanix.net
+
+11. https://www.andorratelecom.ad
+
+12. https://www.peeringdb.com/net/14854
+
+13. http://www.clara.net
+
+14. https://www.peeringdb.com/net/116
+
+15. https://www.cloudflare.com
+
+16. https://www.peeringdb.com/net/4224
+
+    
