@@ -23,7 +23,9 @@ Like I've already said guifi is based upon Mikrotik. The stupid little purple bi
 - **Telefonica de España** [[33]](http://www.telefonica.es/) **3352** [[34]](https://www.peeringdb.com/net/12709)
 - **VeriSign** [[35]](http://www.verisign.com/rirs) **26415** [[36]](https://www.peeringdb.com/net/9897)
 
+In the Orange network but also probably in the Telefonica one hackers gain access to the LTE towers and the passive scanning system for brain waves. The ones that are stimulated by the satellite in 3GHz. Like we've seen. 
 
+All the customers premise equipments of Telefonica in FTTH mount the CPE Wan Management Protocol **TR-069** [[37]](https://en.wikipedia.org/wiki/TR-069) **soap** [[38]](https://en.wikipedia.org/wiki/SOAP) based message system with the data center to them. And there is a **public vulnerability** [[39]](https://www.defcon.org/images/defcon-22/dc-22-presentations/Tal/DEFCON-22-Shahar-TaI-I-hunt-TR-069-admins-UPDATED.pdf), simple to use to exploit the client hardware. Movistar equipment got three VLANS 2 voice 3 iptv and 6 data. PPPoE daemon in the FTTH movistar network serve dynamic public ips over an virtual encapsulation with a maximum transfer unit of 1500  - 8 bytes with vlan tag number 2. CWMP daemon it's opened by default over that vlan and got an access list with default permissions on deny and accept only a range of public ip from the same provider. Those people with BGP Hijacking have hoped from AS 
 
 ### External links
 
@@ -63,3 +65,6 @@ Like I've already said guifi is based upon Mikrotik. The stupid little purple bi
 34. https://www.peeringdb.com/net/12709
 35. http://www.verisign.com/rirs
 36. https://www.peeringdb.com/net/9897
+37. https://en.wikipedia.org/wiki/TR-069
+38. https://en.wikipedia.org/wiki/SOAP
+39. https://www.defcon.org/images/defcon-22/dc-22-presentations/Tal/DEFCON-22-Shahar-TaI-I-hunt-TR-069-admins-UPDATED.pdf
