@@ -90,7 +90,9 @@ Let's analyze this radical transformation that can occur in a mind because the w
 
 ![female Doe](../Images/tumblr_m6vugwifZg1r90rkno1_500.jpg)
 
-### External links
+
+
+### External links		
 
 1. https://en.wikipedia.org/wiki/Genuflection
 
