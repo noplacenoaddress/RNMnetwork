@@ -86,6 +86,10 @@ Let's analyze this radical transformation that can occur in a mind because the w
 3. The stalker got access to the "Machine" of the network. With this radio waves machine he can masturbate continuously the victim. Using the reproductive system over excitement described on chapter one. Also using dream injection the stalker can provoke that the victim fall in love with him, creating a psychological dependency with one's executioner, the **Stockholm syndrome** [[26]](https://en.wikipedia.org/wiki/Stockholm_syndrome). Day by day the stalker became the master of the victim something similar to what we find in BDSM ambients.
 4. Women got many times the same weak point, that is not a weak point but if you're stalked yes it is, child. The insanity that is present in this network is enormous. I've listen to the owner to menace a lot of women, mi ex girlfriend also, to violate them child, and she has done it! With this threat women became very vulnerable. They start to oblige them to have bigger and bigger orgies, so they lose the limit of sexual violence. And this is another very important step in the forge of a human mantis tool. The other point where is possible to force the mind of a person is the job. If the girl live alone and cannot ask help to her family, the stalker could menace people that work with her to create an hostile work ambient or worst could create what is called as **workplace harassment** [[27]](https://en.wikipedia.org/wiki/Workplace_harassment).
 
+### Girls full of love, John Doe.
+
+![female Doe](../Images/tumblr_m6vugwifZg1r90rkno1_500.jpg)
+
 # External links
 
 1. https://en.wikipedia.org/wiki/Genuflection
