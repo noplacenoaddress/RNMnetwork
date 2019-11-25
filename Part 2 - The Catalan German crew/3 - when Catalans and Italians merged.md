@@ -29,7 +29,7 @@ All the customers premise equipments of Telefonica in FTTH mount the CPE Wan Man
 
 https://github.com/noplacenoaddress/RouterOS/blob/master/movistar.rsc
 
-PPPoE daemon in the FTTH movistar network serve dynamic public. CWMP daemon it's opened by default over virtual lan 2 and got an **access control list** [[41]](https://en.wikipedia.org/wiki/Access-control_list) with default permissions on deny and accept only a range of public ip from the same provider. Those people with **BGP Hijacking** [[42]](https://en.wikipedia.org/wiki/BGP_hijacking) have hoped from AS 49835 to various more. 1280 could significance a very dangerous **dns cache poisoning** [[43]](https://en.wikipedia.org/wiki/DNS_spoofing), 6752 the thief of bank accounts of big facilities, 3352  and 11902 construction of an enormous ddosnet and thief of social network profiles but also access to the passive scanning embedded on the mobile towers.
+PPPoE daemon in the FTTH movistar network serve dynamic public. CWMP daemon it's opened by default over virtual lan 2 and got an **access control list** [[41]](https://en.wikipedia.org/wiki/Access-control_list) with default permissions on deny and accept only a range of public ip from the same provider. Those people with **BGP Hijacking** [[42]](https://en.wikipedia.org/wiki/BGP_hijacking) have hoped from AS 49835 to various more. 1280 could significance a very dangerous **dns cache poisoning** [[43]](https://en.wikipedia.org/wiki/DNS_spoofing), 6752 the thief of bank accounts of big facilities, 3352  and 11902 construction of an enormous ddosnet and thief of social network profiles but also access to the passive scanning embedded on the mobile towers. With 6939 they could have build a ddos net using **IPv6** [[44]](https://en.wikipedia.org/wiki/IPv6), a tool that could have been used, a tool that have created a person that I know from IRCNnet in the 1990s, is **ipv6fuck** [[45]](https://github.com/noplacenoaddress/Hacking/blob/master/ipv6fuck.c). 
 
 ### External links
 
@@ -76,3 +76,5 @@ PPPoE daemon in the FTTH movistar network serve dynamic public. CWMP daemon it's
 41. https://en.wikipedia.org/wiki/Access-control_list
 42. https://en.wikipedia.org/wiki/BGP_hijacking
 43. https://en.wikipedia.org/wiki/DNS_spoofing
+44. https://en.wikipedia.org/wiki/IPv6
+45. https://github.com/noplacenoaddress/Hacking/blob/master/ipv6fuck.c
