@@ -57,7 +57,16 @@ Those are the pains:
 
 The last point is what is break under remote neural control networks. And obviously the pain will be the maximum because for example in my case its two years that I'm below this crime in active, with subliminal voice service activated, and many years more in silent mode, or in **hide** [[24]](https://www.thesaurus.com/browse/hide) like i call it.
 
+### How to hit the steam machine
 
+![European flag](../Images/78053672_10221385490689296_5701298094478458880_o.jpg)
+
+Steam machine create a magnetic field with two analogs very powerful radio and ferrite or magnetic loop antennas. Like we've already seen. In the European Union laws electromagnetic field are regulated not speaking about outside environment but speaking about **occupational hazards** [[25]](https://en.wikipedia.org/wiki/Occupational_hazard). The same normative I think that can be applied without any problems because of the extent field provoke health diseases to all the Catalans, not only to who are connected to the remote neural monitoring network. People with for example some mechanical bypass, people that have suffered a **bypass surgery** [[26]](https://en.wikipedia.org/wiki/Bypass_surgery) could be killed in remote with this technology.
+
+1. **Directive 2013/35/EU** [[27]](https://drive.google.com/drive/folders/1RS0fwU8V0e3iu2SyuLtiXFiiR8bJ7_In)
+2. **The Control of Electromagnetic Fields at Work Regulations 2016** [[28]](https://drive.google.com/drive/folders/1RS0fwU8V0e3iu2SyuLtiXFiiR8bJ7_In)
+
+Another consideration that it can be applied about those magnetic field is that are military technology. Those fields are created in battle sites. But Catalunya isn't in a war environment. I really don't know if there is some law that protect civilians by the use of this telecommunications extreme invasive technology.
 
 ### External links
 
@@ -108,5 +117,13 @@ The last point is what is break under remote neural control networks. And obviou
 23. https://en.wikipedia.org/wiki/Judgement
 
 24. https://www.thesaurus.com/browse/hide
+
+25. https://en.wikipedia.org/wiki/Occupational_hazard
+
+26. https://en.wikipedia.org/wiki/Bypass_surgery
+
+27. https://drive.google.com/drive/folders/1RS0fwU8V0e3iu2SyuLtiXFiiR8bJ7_In
+
+28. https://drive.google.com/drive/folders/1RS0fwU8V0e3iu2SyuLtiXFiiR8bJ7_In
 
     
