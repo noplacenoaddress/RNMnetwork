@@ -25,7 +25,11 @@ Like I've already said guifi is based upon Mikrotik. The stupid little purple bi
 
 In the Orange network but also probably in the Telefonica one hackers gain access to the LTE towers and the passive scanning system for brain waves. The ones that are stimulated by the satellite in 3GHz. Like we've seen. 
 
-All the customers premise equipments of Telefonica in FTTH mount the CPE Wan Management Protocol **TR-069** [[37]](https://en.wikipedia.org/wiki/TR-069) **soap** [[38]](https://en.wikipedia.org/wiki/SOAP) based message system with the data center to them. And there is a **public vulnerability** [[39]](https://www.defcon.org/images/defcon-22/dc-22-presentations/Tal/DEFCON-22-Shahar-TaI-I-hunt-TR-069-admins-UPDATED.pdf), simple to use to exploit the client hardware. Movistar equipment got three VLANS 2 voice 3 iptv and 6 data. PPPoE daemon in the FTTH movistar network serve dynamic public ips over an virtual encapsulation with a maximum transfer unit of 1500  - 8 bytes with vlan tag number 2. CWMP daemon it's opened by default over that vlan and got an access list with default permissions on deny and accept only a range of public ip from the same provider. Those people with BGP Hijacking have hoped from AS 
+All the customers premise equipments of Telefonica in FTTH mount the CPE Wan Management Protocol **TR-069** [[37]](https://en.wikipedia.org/wiki/TR-069) **soap** [[38]](https://en.wikipedia.org/wiki/SOAP) based message system with the data center to them. And there is a **public vulnerability** [[39]](https://www.defcon.org/images/defcon-22/dc-22-presentations/Tal/DEFCON-22-Shahar-TaI-I-hunt-TR-069-admins-UPDATED.pdf), simple to use to exploit the client hardware. Movistar equipment got three **virtual lan** [[40]](https://en.wikipedia.org/wiki/Virtual_LAN), 2 voice 3 iptv and 6 data. This is the configuration of a router with an ONT:
+
+https://github.com/noplacenoaddress/RouterOS/blob/master/movistar.rsc
+
+PPPoE daemon in the FTTH movistar network serve dynamic public. CWMP daemon it's opened by default over virtual lan 2 and got an **access control list** [[41]](https://en.wikipedia.org/wiki/Access-control_list) with default permissions on deny and accept only a range of public ip from the same provider. Those people with **BGP Hijacking** [[42]](https://en.wikipedia.org/wiki/BGP_hijacking) have hoped from AS 49835 to various more. 1280 could significance a very dangerous **dns cache poisoning** [[43]](https://en.wikipedia.org/wiki/DNS_spoofing), 6752 the thief of bank accounts of big facilities, 3352  and 11902 construction of an enormous ddosnet and thief of social network profiles but also access to the passive scanning embedded on the mobile towers.
 
 ### External links
 
@@ -68,3 +72,7 @@ All the customers premise equipments of Telefonica in FTTH mount the CPE Wan Man
 37. https://en.wikipedia.org/wiki/TR-069
 38. https://en.wikipedia.org/wiki/SOAP
 39. https://www.defcon.org/images/defcon-22/dc-22-presentations/Tal/DEFCON-22-Shahar-TaI-I-hunt-TR-069-admins-UPDATED.pdf
+40. https://en.wikipedia.org/wiki/Virtual_LAN
+41. https://en.wikipedia.org/wiki/Access-control_list
+42. https://en.wikipedia.org/wiki/BGP_hijacking
+43. https://en.wikipedia.org/wiki/DNS_spoofing
