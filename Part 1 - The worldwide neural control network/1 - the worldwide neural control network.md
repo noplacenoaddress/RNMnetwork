@@ -26,7 +26,7 @@ The service, because yes it is a service from a provider, was contracted in Spai
 
 ![](../Images/image-0046.jpg)
 
-**Vatican Radio** [[3]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter with ferrite antennas that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[4]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. This is the layer one of the worldwide neural control network. It's like an enormous magnetic field under the **Troposhere** [[5]](https://en.wikipedia.org/wiki/Troposphere)
+**Vatican Radio** [[3]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter with ferrite antennas that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[4]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. This is the layer one of the worldwide neural control network. It's like an enormous magnetic field under the **Troposhere** [[5]](https://en.wikipedia.org/wiki/Troposphere). The hackers of the worldwide neural control network had build all upon this layer one that was not created exactly for this purposes. But was also utilized in the second world war. 
 
 ![Bumper cars](../Images/3138.jpg)
 
