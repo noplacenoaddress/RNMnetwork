@@ -57,7 +57,7 @@ Those are the pains:
 
 The last point is what is break under remote neural control networks. And obviously the pain will be the maximum because for example in my case its two years that I'm below this crime in active, with subliminal voice service activated, and many years more in silent mode, or in **hide** [[24]](https://www.thesaurus.com/browse/hide) like i call it.
 
-### How to hit the steam machine
+### How to hit the layer one magnetic field
 
 ![European flag](../Images/78053672_10221385490689296_5701298094478458880_o.jpg)
 
@@ -67,6 +67,11 @@ Steam machine create a magnetic field with two analogs very powerful radio and f
 2. **The Control of Electromagnetic Fields at Work Regulations 2016** [[28]](https://drive.google.com/drive/folders/1RS0fwU8V0e3iu2SyuLtiXFiiR8bJ7_In)
 
 Another consideration that it can be applied about those magnetic field is that are military technology. Those fields are created in battle sites. But Catalunya isn't in a war environment. I really don't know if there is some law that protect civilians by the use of this telecommunications extreme invasive technology.
+
+Speaking about the Vatican Radio there is various cases of cancer denunciated by civilians over the installations near Rome.
+
+- https://roma.repubblica.it/cronaca/2010/07/13/news/onde_elettromagnetiche-5565454/
+- https://magdahavas.com/study-finds-vatican-radio-causes-cancer/
 
 ### External links
 
