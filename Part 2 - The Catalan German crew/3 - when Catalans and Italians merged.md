@@ -1,5 +1,35 @@
 # The meeting in Arago, Barcelona
 
+![Arago](../Images/EKS8fV6XsAA-2jS.jpeg)
+
+- Church
+- Sept
+- Greece
+- Sex
+- Eros
+- Delta
+- A
+- 9
+- Black
+- The squirter
+- Aragon
+- Tolkien
+- Pink
+- Blue
+- Blood
+- Clean
+- White
+- Man
+- Woman
+
+Just my two cents. 
+
+> *Oye ahora te escribo en castellano maldito gordo. Te quiero vale? Un abrazada.*
+
+
+
+### The guifi hack
+
 ![Guifi network](../Images/guifi-net.png)
 
 This is the network graph of guifi.net. A wireless routed layer three network. **B.A.T.M.A.N.** [[1]](https://en.wikipedia.org/wiki/B.A.T.M.A.N.) routing protocol is active, but also **OSPF** [[2]](https://en.wikipedia.org/wiki/Open_Shortest_Path_First) and **BGP** [[3]](https://en.wikipedia.org/wiki/Border_Gateway_Protocol). 
