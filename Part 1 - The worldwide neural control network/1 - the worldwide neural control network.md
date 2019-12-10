@@ -64,13 +64,15 @@ The antennas and ground stations that permit the connection to the human targets
 
 The white omnidireccional antenna is operating in VHF and it used for subliminal voice services. It implement **US patent  5159703** [[15]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf).
 
+The last one it's probably related to an open hardware radar system.
+
 This infrastructure, very simple in design, is implemented by Francesca, nephew of an Italian second world war hero, in Catalunya and all over the world. This infrastructure was mounted where i build my wireless Internet service provider. This is why i fall like a victim in the worldwide neural control network. With this infrastructure Francesca is the owner of the gangstalking service in all over the world. Her nickname in the silent subliminal message chat is "Francese". I personally know her and she is one of the head of the digital mafia lobby.
 
 ### The terrestrial positioning system
 
 ![3D radar](../Images/istockphoto-1017394876-640x640.jpg)
 
-**3D radar** [[16]](https://en.wikipedia.org/wiki/3D_radar). It's a positioning system that is implemented in the neural control network. There are two layers of positioning, the official one from military forces and the open hardware one that use SDR hardware.
+**3D radar** [[16]](https://en.wikipedia.org/wiki/3D_radar). It's a positioning system that is implemented in the neural control network. There are two layers of positioning, the official one from military forces and the open hardware one that use SDR hardware that it's called **software defined embedded radar** [[17]](http://ancortek.com/).
 
 ### The synthetic telepathy network computing center 
 
@@ -163,70 +165,71 @@ Let's introduce every device of the network scheme above:
 14. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
 15. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
 16. https://en.wikipedia.org/wiki/3D_radar
-17. https://en.wikipedia.org/wiki/Data_center
-18. <https://en.wikipedia.org/wiki/Neo-Nazism>
-19. <https://en.wikipedia.org/wiki/Cyberwarfare>
-20. <https://en.wikipedia.org/wiki/Metaphor>
-21. <https://en.wikipedia.org/wiki/Internet_meme>
-22. <https://en.wikipedia.org/wiki/Virtual_private_network>
-23. https://en.wikipedia.org/wiki/Android_(operating_system)
-24. https://en.wikipedia.org/wiki/Human_subject_research
-25. https://en.wikipedia.org/wiki/Personal_identification_number
-26. https://en.wikipedia.org/wiki/Offshore_bank
-27. <https://en.wikipedia.org/wiki/Cryptocurrency>
-28. https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
-29. https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation
-30. https://en.wikipedia.org/wiki/Magnetic_resonance_imaging
-31. https://en.wikipedia.org/wiki/Brain_implant
-32. https://en.wikipedia.org/wiki/Last_mile
-33. http://www.BRAINnet.net/
-34. https://en.wikipedia.org/wiki/Neural_oscillation
-35. https://en.wikipedia.org/wiki/Software-defined_radio
-36. https://en.wikipedia.org/wiki/Delta_wave
-37. https://en.wikipedia.org/wiki/Theta_wave
-38. https://en.wikipedia.org/wiki/Mu_wave
-39. https://en.wikipedia.org/wiki/Alpha_wave
-40. https://en.wikipedia.org/wiki/Beta_wave
-41. https://en.wikipedia.org/wiki/Gamma_wave
-42. https://www.google.com/search?q=open+hardware+satellite
-43. https://en.wikipedia.org/wiki/Wavelength
-44. https://en.wikipedia.org/wiki/Line-of-sight_propagation
-45. https://en.wikipedia.org/wiki/Non-line-of-sight_propagation
-46. https://en.wikipedia.org/wiki/Telemetry
-47. https://en.wikipedia.org/wiki/Speech
-48. https://en.wikipedia.org/wiki/Vocoder
-49. https://en.wikipedia.org/wiki/Auditory_cortex
-50. https://en.wikipedia.org/wiki/Visual_cortex
-51. https://en.wikipedia.org/wiki/Augmented_reality
-52. https://en.wikipedia.org/wiki/Mixed_reality
-53. https://en.wikipedia.org/wiki/Human_eye
-54. https://en.wikipedia.org/wiki/Visual_system
-55. https://en.wikipedia.org/wiki/Primary_somatosensory_cortex
-56. https://en.wikipedia.org/wiki/Sexual_slavery
-57. https://en.wikipedia.org/wiki/Man-in-the-middle_attack
-58. https://en.wikipedia.org/wiki/Trojan_Horse
-59. https://en.wikipedia.org/wiki/Blood_pressure
-60. https://en.wikipedia.org/wiki/Heart_rate
-61. https://en.wikipedia.org/wiki/Human_body_temperature
-62. https://en.wikipedia.org/wiki/Lie_detection
-63. https://en.wikipedia.org/wiki/Natural_language_processing
-64. https://en.wikipedia.org/wiki/Search_engine_(computing)
-65. https://en.wikipedia.org/wiki/Search_engine_optimization
-66. https://en.wikipedia.org/wiki/Artificial_intelligence
-67. https://en.wikipedia.org/wiki/Chatbot
-68. https://en.wikipedia.org/wiki/Schizophrenia
-69. https://en.wikipedia.org/wiki/Paranoia
-70. https://www.un.org/en/universal-declaration-human-rights/
-71. https://en.wikipedia.org/wiki/Data_mining
-72. https://en.wikipedia.org/wiki/Data_set
-73. https://en.wikipedia.org/wiki/Data_reporting
-74. https://en.wikipedia.org/wiki/Big_data
-75. https://en.wikipedia.org/wiki/Machine_learning
-76. https://en.wikipedia.org/wiki/Neural_network
-77. https://en.wikipedia.org/wiki/Neuralink
-78. https://en.wikipedia.org/wiki/Elon_Musk
-79. https://en.wikipedia.org/wiki/Mark_Zuckerberg
-80. https://newsroom.fb.com/news/2017/04/f8-2017-day-1/x
+17. http://ancortek.com/
+18. https://en.wikipedia.org/wiki/Data_center
+19. <https://en.wikipedia.org/wiki/Neo-Nazism>
+20. <https://en.wikipedia.org/wiki/Cyberwarfare>
+21. <https://en.wikipedia.org/wiki/Metaphor>
+22. <https://en.wikipedia.org/wiki/Internet_meme>
+23. <https://en.wikipedia.org/wiki/Virtual_private_network>
+24. https://en.wikipedia.org/wiki/Android_(operating_system)
+25. https://en.wikipedia.org/wiki/Human_subject_research
+26. https://en.wikipedia.org/wiki/Personal_identification_number
+27. https://en.wikipedia.org/wiki/Offshore_bank
+28. <https://en.wikipedia.org/wiki/Cryptocurrency>
+29. https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
+30. https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation
+31. https://en.wikipedia.org/wiki/Magnetic_resonance_imaging
+32. https://en.wikipedia.org/wiki/Brain_implant
+33. https://en.wikipedia.org/wiki/Last_mile
+34. http://www.BRAINnet.net/
+35. https://en.wikipedia.org/wiki/Neural_oscillation
+36. https://en.wikipedia.org/wiki/Software-defined_radio
+37. https://en.wikipedia.org/wiki/Delta_wave
+38. https://en.wikipedia.org/wiki/Theta_wave
+39. https://en.wikipedia.org/wiki/Mu_wave
+40. https://en.wikipedia.org/wiki/Alpha_wave
+41. https://en.wikipedia.org/wiki/Beta_wave
+42. https://en.wikipedia.org/wiki/Gamma_wave
+43. https://www.google.com/search?q=open+hardware+satellite
+44. https://en.wikipedia.org/wiki/Wavelength
+45. https://en.wikipedia.org/wiki/Line-of-sight_propagation
+46. https://en.wikipedia.org/wiki/Non-line-of-sight_propagation
+47. https://en.wikipedia.org/wiki/Telemetry
+48. https://en.wikipedia.org/wiki/Speech
+49. https://en.wikipedia.org/wiki/Vocoder
+50. https://en.wikipedia.org/wiki/Auditory_cortex
+51. https://en.wikipedia.org/wiki/Visual_cortex
+52. https://en.wikipedia.org/wiki/Augmented_reality
+53. https://en.wikipedia.org/wiki/Mixed_reality
+54. https://en.wikipedia.org/wiki/Human_eye
+55. https://en.wikipedia.org/wiki/Visual_system
+56. https://en.wikipedia.org/wiki/Primary_somatosensory_cortex
+57. https://en.wikipedia.org/wiki/Sexual_slavery
+58. https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+59. https://en.wikipedia.org/wiki/Trojan_Horse
+60. https://en.wikipedia.org/wiki/Blood_pressure
+61. https://en.wikipedia.org/wiki/Heart_rate
+62. https://en.wikipedia.org/wiki/Human_body_temperature
+63. https://en.wikipedia.org/wiki/Lie_detection
+64. https://en.wikipedia.org/wiki/Natural_language_processing
+65. https://en.wikipedia.org/wiki/Search_engine_(computing)
+66. https://en.wikipedia.org/wiki/Search_engine_optimization
+67. https://en.wikipedia.org/wiki/Artificial_intelligence
+68. https://en.wikipedia.org/wiki/Chatbot
+69. https://en.wikipedia.org/wiki/Schizophrenia
+70. https://en.wikipedia.org/wiki/Paranoia
+71. https://www.un.org/en/universal-declaration-human-rights/
+72. https://en.wikipedia.org/wiki/Data_mining
+73. https://en.wikipedia.org/wiki/Data_set
+74. https://en.wikipedia.org/wiki/Data_reporting
+75. https://en.wikipedia.org/wiki/Big_data
+76. https://en.wikipedia.org/wiki/Machine_learning
+77. https://en.wikipedia.org/wiki/Neural_network
+78. https://en.wikipedia.org/wiki/Neuralink
+79. https://en.wikipedia.org/wiki/Elon_Musk
+80. https://en.wikipedia.org/wiki/Mark_Zuckerberg
+81. https://newsroom.fb.com/news/2017/04/f8-2017-day-1/x
 
 <!---
 $RNMnetwork: v 0.1 Tue Dec 10 07:07:36 CET 2019 taglio $
