@@ -40,9 +40,11 @@ My ex girlfriend was also victim with her husband of the Catalan game but physic
 
 But my ex girlfriend is also victim of another crime. Her shape, her body and her voice was copied by the owners of the "Illuminati" synthetic telepathy network and they use her to induct to suicide with gang stalking all of them victims. Was copied by a **3D scanner** [[11]](https://en.wikipedia.org/wiki/3D_scanning).
 
-### Who am I?
+### Who are we?
 
-I'm a telecommunications entrepreneur. I'm a professional Unix lover, nothing more, nothing less.
+![Target individuals](../RNMnetwork/Images/TIAMO.png)
+
+I'm a telecommunications entrepreneur. I'm a professional Unix lover, nothing more, nothing less. She is my love, her name is Saray.
 
 When i was young i start to play with Internet at sixteen, and use to join an **IRC** [[14]](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel served by the network **IRCNet** [[15]](https://en.wikipedia.org/wiki/IRCnet).  We was a group, or better saying a crew, of young hackers that enjoy computer science and **IRC takeover** [[16]](https://en.wikipedia.org/wiki/IRC_takeover). 
 
@@ -62,9 +64,9 @@ Also i was a radio amateur from when i was twelve. Enjoy **SSB band** [[37]](htt
 
 So yes I'm an hacker and i want to demonstrate how various crew has bet over my life and destroy Barcelona. All of them depend by the conduction of a girl, she is coming to my primary school in Genoa. 
 
-She is a terrorist of extreme right. And i'm a democratic Europeanist.
+Francesca is a terrorist of extreme right. And i'm a democratic Europeanist.
 
-> *She is destroying Europe, and she has destroyed my life and the life of my ex girlfriend. Saray. My sun flower.*
+> *Francesca is destroying Europe, and she has destroyed my life and the life of my ex girlfriend. Saray. My sun flower.*
 
 ### 
 
