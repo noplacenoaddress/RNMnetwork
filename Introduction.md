@@ -68,8 +68,6 @@ Francesca is a terrorist of extreme right. And i'm a democratic Europeanist.
 
 > *Francesca is destroying Europe, and she has destroyed my life and the life of my ex girlfriend. Saray. My sun flower.*
 
-### 
-
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
