@@ -1,38 +1,42 @@
-# The worldwide neural control network
-
-![Remote neural network](../Images/satcycle3-4_2_orig.png)
+# The worldwide neural control network soap
 
 From the end of the second world war and mostly in the cold war remote **neural control networks** [[1]](https://en.wikipedia.org/wiki/Electronic_harassment) was developed. 
 
-Nowadays it is a multi layer radio frequency networks which structure is similar to Internet tier division. All is build upon very powerful radio electromagnetic emission.
+Nowadays it is a multi layer radio frequency networks which structure is similar to Internet tier division.
 
-It's a soap of different radio service, very complex to analyze because of a smoke curtain covering this type of networks. Why? Because in the past they was utilized by secret services and nowadays are utilized my a digital mafia that hack human brains. Manipulate masses. Change political views. Destroy families. Bet on suicides. The aristocratic cast, the Vatican, audiovisual monsters, big tech facilities and also public and private space companies "play" with this.
+It's a soap of different radio service, very complex to analyze because of a smoke curtain covering this type of networks. Why? Because in the past they was utilized by secret services and nowadays are utilized my a digital mafia that hack human brains. Manipulate masses. Change political views. Destroy families. Bet on suicides. The aristocratic cast, the Vatican, audiovisual monsters, big tech facilities and also public and private space companies "play" with this. 
 
 *Something that is destroying the Europe Union and democracy*.
 
-Who bind those services? Facilities that buy services from official providers that bind legal services and got also this product *under the table* for big telecommunications clients. Normally are businessman that use to create B-side networks in a state and clean them in another with legal services. It's the digital mafia. 
+Who bind those services? Facilities that buy services from official providers that bind legal services and got also this product *under the table* for big telecommunications clients. Normally are businessman that use to create B-side networks in a state and clean them in another with legal services. Medium hackers crew create small networks like this; but also governments silently sniff data about. It's the digital mafia. 
 
-Last mile normally is soak into official infrastructure. It's not a secret all the patents are public. A lot of are from the US patents office but there is someone from India, Pakistan, China, Taiwan and Korea.  
+Last mile normally is soak into official infrastructure. It's not a secret all the patents are public. A lot of are from the US patents office but there is someone from India, Pakistan, China, Taiwan and Korea. But can also be forged upon software defined radios.
 
-Who are target individuals? For example who are classified as terrorist, like **ETA** [[2]](https://eu.wikipedia.org/wiki/Euskadi_Ta_Askatasuna) in Spain was controlled by remote neural networks. But in the last ten years someone come to speculate over those networks forcing human clients to join this hell because of data selling to big tech companies, military facilities and audiovisual industry. Because of big masses manipulation. 
+Who are target individuals? For example who are classified as terrorist, like **ETA** [[2]](https://eu.wikipedia.org/wiki/Euskadi_Ta_Askatasuna) in Spain, by governments was controlled by remote neural networks. But in the last ten years someone come to speculate over those networks forcing human clients to join this hell because of data selling to big tech companies, military facilities and audiovisual industry. Because of big masses manipulation. 
 
 I'm in remote neural control because the madness of a mental sick mother and an inept father that didn't protect his son from this destruction, but I like it i love technology, research and continuous struggle. I'm in remote neural control from about twelve years. From when i came to live in Spain. Ten years of passive and two of active with subliminal voice to skull service. I've lost all what I've done, but not my mental clearness. 
 
 The service, because yes it is a service from a provider, was contracted in Spain by a military family derived girl that i know in Genoa, Italy, when i go in primary school. My parents have permitted it attaching drug abuse or some stupidity like this. This is only an horrible crime and they have done with my brain data and bet in my life thousand of millions of Eur.
 
->  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So I'm doing it. Thank you great man and person. I've lost the woman that I'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
+>  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So I'm doing it. Thank you great man and person. I'm searching for the woman that I'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
 
-### The radio Vatican steam machine and MFAN 
+### Magnetic fields.
 
 ![](../Images/image-0046.jpg)
 
-**Vatican Radio** [[3]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter with ferrite antennas that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[4]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. This is the layer one of the worldwide neural control network. It's like an enormous magnetic field under the **Troposhere** [[5]](https://en.wikipedia.org/wiki/Troposphere). The hackers of the worldwide neural control network had build all upon this layer one that was not created exactly for this purposes. But was also utilized in the second world war. 
+**Vatican Radio** [[3]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[4]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. The **principle transmitter** [[4]](https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/) in the Vatican situated in **Santa Maria di Galeria** [[5]](https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria).
+
+ ![Outer power lines](../Images/power lines.jpg)
+
+The Vatican extreme power AM transmitter, but also all kind of other radio waves transmitter, interacting with **overhead power lines** [[5]](https://en.wikipedia.org/wiki/Overhead_power_line) create what is called electrosmog. 
+
+This  an enormous magnetic field under the **Troposhere** [[5]](https://en.wikipedia.org/wiki/Troposphere). The hackers of the worldwide neural control network had build all below this layer one that was not created exactly for this purposes. But was also utilized in the second world war. 
 
 ![Bumper cars](../Images/3138.jpg)
 
 > *They call this steam machine.* 
 
-The steam machine works similar to the red upon a bumper cars installation but wireless. It's the cause of all the violence in this hell network and it permit human semi physical transposition. I use the substantive Vatican because in subliminal voice to skull there's a lot of person from the ancient state of Vatican. They say that the **principle transmitter** [[4]](https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/) in the Vatican situated in **Santa Maria di Galeria** [[5]](https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria).
+The steam machine works similar to the red upon a bumper cars installation but wireless. It's the cause of all the violence in this hell network and it permit human semi physical transposition. I use the substantive Vatican because in subliminal voice to skull there's a lot of person from the ancient state of Vatican. They say that 
 
 With the magnetic field upon our head they virtually connect cables to our body channeling different technologies and frequencies inside of them. This is why it's almost impossible register this electromagnetic transmission. The only method possible is using an **electroencephalogram** [[6]](https://en.wikipedia.org/wiki/Electroencephalography) **cap** [[7]](https://www.brainlatam.com/products/eeg-electrode-caps) but we will see more in deep in the technical analysis. 
 
@@ -45,6 +49,20 @@ With this virtual device the environment near the victim is like a remote **CT s
 We're locked to those networks by satellite and by the steam machine between an unique human magnetic field value transmitted naturally if radio wave stimulated. **Magnetoelectric** [[11]](https://www.nature.com/articles/s41598-017-01647-x) **nanoparticles** [[12]](https://en.wikipedia.org/wiki/Nanoparticle) MEN are responsible of this emission. 
 
 Until ten years ago those networks exist but the services use in hide mode, there was no interaction with the client, the victim. Then someone have created a tool that scan for this magnetic field unique id and a lot of people become target individuals. Human guinea pig. Subjects that are under a continuous bet vortex in crypt concurrency. People that normally commit suicide. Go in mental disorder vortex by a corrupted health care system. Something that is  destroying our society. Welcome to the false electronic democracy. Welcome to the probably third world war. 
+
+### The government LTE embedded hardware
+
+![Remote neural network](../Images/satcycle3-4_2_orig.png)
+
+Governments has got subliminal voice services and silent brain waves sniff embedded in national operators LTE towers. But also use GPS satellite networks to stimulate  MEN particles and track targets individuals.
+
+### The access network
+
+![The last mile infrastructure](../Images/20191209_161803.jpg)
+
+The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are two black ferrite magnetic loop antennas that create with two software defined radios a network below 100Hz. They implement **US  patent 6011991, 4834701** but not only.
+
+The white omnidireccional antenna is operating in VHF and it used for subliminal voice services. It implement **US patent  5159703**.
 
 ### The synthetic telepathy network computing center 
 
@@ -197,3 +215,7 @@ Let's introduce every device of the network scheme above:
 74. https://en.wikipedia.org/wiki/Elon_Musk
 75. https://en.wikipedia.org/wiki/Mark_Zuckerberg
 76. https://newsroom.fb.com/news/2017/04/f8-2017-day-1/x
+
+<!---
+$RNMnetwork: v 0.1 Tue Dec 10 07:07:36 CET 2019 taglio $
+-->
