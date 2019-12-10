@@ -1,26 +1,26 @@
 # Killer wireless networks.
 
-In the world there is a series of networks organized in layers in a **top-down design** [[1]](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) of importance that have different level of access. The most important are parts of **global mass surveillance** [[2]](https://en.wikipedia.org/wiki/Global_surveillance):
+In the world there is a series of wireless networks organized in layers in a **top-down design** [[1]](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) of importance that have different level of access. The most important are parts of **global mass surveillance** [[2]](https://en.wikipedia.org/wiki/Global_surveillance):
 
 ![Menwith](Images/Menwith-hill-radomes.jpg)
 
 - Surveillance systems like **ECHELON** [[3]](https://en.wikipedia.org/wiki/ECHELON) and **Frenchelon** [[4]](https://en.wikipedia.org/wiki/Frenchelon). Secret services from various nations.
 - Military ionosphere satellites network.
-- Aristocratic network of telecommunications. In this network take part nobles families and dynasties. It includes Masonic lodges and secret societies. They decide the sort of the world, changing the political climate identically as they've done in the middle age. Nothing has changed it's only digitalized. Commercial private hardware used.
-- The synthetic telepathy network almost open source and open hardware based.
-- A small Catalan network, terrestrial radio wave used, only voice to skull binded. Five years ago was absorbed by the synthetic telepathy network that use v2k terrestrial in Catalunya. Excellent latency in voice service.
+- Government  network of telecommunications. In this network take part nobles families and dynasties. It includes Masonic lodges and secret societies. They decide the sort of the world, changing the political climate identically as they've done in the middle age. Nothing has changed it's only digitalized. Commercial private hardware used.
+- The synthetic telepathy data center.
+- The access network, terrestrial radio wave used, only voice to skull binded. 
 
-What is the principle difference between those networks? The last mile technology. In the synthetic telepathy network is mixed between satellite and ground stations. In the Catalan network is terrestrial radio wave. The Aristocratic one i think but it's only a supposition that is an embedded hardware in LTE towers from the **Huawei** [[5]](https://en.wikipedia.org/wiki/Huawei). There's a little disclosure in Internet about the **concerns over Chinese involvement in 5G wireless networks** [[6]](https://en.wikipedia.org/wiki/Concerns_over_Chinese_involvement_in_5G_wireless_networks).
+What is the principle difference between those networks? Ingredients added to the technology soap. The government one is an embedded hardware in LTE towers from **Huawei** [[5]](https://en.wikipedia.org/wiki/Huawei). There's a little disclosure in Internet about the **concerns over Chinese involvement in 5G wireless networks** [[6]](https://en.wikipedia.org/wiki/Concerns_over_Chinese_involvement_in_5G_wireless_networks).
 
-Next there are products of this network, the aristocratic call them "*games*". Games where people die like target individuals committing suicide. Games where they change the world. Others product can be classified as services.
+Next there are products of this network, they call them *games*". Games where people die like target individuals committing suicide. Games where they change the world. Others product can be classified as services.
 
 - The "Illuminati" pseudo dictatorship, a pyramid hierarchy human tree to create slaves. A fraud. The destroy of our privacy, a tower of our democracy. This monster is called as game by the point of view of the aristocratic cast.
 
 - The **techno** [[7]](https://en.wikipedia.org/wiki/Techno) network, a system used by **disc jockey** [[8]](https://en.wikipedia.org/wiki/Disc_jockey) to play in different parts of the world at the same time this could be classified as service but not only. It serve new victims to the Illuminati.
 
-- The human hacker scene. Where only the best hackers in the world work obtaining money from the aristocratic cast. It's an unauthorized access to the synthetic telepathy network, hacker crew that can obtain it are rewarded and the aristocratic cast permit a limited use to them. But they have to work for them making incredible crap to the population by creating human guinea pigs.  Those hackers are also victims of the aristocratic cast and more often they are treated as scapegoats to hide the true instigators of these horrible crimes they call games.
+- The human hacker scene. Where only the best hackers in the world work obtaining money from the aristocratic cast. They work making incredible crap to the population by creating human guinea pigs.  Those hackers are also victims of the aristocratic cast and more often they are treated as scapegoats to hide the true instigators of these horrible crimes they call games.
 
-- A remote parimutuel betting system. Was born in Catalunya a decade ago created by a very big felonious who is Catalan also. Now the "game" is available in the synthetic telepathy network, that have changed normal money betting with crypt concurrency betting. The Catalan "game" is based onto Andorran bank account. Every victim got is document copied and some kind of corrupted administration redo them to open physical bank account into tax heavens. There is also others version of this game, one Argentinian or Venezuelan.  Notice that i call it game but it's sexual violence for the womans and induct to suicide for mans. Nothing more than a terrible crime.
+- A remote parimutuel betting system. Was born in Catalunya a decade ago created by a very big felonious who is Catalan also. The Catalan "game" is based onto Andorran bank account. Every victim got is document copied and some kind of corrupted administration redo them to open physical bank account into tax heavens. There is also others version of this game, one Argentinian or Venezuelan.  Notice that i call it game but it's sexual violence for the womans and induct to suicide for mans. Nothing more than a terrible crime.
 
 Next there are some commercial products or some university study, is what the big public can see about, the face to the public:
 
@@ -30,9 +30,7 @@ Next there are some commercial products or some university study, is what the bi
 
 ### Who can i know about that?
 
-![Me and Saray on 2013](Images/70246188_10220822559376365_1959705710723858432_n.jpg)
-
-I was connected to the Catalan voice to skull service in November 2017 after a year of gangstalking. My ex girlfriend was connected also to the Catalan network in 2009, and was also victim.
+I was connected to the Catalan voice to skull service in November 2017 after a year of gas lighting. My ex girlfriend was connected also to the Catalan network in 2009, and is also victim.
 
 I am victim of one game that have changed the city of Barcelona in the last five years:
 
@@ -44,9 +42,7 @@ But my ex girlfriend is also victim of another crime. Her shape, her body and he
 
 ### Who am I?
 
-![I'm](Images/75478437_10221285466268748_3495719559191592960_n.jpg)
-
-I'm an hacker. A white hat hacker. If you don't know what is it don't blame me like if i'm criminal, the criminals are you. I'm a professional Unix lover, nothing more, nothing less.
+I'm a telecommunications entrepreneur. I'm a professional Unix lover, nothing more, nothing less.
 
 When i was young i start to play with Internet at sixteen, and use to join an **IRC** [[14]](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel served by the network **IRCNet** [[15]](https://en.wikipedia.org/wiki/IRCnet).  We was a group, or better saying a crew, of young hackers that enjoy computer science and **IRC takeover** [[16]](https://en.wikipedia.org/wiki/IRC_takeover). 
 
