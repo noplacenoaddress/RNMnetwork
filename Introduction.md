@@ -42,7 +42,7 @@ But my ex girlfriend is also victim of another crime. Her shape, her body and he
 
 ### Who are we?
 
-![Target individuals](../RNMnetwork/Images/TIAMO.png)
+![Target individuals](../Images/TIAMO.png)
 
 I'm a telecommunications entrepreneur. I'm a professional Unix lover, nothing more, nothing less. She is my love, her name is Saray.
 
