@@ -1,12 +1,12 @@
 ### Denuncia contra Jesus R.A.
 
-Apreciada comisaria de los mossos d'Esquadra quisiera denunciar varios crimenes por parte de mi antiguo casero don Jesus R.A. que fue mi casero por un alquiler criminal en la vivieda unifamiliar de avenida de les Palmeres 12 08811 Canyelles. En la casa estube viviendo con mi dos parejas antes la señorita Thais N.G. y después con Saray L.H.
+Apreciada comisaria de los mossos d'Esquadra quisiera denunciar **varios crimenes** por parte de don Jesus R.A. que fue mi casero por  la vivieda unifamiliar de avenida de les Palmeres 12 08811 Canyelles teoricamente de su propiedad. En la casa estube viviendo con mi dos parejas antes la señorita Thais N.G. y después con Saray L.H.
 
 ![](Images/200858_1988729160453_1705364_o.jpg)
 
 Aquí estoy en el tejado de la vivienda con mi socio de empresa don Adam M.L..
 
-Primero de todo comentar a los presentes que estube en regime de alquiler con contrato entra privados desde 2008 hasta 2016. Sin ningun tipo de problema de pago el precio estube variando desde 900 hasta 700 euros. Informar a Vuestras signorias que el casero cobraba tanto por transferencia bancaria cuanto por dinero en efectivo. 
+Primero de todo comentar a los presentes que estube en regime de alquiler con **contrato entra privados** desde 2010 hasta 2016. Sin ningun tipo de problema de pago el precio estube variando desde 900 hasta 700 euros. Informar a Vuestras signorias que el casero cobraba tanto por transferencia bancaria cuanto por dinero en efectivo. 
 
 La casa fue alquilada totalmente vacia. La casa consta de tres plantas pueden imaginar ustedes la cantidad de muebles, elecotronica y electrodomesticos de la cual había yo amueblado la casa.
 
