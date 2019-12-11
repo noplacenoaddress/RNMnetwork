@@ -74,7 +74,6 @@ El material substraído consta en:
 52. Una radio DB Lafayette
 53. Un reloj de oro de comunión 
 54. Dos gemelos de oro de propiedad de mi familia
-55. Una colección de sellos de la república Italiana completa del valor de unos 40000 euros
 
 Don Jesus R.A. el año pasado recibió un mensaje de mi parte en la plataforma social Facebook donde le pedía con gentileza acerca el poder recuperar todos mis bienes pero simplemente evitaba contestar bloqueándome en la misma.
 
