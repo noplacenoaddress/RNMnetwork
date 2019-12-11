@@ -12,9 +12,11 @@ La casa fue alquilada totalmente vacia. La casa consta de tres plantas pueden im
 
 Soy empresario de telecomunicaciones y en la casa había material para instalaciones de varios miles de euros y muchos sistemas informaticos.
 
-El casero en 2016 cambío las llaves de la casa y no pude mas entrar en ella, entró rompiendo el cristal de la cocina. Acababa de perder mi empresa y tube muchisimos problemas. Mi casero y mi socio habian trabajado juntos en varias ocasiones porqué yo mismo los presenté.
+El casero en 2016 cambío las llaves de la casa y no pude mas entrar en ella, entró rompiendo el cristal de la cocina. Acababa de perder mi empresa, de tener un grave accidente de moto y me encontré reducido a la lemosina en poco tiempo. Mi casero y mi socio habian trabajado juntos en varias ocasiones porqué yo mismo los presenté.
 
-![](../Images/35299207_456863851422799_639551734527557632_n.jpg)
+![r ](../Images/35299207_456863851422799_639551734527557632_n.jpg)
+
+![](Images/20130304_151222.jpg)
 
 El material substraido consta en:
 
