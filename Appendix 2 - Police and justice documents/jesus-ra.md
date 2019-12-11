@@ -4,7 +4,7 @@ Apreciada comisaria de los mossos d'Esquadra quisiera denunciar varios crimenes 
 
 ![](Images/200858_1988729160453_1705364_o.jpg)
 
-Aquí estoy en el tejado de la vivienda con mi socio de empresa don Adam Marsal Llobet.
+Aquí estoy en el tejado de la vivienda con mi socio de empresa don Adam M.L..
 
 Primero de todo comentar a los presentes que estube en regime de alquiler con contrato entra privados desde 2008 hasta 2016. Sin ningun tipo de problema de pago el precio estube variando desde 900 hasta 700 euros. Informar a Vuestras signorias que el casero cobraba tanto por transferencia bancaria cuanto por dinero en efectivo. 
 
