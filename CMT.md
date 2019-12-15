@@ -1,6 +1,6 @@
 Buenos días os escribo desde sant Pere de Ribes me llamo Riccardo Giuntoli y soy empresario de telecomunicaciones.
 
-Quisiera denunciar una infraestructura de acoso organizado que opera en Catalunya pero muy probablemente en toda España, Italia y Dinamarca. Ha salido una noticia en el cotidiano el Español hace pocos días:
+Quisiera denunciar una infraestructura de acoso organizado que opera en Catalunya pero muy probablemente en toda España, Italia y Dinamarca. Ha salido una noticia en el cuotidiano el Español hace pocos días:
 
 https://www.elespanol.com/reportajes/20191208/alerta-psicotronicas-secretas-atacan-mentes-controlan-no/448205661_0.html
 
