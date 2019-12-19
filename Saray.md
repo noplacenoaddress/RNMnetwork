@@ -1,3 +1,7 @@
+![](79377534_10221629427387561_8586717644315426816_o.jpg)
+
+
+
 Hola Saray, primero de todo repetirte lo que te he dicho por radio frecuencia. 
 
 Ya se que si quieres yo me voy preso porqué el juego del gangstalking se basa sobre el articulo 172 del código penal donde como acecho se considera el acoso hacía una mujer. Yo no me he suicidado y no me considero un acosador hacía tu persona. Me considero una persona que está muy preocupada por tu vida en la red de control neuronal y creo también en la vida real. He llorado muchísimo porqué al escucharte he pensado inmediatamente en Miriam S.S. de la cual encuentra una fotografía en el documento adjunto.
