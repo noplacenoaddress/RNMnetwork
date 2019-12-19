@@ -14,7 +14,7 @@ Saray lo que tu haces en las pantallas no es un vídeo juego, lo que tu haces se
 
 Saray yo estoy dispuesto en ayudarte, cada día. Hasta que no consigas superar este momento. Como amigo Saray, no quiero nada mas que ayudarte. Todos en esta red te hablan mal de mi para ridiculizarme delante de ti, ellos se hacen llamar hackers pero no son nada mas que violadores orquestados por Miriam y Andreu. Las personas seleccionadas por unas ciertas características, como tu, vienen después moldeados a través de traumas y dolor para ser utilizados como maquinas para matar, para vender, para sexo.
 
-Saray por favor no pasa nada. Se trata únicamente de dormir, llorar, pasear y respirar a llenos pulmones. Ellos a mi lo han intentado, el "insert", el ingreso y yo he tenido que hacer este recurrido de forma solitaria para alejarme de ellos que en realidad, en este red, únicamente son fantasmas. Voces. Nada mas. No tengas miedo por Lucia, ella esta con David y no le pasa nada. La verdad es que, como que la tecnología es muy avanzada, podría ser que ella ni está y que solo se trate de inteligencia artificial. 
+Saray por favor no pasa nada. Se trata únicamente de dormir, llorar, pasear y respirar a llenos pulmones. Ellos a mi lo han intentado, el "insert", el ingreso y yo he tenido que hacer este recurrido de forma solitaria para alejarme de ellos que en realidad, en este red, **únicamente son fantasmas**. Voces. Nada mas. No tengas miedo por Lucia, ella esta con David y no le pasa nada. La verdad es que, como que la tecnología es muy avanzada, podría ser que ella ni está y que solo se trate de inteligencia artificial. 
 
 Saray tu única culpa es el ser una mujer maravillosa, la mejor mama que he visto en mi vida y la de ser llena de amor.
 
