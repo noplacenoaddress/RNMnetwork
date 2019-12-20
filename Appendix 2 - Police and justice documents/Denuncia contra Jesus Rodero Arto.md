@@ -1,10 +1,8 @@
-### Denuncia contra don Jesus Rodero Arto 
+### Denuncia contra Jesus Rodero Arto
 
-Apreciada comisaria de los mossos d'Esquadra yo Riccardo Giuntoli con NIE **X9770628K** y domicilio en **c/ Mossen Anton Miret 10 2/1 08810 sant Pere de Ribes** quisiera denunciar **varios crimenes** por parte de don Jesus Rodero Arto con DNI **52425061B** y domicilio en **c/ Murcia 91 08812 sant Pere de Ribes** que fue mi casero por  la vivienda unifamiliar de **a/ de les Palmeres 12 08811 Canyelles** teóricamente de su propiedad. Pueden verificar la hoja de padrón en los documentos adjuntos.
+Apreciada comisaria de los mossos d'Esquadra quisiera denunciar **varios crimenes** por parte de don Jesus Rodero Arto con DNI 52425061B y domicilio en c/ Murcia 91 08812 sant Pere de Ribes  que fue mi casero por  la vivienda unifamiliar de avenida de les Palmeres 12 08811 Canyelles teóricamente de su propiedad. 
 
-![](Images/200858_1988729160453_1705364_o.jpg)
-
-Primero de todo comentar a los presentes que estuve en alquiler con **contrato entra privados** desde 2010 hasta 2016. Sin ningún tipo de problema de pago el precio estuve variando desde 900 hasta 700 euros. Informar a Ustedes que el casero cobraba tanto por transferencia bancaria cuanto por dinero en efectivo; pueden apreciar unos pagos via transferencia en los documentos adjuntos de la caixa de pensiones.
+Primero de todo comentar a los presentes que estuve en alquiler con **contrato entra privados** desde 2010 hasta 2016. Sin ningún tipo de problema de pago el precio estuve variando desde 900 hasta 700 euros. Informar a Ustedes que el casero cobraba tanto por transferencia bancaria cuanto por dinero en efectivo. 
 
 La casa fue alquilada totalmente vacía. La casa consta de tres plantas pueden imaginar ustedes la cantidad de muebles, electrónica y electrodomésticos de la cual había yo amueblado la casa.
 
@@ -69,11 +67,11 @@ El material substraído consta en:
 49. Vario material de dormitorio como sabanas y almohadas.
 50. Una radio VHF kenwood
 51. Una radio CB President modelo Jackson
-52. Una radio DB Lafayette
+52. Una radio CB Lafayette
 53. Un reloj de oro de comunión 
 54. Dos gemelos de oro de propiedad de mi familia
 
-Don Jesus Rodrero Arto el año pasado recibió un mensaje de mi parte en la plataforma social Facebook donde le pedía con gentileza acerca el poder recuperar todos mis bienes pero simplemente evitaba contestar bloqueándome en la misma como pueden apreciar de documento adjunto.
+Don Jesus R.A. el año pasado recibió un mensaje de mi parte en la plataforma social Facebook donde le pedía con gentileza acerca el poder recuperar todos mis bienes pero simplemente evitaba contestar bloqueándome en la misma.
 
 En fe,
 
