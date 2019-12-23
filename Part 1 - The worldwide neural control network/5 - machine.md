@@ -143,7 +143,9 @@ I think that is possible using this technology to induce to a victim an attack o
 
 ![Image from brain waves](../Images/Human-Thoughts-Reconstructed-From-Brain-Waves-777x559.jpg)
 
-Those image are obtained by the interpretation of brain wave. It's possible to obtain what wee see reading our remote EEG. In the remote neural monitoring data center we are considered like "*human cameras*". 
+Those image are obtained by the interpretation of brain wave. It's possible to obtain what wee see reading our remote EEG. In the remote neural monitoring data center we are considered like "*human cameras*".  These technology is from **Moscow institute of physics and technology** [[74]](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) and was published on October 2019 in **bioRxiv** [[75]](https://www.biorxiv.org/) in this document:
+
+- **Natural image reconstruction from brain waves** [[76]](https://www.biorxiv.org/content/10.1101/787101v2.full.pdf)
 
 ### Death method
 
@@ -297,29 +299,31 @@ Those chat bot has got also the same voice and speech of the person that is clon
 71. https://en.wikipedia.org/wiki/Psychological_trauma
 72. https://en.wikipedia.org/wiki/Epilepsy
 73. https://en.wikipedia.org/wiki/Epileptic_seizure
-74. https://en.wikipedia.org/wiki/Extremely_low_frequency
-75. https://en.wikipedia.org/wiki/Intracranial_aneurysm
-76. https://en.wikipedia.org/wiki/Blood_vessel
-77. https://en.wikipedia.org/wiki/Vasospasm
-78. https://en.wikipedia.org/wiki/Myocardial_infarction
-79. https://en.wikipedia.org/wiki/Lung
-80. https://en.wikipedia.org/wiki/Pleurisy
-81. https://en.wikipedia.org/wiki/Inflammation
-82. https://en.wikipedia.org/wiki/Lung_cancer
-83. https://en.wikipedia.org/wiki/Electronic_harassment
-84. https://en.wikipedia.org/wiki/Hallucination
-85. https://en.wikipedia.org/wiki/Evidence_(law)
-86. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
-87. https://en.wikipedia.org/wiki/EMF_measurement
-88. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
-89. https://en.wikipedia.org/wiki/Tesla_(unit)
-90. https://en.wikipedia.org/wiki/Unreal_Engine
-91. https://en.wikipedia.org/wiki/PlayStation_4
-92. https://en.wikipedia.org/wiki/Dollar
-93. https://en.wikipedia.org/wiki/Psychiatric_hospital
-94. https://en.wikipedia.org/wiki/Unidentified_flying_object
-95. https://en.wikipedia.org/wiki/Rape
-96. https://en.wikipedia.org/wiki/3D_scanning
-97. https://en.wikipedia.org/wiki/Instance_(computer_science)
-98. https://en.wikipedia.org/wiki/Object-oriented_programming
+74. https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology
+75. https://www.biorxiv.org/content/10.1101/787101v2.full.pdf
+76. https://en.wikipedia.org/wiki/Extremely_low_frequency
+77. https://en.wikipedia.org/wiki/Intracranial_aneurysm
+78. https://en.wikipedia.org/wiki/Blood_vessel
+79. https://en.wikipedia.org/wiki/Vasospasm
+80. https://en.wikipedia.org/wiki/Myocardial_infarction
+81. https://en.wikipedia.org/wiki/Lung
+82. https://en.wikipedia.org/wiki/Pleurisy
+83. https://en.wikipedia.org/wiki/Inflammation
+84. https://en.wikipedia.org/wiki/Lung_cancer
+85. https://en.wikipedia.org/wiki/Electronic_harassment
+86. https://en.wikipedia.org/wiki/Hallucination
+87. https://en.wikipedia.org/wiki/Evidence_(law)
+88. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
+89. https://en.wikipedia.org/wiki/EMF_measurement
+90. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+91. https://en.wikipedia.org/wiki/Tesla_(unit)
+92. https://en.wikipedia.org/wiki/Unreal_Engine
+93. https://en.wikipedia.org/wiki/PlayStation_4
+94. https://en.wikipedia.org/wiki/Dollar
+95. https://en.wikipedia.org/wiki/Psychiatric_hospital
+96. https://en.wikipedia.org/wiki/Unidentified_flying_object
+97. https://en.wikipedia.org/wiki/Rape
+98. https://en.wikipedia.org/wiki/3D_scanning
+99. https://en.wikipedia.org/wiki/Instance_(computer_science)
+100. https://en.wikipedia.org/wiki/Object-oriented_programming
 
