@@ -7,8 +7,8 @@ In the world there is a series of wireless networks organized in layers in a **t
 - Surveillance systems like **ECHELON** [[3]](https://en.wikipedia.org/wiki/ECHELON) and **Frenchelon** [[4]](https://en.wikipedia.org/wiki/Frenchelon). Secret services from various nations.
 - Military ionosphere satellites network.
 - Government  network of telecommunications. In this network take part nobles families and dynasties. It includes Masonic lodges and secret societies. They decide the sort of the world, changing the political climate identically as they've done in the middle age. Nothing has changed it's only digitalized. Commercial private hardware used.
+- The access network, from satellite and terrestrial waves access points, those especial for development. 
 - The synthetic telepathy data center.
-- The access network, terrestrial radio wave used, only voice to skull binded. 
 
 What is the principle difference between those networks? Ingredients added to the technology soap. The government one is an embedded hardware in LTE towers from **Huawei** [[5]](https://en.wikipedia.org/wiki/Huawei). There's a little disclosure in Internet about the **concerns over Chinese involvement in 5G wireless networks** [[6]](https://en.wikipedia.org/wiki/Concerns_over_Chinese_involvement_in_5G_wireless_networks).
 

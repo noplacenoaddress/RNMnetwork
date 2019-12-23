@@ -73,6 +73,10 @@ Speaking about the Vatican Radio there is various cases of cancer denunciated by
 - https://roma.repubblica.it/cronaca/2010/07/13/news/onde_elettromagnetiche-5565454/
 - https://magdahavas.com/study-finds-vatican-radio-causes-cancer/
 
+### The crime of organized stalking
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Human_trafficking
