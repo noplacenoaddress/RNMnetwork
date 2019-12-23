@@ -22,6 +22,20 @@ Kisses, Ricky.
 
 PS: for an investigation this girl in radio frequency affirm that she was involved in the **Liberia attack** [[9]](https://www.welivesecurity.com/2016/11/04/colossal-ddos-attack-liberia-wipes-majority-country-offline/).  
 
+### The most important programmer
+
+![Neuroscience](../Images/mind-consciouness-neurosciencenews.jpg)
+
+He was going with me to the **Dibris** [[10]](https://www.dibris.unige.it/) university in Genoa. He is a genius, studying hard and terminate the IT grade one year earlier. I don't finish at all. He is a fantastic programmer.
+
+In radio frequency, because this subliminal voice service is almost hidden but not unknown, he had affirmed that he considers people like human guinea pigs. And I start to cry. This man got an enormous knowledge and he is doing a work similar to **Josef Mengele** [[11]](https://en.wikipedia.org/wiki/Josef_Mengele) Nazism doctor. But all in remote environment no one know personally him, but i do. 
+
+The word "remote" is very important. Because i know him personally and I remember him like a good boy. All the people that are working in the "illuminati" facility do thinks in remote and visualize it in a monitor and don't realize that subject of them work are humans. They consider this "a game". In some kind also this fantastic programmer and this good boy is also a victim. This is the hoax of the little purple whore and the butcher, the owners of this facility. They have contracted via crypt concurrency payment awesome persons to work in parallel with human multitasking capabilities obtained by the use of the remote radio wave machines. They are great scholars and consider this pure science. After them test in humans in this hell they produce applications for big tech giants or military facilities. This is the alpha test environment to do neuroscience development. No one is applying the rules of **ethics in human research** [[12]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3593469/). 
+
+I'm sorry my dear, but your intelligence cannot be applied to induct to suicide people. You are too clever to follow with this shit. Please try to understand why and stop humiliating me.
+
+Thank you.
+
 ### Batman
 
 ![Batman](../Images/batmandetective-1200x675.jpg)
@@ -84,6 +98,10 @@ Hes has got a sexual deviation. He has got a stable relationship but he is mania
 
 In Barcelona he starts a cybercafe in Marina street in 2004 with others three fellows. This is the district where i met the girl that now is slaved by the radio frequency machine. And yes, he works for this structure. They call it "techno" or "Illuminati".
 
+
+
+
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Crimes_against_humanity
@@ -95,14 +113,17 @@ In Barcelona he starts a cybercafe in Marina street in 2004 with others three fe
 7. https://parrotlinux.org/
 8. https://en.wikipedia.org/wiki/Brexit
 9. https://www.welivesecurity.com/2016/11/04/colossal-ddos-attack-liberia-wipes-majority-country-offline/
-10. https://en.wikipedia.org/wiki/Hardtechno
-11. https://www.motorcyclenews.com/bike-reviews/benelli/leoncino/2018/
-12. https://lionsclubs.org/en
-13. https://es.wikipedia.org/wiki/Gran_Logia_Simb%C3%B3lica_Espa%C3%B1ola
-14. https://en.wikipedia.org/wiki/Italian_Riviera
-15. https://en.wikipedia.org/wiki/Male_prostitution
-16. https://en.wikipedia.org/wiki/Tirrenia
-17. https://en.wikipedia.org/wiki/Darby_Military_Community
-18. https://it.wiktionary.org/wiki/balneare
-19. https://en.wikipedia.org/wiki/Sodomy
-20. https://en.wikipedia.org/wiki/Cinderella_effect
+10. https://www.dibris.unige.it/
+11. https://en.wikipedia.org/wiki/Josef_Mengele
+12. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3593469/
+13. https://en.wikipedia.org/wiki/Hardtechno
+14. https://www.motorcyclenews.com/bike-reviews/benelli/leoncino/2018/
+15. https://lionsclubs.org/en
+16. https://es.wikipedia.org/wiki/Gran_Logia_Simb%C3%B3lica_Espa%C3%B1ola
+17. https://en.wikipedia.org/wiki/Italian_Riviera
+18. https://en.wikipedia.org/wiki/Male_prostitution
+19. https://en.wikipedia.org/wiki/Tirrenia
+20. https://en.wikipedia.org/wiki/Darby_Military_Community
+21. https://it.wiktionary.org/wiki/balneare
+22. https://en.wikipedia.org/wiki/Sodomy
+23. https://en.wikipedia.org/wiki/Cinderella_effect
