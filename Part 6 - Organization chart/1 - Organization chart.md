@@ -118,7 +118,7 @@ I don't wanna describe more in deep, my dear, just best regards and keep up the 
 
 ### Twenty four girls
 
-![Girls](/home/taglio/Documents/GitHub/RNMnetwork/Images/91euKKv9oUL._RI_.jpg)
+![Girls](../Images/91euKKv9oUL._RI_.jpg)
 
 *Twenty four beauties*. Twenty four victims of the head. All with familiar problems. The figure of the dad is key. I personally know nine or probably more, and I've got two large sentimental relations with two of them. Why i personally know many? Because the head in his network has always control me. I came to Catalunya in 2009, i think that in 2010 he was controlling me. But not only me. Why he controls me? Because I'm a network engineer and i work in wireless telecommunications  but in the A side. He is like me but more bigger and work in the B side. He is older than me he has got much more experience. So I respect him but I have to act legally against him even if I don't like the idea. 
 
@@ -136,7 +136,7 @@ The girls are victim from a lot of time. Victim of brain washing at high level. 
 
 ### One of his wife. A malware.
 
-![Mirai Botnet](/home/taglio/Documents/GitHub/RNMnetwork/Images/DDoS-493312984.jpg)
+![Mirai Botnet](../Images/DDoS-493312984.jpg)
 
 Her name is very similar to the most dangerous **botnet** [[17]](https://en.wikipedia.org/wiki/Botnet) in the world: **Mirai** [[18]](https://en.wikipedia.org/wiki/Mirai_(malware)). He calls her wife, but no she isn't. She is another old victim of this monster. Nothing more. She says she is an hacker. I don't know, i think that yes she is. But nothing so special, more human and brain hacker.
 
@@ -160,7 +160,7 @@ But owning home routers it's only to build a ddosnet? No. Absolutely not. It's t
 
 ### An esoteric hacker.
 
-![hentai](/home/taglio/Documents/GitHub/RNMnetwork/Images/h_olymp_A2_22_www.pervify.com_0009.jpg)
+![hentai](../Images/h_olymp_A2_22_www.pervify.com_0009.jpg)
 
 An **esoteric** [[26]](https://en.wikipedia.org/wiki/Western_esotericism), **black magic** [[27]](https://en.wikipedia.org/wiki/Black_magic) hacker. I will not say his name, because yes, he is. He is an hacker. He likes to program and to write **Hentai** [[28]](https://en.wikipedia.org/wiki/Hentai) sex stories. But the hentai stories has got a secret. That is not so secret, are write upon real rape scene. Rape scene obtained with brain wash techniques or not i really don't know.
 
@@ -184,7 +184,7 @@ He has got contacts with a north Italy crew from **Bergamo** [[35]](https://en.w
 
 ### A fake Nazi, the girl that meet him
 
-![St Vigil in Enneberg](/home/taglio/Documents/GitHub/RNMnetwork/Images/D-9632-piste-san-viglio-pisten-St-Vigil-in-Enneberg.jpg)
+![St Vigil in Enneberg](../Images/D-9632-piste-san-viglio-pisten-St-Vigil-in-Enneberg.jpg)
 
 Yes, she seems to be a theorist of digital **neo-nazism** [[36]](https://en.wikipedia.org/wiki/Neo-Nazism). 
 
