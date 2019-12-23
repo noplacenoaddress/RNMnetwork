@@ -26,6 +26,22 @@ Another method to give an address in this radio network to clients, humans but n
 
 ### Transport Layer
 
+![Human resonance frequencies](../Images/The-human-body-resonance-frequencies.png)
+
+The transport layer to address the different organs of the client services, in this case are our organs, are the resonance frequencies of every part of our body. The worst part is that every human has got a particular range of resonance of internal organs. So every target individual has to be scanned like in a **nmap** [[6]](https://en.wikipedia.org/wiki/Nmap) session.
+
+How they can do it?
+
+Using others victims and their particular smart phones infected by hackers working with these facility. 
+
+A smart phone nowadays has got a lot of hardware that can be used to do this body scanner:
+
+- **MEMS magnetic field sensor** [[7]](https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor)
+- **Accelerometer** [[8]](https://en.wikipedia.org/wiki/Accelerometer)
+- **LTE quad band modem** [[9]](https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/)
+- **Wi-Fi and Bluetooth modules** [[10]](https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/)
+- **GNSS modules** [[11]](https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/)
+
 # External links
 
 1. https://en.wikipedia.org/wiki/Human_body
@@ -33,3 +49,9 @@ Another method to give an address in this radio network to clients, humans but n
 3. https://www.nature.com/articles/s41598-017-01647-x
 4. https://en.wikipedia.org/wiki/Nanoparticle
 5. https://en.wikipedia.org/wiki/Heart
+6. https://en.wikipedia.org/wiki/Nmap
+7. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+8. https://en.wikipedia.org/wiki/Accelerometer
+9. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/
+10. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/
+11. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/
