@@ -73,7 +73,20 @@ Speaking about the Vatican Radio there is various cases of cancer denunciated by
 - https://roma.repubblica.it/cronaca/2010/07/13/news/onde_elettromagnetiche-5565454/
 - https://magdahavas.com/study-finds-vatican-radio-causes-cancer/
 
-### The crime of organized stalking
+### Human rights violated
+
+![Universal declaration of human rights](../Images/The_universal_declaration_of_human_rights_10_December_1948.jpg)
+
+The synthetic telepathy network violate almost eleven rights declared in the **universal declaration** [[29]](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) created in 1948 by the **United Nations** [[30]](https://en.wikipedia.org/wiki/United_Nations):
+
+1. *We are all born free and equal*. Broken because when you are a target individual is humiliated continuously by who got access in the network. 
+2. *Don't discriminate*. Discrimination is done every moment in this network to induct to suicide.
+3. *The right to life*. Also broken. When stalkers play with your emotions and tough your life is ridiculed en front of a lot of people seeing the virtual monitor device of the network above them head. The transmission is a mandatory.
+4. *No slavery*. Slavery is the entrance for everyone in this hell, next if a person, like me, decide to fight for his rights psychological slavery in on the agenda.
+5.  *No torture*.  Electronic harassments and subliminal messages are without any doubt a torture. And we're living in the twenty one century. This is not middle age.
+6. *You have the same rights no matter where you go*.  
+
+
 
 
 
@@ -134,5 +147,9 @@ Speaking about the Vatican Radio there is various cases of cancer denunciated by
 27. https://drive.google.com/drive/folders/1RS0fwU8V0e3iu2SyuLtiXFiiR8bJ7_In
 
 28. https://drive.google.com/drive/folders/1RS0fwU8V0e3iu2SyuLtiXFiiR8bJ7_In
+
+29. https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
+
+30. https://en.wikipedia.org/wiki/United_Nations
 
     
