@@ -6,6 +6,10 @@ Like in the OSI model in the remote neural monitoring network there's a pile of 
 
 ### Physical layer
 
+![Human body](../Images/human-muscles-new.jpg)
+
+Human body is the physical layer of connectivity of this network. This is an awesome technology but used to destroy, command and conquer. 
+
 ### Data Link Layer
 
 ![Unique ID magnetic field](../Images/Screen-Shot-2018-11-09-at-11.08.08-AM-1.png)
