@@ -22,12 +22,6 @@ The magnetic field area network or **MFAN** [[9]](https://ieeexplore.ieee.org/do
 
 With this virtual device the environment near the victim is like a remote **CT scan** [[10]](https://en.wikipedia.org/wiki/CT_scan) machine, like under an electromagnetic isolation bell. And it is continuously, the real mean is that we are under excess doses and risk **radiation burn** [[11]](https://en.wikipedia.org/wiki/Radiation_burn) and risk of cancer.
 
-![Unique ID magnetic field](../Images/Screen-Shot-2018-11-09-at-11.08.08-AM-1.png)
-
-We're locked to those networks by satellite and by the steam machine between an unique human magnetic field value transmitted naturally if radio wave stimulated. **Magnetoelectric** [[12]](https://www.nature.com/articles/s41598-017-01647-x) **nanoparticles** [[13]](https://en.wikipedia.org/wiki/Nanoparticle) MEN are responsible of this emission. 
-
-Until ten years ago those networks exist but the services use in hide mode, there was no interaction with the client, the victim. Then someone have created a tool that scan for this magnetic field unique id and a lot of people become target individuals. Human guinea pig. Subjects that are under a continuous bet vortex in crypt concurrency. People that normally commit suicide. Go in mental disorder vortex by a corrupted health care system. Something that is  destroying our society. Welcome to the false electronic democracy. Welcome to the probably third world war. 
-
 ### The government LTE embedded hardware
 
 ![Remote neural network](../Images/satcycle3-4_2_orig.png)
