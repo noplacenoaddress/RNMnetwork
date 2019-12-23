@@ -84,7 +84,10 @@ The synthetic telepathy network violate almost eleven rights declared in the **u
 3. *The right to life*. Also broken. When stalkers play with your emotions and tough your life is ridiculed en front of a lot of people seeing the virtual monitor device of the network above them head. The transmission is a mandatory.
 4. *No slavery*. Slavery is the entrance for everyone in this hell, next if a person, like me, decide to fight for his rights psychological slavery in on the agenda.
 5.  *No torture*.  Electronic harassments and subliminal messages are without any doubt a torture. And we're living in the twenty one century. This is not middle age.
-6. *You have the same rights no matter where you go*.  
+6. *You have the same rights no matter where you go*.  Here you don't have any right.
+7. *We're all equal before the law*. Also false, people that are working here have access to a system that permit rapid corruption in crypt concurrency and there are many policemen, lawyers and judges that accept this kind of corruption that is almost undetectable.
+8. *Your human rights are protected by the law*. This is true but this crime is very difficult to prove so our rights aren't protected by the current law because no one explain in public how to register or to connect with a device to this network.
+9. No unfair detainment. Stalkers of Barcelona got me arrested without any sense. Also because of corruption.
 
 
 
