@@ -87,7 +87,11 @@ The synthetic telepathy network violate almost eleven rights declared in the **u
 6. *You have the same rights no matter where you go*.  Here you don't have any right.
 7. *We're all equal before the law*. Also false, people that are working here have access to a system that permit rapid corruption in crypt concurrency and there are many policemen, lawyers and judges that accept this kind of corruption that is almost undetectable.
 8. *Your human rights are protected by the law*. This is true but this crime is very difficult to prove so our rights aren't protected by the current law because no one explain in public how to register or to connect with a device to this network.
-9. No unfair detainment. Stalkers of Barcelona got me arrested without any sense. Also because of corruption.
+9. *No unfair detainment*. Stalkers of Barcelona got me arrested without any sense. Also because of corruption.
+10. *The right to privacy*. Totally broken. All what we see and what we think is transmitted over the remote neural monitoring network. Image to go for cash in a dispenser, all our pin codes are intercepted. Yes because in this network they are not hackers, almost all are thieves. And I hate to steal.
+11. *The right to seek a safe place to live*. If you are a target individual your private house it's not a safe place to live because of electronic harassment. 
+
+So it's important to understand that owners of this network have to be put in jail also because they commit **crimes against humanity** [[31]](https://en.wikipedia.org/wiki/Crimes_against_humanity). 
 
 
 
@@ -154,5 +158,7 @@ The synthetic telepathy network violate almost eleven rights declared in the **u
 29. https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
 
 30. https://en.wikipedia.org/wiki/United_Nations
+
+31. https://en.wikipedia.org/wiki/Crimes_against_humanity
 
     
