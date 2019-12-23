@@ -141,6 +141,10 @@ I think that is possible using this technology to induce to a victim an attack o
 
 **Epileptic seizures** [[72]](https://en.wikipedia.org/wiki/Epileptic_seizure) are the result of excessive and abnormal neuronal activity in the cortex of the brain. This abnormal neuronal activity can be induced at 3Hz at **extremely low frequency** [[73]](https://en.wikipedia.org/wiki/Extremely_low_frequency).
 
+![Image from brain waves](../Images/Human-Thoughts-Reconstructed-From-Brain-Waves-777x559.jpg)
+
+Those image are obtained by the interpretation of brain wave. It's possible to obtain what wee see reading our remote EEG. In the remote neural monitoring data center we are considered like "*human cameras*". 
+
 ### Death method
 
 ![DEW](../Images/laser-weapons-illustration-1200.jpg)
