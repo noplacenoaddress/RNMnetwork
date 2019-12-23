@@ -143,6 +143,8 @@ I think that is possible using this technology to induce to a victim an attack o
 
 ![Image from brain waves](../Images/Human-Thoughts-Reconstructed-From-Brain-Waves-777x559.jpg)
 
+Those image are obtained by the interpretation of brain wave. It's possible to obtain what wee see reading our remote EEG. In the remote neural monitoring data center we are considered like "*human cameras*". 
+
 ### Death method
 
 ![DEW](../Images/laser-weapons-illustration-1200.jpg)
