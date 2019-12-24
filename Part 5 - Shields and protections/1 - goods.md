@@ -30,6 +30,21 @@ Using this material there's also another application very nice to protect our sm
 
 They call this as "Faraday bags" simply **search them in amazon** [[10]](https://www.amazon.com/s?k=faraday+bag&gclid=Cj0KCQiA6IHwBRCJARIsALNjViUePfIRPKWnuGrOqt7tL1wKsoyMloJt3_COJq9qNo327UYrfggBUroaAsghEALw_wcB&hvadid=241924514100&hvdev=c&hvlocphy=2840&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=15565659449023859768&hvtargid=kwd-22210782668&hydadcr=24664_10400964&tag=googhydr-20&ref=pd_sl_4io82buobw_e).
 
+### Radio Jamming
+
+![Radio Jamming](../Images/au4gjammer150629059_01.jpg)
+
+**Radio jamming** [[11]](https://en.wikipedia.org/wiki/Radio_jamming) from the end of the second world war was used to silently combat between different factions. 
+
+In the "Illuminati" radio wave network a lot of different frequencies are used to torture, read our toughs, inject dreams and subliminal voices to our head. In particular subliminal voice service use MF frequencies near 450 KHz. 
+
+You can build one of these in a cheap way using Arduino and a SDR radio operating range in those frequencies for example using those two boards:
+
+- **HackRF One** [[12]](https://greatscottgadgets.com/hackrf/)
+- **Ham It Up HF Upconverter** [[13]](https://www.nooelec.com/store/sdr/sdr-addons/ham-it-up.html) 
+
+It's also possible to buy a small radio transmitter USB to connect to a smart phone and code an application to continuously transmit in these frequency and cover the synthetic telepathy network facility emissions. 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
@@ -42,3 +57,6 @@ They call this as "Faraday bags" simply **search them in amazon** [[10]](https:/
 8. https://www.kickstarter.com/projects/1852630657/faradays-protecting-humanity-since-likeright-now
 9. https://www.kickstarter.com/projects/750351743/high-tech-boxers-protecting-your-nuts-from-cellpho
 10. https://www.amazon.com/s?k=faraday+bag&gclid=Cj0KCQiA6IHwBRCJARIsALNjViUePfIRPKWnuGrOqt7tL1wKsoyMloJt3_COJq9qNo327UYrfggBUroaAsghEALw_wcB&hvadid=241924514100&hvdev=c&hvlocphy=2840&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=15565659449023859768&hvtargid=kwd-22210782668&hydadcr=24664_10400964&tag=googhydr-20&ref=pd_sl_4io82buobw_e
+11. https://en.wikipedia.org/wiki/Radio_jamming
+12. https://greatscottgadgets.com/hackrf/
+13. https://www.nooelec.com/store/sdr/sdr-addons/ham-it-up.html
