@@ -343,7 +343,25 @@ Why i said that all the peoples that enter in the "Illuminati" hierarchy tree ar
 
 ### Fiscals paradises bank proxy and load balancing.
 
+![Web App](../Images/web20.png)
 
+**Web API** [[120]](https://en.wikipedia.org/wiki/Web_API) are services binded to customers by various type of facilities that have a showcase in Internet. Facebook, Google, Amazon for example got this service open behind subscription.
+
+Also bank got API, and if you have got an online store you can also configure payment using these feature.  
+
+So if normal bank got also fiscal paradise banks got one. Normal people that has got accounts and correct connection with these bankers got access to them.
+
+In the "illuminati" facility not all is above radio frequency and them ad hoc network stack. I've observed in those years mobiles smart phones from people that belongs to the organization chart. They all have got access using **point to point tunneling protocol** [[121]](https://en.wikipedia.org/wiki/Point-to-Point_Tunneling_Protocol) weak virtual private network. 
+
+First of all this is a clear weak point in the security of this network. An hacker could simply obtain access to one of them mobiles and enter in the facility without any problem, so *in reality they aren't very clever at all*.
+
+A virtual private network consist in a tunnel in a public network like Internet to a private local area network, the weak point here is that the protocol utilized to encapsulate the traffic is not secure at all. But this another chapter where i will describe who i break this shit network. 
+
+*So what they call techno, my dear fellows and followers and you know what I mean, it's not secure at all.*
+
+Speaking about API they have build a income load balancer divided in various fiscal heaves bank account. Because of the nature of this network namely that victims conscious or not are human video camera our personal **national identification** [[122]](https://en.wikipedia.org/wiki/National_identification_number) are probably been stolen. It's an **identity theft** [[123]](https://en.wikipedia.org/wiki/Identity_theft) fraud at large scale. Perhaps using her contact, the stupid little purple bitch Francesca the owner, has opened thousand of bank account in fiscal heaves.
+
+*This is why i denunciate that someone, one of the stalkers of the network, has stole my passport and Spanish national id card.*
 
 
 ### External links
@@ -591,6 +609,14 @@ Why i said that all the peoples that enter in the "Illuminati" hierarchy tree ar
 120. https://en.wikipedia.org/wiki/Horoscope
 
 121. https://en.wikipedia.org/wiki/Knights_of_the_Round_Table
+
+122. https://en.wikipedia.org/wiki/Web_API
+
+123. https://en.wikipedia.org/wiki/Point-to-Point_Tunneling_Protocol
+
+124. https://en.wikipedia.org/wiki/National_identification_number
+
+125. https://en.wikipedia.org/wiki/Identity_theft
 
      
 
