@@ -34,7 +34,7 @@ Governments has got subliminal voice services and silent brain waves sniff embed
 
 The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are two black ferrite magnetic loop antennas that create with two software defined radios a network below 150Hz. They implement **US patent 6011991** [[15]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf) , **4834701** [[16]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf) but not only.
 
-The white omnidireccional antenna is operating in VHF and it used for subliminal voice services. It implement **US patent  5159703** [[17]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf).
+The white omnidireccional antenna is operating in MF and it used for subliminal voice services. It implement **US patent  5159703** [[17]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf).
 
 The last one it's probably related to an open hardware radar system.
 
