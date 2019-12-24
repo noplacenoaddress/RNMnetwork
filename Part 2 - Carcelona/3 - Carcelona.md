@@ -39,6 +39,10 @@ How they gain money?
 
 Those drug and prostitution facilities are divided in actions like an anonymous society. They gain a percent in crypt concurrency in the monthly revenue.
 
+Why I speak about this?
+
+Because they have systematically destroy my life, they stole my job and used my infrastructure to open this service in Barcelona. They made the woman I love prostitute and destroyed the city. Everyone must be sent to life imprisonment.
+
 # External links
 
 1. https://en.wikipedia.org/wiki/Monopoly_(game)
