@@ -341,6 +341,11 @@ Parimutuel betting are a dangerous form of betting when we speak about large amo
 
 Why i said that all the peoples that enter in the "Illuminati" hierarchy tree are subject to parimutuel betting?  Because every years there is gambling on who do more invoice selling goods, black market, legal market and so on. Like in a **greyhound racing** [[119]](https://en.wikipedia.org/wiki/Greyhound_racing). But here you will die if you arrive further down the place number thirteen. And obviously there is also, probably with another method, a bet in your life using normal concurrency. 
 
+### Fiscals paradises bank proxy and load balancing.
+
+
+
+
 ### External links
 
 ![networking](../Images/1-intro_113_0.jpg)	
