@@ -42,6 +42,18 @@ Incredible, but yes it is. And it seems to be Aristocratic derived. Yes it is bu
 
 > *But what is the real final goal of this shit? Obviously the sold of sex amateur videos. With this technology your privacy is destroyed. In your home there's people masturbating. Old people. Millionaires, nobles and church priest. It's not a joke. It's the fucking true!*
 
+So I'm totally isolated by this betting system. 
+
+My ex girlfriend play this game with one man, what is the game?
+
+People in remote bet over the number of sex penetration that they have during sex, number of time they got sex, how many lines of cocaine they have, how many times they got an orgasm and so on. This is physically.
+
+What does this method obtain?
+
+Saray have entered in a mechanism about drug, about sex and so on. Her brain couldn't escape. They sell her, they put her in swing environment and she doesn't say nothing. Se cannot see her baby. 
+
+They have virtual rape her. 
+
 ### The audiovisual Catalan industry
 
 ![Nadie sabe nada](../Images/asda23232es.jpg)
