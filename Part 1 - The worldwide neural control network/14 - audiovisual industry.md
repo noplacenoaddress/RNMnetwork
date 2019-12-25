@@ -36,6 +36,8 @@ Some of them implement **direct current** [[12]](https://en.wikipedia.org/wiki/D
 
 Next the bridge from ham radio to IP it's important to join a **metropolitan area network** [[16]](https://en.wikipedia.org/wiki/Metropolitan_area_network) with fiber or license radio bridges to a data center. Here with an **exterior gateway protocol** [[17]](https://en.wikipedia.org/wiki/Exterior_gateway_protocol) IP layer three packet are routed to an audiovisual networking and production facility.
 
+![Metro fiber network](../Images/Carrier Ethernet Services over Access Infrastructures.png)
+
 Here protocols are various the but the goal is to retransmit data over IP using **IPTV** [[18]](https://en.wikipedia.org/wiki/Internet_Protocol_television) over Internet, over **deep web** [[19]](https://en.wikipedia.org/wiki/Deep_web), over satellite using **videocipher** [[20]](https://en.wikipedia.org/wiki/Videocipher) customer enterprise equipment. What is transmitted as result of the "Illuminati"  facility is only illegal porn content, also **pedophilia** [[21]](https://en.wikipedia.org/wiki/Pedophilia). Remember that victims are unconscious human video camera.  
 
 Speaking about protocols it's important to learn **Internet Group Management Protocol** [[22]](https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol) perhaps who is **shareholder** [[23]](https://en.wikipedia.org/wiki/Shareholder) of the most important telecommunications and technological societies it's subscribed to a **multicast** [[24]](https://en.wikipedia.org/wiki/Multicast) address where all this shit is transmitted. 
