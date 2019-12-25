@@ -48,9 +48,7 @@ This infrastructure, very simple in design, is implemented by Francesca, nephew 
 
 
 
-### 
-
-# External links
+### External links
 
 1. https://en.wikipedia.org/wiki/Vatican_Radio
 2. https://en.wikipedia.org/wiki/International_Telecommunication_Union
