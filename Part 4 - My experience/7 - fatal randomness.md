@@ -38,6 +38,8 @@ Remember what I'm saying about this hell network? I speak about virtual rape, so
 
 In this festival people arrive with punk van and mount tend and some one product **LSD** [[17]](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) papers on site. We was young and from 1996 to 1999 I use to consume trip with my friends. 
 
+This time something was going bad the taste of the paper was not normal was a **Freddy cat** [[18]](http://www.sorted.org/diy/DIYwarnings/FFC.htm) one. I was experience a **bad trip** [[19]](https://psychonautwiki.org/wiki/Bad_trip) very intense. About eight hours of overdose like travel. And overdose of LSD is almost impossible.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -57,3 +59,5 @@ In this festival people arrive with punk van and mount tend and some one product
 15. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
 16. https://en.wikipedia.org/wiki/Cyberpunk
 17. https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide
+18. http://www.sorted.org/diy/DIYwarnings/FFC.htm
+19. https://psychonautwiki.org/wiki/Bad_trip
