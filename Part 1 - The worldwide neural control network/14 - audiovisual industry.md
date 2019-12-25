@@ -38,7 +38,9 @@ Next the bridge from ham radio to IP it's important to join a **metropolitan are
 
 Here protocols are various the but the goal is to retransmit data over IP using **IPTV** [[18]](https://en.wikipedia.org/wiki/Internet_Protocol_television) over Internet, over **deep web** [[19]](https://en.wikipedia.org/wiki/Deep_web), over satellite using **videocipher** [[20]](https://en.wikipedia.org/wiki/Videocipher) customer enterprise equipment. What is transmitted as result of the "Illuminati"  facility is only illegal porn content, also **pedophilia** [[21]](https://en.wikipedia.org/wiki/Pedophilia). Remember that victims are unconscious human video camera.  
 
+Speaking about protocols it's important to learn **Internet Group Management Protocol** [[22]](https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol) perhaps who is **shareholder** [[23]](https://en.wikipedia.org/wiki/Shareholder) of the most important telecommunications and technological societies it's subscribed to a **multicast** [[24]](https://en.wikipedia.org/wiki/Multicast) address where all this shit is transmitted. 
 
+*Bet over humans like they are animals is how they pass their afternoon.* 
 
 ### External Links
 
@@ -63,3 +65,6 @@ Here protocols are various the but the goal is to retransmit data over IP using 
 19. https://en.wikipedia.org/wiki/Deep_web
 20. https://en.wikipedia.org/wiki/Videocipher
 21. https://en.wikipedia.org/wiki/Pedophilia
+22. https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol
+23. https://en.wikipedia.org/wiki/Shareholder
+24. https://en.wikipedia.org/wiki/Multicast
