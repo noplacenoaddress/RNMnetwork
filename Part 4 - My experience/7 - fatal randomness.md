@@ -24,7 +24,7 @@ Look at this playbill it's from 1998 from a little fraction of **Cortemilia** [[
 
 The name of the fraction is **Bergolo** [[7]](https://it.wikipedia.org/wiki/Bergolo) and the playbill it's from a festival, it's name was **Canté Magg** [[8]](http://www.stpauls.it/ga01/0121ga/0121ga06.htm). The literally meaning is sing of may.
 
-First of all look at the wikipedia article. This fraction has got only 68 residents but the article is translated in 29 languages! Next look at the "g" letter in the playbill, it's without any doubt a "9".
+First of all look at the wikipedia article. This fraction has got only 68 residents but the article is translated in 29 languages! Next look at the "g" letter in the playbill, it's without any doubt a "9"; the "C" capital letter it's a crescent moon, the **herald** [[9]](https://en.wikipedia.org/wiki/Herald) from the important noble surname in Catalunya got the same symbol.
 
 Here something terrible happen to me and to one of the two brothers of Francesca, the owner of the "Illuminati" game, the pseudo dictatorship facility that is killing a lot of people in Catalunya nowadays in 2019. His name was Alessandro.
 
@@ -38,3 +38,4 @@ Here something terrible happen to me and to one of the two brothers of Francesca
 6. https://it.wikipedia.org/wiki/Piemonte
 7. https://it.wikipedia.org/wiki/Bergolo
 8. http://www.stpauls.it/ga01/0121ga/0121ga06.htm
+9. https://en.wikipedia.org/wiki/Herald
