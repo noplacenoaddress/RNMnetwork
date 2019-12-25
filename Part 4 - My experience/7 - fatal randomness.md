@@ -12,6 +12,8 @@ Obviously it's something connected to money, power and secrets. The Machine, the
 
 I'll try to explain better what is exactly the arguments Vatican related, but esoteric is touched and I don't want to fall on them like all others the websites speaking about this system do.
 
+They say that my Machine, but I don't know where it is, what kind of system is and who host it, it's identify by the number 9.
+
 ### Bergolo fraction of Cortemilia, Italy
 
 ![Bergolo](../Images/0121ga26.jpg)
