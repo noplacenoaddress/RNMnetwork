@@ -52,7 +52,7 @@ Resolution of video obtained by the "Illuminati" technology are of **nHD** [[25]
 
 I'm not a audiovisual expert but i can say that technology of video composite and **deepfake** [[28]](https://en.wikipedia.org/wiki/Deepfake) are used.
 
-Deepfake is used to mask victims. Porn web portals are full of amateur not acknowledge videos masked by the use of advanced version of this technology. All is open source and only a team of good programmer could done a perfect job. It's important to find RAW images  to condemn criminals.
+Deepfake is used to mask victims. Porn web portals are full of amateur not acknowledge videos masked by the use of advanced version of this technology. All is open source and only a team of good programmer could done a perfect job. It's important to find **RAW images** [[29]](https://en.wikipedia.org/wiki/Raw_image_format) to condemn criminals.
 
 ### External Links
 
@@ -84,3 +84,4 @@ Deepfake is used to mask victims. Porn web portals are full of amateur not ackno
 26. https://en.wikipedia.org/wiki/1080p
 27. https://en.wikipedia.org/wiki/Video_processing
 28. https://en.wikipedia.org/wiki/Deepfake
+29. https://en.wikipedia.org/wiki/Raw_image_format
