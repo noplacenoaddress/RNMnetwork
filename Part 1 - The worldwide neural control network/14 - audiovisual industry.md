@@ -38,6 +38,8 @@ Next the bridge from ham radio to IP it's important to join a **metropolitan are
 
 Here protocols are various the but the goal is to retransmit data over IP using **IPTV** [[18]](https://en.wikipedia.org/wiki/Internet_Protocol_television) over Internet, over **deep web** [[19]](https://en.wikipedia.org/wiki/Deep_web), over satellite using **videocipher** [[20]](https://en.wikipedia.org/wiki/Videocipher) customer enterprise equipment. What is transmitted as result of the "Illuminati"  facility is only illegal porn content, also **pedophilia** [[21]](https://en.wikipedia.org/wiki/Pedophilia). Remember that victims are unconscious human video camera.  
 
+
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Wireless_Internet_service_provider
