@@ -50,7 +50,7 @@ People in remote bet over the number of sex penetration that they have during se
 
 What does this method obtain?
 
-Saray have entered in a mechanism about drug, about sex and so on. Her brain couldn't escape. The sell her, they put her in swing environment and she doesn't say nothing. Se cannot see her baby. 
+Saray have entered in a mechanism about drug, about sex and so on. Her brain couldn't escape. They sell her, they put her in swing environment and she doesn't say nothing. Se cannot see her baby. 
 
 They have virtual rape her. 
 
