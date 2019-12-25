@@ -43,9 +43,22 @@ Why I speak about this?
 
 Because they have systematically destroy my life, they stole my job and used my infrastructure to open this service in Barcelona. They made the woman I love prostitute and destroyed the city. Everyone must be sent to life imprisonment.
 
-# External links
+### The technological infrastructure
+
+![sant Fost de Camsentelles](../Images/20191209_145540.jpg)
+
+This is a WISP node that fusion the remote neural monitoring access radios, on the left, and the **Ubiquiti** [[5]](https://en.wikipedia.org/wiki/Ubiquiti_Networks) network IP infrastructure. 
+
+Image was taken at 41º 29’ 29.7” N, 2º 15’ 9.1” E **geographical coordinates** [[6]](https://en.wikipedia.org/wiki/Geographic_coordinate_system) on 9 of December of 2019 at 2:55 PM.
+
+The WISP was of my property until 2016, then with a fraud I loose it and they start to induct to suicide me. The name is MESWIFI and now has got an AS number that is **AS205645 **[[7]](https://bgp.he.net/AS205645).
+
+###  External links
 
 1. https://en.wikipedia.org/wiki/Monopoly_(game)
 2. https://en.wikipedia.org/wiki/Board_game
 3. https://www.youtube.com/watch?v=Cqfx5GPecAE
 4. https://en.wikipedia.org/wiki/Grand_Theft_Auto
+5. https://en.wikipedia.org/wiki/Ubiquiti_Networks
+6. https://en.wikipedia.org/wiki/Geographic_coordinate_system
+7. https://bgp.he.net/AS205645

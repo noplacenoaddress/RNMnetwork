@@ -36,11 +36,23 @@ Some of them implement **direct current** [[12]](https://en.wikipedia.org/wiki/D
 
 Next the bridge from ham radio to IP it's important to join a **metropolitan area network** [[16]](https://en.wikipedia.org/wiki/Metropolitan_area_network) with fiber or license radio bridges to a data center. Here with an **exterior gateway protocol** [[17]](https://en.wikipedia.org/wiki/Exterior_gateway_protocol) IP layer three packet are routed to an audiovisual networking and production facility.
 
+![Metro fiber network](../Images/Carrier Ethernet Services over Access Infrastructures.png)
+
 Here protocols are various the but the goal is to retransmit data over IP using **IPTV** [[18]](https://en.wikipedia.org/wiki/Internet_Protocol_television) over Internet, over **deep web** [[19]](https://en.wikipedia.org/wiki/Deep_web), over satellite using **videocipher** [[20]](https://en.wikipedia.org/wiki/Videocipher) customer enterprise equipment. What is transmitted as result of the "Illuminati"  facility is only illegal porn content, also **pedophilia** [[21]](https://en.wikipedia.org/wiki/Pedophilia). Remember that victims are unconscious human video camera.  
 
 Speaking about protocols it's important to learn **Internet Group Management Protocol** [[22]](https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol) perhaps who is **shareholder** [[23]](https://en.wikipedia.org/wiki/Shareholder) of the most important telecommunications and technological societies it's subscribed to a **multicast** [[24]](https://en.wikipedia.org/wiki/Multicast) address where all this shit is transmitted. 
 
 *Bet over humans like they are animals is how they pass their afternoon.* 
+
+### Digital video processing 
+
+![Deepfake](../Images/694940094001_6063551200001_6063550473001-vs.jpg)
+
+Resolution of video obtained by the "Illuminati" technology are of **nHD** [[25]](https://en.wikipedia.org/wiki/Graphics_display_resolution#nHD) display resolution, a ninth part of **Full HD** [[26]](https://en.wikipedia.org/wiki/1080p). To be transmitted over the channels above a **video processing** [[27]](https://en.wikipedia.org/wiki/Video_processing) facility is necessary. 
+
+I'm not a audiovisual expert but i can say that technology of video composite and **deepfake** [[28]](https://en.wikipedia.org/wiki/Deepfake) are used.
+
+Deepfake is used to mask victims. Porn web portals are full of amateur not acknowledge videos masked by the use of advanced version of this technology. All is open source and only a team of good programmer could done a perfect job. It's important to find **RAW images** [[29]](https://en.wikipedia.org/wiki/Raw_image_format) to condemn criminals.
 
 ### External Links
 
@@ -68,3 +80,8 @@ Speaking about protocols it's important to learn **Internet Group Management Pro
 22. https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol
 23. https://en.wikipedia.org/wiki/Shareholder
 24. https://en.wikipedia.org/wiki/Multicast
+25. https://en.wikipedia.org/wiki/Graphics_display_resolution#nHD
+26. https://en.wikipedia.org/wiki/1080p
+27. https://en.wikipedia.org/wiki/Video_processing
+28. https://en.wikipedia.org/wiki/Deepfake
+29. https://en.wikipedia.org/wiki/Raw_image_format
