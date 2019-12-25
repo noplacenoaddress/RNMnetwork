@@ -44,6 +44,16 @@ Speaking about protocols it's important to learn **Internet Group Management Pro
 
 *Bet over humans like they are animals is how they pass their afternoon.* 
 
+### Digital video processing 
+
+![Deepfake](../Images/694940094001_6063551200001_6063550473001-vs.jpg)
+
+Resolution of video obtained by the "Illuminati" technology are of **nHD** [[25]](https://en.wikipedia.org/wiki/Graphics_display_resolution#nHD) display resolution, a ninth part of **Full HD** [[26]](https://en.wikipedia.org/wiki/1080p). To be transmitted over the channels above a **video processing** [[27]](https://en.wikipedia.org/wiki/Video_processing) facility is necessary. 
+
+I'm not a audiovisual expert but i can say that technology of video composite and **deepfake** [[28]](https://en.wikipedia.org/wiki/Deepfake) are used.
+
+Deepfake is used to mask victims. Porn web portals are full of amateur not acknowledge videos masked by the use of advanced version of this technology. All is open source and only a team of good programmer could done a perfect job. It's important to find RAW images  to condemn criminals.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Wireless_Internet_service_provider
@@ -70,3 +80,7 @@ Speaking about protocols it's important to learn **Internet Group Management Pro
 22. https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol
 23. https://en.wikipedia.org/wiki/Shareholder
 24. https://en.wikipedia.org/wiki/Multicast
+25. https://en.wikipedia.org/wiki/Graphics_display_resolution#nHD
+26. https://en.wikipedia.org/wiki/1080p
+27. https://en.wikipedia.org/wiki/Video_processing
+28. https://en.wikipedia.org/wiki/Deepfake
