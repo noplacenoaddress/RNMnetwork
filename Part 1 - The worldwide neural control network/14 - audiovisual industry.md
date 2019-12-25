@@ -25,7 +25,7 @@ Here is some good links:
 - **Software-defined radio** [[10]](https://en.wikipedia.org/wiki/Software-defined_radio)
 - **Universal Software Radio Periphereal** [[11]](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral)
 
-UNRP are a point of interest to develop BRAINnet utilized to silently sniff EEG from victims and inject data into brains.
+USRP are a point of interest to develop BRAINnet utilized to silently sniff EEG from victims and inject data into brains.
 
 ![LFRX](../Images/prod_lfrx_01_lg.jpg)
 
@@ -34,7 +34,13 @@ Some of them implement **direct current** [[12]](https://en.wikipedia.org/wiki/D
 - **LFRX DC - 30 MHz Rx** [[14]](https://www.ettus.com/all-products/lfrx/)
 - **LFRX DC - 30 MHz Tx** [[15]](https://www.ettus.com/all-products/lftx/)
 
+Next the bridge from ham radio to IP it's important to join a **metropolitan area network** [[16]](https://en.wikipedia.org/wiki/Metropolitan_area_network) with fiber or license radio bridges to a data center. Here with an **exterior gateway protocol** [[17]](https://en.wikipedia.org/wiki/Exterior_gateway_protocol) IP layer three packet are routed to an audiovisual networking and production facility.
 
+Here protocols are various the but the goal is to retransmit data over IP using **IPTV** [[18]](https://en.wikipedia.org/wiki/Internet_Protocol_television) over Internet, over **deep web** [[19]](https://en.wikipedia.org/wiki/Deep_web), over satellite using **videocipher** [[20]](https://en.wikipedia.org/wiki/Videocipher) customer enterprise equipment. What is transmitted as result of the "Illuminati"  facility is only illegal porn content, also **pedophilia** [[21]](https://en.wikipedia.org/wiki/Pedophilia). Remember that victims are unconscious human video camera.  
+
+Speaking about protocols it's important to learn **Internet Group Management Protocol** [[22]](https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol) perhaps who is **shareholder** [[23]](https://en.wikipedia.org/wiki/Shareholder) of the most important telecommunications and technological societies it's subscribed to a **multicast** [[24]](https://en.wikipedia.org/wiki/Multicast) address where all this shit is transmitted. 
+
+*Bet over humans like they are animals is how they pass their afternoon.* 
 
 ### External Links
 
@@ -53,3 +59,12 @@ Some of them implement **direct current** [[12]](https://en.wikipedia.org/wiki/D
 13. https://en.wikipedia.org/wiki/Wireless_power_transfer
 14. https://www.ettus.com/all-products/lfrx/
 15. https://www.ettus.com/all-products/lfrx/
+16. https://en.wikipedia.org/wiki/Metropolitan_area_network
+17. https://en.wikipedia.org/wiki/Exterior_gateway_protocol
+18. https://en.wikipedia.org/wiki/Internet_Protocol_television
+19. https://en.wikipedia.org/wiki/Deep_web
+20. https://en.wikipedia.org/wiki/Videocipher
+21. https://en.wikipedia.org/wiki/Pedophilia
+22. https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol
+23. https://en.wikipedia.org/wiki/Shareholder
+24. https://en.wikipedia.org/wiki/Multicast
