@@ -46,7 +46,11 @@ This infrastructure, very simple in design, is implemented by Francesca, nephew 
 
 **3D radar** [[18]](https://en.wikipedia.org/wiki/3D_radar). It's a positioning system that is implemented in the neural control network. There are two layers of positioning, the official one from military forces and the open hardware one that use SDR hardware that it's called **software defined embedded radar** [[19]](http://ancortek.com/).
 
+### The IP bridge
 
+
+
+### 
 
 # External links
 
