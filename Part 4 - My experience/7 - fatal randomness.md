@@ -66,7 +66,11 @@ In this high school i know a person that I consider like my best professor, **Li
 
 *Cheers Liliana I know that you're reading me.*
 
+In that ridiculous, as usual because those adept in reality are poor little stupids nothing more, plot I've lost two years fighting in a semi silent mode with those insects that are professors in the institute and in different courses catch new victims to manipulate searching for boys and girls with difficult family situations to recruit new adept or in this way of mean new soldiers. Because those structures are paramilitary. Like in the "Illuminati" pseudo dictatorship. 
 
+I have found three or four totally masked in the organization chart and quickly referred to what was the principal of the institute. 
+
+For me the fraud "Illuminati" that have induct to suicide an enormous number of victims and reduce to be a little narcos  or prostitute another enormous number is something that have been elaborated from this sept.
 
 ### External Links
 
