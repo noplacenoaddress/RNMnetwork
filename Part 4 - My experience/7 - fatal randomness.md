@@ -50,7 +50,27 @@ A fatal motorbike accident tragedy. Near the same fraction. Three years later. A
 
 *It's this normal? I really don't think so.* 
 
+### Communion and Liberation
 
+![CL](../Images/Comunione_e_liberazione.jpg)
+
+From 1994 to 2001 I go to high school **Martin Luther King** [[20]](https://www.liceoking.it/) in Genoa, my born city. The normal curse was of five years of study. But I repeat two times; I never been a great scholar but I'm clever so I finish. The worst think is that the two years that I've lost was not really my fault, even if I repeat when I was eighteen I didn't study a lot.
+
+**Communion and Liberation** [[21]](https://en.wikipedia.org/wiki/Communion_and_Liberation) is a **Catholic movement** [[22]](https://en.wikipedia.org/wiki/Catholic_movements), I call them a **sect** [[23]](https://en.wikipedia.org/wiki/Sect), very present actually in Italy and Spain. In my opinion and for my experience they work like an octopus in our democratic society. They are very dangerous in front of the ignorance deliberately cultivated in the last twenty years. Who is part of this sect legally recognized by **Opus Dei** [[24]](https://en.wikipedia.org/wiki/Opus_Dei) silently inserts itself as an insect in the fundamental links of civil society. Schools, churches, gyms, politics, associations, music clubs, activity groups, municipal infrastructure, hospitals, professional orders for example. These elements of democracy infection serve to have key points in the democracy pillars. Infiltrators, that can be interpreted as **double agents** [[25]](https://en.wikipedia.org/wiki/Double_agent) spying an enemy organization. These criminals legally recognized for a good part of the Catholic Church are what I call with the right noun, **adept** [[26]](https://en.wikipedia.org/wiki/Adept). 
+
+*In reality those looser are only a think, fascist.* 
+
+I frontally collide with this sept when I go to this high school, but *in reality my family is*. And no, I'm not obviously. I'm not a stupid, I'm an **atheist** [[27]](https://en.wikipedia.org/wiki/Atheism), and in **parliament** [[28]](https://en.wikipedia.org/wiki/Parliament) a sit down in the left side. As usual, in this network but i was not conscious because probably only I was under neural monitoring but I don't listen to subliminal voices messages, all was a plot. A **plot plan** [[29]](https://en.wikipedia.org/wiki/Plot_plan) is something used in **engineering** [[30]](https://en.wikipedia.org/wiki/Engineering), and my father belongs to the **order of the engineer** [[31]](https://en.wikipedia.org/wiki/Order_of_the_Engineer). A **professional order** [[32]](https://en.wikipedia.org/wiki/Professional_order) got something similar to a ritual to get in, but those are only my two cents.
+
+In this high school i know a person that I consider like my best professor, **Liliana Boccalatte** [[33]](https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504) teaching history and philosophy. She helps me to understand our society and real meaning of the **myth of the cave** [[34]](https://en.wikipedia.org/wiki/Myth_of_the_Cave), something very important to survive in the remote neural monitoring network, to not going mad. I love her. 
+
+*Cheers Liliana I know that you're reading me.*
+
+In that ridiculous, as usual because those adept in reality are poor little stupids nothing more, plot I've lost two years fighting in a semi silent mode with those insects that are professors in the institute and in different courses catch new victims to manipulate searching for boys and girls with difficult family situations to recruit new adept or in this way of mean new soldiers. Because those structures are paramilitary. Like in the "Illuminati" pseudo dictatorship. 
+
+I have found three or four totally masked in the organization chart and quickly referred to what was the principal of the institute. 
+
+For me the fraud "Illuminati" that have induct to suicide an enormous number of victims and reduce to be a little narcos  or prostitute another enormous number is something that have been elaborated from this sept.
 
 ### External Links
 
@@ -73,3 +93,18 @@ A fatal motorbike accident tragedy. Near the same fraction. Three years later. A
 17. https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide
 18. http://www.sorted.org/diy/DIYwarnings/FFC.htm
 19. https://psychonautwiki.org/wiki/Bad_trip
+20. https://www.liceoking.it/
+21. https://en.wikipedia.org/wiki/Communion_and_Liberation
+22. https://en.wikipedia.org/wiki/Catholic_movements
+23. https://en.wikipedia.org/wiki/Sect
+24. https://en.wikipedia.org/wiki/Opus_Dei
+25. https://en.wikipedia.org/wiki/Double_agent
+26. https://en.wikipedia.org/wiki/Adept
+27. https://en.wikipedia.org/wiki/Atheism
+28. https://en.wikipedia.org/wiki/Parliament
+29. https://en.wikipedia.org/wiki/Plot_plan
+30. https://en.wikipedia.org/wiki/Engineering
+31. https://en.wikipedia.org/wiki/Order_of_the_Engineer
+32. https://en.wikipedia.org/wiki/Professional_order
+33. https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504
+34. https://en.wikipedia.org/wiki/Myth_of_the_Cave
