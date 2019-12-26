@@ -62,6 +62,12 @@ From 1994 to 2001 I go to high school **Martin Luther King** [[20]](https://www.
 
 I frontally collide with this sept when I go to this high school, but *in reality my family is*. And no, I'm not obviously. I'm not a stupid, I'm an **atheist** [[27]](https://en.wikipedia.org/wiki/Atheism), and in **parliament** [[28]](https://en.wikipedia.org/wiki/Parliament) a sit down in the left side. As usual, in this network but i was not conscious because probably only I was under neural monitoring but I don't listen to subliminal voices messages, all was a plot. A **plot plan** [[29]](https://en.wikipedia.org/wiki/Plot_plan) is something used in **engineering** [[30]](https://en.wikipedia.org/wiki/Engineering), and my father belongs to the **order of the engineer** [[31]](https://en.wikipedia.org/wiki/Order_of_the_Engineer). A **professional order** [[32]](https://en.wikipedia.org/wiki/Professional_order) got something similar to a ritual to get in, but those are only my two cents.
 
+In this high school i know a person that I consider like my best professor, **Liliana Boccalatte** [[33]](https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504) teaching history and philosophy. She helps me to understand our society and real meaning of the **myth of the cave** [[34]](https://en.wikipedia.org/wiki/Myth_of_the_Cave), something very important to survive in the remote neural monitoring network, to not going mad. I love her. 
+
+*Cheers Liliana I know that you're reading me.*
+
+
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -96,3 +102,5 @@ I frontally collide with this sept when I go to this high school, but *in realit
 30. https://en.wikipedia.org/wiki/Engineering
 31. https://en.wikipedia.org/wiki/Order_of_the_Engineer
 32. https://en.wikipedia.org/wiki/Professional_order
+33. https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504
+34. https://en.wikipedia.org/wiki/Myth_of_the_Cave
