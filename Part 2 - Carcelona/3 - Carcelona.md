@@ -51,7 +51,7 @@ This is a WISP node that fusion the remote neural monitoring access radios, on t
 
 Image was taken at 41º 29’ 29.7” N, 2º 15’ 9.1” E **geographical coordinates** [[6]](https://en.wikipedia.org/wiki/Geographic_coordinate_system) on 9 of December of 2019 at 2:55 PM.
 
-The WISP was of my property until 2016, then with a fraud I loose it and they start to induct to suicide me. The name is MESWIFI and now has got an AS number that is **AS205645 **[[7]](https://bgp.he.net/AS205645).
+The WISP was of my property until 2016, then with a fraud I loose it and they start to induct to suicide me. The name is MESWIFI and now has got an AS number that is **AS205645** [[7]](https://bgp.he.net/AS205645).
 
 The top antenna is a point to point radio wave in proprietary protocol, called AirFiber. **Gigabit wireless** [[8]](https://en.wikipedia.org/wiki/Gigabit_Wireless). This antenna focus to a tower in **Tibidabo** [[9]](https://en.wikipedia.org/wiki/Tibidabo) over Barcelona. Next another access point to the "Illuminati" facility focused over the Catalan capital reducing to slavery a lot of citizens. 
 
