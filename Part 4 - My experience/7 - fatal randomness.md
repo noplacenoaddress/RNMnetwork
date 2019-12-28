@@ -16,6 +16,17 @@ They say that my Machine, but I don't know where it is, what kind of system is a
 
 *A couple of friends of mine have die in unknown or very little documented circumstances.* 
 
+### A strange car accident
+
+![san Viglio di Marebbe](../Images/22814182_10214864400186109_4054271269818059772_n.jpg)
+
+In 1988 or 1989 in a mountain road near **san Vigilio di Marebbe** [[4]](https://it.wikipedia.org/wiki/San_Vigilio_(Marebbe)) a town in **south Tyrol** [[5]](https://en.wikipedia.org/wiki/South_Tyrol) direction to 
+**Pederü** [[6]](https://it.wikipedia.org/wiki/Rifugio_Peder%C3%BC) in the Rudo Valley was winter and the season was very cold. My father was driving a **Fiat Ritmo** [[7]](https://en.wikipedia.org/wiki/Fiat_Ritmo) metallic blue without winter wheel. The road was full of ice. In a left turn the front of the car skated and with and the muzzle positioned itself frontally against the mountain; my father, perhaps without consciousness but the maneuver was very risky, instead of choking frontally at low speed in a safe area that was the side of the mountain on the left, He decided to turn sharply *to the right* on an icy road resulting in a round of one hundred and eighty meters putting the car in the front direction of an **overhang** [[8]](https://en.wikipedia.org/wiki/Overhang_(rock_formation)) of at least twenty meters vertical jump and then end up in a bed of a totally frozen river. That is, he turned completely *in the direction of a sure death*. Chance wanted, and sometimes only in this exact case probably some superior entity, that a small fir wood stake of at least twenty centimeters in diameter parried the machine hovering between the road and the overhang with practically a third of it already outside from the fit. We didn't die for a plume.
+
+Why he went in the cold valley on winter without snow tires or not even chains? Here in winter there's nothing to do. 
+
+*I really don't know.*
+
 ### Bergolo fraction of Cortemilia, Italy
 
 ![Bergolo](../Images/0121ga26.jpg)
@@ -77,34 +88,38 @@ For me the fraud "Illuminati" that have induct to suicide an enormous number of 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
 2. https://en.wikipedia.org/wiki/Capitalism
 3. https://en.wikipedia.org/wiki/Italy
-4. https://it.wikipedia.org/wiki/Cortemilia
-5. https://it.wikipedia.org/wiki/Provincia_di_Cuneo
-6. https://it.wikipedia.org/wiki/Piemonte
-7. https://it.wikipedia.org/wiki/Bergolo
-8. http://www.stpauls.it/ga01/0121ga/0121ga06.htm
-9. https://it.wikipedia.org/wiki/Canti_del_Maggio
-10. https://en.wikipedia.org/wiki/Herald
-11. https://en.wikipedia.org/wiki/Country_music
-12. https://en.wikipedia.org/wiki/Hippie
-13. https://en.wikipedia.org/wiki/Punk_ideologies
-14. https://en.wikipedia.org/wiki/Underground_culture
-15. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
-16. https://en.wikipedia.org/wiki/Cyberpunk
-17. https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide
-18. http://www.sorted.org/diy/DIYwarnings/FFC.htm
-19. https://psychonautwiki.org/wiki/Bad_trip
-20. https://www.liceoking.it/
-21. https://en.wikipedia.org/wiki/Communion_and_Liberation
-22. https://en.wikipedia.org/wiki/Catholic_movements
-23. https://en.wikipedia.org/wiki/Sect
-24. https://en.wikipedia.org/wiki/Opus_Dei
-25. https://en.wikipedia.org/wiki/Double_agent
-26. https://en.wikipedia.org/wiki/Adept
-27. https://en.wikipedia.org/wiki/Atheism
-28. https://en.wikipedia.org/wiki/Parliament
-29. https://en.wikipedia.org/wiki/Plot_plan
-30. https://en.wikipedia.org/wiki/Engineering
-31. https://en.wikipedia.org/wiki/Order_of_the_Engineer
-32. https://en.wikipedia.org/wiki/Professional_order
-33. https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504
-34. https://en.wikipedia.org/wiki/Myth_of_the_Cave
+4. https://it.wikipedia.org/wiki/San_Vigilio_(Marebbe)
+5. https://en.wikipedia.org/wiki/South_Tyrol
+6. [https://it.wikipedia.org/wiki/Rifugio_Peder%C3%BC](https://it.wikipedia.org/wiki/Rifugio_Pederü)
+7. https://en.wikipedia.org/wiki/Fiat_Ritmo
+8. https://it.wikipedia.org/wiki/Cortemilia
+9. https://it.wikipedia.org/wiki/Provincia_di_Cuneo
+10. https://it.wikipedia.org/wiki/Piemonte
+11. https://it.wikipedia.org/wiki/Bergolo
+12. http://www.stpauls.it/ga01/0121ga/0121ga06.htm
+13. https://it.wikipedia.org/wiki/Canti_del_Maggio
+14. https://en.wikipedia.org/wiki/Herald
+15. https://en.wikipedia.org/wiki/Country_music
+16. https://en.wikipedia.org/wiki/Hippie
+17. https://en.wikipedia.org/wiki/Punk_ideologies
+18. https://en.wikipedia.org/wiki/Underground_culture
+19. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
+20. https://en.wikipedia.org/wiki/Cyberpunk
+21. https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide
+22. http://www.sorted.org/diy/DIYwarnings/FFC.htm
+23. https://psychonautwiki.org/wiki/Bad_trip
+24. https://www.liceoking.it/
+25. https://en.wikipedia.org/wiki/Communion_and_Liberation
+26. https://en.wikipedia.org/wiki/Catholic_movements
+27. https://en.wikipedia.org/wiki/Sect
+28. https://en.wikipedia.org/wiki/Opus_Dei
+29. https://en.wikipedia.org/wiki/Double_agent
+30. https://en.wikipedia.org/wiki/Adept
+31. https://en.wikipedia.org/wiki/Atheism
+32. https://en.wikipedia.org/wiki/Parliament
+33. https://en.wikipedia.org/wiki/Plot_plan
+34. https://en.wikipedia.org/wiki/Engineering
+35. https://en.wikipedia.org/wiki/Order_of_the_Engineer
+36. https://en.wikipedia.org/wiki/Professional_order
+37. https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504
+38. https://en.wikipedia.org/wiki/Myth_of_the_Cave
