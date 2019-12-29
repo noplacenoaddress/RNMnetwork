@@ -16,6 +16,10 @@ They say that my Machine, but I don't know where it is, what kind of system is a
 
 *A couple of friends of mine have die in unknown or very little documented circumstances.* 
 
+### My parents' honeymoon
+
+
+
 ### A strange car accident
 
 ![san Viglio di Marebbe](../Images/22814182_10214864400186109_4054271269818059772_n.jpg)
@@ -26,6 +30,8 @@ In 1988 or 1989 in a mountain road near **san Vigilio di Marebbe** [[4]](https:/
 Why he went in the cold valley on winter without snow tires or not even chains? Here in winter there's nothing to do. 
 
 *I really don't know.*
+
+> They know what happen to me in Catalunya, they know because I listen to them in radio frequency. What they've done is to take away the possibility of having that smile that they had in this beautiful photo in the mountains. The possibility of having a son like them they had and the possibility of loving the woman who fell in love with me only to see her. This is the truth about my personal tragedy in the neuronal control network. *"brutto coglione"* he humiliates me every second of the day.
 
 ### Bergolo fraction of Cortemilia, Italy
 
