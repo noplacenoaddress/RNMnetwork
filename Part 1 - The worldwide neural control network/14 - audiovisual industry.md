@@ -54,6 +54,8 @@ I'm not a audiovisual expert but i can say that technology of video composite an
 
 Deepfake is used to mask victims. Porn web portals are full of amateur not acknowledge videos masked by the use of advanced version of this technology. All is open source and only a team of good programmer could done a perfect job. It's important to find **RAW images** [[29]](https://en.wikipedia.org/wiki/Raw_image_format) to condemn criminals.
 
+Satellite 
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Wireless_Internet_service_provider
