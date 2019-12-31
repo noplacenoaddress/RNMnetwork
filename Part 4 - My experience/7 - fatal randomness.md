@@ -99,6 +99,18 @@ I have found three or four totally masked in the organization chart and quickly 
 
 For me the fraud "Illuminati" that have induct to suicide an enormous number of victims and reduce to be a little narcos  or prostitute another enormous number is something that have been elaborated from this sept.
 
+### My father signs
+
+![old sign](../Images/mgantica.jpg)
+
+This is the old sign of my father, this sign is from 2009. You can appreciate an "A" capital cursive letter in the middle of the sign. The "A" is the first letter of the butcher's name.
+
+![new sign](../Images/mgmoderna.jpg)
+
+This is the new sign sign of my father. It's so strange that a very precise engineer has changed is sign. In the middle you can appreciate a "f" cursive letter, but not capital.
+
+  "F" is the first letter of the name of the stupid little bitch that now conduct the "Illuminati" pseudo dictatorship that is changing Europe. A plague in our democracy.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
