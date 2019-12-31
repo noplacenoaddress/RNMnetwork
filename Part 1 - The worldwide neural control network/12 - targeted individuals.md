@@ -14,6 +14,8 @@ But this is not the worst think. In this network another shit happen to those po
 
 Those people are heavy tortured almost every day and every night to obtain value to sell to military facilities. Tortured by sadist. Bent by the excruciating pain of electronic weapons that are a reality silenced by corruption as subtle but as thick as a fog bank that is destroying our Europe in front of our white cocaine noses.
 
+![Target Individual Diagram](../Images/EM43SjfUYAA7TKb.jpeg)
+
 Some of them, who got a family that can maintain them like me, try to resist to this monster, this network. And some, always like me, are IT technologist. Someone don't loose his mind after the complicate brain washing phases and the gangstalking one. Like me. Look in twitter the hashtag **#targetindividuals** [[6]](https://twitter.com/hashtag/targetindividuals). This is the legal and silenced by corruption human right abuse in our false electronic democracy. This is the end of ours states. No one speak about and this have to finish right now.
 
 Why there's so much human guinea pigs in our streets and no one reflect on the real reason?
