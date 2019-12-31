@@ -16,9 +16,19 @@ They say that my Machine, but I don't know where it is, what kind of system is a
 
 *A couple of friends of mine have die in unknown or very little documented circumstances.* 
 
+
+
 ### My parents' honeymoon
 
+![Barcelona 1978](../Images/prensa_0210.jpg)
 
+
+
+My parents honeymoon was a cruise in the Mediterranean, the year was '78 like the newspaper above. Remember the figure of the butcher that I've got described? He is known also as the owl. In radio frequency in the subliminal message voice system of the synthetic telepathy network they know each other. What I know is that my parents went to Barcelona when they got married by the church. I don't really know if they went here others times. They have always been very cryptic.
+
+My father has always speak in a very bad way about Spanish people. But I think that in reality they are very connected. 
+
+*Markets and merchandise? Probably but I really don't know.*
 
 ### A strange car accident
 
