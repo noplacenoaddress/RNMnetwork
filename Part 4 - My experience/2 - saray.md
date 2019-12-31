@@ -2,6 +2,10 @@
 
 ![my baby](../Images/IMG-20150309-WA0038.jpg)
 
+**I've done four times the "Pilgrimage of Compostela" in front my family, of you and of all the people that I've known in my life. All in the synthetic telepathy network where my mother touch my penis with her right side brain. And you cannot call me. Have an happy new year.* 
+
+*Riccardo 31/12/81*
+
 All of this. All of this fight. All of this, it's to reclaim your rights my sun flower. Your rights ahead the law. Your rights as a wonderful woman that i've known on December 2012.
 
 *And that is our story, sweetie.*
