@@ -133,6 +133,14 @@ With this criminal networks it's impossible to maintain professional secrecy! Al
 
 I call it a pseudo dictatorship because it is a state under the state like it is the old Mafia. But it's important to understand that this kind of digital Mafia with this extreme invasive technology got all about every citizen  and professional. It's absolutely the end of democracy, no privacy, without rights, every victim or target individual is totally naked in front of the perpetuators of this horrible criminal state. Something that start in Internet like a fraud, the *"Illuminati" now are a very dangerous Mafia which is taking ground in the civil status but also in the ancient mafias*.
 
+### Political mass view manipulation
+
+![My father whatsup](../Images/20200101_090649.jpg)
+
+This is my father profile image in the social network **Whatsup** [[53]](https://www.whatsapp.com/). As you can see there is a road in a desert, the **loneliness** [[54]](https://en.wikipedia.org/wiki/Loneliness), straight forward. 
+
+Next there is a right turn. Let's focus in the current European political situation.
+
  
 
 # External links
@@ -240,6 +248,10 @@ I call it a pseudo dictatorship because it is a state under the state like it is
 51. https://en.wikipedia.org/wiki/Oath_of_office
 
 52. https://en.wikipedia.org/wiki/Lawyer
+
+53. https://www.whatsapp.com/
+
+54. https://en.wikipedia.org/wiki/Loneliness
 
     
 
