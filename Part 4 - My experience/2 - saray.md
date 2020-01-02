@@ -42,7 +42,7 @@ She was threatened to go away from our house in Canyelles and join a body buildi
 
 ![chain breaks](../Images/depositphotos_75624997-stock-illustration-man-hands-breaking-steel-handcuffs.jpg)
 
-### What is her paper in the systematic destruction of my life
+### What they forced her in the systematic destruction of my life
 
 So I meet Saray on September 2012 and start a relationship with her on 11 of January of 2013. She was married by the town hall with her husband David. She got a baby of more or less one year old. She was very angry with her husband and I start to meet her in them bar. 
 
