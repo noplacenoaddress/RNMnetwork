@@ -2,7 +2,7 @@
 
 ![my baby](../Images/IMG-20150309-WA0038.jpg)
 
-**I've done four times the "Pilgrimage of Compostela" in front my family, of you and of all the people that I've known in my life. All in the synthetic telepathy network where my mother touch my penis with her right side brain. And you cannot call me. Have an happy new year.* 
+*I've done four times the "Pilgrimage of Compostela" in front my family, of you and of all the people that I've known in my life. All in the synthetic telepathy network where my mother touch my penis with her right side brain. And you cannot call me. Have an happy new year.* 
 
 *Riccardo 31/12/81*
 
@@ -41,6 +41,17 @@ She was threatened to go away from our house in Canyelles and join a body buildi
 *But I will do it for you sweetie. And for your son. I love you.*
 
 ![chain breaks](../Images/depositphotos_75624997-stock-illustration-man-hands-breaking-steel-handcuffs.jpg)
+
+### What is her paper in the systematic destruction of my life
+
+So I meet Saray on September 2012 and start a relationship with her on 11 of January of 2013. She was married by the town hall with her husband David. She got a baby of more or less one year old. She was very angry with her husband and I start to meet her in them bar. 
+
+![La herradura](../Images/herradura.jpg)
+
+To resume the *strange* thinks that I've notice about her:
+
+- Who I call brother, Massimo, before I casually went to the bar where Saray worked, he also frequented it regularly. Once I asked him if he was interested in this woman and with a gesture of contempt he indicated that he did not like her at all, which is very strange since she is a beautiful woman.
+- Some our before we first kissing us, the mother of the son of Massimo, Jessica, came in Marina we got evolved. Was very strange because she perfectly know that I was deeply interested about Saray. And I stop before having sex. This was what Saray use to destroy our stable relationship a year after. At that moment I didn't realize that Saray, David, Massimo and Jessica agreed.
 
 ### External links 
 
