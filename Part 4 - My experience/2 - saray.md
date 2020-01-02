@@ -50,10 +50,10 @@ So I meet Saray on September 2012 and start a relationship with her on 11 of Jan
 
 To resume the *strange* thinks that I've notice about her:
 
-- Who I call brother, Massimo, before I casually went to the bar where Saray worked, he also frequented it regularly. Once I asked him if he was interested in this woman and with a gesture of contempt he indicated that he did not like her at all, which is very strange since she is a beautiful woman.
+- Who I call brother, Massimo, before I casually went to the bar where Saray worked, he also frequented it regularly. Once I asked him if he was interested in this woman and with a gesture of contempt he indicated that he did not like her at all, which is very strange since she is a beautiful woman. But the strangest think is that my old girlfriend, Thais, take me to this bar.
 - Some our before we first kissing us, the mother of the son of Massimo, Jessica, came in Marina we got evolved. Was very strange because she perfectly know that I was deeply interested about Saray. And I stop before having sex. This was what Saray use to destroy our stable relationship a year after. At that moment I didn't realize that Saray, David, Massimo and Jessica agreed.
 - One time walking in Marina street the wife of a person that have worked with me start screaming to her in front of me. It seems that she fucks with her husband. Because I don't say nothing about, she lately say to me that "*she need someone that defend physically her*", I didn't realize that was a machined situation in the synthetic telepathy network.
-- It was very strange but every where we went, Badalona almost, it seems that she knows everyone. But the strangest think is that also my father seems to know her. When we meet with my parents the first time he looked at her with a suspicious grin. Now i perfectly know that she is one of the twenty four girl that the butcher use to do gangstalking in Barcelona. She is an actress of suicide.
+- It was very strange but every where we went, Badalona almost, it seems that she knows everyone. But the strangest think is that also my father seems to know her. When we meet with my parents the first time he looked at her with a suspicious grin. Now i perfectly know that she is one of the twenty four girl that the butcher use to do gangstalking in Barcelona. She is an actress of suicide. 
 - 
 
 ### External links 
