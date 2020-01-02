@@ -54,7 +54,7 @@ To resume the *strange* thinks that I've notice about her:
 - Some our before we first kissing us, the mother of the son of Massimo, Jessica, came in Marina we got evolved. Was very strange because she perfectly know that I was deeply interested about Saray. And I stop before having sex. This was what Saray use to destroy our stable relationship a year after. At that moment I didn't realize that Saray, David, Massimo and Jessica agreed.
 - One time walking in Marina street the wife of a person that have worked with me start screaming to her in front of me. It seems that she fucks with her husband. Because I don't say nothing about, she lately say to me that "*she need someone that defend physically her*", I didn't realize that was a machined situation in the synthetic telepathy network.
 - It was very strange but every where we went, Badalona almost, it seems that she knows everyone. But the strangest think is that also my father seems to know her. When we meet with my parents the first time he looked at her with a suspicious grin. Now i perfectly know that she is one of the twenty four girl that the butcher use to do gangstalking in Barcelona. She is an actress of suicide. 
-- 
+- One day in the Glories commercial center she was buying something in a tend and she mobile rings. I was playing with an application. A message pop up and I read about a boy, like twenty years old, that was commenting with her a sexual adventure that they've got. I got an heart attack. Now I know that he is the younger brother of the boy whom I define as an athletic trainer. He too was Jessica's ex-boyfriend. 
 
 ### External links 
 
