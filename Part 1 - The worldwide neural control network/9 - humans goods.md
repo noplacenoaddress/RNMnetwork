@@ -90,9 +90,7 @@ Let's analyze this radical transformation that can occur in a mind because the w
 
 ![female Doe](../Images/tumblr_m6vugwifZg1r90rkno1_500.jpg)
 
-### Political mass view manipulation
 
-![Fascism mask](../Images/180900671-fdd83e61-3d89-498e-845d-1b948125c997.webp)
 
 ### External links		
 
