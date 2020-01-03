@@ -2,10 +2,6 @@
 
 ![my baby](../Images/IMG-20150309-WA0038.jpg)
 
-*I've done four times the "Pilgrimage of Compostela" in front my family, of you and of all the people that I've known in my life. All in the synthetic telepathy network where my mother touch my penis with her right side brain. And you cannot call me. Have an happy new year.* 
-
-*Riccardo 31/12/81*
-
 All of this. All of this fight. All of this, it's to reclaim your rights my sun flower. Your rights ahead the law. Your rights as a wonderful woman that i've known on December 2012.
 
 *And that is our story, sweetie.*
@@ -57,7 +53,32 @@ To resume the *strange* thinks that I've notice about her:
 - One day in the Glories commercial center she was buying something in a tend and she mobile rings. I was playing with an application. A message pop up and I read about a boy, like twenty years old, that was commenting with her a sexual adventure that they've got. I got an heart attack. Now I know that he is the younger brother of the boy whom I define as an athletic trainer. He too was Jessica's ex-boyfriend. 
 - One night we go to eat something in sant Pere de Ribes at restaurant **L'anxaneta** [[4]](https://www.tripadvisor.com/Restaurant_Review-g652137-d3748784-Reviews-Restaurant_L_anxaneta-Sant_Pere_de_Ribes_Catalonia.html). All was good but at the end of the dinner she start to be very strange. We go out to smoke a cigarette but she starts shouting that I was violent. *And I never touch with violence a woman nor a man, I repudiate violence in all its physical as well as psychic facets.* People come near to me and do a wall between us. Someone start to have a violent attitude with me and I simply go away taking our car and go to Canyelles, our house. I rapidly call to Miguel, the chief of workers of what was my facility, and tell him that I was very anxious with the comportment of Saray, he takes our van and in the middle of night he did seventy kilometers to came to our house and calm me down. A very good man. Like three ours passed Miguel went out and after a few minutes she get home. Our house was isolated and in the countryside. The only noises there were those of dogs and nature. Saray seemed to appear out of nowhere but this was impossible because eight kilometers separated the first bus stop. I never knew what I spent that night and why he behaved as such nor who brought her home taking care not to hear the engine noise. She simply apologized to me with sex and I accepted.
 - One day we go to the beach in **Segur de Calafell** [[5]](https://ca.wikipedia.org/wiki/Segur_de_Calafell), a town in front of the Mediterranean sea province of Tarragona. She starts thinking about an old love history that she had, and she was very sad. I can see it in her eyes. She didn't cry, as usual. This wonderful woman is hidden by a veil of inner sadness that I have practically never seen externalize. Something stops her for the right outburst of emotions. This something is definitely this terrifying network that someone calls techno. I really don't know what happen to that man. *Does he commits suicide? I love you sweetie take her of you I know that you're reading me.*
-- 
+- Saray was almost sincerely with me. After one year and a half attaching problems with her husband she goes out from our house and an "up and down" relation starts. We meet, have fun, have sex and sometimes we sleep together. She was very clear she underlines that she wasn't my girlfriend but only my lover. The reality is that i was deep in love with her and this paper for me was a little bit restricted. But I accepted it, was sharing her with others. I was jealous but at my age I knew how to contain this negative feeling.
+- One day I go in front of her work, she is a **waitress** [[6]](https://en.wikipedia.org/wiki/Waiting_staff), and she was so nervous. She didn't want to be accompanied by me. I insisted slightly because he remarked that he had an appointment with another man, probably a fish distributor of the market she had known in his work. I was nervous but I absolutely never allowed myself to raise her hands, I never did it to anyone in my life. She called the **Barcelona city guard** [[7]](https://ca.wikipedia.org/wiki/Gu%C3%A0rdia_Urbana_de_Barcelona) *with incredible speed and without using the cell phone*. They passed "as if by magic" and I immediately go downstairs to block myself without having made any kind of crime. She burst into tears and she walked very hard without even looking back. All was made without any doubt in the remote neural monitoring network.
+
+### What happen from July 2018 to now
+
+![Oeste](../Images/oeste.jpg)
+
+![Centro](../Images/centro.jpg)
+
+![Este](../Images/este.jpg)
+
+*I've done four times the "Pilgrimage of Compostela" in front my family, of you and of all the people that I've known in my life. All in the synthetic telepathy network where my mother touch my penis with her right side brain. And you cannot call me. Have an happy new year.* 
+
+*Riccardo 31/12/81*
+
+After one year of a fascist practice called "luz de gas" in the Barcelona capital I start seeing her in the audiovisual machine, **sstv** [[8]](https://en.wikipedia.org/wiki/Slow-scan_television) protocol streamed into my visual cortex and holograms that could have been visualized by everyone also not in my same neural control bell, and listen to her voice in subliminal voice chat. 
+
+First of all I want to describe to you my reader that the conditions that I've seen her was terrifying. Fucked every where and evolved into a Mafia plot where she is sold like a prostitute in this radio world as hologram as I have described but also physically like I've proven finding more than two hundred of porn photography in the 4chan network.
+
+The maps above sign like almost every where I've seen here. I've walked four times between July 2018 and September 2019 the road of Barcelona and neighboring the terrible power of the Machine used to induct to suicide a citizen in front of the public administration, police and others citizens. This is an international scandal. Someone in Catalunya use this audiovisual monster to do gangstalking to put people in the parimutuel betting system and the B-side of the technological big firm to do development using the brain and biological value under extreme stress of target individuals.  
+
+Those fellows, absolutely to be considered as the most dangerous criminals in Europe currently, are the stupid little bitch from Genoa, Italy, and the butcher a Catalan big noble.
+
+Saray got a baby and she is a victim of this technological monster from about fifteen years. Saray has to be an actress of suicide because people here are slave. She is a slave. And she acted and was violated a thousand times in front of me to induce me to commit suicide. I am a victim of betting over my life. And all the Spanish and Italian nobility play these games of psychological violence where ordinary people, like me and Saray, are subjected to torture, continuous sexual violence and our children are raped in turn. 
+
+> *I absolutely ask the Spanish and Italian public administration for help to stop this massacre that is destroying a Europe increasingly divided by inferior conspiracy theorists who use this system they call "techno" to bring back fascism and probably a world war. Help. Saray and I love each other and are ordinary people with absolute need for justice. Help.*  
 
 ### External links 
 
@@ -66,4 +87,7 @@ To resume the *strange* thinks that I've notice about her:
 3. https://en.wikipedia.org/wiki/Catholic_Church
 4. https://www.tripadvisor.com/Restaurant_Review-g652137-d3748784-Reviews-Restaurant_L_anxaneta-Sant_Pere_de_Ribes_Catalonia.html
 5. https://ca.wikipedia.org/wiki/Segur_de_Calafell
+6. https://en.wikipedia.org/wiki/Waiting_staff
+7. [https://ca.wikipedia.org/wiki/Gu%C3%A0rdia_Urbana_de_Barcelona](https://ca.wikipedia.org/wiki/Guàrdia_Urbana_de_Barcelona)
+8. https://en.wikipedia.org/wiki/Slow-scan_television
 
