@@ -27,7 +27,9 @@ This demand was filed by the **Clerk, U.S. district court southern district of C
 
 The points the AI organization declare are true, but not the companies versus. Those companies are in reality clients of the remote neural monitoring facility that I describe in part one. The demand speak about a compensation of 2.3 **Trillions** [[22]](https://en.wikipedia.org/wiki/Trillion) dollars. 
 
-> *The "Illuminati" facility is headed by Francesca nephew of an Italian hero of the second world war. And she is the real person to denunciate.*   
+> *The "Illuminati" facility is headed by Francesca nephew of an Italian hero of the second world war. And she is the real person to denunciate.* 
+
+In reality the center of the entire operation is the return of Fascism at international scale. This is the true.
 
 
 
