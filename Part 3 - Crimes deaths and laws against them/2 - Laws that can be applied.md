@@ -93,9 +93,21 @@ The synthetic telepathy network violate almost eleven rights declared in the **u
 
 So it's important to understand that owners of this network have to be put in jail also because they commit **crimes against humanity** [[31]](https://en.wikipedia.org/wiki/Crimes_against_humanity). 
 
+### Nuremberger code
 
+![Nuremberger code](../Images/Hermann-Goring-Nazi-prisoner-box-trials-Nurnberg.jpg)
 
+1. The voluntary consent of the human subject is absolutely essential.
 
+2. The experiment should be such as to yield fruitful results for the good of society, unprocurable by other methods or means of study, and not random and unnecessary in nature.
+3. The experiment should be so designed and based on the results of animal experimentation and a knowledge of the natural history of the disease or other problem under study that the anticipated results will justify the performance of the experiment.
+4. The experiment should be so conducted as to avoid all unnecessary physical and mental suffering and injury.
+5. No experiment should be conducted where there is an *a priori* reason to believe that death or disabling injury will occur; except, perhaps, in those experiments where the experimental physicians also serve as subjects.
+6. The degree of risk to be taken should never exceed that determined by the humanitarian importance of the problem to be solved by the experiment.
+7. Proper preparations should be made and adequate facilities provided to protect the experimental subject against even remote possibilities of injury, disability, or death.
+8. The experiment should be conducted only by scientifically qualified persons. The highest degree of skill and care should be required through all stages of the experiment of those who conduct or engage in the experiment.
+9. During the course of the experiment the human subject should be at liberty to bring the experiment to an end if he has reached the physical or mental state where continuation of the experiment seems to him to be impossible.
+10. During the course of the experiment the scientist in charge must be prepared to terminate the experiment at any stage, if he has probable cause to believe, in the exercise of the good faith, superior skill and careful judgment required of him that a continuation of the experiment is likely to result in injury, disability, or death to the experimental subject.
 
 ### External links
 
