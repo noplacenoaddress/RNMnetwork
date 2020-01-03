@@ -109,6 +109,10 @@ So it's important to understand that owners of this network have to be put in ja
 9. During the course of the experiment the human subject should be at liberty to bring the experiment to an end if he has reached the physical or mental state where continuation of the experiment seems to him to be impossible.
 10. During the course of the experiment the scientist in charge must be prepared to terminate the experiment at any stage, if he has probable cause to believe, in the exercise of the good faith, superior skill and careful judgment required of him that a continuation of the experiment is likely to result in injury, disability, or death to the experimental subject.
 
+Those are the ten points of the Nuremberger code speak about ethics in human experiments. That is exactly what the telecom lobby do with our brains and bodies in the remote neural monitoring network. This is a worldwide problem. 
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Human_trafficking
