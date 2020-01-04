@@ -80,6 +80,8 @@ Saray got a baby and she is a victim of this technological monster from about fi
 
 > *I absolutely ask the Spanish and Italian public administration for help to stop this massacre that is destroying a Europe increasingly divided by inferior conspiracy theorists who use this system they call "techno" to bring back fascism and probably a world war. Help. Saray and I love each other and are ordinary people with absolute need for justice. Help.*  
 
+
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Sedative

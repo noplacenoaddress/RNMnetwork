@@ -131,7 +131,7 @@ In Genoa in the last thirty years a couple of friends or known people have died 
 - Emanuele, commit suicide in **Acquasola** [[41]](https://it.wikipedia.org/wiki/Spianata_dell%27Acquasola) district Genoa. Brother of the wife of a good friend. He is also in this network. 
 - A boy die for **ketamine** [[42]](https://psychonautwiki.org/wiki/Ketamine) overdose in a house in **Corso Aurelio Saffi** [[43]](https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719). Very strange in the nineties and fatal ketamine overdose are particularly rare,  but not unheard of. However, the exact toxic dosage is unknown. So it was something like what I've lived with LSD, this is almost surely not ketamine.  
 - **GianMaria Vincenti** [[44]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html) die for a motorbike accident at very low speed in an intersection in Albaro district, Genoa. We cry a lot, rest in peace my very good friend. He died at 22 years old on 19 of December 2004. 
-- **Alessandro Durand de la Penne** [[45]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2001/09/10/perde-il-controllo-della-moto-vola-oltre.html), is who I've described before. Die in a motorbike accident on 10 of September of 2001.
+- Cristian Sessarego 
 
 ### External Links
 
