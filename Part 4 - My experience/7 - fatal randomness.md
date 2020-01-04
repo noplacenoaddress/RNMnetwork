@@ -38,6 +38,10 @@ From when I was born on 31 of March of 1981, in Genova at 17:50:28 at **Galliera
 
 But why she is addicted and why just after my birth? 
 
+I don't know. Probably is something church related. I know that they thought that i was a girl and my name had to be Jennifer, in English because my grandmother was from Florida, US. I don't know. *Are they my parents*? Or my case is something like this:
+
+https://www.mirror.co.uk/news/world-news/mum-raised-wrong-daughter-30-10632774
+
 ### A strange car accident
 
 ![san Viglio di Marebbe](../Images/22814182_10214864400186109_4054271269818059772_n.jpg)
