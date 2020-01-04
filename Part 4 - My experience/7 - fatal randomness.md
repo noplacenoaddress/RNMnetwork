@@ -121,7 +121,17 @@ This is the old sign of my father, this sign is from 2009. You can appreciate an
 
 This is the new sign sign of my father. It's so strange that a very precise engineer has changed his sign. In the middle you can appreciate a "f" cursive letter, but not capital.
 
-  "F" is the first letter of the name of the stupid little bitch that now conduct the "Illuminati" pseudo dictatorship that is changing Europe. A plague in our democracy.-
+  "F" is the first letter of the name of the stupid little bitch that now conduct the "Illuminati" pseudo dictatorship that is changing Europe. A plague in our democracy.
+
+### Friends of mine that have died in strange circumstances
+
+In Genoa in the last thirty years a couple of friends or known people have died in accidents, overdose or suicide:
+
+- Giovanni Tabacco, car accident near **Recco** [[40]](https://it.wikipedia.org/wiki/Recco), Genoa.
+- Emanuele, commit suicide in **Acquasola** [[41]](https://it.wikipedia.org/wiki/Spianata_dell%27Acquasola) district Genoa. Brother of the wife of a good friend. He is also in this network. 
+- A boy die for **ketamine** [[42]](https://psychonautwiki.org/wiki/Ketamine) overdose in a house in **Corso Aurelio Saffi** [[43]](https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719). Very strange in the nineties and fatal ketamine overdose are particularly rare,  but not unheard of. However, the exact toxic dosage is unknown. So it was something like what I've lived with LSD, this is almost surely not ketamine.  
+- **GianMaria Vincenti** [[44]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html) die for a motorbike accident at very low speed in an intersection in Albaro district, Genoa. We cry a lot, rest in peace my very good friend. He died at 22 years old on 19 of December 2004. 
+- **Alessandro Durand de la Penne** [[45]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2001/09/10/perde-il-controllo-della-moto-vola-oltre.html), is who I've described before
 
 ### External Links
 
@@ -164,3 +174,10 @@ This is the new sign sign of my father. It's so strange that a very precise engi
 37. https://en.wikipedia.org/wiki/Professional_order
 38. https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504
 39. https://en.wikipedia.org/wiki/Myth_of_the_Cave
+40. https://it.wikipedia.org/wiki/Recco
+41. [https://it.wikipedia.org/wiki/Spianata_dell%27Acquasola](https://it.wikipedia.org/wiki/Spianata_dell'Acquasola)
+42. https://psychonautwiki.org/wiki/Ketamine
+43. https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719
+44. https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html
+45. https://ricerca.repubblica.it/repubblica/archivio/repubblica/2001/09/10/perde-il-controllo-della-moto-vola-oltre.html
+
