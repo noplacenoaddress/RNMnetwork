@@ -10,8 +10,17 @@ The telephonic prefix of Rome's province is 6. In the *world backwards*, that is
 
 > *The 249 IP A class is a good target to understand something more about.*
 
+Speaking about the telephone prefix, 9 is south Italy, **Sicily** [[2]](https://en.wikipedia.org/wiki/Sicily), **Calabria** [[3]](https://en.wikipedia.org/wiki/Calabria), some province of **Campagna** [[4]](https://en.wikipedia.org/wiki/Campagna) and a province of **Puglia** [[5]](https://en.wikipedia.org/wiki/Apulia). Color is hexadecimal is #fdde9d and in **common name** [[6]](http://chir.ag/projects/name-that-color) is **Cherokee** [[7]](https://en.wikipedia.org/wiki/Cherokee).
+
 
 
 ### External links
 
 1. https://en.wikipedia.org/wiki/Proverb
+2. https://en.wikipedia.org/wiki/Sicily
+3. https://en.wikipedia.org/wiki/Calabria
+4. https://en.wikipedia.org/wiki/Campagna
+5. https://en.wikipedia.org/wiki/Apulia
+6. http://chir.ag/projects/name-that-color
+7. https://en.wikipedia.org/wiki/Cherokee
+
