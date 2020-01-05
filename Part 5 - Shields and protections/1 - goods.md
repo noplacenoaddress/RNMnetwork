@@ -51,6 +51,12 @@ You can build one of these in a cheap way using Arduino and a SDR radio operatin
 
 It's also possible to buy a small radio transmitter USB to connect to a smart phone and code an application to continuously transmit in these frequency and cover the synthetic telepathy network facility emissions. 
 
+### QuWave Defender 
+
+![QuWave](../Images/asdfasdf.jpg)
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
