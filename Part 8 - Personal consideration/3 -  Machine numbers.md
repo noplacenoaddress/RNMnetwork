@@ -27,7 +27,9 @@ I was born in Genova, prefix code 010, area code 01, color green reef #daffb4. A
 
 https://www.myheritage.es/member-998780751_1/riccardo-beniamino-giuntoli?public=1
 
+But I've got also parents from New York, Florida and Ireland. 
 
+I'm not a noble and i'm not a masonic nor I've got some Lions or Rotary affiliations.
 
 ### External links
 
