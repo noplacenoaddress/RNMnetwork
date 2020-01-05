@@ -141,7 +141,7 @@ Let's start with some considerations. First of all I really don't like esoterici
 
 > *In those deaths the number 9 is always present. In subliminal messages voice services they say that I've got the Machine number 9. They call this the world backwards the 9 there is the 6 here. 666 is the number of the beast. What I think about? The machine number doesn't exist and who is victim got this number.* 
 
-Me and Saray are victims of a sept. Please help.
+Me and Saray are victims of a sept. Please help. But what are sept? Games of nobles to obtain money with prostitution, drugs, betting and so son. They call this game and they play with our life.
 
 ### External Links
 
