@@ -33,6 +33,19 @@ I'm not a noble and i'm not a masonic nor I've got some Lions or Rotary affiliat
 
 > *Now those machines are connected to the remote neural control network, but could also be connected by Internet or by a private metropolitan area network or could be connected by analogical telephone cable and could be reached by a remote PPP call with a modem. And many others technologies.* 
 
+Another brainstorm have conducted me to think about bank accounts. It could be possible that at every machine there's a bank account situated in one of the six European fiscal heavens:
+
+- **Andorra** [[11]](https://en.wikipedia.org/wiki/Andorra)
+- **San Marino** [[12]](https://en.wikipedia.org/wiki/San_Marino)
+- **Luxembourg** [[13]](https://en.wikipedia.org/wiki/Luxembourg)
+- **Liechtenstein** [[14]](https://en.wikipedia.org/wiki/Liechtenstein)
+- **Monaco** [[15]](https://en.wikipedia.org/wiki/Monaco)
+- **Switzerland** [[16]](https://en.wikipedia.org/wiki/Switzerland)
+
+All of those banks are obviously connected to the **institute for the work of religion** [[17]](https://en.wikipedia.org/wiki/Institute_for_the_Works_of_Religion), the **Vatican city** [[18]](https://en.wikipedia.org/wiki/Vatican_City) bank. 
+
+But remember that those are only my to cents because we can try to debug also the **international bank account number** [[19]](https://en.wikipedia.org/wiki/International_Bank_Account_Number). 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Proverb
@@ -45,4 +58,13 @@ I'm not a noble and i'm not a masonic nor I've got some Lions or Rotary affiliat
 8. https://en.wikipedia.org/wiki/ISO_3166
 9. https://en.wikipedia.org/wiki/ISO_3166-2
 10. https://en.wikipedia.org/wiki/ISO_3166-2:IT
+11. https://en.wikipedia.org/wiki/Andorra
+12. https://en.wikipedia.org/wiki/San_Marino
+13. https://en.wikipedia.org/wiki/Luxembourg
+14. https://en.wikipedia.org/wiki/Liechtenstein
+15. https://en.wikipedia.org/wiki/Monaco
+16. https://en.wikipedia.org/wiki/Switzerland
+17. https://en.wikipedia.org/wiki/Institute_for_the_Works_of_Religion
+18. https://en.wikipedia.org/wiki/Vatican_City
+19. https://en.wikipedia.org/wiki/International_Bank_Account_Number
 
