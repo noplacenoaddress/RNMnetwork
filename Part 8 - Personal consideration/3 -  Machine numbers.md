@@ -31,6 +31,8 @@ But I've got also parents from New York, Florida and Ireland.
 
 I'm not a noble and i'm not a masonic nor I've got some Lions or Rotary affiliations.
 
+> *Now those machines are connected to the remote neural control network, but could also be connected by Internet or by a private metropolitan area network or could be connected by analogical telephone cable and could be reached by a remote PPP call with a modem. And many others technologies.* 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Proverb
