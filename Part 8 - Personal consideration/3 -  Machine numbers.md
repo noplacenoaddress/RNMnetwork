@@ -12,6 +12,8 @@ The telephonic prefix of Rome's province is 6. In the *world backwards*, that is
 
 Speaking about the telephone prefix, 9 is south Italy, **Sicily** [[2]](https://en.wikipedia.org/wiki/Sicily), **Calabria** [[3]](https://en.wikipedia.org/wiki/Calabria), some province of **Campagna** [[4]](https://en.wikipedia.org/wiki/Campagna) and a province of **Puglia** [[5]](https://en.wikipedia.org/wiki/Apulia). Color is hexadecimal is #fdde9d and in **common name** [[6]](http://chir.ag/projects/name-that-color) is **Cherokee** [[7]](https://en.wikipedia.org/wiki/Cherokee).
 
+As you can see telephone prefix 6 is the province of Rome. Vatican city add after the 06 code another three digit, 698. 
+
 
 
 ### External links
