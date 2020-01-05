@@ -125,13 +125,23 @@ This is the new sign sign of my father. It's so strange that a very precise engi
 
 ### Friends of mine that have died in strange circumstances
 
+![Genoa](../Images/AdobeStock_118239878_0.jpeg)
+
 In Genoa in the last thirty years a couple of friends or known people have died in accidents, overdose or suicide:
 
 - Giovanni Tabacco, car accident near **Recco** [[40]](https://it.wikipedia.org/wiki/Recco), Genoa.
 - Emanuele, commit suicide in **Acquasola** [[41]](https://it.wikipedia.org/wiki/Spianata_dell%27Acquasola) district Genoa. Brother of the wife of a good friend. He is also in this network. 
 - A boy die for **ketamine** [[42]](https://psychonautwiki.org/wiki/Ketamine) overdose in a house in **Corso Aurelio Saffi** [[43]](https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719). Very strange in the nineties and fatal ketamine overdose are particularly rare,  but not unheard of. However, the exact toxic dosage is unknown. So it was something like what I've lived with LSD, this is almost surely not ketamine.  
 - **GianMaria Vincenti** [[44]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html) die for a motorbike accident at very low speed in an intersection in Albaro district, Genoa. We cry a lot, rest in peace my very good friend. He died at 22 years old on 19 of December 2004. 
-- **Alessandro Durand de la Penne** [[45]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2001/09/10/perde-il-controllo-della-moto-vola-oltre.html), is who I've described before. Die in a motorbike accident on 10 of September of 2001.
+- Cristian Sessarego commit suicide in a psychiatric hospital. **Clinica Maugeri** [[45\]](https://www.icsmaugeri.it/dove-siamo/ics-genova-nervi). An **article** [[46\]](http://www.genovatoday.it/cronaca/nervi-suicidio-ospedale.html) in a local newspaper say that he was mental sick. *But no he wasn't*. He was a great man. One victim of this criminal system. This is the true. 12 May of 2016 at 9:30.
+
+Now rest in peace of you, my friends.
+
+Let's start with some considerations. First of all I really don't like esotericism, **occultism** [[47]](https://en.wikipedia.org/wiki/Occult) and secrets. Not even **numerology** [[48]](https://en.wikipedia.org/wiki/Numerology), **astrology** [[49]](https://en.wikipedia.org/wiki/Astrology) and **mysticism** [[50]](https://en.wikipedia.org/wiki/Mysticism). But I can find and reveal them. They are all done to create mental confusion, sept, adepts, ignorance and death. But remember if you know the correct interpretation keys you can understand about masonry, clubs and nobles. And save life. And help victims. And help target individuals, the in this key of read are masonry victims lost in **rituals** [[51]](https://en.wikipedia.org/wiki/Ritual). 
+
+> *In those deaths the number 9 is always present. In subliminal messages voice services they say that I've got the Machine number 9. They call this the world backwards the 9 there is the 6 here. 666 is the number of the beast. What I think about? The machine number doesn't exist and who is victim got this number.* 
+
+Me and Saray are victims of a sept. Please help.
 
 ### External Links
 
@@ -179,5 +189,10 @@ In Genoa in the last thirty years a couple of friends or known people have died 
 42. https://psychonautwiki.org/wiki/Ketamine
 43. https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719
 44. https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html
-45. https://ricerca.repubblica.it/repubblica/archivio/repubblica/2001/09/10/perde-il-controllo-della-moto-vola-oltre.html
-
+45. https://www.icsmaugeri.it/dove-siamo/ics-genova-nervi
+46. http://www.genovatoday.it/cronaca/nervi-suicidio-ospedale.html
+47. https://en.wikipedia.org/wiki/Occult
+48. https://en.wikipedia.org/wiki/Numerology
+49. https://en.wikipedia.org/wiki/Astrology
+50. https://en.wikipedia.org/wiki/Mysticism
+51. https://en.wikipedia.org/wiki/Ritual
