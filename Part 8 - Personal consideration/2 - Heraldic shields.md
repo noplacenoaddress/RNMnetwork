@@ -13,8 +13,7 @@ https://notes9.senato.it/Web/senregno.NSF/d7aba38662bfb3b8c125785e003c4334/591cf
 In this tab you can appreciate that his address was **via Astalli 15, Rome** [[11]](https://goo.gl/maps/ZR3Ef6kUws5RFgVT9). In this street we've got some point of interest:
 
 - **Society of Jesus** [[12]](https://en.wikipedia.org/wiki/Society_of_Jesus)
-- **General inspectorate of genius** [[13]](https://it.wikipedia.org/wiki/Comando_genio)
-- 
+- **Weapon of genius** [[13]](https://it.wikipedia.org/wiki/Comando_genio), a very important Italian military division.
 
 ![via Astalli 15](../Images/astalli1.png)
 
