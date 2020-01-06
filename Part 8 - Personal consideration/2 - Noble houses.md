@@ -1,4 +1,8 @@
-# Marquisate Durand de la Penne
+# Noble houses 
+
+> *The word marquess entered the English language from the Frenche marchis ("ruler of a border area") in the late 13th or early 14th century. The French word was derived from marche ("frontier"), itself descended from the Middle Latin marca ("frontier"), from which the modern English words march and mark also descend. The distinction between governors of frontier territories and interior territories was made as early as the founding of the Roman empire when some provinces were set aside for administration by the senate and more unpacified or vulnerable provinces were administered by the emperor. The titles duke and count were similarly distinguished as ranks in the late empire, with dux (literally, "leader") being used for a provincial military governor and the rank of comes (literally "companion," that is, of the Emperor) given to the leader of an active army along the frontier.*
+
+### Durand de la Penne
 
 ![Durand de la Penne](../Images/81207908_10221833008156953_4700509236348583936_n.jpg)
 
@@ -30,6 +34,12 @@ He is important in the military history because of being a **frogman** [[20]](ht
 > *The name **frog** [[21]](https://en.wikipedia.org/wiki/Frog), that is an animal, remember me also the swimming style **breaststroke** [[22]](https://en.wikipedia.org/wiki/Breaststroke) that is the only style that swim my mother in open sea, salt water. A frog croak and it could be written as crack. **Crack** [[23]](https://en.wikipedia.org/wiki/Crack_cocaine) is a dope. To crack in computer science is break security with **brute force** [[24]](https://en.wikipedia.org/wiki/Brute-force_attack). In the organization chart of the "Illuminati" facility the frog is the animal that represent who call wife the Catalan head, the butcher. She has destroyed the life of who I was calling brother with exactly this drug, crack. In subliminal message service my mother and the wife of the butcher say that "play" together I think that this could mean that she is the B-side of my mother. She acts like a fascist and my mother is totally church related, prostitution and cocaine. But as usual those are only my two cents.* 
 
 Luigi was a **Lieutenant** [[25]](https://en.wikipedia.org/wiki/Lieutenant_(navy)) in the **Italian Navy** [[26]](https://en.wikipedia.org/wiki/Italian_Navy), abbreviated as "MM", *man in the middle or machine but always my two cents*, when on 19 of December 1941 carried out **a raid on Alexandria** [[27]](https://en.wikipedia.org/wiki/Raid_on_Alexandria_(1941)), Egypt, using **manned torpedoes** [[28]](https://en.wikipedia.org/wiki/Human_torpedo), called Maiali that is the animal pig but that can also mean sexual violence, sexual harassment, prostitution. Remember the number 9 always present, masonry, military, nobles, church. Always the same. Was Italy versus Great Britain. Luigi was considered an hero for a great shark attack, under water. The perimeter of the marquisate of this noble family determinate a **shark tooth** [[29]](https://en.wikipedia.org/wiki/Shark_tooth), symbol of **Georgia** [[30]](https://en.wikipedia.org/wiki/Georgia_(country)), a nation with an alphabet composed by hearts (საქართველოს რესპუბლიკა). 
+
+![Vernazzola](../Images/DSC_4699_1.jpeg)
+
+Luigi got a son his name was Renzo, my father call him a "*very good man*". I don't know, I've seen him one time in them house in a **crêuza** [[31]](https://it.wikipedia.org/wiki/Cr%C3%AAuza) in the department of Vernazzola an ancient fishing port. Houses pastel harmful colors. Ligurian style.
+
+ So we've got understand how the Durand family in the course of a middle century change their physical position from France east territory to the old **Genoese maritime republic** [[32]](https://en.wikipedia.org/wiki/Republic_of_Genoa), a site full of history and nobles family. They are conquerors.
 
 ### External links
 
@@ -63,4 +73,6 @@ Luigi was a **Lieutenant** [[25]](https://en.wikipedia.org/wiki/Lieutenant_(navy
 28. https://en.wikipedia.org/wiki/Human_torpedo
 29. https://en.wikipedia.org/wiki/Shark_tooth
 30. https://en.wikipedia.org/wiki/Georgia_(country)
+31. [https://it.wikipedia.org/wiki/Cr%C3%AAuza](https://it.wikipedia.org/wiki/Crêuza)
+32. https://en.wikipedia.org/wiki/Republic_of_Genoa
 
