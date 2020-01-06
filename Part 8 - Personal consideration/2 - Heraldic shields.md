@@ -17,6 +17,12 @@ In this tab you can appreciate that his address was **via Astalli 15, Rome** [[1
 
 ![via Astalli 15](../Images/astalli1.png)
 
+Senator Durand de la Penne in an index from "discussions of the senate of the kingdom" from 22 of February  of 1902 to 6 of July of 1904, second session, speak about an high-power **radio-telegraph station** [[14]](https://en.wikipedia.org/wiki/Wireless_telegraphy), **Marconi** [[15]](https://en.wikipedia.org/wiki/Guglielmo_Marconi) system, approved by law of 5 April 1903 in the discussion of the balance of **post and telegraphs** [[16]](https://en.wikipedia.org/wiki/Poste_italiane).
+
+Guglielmo Marconi was an Italian radio pioneer and an **electrical engineer** [[17]](https://en.wikipedia.org/wiki/Electrical_engineering), and my father is also.
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Escutcheon_(heraldry)
@@ -32,4 +38,8 @@ In this tab you can appreciate that his address was **via Astalli 15, Rome** [[1
 11. https://goo.gl/maps/ZR3Ef6kUws5RFgVT9
 12. https://en.wikipedia.org/wiki/Society_of_Jesus
 13. https://it.wikipedia.org/wiki/Comando_genio
+14. https://en.wikipedia.org/wiki/Wireless_telegraphy
+15. https://en.wikipedia.org/wiki/Guglielmo_Marconi
+16. https://en.wikipedia.org/wiki/Poste_italiane
+17. https://en.wikipedia.org/wiki/Electrical_engineering
 
