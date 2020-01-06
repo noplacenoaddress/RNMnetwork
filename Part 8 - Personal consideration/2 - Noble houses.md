@@ -33,13 +33,17 @@ He is important in the military history because of being a **frogman** [[20]](ht
 
 > *The name **frog** [[21]](https://en.wikipedia.org/wiki/Frog), that is an animal, remember me also the swimming style **breaststroke** [[22]](https://en.wikipedia.org/wiki/Breaststroke) that is the only style that swim my mother in open sea, salt water. A frog croak and it could be written as crack. **Crack** [[23]](https://en.wikipedia.org/wiki/Crack_cocaine) is a dope. To crack in computer science is break security with **brute force** [[24]](https://en.wikipedia.org/wiki/Brute-force_attack). In the organization chart of the "Illuminati" facility the frog is the animal that represent who call wife the Catalan head, the butcher. She has destroyed the life of who I was calling brother with exactly this drug, crack. In subliminal message service my mother and the wife of the butcher say that "play" together I think that this could mean that she is the B-side of my mother. She acts like a fascist and my mother is totally church related. But as usual those are only my two cents.* 
 
-Luigi was a **Lieutenant** [[25]](https://en.wikipedia.org/wiki/Lieutenant_(navy)) in the **Italian Navy** [[26]](https://en.wikipedia.org/wiki/Italian_Navy), abbreviated as "MM", *man in the middle or machine but always my two cents*, when on 19 of December 1941 carried out **a raid on Alexandria** [[27]](https://en.wikipedia.org/wiki/Raid_on_Alexandria_(1941)), Egypt, using **manned torpedoes** [[28]](https://en.wikipedia.org/wiki/Human_torpedo), called Maiali that is the animal pig but that can also mean sexual violence, sexual harassment, prostitution. Remember the number 9 always present, masonry, military, nobles, church. Always the same. Was Italy versus Great Britain. Luigi was considered an hero for a great shark attack, under water. The perimeter of the marquisate of this noble family determinate a **shark tooth** [[29]](https://en.wikipedia.org/wiki/Shark_tooth), symbol of **Georgia** [[30]](https://en.wikipedia.org/wiki/Georgia_(country)), a nation with an alphabet composed by hearts (საქართველოს რესპუბლიკა). 
+Luigi was a **Lieutenant** [[25]](https://en.wikipedia.org/wiki/Lieutenant_(navy)) in the **Italian Navy** [[26]](https://en.wikipedia.org/wiki/Italian_Navy), abbreviated as "MM", *man in the middle or machine but always my two cents*, when on 19 of December 1941 carried out **a raid on Alexandria** [[27]](https://en.wikipedia.org/wiki/Raid_on_Alexandria_(1941)), Egypt, using **manned torpedoes** [[28]](https://en.wikipedia.org/wiki/Human_torpedo), called Maiali that is the animal pig but that can also mean sexual violence, sexual harassment, prostitution. Remember the number 9 always present, masonry, military, nobles, church. Always the same. Was Italy versus Great Britain. Luigi was considered an hero for a great shark attack, under water. The perimeter of the marquisate of this noble family determinate a **shark tooth** [[29]](https://en.wikipedia.org/wiki/Shark_tooth), symbol of **Georgia** [[30]](https://en.wikipedia.org/wiki/Georgia_(country)), a nation with an alphabet composed by hearts (საქართველოს რესპუბლიკა). The perimeter could be interpreted also like an **arrowhead** [[31]](https://en.wikipedia.org/wiki/Arrowhead). The arrowhead is present in the **sagittarius constellation** [[32]](https://en.wikipedia.org/wiki/Sagittarius_(constellation)), Saray is born under the sagittarius. **Gamma2** [[33]](https://en.wikipedia.org/wiki/Gamma2_Sagittarii) in a star in the arrowhead.
+
+![Sagittarius](../Images/1920px-Sidney_Hall_-_Urania's_Mirror_-_Sagittarius_and_Corona_Australis,_Microscopium,_and_Telescopium.jpg)
+
+> *What does it mean under a noble point of view? Simple this house work with Doe like girls, women who make men fall in love with the ultimate goal of making them lose their mind. To make them lose their business. And with the ultimate goal of ending up in a remote betting system that has as its purpose or well suicide or well the reduction to a small drug dealer of a man, to make him a slave of the Mafia which in turn they use to subjugate the subject. Remember that also Mafia soldiers are utilized by those big noble houses. But this are my two cents nothing more nothing less dear Francesca.*
 
 ![Vernazzola](../Images/DSC_4699_1.jpeg)
 
-Luigi got a son his name was Renzo, my father call him a "*very good man*". I don't know, I've seen him one time in them house in a **crêuza** [[31]](https://it.wikipedia.org/wiki/Cr%C3%AAuza) in the department of Vernazzola an ancient fishing port. Houses pastel harmful colors. Ligurian style.
+Luigi got a son his name was Renzo, my father call him a "*very good man*". I don't know, I've seen him one time in them house in a **crêuza** [[34]](https://it.wikipedia.org/wiki/Cr%C3%AAuza) in the department of Vernazzola an ancient fishing port. Houses pastel harmful colors. Ligurian style.
 
- So we've got understand how the Durand family in the course of a middle century change their physical position from France east territory to the old **Genoese maritime republic** [[32]](https://en.wikipedia.org/wiki/Republic_of_Genoa), a site full of history and nobles family. They are conquerors.
+ So we've got understand how the Durand family in the course of a middle century change their physical position from France east territory to the old **Genoese maritime republic** [[35]](https://en.wikipedia.org/wiki/Republic_of_Genoa), a site full of history and nobles family. They are conquerors.
 
 ### External links
 
@@ -73,6 +77,9 @@ Luigi got a son his name was Renzo, my father call him a "*very good man*". I do
 28. https://en.wikipedia.org/wiki/Human_torpedo
 29. https://en.wikipedia.org/wiki/Shark_tooth
 30. https://en.wikipedia.org/wiki/Georgia_(country)
-31. [https://it.wikipedia.org/wiki/Cr%C3%AAuza](https://it.wikipedia.org/wiki/Crêuza)
-32. https://en.wikipedia.org/wiki/Republic_of_Genoa
+31. https://en.wikipedia.org/wiki/Arrowhead
+32. https://en.wikipedia.org/wiki/Sagittarius_(constellation)
+33. https://en.wikipedia.org/wiki/Gamma2_Sagittarii
+34. [https://it.wikipedia.org/wiki/Cr%C3%AAuza](https://it.wikipedia.org/wiki/Crêuza)
+35. https://en.wikipedia.org/wiki/Republic_of_Genoa
 
