@@ -21,7 +21,7 @@ Senator Durand de la Penne in an index from "discussions of the senate of the ki
 
 Guglielmo Marconi was an Italian radio pioneer and an **electrical engineer** [[17]](https://en.wikipedia.org/wiki/Electrical_engineering), and my father is also.
 
-One of the child of Senator Durand de la Penne was **Luigi Durand de la Penne** [[18]](https://en.wikipedia.org/wiki/Luigi_Durand_de_la_Penne) born in Genoa on 11 of February 1914 and die on 17 of January 1992. Considered an Italian military hero but in reality a fascist belongs to the deadly **Decima Flottiglia MAS** [[19]](https://en.wikipedia.org/wiki/Decima_Flottiglia_MAS).
+One of the child of Senator Durand de la Penne was **Luigi Durand de la Penne** [[18]](https://en.wikipedia.org/wiki/Luigi_Durand_de_la_Penne) born in Genoa on 11 of February 1914 and die on 17 of January 1992. Considered an Italian military hero but in reality *a fascist* belongs to the deadly **Decima Flottiglia MAS** [[19]](https://en.wikipedia.org/wiki/Decima_Flottiglia_MAS).
 
 ![Torpedo](../Images/Maiale_SLC.jpg)
 
