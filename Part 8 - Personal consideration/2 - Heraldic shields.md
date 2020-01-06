@@ -25,7 +25,9 @@ One of the child of Senator Durand de la Penne was **Luigi Durand de la Penne** 
 
 ![Torpedo](../Images/Maiale_SLC.jpg)
 
+He is important in the military history because of being a **frogman** [[20]](https://en.wikipedia.org/wiki/Frogman) in the second world war. 
 
+> *The name **frog** [[21]](https://en.wikipedia.org/wiki/Frog), that is an animal, remember me also the swimming style **breaststroke** [[22]](https://en.wikipedia.org/wiki/Breaststroke) that is the only style that swim my mother in open sea, salt water. A frog croak and it could be written as crack. **Crack** [[23]](https://en.wikipedia.org/wiki/Crack_cocaine) is a dope. To crack in computer science is break security with **brute force** [[24]](https://en.wikipedia.org/wiki/Brute-force_attack). In the organization chart of the "Illuminati" facility the frog is the animal that represent who call wife the Catalan head, the butcher. She has destroyed the life of who I was calling brother with exactly this drug, crack. In subliminal message service my mother and the wife of the butcher say that "play" together I think that this could mean that she is the B-side of my mother. She acts like a fascist and my mother is totally church related, prostitution and cocaine. But as usual those are only my two cents.* 
 
 ### External links
 
@@ -48,4 +50,9 @@ One of the child of Senator Durand de la Penne was **Luigi Durand de la Penne** 
 17. https://en.wikipedia.org/wiki/Electrical_engineering
 18. https://en.wikipedia.org/wiki/Luigi_Durand_de_la_Penne
 19. https://en.wikipedia.org/wiki/Decima_Flottiglia_MAS
+20. https://en.wikipedia.org/wiki/Frogman
+21. https://en.wikipedia.org/wiki/Frog
+22. https://en.wikipedia.org/wiki/Breaststroke
+23. https://en.wikipedia.org/wiki/Crack_cocaine
+24. https://en.wikipedia.org/wiki/Brute-force_attack
 
