@@ -10,7 +10,7 @@ This is the **escutcheon** [[1]](https://en.wikipedia.org/wiki/Escutcheon_(heral
 
 ![Marquisate](../Images/marchesedelapenne.jpg)
 
-This territory in the south of France pertain to the departments of **Alpes-de-Haute-Provence** [[7]](https://en.wikipedia.org/wiki/Alpes-de-Haute-Provence) and **Alpes-Maritimes** [[8]](https://en.wikipedia.org/wiki/Alpes-Maritimes). This last **departments of France** [[9]](https://en.wikipedia.org/wiki/Departments_of_France) is surrounding the **Principality of Monaco** [[10]](https://en.wikipedia.org/wiki/Monaco).
+This territory in the south of France pertain to the departments of **Alpes-de-Haute-Provence** [[7]](https://en.wikipedia.org/wiki/Alpes-de-Haute-Provence) and **Alpes-Maritimes** [[8]](https://en.wikipedia.org/wiki/Alpes-Maritimes). This last **departments of France** [[9]](https://en.wikipedia.org/wiki/Departments_of_France) is surrounding the **Principality of Monaco** [[10]](https://en.wikipedia.org/wiki/Monaco). But also there's a town near that is called Orange, like the ISP.
 
 https://notes9.senato.it/Web/senregno.NSF/d7aba38662bfb3b8c125785e003c4334/591cf55a86f14ba84125646f005b643e?OpenDocument
 
