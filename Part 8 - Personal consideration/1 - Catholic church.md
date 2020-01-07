@@ -1,8 +1,8 @@
 # Catholic church
 
-![800px-Piazza_San_Pietro](../Images/800px-Piazza_San_Pietro.jpg)
+![Catholic church](../Images/vatican.jpg)
 
-Time. 
+This is a zoom on the left side street map of the Vatican city.
 
 ### Christian name
 
