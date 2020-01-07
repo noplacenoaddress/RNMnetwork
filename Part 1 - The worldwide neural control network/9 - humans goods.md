@@ -90,7 +90,7 @@ Let's analyze this radical transformation that can occur in a mind because the w
 
 ![female Doe](../Images/tumblr_m6vugwifZg1r90rkno1_500.jpg)
 
-This is what Saray have been used in the remote neural monitoring network against myself. Those criminals, putting pressure on the womans using familiar situations, use beautiful woman like human video camera to 
+This is how Saray have been used in the remote neural monitoring network against myself. Those criminals, putting pressure on the womans using familiar situations, use beautiful woman like human video camera to stole companies secrets and to create a trauma in a businessman. 
 
 ### External links		
 
