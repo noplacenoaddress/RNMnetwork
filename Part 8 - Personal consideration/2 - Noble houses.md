@@ -55,11 +55,21 @@ Francesca was born in 1981 and probably in March but i really don't remember. We
 
 What type of A-side business does they do in the Mediterranean? 
 
-- Head of **Lloyd Italiano** [[36]](https://it.wikipedia.org/wiki/Lloyd_Italiano) and **Lloyd Sabaudo** [[37]](https://it.wikipedia.org/wiki/Lloyd_Sabaudo). **Shipping line** [[38]](https://en.wikipedia.org/wiki/Shipping_line) service, connections with south America.
+- Head of **Lloyd Italiano** [[38]](https://it.wikipedia.org/wiki/Lloyd_Italiano) and **Lloyd Sabaudo** [[39]](https://it.wikipedia.org/wiki/Lloyd_Sabaudo). **Shipping line** [[40]](https://en.wikipedia.org/wiki/Shipping_line) service, connections with south America.
 - From the early '900 hands on radio systems. Probably also related with Vatican radio.
-- **Navy** [[36]](https://en.wikipedia.org/wiki/Navy) military forces development. The Italian Navy got two retired **guided missile destroyers** [[37]](https://en.wikipedia.org/wiki/Guided_missile_destroyer) dedicated to them. **Durand de la Penne-class destroyer** [[38]](https://en.wikipedia.org/wiki/Guided_missile_destroyer). Now what is in production take the name of **Horizon project** [[39]](https://en.wikipedia.org/wiki/Horizon-class_frigate), a joint venture between Italy, France and Great Britain but this country go out in 1999. A point of interest speaking about the remote neural monitoring network is the electronic warfare equipment that those military project mount in them **frigates** [[40]](https://en.wikipedia.org/wiki/Frigate). 
+- **Navy** [[41]](https://en.wikipedia.org/wiki/Navy) military forces development. The Italian Navy got two retired **guided missile destroyers** [[42]](https://en.wikipedia.org/wiki/Guided_missile_destroyer) dedicated to them. **Durand de la Penne-class destroyer** [[42]](https://en.wikipedia.org/wiki/Guided_missile_destroyer). Now what is in production take the name of **Horizon project** [[43]](https://en.wikipedia.org/wiki/Horizon-class_frigate), a joint venture between Italy, France and Great Britain but this country go out in 1999. A point of interest speaking about the remote neural monitoring network is the electronic warfare equipment that those military project mount in them **frigates** [[44]](https://en.wikipedia.org/wiki/Frigate). 
 - Probably computer science and IT tech support and development for the Jesuits.
-- Construction sector 
+- Construction sector.
+
+A couple of informations more that can retrieved on the Internet about the family:
+
+- **Ceremony** [[45]](https://www.gazzettadellaspezia.it/cronaca/item/18645-consegnai-sei-nuovi-baschi-verdi) of conferment of patents of **raiders** [[46]](https://en.wikipedia.org/wiki/Comando_Raggruppamento_Subacquei_e_Incursori_Teseo_Tesei) to the students of the course "Luigi Durand de la Penne".
+- History of the **Lloyd Sabaudo** [[47]](https://www.italianliners.com/#!lloyd-sabaudoit/c21ha).
+- A construction **company** [[48]](https://www.impresaitalia.info/mstdb80608103/progettazioni-e-costruzioni-durand-de-la-penne-di-sofia-salvetti-e-c-sas/conegliano.aspx).
+- Other important **business and sports loads** [[49]](http://www.ilgiornale.it/news/l-ammiraglio-che-non-voleva-titoli.html).
+- Her mother registered also like an **autonomous worker** [[50]](https://www.elenchitelefonici.it/GE/GENOVA/ALISA_FEDELINI/ELENCO/0103992857.html).
+
+
 
 
 
@@ -109,4 +119,10 @@ What type of A-side business does they do in the Mediterranean?
 42. https://en.wikipedia.org/wiki/Durand_de_la_Penne-class_destroyer
 43. https://en.wikipedia.org/wiki/Horizon-class_frigate
 44. https://en.wikipedia.org/wiki/Frigate
+45. https://www.gazzettadellaspezia.it/cronaca/item/18645-consegnai-sei-nuovi-baschi-verdi
+46. https://en.wikipedia.org/wiki/Comando_Raggruppamento_Subacquei_e_Incursori_Teseo_Tesei
+47. https://www.italianliners.com/#!lloyd-sabaudoit/c21ha
+48. https://www.impresaitalia.info/mstdb80608103/progettazioni-e-costruzioni-durand-de-la-penne-di-sofia-salvetti-e-c-sas/conegliano.aspx
+49. http://www.ilgiornale.it/news/l-ammiraglio-che-non-voleva-titoli.html
+50. https://www.elenchitelefonici.it/GE/GENOVA/ALISA_FEDELINI/ELENCO/0103992857.html
 
