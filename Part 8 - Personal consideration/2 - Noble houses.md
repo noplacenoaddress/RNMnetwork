@@ -41,9 +41,15 @@ Luigi was a **Lieutenant** [[25]](https://en.wikipedia.org/wiki/Lieutenant_(navy
 
 ![Vernazzola](../Images/DSC_4699_1.jpeg)
 
-Luigi got a son his name was Renzo, my father call him a "*very good man*". I don't know, I've seen him one time in them house in a **crêuza** [[34]](https://it.wikipedia.org/wiki/Cr%C3%AAuza) in the department of Vernazzola an ancient fishing port. Houses pastel harmful colors. Ligurian style.
+Luigi got a son his name was Renzo, my father call him a "*very good man*". I don't know, I've seen him one time in them house in a **crêuza** [[34]](https://it.wikipedia.org/wiki/Cr%C3%AAuza) in the department of Vernazzola an ancient fishing port. Houses pastel harmful colors. Ligurian style. From a newspaper article I know that he fatally dies on 2000 for a sudden illness. Rest in peace.
 
- So we've got understand how the Durand family in the course of a middle century change their physical position from France east territory to the old **Genoese maritime republic** [[35]](https://en.wikipedia.org/wiki/Republic_of_Genoa), a site full of history and nobles family. They are conquerors.
+ So we've got understand how the Durand family in the course of a middle century change their physical position from France east territory to the old **Genoese maritime republic** [[35]](https://en.wikipedia.org/wiki/Republic_of_Genoa), a site full of history and nobles families. They are conquerors and strong promoters of joint venture between Italy and France. Obviously works with Monaco and San Marino without any doubt.
+
+What type of A-side business does they do in the Mediterranean? 
+
+- **Navy** [[36]](https://en.wikipedia.org/wiki/Navy) military forces development. The Italian Navy got two retired **guided missile destroyers** [[37]](https://en.wikipedia.org/wiki/Guided_missile_destroyer) dedicated to them. **Durand de la Penne-class destroyer** [[38]](https://en.wikipedia.org/wiki/Guided_missile_destroyer). Now what is in production take the name of **Horizon project** [[39]](https://en.wikipedia.org/wiki/Horizon-class_frigate), a joint venture between Italy, France and Great Britain but this country go out in 1999. A point of interest speaking about the remote neural monitoring network is the electronic warfare equipment that those military project mount in them **frigates** [[40]](https://en.wikipedia.org/wiki/Frigate). 
+
+
 
 ### External links
 
@@ -82,4 +88,9 @@ Luigi got a son his name was Renzo, my father call him a "*very good man*". I do
 33. https://en.wikipedia.org/wiki/Gamma2_Sagittarii
 34. [https://it.wikipedia.org/wiki/Cr%C3%AAuza](https://it.wikipedia.org/wiki/Crêuza)
 35. https://en.wikipedia.org/wiki/Republic_of_Genoa
+36. https://en.wikipedia.org/wiki/Navy
+37. https://en.wikipedia.org/wiki/Guided_missile_destroyer
+38. https://en.wikipedia.org/wiki/Durand_de_la_Penne-class_destroyer
+39. https://en.wikipedia.org/wiki/Horizon-class_frigate
+40. https://en.wikipedia.org/wiki/Frigate
 
