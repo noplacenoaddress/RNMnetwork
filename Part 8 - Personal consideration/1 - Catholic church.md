@@ -11,6 +11,10 @@ This is a zoom on the left side street map of the Vatican city. There are some p
 
 What I want to underline to you, reader? Simply, Vatican city is full of radio technology. But those are as usual my two cents.
 
+![Vatican Radio](../Images/Vatican-radio.jpg)
+
+This is the Vatican Radio principle building but the important think to notice is the antenna in the background. Is an antenna that transmit in MF wave longitude. Medium frequencies are what is used to transmit subliminal messages direct to skull like we've already studied. This antenna is exactly the same that we've reported in Palau de Plegamans in Catalunya. Those are responsible of those messages using the US patent technology. Probably the new digital system perhaps is only remote EEG better saying brain wave transmitted by ELF software defined radio. 
+
 ### Christian name
 
 ![River baptism](../Images/River_baptism_in_New_Bern.jpg)
