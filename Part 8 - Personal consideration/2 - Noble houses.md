@@ -45,9 +45,21 @@ Luigi got a son his name was Renzo, my father call him a "*very good man*". I do
 
  So we've got understand how the Durand family in the course of a middle century change their physical position from France east territory to the old **Genoese maritime republic** [[35]](https://en.wikipedia.org/wiki/Republic_of_Genoa), a site full of history and nobles families. They are conquerors and strong promoters of joint venture between Italy and France. Obviously works with Monaco and San Marino without any doubt.
 
+![Ettore Vernazza](../Images/1465202_10201956272939946_20896584_n.jpg)
+
+Who is under my crosshair because is guilty of all what I've passed in Barcelona from the loose of my business, my house, my girlfriend, my puppies, my motorbikes and my economic stability to gas lighting, gang stalking, suicide induction, remote betting system, public humiliations and electronic tortures taht had systematically destroy my life and the life of my ex girlfriend, Saray, is her son, Francesca.
+
+Francesca was born in 1981 and probably in March but i really don't remember. Went in my same elementary school in Genoa, **Ettore Vernazza** [[36]](https://www.icsturla.edu.it/pvw/app/default/pvw_sito.php?sede_codice=GEME0058&page=2108518) in **Vittorino Era 1B** [[37]](https://goo.gl/maps/RgkH34F6ovd74WH99) postal code 16147 Genoa; was from 1986 to 1991. I went to section B and she went to section A. All of those children are now in the remote neural monitoring network build by Francesca playing in Carcelona or simply victim of her system. I really don't know if they gain money in the Monopoly board virtual game or not.
+
+> *About Francesca there is totally no information in Internet and this is very strange. Because she is without any doubt the head of this network and this network got clients like Elon Munsk. She is a telecommunication monster and she has got actions from Orange and Yoigo without any doubt. She obviously use covers to hide her. She is very strong and she has changed all Barcelona but she destroy also our life so I decide to fight against her. Sorry Francesca when we was child we was in good relations but you know, my dear, that you took the longest step of the leg and also my parents are guilty. This is a tragedy, I'm so sad Francesca but what you're doing are crimes against humanity. I'm so sorry, you have got a very important surname that I don't have but I've written sufficient pages to put you in jail forever and you know. In subliminal voice service we speak every day and you don't accept to come down to an informal compromise with me after you've tried to kill me for four years. I'm so sad because I was a child with you Francesca, but I'm not a daddy's son and also my parents are at risk of being reported for the same crimes and I don't stop. That's not a game. You destroyed the lives of everyone who called me stupid for four years and led me to suicide, I don't sell drugs for you Francesca. All absolutely all will be judged for the crimes you have forced them to commit. I'm sorry Francesca, I'm very sorry. I respect you, however, you are absolutely not capable of running a business, you are bringing it to the public pillory as you did with me through a fascist persecution that you learned from your family's logbooks. I'm sorry.*
+
 What type of A-side business does they do in the Mediterranean? 
 
+- Head of **Lloyd Italiano** [[36]](https://it.wikipedia.org/wiki/Lloyd_Italiano) and **Lloyd Sabaudo** [[37]](https://it.wikipedia.org/wiki/Lloyd_Sabaudo). **Shipping line** [[38]](https://en.wikipedia.org/wiki/Shipping_line) service, connections with south America.
+- From the early '900 hands on radio systems. Probably also related with Vatican radio.
 - **Navy** [[36]](https://en.wikipedia.org/wiki/Navy) military forces development. The Italian Navy got two retired **guided missile destroyers** [[37]](https://en.wikipedia.org/wiki/Guided_missile_destroyer) dedicated to them. **Durand de la Penne-class destroyer** [[38]](https://en.wikipedia.org/wiki/Guided_missile_destroyer). Now what is in production take the name of **Horizon project** [[39]](https://en.wikipedia.org/wiki/Horizon-class_frigate), a joint venture between Italy, France and Great Britain but this country go out in 1999. A point of interest speaking about the remote neural monitoring network is the electronic warfare equipment that those military project mount in them **frigates** [[40]](https://en.wikipedia.org/wiki/Frigate). 
+- Probably computer science and IT tech support and development for the Jesuits.
+- Construction sector 
 
 
 
@@ -88,9 +100,13 @@ What type of A-side business does they do in the Mediterranean?
 33. https://en.wikipedia.org/wiki/Gamma2_Sagittarii
 34. [https://it.wikipedia.org/wiki/Cr%C3%AAuza](https://it.wikipedia.org/wiki/Crêuza)
 35. https://en.wikipedia.org/wiki/Republic_of_Genoa
-36. https://en.wikipedia.org/wiki/Navy
-37. https://en.wikipedia.org/wiki/Guided_missile_destroyer
-38. https://en.wikipedia.org/wiki/Durand_de_la_Penne-class_destroyer
-39. https://en.wikipedia.org/wiki/Horizon-class_frigate
-40. https://en.wikipedia.org/wiki/Frigate
+36. https://www.icsturla.edu.it/pvw/app/default/pvw_sito.php?sede_codice=GEME0058&page=2108518
+37. https://goo.gl/maps/RgkH34F6ovd74WH99
+38. https://it.wikipedia.org/wiki/Lloyd_Italiano
+39. https://it.wikipedia.org/wiki/Lloyd_Sabaudo
+40. https://en.wikipedia.org/wiki/Navy
+41. https://en.wikipedia.org/wiki/Guided_missile_destroyer
+42. https://en.wikipedia.org/wiki/Durand_de_la_Penne-class_destroyer
+43. https://en.wikipedia.org/wiki/Horizon-class_frigate
+44. https://en.wikipedia.org/wiki/Frigate
 
