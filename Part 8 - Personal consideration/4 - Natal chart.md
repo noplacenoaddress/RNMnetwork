@@ -24,6 +24,10 @@ Doe like girls are **baits** [[4]](https://en.wikipedia.org/wiki/Fishing_bait) f
 
 Returning to my natal chart to understand my very character and to try to catch Saray, because it's seem to be that I can catch her using a little bit of astronomy and geographical position, I report here the results of the calculation:
 
+- 1981 was not a **leap year** [[5]](https://en.wikipedia.org/wiki/Leap_year).
+- 31 of March was **Tuesday** [[6]](https://en.wikipedia.org/wiki/Tuesday), in **old English** [[7]](https://en.wikipedia.org/wiki/Old_English) is the day of **Týr** [[8]](https://en.wikipedia.org/wiki/T%C3%BDr) equivalent to **Mars** [[9]](https://en.wikipedia.org/wiki/Mars_(mythology)) in **interpretatio germanica** [[10]](https://en.wikipedia.org/wiki/Interpretatio_graeca#Interpretatio_germanica). The twos means war.
+- The **Julian day** [[11]](https://en.wikipedia.org/wiki/Julian_day) is 2444695.1597222
+
 
 
 ### External links
@@ -32,4 +36,11 @@ Returning to my natal chart to understand my very character and to try to catch 
 2. https://en.wikipedia.org/wiki/Dome
 3. https://en.wikipedia.org/wiki/Republic
 4. https://en.wikipedia.org/wiki/Fishing_bait
+5. https://en.wikipedia.org/wiki/Leap_year
+6. https://en.wikipedia.org/wiki/Tuesday
+7. https://en.wikipedia.org/wiki/Old_English
+8. [https://en.wikipedia.org/wiki/T%C3%BDr](https://en.wikipedia.org/wiki/Týr)
+9. https://en.wikipedia.org/wiki/Mars_(mythology)
+10. https://en.wikipedia.org/wiki/Interpretatio_graeca#Interpretatio_germanica
+11. https://en.wikipedia.org/wiki/Julian_day
 
