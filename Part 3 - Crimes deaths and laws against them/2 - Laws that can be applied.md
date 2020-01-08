@@ -133,6 +133,16 @@ Speaking about nowadays existing applications we have to list:
 - **Party in my Dorm** [[47]](https://www.partyinmydorm.com/)
 - **Club Penguin** [[48]](https://en.wikipedia.org/wiki/Club_Penguin)
 
+Next here a list of police documents and newspapers articles related to crimes of sexual harassment and pedophilia that have been judged in courtrooms:
+
+- **Forensics acquisition of IMVU: a case of study** [[49]](https://drive.google.com/file/d/14Bo29G6AAz-NFWOb2jzAIX0OISTC1NOj/view?usp=sharing)
+- **Crime and policing in virtual words** [[50]](http://f3magazine.unicri.it/?p=360)
+- **Police powers newsletter December 2016** [[51]](https://drive.google.com/file/d/12dOrVXRC033_28VdGUCsaWJMh5EnFROt/view?usp=sharing)
+- **Paedophiles using online computer games such as Minecraft to groom children** [[52]](https://www.mirror.co.uk/news/uk-news/paedophiles-using-online-computer-games-10233554)
+- **Minecraft paedophile Adam Isaac groomed boys online** [[53]](https://www.bbc.com/news/uk-wales-south-east-wales-38691882)
+
+Now that we've listed some cases presents in worlds known by the police you can image how many problems of these patter are present in a augmented reality world injected without the citizen agreement in European capital like Barcelona, here the owners of the remote neural monitoring network sell every type of black market good. It's like deep Internet but in radio frequency, and worst think is that the layer one of this technology is from radio Vatican. Are they know what happen here? Where I speak about black market I can arrive to organs and obviously to forced prostitution even of minors. And we are in Europe. But what is happening just now in pedophiles paradises like **Thailand** [[54]](https://en.wikipedia.org/wiki/Thailand) or **Cambodia** [[55]](https://en.wikipedia.org/wiki/Cambodia)? This is the question. 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Human_trafficking
@@ -230,5 +240,19 @@ Speaking about nowadays existing applications we have to list:
 47. https://www.partyinmydorm.com/
 
 48. https://en.wikipedia.org/wiki/Club_Penguin
+
+49. https://drive.google.com/file/d/14Bo29G6AAz-NFWOb2jzAIX0OISTC1NOj/view?usp=sharing
+
+50. http://f3magazine.unicri.it/?p=360
+
+51. https://drive.google.com/file/d/12dOrVXRC033_28VdGUCsaWJMh5EnFROt/view?usp=sharing
+
+52. https://www.mirror.co.uk/news/uk-news/paedophiles-using-online-computer-games-10233554
+
+53. https://www.bbc.com/news/uk-wales-south-east-wales-38691882
+
+54. https://en.wikipedia.org/wiki/Thailand
+
+55. https://en.wikipedia.org/wiki/Cambodia
 
     
