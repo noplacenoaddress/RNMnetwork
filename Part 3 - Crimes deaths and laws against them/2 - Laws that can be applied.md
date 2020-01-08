@@ -143,6 +143,8 @@ Next here a list of police documents and newspapers articles related to crimes o
 
 Now that we've listed some cases presents in worlds known by the police you can image how many problems of these patter are present in a augmented reality world injected without the citizen agreement in European capital like Barcelona, here the owners of the remote neural monitoring network sell every type of black market good. It's like deep Internet but in radio frequency, and worst think is that the layer one of this technology is from radio Vatican. Are they know what happen here? Where I speak about black market I can arrive to organs and obviously to forced prostitution even of minors. And we are in Europe. But what is happening just now in pedophiles paradises like **Thailand** [[54]](https://en.wikipedia.org/wiki/Thailand) or **Cambodia** [[55]](https://en.wikipedia.org/wiki/Cambodia)? This is the question. 
 
+Let's explore some European and Spanish laws that can be applied to those monster that eat the soul of our children. First of all I want to sensitize you, reader, that also this "**cannibal holocaust**" [[56]](https://en.wikipedia.org/wiki/Cannibal_Holocaust) like panorama has got a political goal. Always the same, populism and next Fascism. Why? I'm not against homosexuality but nowadays there is a clear loose of values in the new generations of adolescent that decide to experiment extreme sex adventures that rapidly change their mind. Why? Because they are violated continuously in this world, and we know the true but no one say nothing. And they all have child. And I've not because they systematically destroy my life.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Human_trafficking
@@ -254,5 +256,7 @@ Now that we've listed some cases presents in worlds known by the police you can 
 54. https://en.wikipedia.org/wiki/Thailand
 
 55. https://en.wikipedia.org/wiki/Cambodia
+
+56. https://en.wikipedia.org/wiki/Cannibal_Holocaust
 
     
