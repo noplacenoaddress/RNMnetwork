@@ -72,11 +72,13 @@ A couple of informations more that can retrieved on the Internet about the famil
 - A construction **company** [[56]](https://www.impresaitalia.info/mstdb80608103/progettazioni-e-costruzioni-durand-de-la-penne-di-sofia-salvetti-e-c-sas/conegliano.aspx).
 - Other important **business and sports loads** [[57]](http://www.ilgiornale.it/news/l-ammiraglio-che-non-voleva-titoli.html).
 - Her mother registered also like an **autonomous worker** [[58]](https://www.elenchitelefonici.it/GE/GENOVA/ALISA_FEDELINI/ELENCO/0103992857.html).
-- An article from the institute of the Italian encyclopedia. 
+- An **article** [[59]](http://www.treccani.it/enciclopedia/durand-de-la-penne-luigi) from the institute of the **Italian encyclopedia** [[60]](https://it.wikipedia.org/wiki/Istituto_dell%27Enciclopedia_Italiana).  
 
 ### Albergo dei nobili
 
+![Repubblica di Genova](../Images/repubblica-genova-1024x768.jpg)
 
+In the middle Age in Liguria and Piemonte nobles family start to create **consortium** [[61]](https://en.wikipedia.org/wiki/Consortium) under the name of "alberghi", the same name used in the Monopoly board game. Small families join "fat nobles" and sometimes acquired their surname.
 
 ### External links
 
@@ -138,4 +140,7 @@ A couple of informations more that can retrieved on the Internet about the famil
 56. https://www.impresaitalia.info/mstdb80608103/progettazioni-e-costruzioni-durand-de-la-penne-di-sofia-salvetti-e-c-sas/conegliano.aspx
 57. http://www.ilgiornale.it/news/l-ammiraglio-che-non-voleva-titoli.html
 58. https://www.elenchitelefonici.it/GE/GENOVA/ALISA_FEDELINI/ELENCO/0103992857.html
+59. http://www.treccani.it/enciclopedia/durand-de-la-penne-luigi
+60. [https://it.wikipedia.org/wiki/Istituto_dell%27Enciclopedia_Italiana](https://it.wikipedia.org/wiki/Istituto_dell'Enciclopedia_Italiana)
+61. https://en.wikipedia.org/wiki/Consortium
 
