@@ -27,7 +27,6 @@ Returning to my natal chart to understand my very character and to try to catch 
 - 1981 was not a **leap year** [[5]](https://en.wikipedia.org/wiki/Leap_year).
 - 31 of March was **Tuesday** [[6]](https://en.wikipedia.org/wiki/Tuesday), in **old English** [[7]](https://en.wikipedia.org/wiki/Old_English) is the day of **Týr** [[8]](https://en.wikipedia.org/wiki/T%C3%BDr) equivalent to **Mars** [[9]](https://en.wikipedia.org/wiki/Mars_(mythology)) in **interpretatio germanica** [[10]](https://en.wikipedia.org/wiki/Interpretatio_graeca#Interpretatio_germanica). The twos means war.
 - The **Julian day** [[11]](https://en.wikipedia.org/wiki/Julian_day) is 2444695.1597222
-- 
 
 
 
