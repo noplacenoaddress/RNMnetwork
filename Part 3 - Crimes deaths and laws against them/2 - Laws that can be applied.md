@@ -115,7 +115,23 @@ Those are the ten points of the Nuremberger code speak about ethics in human exp
 
 ![The pedophilia spectre](../Images/42059359_533873410388509_13538428406726656_n.jpg)
 
+In **metaverse** [[32]](https://en.wikipedia.org/wiki/Metaverse) virtual world, like the one inject in the visual and auditive cortex that is present in Barcelona because of the remote neural monitoring network from their born in the early nineties sexual violence and pedophilia are present. 
 
+All has started with a **BBS** [[33]](https://en.wikipedia.org/wiki/Bulletin_board_system) like world called **LambdaMOO** [[34]](https://en.wikipedia.org/wiki/LambdaMOO). "**A rape in cyberspace**" [[35]](https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace) is a non fiction novel that insert the reader to those world, derived from **punk** [[36]](https://en.wikipedia.org/wiki/Punk_subculture) and next **cyberpunk** [[37]](https://en.wikipedia.org/wiki/Cyberpunk) underground culture.
+
+Speaking about nowadays existing applications we have to list:
+
+- **IMVU** [[38]](https://en.wikipedia.org/wiki/IMVU)
+- **Minecraft** [[39]](https://en.wikipedia.org/wiki/Minecraft)
+- **Clash of Clans** [[40]](https://en.wikipedia.org/wiki/Clash_of_Clans)
+- **World of Warcraft** [[41]](https://en.wikipedia.org/wiki/World_of_Warcraft)
+- **Roblox** [[42]](https://en.wikipedia.org/wiki/Roblox)
+- **Awakin Life** [[43]](https://avakin.com/)
+- **Fresh Hotel** [[44]](https://fresh-hotel.org/index?novote)
+- **Marvel Contest of Champions** [[45]](https://playcontestofchampions.com/)
+- **SmallWorlds** [[46]](https://en.wikipedia.org/wiki/SmallWorlds)
+- **Party in my Dorm** [[47]](https://www.partyinmydorm.com/)
+- **Club Penguin** [[48]](https://en.wikipedia.org/wiki/Club_Penguin)
 
 ### External links
 
@@ -180,5 +196,39 @@ Those are the ten points of the Nuremberger code speak about ethics in human exp
 30. https://en.wikipedia.org/wiki/United_Nations
 
 31. https://en.wikipedia.org/wiki/Crimes_against_humanity
+
+32. https://en.wikipedia.org/wiki/Metaverse
+
+33. https://en.wikipedia.org/wiki/Bulletin_board_system
+
+34. https://en.wikipedia.org/wiki/LambdaMOO
+
+35. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
+
+36. https://en.wikipedia.org/wiki/Punk_subculture
+
+37. https://en.wikipedia.org/wiki/Cyberpunk
+
+38. https://en.wikipedia.org/wiki/IMVU
+
+39. https://en.wikipedia.org/wiki/Minecraft
+
+40. https://en.wikipedia.org/wiki/Clash_of_Clans
+
+41. https://en.wikipedia.org/wiki/World_of_Warcraft
+
+42. https://en.wikipedia.org/wiki/Roblox
+
+43. https://avakin.com/
+
+44. https://fresh-hotel.org/index?novote
+
+45. https://playcontestofchampions.com/
+
+46. https://en.wikipedia.org/wiki/SmallWorlds
+
+47. https://www.partyinmydorm.com/
+
+48. https://en.wikipedia.org/wiki/Club_Penguin
 
     
