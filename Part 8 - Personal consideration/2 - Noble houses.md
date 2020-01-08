@@ -78,7 +78,15 @@ A couple of informations more that can retrieved on the Internet about the famil
 
 ![Repubblica di Genova](../Images/repubblica-genova-1024x768.jpg)
 
-In the middle Age in Liguria and Piemonte nobles family start to create **consortium** [[61]](https://en.wikipedia.org/wiki/Consortium) under the name of "alberghi", the same name used in the Monopoly board game. Small families join "fat nobles" and sometimes acquired their surname.
+In the middle Age in Liguria and Piemonte nobles family start to create **consortium** [[61]](https://en.wikipedia.org/wiki/Consortium) under the name of "**alberghi**" [[62]](https://it.wikipedia.org/wiki/Albergo_dei_Nobili), the same name used in the Monopoly board game. Small families join "fat nobles" and sometimes acquired their surname. The rules in 1528 from the **Doria family** [[63]](https://en.wikipedia.org/wiki/Doria_(family)) say that a family had the right to open one if they had at least six houses. If they had twelve they could opened a "doppio albergo". The name of this entity took the same of the square where it resided. 
+
+In the Treccani **article** [[64]](http://www.treccani.it/enciclopedia/albergo-dei-nobili_(Enciclopedia-Italiana)/) about it's not clear what is the exact meaning of "house". Because we're speaking about nobles and we're speaking about the old **Republic of Genoa** [[65]](https://en.wikipedia.org/wiki/Republic_of_Genoa) where there was full of **merchants** [[66]](https://en.wikipedia.org/wiki/Merchant). I really don't want to underline it but it is obvious that is also black market related but in those times where not illegal; nowadays yes it is. But why I speak about today? Because what I'm writing about the division of houses in Barcelona in the remote neural monitoring network injected in the audio visual cortex is exactly this. In the encyclopedia we can appreciate that "alberghi" stop on 1576 but I think that they are in use today. And citizens doesn't know it.
+
+![Ordine Gerosolimitano](../Images/gerosolimitano.jpg)
+
+The term "alberghi" was created by the ancient order of the **Jerusalem Knights** [[67]](https://it.wikipedia.org/wiki/Cavalieri_gerosolimitani). But why this knight order is important in the middle age Genoa? Because the Republic was present in **Malta** [[68]](https://en.wikipedia.org/wiki/Malta), **Cyprus** [[69]](https://en.wikipedia.org/wiki/Cyprus) and **Jerusalem** [[70]](https://en.wikipedia.org/wiki/Jerusalem). Its **Saint George** [[71]](https://en.wikipedia.org/wiki/Saint_George) **herald** [[72]](https://en.wikipedia.org/wiki/Herald) white with a red cross is present in all the garments of the **crusaders** [[73]](https://en.wikipedia.org/wiki/Crusades).
+
+
 
 ### External links
 
@@ -143,4 +151,16 @@ In the middle Age in Liguria and Piemonte nobles family start to create **consor
 59. http://www.treccani.it/enciclopedia/durand-de-la-penne-luigi
 60. [https://it.wikipedia.org/wiki/Istituto_dell%27Enciclopedia_Italiana](https://it.wikipedia.org/wiki/Istituto_dell'Enciclopedia_Italiana)
 61. https://en.wikipedia.org/wiki/Consortium
+62. https://it.wikipedia.org/wiki/Albergo_dei_Nobili
+63. https://en.wikipedia.org/wiki/Doria_(family)
+64. http://www.treccani.it/enciclopedia/albergo-dei-nobili_(Enciclopedia-Italiana)/
+65. https://en.wikipedia.org/wiki/Republic_of_Genoa
+66. https://en.wikipedia.org/wiki/Merchant
+67. https://it.wikipedia.org/wiki/Cavalieri_gerosolimitani
+68. https://en.wikipedia.org/wiki/Malta
+69. https://en.wikipedia.org/wiki/Cyprus
+70. https://en.wikipedia.org/wiki/Jerusalem
+71. https://en.wikipedia.org/wiki/Saint_George
+72. https://en.wikipedia.org/wiki/Herald
+73. https://en.wikipedia.org/wiki/Crusades
 
