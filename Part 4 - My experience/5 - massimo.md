@@ -4,7 +4,9 @@
 
 Massimo the boy on the right, is who I was calling brother. Why I was calling him brother? I don't know, it's only about feelings. 
 
-He has got the structure number 6 in the "Illuminati" scene.
+6 is his number.
+
+
 
 
 
