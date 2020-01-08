@@ -76,7 +76,9 @@ A couple of informations more that can retrieved on the Internet about the famil
 
 ### Albergo dei nobili
 
+![Repubblica di Genova](../Images/repubblica-genova-1024x768.jpg)
 
+In the middle Age in Liguria and Piemonte nobles family start to create **consortium** [[61]](https://en.wikipedia.org/wiki/Consortium) under the name of "alberghi", the same name used in the Monopoly board game. Small families join "fat nobles" and sometimes acquired their surname.
 
 ### External links
 
@@ -140,4 +142,5 @@ A couple of informations more that can retrieved on the Internet about the famil
 58. https://www.elenchitelefonici.it/GE/GENOVA/ALISA_FEDELINI/ELENCO/0103992857.html
 59. http://www.treccani.it/enciclopedia/durand-de-la-penne-luigi
 60. [https://it.wikipedia.org/wiki/Istituto_dell%27Enciclopedia_Italiana](https://it.wikipedia.org/wiki/Istituto_dell'Enciclopedia_Italiana)
+61. https://en.wikipedia.org/wiki/Consortium
 
