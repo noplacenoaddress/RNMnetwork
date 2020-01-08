@@ -46,6 +46,8 @@ This infrastructure, very simple in design, is implemented by Francesca, nephew 
 
 **3D radar** [[18]](https://en.wikipedia.org/wiki/3D_radar). It's a positioning system that is implemented in the neural control network. There are two layers of positioning, the official one from military forces and the open hardware one that use SDR hardware that it's called **software defined embedded radar** [[19]](http://ancortek.com/).
 
+Another method to calculate the position of an object or a person with radio wave technology are **ultrasound** [[20]](https://en.wikipedia.org/wiki/Ultrasound). **Bat** [[21]](https://en.wikipedia.org/wiki/Bat) use the same method to fly in the night, it's what is called **sonar** [[22]](https://en.wikipedia.org/wiki/Sonar).
+
 
 
 ### External links
@@ -69,3 +71,6 @@ This infrastructure, very simple in design, is implemented by Francesca, nephew 
 17. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
 18. https://en.wikipedia.org/wiki/3D_radar
 19. http://ancortek.com/
+20. https://en.wikipedia.org/wiki/Ultrasound
+21. https://en.wikipedia.org/wiki/Bat
+22. https://en.wikipedia.org/wiki/Sonar
