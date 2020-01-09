@@ -13,7 +13,7 @@ They use the group Anonymous like an anonymizer [[4]](https://en.wikipedia.org/w
 The hacked services are:
 
 1. Radio Vatican and state infrastructure using subliminal messages using Medium Frequency and **mast radiators** [[5]](https://en.wikipedia.org/wiki/Mast_radiator). For optimal operations they have to be 1/6 the **wavelenght** [[6]](https://en.wikipedia.org/wiki/Wavelength), so as US patent the center frequency for subliminal voice services is 465.25 KHz that **translated** [[7]](https://www.everythingrf.com/rf-calculators/frequency-to-wavelength) is 468.69 m so the mast radiator has to be more than 108 meters. Impossible in a private installation it's obvious that this service has to be hacked.
-2. 
+2. Military electronic warfare weapons.
 
 
 
