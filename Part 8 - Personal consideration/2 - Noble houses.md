@@ -86,6 +86,38 @@ In the Treccani **article** [[64]](http://www.treccani.it/enciclopedia/albergo-d
 
 The term "alberghi" was created by the ancient order of the **Jerusalem Knights** [[67]](https://it.wikipedia.org/wiki/Cavalieri_gerosolimitani). But why this knight order is important in the middle age Genoa? Because the Republic was present in **Malta** [[68]](https://en.wikipedia.org/wiki/Malta), **Cyprus** [[69]](https://en.wikipedia.org/wiki/Cyprus) and **Jerusalem** [[70]](https://en.wikipedia.org/wiki/Jerusalem). Its **Saint George** [[71]](https://en.wikipedia.org/wiki/Saint_George) **herald** [[72]](https://en.wikipedia.org/wiki/Herald) white with a red cross is present in all the garments of the **crusaders** [[73]](https://en.wikipedia.org/wiki/Crusades).
 
+The 28 "alberghi" open in the XVI century where:
+
+1. Calvi
+2. Cattaneo
+3. Cicala
+4. Cybo
+5. De Fornari
+6. De Franchi
+7. De Marini
+8. Di negro
+9. Doria
+10. Fieschi
+11. Gentile
+12. Giustiniani
+13. Grillo
+14. Grimaldi
+15. Imperiale
+16. Interiano
+17. Lercari
+18. Lomellini
+19. Negrone
+20. Pallavicino
+21. Pinelli
+22. Promontorio
+23. Salvago
+24. Sauli
+25. Spinola
+26. Uso di Mare
+27. Vivaldi
+
+I personally know some representative from many of those nobles from old nobles from middle Age and also from Republic. Like you can appreciate in this list of old nobles families there isn't the name Durand de la Penne. 
+
 
 
 ### External links
