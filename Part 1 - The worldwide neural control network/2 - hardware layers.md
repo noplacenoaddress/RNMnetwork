@@ -1,18 +1,12 @@
-# Hardware layers
+# Radio wave services
 
-### Magnetic field
+### Medium Frequencies
 
 **Vatican Radio** [[1]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[2]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. The **principle transmitter** [[3]](https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/) in the Vatican situated in **Santa Maria di Galeria** [[4]](https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria).
-
-![](../Images/image-0046.jpg)
 
 The Vatican extreme power AM transmitter, but also all kind of other radio waves transmitter, interacting with **overhead power lines** [[5]](https://en.wikipedia.org/wiki/Overhead_power_line) create what is called electrosmog. 
 
 This  an enormous magnetic field under the **Troposhere** [[6]](https://en.wikipedia.org/wiki/Troposphere). The hackers of the worldwide neural control network had build all below this layer one that was not created exactly for this purposes. But was also utilized in the second world war. 
-
-![Bumper cars](../Images/3138.jpg)
-
-> *They call this steam machine.* 
 
 The steam machine works similar to the red upon a bumper cars installation but wireless. It's the cause of all the violence in this hell network and it permit human semi physical transposition. I use the substantive Vatican because in subliminal voice to skull there's a lot of person from the ancient state of Vatican. 
 
