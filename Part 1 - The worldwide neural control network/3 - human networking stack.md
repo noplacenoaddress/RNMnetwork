@@ -42,7 +42,7 @@ A smart phone nowadays has got a lot of hardware that can be used to do this bod
 - **Wi-Fi and Bluetooth modules** [[10]](https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/)
 - **GNSS modules** [[11]](https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/)
 
-# External links
+### External links
 
 1. https://en.wikipedia.org/wiki/Human_body
 2. https://en.wikipedia.org/wiki/WiMAX
