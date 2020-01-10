@@ -12,8 +12,10 @@ They use the group Anonymous like an anonymizer [[4]](https://en.wikipedia.org/w
 
 The hacked services are:
 
-1. Radio Vatican and state infrastructure using subliminal messages using Medium Frequency and **mast radiators** [[5]](https://en.wikipedia.org/wiki/Mast_radiator). For optimal operations they have to be 1/6 the **wavelenght** [[6]](https://en.wikipedia.org/wiki/Wavelength), so as US patent the center frequency for subliminal voice services is 465.25 KHz that **translated** [[7]](https://www.everythingrf.com/rf-calculators/frequency-to-wavelength) is 468.69 m so the mast radiator has to be more than 108 meters. Impossible in a private installation it's obvious that this service has to be hacked. In reality it is not hacking is a masked concession from a noble family to hackers, normally one component of the family act like this figure. Bu the way they also mask another type with the group Anonymous. So it is a double mask to hide the true. 
-2. 
+1. Radio Vatican and state infrastructure using subliminal messages using Medium Frequency and **mast radiators** [[5]](https://en.wikipedia.org/wiki/Mast_radiator). For optimal operations they have to be 1/6 the **wavelenght** [[6]](https://en.wikipedia.org/wiki/Wavelength), so as US patent the center frequency for subliminal voice services is 465.25 KHz that **translated** [[7]](https://www.everythingrf.com/rf-calculators/frequency-to-wavelength) is 468.69 m so the mast radiator has to be more than 108 meters. Impossible in a private installation it's obvious that this service has to be hacked. In reality it is not hacking is a masked concession from a noble family to hackers, normally one component of the family act like this figure. Bu the way they also mask another type with the group Anonymous. So it is a double mask to hide the true.  
+2. Passive neural control service embedded in the mobile towers. Fundamental to receive remote EEG from the victims it has to be combined with a 3Ghz beam as US patent.
+3. Dream and visual injection is probably done with software defined radio in ELF coded by hackers.
+4. 
 
 
 
