@@ -22,7 +22,7 @@ Massimo got some dependencies problems but the worst one is gambling addiction. 
 
 Massimo is victim of the noble family from Genoa from when he was an adolescent. Massimo in reality is a great barman and an incredible **juggler** [[9]](https://en.wikipedia.org/wiki/Juggling). Very clever and active he has been spoiled by the Machine. But he doesn't speak. But he doesn't sleep he has got fear that they apply dream injection to him obviously by showing him scenes of violence to his daughter or with this probably deceased girl.
 
-Massimo is very similar to Saray. In reality I love them. But this has to finish and they don't have to power to do this. And I will do it for them.
+Massimo is very similar to Saray. In reality I love them. But this has to finish and they don't have the power to do this. And I will do it for them.
 
 ### External Links
 
