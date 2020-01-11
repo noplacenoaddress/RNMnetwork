@@ -1,6 +1,6 @@
-# La zopa de servicios de la red control neuronal
+# La red control neuronal
 
-Desde el final de la segunda guerra mundial y principalmente en la guerra fría, se desarrollaron **redes de control neuronal** [1](https://en.wikipedia.org/wiki/Electronic_harassment).
+Desde el final de la segunda guerra mundial y principalmente en la guerra fría, se desarrollaron **redes de control neuronal** [[1]](https://en.wikipedia.org/wiki/Electronic_harassment).
 
 Hoy en día es una red de radiofrecuencia de múltiples capas cuya estructura es similar a la división en niveles de Internet.
 
@@ -8,7 +8,7 @@ Es un sistema de varias tecnologías diferentes, muy complejo de analizar debido
 
 ![Red de control neuronal](../Images/EM2oYOeU8AAnjZp.jpeg)
 
-* Algo que está destruyendo la Unión Europea y la democracia *. * Aquí hay un esquema de un ** target individual** [[2]] (https://www.youtube.com/channel/UC6tQ8RihaSENODcgjLHtrAg). *
+*Algo que está destruyendo la Unión Europea y la democracia. Aquí hay un esquema hecho por una **victima** [[2]](https://www.youtube.com/channel/UC6tQ8RihaSENODcgjLHtrAg)*
 
 ¿Quién une esos servicios? Instalaciones que compran servicios de proveedores oficiales que vinculan servicios legales y también obtuvieron este producto * debajo de la mesa * para grandes clientes de telecomunicaciones. Normalmente son empresarios que usan para crear redes del lado B en un estado y limpiarlas en otro con servicios legales. El equipo de hackers medianos crea pequeñas redes como esta; pero también los gobiernos husmean silenciosamente los datos. Es la mafia digital.
 

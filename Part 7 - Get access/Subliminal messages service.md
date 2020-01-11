@@ -14,6 +14,8 @@ Start with analysis of those patents and next we can try to launch some open har
 
 ![Silent subliminal message system](../Images/US5159703.png)
 
+
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/United_States_Patent_and_Trademark_Office
