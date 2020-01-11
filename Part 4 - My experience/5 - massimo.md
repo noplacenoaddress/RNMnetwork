@@ -4,8 +4,6 @@
 
 Massimo the boy on the right, is who I was calling brother. Why I was calling him brother? I don't know, it's only about feelings. 
 
-6 is his number.
-
 He participates at the start of the fascist practice of gang stalking that I live in Barcelona. It was a machined situation extremely sad and full of tears. We was very good friends until this disaster that was  provoked by my parents and two nobles families. He participated an he preferred money to friendship. Very sad. But totally true. This was the most ridiculous but complex theater that I've seen in Barcelona and was in his house  when I had no fixed abode where to sleep. Always I've helped him to go ahead when he cannot do it. But he preferred money to friendship. Very sad.
 
 He is a mere worker of this sick system probably led by the Genoese who devastated the freedom of Barcelona through semi-mafia rules of black market control. Barcelona was destroyed by the the noble family of Genoa that I describe in another not public chapter. The streets of Barcelona are continuously cleaned with a bad-smelling oily substance to make us forget, foreigners but well-rooted in the city, the true soul of this wonderful city. 
