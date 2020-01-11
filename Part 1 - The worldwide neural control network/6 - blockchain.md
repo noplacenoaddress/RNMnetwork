@@ -1,7 +1,5 @@
 # Blockchain technology
 
-![I'm a wild man](../Images/wild.png)
-
 First of all i wanna do with you, reader, a consideration. We've got analyzed the synthetic telepathy network and the radio waves Machine. Those two IT systems are to control, break our privacy laws, abuse persons, destroy souls, change our life. 
 
 Now i want to introduce to you technologies that are exactly on the opposite site. Those technologies are actively developed to do the exact in front work. Those peer to peer derived protocols are born to guarantee privacy and security to the end users. 
