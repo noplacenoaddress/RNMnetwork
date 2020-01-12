@@ -14,7 +14,7 @@ We start to meet, i fall in love with her. She was very unsatisfied with her rel
 
 And now I know why, she was victim of the steam Machine of the neural control network and she was, and nowadays is, continuously masturbated by radio frequency. But seven years ago I didn't know what it was and I couldn't help her. I would have liked to understand what was happening to her, what the sudden changes of character were due to. Because she seemed so worried and nervous many times. Although I immediately knew it was her, the most important woman in my life.
 
-Now I know that two years earlier in 2011 when she was in love with her husband David, a stalker, a criminal, a human hacker, who I call "the butcher" virtual rape her and put her in the synthetic telepathy network and after he breaks her love story with the father of her son, who i love too, he starts to use her to destroy families, to start the vortex of bet about them life and to induct to suicide them. 
+Now I know that two years earlier in 2011 when she was in love with her husband, a stalker, a criminal, a human hacker, who I call "the butcher" virtual rape her and put her in the synthetic telepathy network and after he breaks her love story with the father of her son, who i love too, he starts to use her to destroy families, to start the vortex of bet about them life and to induct to suicide them. 
 
 He is an assassin. But not in person. Induct to suicide, a person which brings another to suicide is an assassin. Nothing more.
 
