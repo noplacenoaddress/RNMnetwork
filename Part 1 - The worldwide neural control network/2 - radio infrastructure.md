@@ -6,14 +6,32 @@ There is a lot of different services join together to create the remote neural m
 
 The **radio bands** [[1]](https://en.wikipedia.org/wiki/Radio_spectrum) utilized are:
 
-- Extreme low frequency **ELF** [[2]](https://en.wikipedia.org/wiki/Radio_spectrum)
+- Extreme low frequency **ELF** [[2]](https://en.wikipedia.org/wiki/Extremely_low_frequency)
 - Super low frequency **SLF** [[3]](https://en.wikipedia.org/wiki/Super_low_frequency)
 - Ultra low frequency **ULF** [[4]](https://en.wikipedia.org/wiki/Ultra_low_frequency)
-- 
+- Very low frequency **VLF** [[5]](https://en.wikipedia.org/wiki/Very_low_frequency)
+- Low frequency **LF** [[6]](https://en.wikipedia.org/wiki/Low_frequency)
+- Medium Frequency **MF** [[7]](https://en.wikipedia.org/wiki/Medium_frequency)
+- High Frequency **HF** [[8]](https://en.wikipedia.org/wiki/High_frequency)
+- Very high frequency **VHF** [[9]](https://en.wikipedia.org/wiki/Very_high_frequency)
+- Ultra high frequency **UHF** [[10]](https://en.wikipedia.org/wiki/Ultra_high_frequency)
+- Super high frequency **SHF** [[11]](https://en.wikipedia.org/wiki/Super_high_frequency)
 
+The technologies are a mixture between analog and IP. All is public but no one has recollected all the informations in the same document. The telecommunication lobby manage those services using different layers of anonymity and creating a very deep smokescreen using deception, confusion, false institutions and many people to hide that in reality this whole system derives however from the first fifty years of the twentieth century. And it recreates the Middle Ages in today's democracies. 
 
+### Telecommunication radio services for the cast
 
-### Medium Frequencies
+![Power lines transposition](../Images/powerlinetranspotion.jpg)
+
+Medium frequencies are the band utilized by ancient fascism and church to create subliminal message systems that produce sound directly into our head. This is not exactly brain wave but it utilize technology to bypass the auditory system in the humans and also in some animals.
+
+In Spain still exist the infrastructure that use Franco at the time of fascism which ended much later in this state than in the rest of Europe. It fell naturally, practically without violence, in the mid-seventies. All this is synonymous that the ruling class, the political class and a good part of the noble families of this country still have a vivid memory of absolutism, very much alive.
+
+In the Vatican state in 1931 the homonymous radio was started which from the first moment had as its objective to bring the word of Christ, that is, of the church of man, all over the world. Attention to these last words, from a technical point of view I want to underline how only from an emitting center, actually one inside the walls of the same micro state and from a nearby appendix, the coverage of the whole globe has been guaranteed for practically a century thanks to a special law approved by the **International Telecommunication Union** [[12]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) that allows the use of an emission power completely outside the world regulations. In Italy there have been various cases, practically all silenced by the immense power of the Church, of groups of people affected by various types of cancer certainly derived from the powers of their radios.
+
+The enormous emission power of the Vatican center, over 150 Kw, interacts worldwide with the high voltage lines of electricity, forming what is defined today as electromagnetic smog. In reality, this magnetic field as large as our planet is used methodically for the great radio experts in the Vatican, who, given their immense culture, are certainly among the best in the world, to position human beings and other objects within the same field, a kind of ancient global position system and never made public. A scandal.
+
+Using this magnetic field and others features it's possible from about a century obtain what is called **transposition** [[13]](https://en.wikipedia.org/wiki/Transposition_(telecommunications)), **remote viewing** [[14]](https://en.wikipedia.org/wiki/Remote_viewing) and **out-of-body experience** [[15]](https://en.wikipedia.org/wiki/Out-of-body_experience). This is not pseudoscience this is true and the elite has concealed it from citizens for a hundred years.
 
 **Vatican Radio** [[1]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[2]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. The **principle transmitter** [[3]](https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/) in the Vatican situated in **Santa Maria di Galeria** [[4]](https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria).
 
@@ -29,7 +47,7 @@ The magnetic field area network or **MFAN** [[9]](https://ieeexplore.ieee.org/do
 
 With this virtual device the environment near the victim is like a remote **CT scan** [[10]](https://en.wikipedia.org/wiki/CT_scan) machine, like under an electromagnetic isolation bell. And it is continuously, the real mean is that we are under excess doses and risk **radiation burn** [[11]](https://en.wikipedia.org/wiki/Radiation_burn) and risk of cancer.
 
-### The government LTE embedded hardware
+### The government remote neural control
 
 ![Remote neural network](../Images/satcycle3-4_2_orig.png)
 
@@ -60,26 +78,37 @@ Another method to calculate the position of an object or a person with radio wav
 ### External links
 
 1. https://en.wikipedia.org/wiki/Radio_spectrum
-2. https://en.wikipedia.org/wiki/Super_low_frequency
-3. https://en.wikipedia.org/wiki/Vatican_Radio
-4. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-5. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-6. https://en.wikipedia.org/wiki/Vatican_Radio
-7. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-8. https://en.wikipedia.org/wiki/Troposphere
-9. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
-10. https://ieeexplore.ieee.org/document/5405677
-11. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-12. https://en.wikipedia.org/wiki/CT_scan
-13. https://en.wikipedia.org/wiki/Radiation_burn
-14. https://www.nature.com/articles/s41598-017-01647-x
-15. https://en.wikipedia.org/wiki/Nanoparticle
-16. https://en.wikipedia.org/wiki/CubeSat
-17. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
-18. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
-19. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
-20. https://en.wikipedia.org/wiki/3D_radar
-21. http://ancortek.com/
-22. https://en.wikipedia.org/wiki/Ultrasound
-23. https://en.wikipedia.org/wiki/Bat
-24. https://en.wikipedia.org/wiki/Sonar
+2. https://en.wikipedia.org/wiki/Extremely_low_frequency
+3. https://en.wikipedia.org/wiki/Super_low_frequency
+4. https://en.wikipedia.org/wiki/Ultra_low_frequency
+5. https://en.wikipedia.org/wiki/Very_low_frequency
+6. https://en.wikipedia.org/wiki/Low_frequency
+7. https://en.wikipedia.org/wiki/Medium_frequency
+8. https://en.wikipedia.org/wiki/High_frequency
+9. https://en.wikipedia.org/wiki/Very_high_frequency
+10. https://en.wikipedia.org/wiki/Ultra_high_frequency
+11. https://en.wikipedia.org/wiki/Super_high_frequency
+12. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+13. https://en.wikipedia.org/wiki/Transposition_(telecommunications)
+14. https://en.wikipedia.org/wiki/Remote_viewing
+15. https://en.wikipedia.org/wiki/Out-of-body_experience
+16. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+17. https://en.wikipedia.org/wiki/Vatican_Radio
+18. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+19. https://en.wikipedia.org/wiki/Troposphere
+20. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
+21. https://ieeexplore.ieee.org/document/5405677
+22. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+23. https://en.wikipedia.org/wiki/CT_scan
+24. https://en.wikipedia.org/wiki/Radiation_burn
+25. https://www.nature.com/articles/s41598-017-01647-x
+26. https://en.wikipedia.org/wiki/Nanoparticle
+27. https://en.wikipedia.org/wiki/CubeSat
+28. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
+29. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
+30. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
+31. https://en.wikipedia.org/wiki/3D_radar
+32. http://ancortek.com/
+33. https://en.wikipedia.org/wiki/Ultrasound
+34. https://en.wikipedia.org/wiki/Bat
+35. https://en.wikipedia.org/wiki/Sonar
