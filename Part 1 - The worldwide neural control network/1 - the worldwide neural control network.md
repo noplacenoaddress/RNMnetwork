@@ -16,9 +16,9 @@ Last mile normally is soak into official infrastructure. It's not a secret all t
 
 Who are target individuals? For example who are classified as terrorist, like **ETA** [[3]](https://eu.wikipedia.org/wiki/Euskadi_Ta_Askatasuna) in Spain, by governments was controlled by remote neural networks. But in the last ten years someone come to speculate over those networks forcing human clients to join this hell because of data selling to big tech companies, military facilities and audiovisual industry. Because of big masses manipulation. 
 
-I'm in remote neural control because the madness of a mental sick mother and an inept father that didn't protect his son from this destruction, but I like it i love technology, research and continuous struggle. I'm in remote neural control from about twelve years. From when i came to live in Spain. Ten years of passive and two of active with subliminal voice to skull service. I've lost all what I've done, but not my mental clearness. 
+I'm in active remote neural control from November 2017 and probably in passive from when I came to Spain. Ten years of passive and two of active with subliminal voice to skull service. I've lost all what I've done, but not my mental clearness. 
 
-The service, because yes it is a service from a provider, in from a military family derived girl that i know in Genoa, Italy, when i go in primary school. My parents have permitted it attaching drug abuse or some stupidity like this. This is only an horrible crime and they have done with my brain data and bet in my life thousand of millions of Eur.
+This is only an horrible crime and they have done with my brain data and bet in my life thousand of millions of Eur.
 
 >  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So I'm doing it. Thank you great man and person. I'm searching for the woman that I'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
 
