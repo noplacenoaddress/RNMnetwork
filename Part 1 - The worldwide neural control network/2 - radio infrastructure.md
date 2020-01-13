@@ -43,7 +43,11 @@ Neural control means that our **electroencephalography** [[19]](https://en.wikip
 
 Target individuals are active victim of this facility, victims normally by all of those institutions. The church first of all.
 
-What is the goal of governments using this technology:
+What are goals of governments using this technology:
+
+- Security obtained by the way with an illegal technology.
+- Control of conflicting territories, like Catalunya.
+- Social mass influencing to change political wind of a period, now we're deep in populism.
 
 ### "Games" network
 
@@ -65,23 +69,25 @@ Games are assigned and completely masked behind nobles family, hacking and other
 
 Games are like " **the Canterbury tales**" [[20]](https://en.wikipedia.org/wiki/The_Canterbury_Tales), stories created on a center of attention that normally elude citizens and police forces not corrupted by the true meaning that nothing else is, as always, unbridled gain through a series of horrible crimes such as the creation of human guinea pigs for the purpose of developing unauthorized technologies. I am a victim of this system.
 
-The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are two black ferrite magnetic loop antennas that create with two software defined radios a network below 150Hz. They implement **US patent 6011991** [[15]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf) , **4834701** [[16]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf) but not only.
+The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are six black ferrite magnetic loop antennas that create with six software defined radios a network below 150Hz. 
 
-The white omnidireccional antenna is operating in MF and it used for subliminal voice services. It implement **US patent  5159703** [[17]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf).
+The white omni directional antenna is operating in VHF and it used for **AX.25** [[21]](https://en.wikipedia.org/wiki/AX.25) service. 
 
-The last one it's probably related to an open hardware radar system.
+Next there is two **WiMAX** [[22]](https://en.wikipedia.org/wiki/WiMAX) three gigahertz antennas used to create terrestrial beam to excite brain neurons and permit remote EEG reading. 
 
-This infrastructure, very simple in design, is implemented by Francesca, nephew of an Italian second world war hero, in Catalunya and all over the world. This infrastructure was mounted where i build my wireless Internet service provider. This is why i fall like a victim in the worldwide neural control network. With this infrastructure Francesca is the owner of the gangstalking service in all over the world. Her nickname in the silent subliminal message chat is "Francese". I personally know her and she is one of the head of the digital mafia lobby.
+The last one it's probably related to an open hardware radar system. Next there is two horizontally mounted antenna on the top of the tower that i don't know the exact purposes. 
+
+This infrastructure, very simple in design, is implemented by Francesca, nephew of an Italian second world war hero, in Catalunya and in Italy. This infrastructure was mounted where i build my wireless Internet service provider. This is why i fall like a victim in the worldwide neural control network. With this infrastructure Francesca is the owner of the gang stalking service in a vast territory. Her nickname in the silent subliminal message chat is "Francese". I personally know her and she is one an important figure of the telecommunication lobby and his who invented the "Illuminati" game that is responsible of a dramatic increase of suicide death in Europe.
+
+Who gain money with those masked "games"? Always the sames, the cast. Who loose them rights? Normally people who do not have the intellectual capacity to understand exactly the very complex general framework of this system of human exploitation. Many end up as drug dealers or whores. Many other suicides. Very few make room for shoulders in the midst of this bedlam of extreme wealth, corruption and silent crimes for an increasingly weak democracy, this time very rusty even from what is my passion, telecommunications.
 
 ### The terrestrial positioning system
 
 ![3D radar](../Images/istockphoto-1017394876-640x640.jpg)
 
-**3D radar** [[18]](https://en.wikipedia.org/wiki/3D_radar). It's a positioning system that is implemented in the neural control network. There are two layers of positioning, the official one from military forces and the open hardware one that use SDR hardware that it's called **software defined embedded radar** [[19]](http://ancortek.com/).
+**3D radar** [[23]](https://en.wikipedia.org/wiki/3D_radar). It's a positioning system that is implemented in the neural control network at the level of "game" if done with open hardware that use a special type of software defined radio that is called **software defined embedded radar** [[24]](http://ancortek.com/).
 
-Another method to calculate the position of an object or a person with radio wave technology are **ultrasound** [[20]](https://en.wikipedia.org/wiki/Ultrasound). **Bat** [[21]](https://en.wikipedia.org/wiki/Bat) use the same method to fly in the night, it's what is called **sonar** [[22]](https://en.wikipedia.org/wiki/Sonar).
-
-
+Another method to calculate the position of an object or a person with radio wave technology are **ultrasound** [[25]](https://en.wikipedia.org/wiki/Ultrasound). **Bat** [[26]](https://en.wikipedia.org/wiki/Bat) use the same method to fly in the night, it's what is called **sonar** [[27]](https://en.wikipedia.org/wiki/Sonar).
 
 ### External links
 
@@ -105,23 +111,10 @@ Another method to calculate the position of an object or a person with radio wav
 18. https://en.wikipedia.org/wiki/Out-of-body_experience
 19. https://en.wikipedia.org/wiki/Electroencephalography
 20. https://en.wikipedia.org/wiki/The_Canterbury_Tales
-21. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-22. https://en.wikipedia.org/wiki/Vatican_Radio
-23. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-24. https://en.wikipedia.org/wiki/Troposphere
-25. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
-26. https://ieeexplore.ieee.org/document/5405677
-27. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-28. https://en.wikipedia.org/wiki/CT_scan
-29. https://en.wikipedia.org/wiki/Radiation_burn
-30. https://www.nature.com/articles/s41598-017-01647-x
-31. https://en.wikipedia.org/wiki/Nanoparticle
-32. https://en.wikipedia.org/wiki/CubeSat
-33. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
-34. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
-35. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
-36. https://en.wikipedia.org/wiki/3D_radar
-37. http://ancortek.com/
-38. https://en.wikipedia.org/wiki/Ultrasound
-39. https://en.wikipedia.org/wiki/Bat
-40. https://en.wikipedia.org/wiki/Sonar
+21. https://en.wikipedia.org/wiki/AX.25
+22. https://en.wikipedia.org/wiki/WiMAX
+23. https://en.wikipedia.org/wiki/3D_radar
+24. http://ancortek.com/
+25. https://en.wikipedia.org/wiki/Ultrasound
+26. https://en.wikipedia.org/wiki/Bat
+27. https://en.wikipedia.org/wiki/Sonar
