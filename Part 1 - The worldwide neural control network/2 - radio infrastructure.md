@@ -1,4 +1,17 @@
-# Hardware layers
+# Radio infrastructure
+
+![Radio spectrum](../Images/Frq_Band_Comparison.png)
+
+There is a lot of different services join together to create the remote neural monitoring facility. Depending on the layer and  who is the real owner it include hidden services from governments, church, nobles and big facilities. At the lower level, used normally to manage black market, prostitution and betting it is create by the use of open hardware devices and open source programs. 
+
+The **radio bands** [[1]](https://en.wikipedia.org/wiki/Radio_spectrum) utilized are:
+
+- Extreme low frequency **ELF** [[2]](https://en.wikipedia.org/wiki/Radio_spectrum)
+- Super low frequency **SLF** [[3]](https://en.wikipedia.org/wiki/Super_low_frequency)
+- Ultra low frequency **ULF** [[4]](https://en.wikipedia.org/wiki/Ultra_low_frequency)
+- 
+
+
 
 ### Medium Frequencies
 
@@ -46,25 +59,27 @@ Another method to calculate the position of an object or a person with radio wav
 
 ### External links
 
-1. https://en.wikipedia.org/wiki/Vatican_Radio
-2. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-3. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-4. https://en.wikipedia.org/wiki/Vatican_Radio
-5. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-6. https://en.wikipedia.org/wiki/Troposphere
-7. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
-8. https://ieeexplore.ieee.org/document/5405677
-9. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-10. https://en.wikipedia.org/wiki/CT_scan
-11. https://en.wikipedia.org/wiki/Radiation_burn
-12. https://www.nature.com/articles/s41598-017-01647-x
-13. https://en.wikipedia.org/wiki/Nanoparticle
-14. https://en.wikipedia.org/wiki/CubeSat
-15. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
-16. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
-17. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
-18. https://en.wikipedia.org/wiki/3D_radar
-19. http://ancortek.com/
-20. https://en.wikipedia.org/wiki/Ultrasound
-21. https://en.wikipedia.org/wiki/Bat
-22. https://en.wikipedia.org/wiki/Sonar
+1. https://en.wikipedia.org/wiki/Radio_spectrum
+2. https://en.wikipedia.org/wiki/Super_low_frequency
+3. https://en.wikipedia.org/wiki/Vatican_Radio
+4. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+5. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+6. https://en.wikipedia.org/wiki/Vatican_Radio
+7. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+8. https://en.wikipedia.org/wiki/Troposphere
+9. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
+10. https://ieeexplore.ieee.org/document/5405677
+11. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+12. https://en.wikipedia.org/wiki/CT_scan
+13. https://en.wikipedia.org/wiki/Radiation_burn
+14. https://www.nature.com/articles/s41598-017-01647-x
+15. https://en.wikipedia.org/wiki/Nanoparticle
+16. https://en.wikipedia.org/wiki/CubeSat
+17. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
+18. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
+19. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
+20. https://en.wikipedia.org/wiki/3D_radar
+21. http://ancortek.com/
+22. https://en.wikipedia.org/wiki/Ultrasound
+23. https://en.wikipedia.org/wiki/Bat
+24. https://en.wikipedia.org/wiki/Sonar
