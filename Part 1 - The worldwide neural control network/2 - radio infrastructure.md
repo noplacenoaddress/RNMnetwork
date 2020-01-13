@@ -19,7 +19,7 @@ The **radio bands** [[1]](https://en.wikipedia.org/wiki/Radio_spectrum) utilized
 
 The technologies are a mixture between analog and IP. All is public but no one has recollected all the informations in the same document. The telecommunication lobby manage those services using different layers of anonymity and creating a very deep smokescreen using deception, confusion, false institutions and many people to hide that in reality this whole system derives however from the first fifty years of the twentieth century. And it recreates the Middle Ages in today's democracies. 
 
-### Magnetic, electrical and radio services for the cast
+### Church services for the cast
 
 ![Power lines transposition](../Images/powerlinetranspotion.jpg)
 
@@ -43,6 +43,10 @@ Neural control means that our **electroencephalography** [[19]](https://en.wikip
 
 Target individuals are active victim of this facility, victims normally by all of those institutions. The church first of all.
 
+What is the goal of governments using this technology:
+
+
+
 ### The "games" network
 
 ![Games network](../Images/EOFWNG2X0AA_epp.jpeg)
@@ -51,10 +55,17 @@ What are games?
 
 Games are frauds used to mask the real goal of being a target individual. Frauds used to mask who are behind this abuse but also frauds that generate millions of Eur. Frauds that recollect money from:
 
-- Black market management
-- Prostitution market management
-- Sexual harassment obtained by manipulation of subjects that have fall inside this system
-- 
+- Black market management.
+- Prostitution market management.
+- Sexual harassment obtained by manipulation of subjects that have fall inside this system.
+- Porn industry food.
+- Brain and biological data sold to high tech big firm and military facilities.
+
+Who are behind games? 
+
+Games are assigned and completely masked behind nobles family, hacking and others stories. When I speak about assign I mean that a territory, like Catalunya, is assigned for a period of time to a group or a crew that create the game. Below every game there is a figure that interconnect different layers, casts, or call them how do you want that could be defined as the figure of observer. Who observe warrant that almost all the participants in the game have the opportunity to operate in the territory with a high degree of freedom, that is, it deals with drawing other figures with an important role of interconnection with high functions of the state, such as police, justice and public health. Practically it is those who deal with corruption.
+
+Games are like " **the Canterbury tales**" [[20]](https://en.wikipedia.org/wiki/The_Canterbury_Tales), stories created on a center of attention that normally elude citizens and police forces not corrupted by the true meaning that nothing else is, as always, unbridled gain through a series of horrible crimes such as the creation of human guinea pigs for the purpose of developing unauthorized technologies. I am a victim of this system.
 
 The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are two black ferrite magnetic loop antennas that create with two software defined radios a network below 150Hz. They implement **US patent 6011991** [[15]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf) , **4834701** [[16]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf) but not only.
 
@@ -95,23 +106,24 @@ Another method to calculate the position of an object or a person with radio wav
 17. https://en.wikipedia.org/wiki/Remote_viewing
 18. https://en.wikipedia.org/wiki/Out-of-body_experience
 19. https://en.wikipedia.org/wiki/Electroencephalography
-20. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-21. https://en.wikipedia.org/wiki/Vatican_Radio
-22. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-23. https://en.wikipedia.org/wiki/Troposphere
-24. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
-25. https://ieeexplore.ieee.org/document/5405677
-26. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-27. https://en.wikipedia.org/wiki/CT_scan
-28. https://en.wikipedia.org/wiki/Radiation_burn
-29. https://www.nature.com/articles/s41598-017-01647-x
-30. https://en.wikipedia.org/wiki/Nanoparticle
-31. https://en.wikipedia.org/wiki/CubeSat
-32. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
-33. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
-34. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
-35. https://en.wikipedia.org/wiki/3D_radar
-36. http://ancortek.com/
-37. https://en.wikipedia.org/wiki/Ultrasound
-38. https://en.wikipedia.org/wiki/Bat
-39. https://en.wikipedia.org/wiki/Sonar
+20. https://en.wikipedia.org/wiki/The_Canterbury_Tales
+21. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+22. https://en.wikipedia.org/wiki/Vatican_Radio
+23. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+24. https://en.wikipedia.org/wiki/Troposphere
+25. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
+26. https://ieeexplore.ieee.org/document/5405677
+27. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+28. https://en.wikipedia.org/wiki/CT_scan
+29. https://en.wikipedia.org/wiki/Radiation_burn
+30. https://www.nature.com/articles/s41598-017-01647-x
+31. https://en.wikipedia.org/wiki/Nanoparticle
+32. https://en.wikipedia.org/wiki/CubeSat
+33. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
+34. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
+35. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
+36. https://en.wikipedia.org/wiki/3D_radar
+37. http://ancortek.com/
+38. https://en.wikipedia.org/wiki/Ultrasound
+39. https://en.wikipedia.org/wiki/Bat
+40. https://en.wikipedia.org/wiki/Sonar
