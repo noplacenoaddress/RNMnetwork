@@ -33,7 +33,7 @@ The enormous emission power of the Vatican center, over 150 Kw, interacts worldw
 
 Using this magnetic field, electricity and others radio features it's possible from to obtain what is called **transposition** [[16]](https://en.wikipedia.org/wiki/Transposition_(telecommunications)), **remote viewing** [[17]](https://en.wikipedia.org/wiki/Remote_viewing) and **out-of-body experience** [[18]](https://en.wikipedia.org/wiki/Out-of-body_experience). This is not pseudoscience this is true and the elite has concealed it from citizens for a hundred years.
 
-### The government remote neural control
+### Governments remote neural control
 
 ![Remote neural network](../Images/satcycle3-4_2_orig.png)
 
@@ -45,9 +45,7 @@ Target individuals are active victim of this facility, victims normally by all o
 
 What is the goal of governments using this technology:
 
-
-
-### The "games" network
+### "Games" network
 
 ![Games network](../Images/EOFWNG2X0AA_epp.jpeg)
 
