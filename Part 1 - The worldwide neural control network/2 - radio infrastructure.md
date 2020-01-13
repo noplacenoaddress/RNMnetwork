@@ -27,11 +27,11 @@ Medium frequencies are the band utilized by ancient fascism and church to create
 
 In Spain still exist the infrastructure that use Franco at the time of fascism which ended much later in this state than in the rest of Europe. It fell naturally, practically without violence, in the mid-seventies. All this is synonymous that the ruling class, the political class and a good part of the noble families of this country still have a vivid memory of absolutism, very much alive.
 
-In the Vatican state in 1931 the homonymous radio was started which from the first moment had as its objective to bring the word of Christ, that is, of the church of man, all over the world. Attention to these last words, from a technical point of view I want to underline how only from an emitting center, actually one inside the walls of the same micro state and from a nearby appendix, the coverage of the whole globe has been guaranteed for practically a century thanks to a special law approved by the **International Telecommunication Union** [[12]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) that allows the use of an emission power completely outside the world regulations. In Italy there have been various cases, practically all silenced by the immense power of the Church, of groups of people affected by various types of cancer certainly derived from the powers of their radios.
+In the Vatican state in 1931 the **homonymous radio** [[12]](https://en.wikipedia.org/wiki/Vatican_Radio) was started which from the first moment had as its objective to bring the word of Christ, that is, of the church of man, all over the world. Attention to these last words, from a technical point of view I want to underline how only from an emitting center, actually one inside the walls of the same micro state and from a nearby appendix, the coverage of the whole globe has been guaranteed for practically a century thanks to a special law approved by the **International Telecommunication Union** [[13]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) that allows the use of an emission power completely outside the world regulations. In Italy there have been various cases, practically all silenced by the immense power of the Church, of groups of people affected by various types of cancer certainly derived from the powers of their radios.
 
 The enormous emission power of the Vatican center, over 150 Kw, interacts worldwide with the high voltage lines of electricity, forming what is defined today as electromagnetic smog. In reality, this magnetic field as large as our planet is used methodically for the great radio experts in the Vatican, who, given their immense culture, are certainly among the best in the world, to position human beings and other objects within the same field, a kind of ancient global position system and never made public. A scandal.
 
-Using this magnetic field and others features it's possible from about a century obtain what is called **transposition** [[13]](https://en.wikipedia.org/wiki/Transposition_(telecommunications)), **remote viewing** [[14]](https://en.wikipedia.org/wiki/Remote_viewing) and **out-of-body experience** [[15]](https://en.wikipedia.org/wiki/Out-of-body_experience). This is not pseudoscience this is true and the elite has concealed it from citizens for a hundred years.
+Using this magnetic field and others features it's possible from about a century obtain what is called **transposition** [[14]](https://en.wikipedia.org/wiki/Transposition_(telecommunications)), **remote viewing** [[15]](https://en.wikipedia.org/wiki/Remote_viewing) and **out-of-body experience** [[16]](https://en.wikipedia.org/wiki/Out-of-body_experience). This is not pseudoscience this is true and the elite has concealed it from citizens for a hundred years.
 
 **Vatican Radio** [[1]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[2]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. The **principle transmitter** [[3]](https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/) in the Vatican situated in **Santa Maria di Galeria** [[4]](https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria).
 
@@ -88,27 +88,28 @@ Another method to calculate the position of an object or a person with radio wav
 9. https://en.wikipedia.org/wiki/Very_high_frequency
 10. https://en.wikipedia.org/wiki/Ultra_high_frequency
 11. https://en.wikipedia.org/wiki/Super_high_frequency
-12. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-13. https://en.wikipedia.org/wiki/Transposition_(telecommunications)
-14. https://en.wikipedia.org/wiki/Remote_viewing
-15. https://en.wikipedia.org/wiki/Out-of-body_experience
-16. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-17. https://en.wikipedia.org/wiki/Vatican_Radio
-18. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-19. https://en.wikipedia.org/wiki/Troposphere
-20. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
-21. https://ieeexplore.ieee.org/document/5405677
-22. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-23. https://en.wikipedia.org/wiki/CT_scan
-24. https://en.wikipedia.org/wiki/Radiation_burn
-25. https://www.nature.com/articles/s41598-017-01647-x
-26. https://en.wikipedia.org/wiki/Nanoparticle
-27. https://en.wikipedia.org/wiki/CubeSat
-28. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
-29. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
-30. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
-31. https://en.wikipedia.org/wiki/3D_radar
-32. http://ancortek.com/
-33. https://en.wikipedia.org/wiki/Ultrasound
-34. https://en.wikipedia.org/wiki/Bat
-35. https://en.wikipedia.org/wiki/Sonar
+12. https://en.wikipedia.org/wiki/Vatican_Radio
+13. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+14. https://en.wikipedia.org/wiki/Transposition_(telecommunications)
+15. https://en.wikipedia.org/wiki/Remote_viewing
+16. https://en.wikipedia.org/wiki/Out-of-body_experience
+17. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+18. https://en.wikipedia.org/wiki/Vatican_Radio
+19. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+20. https://en.wikipedia.org/wiki/Troposphere
+21. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
+22. https://ieeexplore.ieee.org/document/5405677
+23. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+24. https://en.wikipedia.org/wiki/CT_scan
+25. https://en.wikipedia.org/wiki/Radiation_burn
+26. https://www.nature.com/articles/s41598-017-01647-x
+27. https://en.wikipedia.org/wiki/Nanoparticle
+28. https://en.wikipedia.org/wiki/CubeSat
+29. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
+30. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
+31. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
+32. https://en.wikipedia.org/wiki/3D_radar
+33. http://ancortek.com/
+34. https://en.wikipedia.org/wiki/Ultrasound
+35. https://en.wikipedia.org/wiki/Bat
+36. https://en.wikipedia.org/wiki/Sonar
