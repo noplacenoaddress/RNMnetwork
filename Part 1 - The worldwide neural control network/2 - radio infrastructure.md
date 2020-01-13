@@ -19,7 +19,7 @@ The **radio bands** [[1]](https://en.wikipedia.org/wiki/Radio_spectrum) utilized
 
 The technologies are a mixture between analog and IP. All is public but no one has recollected all the informations in the same document. The telecommunication lobby manage those services using different layers of anonymity and creating a very deep smokescreen using deception, confusion, false institutions and many people to hide that in reality this whole system derives however from the first fifty years of the twentieth century. And it recreates the Middle Ages in today's democracies. 
 
-### Telecommunication radio services for the cast
+### Magnetic, electrical and radio services for the cast
 
 ![Power lines transposition](../Images/powerlinetranspotion.jpg)
 
@@ -29,33 +29,32 @@ In Spain still exist the infrastructure that use Franco at the time of fascism w
 
 In the Vatican state in 1931 the **homonymous radio** [[12]](https://en.wikipedia.org/wiki/Vatican_Radio) was started which from the first moment had as its objective to bring the word of Christ, that is, of the church of man, all over the world. Attention to these last words, from a technical point of view I want to underline how only from an emitting center, actually one inside the walls of the same micro state and from a nearby appendix, the coverage of the whole globe has been guaranteed for practically a century thanks to a special law approved by the **International Telecommunication Union** [[13]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) that allows the use of an emission power completely outside the world regulations. In Italy there have been various cases, practically all silenced by the immense power of the Church, of groups of people affected by various types of cancer certainly derived from the powers of their radios.
 
-The enormous emission power of the Vatican center, over 150 Kw, interacts worldwide with the high voltage lines of electricity, forming what is defined today as electromagnetic smog. In reality, this magnetic field as large as our planet is used methodically for the great radio experts in the Vatican, who, given their immense culture, are certainly among the best in the world, to position human beings and other objects within the same field, a kind of ancient global position system and never made public. A scandal.
+The enormous emission power of the Vatican center, over 150 Kw, interacts worldwide with **overhead power lines** [[14]](https://en.wikipedia.org/wiki/Overhead_power_line), forming what is defined today as **electromagnetic smog** [[15]](https://www.theguardian.com/technology/2007/jan/18/guardianweeklytechnologysection4). In reality, this magnetic field as large as our planet is used methodically for the great radio experts in the Vatican, who, given their immense culture, are certainly among the best in the world, to position human beings and other objects within the same field, a kind of ancient global position system and never made public. A scandal.
 
-Using this magnetic field and others features it's possible from about a century obtain what is called **transposition** [[14]](https://en.wikipedia.org/wiki/Transposition_(telecommunications)), **remote viewing** [[15]](https://en.wikipedia.org/wiki/Remote_viewing) and **out-of-body experience** [[16]](https://en.wikipedia.org/wiki/Out-of-body_experience). This is not pseudoscience this is true and the elite has concealed it from citizens for a hundred years.
-
-**Vatican Radio** [[1]](https://en.wikipedia.org/wiki/Vatican_Radio) is active from 1930s. It had got a lot of complaints for be cancerous with them emission. Got an extremely power transmitter that cover all over the world because of a law of 1936 where the **International Telecommunication Union** [[2]](https://en.wikipedia.org/wiki/International_Telecommunication_Union) had permitted broadcasting in all over the world considering them emissions like a special case. The **principle transmitter** [[3]](https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/) in the Vatican situated in **Santa Maria di Galeria** [[4]](https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria).
-
-The Vatican extreme power AM transmitter, but also all kind of other radio waves transmitter, interacting with **overhead power lines** [[5]](https://en.wikipedia.org/wiki/Overhead_power_line) create what is called electrosmog. 
-
-This  an enormous magnetic field under the **Troposhere** [[6]](https://en.wikipedia.org/wiki/Troposphere). The hackers of the worldwide neural control network had build all below this layer one that was not created exactly for this purposes. But was also utilized in the second world war. 
-
-The steam machine works similar to the red upon a bumper cars installation but wireless. It's the cause of all the violence in this hell network and it permit human semi physical transposition. I use the substantive Vatican because in subliminal voice to skull there's a lot of person from the ancient state of Vatican. 
-
-With the magnetic field upon our head they virtually connect cables to our body channeling different technologies and frequencies inside of them. This is why it's almost impossible register this electromagnetic transmission. The only method possible is using an **electroencephalogram** [[7]](https://en.wikipedia.org/wiki/Electroencephalography) **cap** [[8]](https://www.brainlatam.com/products/eeg-electrode-caps) but we will see more in deep in the technical analysis. 
-
-The magnetic field area network or **MFAN** [[9]](https://ieeexplore.ieee.org/document/5405677) is the method to encapsulate IP data over a magnetic field. 
-
-With this virtual device the environment near the victim is like a remote **CT scan** [[10]](https://en.wikipedia.org/wiki/CT_scan) machine, like under an electromagnetic isolation bell. And it is continuously, the real mean is that we are under excess doses and risk **radiation burn** [[11]](https://en.wikipedia.org/wiki/Radiation_burn) and risk of cancer.
+Using this magnetic field, electricity and others radio features it's possible from to obtain what is called **transposition** [[16]](https://en.wikipedia.org/wiki/Transposition_(telecommunications)), **remote viewing** [[17]](https://en.wikipedia.org/wiki/Remote_viewing) and **out-of-body experience** [[18]](https://en.wikipedia.org/wiki/Out-of-body_experience). This is not pseudoscience this is true and the elite has concealed it from citizens for a hundred years.
 
 ### The government remote neural control
 
 ![Remote neural network](../Images/satcycle3-4_2_orig.png)
 
-Governments has got subliminal voice services and silent brain waves sniff embedded in national operators LTE towers. Satellite constellation network also is used to stimulate MEN cells remotely with a 3GHz radio beam antenna. But also they implement in a **cubesat** [[14]](https://en.wikipedia.org/wiki/CubeSat) environment subliminal voice service like I've proved in an airplane trip and remote imaging of targets individuals.
+Governments has got subliminal voice services and silent brain waves sniff embedded in national operators LTE towers. Satellite constellation network also is used to stimulate MEN cells remotely with a 3GHz radio beam antenna. 
 
-### The access network
+Neural control means that our **electroencephalography** [[19]](https://en.wikipedia.org/wiki/Electroencephalography) it's continuously read without our agree, we've no privacy at all. From the interpretation of the brain waves it's possible to obtain what we see, what we feel, what we smell, our tough. But this is not the worst think, the bad ass feature is that they can write in our brain with remote emissions. They consider mankind like a machine and in this book we try to understand how technology work and what kind of abuses are done in the target individuals collective.
 
-![The last mile infrastructure](../Images/20191209_161803.jpg)
+Target individuals are active victim of this facility, victims normally by all of those institutions. The church first of all.
+
+### The "games" network
+
+![Games network](../Images/EOFWNG2X0AA_epp.jpeg)
+
+What are games?
+
+Games are frauds used to mask the real goal of being a target individual. Frauds used to mask who are behind this abuse but also frauds that generate millions of Eur. Frauds that recollect money from:
+
+- Black market management
+- Prostitution market management
+- Sexual harassment obtained by manipulation of subjects that have fall inside this system
+- 
 
 The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are two black ferrite magnetic loop antennas that create with two software defined radios a network below 150Hz. They implement **US patent 6011991** [[15]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf) , **4834701** [[16]](https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf) but not only.
 
@@ -90,26 +89,29 @@ Another method to calculate the position of an object or a person with radio wav
 11. https://en.wikipedia.org/wiki/Super_high_frequency
 12. https://en.wikipedia.org/wiki/Vatican_Radio
 13. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-14. https://en.wikipedia.org/wiki/Transposition_(telecommunications)
-15. https://en.wikipedia.org/wiki/Remote_viewing
-16. https://en.wikipedia.org/wiki/Out-of-body_experience
-17. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-18. https://en.wikipedia.org/wiki/Vatican_Radio
-19. https://en.wikipedia.org/wiki/International_Telecommunication_Union
-20. https://en.wikipedia.org/wiki/Troposphere
-21. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
-22. https://ieeexplore.ieee.org/document/5405677
-23. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
-24. https://en.wikipedia.org/wiki/CT_scan
-25. https://en.wikipedia.org/wiki/Radiation_burn
-26. https://www.nature.com/articles/s41598-017-01647-x
-27. https://en.wikipedia.org/wiki/Nanoparticle
-28. https://en.wikipedia.org/wiki/CubeSat
-29. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
-30. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
-31. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
-32. https://en.wikipedia.org/wiki/3D_radar
-33. http://ancortek.com/
-34. https://en.wikipedia.org/wiki/Ultrasound
-35. https://en.wikipedia.org/wiki/Bat
-36. https://en.wikipedia.org/wiki/Sonar
+14. https://en.wikipedia.org/wiki/Overhead_power_line
+15. https://www.theguardian.com/technology/2007/jan/18/guardianweeklytechnologysection4)
+16. https://en.wikipedia.org/wiki/Transposition_(telecommunications)
+17. https://en.wikipedia.org/wiki/Remote_viewing
+18. https://en.wikipedia.org/wiki/Out-of-body_experience
+19. https://en.wikipedia.org/wiki/Electroencephalography
+20. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+21. https://en.wikipedia.org/wiki/Vatican_Radio
+22. https://en.wikipedia.org/wiki/International_Telecommunication_Union
+23. https://en.wikipedia.org/wiki/Troposphere
+24. https://it.wikipedia.org/wiki/Santa_Maria_di_Galeria
+25. https://ieeexplore.ieee.org/document/5405677
+26. https://www.catholicsun.org/vatican-radio-transmission-site-at-santa-maria-di-galeria-outside-rome/
+27. https://en.wikipedia.org/wiki/CT_scan
+28. https://en.wikipedia.org/wiki/Radiation_burn
+29. https://www.nature.com/articles/s41598-017-01647-x
+30. https://en.wikipedia.org/wiki/Nanoparticle
+31. https://en.wikipedia.org/wiki/CubeSat
+32. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US6011991.pdf
+33. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US4834701.pdf
+34. https://github.com/noplacenoaddress/RNMnetwork/blob/master/Appendix%201%20-%20Patents/US5159703.pdf
+35. https://en.wikipedia.org/wiki/3D_radar
+36. http://ancortek.com/
+37. https://en.wikipedia.org/wiki/Ultrasound
+38. https://en.wikipedia.org/wiki/Bat
+39. https://en.wikipedia.org/wiki/Sonar
