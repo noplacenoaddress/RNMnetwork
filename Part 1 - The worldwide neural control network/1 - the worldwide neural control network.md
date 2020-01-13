@@ -18,7 +18,7 @@ Who are target individuals? For example who are classified as terrorist, like **
 
 I'm in active remote neural control from November 2017 and probably in passive from when I came to Spain. Ten years of passive and two of active with subliminal voice to skull service. I've lost all what I've done, but not my mental clearness. 
 
-This is only an horrible crime and they have done with my brain data and bet in my life thousand of millions of Eur.
+This is only an horrible crime that they have done with my brain data and bet over my life.
 
 >  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So I'm doing it. Thank you great man and person. I'm searching for the woman that I'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
 
