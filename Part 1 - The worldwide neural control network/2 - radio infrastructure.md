@@ -49,7 +49,7 @@ What are goals of governments using this technology:
 - Control of conflicting territories, like Catalunya.
 - Social mass influencing to change political wind of a period, now we're deep in populism.
 
-### "Games" network
+### "Games" radio network
 
 ![Games network](../Images/EOFWNG2X0AA_epp.jpeg)
 
