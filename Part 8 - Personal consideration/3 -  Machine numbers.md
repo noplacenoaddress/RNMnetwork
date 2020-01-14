@@ -56,7 +56,7 @@ From this stupidity I know for sure that I'm in neural control from 1999. At the
 
 Also colors are important means groups, but remember that basic colors are utilized in gang stalking to do brain washing. To confuse minds. In reality peoples that have access to this network for me are also targets individuals. In this network people are considered like machines, but one time that you're in the only think that have importance is money. But works related to this shit are all frauds. This is a pyramid. It's a fraud. All correlated with black market, prostitution, sexual harassment. All the people here inside gain money on whatever you do one time you're in. This is a fraud. But in reality this game is orchestrated by the elite like we've analyze, nobles, state and church. In reality is utilized to do mass social influencing, destroy democracy and rebuild fascism. It's a scandal nothing more. All the economy inside this system is crypt concurrency related, what does it mean? That is a very big fraud also to the state. We've to stop immediately this system and the method to use is exactly how they catch Al Capone, **tax fraud** [[25]](https://en.wikipedia.org/wiki/Tax_evasion). 
 
-
+![Colors in Pokemon](../Images/Pokemon_Type_Chart.svg.png)
 
 ### External links
 
