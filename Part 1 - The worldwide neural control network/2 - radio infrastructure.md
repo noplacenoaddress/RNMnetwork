@@ -49,7 +49,7 @@ What are goals of governments using this technology:
 - Control of conflicting territories, like Catalunya.
 - Social mass influencing to change political wind of a period, now we're deep in populism.
 
-### "Games" radio network
+### "Games" radio and magnetic network
 
 ![Games network](../Images/EOFWNG2X0AA_epp.jpeg)
 
@@ -69,6 +69,10 @@ Games are assigned and completely masked behind nobles family, hacking and other
 
 Games are like " **the Canterbury tales**" [[20]](https://en.wikipedia.org/wiki/The_Canterbury_Tales), stories created on a center of attention that normally elude citizens and police forces not corrupted by the true meaning that nothing else is, as always, unbridled gain through a series of horrible crimes such as the creation of human guinea pigs for the purpose of developing unauthorized technologies. I am a victim of this system.
 
+![Magnetron](../Images/Inside-a-Magnetron-.png)
+
+
+
 The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are six black ferrite magnetic loop antennas that create with six software defined radios a network below 150Hz. 
 
 The white omni directional antenna is operating in VHF and it used for **AX.25** [[21]](https://en.wikipedia.org/wiki/AX.25) service. 
@@ -80,10 +84,6 @@ The last one it's probably related to an open hardware radar system. Next there 
 This infrastructure, very simple in design, is implemented by Francesca, nephew of an Italian second world war hero, in Catalunya and in Italy. This infrastructure was mounted where i build my wireless Internet service provider. This is why i fall like a victim in the worldwide neural control network. With this infrastructure Francesca is the owner of the gang stalking service in a vast territory. Her nickname in the silent subliminal message chat is "Francese". I personally know her and she is one an important figure of the telecommunication lobby and his who invented the "Illuminati" game that is responsible of a dramatic increase of suicide death in Europe.
 
 Who gain money with those masked "games"? Always the sames, the cast. Who loose them rights? Normally people who do not have the intellectual capacity to understand exactly the very complex general framework of this system of human exploitation. Many end up as drug dealers or whores. Many other suicides. Very few make room for shoulders in the midst of this bedlam of extreme wealth, corruption and silent crimes for an increasingly weak democracy, this time very rusty even from what is my passion, telecommunications.
-
-### "Games" magnetic network
-
-![Magnetron](../Images/Inside-a-Magnetron-.png)
 
 ### The terrestrial positioning system
 
