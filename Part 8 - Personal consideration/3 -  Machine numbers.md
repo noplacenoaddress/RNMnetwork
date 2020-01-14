@@ -46,6 +46,12 @@ All of those banks are obviously connected to the **institute for the work of re
 
 But remember that those are only my to cents because we can try to debug also the **international bank account number** [[19]](https://en.wikipedia.org/wiki/International_Bank_Account_Number). 
 
+### Pokemon correlation
+
+![I and my love](../Images/poke.jpg)
+
+Remember that machines are shared between target individuals sure? Ok this seams to be a stupidity but in the "Illuminati" game, that in reality is a digital pseudo dictatorship that is changing our Europe, machine numbers are represented by **Pokemon** [[20]](https://en.wikipedia.org/wiki/Pok%C3%A9mon) identifications.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Proverb
@@ -67,4 +73,5 @@ But remember that those are only my to cents because we can try to debug also th
 17. https://en.wikipedia.org/wiki/Institute_for_the_Works_of_Religion
 18. https://en.wikipedia.org/wiki/Vatican_City
 19. https://en.wikipedia.org/wiki/International_Bank_Account_Number
+20. [https://en.wikipedia.org/wiki/Pok%C3%A9mon](https://en.wikipedia.org/wiki/Pokémon)
 
