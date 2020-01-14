@@ -62,7 +62,7 @@ This **destroyer** [[26]](https://en.wikipedia.org/wiki/Destroyer) has got her s
 
 ### What meswifi mount today
 
-Today Meswifi is who mount the infrastructure for the "Illuminati" game, here is some latitude and longitude coordinates where you can appreciate systems used to obtain what I've described in chapters before:
+Today Meswifi is who mount the infrastructure for the "Illuminati" game.
 
 
 
