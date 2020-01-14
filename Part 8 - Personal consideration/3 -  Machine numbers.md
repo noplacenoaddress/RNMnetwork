@@ -58,31 +58,97 @@ Also colors are important means groups, but remember that basic colors are utili
 
 ![Colors in Pokemon](../Images/Pokemon_Type_Chart.svg.png)
 
+For example machine number 9, the number they say that belongs to me in this game that is a fraud, in reality I think that machine are not frauds but yes they exist and I've got four machines from the Italian government (1, 2, 4 and 5) indicate color blue, like my eyes, and type water that in Spanish could mean police (**¡agua!** [[26]](https://blogs.20minutos.es/yaestaellistoquetodolosabe/de-donde-proviene-gritar-agua-para-avisar-de-la-presencia-de-la-policia/)). This could mean that in this fraud I've got to denunciate all, and actually I'm doing it so it is not all totally false. A classic noble game.
+
+Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](https://en.wikipedia.org/wiki/List_of_generation_I_Pok%C3%A9mon) (more one because it has **no number** [[28]](https://en.wikipedia.org/wiki/MissingNo.) and this I like very much because is the result of a **glitch** [[29]](https://en.wikipedia.org/wiki/Glitch)) we can derive those codes of colors:
+
+1. #2dcd45 **emerald** [[30]](https://en.wikipedia.org/wiki/Emerald) game machine numbers 1,2,3,43,44,45,46,47,69,70,71,114
+2. #883688 **plum** [[31]](https://en.wikipedia.org/wiki/Plum) game machine numbers  1,2,3,13,14,15,23,24,29,30,31,32,33,34,41,42,43,44,45,48,49,69,70,71,72,73,88,89,92,93,94,109,110,
+3. #f08030 **jaffa** [[32]](https://en.wikipedia.org/wiki/Jaffa) game machine numbers 4,5,6,37.38,58,59,77,78,126,146
+4. #a890f0 **portage** [[33]](https://en.wikipedia.org/wiki/Portage) game machine numbers 6,12,16,17,18,21,22,41,42,83,84,85,123,130,142,145,146,149
+5. #149eff **dodger blue** [[34]](https://en.wikipedia.org/wiki/Dodger_blue) game machine numbers 7,8,9,54,55,60,61,62,72,73,79,80,86,87,90,91,98,99,116,117,118,119,120,121,129,130,131,134,138,139,140,141
+6. #a8b820
+7. #a8a878
+8. #f8d030
+9. #e0c068
+10. #ee99ac
+11. #ff6996
+12. #98d8d8
+13. #b8a038
+14. #700aee
+15. #94352d
+
+![meridian](../Images/Primemeridian.jpg)
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Proverb
+
 2. https://en.wikipedia.org/wiki/Sicily
+
 3. https://en.wikipedia.org/wiki/Calabria
+
 4. https://en.wikipedia.org/wiki/Campagna
+
 5. https://en.wikipedia.org/wiki/Apulia
+
 6. http://chir.ag/projects/name-that-color
+
 7. https://en.wikipedia.org/wiki/Cherokee
+
 8. https://en.wikipedia.org/wiki/ISO_3166
+
 9. https://en.wikipedia.org/wiki/ISO_3166-2
+
 10. https://en.wikipedia.org/wiki/ISO_3166-2:IT
+
 11. https://en.wikipedia.org/wiki/Andorra
+
 12. https://en.wikipedia.org/wiki/San_Marino
+
 13. https://en.wikipedia.org/wiki/Luxembourg
+
 14. https://en.wikipedia.org/wiki/Liechtenstein
+
 15. https://en.wikipedia.org/wiki/Monaco
+
 16. https://en.wikipedia.org/wiki/Switzerland
+
 17. https://en.wikipedia.org/wiki/Institute_for_the_Works_of_Religion
+
 18. https://en.wikipedia.org/wiki/Vatican_City
+
 19. https://en.wikipedia.org/wiki/International_Bank_Account_Number
+
 20. [https://en.wikipedia.org/wiki/Pok%C3%A9mon](https://en.wikipedia.org/wiki/Pokémon)
+
 21. https://en.wikipedia.org/wiki/Role-playing_video_game
+
 22. https://en.wikipedia.org/wiki/Game_Freak
+
 23. https://en.wikipedia.org/wiki/Nintendo
+
 24. http://tcvn.sakura.ne.jp/
+
 25. https://en.wikipedia.org/wiki/Tax_evasion
+
+26. https://blogs.20minutos.es/yaestaellistoquetodolosabe/de-donde-proviene-gritar-agua-para-avisar-de-la-presencia-de-la-policia/
+
+27. [https://en.wikipedia.org/wiki/List_of_generation_I_Pok%C3%A9mon](https://en.wikipedia.org/wiki/List_of_generation_I_Pokémon)
+
+28. https://en.wikipedia.org/wiki/MissingNo.
+
+29. https://en.wikipedia.org/wiki/Glitch
+
+30. https://en.wikipedia.org/wiki/Emerald
+
+31. https://en.wikipedia.org/wiki/Plum
+
+32. https://en.wikipedia.org/wiki/Jaffa
+
+33. https://en.wikipedia.org/wiki/Portage
+
+34. https://en.wikipedia.org/wiki/Dodger_blue
+
+    
 
