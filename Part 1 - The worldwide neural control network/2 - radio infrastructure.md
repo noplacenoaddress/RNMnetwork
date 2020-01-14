@@ -81,6 +81,10 @@ This infrastructure, very simple in design, is implemented by Francesca, nephew 
 
 Who gain money with those masked "games"? Always the sames, the cast. Who loose them rights? Normally people who do not have the intellectual capacity to understand exactly the very complex general framework of this system of human exploitation. Many end up as drug dealers or whores. Many other suicides. Very few make room for shoulders in the midst of this bedlam of extreme wealth, corruption and silent crimes for an increasingly weak democracy, this time very rusty even from what is my passion, telecommunications.
 
+### "Games" magnetic network
+
+![Magnetron](../Images/Inside-a-Magnetron-.png)
+
 ### The terrestrial positioning system
 
 ![3D radar](../Images/istockphoto-1017394876-640x640.jpg)
