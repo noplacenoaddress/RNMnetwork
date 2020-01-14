@@ -67,16 +67,16 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 3. #f08030 **jaffa** [[32]](https://en.wikipedia.org/wiki/Jaffa) game machine numbers 4,5,6,37.38,58,59,77,78,126,146
 4. #a890f0 **portage** [[33]](https://en.wikipedia.org/wiki/Portage) game machine numbers 6,12,16,17,18,21,22,41,42,83,84,85,123,130,142,145,146,149
 5. #149eff **dodger blue** [[34]](https://en.wikipedia.org/wiki/Dodger_blue) game machine numbers 7,8,9,54,55,60,61,62,72,73,79,80,86,87,90,91,98,99,116,117,118,119,120,121,129,130,131,134,138,139,140,141
-6. #a8b820 citron [[35]](https://en.wikipedia.org/wiki/Citron)
-7. #a8a878
-8. #f8d030
-9. #e0c068
-10. #ee99ac
-11. #ff6996
-12. #98d8d8
-13. #b8a038
-14. #700aee
-15. #94352d
+6. #a8b820 **citron** [[35]](https://en.wikipedia.org/wiki/Citron)
+7. #a8a878 **hillary** [[36]](https://en.wikipedia.org/wiki/Edmund_Hillary)
+8. #f8d030 **saffron** [[37]](https://en.wikipedia.org/wiki/Saffron_(color))
+9. #e0c068 **equator** [[38]](https://en.wikipedia.org/wiki/Equator)
+10. #ee99ac **wewak** [[39]](https://en.wikipedia.org/wiki/Wewak)
+11. #ff6996 **hot pink** [[40]](http://veli.ee/colorpedia/?c=ff6996)
+12. #98d8d8 **aqua island** [[41]](http://veli.ee/colorpedia/?c=98d8d8)
+13. #b8a038 **roti** [[42]](http://veli.ee/colorpedia/?c=b8a038)
+14. #700aee **electric violet** [[43]](http://veli.ee/colorpedia/?c=700aee)
+15. #94352d **stiletto** [[44]](http://veli.ee/colorpedia/?c=94352d)
 
 ![meridian](../Images/Primemeridian.jpg)
 
@@ -151,6 +151,24 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 34. https://en.wikipedia.org/wiki/Dodger_blue
 
 35. https://en.wikipedia.org/wiki/Citron
+
+36. https://en.wikipedia.org/wiki/Edmund_Hillary
+
+37. https://en.wikipedia.org/wiki/Saffron_(color)
+
+38. https://en.wikipedia.org/wiki/Equator
+
+39. https://en.wikipedia.org/wiki/Wewak
+
+40. http://veli.ee/colorpedia/?c=ff6996
+
+41. http://veli.ee/colorpedia/?c=98d8d8
+
+42. http://veli.ee/colorpedia/?c=b8a038
+
+43. http://veli.ee/colorpedia/?c=700aee
+
+44. http://veli.ee/colorpedia/?c=94352d
 
     
 
