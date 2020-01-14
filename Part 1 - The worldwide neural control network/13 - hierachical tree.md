@@ -26,7 +26,7 @@ This system was inspired by the **Italian navy** [[7]](https://en.wikipedia.org/
 
 *Please help, my ex girlfriend is slaved by this system. Help me.*
 
-### Colors in pyramid tree
+
 
 
 
