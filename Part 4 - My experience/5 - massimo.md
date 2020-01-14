@@ -22,6 +22,8 @@ Massimo is victim of the noble family from Genoa from when he was an adolescent.
 
 But this has to finish and they don't have the power to do this. And I will do it for them. They have divided us, but not for them. They want that I commit suicide and for them  two deaths is nothing. In this system in radio frequency they say that an enormous number of citizen have die.  
 
+
+
 ### External Links
 
 1. http://www.treccani.it/vocabolario/mediocre/
