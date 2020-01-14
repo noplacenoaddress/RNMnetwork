@@ -78,6 +78,8 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 14. #700aee **electric violet** [[43]](http://veli.ee/colorpedia/?c=700aee)
 15. #94352d **stiletto** [[44]](http://veli.ee/colorpedia/?c=94352d)
 
+As you can see I've used some links to Wikipedia and others to a site where you can appreciate similar colors, a briefing about the significance and others colors that goes well with.
+
 ![meridian](../Images/Primemeridian.jpg)
 
 ### External links
