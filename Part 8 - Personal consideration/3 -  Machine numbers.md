@@ -67,7 +67,7 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 3. #f08030 **jaffa** [[32]](https://en.wikipedia.org/wiki/Jaffa) game machine numbers 4,5,6,37.38,58,59,77,78,126,146
 4. #a890f0 **portage** [[33]](https://en.wikipedia.org/wiki/Portage) game machine numbers 6,12,16,17,18,21,22,41,42,83,84,85,123,130,142,145,146,149
 5. #149eff **dodger blue** [[34]](https://en.wikipedia.org/wiki/Dodger_blue) game machine numbers 7,8,9,54,55,60,61,62,72,73,79,80,86,87,90,91,98,99,116,117,118,119,120,121,129,130,131,134,138,139,140,141
-6. #a8b820
+6. #a8b820 citron [[35]](https://en.wikipedia.org/wiki/Citron)
 7. #a8a878
 8. #f8d030
 9. #e0c068
@@ -149,6 +149,8 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 33. https://en.wikipedia.org/wiki/Portage
 
 34. https://en.wikipedia.org/wiki/Dodger_blue
+
+35. https://en.wikipedia.org/wiki/Citron
 
     
 
