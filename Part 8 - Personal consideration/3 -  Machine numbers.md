@@ -52,6 +52,12 @@ But remember that those are only my to cents because we can try to debug also th
 
 Remember that machines are shared between target individuals sure? Ok this seams to be a stupidity but in the "Illuminati" game, that in reality is a digital pseudo dictatorship that is changing our Europe, machine numbers are represented by **Pokemon** [[20]](https://en.wikipedia.org/wiki/Pok%C3%A9mon) identifications.
 
+From this stupidity I know for sure that I'm in neural control from 1999. At the age of eighteen, only my parents could have authorize this crime destroying my privacy from twenty one years. The first **role-playing video game** [[21]](https://en.wikipedia.org/wiki/Role-playing_video_game) was developed by **Game Freak** [[22]](https://en.wikipedia.org/wiki/Game_Freak) and published by **Nintendo** [[23]](https://en.wikipedia.org/wiki/Nintendo), that is for sure related with the remote neural monitoring network as you can appreciate for the number of target individuals in Japan. One important association is **"technological crime victims network nonprofit organization"** [[24]](http://tcvn.sakura.ne.jp/).
+
+
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Proverb
@@ -74,4 +80,8 @@ Remember that machines are shared between target individuals sure? Ok this seams
 18. https://en.wikipedia.org/wiki/Vatican_City
 19. https://en.wikipedia.org/wiki/International_Bank_Account_Number
 20. [https://en.wikipedia.org/wiki/Pok%C3%A9mon](https://en.wikipedia.org/wiki/Pokémon)
+21. https://en.wikipedia.org/wiki/Role-playing_video_game
+22. https://en.wikipedia.org/wiki/Game_Freak
+23. https://en.wikipedia.org/wiki/Nintendo
+24. http://tcvn.sakura.ne.jp/
 
