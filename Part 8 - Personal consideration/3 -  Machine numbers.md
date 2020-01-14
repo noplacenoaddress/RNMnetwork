@@ -50,11 +50,11 @@ But remember that those are only my to cents because we can try to debug also th
 
 ![I and my love](../Images/poke.jpg)
 
-Remember that machines are shared between target individuals sure? Ok this seams to be a stupidity but in the "Illuminati" game, that in reality is a digital pseudo dictatorship that is changing our Europe, machine numbers are represented by **Pokemon** [[20]](https://en.wikipedia.org/wiki/Pok%C3%A9mon) identifications.
+Remember that machines are shared between target individuals sure? Ok this seams to be a stupidity but in the "Illuminati" game, that in reality is a digital pseudo dictatorship that is changing our Europe and the world, machine numbers are represented by **Pokemon** [[20]](https://en.wikipedia.org/wiki/Pok%C3%A9mon) identifications.
 
 From this stupidity I know for sure that I'm in neural control from 1999. At the age of eighteen, only my parents could have authorize this crime destroying my privacy from twenty one years. The first **role-playing video game** [[21]](https://en.wikipedia.org/wiki/Role-playing_video_game) was developed by **Game Freak** [[22]](https://en.wikipedia.org/wiki/Game_Freak) and published by **Nintendo** [[23]](https://en.wikipedia.org/wiki/Nintendo), that is for sure related with the remote neural monitoring network as you can appreciate for the number of target individuals in Japan. One important association is **"technological crime victims network nonprofit organization"** [[24]](http://tcvn.sakura.ne.jp/).
 
-
+Also colors are important means groups, but remember that basic colors are utilized in gang stalking to do brain washing. To confuse minds. In reality peoples that have access to this network for me are also targets individuals. In this network people are considered like machines, but one time that you're in the only think that have importance is money. But works related to this shit are all frauds. This is a pyramid. It's a fraud. All correlated with black market, prostitution, sexual harassment. All the people here inside gain money on whatever you do one time you're in. This is a fraud. But in reality this game is orchestrated by the elite like we've analyze, nobles, state and church. In reality is utilized to do mass social influencing, destroy democracy and rebuild fascism. It's a scandal nothing more. All the economy inside this system is crypt concurrency related, what does it mean? That is a very big fraud also to the state. We've to stop immediately this system and the method to use is exactly how they catch Al Capone, **tax fraud** [[25]](https://en.wikipedia.org/wiki/Tax_evasion). 
 
 
 
@@ -84,4 +84,5 @@ From this stupidity I know for sure that I'm in neural control from 1999. At the
 22. https://en.wikipedia.org/wiki/Game_Freak
 23. https://en.wikipedia.org/wiki/Nintendo
 24. http://tcvn.sakura.ne.jp/
+25. https://en.wikipedia.org/wiki/Tax_evasion
 
