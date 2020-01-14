@@ -80,7 +80,15 @@ Saray got a baby and she is a victim of this technological monster from about fi
 
 > *I absolutely ask the Spanish and Italian public administration for help to stop this massacre that is destroying a Europe increasingly divided by inferior conspiracy theorists who use this system they call "techno" to bring back fascism and probably a world war. Help. Saray and I love each other and are ordinary people with absolute need for justice. Help.*  
 
+### What do I found on Internet and radio about her?
 
+![You and me](../Images/20150124_234642.jpg)
+
+In Internet a lot of pornography. And she is not a porno star. On radio, subliminal voices and video services, a lot of sexual abuse, harassment and rapes, all done with people that I've known personally. All done because of inducting me and her, without any doubt, to suicide. 
+
+Why?
+
+This is very difficult to understand but it's without any doubt something related to Catholic Church. But in reality what is the real point of interest? It's obvious money. I think that me and Saray in our lineage tree got something very important and very precious. We are certainly owners of something whose existence we totally ignore. They tortured us electronically as well as they deprived me of any material goods and sold her as a prostitute to her, constantly threatening her with her minor daughter. It's a scandal. We both thirst for justice because the state is and always will be a **secular** [[9]](https://en.wikipedia.org/wiki/Secular_state) institution. We love each other and this mob doesn't want us to unite in marriage. It's a scandal. 
 
 ### External links 
 
@@ -92,4 +100,5 @@ Saray got a baby and she is a victim of this technological monster from about fi
 6. https://en.wikipedia.org/wiki/Waiting_staff
 7. [https://ca.wikipedia.org/wiki/Gu%C3%A0rdia_Urbana_de_Barcelona](https://ca.wikipedia.org/wiki/Guàrdia_Urbana_de_Barcelona)
 8. https://en.wikipedia.org/wiki/Slow-scan_television
+9. https://en.wikipedia.org/wiki/Secular_state
 

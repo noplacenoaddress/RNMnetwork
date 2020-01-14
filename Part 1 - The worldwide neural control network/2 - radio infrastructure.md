@@ -49,7 +49,7 @@ What are goals of governments using this technology:
 - Control of conflicting territories, like Catalunya.
 - Social mass influencing to change political wind of a period, now we're deep in populism.
 
-### "Games" network
+### "Games" radio and magnetic network
 
 ![Games network](../Images/EOFWNG2X0AA_epp.jpeg)
 
@@ -68,6 +68,10 @@ Who are behind games?
 Games are assigned and completely masked behind nobles family, hacking and others stories. When I speak about assign I mean that a territory, like Catalunya, is assigned for a period of time to a group or a crew that create the game. Below every game there is a figure that interconnect different layers, casts, or call them how do you want that could be defined as the figure of observer. Who observe warrant that almost all the participants in the game have the opportunity to operate in the territory with a high degree of freedom, that is, it deals with drawing other figures with an important role of interconnection with high functions of the state, such as police, justice and public health. Practically it is those who deal with corruption.
 
 Games are like " **the Canterbury tales**" [[20]](https://en.wikipedia.org/wiki/The_Canterbury_Tales), stories created on a center of attention that normally elude citizens and police forces not corrupted by the true meaning that nothing else is, as always, unbridled gain through a series of horrible crimes such as the creation of human guinea pigs for the purpose of developing unauthorized technologies. I am a victim of this system.
+
+![Magnetron](../Images/Inside-a-Magnetron-.png)
+
+
 
 The antennas and ground stations that permit the connection to the human targets are very simple. In this photo taken in Catalunya in a tower from a wireless Internet service provider that bind those illegal services  there are six black ferrite magnetic loop antennas that create with six software defined radios a network below 150Hz. 
 
