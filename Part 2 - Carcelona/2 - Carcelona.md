@@ -55,6 +55,14 @@ The WISP was of my property until 2016, then with a fraud I loose it and they st
 
 The top antenna is a point to point radio wave in proprietary protocol, called AirFiber. **Gigabit wireless** [[8]](https://en.wikipedia.org/wiki/Gigabit_Wireless). This antenna focus to a tower in **Tibidabo** [[9]](https://en.wikipedia.org/wiki/Tibidabo) over Barcelona. Next another access point to the "Illuminati" facility focused over the Catalan capital reducing to slavery a lot of citizens. 
 
+![](../Images/EOFWNG2X0AA_epp.jpeg)
+
+This image is taken at 41º 25’ 10.57” N, 2º 09’ 48.39” E geographical coordinates that can be retrieve on **Google Street View** [[10]](https://en.wikipedia.org/wiki/Google_Street_View) aged at the time of writing. As you can appreciate the technology is the same and, yes, is the infrastructure of the "game" "Illuminati" that in reality it's a fraud but it is changing our Europe being a pseudo digital dictatorship.
+
+![](../Images/75576725_149927382999364_7626195554552197202_n.jpg)
+
+This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical coordinates that can be retrieve on **Instagram** [[11]](https://en.wikipedia.org/wiki/Instagram) on the social network profile of my old wireless Internet service provider dated on 27 of November 2019 stand out in grey you can appreciate part of the same installation. But there is no magnetic loop antenna. So, no extreme low frequencies, no brain network.
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Monopoly_(game)
@@ -66,3 +74,5 @@ The top antenna is a point to point radio wave in proprietary protocol, called A
 7. https://bgp.he.net/AS205645
 8. https://en.wikipedia.org/wiki/Gigabit_Wireless
 9. https://en.wikipedia.org/wiki/Tibidabo
+10. https://en.wikipedia.org/wiki/Google_Street_View
+11. https://en.wikipedia.org/wiki/Instagram
