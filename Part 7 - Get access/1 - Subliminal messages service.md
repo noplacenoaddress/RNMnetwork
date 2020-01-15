@@ -8,6 +8,8 @@ Voice to skull or v2k is not an invention of psychotic, but it's a technology an
 
 I'm not an ignorant and I cannot permit that more people of my age die for something that it's only called technology, my passion. They have to be put in jail all. Let's do it.
 
+Electromagnetic and acoustic weapons serve to injure, control and kill human beings.
+
 Start with analysis of those patents and next we can try to launch some open hardware startup and search for help in Internet.
 
 ### US5159703

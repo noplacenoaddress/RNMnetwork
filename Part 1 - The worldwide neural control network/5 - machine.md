@@ -147,6 +147,10 @@ Those image are obtained by the interpretation of brain wave. It's possible to o
 
 - **Natural image reconstruction from brain waves** [[76]](https://www.biorxiv.org/content/10.1101/787101v2.full.pdf)
 
+### Involuntary vocalization
+
+![Involuntary vocalization](../Images/OMP_Figure_1_jpg.jpg)
+
 ### Death method
 
 ![DEW](../Images/laser-weapons-illustration-1200.jpg)

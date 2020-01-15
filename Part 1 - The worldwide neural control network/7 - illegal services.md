@@ -364,9 +364,7 @@ Speaking about API they have build a income load balancer divided in various fis
 *This is why i denunciate that someone, one of the stalkers of the network, has stole my passport and Spanish national id card.*
 
 
-### External links
-
-![networking](../Images/1-intro_113_0.jpg)	
+### External links	
 
 1. https://en.wikipedia.org/wiki/Indo-European_languages 
 
