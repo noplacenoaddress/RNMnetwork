@@ -53,6 +53,10 @@ The remote scan of electrical human unique id its explained in various universit
 - **Remote control brain sensor** [[2]](http://news.bbc.co.uk/2/hi/health/2361987.stm)
 - **Remote detection of human EEG using ultrahigh input impedance electric potential sensors** [[3]](https://aip.scitation.org/doi/10.1063/1.1516861)
 
+Once they have obtained your brain frequencies they could calibrate radios to begin enslaving you with microwave and acoustic frequencies ultrasound or infrasound directly to your brain.
+
+With radio frequency in the 
+
 ### Physical layer
 
 ![Human body](../Images/human-muscles-new.jpg)
