@@ -4,6 +4,51 @@ Like in the OSI model in the remote neural monitoring network there's a pile of 
 
 ![Human stack](../Images/humanstack.jpg)
 
+Just like our fingerprint, we have unique patterns of electromagnetic activity in our brain and body.  These are called resonance frequencies that are how fast or slow vibrations repeat or cycle. Through resonance, a comparatively weak vibration in one object can cause a strong vibration in another which can be damaged or destroyed. Our unique resonance frequencies can be used to calibrate radios and then used to radiate us with harmful frequencies.
+
+Theoretically will be important to protect our resonance frequencies so they are not stolen by people who want to harm you. A person who has our frequencies can put us in slavery. But no one speak about this extremely dangerous unfortunately no politician, no law protects us and informs us about this very serious security problem, as in Informatica if we are not security experts we cannot manage a server or a network the same training process should be available for any citizen. And it should be mandatory in primary school since the protection of our resonance frequencies is absolutely necessary today which are exactly like a barcode or a unique identifier that if subtracted would indicate the fact of being a victim of psychic, physical, sexual violence , etcetera etcetera continuously.
+
+Like we've analyzed before in our brain are presents five frequencies:
+
+1. Gamma >= 30 Hz
+2. Beta from 13 to 30 Hz
+3. Alpha from 8 to 12 Hz
+4. Theta from 4 to 8 Hz
+5. Delta <= 3 Hz
+
+Remember that hertz is cycle per second named from Heinrich Hertz who proved electromagnetism in 1886. Those are measured and record by an electroencephalogram that is a test used to obtain the electrical activity of our brain.
+
+In the remote neural monitoring network with radio frequencies it is possible to control in a victim:
+
+- movements
+- sensations
+- emotions
+- desires
+- ideas
+- elaborate psychological phenomena
+
+By electric stimulation of specific area of the brain it is possible also:
+
+- induce
+- intimidate
+- modify 
+
+Others fingerprint are the electrocardiogram that measure the electrical activity of the heart.
+
+An evoked potentials shows what the brain does after it is stimulated by the senses such as sight, sound, pain, pleasure, movement, heat or cold. By studying these frequencies you can tell what a person is feeling or remotely rewrite them in our brain so the victim will change his mood.
+
+There are many patents show that a person's brain frequencies can be used to place sounds or voices inside their head so that they are the only one to hear the sound. This is a harassment tool being used on target individuals around the world. Auditory cortex is stimulated using around 15 Hz.
+
+Every human has got his own unique brain code so frequencies must be scanned and calibrated in tower for each individual. Who can do it, and it is not difficult at all, can control our mind and ours toughs putting us in slavery. With a mobile phone and applications it's possible obtain our unique signature of electrical activity of neurons in our brain without our knowledge or consent. This operation can also be done without other devices like wristband but in a relative proximity to the victim. You can rapidly understand who beautiful unaware womans can be used to obtain this unique id with them mobiles, can be inducted with specific drug cuts, remote stimulation of the reproductive system, a man close to them who excites and specially drugs them to bring them to places where couple and orgy exchanges are practiced with the ultimate goal of obtaining the unique id of each person who approaches the same woman for sexual purposes. 
+
+> *My ex-girlfriend, Saray, fell into this serious crime. She needs help. I love you sweetie. Call me and go away from that house.*
+
+ The mobile phone of the woman, normally hacked by some operator in the remote neural monitoring network, has got an occult application that can be remotely used to obtain this ID in new victims. It's all about manipulation, create the perfect tool or better saying woman with the correct sexual inducted over excitation, put her in the correct context where she is drugged and has continuous orgiastic sex, normally a house with two or three brothers, and introduce it to couples, orgies and bdsm exchange environments. But also discos, afters and clubs.
+
+> *Saray, my love, remember that all the people with whom these people made you have sexual intercourse could have died suicide, lost all their possessions, committed horrible crimes like those that have been done to you. Saray get away from that environment and call me immediately. You need help.*
+
+
+
 ### Physical layer
 
 ![Human body](../Images/human-muscles-new.jpg)
