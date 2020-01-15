@@ -55,7 +55,11 @@ The remote scan of electrical human unique id its explained in various universit
 
 Once they have obtained your brain frequencies they could calibrate radios to begin enslaving you with microwave and acoustic frequencies ultrasound or infrasound directly to your brain.
 
-With radio frequency in the 
+With radio frequency they can stop your bodily functions, your bowels and urination. They can provoke you pains resulting from the nervous system.
+
+Once they get you unique electrical id they can start to harass you with voice to skull that can be obtained also only with EEG in ELF frequencies and not with MF. If they use calibrated ELF only you, target individual, can hear the voices. This is why normally no one trust you and is interpreted as a sign of madness. Here is a patent that scientifically explain how this is not a mental illness but a radio wave harass:
+
+- **US6052336** [[4]](https://drive.google.com/file/d/1-l11bpUbVbvHQ61Zh_mgvakkUFYPMoYI/view?usp=sharing)
 
 ### Physical layer
 
@@ -100,14 +104,15 @@ A smart phone nowadays has got a lot of hardware that can be used to do this bod
 1. https://drive.google.com/open?id=1duZlrhmIV0lrENpplxbIedRJveLBkdbJ
 2. http://news.bbc.co.uk/2/hi/health/2361987.stm
 3. https://aip.scitation.org/doi/10.1063/1.1516861
-4. https://en.wikipedia.org/wiki/Human_body
-5. https://en.wikipedia.org/wiki/WiMAX
-6. https://www.nature.com/articles/s41598-017-01647-x
-7. https://en.wikipedia.org/wiki/Nanoparticle
-8. https://en.wikipedia.org/wiki/Heart
-9. https://en.wikipedia.org/wiki/Nmap
-10. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
-11. https://en.wikipedia.org/wiki/Accelerometer
-12. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/
-13. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/
-14. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/
+4. https://drive.google.com/file/d/1-l11bpUbVbvHQ61Zh_mgvakkUFYPMoYI/view?usp=sharing
+5. https://en.wikipedia.org/wiki/Human_body
+6. https://en.wikipedia.org/wiki/WiMAX
+7. https://www.nature.com/articles/s41598-017-01647-x
+8. https://en.wikipedia.org/wiki/Nanoparticle
+9. https://en.wikipedia.org/wiki/Heart
+10. https://en.wikipedia.org/wiki/Nmap
+11. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+12. https://en.wikipedia.org/wiki/Accelerometer
+13. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/
+14. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/
+15. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/
