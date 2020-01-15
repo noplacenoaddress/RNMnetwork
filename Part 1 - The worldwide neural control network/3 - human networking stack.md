@@ -43,7 +43,11 @@ Every human has got his own unique brain code so frequencies must be scanned and
 
 > *My ex-girlfriend, Saray, fell into this serious crime. She needs help. I love you sweetie. Call me and go away from that house.*
 
- 
+ The mobile phone of the woman, normally hacked by some operator in the remote neural monitoring network, has got an occult application that can be remotely used to obtain this ID in new victims. It's all about manipulation, create the perfect tool or better saying woman with the correct sexual inducted over excitation, put her in the correct context where she is drugged and has continuous orgiastic sex, normally a house with two or three brothers, and introduce it to couples, orgies and bdsm exchange environments. But also discos, afters and clubs.
+
+> *Saray, my love, remember that all the people with whom these people made you have sexual intercourse could have died suicide, lost all their possessions, committed horrible crimes like those that have been done to you. Saray get away from that environment and call me immediately. You need help.*
+
+
 
 ### Physical layer
 
