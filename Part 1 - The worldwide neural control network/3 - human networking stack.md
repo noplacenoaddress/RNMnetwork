@@ -16,7 +16,9 @@ Like we've analyzed before in our brain are presents five frequencies:
 4. Theta from 4 to 8 Hz
 5. Delta <= 3 Hz
 
-Remember that hertz is cycle per second named from Heinrich Hertz who proved electromagnetism in 1886. Those are measured and record by an electroencephalogram that is a test used to obtain the electrical activity of our brain.
+Remember that hertz is cycle per second named from Heinrich Hertz who proved electromagnetism in 1886. Those are measured and record by an electroencephalogram that is a test used to obtain the electrical activity of our brain. Our brain's electrical activity is unique, analyzing it we can find a brain code. In Internet there's public library of biological electrical measures that can be consulted to study this human feature:
+
+- **Brain-CODE** [[1]](https://www.braincode.ca/) OBI's secure neuroinformatics platform for data management, sharing and analysis
 
 In the remote neural monitoring network with radio frequencies it is possible to control in a victim:
 
@@ -49,9 +51,9 @@ The mobile phone of the woman, normally hacked by some operator in the remote ne
 
 The remote scan of electrical human unique id its explained in various university documents, patents and press articles:
 
-- **EEG EKG remote scan patents** [[1]](https://drive.google.com/open?id=1duZlrhmIV0lrENpplxbIedRJveLBkdbJ)
-- **Remote control brain sensor** [[2]](http://news.bbc.co.uk/2/hi/health/2361987.stm)
-- **Remote detection of human EEG using ultrahigh input impedance electric potential sensors** [[3]](https://aip.scitation.org/doi/10.1063/1.1516861)
+- **EEG EKG remote scan patents** [[2]](https://drive.google.com/open?id=1duZlrhmIV0lrENpplxbIedRJveLBkdbJ)
+- **Remote control brain sensor** [[3]](http://news.bbc.co.uk/2/hi/health/2361987.stm)
+- **Remote detection of human EEG using ultrahigh input impedance electric potential sensors** [[4]](https://aip.scitation.org/doi/10.1063/1.1516861)
 
 Once they have obtained your brain frequencies they could calibrate radios to begin enslaving you with microwave and acoustic frequencies ultrasound or infrasound directly to your brain.
 
@@ -62,6 +64,8 @@ Once they get you unique electrical id they can start to harass you with voice t
 - **US6052336** [[4]](https://drive.google.com/file/d/1-l11bpUbVbvHQ61Zh_mgvakkUFYPMoYI/view?usp=sharing)
 
 Many police and doctors in reality are corrupted officials that specifically use voice to skull to delete from society target individuals putting them in psychiatric hospitals. But they are not mental ill. 
+
+With radio frequency it's also possible cause involuntary vocalization
 
 
 
@@ -105,18 +109,19 @@ A smart phone nowadays has got a lot of hardware that can be used to do this bod
 
 ### External links
 
-1. https://drive.google.com/open?id=1duZlrhmIV0lrENpplxbIedRJveLBkdbJ
-2. http://news.bbc.co.uk/2/hi/health/2361987.stm
-3. https://aip.scitation.org/doi/10.1063/1.1516861
-4. https://drive.google.com/file/d/1-l11bpUbVbvHQ61Zh_mgvakkUFYPMoYI/view?usp=sharing
-5. https://en.wikipedia.org/wiki/Human_body
-6. https://en.wikipedia.org/wiki/WiMAX
-7. https://www.nature.com/articles/s41598-017-01647-x
-8. https://en.wikipedia.org/wiki/Nanoparticle
-9. https://en.wikipedia.org/wiki/Heart
-10. https://en.wikipedia.org/wiki/Nmap
-11. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
-12. https://en.wikipedia.org/wiki/Accelerometer
-13. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/
-14. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/
-15. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/
+1. https://www.braincode.ca/
+2. https://drive.google.com/open?id=1duZlrhmIV0lrENpplxbIedRJveLBkdbJ
+3. http://news.bbc.co.uk/2/hi/health/2361987.stm
+4. https://aip.scitation.org/doi/10.1063/1.1516861
+5. https://drive.google.com/file/d/1-l11bpUbVbvHQ61Zh_mgvakkUFYPMoYI/view?usp=sharing
+6. https://en.wikipedia.org/wiki/Human_body
+7. https://en.wikipedia.org/wiki/WiMAX
+8. https://www.nature.com/articles/s41598-017-01647-x
+9. https://en.wikipedia.org/wiki/Nanoparticle
+10. https://en.wikipedia.org/wiki/Heart
+11. https://en.wikipedia.org/wiki/Nmap
+12. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+13. https://en.wikipedia.org/wiki/Accelerometer
+14. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/
+15. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/
+16. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/
