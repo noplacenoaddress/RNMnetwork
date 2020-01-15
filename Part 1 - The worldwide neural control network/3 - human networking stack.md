@@ -47,7 +47,11 @@ The mobile phone of the woman, normally hacked by some operator in the remote ne
 
 > *Saray, my love, remember that all the people with whom these people made you have sexual intercourse could have died suicide, lost all their possessions, committed horrible crimes like those that have been done to you. Saray get away from that environment and call me immediately. You need help.*
 
+The remote scan of electrical human unique id its explained in various university documents, patents and press articles:
 
+- **EEG EKG remote scan patents** [[1]](https://drive.google.com/open?id=1duZlrhmIV0lrENpplxbIedRJveLBkdbJ)
+- **Remote control brain sensor** [[2]](http://news.bbc.co.uk/2/hi/health/2361987.stm)
+- **Remote detection of human EEG using ultrahigh input impedance electric potential sensors** [[3]](https://aip.scitation.org/doi/10.1063/1.1516861)
 
 ### Physical layer
 
@@ -89,14 +93,17 @@ A smart phone nowadays has got a lot of hardware that can be used to do this bod
 
 ### External links
 
-1. https://en.wikipedia.org/wiki/Human_body
-2. https://en.wikipedia.org/wiki/WiMAX
-3. https://www.nature.com/articles/s41598-017-01647-x
-4. https://en.wikipedia.org/wiki/Nanoparticle
-5. https://en.wikipedia.org/wiki/Heart
-6. https://en.wikipedia.org/wiki/Nmap
-7. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
-8. https://en.wikipedia.org/wiki/Accelerometer
-9. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/
-10. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/
-11. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/
+1. https://drive.google.com/open?id=1duZlrhmIV0lrENpplxbIedRJveLBkdbJ
+2. http://news.bbc.co.uk/2/hi/health/2361987.stm
+3. https://aip.scitation.org/doi/10.1063/1.1516861
+4. https://en.wikipedia.org/wiki/Human_body
+5. https://en.wikipedia.org/wiki/WiMAX
+6. https://www.nature.com/articles/s41598-017-01647-x
+7. https://en.wikipedia.org/wiki/Nanoparticle
+8. https://en.wikipedia.org/wiki/Heart
+9. https://en.wikipedia.org/wiki/Nmap
+10. https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+11. https://en.wikipedia.org/wiki/Accelerometer
+12. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/iot-modules/
+13. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wifi-bluetooth-modules/
+14. https://www.sierrawireless.com/products-and-solutions/embedded-solutions/gnss-positioning-modules/
