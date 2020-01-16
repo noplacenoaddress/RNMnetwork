@@ -28,6 +28,8 @@ He arrived to Barcelona at sixteen years old, very young and a little bit strang
 
 Probably he had come to Catalunya to fist study this technology and enter in this system after the school of this master and then to try to defeat him taking his place because in reality he works for the noble family of Genoa, for the Jesuits.
 
+We start meet when he lives in Gorg the district was changing face from industrial to residential. It was on 2008.  He's got an apartment ground floor, the building had a shared swimming pool. The building was like empty just finished building. He nervously cleaned the house meticulously. He has always been a cleaning freak. I've always thought that extreme cleansing maniacs actually have a very dirty conscience, but that's just my reflection. Do you remember number 81 of **Dylan Dog** [[11]](https://en.wikipedia.org/wiki/Dylan_Dog): **Johnny Freak** [[12]](https://www.goodreads.com/book/show/11168268-dylan-dog-n-81).
+
 ### External Links
 
 1. http://www.treccani.it/vocabolario/mediocre/
@@ -40,4 +42,6 @@ Probably he had come to Catalunya to fist study this technology and enter in thi
 8. https://en.wikipedia.org/wiki/Treason
 9. https://en.wikipedia.org/wiki/Juggling
 10. https://ca.wikipedia.org/wiki/Gorg_(Badalona)
+11. https://en.wikipedia.org/wiki/Dylan_Dog
+12. https://www.goodreads.com/book/show/11168268-dylan-dog-n-81
 
