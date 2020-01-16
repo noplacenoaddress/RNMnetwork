@@ -6,7 +6,7 @@ In the subliminal message voice services in the remote neural monitoring network
 
 In reality I don't use to study astrology but the explanation of my results are some how exact with my self. Another point of interest is understand why I'm inside this network, it seems to be that like almost all the people that I've know are inside but it is very dangerous to underline it because of technology and vocoder. Voices can be exactly thief with EEG signals transcoding but also manner of speak. Technology is very advanced. 
 
-For some reason I think that Vatican through the Jesuit order and in turn with the Durand de la Penne family and other noble families insert you with violence in this network. For some reason people are "opened", like they say in radio frequency, at a age or other. 
+For some reason I think that Vatican through the Jesuit order and in turn with the Genoese family and other noble families insert you with violence in this network. For some reason people are "opened", like they say in radio frequency, at a age or other. 
 
 > *I was inserted at 37 years old and people here say that we cannot speak about it. The thing that they underline that is a secret told me directly that is something Mafia related. But I was wrong, it's not only Mafia, but it's related to Church. The word **dome** [[2]](https://en.wikipedia.org/wiki/Dome) used by Mafia it's also present in the Catholic architecture and is the summit of a big church. Because I was inserted late in my life I have a hard time accepting that has changed. I suffered a lot of violence physical and psychological and I start to write my experience try to help the community of what is called target individuals. I fight writing.*
 
