@@ -81,9 +81,7 @@ Who are behind those image boards?
 2. **Hiroyuki Nishimura** [[23]](https://en.wikipedia.org/wiki/Hiroyuki_Nishimura).
 3. **Fredrick Brennan** [[24]](https://en.wikipedia.org/wiki/Fredrick_Brennan).
 
-Here i've personally found **263 images and porn video** of my ex girlfriend. Because yes, i'm a victim of this system. I'm a target individual. *But i'm a senior network engineer, a white hat hacker and a OSINT investigator*. I want to shut down this evil network. And Saray, this is her name, is a victim from about ten years. I love her. And all of this is only for her and her baby. 
 
- ![Saray](../Images/sarayporn.png)
 
 But the most important think is that i know personally like almost the **organization chart**  [[25]](https://en.wikipedia.org/wiki/Organizational_chart). They have to be put in jail from International Police like **Interpol** [[26]](https://en.wikipedia.org/wiki/Interpol). 
 
