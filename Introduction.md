@@ -2,13 +2,13 @@
 
 ![Family](Images/10352952_10205897989471445_8337968466635029883_n.jpg)
 
-I'm the son of a member of an hidden mafia based on Genoa, Italy. He is an assassin, an international drug trafficker, an arms dealer, a stalker and I don't really known what else. I've understand this in 2019 at 38 years old after he systematically destroy my life in Spain, Barcelona. He leads the black market of this city and probably is also involved in the **terrorist attack** [[1]](https://en.wikipedia.org/wiki/2017_Barcelona_attacks) in the Catalan capital.
+I'm the son of a  stalker and I don't really known what else. I've understand this in 2019 at 38 years old after he systematically destroy my life in Spain, Barcelona. 
 
-In radio frequency, because yes they command using this technology having build a technological diamond in all over the world and conducting perfect double life, they speak about one million and seven hundred deaths caused by them technology and from all what is known as gang stalking. 
+In radio frequency, because yes they command using this technology having build a technological diamond in all over the world and conducting perfect double life, they speak about a lot of inducted suicide caused by them technology and from all what is known as gang stalking. 
 
-They say that they have created dictatorship like the Venezuelan and the North Korea ones. Probably strictly connected to the Vatican they operate on all over the world.
+Probably strictly connected to the Vatican they operate on all over the world.
 
-He has destroyed my life and the one of the girl that I'm love to. And I don't really know why, it seems to be that those criminals love to bet over the life of their sons, but at this point of the history I think that I'm not his blood son. Those son of bitches enjoy changing them son together doing what is known as **shell game** [[2]](https://en.wikipedia.org/wiki/Shell_game).
+He has destroyed my life and the one of the girl that I'm love to. And I don't really know why, it seems to be that those criminals love to bet over the life of their sons.
 
 This is what it has cost to me:
 
@@ -31,11 +31,7 @@ This is what it has cost to her:
 - Probably, but I don't really know, the life of her father.
 -  Utilized to find brain code in victims that have probably loose all of them activities, destroy them families or commit suicide.
 
-This is the digital Mafia from Genoa, a not document and hidden facility and I'm Riccardo Giuntoli the son of the "engineer".
+This is a not document and hidden facility and I'm Riccardo Giuntoli the son of the "engineer".
 
 *I and Saray, my ex girlfriend, need state protection to try to put in jail all of these criminals. Help.*
 
-### External Links
-
-1. https://en.wikipedia.org/wiki/2017_Barcelona_attacks
-2. https://en.wikipedia.org/wiki/Shell_game
