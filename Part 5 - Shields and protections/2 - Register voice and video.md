@@ -4,5 +4,8 @@
 
 This is an image obtained from the video transmission of the "Illuminati" facility. You can appreciate various human shapes and a ring with a diamond on it. In the image we can find eight figures that are humans transposed in a physical room. That was my room. 
 
+This is image is dated 11 of June 2019. Room is totally saturated by an electromagnetic field that I've sized in more than 800 **microTesla** [[1]](https://en.wikipedia.org/wiki/Tesla_(unit)). 
+
 ### External links
 
+1. https://en.wikipedia.org/wiki/Tesla_(unit)
