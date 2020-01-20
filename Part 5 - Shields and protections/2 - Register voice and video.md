@@ -6,6 +6,8 @@ This is an image obtained from the video transmission of the "Illuminati" facili
 
 This is image is dated 11 of June 2019. Room is totally saturated by an electromagnetic field that I've sized in more than 800 **microTesla** [[1]](https://en.wikipedia.org/wiki/Tesla_(unit)). 
 
+The figure that got more light on the left of the ring is without any doubt who I've called brother, Massimo. 
+
 Next is an example on how to register audio from voice to skull subliminal messages:
 
 https://soundcloud.com/redeltaglio/voice-to-skull-registration-1
