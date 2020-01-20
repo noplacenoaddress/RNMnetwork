@@ -63,6 +63,12 @@ This image is taken at 41º 25’ 10.57” N, 2º 09’ 48.39” E geographical 
 
 This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical coordinates that can be retrieve on **Instagram** [[11]](https://en.wikipedia.org/wiki/Instagram) on the social network profile of my old wireless Internet service provider dated on 27 of November 2019 stand out in grey you can appreciate part of the same installation. But there is no magnetic loop antenna. So, no extreme low frequencies, no brain network.
 
+![main mast of the ship](../Images/83109843_559132277973370_6242489809795139809_n (1).jpg)
+
+This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coordinates. Is the tower and is dominating the city of Barcelona. The place is an hill in the middle of the city that is full of ELF and SLF transmitters. The name is **Turó de la Rovira** [[12]](https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira) and is the principle tower of emission.  The "Illuminati" game is served by the black antenna, in this photo is at the second floor on the left. Other equal antennas are underlined. 
+
+This site has got a lot of others tower and all are operating in the lowest part of the radio spectrum.
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Monopoly_(game)
@@ -76,3 +82,5 @@ This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical c
 9. https://en.wikipedia.org/wiki/Tibidabo
 10. https://en.wikipedia.org/wiki/Google_Street_View
 11. https://en.wikipedia.org/wiki/Instagram
+12. [https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira](https://en.wikipedia.org/wiki/Turó_de_la_Rovira)
+
