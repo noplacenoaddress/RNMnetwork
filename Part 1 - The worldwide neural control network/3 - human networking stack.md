@@ -65,10 +65,6 @@ Once they get you unique electrical id they can start to harass you with voice t
 
 Many police and doctors in reality are corrupted officials that specifically use voice to skull to delete from society target individuals putting them in psychiatric hospitals. But they are not mental ill. 
 
-
-
-
-
 ### Physical layer
 
 ![Human body](../Images/human-muscles-new.jpg)
