@@ -14,6 +14,10 @@ This phantom third eye is nothing more than technology. Is the remote neural mon
 
 However techno music is very present, the first "Illuminati" games based on the fracture of a stable couple and always based upon remote parimutuel betting system and using radio waves as technology they can be located in the underground rooms of Italian progressive techno. Why is very present? It's simple in discotheques there is a lot of young people dancing and they can be considered places where special people are lured, usually girls, using drugs and this technology they can be slaved and evolved in sexual harassment.  
 
+And for the "tourist kill the city" collection here you are a photo album with all the towers that operate in all the spectrum but in reality very specialized upon ELF and SLF in this magic site:
+
+https://photos.google.com/share/AF1QipPKorxwMJ04DpD7nGMA4RWTWEnwtd2LXDS_iyPbkO4-vvt5tSNJIhTw6L2F1r2AiA?key=TFdFMVZ6YU1nbWlSeExjSG56RFVxNnR4cVJyS0l3
+
 
 
 ###  External links
