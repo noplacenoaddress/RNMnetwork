@@ -18,7 +18,11 @@ And for the "tourist kill the city" collection here you are a photo album with a
 
 https://photos.app.goo.gl/i9aknz413W48STsy7
 
+There is a special antenna in all those towers that connect with an enormous installation in the biggest tower of Barcelona. The state one. The **Collserola tower** [[15]](https://ca.wikipedia.org/wiki/Torre_de_Collserola).
 
+![point to point](../Images/ptpgordete.jpg)
+
+> *It's very probably that this virtual point to point radio bridge exist and it would actually show that governments are also playing in the gangstalking shop.* 
 
 ###  External links
 
@@ -36,3 +40,4 @@ https://photos.app.goo.gl/i9aknz413W48STsy7
 12. https://en.wikipedia.org/wiki/Illuminati
 13. https://en.wikipedia.org/wiki/Secret_society
 14. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
+15. https://ca.wikipedia.org/wiki/Torre_de_Collserola
