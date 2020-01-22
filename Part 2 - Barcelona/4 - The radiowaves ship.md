@@ -8,7 +8,7 @@ A Coptic cross is associated with Coptic Christians or better **Copts** [[5]](ht
 
 ![Illuminati](../Images/1920px-Eye_of_Horus_bw.svg.png)
 
-In the wikipedia article about the Coptic language on the right you can appreciate this symbol, that in the ancient Egypt was interpreted as the **eye of Horus** [[9]](https://en.wikipedia.org/wiki/Eye_of_Horus). In the "Illuminati" fraud, that in reality is a digital pseudo dictatorship that is destroying our democracy, this symbol is often use as what is called the **third eye** [[10]](https://en.wikipedia.org/wiki/Third_eye), that has got mystical and esoteric concept to deflect the attention of an investigator and to subdue weak minds in order to make them become slaves as sexual as being **drug dealer** [[11]](https://en.wikipedia.org/wiki/Drug_Dealer). 
+In the wikipedia article about the Coptic language on the right you can appreciate this symbol, that in the ancient Egypt was interpreted as the **eye of Horus** [[9]](https://en.wikipedia.org/wiki/Eye_of_Horus). In the "Illuminati" fraud, that in reality is a digital pseudo dictatorship that is destroying our democracy, this symbol is often use as what is called the **third eye** [[10]](https://en.wikipedia.org/wiki/Third_eye), that has got mystical and esoteric concept to deflect the attention of an investigator and to subdue weak minds in order to make them become slaves as sexual as being **drug dealer** [[11]](https://en.wikipedia.org/wiki/Drug_Dealer).  This is fraud take it root on Internet from the end of the nineties and has Genoese families as theorists. This fraud is a paramilitary group that has got hackers as soldiers.  
 
 ###  External links
 
