@@ -147,6 +147,12 @@ Let's explore some European and Spanish laws that can be applied to those monste
 
 First of all indicate that laws about virtual rape, that is the exact crime name, are not so exact in Europe.  
 
+### Health diseases
+
+![ELF radiation health](../Images/radiation_health.jpg)
+
+The remote neural monitoring network got a lot of health diseases that could ruin target individual's life that could be presented to a penal court:  
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Human_trafficking
