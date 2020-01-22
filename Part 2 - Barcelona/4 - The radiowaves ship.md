@@ -24,6 +24,28 @@ There is a special antenna in all those towers that connect with an enormous ins
 
 > *It's very probably that this virtual point to point radio bridge exist and it would actually show that governments are also playing in the gangstalking shop.* 
 
+### BCNLabernia
+
+![BCNLabernia](../Images/BCNlabernia.png)
+
+BCNLabernia is an important supernode of the Guifi.net network. And it is located where is the radio waves ship in Turrò Rovira. 
+
+It is an important weak point if someone want to try to digitally enter in the digital ship. Let's analyze together what equipments we've got here:
+
+![BCNLabernia](../Images/bcnlabernia.png)
+
+- 6x **Ubiquiti** [[16]](https://www.ui.com/) **PowerBeam** [[17]](https://www.ui.com/airmax/powerbeam/) 
+- 2x Ubiquiti **NanoBeam** [[18]](https://www.ui.com/airmax/nanobeam-ac-gen2/)
+- 2x Ubiquiti **RocketM** [[19]](https://dl.ubnt.com/datasheets/rocketm/RocketM_DS.pdf)
+
+The last one are outdated and discontinued products. What does it means? That probably has got some vulnerability opened. And Ubiquiti was under the microscope for a pair of public exploit that was possible to find in the web portal **exploit-db** [[20]](https://www.exploit-db.com/):
+
+- **Administration portal remote command execution** [[21]](https://www.exploit-db.com/exploits/40044)
+- **Metasploit** [[22]](https://en.wikipedia.org/wiki/Metasploit_Project) - **Arbitrary File Upload** [[23]](https://www.exploit-db.com/exploits/39853)
+- **Authenticated remote command execution** [[24]](https://www.exploit-db.com/exploits/23735)
+
+
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Slang
@@ -41,3 +63,12 @@ There is a special antenna in all those towers that connect with an enormous ins
 13. https://en.wikipedia.org/wiki/Secret_society
 14. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
 15. https://ca.wikipedia.org/wiki/Torre_de_Collserola
+16. https://www.ui.com/
+17. https://www.ui.com/airmax/powerbeam/
+18. https://www.ui.com/airmax/nanobeam-ac-gen2/
+19. https://dl.ubnt.com/datasheets/rocketm/RocketM_DS.pdf
+20. https://www.exploit-db.com/
+21. https://www.exploit-db.com/exploits/40044
+22. https://en.wikipedia.org/wiki/Metasploit_Project
+23. https://www.exploit-db.com/exploits/39853
+24. https://www.exploit-db.com/exploits/23735
