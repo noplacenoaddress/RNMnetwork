@@ -1,6 +1,4 @@
-*I was electronic tortured by these facility and i personally know all the organization chart*
-
-# The leader of the Illuminati
+# Organization chart
 
 ![Stupid little bitch](../Images/71-noRUB19L._SS500_.jpg)
 

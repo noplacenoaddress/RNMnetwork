@@ -4,6 +4,8 @@
 
 The neural control network got it layer one based on radio high power electromagnetic emissions. The results is the neural control monitoring network build upon this and **electrosmog** [[1]](https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health),  unnatural **electromagnetic field** [[2]](https://en.wikipedia.org/wiki/Electromagnetic_field) and **electromagnetic interference** [[3]](https://en.wikipedia.org/wiki/Electromagnetic_interference). Human body and human magnetic field produced by different organs.
 
+
+
 ### Magnets 
 
 ![](../Images/GettyImages-147220256-56a8282.jpg)
