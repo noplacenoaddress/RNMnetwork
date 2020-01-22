@@ -67,7 +67,7 @@ This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical c
 
 This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coordinates. Is the tower and is dominating the city of Barcelona. The place is an hill in the middle of the city that is full of ELF and SLF transmitters. The name is **Turó de la Rovira** [[12]](https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira) and is the principle tower of emission.  The "Illuminati" game is served by the black antenna, in this photo is at the second floor on the left. Other equal antennas are underlined. 
 
-This site has got a lot of others tower and all are operating in the lowest part of the radio spectrum.
+This site has got a lot of others tower and all are operating in the lowest part of the radio spectrum. We will speak more about this site in the fourth chapter. 
 
 ###  External links
 
