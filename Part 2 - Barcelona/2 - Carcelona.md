@@ -61,9 +61,9 @@ This image is taken at 41º 25’ 10.57” N, 2º 09’ 48.39” E geographical 
 
 ![](../Images/75576725_149927382999364_7626195554552197202_n.jpg)
 
-This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical coordinates that can be retrieve on **Instagram** [[11]](https://en.wikipedia.org/wiki/Instagram) on the social network profile of my old wireless Internet service provider dated on 27 of November 2019 stand out in grey you can appreciate part of the same installation. But there is no magnetic loop antenna. So, no extreme low frequencies, no brain network.
+This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical coordinates that can be retrieve on **Instagram** [[11]](https://en.wikipedia.org/wiki/Instagram) on the social network profile of my old wireless Internet service provider dated on 27 of November 2019 stand out in gray you can appreciate part of the same installation. But there is no magnetic loop antenna. So, no extreme low frequencies, no brain network.
 
-![main mast of the ship](../Images/83109843_559132277973370_6242489809795139809_n (1).jpg)
+![main mast of the ship](../Images/83109843_559132277973370_6242489809795139809_n.jpg)
 
 This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coordinates. Is the tower and is dominating the city of Barcelona. The place is an hill in the middle of the city that is full of ELF and SLF transmitters. The name is **Turó de la Rovira** [[12]](https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira) and is the principle tower of emission.  The "Illuminati" game is served by the black antenna, in this photo is at the second floor on the left. Other equal antennas are underlined. 
 
