@@ -16,7 +16,7 @@ However techno music is very present, the first "Illuminati" games based on the 
 
 And for the "tourist kill the city" collection here you are a photo album with all the towers that operate in all the spectrum but in reality very specialized upon ELF and SLF in this magic site:
 
-https://photos.google.com/share/AF1QipPKorxwMJ04DpD7nGMA4RWTWEnwtd2LXDS_iyPbkO4-vvt5tSNJIhTw6L2F1r2AiA?key=TFdFMVZ6YU1nbWlSeExjSG56RFVxNnR4cVJyS0l3
+https://photos.app.goo.gl/i9aknz413W48STsy7
 
 
 
