@@ -12,6 +12,10 @@ In the wikipedia article about the Coptic language on the right you can apprecia
 
 This phantom third eye is nothing more than technology. Is the remote neural monitoring network. And the hill in the middle of Barcelona is the telecommunication center of this facility but here people doesn't work physically all is done in remote with IoT devices acting as bridges. This telecommunication center, "the ship", is known also as the "*cathedral of techno*", but not the music, the technological department of those criminals. 
 
+However techno music is very present, the first "Illuminati" games based on the fracture of a stable couple and always based upon remote parimutuel betting system and using radio waves as technology they can be located in the underground rooms of Italian progressive techno. Why is very present? It's simple in discotheques there is a lot of young people dancing and they can be considered places where special people are lured, usually girls, using drugs and this technology they can be slaved and evolved in sexual harassment.  
+
+
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Slang
