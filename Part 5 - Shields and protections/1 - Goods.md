@@ -57,9 +57,46 @@ It's also possible to buy a small radio transmitter USB to connect to a smart ph
 
 ![QuWave](../Images/asdfasdf.jpg)
 
+**QuWave** [[15]](https://quwave.com/index.html) **defender** [[16]](https://quwave.com/defender.html) is a commercial product that guarantee that ELF and SLF frequencies cannot operate upon our brain. The web page isn't well presented and as almost always speaking of this technology it has references to the mystic. As you can see from the image, immunity is guaranteed together with a jammer against dream injection and remote EEG reading and writing. The worst think for this product is the price that round the four hundreds dollars. One positive point is that this manufacturer utilize a policy of **satisfaction guarantee** [[17]](https://quwave.com/policies.html#satisfactionguarantee), if the product isn't able to stop electronic harassment  they sold it with an unconditional 30 days money back guarantee.
 
+### ZVS Driver
 
-### External links
+![ZVS Driver](../Images/colored_schem.png)
+
+In the remote neural monitoring network when you're a target individual you're line under an electromagnetic bell where all the stalkers that has got access to the electromagnetic unique id of the bell can visualize you like you're under a series of video cameras. This seems to be impossible to technical explain but it's true they can film you as you are en front of a movie set. 
+
+With the first products that I've described we guarantee that remote viewing isn't possible so stalkers cannot retransmit what you see. 
+
+With a **ZVS Driver** [[18]](https://youtu.be/0ldSaiY-BWA) we can make it impossible to remotely view our home or surrounding environment, here is the technical description copied from this **website** [[19]](https://adammunich.com/zvs-driver/):
+
+>   A “ZVS driver” is a very simple circuit that can oscillate a large amount of power with about 90% efficiency. To the right exists a simplified version of the oscillator, so take a good look!
+>
+> When power is applied at +V current starts to flow through both sides of the primary and on to the mosfets’ drains. Simultaneously that voltage appears on both of the mosfets’ gates and starts to turn them on. Because no two components are exactly alike one mosfet turns on a little faster than the other one and more current can then flow through that fet. The extra current flowing in that side of the primary robs the gate current from the other fet and starts to turn it off. A condenser forms an LC tank with the primary and the voltage proceeds to rise and fall sinusoidally. If it were not for that capacitor, the current would continue to increase until the transformer’s core saturated and the mosfets exploded.
+>
+> Imagine that Q1 was the first to turn on. The voltage at point Y will be at near ground while the voltage at Z rises to a peak and falls back down as the LC tank goes through one half cycle. As the voltage at Z passes through zero the gate current to Q1 is removed and the mosfet turns off. The voltage at point Y is now allowed to start rising and Q2 turns on. That mosfet clamps the voltage at Z to ground; something that makes sure Q1 stays off. This same process repeats for Q2 completing the other half cycle, and the oscillator continues cycling. In order to prevent the oscillator from drawing huge peak currents and exploding, L1 is added in series with +V as a choke. The LC impedance is what limits the actual current (the choke just mitigates current spikes).
+>
+> ![img](http://adammunich.com/wp-content/uploads/2010/12/zvs.png)
+>
+> A keen eye will notice that this oscillator is zero-voltage switching (ZVS), meaning that the mosfets switch when they have zero volts across them. This is good because it allows the mosfets to switch when they are carrying the least power; something that for the most part eliminates the switching losses which generate huge amounts of heat. This means only small heat sinks are needed, even when oscillating 1000 watts!
+>
+> Being a resonant oscillator the frequency that the mazilli will run at is determined by the inductance of the transformer’s primary coil and the capacitor. You can use the following formula to figure this out:
+>
+> ***f*** = 1 / ( 2π * √[**L** * **C]** )
+>
+> *f* is the frequency in Hertz
+> L is the inductance of the primary in Henries
+> C is the capacitance of the capacitor in Farads
+>
+> Now in reality mosfets are rather fragile components and if the gates are +/- more than 30V from the source the mosfets will be destroyed, or at least degraded significantly. In order to prevent this scenario from occurring we’ll need gate protection; something easily added with a few extra components. See the schematic to the right.
+>
+> • The 470 ohm resistors limit the current that charges the gates as too much gate current can cause damage.
+> • The 10K resistors pull the gates down to ground to prevent latchup; a process in which the mosfet gets stuck on.
+> • The Zener diodes prevent the gate voltage from exceeding either 12, 15 or 18V depending on the zeners you use.
+> • The UF4007 diodes pull the gates down to ground when the voltage on the opposite leg of the tank is at ground.
+>
+> One may notice that instead of charging the gates with the LC tank we are instead using +V to charge them up and we are using the LC tank to discharge them via the ultrafast diodes. This improves the overall performance of the circuit.
+
+### External Links
 
 1. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
 2. https://en.wikipedia.org/wiki/Electromagnetic_field
@@ -75,3 +112,8 @@ It's also possible to buy a small radio transmitter USB to connect to a smart ph
 12. https://en.wikipedia.org/wiki/Radio_jamming
 13. https://greatscottgadgets.com/hackrf/
 14. https://www.nooelec.com/store/sdr/sdr-addons/ham-it-up.html
+15. https://quwave.com/index.html
+16. https://quwave.com/defender.html
+17. https://quwave.com/policies.html#satisfactionguarantee
+18. https://youtu.be/0ldSaiY-BWA
+19. https://adammunich.com/zvs-driver/
