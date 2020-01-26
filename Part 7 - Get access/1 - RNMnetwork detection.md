@@ -8,6 +8,13 @@ From **How to Make a Directed Energy Weapon Detection System for Less Than $50**
 
 ![Human resonance frequencies](../Images/rubik-figure20-02.jpg)
 
+I want to build two systems to detect transmissions and signals from the remote neural monitoring network, one in an indoor environment the other in my roof with a semi professional installation in outdoor.
+
+### Indoor
+
+
+
+
 ### External Links
 
 1. https://www.instructables.com/id/How-to-Make-a-Directed-Energy-Weapon-Detection-Sys
