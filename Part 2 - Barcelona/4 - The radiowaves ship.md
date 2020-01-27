@@ -24,6 +24,12 @@ There is a special antenna in all those towers that connect with an enormous ins
 
 > *It's very probably that this virtual point to point radio bridge exist and it would actually show that governments are also playing in the gangstalking shop.* 
 
+### Carmel bunkers
+
+
+
+
+
 ### BCNLabernia
 
 ![BCNLabernia](../Images/BCNlabernia.png)
