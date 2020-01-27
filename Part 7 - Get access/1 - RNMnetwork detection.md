@@ -8,7 +8,30 @@ From **How to Make a Directed Energy Weapon Detection System for Less Than $50**
 
 ![Human resonance frequencies](../Images/rubik-figure20-02.jpg)
 
+I want to build a system to detect transmissions and signals from the remote neural monitoring network, a scanner based on software defined radios. 
+
+First of we've to consider that the services are various, so there can be also various point of transmission and also it's possible that some are not terrestrial radio wave, but from the sky. So those are our point of interest:
+
+- Neural control network from the church is using **Schumann resonances** [[3]](https://en.wikipedia.org/wiki/Schumann_resonances) as layer of conduction. So we've to build a special ELF parabolic dish pointing to the Earth electromagnetic field.
+- Neural control network from the state is using LTE towers so we've to point to the nearest one with a dish or something directional.
+- Voice to skull subliminal messages from the state is using mast antennas so we've to find the nearest one and build a ML antenna, I say build because there is no in the market.
+- "Illuminati" game network is using terrestrial towers like the ones that I describe before so we've got to find the nearest one. 
+
+If we cannot find the nearest transmission towers we've got to use a technique called **direction finding** [[4]](https://en.wikipedia.org/wiki/Direction_finding) or use a omnidirectional antenna that could operate in a wide rage, this is without any doubt a type of antenna called **discone antenna** [[5]](https://en.wikipedia.org/wiki/Discone_antenna).
+
+Next that we've build a scanner and obtained the modulation and information included in the signal received we can try to build a transmission station, but this could be very difficult to obtain.
+
+### SDR based scanner
+
+![HackRF SDR](../Images/SDR_HackRF_one_PCB.jpg)
+
+
+
+
 ### External Links
 
 1. https://www.instructables.com/id/How-to-Make-a-Directed-Energy-Weapon-Detection-Sys
 2. https://en.wikipedia.org/wiki/Remote_sensing
+3. https://en.wikipedia.org/wiki/Schumann_resonances
+4. https://en.wikipedia.org/wiki/Direction_finding
+5. https://en.wikipedia.org/wiki/Discone_antenna
