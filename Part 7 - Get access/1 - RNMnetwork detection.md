@@ -27,7 +27,7 @@ My physical position is **41.26667 , 1.76667** [[6]](https://goo.gl/maps/HjF6v9v
 
 ![HackRF SDR](../Images/SDR_HackRF_one_PCB.jpg)
 
-
+What we've got to build is an array of different type of antennas depending on the frequency, two software defined radio of medium quality to scan the spectrum, an antenna splitter, various antenna tuner possibly automated with a IoT, and a computer with a good ham radio linux distribution.
 
 
 ### External Links
