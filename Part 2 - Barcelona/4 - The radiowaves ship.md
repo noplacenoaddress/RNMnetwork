@@ -28,7 +28,7 @@ There is a special antenna in all those towers that connect with an enormous ins
 
 ![Carmel bunkers](../Images/1_aerial_min.jpg)
 
-
+In Turo of Rovira where the telecommunications towers of the radio waves "ship" are installed 
 
 
 
