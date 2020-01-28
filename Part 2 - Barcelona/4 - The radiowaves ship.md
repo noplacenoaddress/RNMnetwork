@@ -24,6 +24,14 @@ There is a special antenna in all those towers that connect with an enormous ins
 
 > *It's very probably that this virtual point to point radio bridge exist and it would actually show that governments are also playing in the gangstalking shop.* 
 
+### Carmel bunkers
+
+![Carmel bunkers](../Images/1_aerial_min.jpg)
+
+In Turo of Rovira where the telecommunications towers of the radio waves "ship" are installed 
+
+
+
 ### BCNLabernia
 
 ![BCNLabernia](../Images/BCNlabernia.png)

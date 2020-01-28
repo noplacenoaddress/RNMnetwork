@@ -21,11 +21,13 @@ If we cannot find the nearest transmission towers we've got to use a technique c
 
 Next that we've build a scanner and obtained the modulation and information included in the signal received we can try to build a transmission station, but this could be very difficult to obtain.
 
+My physical position is **41.26667 , 1.76667** [[6]](https://goo.gl/maps/HjF6v9vgvKa4GEHe8).
+
 ### SDR based scanner
 
 ![HackRF SDR](../Images/SDR_HackRF_one_PCB.jpg)
 
-
+What we've got to build is an array of different type of antennas depending on the frequency, two software defined radio of medium quality to scan the spectrum, an antenna splitter, various antenna tuner possibly automated with a IoT, and a computer with a good ham radio linux distribution.
 
 
 ### External Links
@@ -35,3 +37,4 @@ Next that we've build a scanner and obtained the modulation and information incl
 3. https://en.wikipedia.org/wiki/Schumann_resonances
 4. https://en.wikipedia.org/wiki/Direction_finding
 5. https://en.wikipedia.org/wiki/Discone_antenna
+6. https://goo.gl/maps/HjF6v9vgvKa4GEHe8
