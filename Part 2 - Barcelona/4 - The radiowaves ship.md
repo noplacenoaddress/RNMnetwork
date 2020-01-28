@@ -28,7 +28,7 @@ There is a special antenna in all those towers that connect with an enormous ins
 
 ![Carmel bunkers](../Images/1_aerial_min.jpg)
 
-In Turo of Rovira where the telecommunications towers of the radio waves "ship" are installed 
+In Turo of Rovira where the telecommunications towers of the radio waves "ship" are installed there is a **Spanish civil war** [[16]](https://en.wikipedia.org/wiki/Spanish_Civil_War) **bunker** [[17]](https://en.wikipedia.org/wiki/Bunker).
 
 
 
@@ -71,12 +71,14 @@ The last one are outdated and discontinued products. What does it means? That pr
 13. https://en.wikipedia.org/wiki/Secret_society
 14. https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
 15. https://ca.wikipedia.org/wiki/Torre_de_Collserola
-16. https://www.ui.com/
-17. https://www.ui.com/airmax/powerbeam/
-18. https://www.ui.com/airmax/nanobeam-ac-gen2/
-19. https://dl.ubnt.com/datasheets/rocketm/RocketM_DS.pdf
-20. https://www.exploit-db.com/
-21. https://www.exploit-db.com/exploits/40044
-22. https://en.wikipedia.org/wiki/Metasploit_Project
-23. https://www.exploit-db.com/exploits/39853
-24. https://www.exploit-db.com/exploits/23735
+16. https://en.wikipedia.org/wiki/Spanish_Civil_War
+17. https://en.wikipedia.org/wiki/Bunker
+18. https://www.ui.com/
+19. https://www.ui.com/airmax/powerbeam/
+20. https://www.ui.com/airmax/nanobeam-ac-gen2/
+21. https://dl.ubnt.com/datasheets/rocketm/RocketM_DS.pdf
+22. https://www.exploit-db.com/
+23. https://www.exploit-db.com/exploits/40044
+24. https://en.wikipedia.org/wiki/Metasploit_Project
+25. https://www.exploit-db.com/exploits/39853
+26. https://www.exploit-db.com/exploits/23735
