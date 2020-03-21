@@ -32,6 +32,16 @@ Many times people don't understand why they are target individuals? They do mone
 
 Look at the image above. It say "contract stalking". What does it mean? It means that someone, probably persons that you know very well like "friends" of yours, have contracted this service in the synthetic telepathy network to oblige you to commit suicide. Who they are? It's very simple revise with clear mind the years before that this provoked situations has affected your life. Try to draw a graph as a function of time and nefarious events. You will find that those friends could be also your family. Someone that you've call brother. Like me. But why all of this shit could happen to a normal guy? The reply it's only one, envies one of the **seven deadly sins** [[11]](https://en.wikipedia.org/wiki/Seven_deadly_sins). Or something that you haven't under your control, an inheritance. Or simply your business, that provoke interest in some medium size shark. As usual I'm victim of the three cases.
 
+### Child trafficking
+
+![Target individual cycle to suicide](../Images/90109249_685665235538391_8909022710445637632_n.jpg)
+
+*-- re cycle, garbage --* 
+
+**Trafficking of children** [[12]](https://en.wikipedia.org/wiki/Trafficking_of_children) is almost always for the purpose of slavery, forced labor and exploitation. Forced labor in the civilized west is strictly connected to prostitution and drug market. Child trafficking is protected by a deep layer of obfuscation just as the remote neural monitoring facility. What does I mean? What I mean is that who are the real perpetrators of this type of human traffic are protected by proxies, by others entities like Mafia, like nobles of low and middle size families and types (Marquis and Counts normally) or by others class of illegal societies most of the time classified by the real perpetrators that are who control society as terrorist or mercenary commands. Proxy in these case are also legal institutions if we speak about the Catholic church. Normally are congregation of believers led by a great businessman who in the case of the church can be recognized as an archbishop. In the case of extremely big noble families could be civilian group and institution that are on the limit of criminality for the rest of the society. 
+
+*I'm victim of child trafficking and I want to build a real **resistance** to put in clear water all about this type of being a target individual. **I'm a machine pokemon**. Who know what is know what I mean, who don't could think that I'm not normal, but yes I am.* 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Octopus
@@ -45,3 +55,4 @@ Look at the image above. It say "contract stalking". What does it mean? It means
 9. https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 10. https://en.wikipedia.org/wiki/James_Cameron
 11. https://en.wikipedia.org/wiki/Seven_deadly_sins
+12. https://en.wikipedia.org/wiki/Trafficking_of_children

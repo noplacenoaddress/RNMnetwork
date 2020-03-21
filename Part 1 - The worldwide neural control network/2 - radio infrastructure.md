@@ -23,6 +23,8 @@ The technologies are a mixture between analog and IP. All is public but no one h
 
 ![Power lines transposition](../Images/powerlinetranspotion.jpg)
 
+*-- tutte le strade portano a roma --*
+
 Medium frequencies are the band utilized by ancient fascism and church to create subliminal message systems that produce sound directly into our head. This is not exactly brain wave but it utilize technology to bypass the auditory system in the humans and also in some animals.
 
 In Spain still exist the infrastructure that use Franco at the time of fascism which ended much later in this state than in the rest of Europe. It fell naturally, practically without violence, in the mid-seventies. All this is synonymous that the ruling class, the political class and a good part of the noble families of this country still have a vivid memory of absolutism, very much alive.
