@@ -2,8 +2,6 @@
 
 ![Synthetic Telepathy network](../Images/redtelepatia.jpg)
 
-
-
 This is the network scheme of the "Illuminati" criminal network **data center** [[17]](https://en.wikipedia.org/wiki/Data_center). Let's analyses device by device what is the synthetic telepathy network, a telecommunication facility that is changing in my opinion all Europe and is determining a right turning in our governments. It's very dangerous and probably it's the start of what i think it could be a **neo nazism** [[18]](https://en.wikipedia.org/wiki/Neo-Nazism) digital dictatorship and a start of a alpha stage of what we found in Internet named as **cyberwarfare** [[19]](https://en.wikipedia.org/wiki/Cyberwarfare).
 
 In Internet we can find a lot of references about the synthetic telepathy network by **metaphors** [[20],](https://en.wikipedia.org/wiki/Metaphor) or what is called nowadays as **Internet meme** [[21]](https://en.wikipedia.org/wiki/Metaphor). 
