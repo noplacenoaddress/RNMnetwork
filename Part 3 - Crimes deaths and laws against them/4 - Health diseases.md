@@ -47,6 +47,14 @@ Speaking about diabetes in my case from November 2017 when I was "opened" to 18 
 
 This is an irrefutable proof that *I'm being tortured* in the Spanish fascist remote neural control network by nobles families in front of all the citizen because all of them in Spain are under active control and have been tortured in Catalunya by the Franco regime.  
 
+Who is it possible? With radio frequency torture under the magnetic bell it's possible to directly affect the functions of internals organs.  
+
+In my case I can directly fell like direct current or near direct current feelings in those organs:
+
+- **Pancreas** [[35]](https://en.wikipedia.org/wiki/Pancreas) (this is why I've got high glucose levels)
+- **Lungs** [[36]](https://en.wikipedia.org/wiki/Lung)
+- **Kidneys** [[37]](https://en.wikipedia.org/wiki/Kidney)
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Brain_tumor
@@ -116,6 +124,12 @@ This is an irrefutable proof that *I'm being tortured* in the Spanish fascist re
 33. https://en.wikipedia.org/wiki/Hypothermia
 
 34. https://en.wikipedia.org/wiki/Blood_sugar_level
+
+35. https://en.wikipedia.org/wiki/Pancreas
+
+36. https://en.wikipedia.org/wiki/Lung
+
+37. https://en.wikipedia.org/wiki/Kidney
 
     
 
