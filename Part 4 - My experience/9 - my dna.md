@@ -14,8 +14,12 @@ Always theoretically my principle **ethnic group** [[7]](https://en.wikipedia.or
 
 In the second and third option the explanation is very simple from DNA. Has you can appreciate the south European group is subdivided into two others leafs, **Iberian** [[9]](https://en.wikipedia.org/wiki/Iberians) and Greek - south Italian one. In this case it could mean that one of the twos parents had to be from Spain and the other from Greece. Why I say this? Simple it's very important to underline that I've got also 6.4% of DNA segments that pertains to the north African ethnic group and a 16.2% to the Balkan one. Now the key of lecture could be this:
 
--  In the past in the VIII century Spain was been dominated by the Arabs of north Africa in what was described has the **Umayyad conquest of Hispania** [[9]](https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania), so the 6.4% is can be connected with the Iberian group and it will form 45.8%.
-- 
+-  In the past in the VIII century Spain was been dominated by the Arabs of north Africa in what was described has the **Umayyad conquest of Hispania** [[10]](https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania), so the 6.4% is can be connected with the Iberian group and it will form 45.8%.
+- The Greek group is the 34.4% but it contain also south Italy. But in the key of lecture that there is also a 16.2% of Balkan group the total is 50.6%.
+
+Always remaining in this possible interpretation the option of exchange of cots is very difficult to apply because theoretically I was born in Genoa. The options that could be applied it's the most terrifying but it will explain why I was under a magnetic bell where nobles and big business man play with remote parimutuel betting system over my life, a noble game. The ghost of **trafficking of children** [[11]](https://en.wikipedia.org/wiki/Trafficking_of_children) is very clear and clearly could be the real explanation why I suffer a fascist persecution in Barcelona on 2018 and they have systematically destroyed my life. The worst think is that my parents are presents in this neural control network. And all of my friends and ex girlfriends. A lot of famous people also. A scandal. My parents say that I'm crazy but I've got a lot of telephone registrations and whatsup messages with subtle threats and allusions to the fact.
+
+> *This could be the key and the real explication.* 
 
 ### External links
 
@@ -29,3 +33,4 @@ In the second and third option the explanation is very simple from DNA. Has you 
 8. https://en.wikipedia.org/wiki/DNA
 9. https://en.wikipedia.org/wiki/Iberians
 10. https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania
+11. https://en.wikipedia.org/wiki/Trafficking_of_children
