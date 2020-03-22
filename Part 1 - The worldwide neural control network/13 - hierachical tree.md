@@ -27,10 +27,6 @@ This system was inspired by the **Italian navy** [[7]](https://en.wikipedia.org/
 *Please help, my ex girlfriend is slaved by this system. Help me.*
 
 
-
-
-
-
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Human_physical_appearance

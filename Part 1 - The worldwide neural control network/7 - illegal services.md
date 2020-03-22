@@ -56,11 +56,7 @@ From the name of "Luz de Gas", a practice that without technology was executed a
 
 But what is a pseudo dictatorship? Is a form of a state under the declared state. *A B*-side of the democracy where black markets, stalkings, sexual harassments, illegal control is done. Normally is regulated by a **pyramid structure **[[13]](https://en.wikipedia.org/wiki/Organization#Pyramids_or_hierarchies) with **paramilitary** [[14]](https://en.wikipedia.org/wiki/Paramilitary) or **mercenary** [[15]](https://en.wikipedia.org/wiki/Mercenary) forces controlling the victims that fall in with a gangstalking or the workers, drug sellers or prostitute. 
 
-
-
 ### The gangstalking "game"
-
-
 
 ![](../Images/trote.jpg)
 

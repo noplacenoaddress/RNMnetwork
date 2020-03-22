@@ -42,6 +42,12 @@ Look at the image above. It say "contract stalking". What does it mean? It means
 
 *I'm victim of child trafficking and I want to build a real **resistance** to put in clear water all about this type of being a target individual. **I'm a machine pokemon**. Who know what is know what I mean, who don't could think that I'm not normal, but yes I am.* 
 
+Forced labor in the remote monitoring network mostly is subliminal. I want to underline that target individuals could be conscious or not. A lot of technology facilities and military ones also use the target individual program, that nothing more is like a farm where humankind is treaty like a remote development laboratory, to develop new high class technologies. People under this slavery when "opened", that means where they fall under a remote betting bell whit feelings and voice to skull subliminal voices directly to the brain, enter in a industrial assembly line where normally, like you can appreciate from the image above, them life is systematically destroyed to obtain death with suicide. This is so curious because one of the most important institution below this technological monster is the Catholic church  and we've got to remember that they consider suicide like a infinite hell damnation. So curious. 
+
+When I speak about resistance I mean that people that are under this slavery open them eyes to deeply understand who and what are below them damnation, that is not a damnation it's only the digital Mafia. Nothing more than criminals and we're protected by laws and International agreements that could destroy all of them. This is the real power of democracy, build a strong group guided by clever and not ignorant mans and womans to help all in front at those monster. Nothing more nothing less. They say that we cannot speak about them crimes but we've got all the tools needed to fight against. In the industrial line of assembly chart you can appreciate that when they start to abuse you after that you can feel them tortures the next step is to became an abuser, so another piece of the game table. We cannot play, the game is illegal and we've suffered this game. The game has to be destroyed and we've to put them in jail. Nothing more nothing less. 
+
+> *Not all of them are bad people, someone is good but has grown in this system. This is not them fault they are only ignorance.* 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Octopus
