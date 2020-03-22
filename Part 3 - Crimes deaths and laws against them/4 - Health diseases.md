@@ -33,6 +33,30 @@ Those are the illness provoked by this torture:
 - **Yawning** [[22]](https://en.wikipedia.org/wiki/Yawn) as a nervous **reflex** [[23]](https://en.wikipedia.org/wiki/Reflex) provoked by **stress** [[24]](https://en.wikipedia.org/wiki/Stress_(biology))
 - **Hallucinations** [[25]](https://en.wikipedia.org/wiki/Hallucination)
 - **Immunodeficiency** [[26]](https://en.wikipedia.org/wiki/Immunodeficiency)
+- Risk of **type 2 diabetes** [[27]](https://en.wikipedia.org/wiki/Type_2_diabetes)
+- **Hypertensive heart disease** [[28]](https://en.wikipedia.org/wiki/Hypertensive_heart_disease)
+- **Tremor** [[29]](https://en.wikipedia.org/wiki/Tremor)
+- **Myalgia** [[30]](https://en.wikipedia.org/wiki/Myalgia)
+- **Obesity** [[31]](https://en.wikipedia.org/wiki/Obesity)
+- **Growth hormone deficiency** [[32]](https://en.wikipedia.org/wiki/Growth_hormone_deficiency)
+- **Hyphotermia** [[33]](https://en.wikipedia.org/wiki/Hypothermia)
+
+![Glucosa](../Images/2.png)
+
+Speaking about diabetes in my case from November 2017 when I was "opened" to 18 of December 2019 my **blood sugar level** [[34]](https://en.wikipedia.org/wiki/Blood_sugar_level) have grow to abnormal level falling near diabetes levels.
+
+This is an irrefutable proof that *I'm being tortured* in the Spanish fascist remote neural control network by nobles families in front of all the citizen because all of them in Spain are under active control and have been tortured in Catalunya by the Franco regime.  
+
+Who is it possible? With radio frequency torture under the magnetic bell it's possible to directly affect the functions of internals organs.  
+
+In my case I can directly fell like direct current or near direct current feelings in those organs:
+
+- **Pancreas** [[35]](https://en.wikipedia.org/wiki/Pancreas) (this is why I've got high glucose levels)
+- **Lungs** [[36]](https://en.wikipedia.org/wiki/Lung)
+- **Kidneys** [[37]](https://en.wikipedia.org/wiki/Kidney)
+- **Penis** [[38]](https://en.wikipedia.org/wiki/Human_penis)
+
+
 
 ### External links
 
@@ -87,6 +111,30 @@ Those are the illness provoked by this torture:
 25. https://en.wikipedia.org/wiki/Hallucination
 
 26. https://en.wikipedia.org/wiki/Immunodeficiency
+
+27. https://en.wikipedia.org/wiki/Type_2_diabetes
+
+28. https://en.wikipedia.org/wiki/Hypertensive_heart_disease
+
+29. https://en.wikipedia.org/wiki/Tremor
+
+30. https://en.wikipedia.org/wiki/Myalgia
+
+31. https://en.wikipedia.org/wiki/Obesity
+
+32. https://en.wikipedia.org/wiki/Growth_hormone_deficiency
+
+33. https://en.wikipedia.org/wiki/Hypothermia
+
+34. https://en.wikipedia.org/wiki/Blood_sugar_level
+
+35. https://en.wikipedia.org/wiki/Pancreas
+
+36. https://en.wikipedia.org/wiki/Lung
+
+37. https://en.wikipedia.org/wiki/Kidney
+
+38. https://en.wikipedia.org/wiki/Human_penis
 
     
 
