@@ -1,4 +1,8 @@
-# My DNA
+# Reasons
+
+Why I'm under a magnetic bell in the remote neural control network in Spain? What I've done to the outside world to be damned with those electronic tortures? Why absolutely all the persons that I've known in my life are present in this network someone doing stalking, others playing in remote parimutuel betting system and others torturing me? What is this shit? Am I a bad person? No I'm not. Absolutely.
+
+### DNA
 
 ![My DNA](../Images/dna.jpg)
 
