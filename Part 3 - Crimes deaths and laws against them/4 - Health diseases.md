@@ -30,6 +30,9 @@ Those are the illness provoked by this torture:
 
 - **Irritability** [[20]](https://en.wikipedia.org/wiki/Irritability)
 - **Amnesia** [[21]](https://en.wikipedia.org/wiki/Amnesia)
+- **Yawning** [[22]](https://en.wikipedia.org/wiki/Yawn) as a nervous **reflex** [[23]](https://en.wikipedia.org/wiki/Reflex) provoked by **stress** [[24]](https://en.wikipedia.org/wiki/Stress_(biology))
+- **Hallucinations** [[25]](https://en.wikipedia.org/wiki/Hallucination)
+- **Immunodeficiency** [[26]](https://en.wikipedia.org/wiki/Immunodeficiency)
 
 ### External links
 
@@ -74,6 +77,16 @@ Those are the illness provoked by this torture:
 20. https://en.wikipedia.org/wiki/Irritability
 
 21. https://en.wikipedia.org/wiki/Amnesia
+
+22. https://en.wikipedia.org/wiki/Yawn
+
+23. https://en.wikipedia.org/wiki/Reflex
+
+24. https://en.wikipedia.org/wiki/Stress_(biology)
+
+25. https://en.wikipedia.org/wiki/Hallucination
+
+26. https://en.wikipedia.org/wiki/Immunodeficiency
 
     
 
