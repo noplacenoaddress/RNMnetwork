@@ -33,6 +33,11 @@ Those are the illness provoked by this torture:
 - **Yawning** [[22]](https://en.wikipedia.org/wiki/Yawn) as a nervous **reflex** [[23]](https://en.wikipedia.org/wiki/Reflex) provoked by **stress** [[24]](https://en.wikipedia.org/wiki/Stress_(biology))
 - **Hallucinations** [[25]](https://en.wikipedia.org/wiki/Hallucination)
 - **Immunodeficiency** [[26]](https://en.wikipedia.org/wiki/Immunodeficiency)
+- Risk of **type 2 diabetes** [[27]](https://en.wikipedia.org/wiki/Type_2_diabetes)
+- **Hypertensive heart disease** [[28]](https://en.wikipedia.org/wiki/Hypertensive_heart_disease)
+- **Tremor** [[29]](https://en.wikipedia.org/wiki/Tremor)
+- **Myalgia** [[30]](https://en.wikipedia.org/wiki/Myalgia)
+- **Obesity** [[31]](https://en.wikipedia.org/wiki/Obesity)
 
 ### External links
 
@@ -87,6 +92,16 @@ Those are the illness provoked by this torture:
 25. https://en.wikipedia.org/wiki/Hallucination
 
 26. https://en.wikipedia.org/wiki/Immunodeficiency
+
+27. https://en.wikipedia.org/wiki/Type_2_diabetes
+
+28. https://en.wikipedia.org/wiki/Hypertensive_heart_disease
+
+29. https://en.wikipedia.org/wiki/Tremor
+
+30. https://en.wikipedia.org/wiki/Myalgia
+
+31. https://en.wikipedia.org/wiki/Obesity
 
     
 
