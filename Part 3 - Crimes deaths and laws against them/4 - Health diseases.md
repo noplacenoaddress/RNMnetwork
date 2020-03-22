@@ -56,6 +56,10 @@ In my case I can directly fell like direct current or near direct current feelin
 - **Kidneys** [[37]](https://en.wikipedia.org/wiki/Kidney)
 - **Penis** [[38]](https://en.wikipedia.org/wiki/Human_penis)
 
+Acting over those internals organs I fall into dysfunctions that flow into diseases. With electronic torture it's possible to silently slowly kill a human; and I'm victim of the Spanish and Italian high class nobility. Why? Because I'm victim of child trafficking I'm under neural control from all my life, they have try to kill me with a lot of car and motorbike accidents, they are torturing my ex girlfriend, my love, Saray,, they have play me like a card game under a virtual casino of remote parimutuel betting system  and now they are killing me slowly with torture. 
+
+I need help from International police and services. I'm a human not a guine pig. 
+
 
 
 ### External links
