@@ -18,3 +18,4 @@ Another type of disease that can be taken in front of a court is the **Attention
 
 > *In my personal experience as target individual I notice that I'm loosing a lot of learning ability, remember to protect always your brain and body with the correct goods to deny the remote neural monitoring radio waves acting over you and recuperate those humans abilities. It's important to underline that corrupted medics could add to your medical record use of drug or psychiatric medication in front of analyze in a correct way our around electric radio.* 
 
+### Sleep deprivation
