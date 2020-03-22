@@ -19,7 +19,7 @@ In the second and third option the explanation is very simple from DNA. Has you 
 
 Always remaining in this possible interpretation the option of exchange of cots is very difficult to apply because theoretically I was born in Genoa. The options that could be applied it's the most terrifying but it will explain why I was under a magnetic bell where nobles and big business man play with remote parimutuel betting system over my life, a noble game. The ghost of **trafficking of children** [[11]](https://en.wikipedia.org/wiki/Trafficking_of_children) is very clear and clearly could be the real explanation why I suffer a fascist persecution in Barcelona on 2018 and they have systematically destroyed my life. The worst think is that my parents are presents in this neural control network. And all of my friends and ex girlfriends. A lot of famous people also. A scandal. My parents say that I'm crazy but I've got a lot of telephone registrations and whatsup messages with subtle threats and allusions to the fact.
 
-> *This could be the key and the real explication.* 
+> *This could be the key and the real explication. The fact that my parents are present in this network it clearly indicate that all of what I've passed it is a clear indication that it is a family tragedy. Almost always the darkest crimes pass between the four walls of the house.*
 
 ### External links
 
