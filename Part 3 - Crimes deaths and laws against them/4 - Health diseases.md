@@ -54,6 +54,9 @@ In my case I can directly fell like direct current or near direct current feelin
 - **Pancreas** [[35]](https://en.wikipedia.org/wiki/Pancreas) (this is why I've got high glucose levels)
 - **Lungs** [[36]](https://en.wikipedia.org/wiki/Lung)
 - **Kidneys** [[37]](https://en.wikipedia.org/wiki/Kidney)
+- **Penis** [[38]](https://en.wikipedia.org/wiki/Human_penis)
+
+
 
 ### External links
 
@@ -130,6 +133,8 @@ In my case I can directly fell like direct current or near direct current feelin
 36. https://en.wikipedia.org/wiki/Lung
 
 37. https://en.wikipedia.org/wiki/Kidney
+
+38. https://en.wikipedia.org/wiki/Human_penis
 
     
 
