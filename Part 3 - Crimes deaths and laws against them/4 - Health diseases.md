@@ -38,6 +38,14 @@ Those are the illness provoked by this torture:
 - **Tremor** [[29]](https://en.wikipedia.org/wiki/Tremor)
 - **Myalgia** [[30]](https://en.wikipedia.org/wiki/Myalgia)
 - **Obesity** [[31]](https://en.wikipedia.org/wiki/Obesity)
+- **Growth hormone deficiency** [[32]](https://en.wikipedia.org/wiki/Growth_hormone_deficiency)
+- **Hyphotermia** [[33]](https://en.wikipedia.org/wiki/Hypothermia)
+
+![Glucosa](../Images/2.png)
+
+Speaking about diabetes in my case from November 2017 when I was "opened" to 18 of December 2019 my **blood sugar level** [[34]](https://en.wikipedia.org/wiki/Blood_sugar_level) have grow to abnormal level falling near diabetes levels.
+
+This is an irrefutable proof that *I'm being tortured* in the Spanish fascist remote neural control network by nobles families in front of all the citizen because all of them in Spain are under active control and have been tortured in Catalunya by the Franco regime.  
 
 ### External links
 
@@ -102,6 +110,12 @@ Those are the illness provoked by this torture:
 30. https://en.wikipedia.org/wiki/Myalgia
 
 31. https://en.wikipedia.org/wiki/Obesity
+
+32. https://en.wikipedia.org/wiki/Growth_hormone_deficiency
+
+33. https://en.wikipedia.org/wiki/Hypothermia
+
+34. https://en.wikipedia.org/wiki/Blood_sugar_level
 
     
 
