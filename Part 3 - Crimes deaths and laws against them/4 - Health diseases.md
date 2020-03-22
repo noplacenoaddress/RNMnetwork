@@ -1,6 +1,6 @@
 # Health diseases 
 
-![ELF radiation health](/home/taglio/Documents/GitHub/RNMnetwork/Images/radiation_health.jpg)
+![ELF radiation health](../Images/radiation_health.jpg)
 
 The remote neural monitoring network got a lot of health diseases that could ruin target individual's life that could be presented to a penal court:
 
@@ -19,3 +19,5 @@ Another type of disease that can be taken in front of a court is the **Attention
 > *In my personal experience as target individual I notice that I'm loosing a lot of learning ability, remember to protect always your brain and body with the correct goods to deny the remote neural monitoring radio waves acting over you and recuperate those humans abilities. It's important to underline that corrupted medics could add to your medical record use of drug or psychiatric medication in front of analyze in a correct way our around electric radio.* 
 
 ### Sleep deprivation
+
+![Effects of sleep deprivation](../Images/Effects_of_sleep_deprivation.svg.png)
