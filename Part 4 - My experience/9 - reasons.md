@@ -34,7 +34,8 @@ So we speak about child trafficking. So we have underlined that child traffickin
 In my opinion I can trace those step to be a human playing card:
 
 - You're a bastard, like a dog. You are the son of one important member of a big noble family born from a sexual adventure between another member of another family or a prostitute. 
-- You're not a bastard but in the family they decide your body doesn't strictly complain with the regularized pattern of your family.  
+- You're not a bastard but in the family they decide your body doesn't strictly complain with the regularized pattern of your family.  I mean in big nobles family there is a physical standard that for some reason the new born doesn't complain.
+- Your parents and all the family decide to sell you in the black market with forced labor purposes. Normally this market is maintained by the same Catholic church. And this is the true.
 
 ### External links
 
