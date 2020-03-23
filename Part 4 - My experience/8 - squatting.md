@@ -15,7 +15,11 @@ Better say, in monarchies to squat is a normal verb to say and have got a lot no
 
 But kindly it exist also in the utopian form, but I really don't know.
 
-From a OSINT point of view what is our preferred tool to analyze those properties: the **cadastre** [[7]](https://en.wikipedia.org/wiki/Cadastre).
+From a OSINT point of view what is our preferred tool to analyze those properties: the **cadastre** [[7]](https://en.wikipedia.org/wiki/Cadastre). Another great tool is the nobility book that every country had where we can find the real nobles families. 
+
+> *It's all public only we've got to find the correct resources and use only the true. Don't trust every one this world its complicated and many people are in slavery like situation or are noble under false dress or are moles.*
+
+### Squatting in Catalunya
 
 
 
