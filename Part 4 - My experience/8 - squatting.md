@@ -11,9 +11,11 @@ To squat:
 
 Yes it seems to be. What is behind? Nobles. B-side.
 
-Better say, in monarchies to squat is a normal verb to say and have got a lot not written rules. Are them not written? Perhaps.
+Better say, in monarchies to squat is a normal verb to say and have got a lot not written rules. Are them not written? Perhaps they are written in old mediaeval's manuscript. 
 
 But kindly it exist also in the utopian form, but I really don't know.
+
+From a OSINT point of view what is our preferred tool to analyze those properties: the **cadastre** [[7]](https://en.wikipedia.org/wiki/Cadastre).
 
 
 
@@ -25,3 +27,4 @@ But kindly it exist also in the utopian form, but I really don't know.
 4. https://en.wikipedia.org/wiki/Bitcoin
 5. https://en.wikipedia.org/wiki/Squatting
 6. https://en.wikipedia.org/wiki/Anarchism
+7. https://en.wikipedia.org/wiki/Cadastre
