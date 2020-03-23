@@ -1,5 +1,0 @@
-# Squat
-
-
-
-### External links
