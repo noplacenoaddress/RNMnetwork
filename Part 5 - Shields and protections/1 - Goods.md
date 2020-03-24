@@ -96,6 +96,25 @@ With a **ZVS Driver** [[18]](https://youtu.be/0ldSaiY-BWA) we can make it imposs
 >
 > One may notice that instead of charging the gates with the LC tank we are instead using +V to charge them up and we are using the LC tank to discharge them via the ultrafast diodes. This improves the overall performance of the circuit.
 
+### House shielding
+
+![A painting found on the street](../Images/90334593_559700711317952_5617898684528978472_n.jpg)
+
+So we know how to protect ourself from the neural monitoring network. Let's start to see how to protect our houses. There's some products that could be very interesting to buy searching to obtain the almost complete isolation:
+
+- **Curtains** [[20]](https://en.wikipedia.org/wiki/Curtain)
+- **Wallpaper**  [[21]](https://en.wikipedia.org/wiki/Wallpaper)
+- Shielding **paints** [[22]](https://en.wikipedia.org/wiki/Paint)
+- Shielding **bedding** [[23]](https://en.wikipedia.org/wiki/Bedding)
+- Shielding **window film** [[24]](https://en.wikipedia.org/wiki/Window_film)
+- **Sheet metal** [[25]](https://en.wikipedia.org/wiki/Sheet_metal)
+
+First of all like the other products the industry behind the assembly of those goods is normally situated on high level prices to customers. Next we've got to find an online reseller or facility, try this one:
+
+https://www.electrosmogshielding.co.uk/
+
+
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
@@ -117,3 +136,10 @@ With a **ZVS Driver** [[18]](https://youtu.be/0ldSaiY-BWA) we can make it imposs
 17. https://quwave.com/policies.html#satisfactionguarantee
 18. https://youtu.be/0ldSaiY-BWA
 19. https://adammunich.com/zvs-driver/
+20. https://en.wikipedia.org/wiki/Curtain
+21. https://en.wikipedia.org/wiki/Wallpaper
+22. https://en.wikipedia.org/wiki/Paint
+23. https://en.wikipedia.org/wiki/Bedding
+24. https://en.wikipedia.org/wiki/Window_film
+25. https://en.wikipedia.org/wiki/Sheet_metal
+
