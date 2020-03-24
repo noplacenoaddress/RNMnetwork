@@ -25,6 +25,18 @@ Always remaining in this possible interpretation the option of exchange of cots 
 
 > *This could be the key and the real explication. The fact that my parents are present in this network it clearly indicate that all of what I've passed it is a clear indication that it is a family tragedy. Almost always the darkest crimes pass between the four walls of the house.*
 
+### A preassigned playing card in a noble game
+
+![A joker](../Images/48384501_578362595939590_1556837670984876032_o.png)
+
+So we speak about child trafficking. So we have underlined that child trafficking, also in Europe nowadays and that is totally unbelievable because of constitution and democracy, has got one goal, forced labor. But forced labor what could it mean also? Be an object of bet. And in the remote neural monitoring network bet can be remote. Remember that this network could be understand also as a co working ambient. A deep fake one where nobles in a virtual saloon or better saying a virtual casino do them bet over your life, my life. You've been played like in a card game a player trow a card.
+
+In my opinion I can trace those step to be a human playing card:
+
+- You're a bastard, like a dog. You are the son of one important member of a big noble family born from a sexual adventure between another member of another family or a prostitute. 
+- You're not a bastard but in the family they decide your body doesn't strictly complain with the regularized pattern of your family.  I mean in big nobles family there is a physical standard that for some reason the new born doesn't complain.
+- Your parents and all the family decide to sell you in the black market with forced labor purposes. Normally this market is maintained by the same Catholic church. And this is the true.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/MyHeritage
