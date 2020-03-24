@@ -46,7 +46,7 @@ All of those banks are obviously connected to the **institute for the work of re
 
 But remember that those are only my to cents because we can try to debug also the **international bank account number** [[19]](https://en.wikipedia.org/wiki/International_Bank_Account_Number). 
 
-### Pokemon correlation
+### Pokemon correlation: a noble game.
 
 ![I and my love](../Images/poke.jpg)
 
@@ -81,6 +81,16 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 As you can see I've used some links to Wikipedia and others to a site where you can appreciate similar colors, a briefing about the significance and others colors that goes well with.
 
 ![meridian](../Images/Primemeridian.jpg)
+
+### The catholic church machine levels
+
+![Super mega direttore](../Images/paolo-paoloni-1102865.jpg)
+
+This patchwork of images are copied from the film **Fantozzi** [[45]](https://en.wikipedia.org/wiki/Fantozzi_(film)) based on the novel from **Paolo Villaggio** [[46]](https://en.wikipedia.org/wiki/Paolo_Villaggio).
+
+Fantozzi, the main character is a pro-communist trade unionist employee of a mega enterprise. At the end of the film he take the facility elevator and at the 19 floor he's got an hallucination, better saying someone stream to his visual and auditory system a scene, and see him crucified in the mess hall. Next he arrives to the 28 floor indicated by the elevator with a star. In an ambient very similar to the paradise all done with light and with some church furniture the director take Fantozzi to his chair and say to him to just sit down. They start a discussion where the director say to him that we're all the same but he use different words to explain the same. It's only about words and phrases. Obviously he use his ignorance and he drunks him with his manner to speak.  
+
+Fantozzi  begins to turn to him with different titles being obviously excited and insecure to speak to him directly due always to his ignorance. Reference to the church are obvious. The director say to him before start to speak if he want some water, not wine or better saying not blood so it's not a ceremony, and some bread.
 
 ### External links
 
@@ -171,6 +181,10 @@ As you can see I've used some links to Wikipedia and others to a site where you 
 43. http://veli.ee/colorpedia/?c=700aee
 
 44. http://veli.ee/colorpedia/?c=94352d
+
+45. https://en.wikipedia.org/wiki/Fantozzi_(film)
+
+46. https://en.wikipedia.org/wiki/Paolo_Villaggio
 
     
 
