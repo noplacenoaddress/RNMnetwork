@@ -112,6 +112,10 @@ This is the end? No...I don't think so.
 
 > *So what is this Machine? It's something international and world and space based used by who command. Divided in levels starting from the nobles to the really unknown. With this machine they observe and change the fate of the world, including affect nature.* 
 
+![Faro de Moncloa](../Images/farodemoncloa21.jpg)
+
+You can appreciate this telecommunication tower in Madrid called "faro de Moncloa". The are a lot of vertical floor and the a terrace. The terrace is the allegory of the **collage of Cardinals** [[54]](https://en.wikipedia.org/wiki/College_of_Cardinals) but next there is something more and from this film we know that is the Judaic society.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Proverb
@@ -219,6 +223,8 @@ This is the end? No...I don't think so.
 52. https://en.wikipedia.org/wiki/El_Shaddai
 
 53. https://en.wikipedia.org/wiki/Judaism
+
+54. https://en.wikipedia.org/wiki/College_of_Cardinals
 
     
 
