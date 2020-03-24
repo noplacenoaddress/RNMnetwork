@@ -46,7 +46,7 @@ All of those banks are obviously connected to the **institute for the work of re
 
 But remember that those are only my to cents because we can try to debug also the **international bank account number** [[19]](https://en.wikipedia.org/wiki/International_Bank_Account_Number). 
 
-### Pokemon correlation
+### Pokemon correlation: a noble game.
 
 ![I and my love](../Images/poke.jpg)
 
@@ -81,6 +81,34 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 As you can see I've used some links to Wikipedia and others to a site where you can appreciate similar colors, a briefing about the significance and others colors that goes well with.
 
 ![meridian](../Images/Primemeridian.jpg)
+
+### The catholic church machine levels
+
+![Super mega direttore](../Images/paolo-paoloni-1102865.jpg)
+
+This patchwork of images are copied from the film **Fantozzi** [[45]](https://en.wikipedia.org/wiki/Fantozzi_(film)) based on the novel from **Paolo Villaggio** [[46]](https://en.wikipedia.org/wiki/Paolo_Villaggio).
+
+Fantozzi, the main character is a pro-communist trade unionist employee of a mega enterprise. At the end of the film he take the facility elevator and at the 19 floor he's got an hallucination, better saying someone stream to his visual and auditory system a scene, and see him crucified in the mess hall. Next he arrives to the 28 floor indicated by the elevator with a star. In an ambient very similar to the paradise all done with light and with some church furniture the director take Fantozzi to his chair and say to him to just sit down. They start a discussion where the director say to him that we're all the same but he use different words to explain the same. It's only about words and phrases. Obviously he use his ignorance and he drunks him with his manner to speak.  
+
+Fantozzi  begins to turn to him with different titles being obviously excited and insecure to speak to him directly due always to his ignorance. Reference to the church are obvious. The director say to him before start to speak if he want some water, not wine or better saying not blood so it's not a ceremony, and some bread. This is the sequence of titles that he starts to use:
+
+1. **Count** [[47]](https://en.wikipedia.org/wiki/Count)
+2. **Sir** [[48]](https://en.wikipedia.org/wiki/Sir)
+3. **Majesty** [[49]](https://en.wikipedia.org/wiki/Majesty)
+
+Next they discuss a little bit about communism and then the director say to the employer to go out from his chair and say to him to sit down where you **genuflect** [[50]](https://en.wikipedia.org/wiki/Genuflection) in church. Next the titles pass from the nobility to the church in this order:
+
+1. **Sacred** [[51]](https://en.wikipedia.org/wiki/Sacred)
+
+Next Fantozzi got some visions obviously Machine related. And when he see him colleagues an aquarium speak about the "usher Tritti drawn" the director put him in the same aquarium. What is the allegory? Simple he shutdown the active state of the machine. But he call him for the last time:
+
+1. **Almighty** [[52]](https://en.wikipedia.org/wiki/El_Shaddai)
+
+But almighty it's not about God, that yes you know man he doesn't exist in reality ou... sure it is!, it's about the **Judaism** [[53]](https://en.wikipedia.org/wiki/Judaism). 
+
+This is the end? No...I don't think so.
+
+> *So what is this Machine? It's something international and world and space based used by who command. Divided in levels starting from the nobles to the really unknown. With this machine they observe and change the fate of the world, including affect nature.* 
 
 ### External links
 
@@ -171,6 +199,24 @@ As you can see I've used some links to Wikipedia and others to a site where you 
 43. http://veli.ee/colorpedia/?c=700aee
 
 44. http://veli.ee/colorpedia/?c=94352d
+
+45. https://en.wikipedia.org/wiki/Fantozzi_(film)
+
+46. https://en.wikipedia.org/wiki/Paolo_Villaggio
+
+47. https://en.wikipedia.org/wiki/Count
+
+48. https://en.wikipedia.org/wiki/Sir
+
+49. https://en.wikipedia.org/wiki/Majesty
+
+50. https://en.wikipedia.org/wiki/Genuflection
+
+51. https://en.wikipedia.org/wiki/Sacred
+
+52. https://en.wikipedia.org/wiki/El_Shaddai
+
+53. https://en.wikipedia.org/wiki/Judaism
 
     
 
