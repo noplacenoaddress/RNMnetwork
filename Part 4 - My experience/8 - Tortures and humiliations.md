@@ -8,6 +8,8 @@ Here in Spain, in my beloved country, I suffered the same but less physical viol
 
 What I've suffered has been visualized by almost all the people that I've known in my life. But no one help me, nor who I've been considered my parents. They was thinking that I will commit suicide or I will go crazy. I'm in perfect health and mental state. God bless you.
 
+Now on 2020 they are playing with my internal organs to produce cancer and others dysfunctions.
+
 
 
 ### External Links
