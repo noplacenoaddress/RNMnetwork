@@ -1,4 +1,4 @@
-# Fatal randomness
+# Randomness
 
 In my life a some times someone have tried to kill me. And until now I don't understand why and I didn't start to investigate. But now I know and now I'm doing it.
 
@@ -12,7 +12,7 @@ Obviously it's something connected to money, power and secrets. The Machine, the
 
 I'll try to explain better what is exactly the arguments Vatican related, but esoteric is touched and I don't want to fall on them like all others the websites speaking about this system do.
 
-They say that my Machine, but I don't know where it is, what kind of system is and who host it, it's identify by the **number 9**. I think that it is related to the **Italian republic** [[3]](https://en.wikipedia.org/wiki/Italy) government related, but i really don't know.
+They say that my Machine, but I don't know where it is, what kind of system is and who host it, it's identify by the **number 9**. I think that it is related to the **Italian republic** [[3]](https://en.wikipedia.org/wiki/Italy) government related, but i really don't know. Or it's a number assigned by the church or by the Spanish monarchy. 
 
 *A couple of friends of mine have die in unknown or very little documented circumstances.* 
 
@@ -55,7 +55,7 @@ Why he went in the cold valley on winter without snow tires or not even chains? 
 
 > They know what happen to me in Catalunya, they know because I listen to them in radio frequency. What they've done is to take away the possibility of having that smile that they had in this beautiful photo in the mountains. The possibility of having a son like them they had and the possibility of loving the woman who fell in love with me only to see her. This is the truth about my personal tragedy in the neuronal control network. *"brutto coglione"* he humiliates me every second of the day.
 
-### Bergolo fraction of Cortemilia, Italy
+### Bergolo fraction of Cortemilia, Italy. MKUltra
 
 ![Bergolo](../Images/0121ga26.jpg)
 
@@ -143,6 +143,46 @@ Let's start with some considerations. First of all I really don't like esoterici
 
 Me and Saray are victims of a sept. Please help. But what are sept? Games of nobles to obtain money with prostitution, drugs, betting and so son. They call this game and they play with our life.
 
+### Spain
+
+![Veterano](../Images/1497627786_568058_1497628958_noticia_grande.jpg)
+
+One fact so curious that I always being in deeply love with Spain. From when I was very young I usually travel for passion and curiosity to this country with some friends or alone. Every years all the summer I go to Spain and travel I was traveling with my backpack and little money in my pocket. Those are the provincial capitals that I've visited :
+
+- Madrid
+- Burgos
+- Santander
+- Bilbao
+- San Sebastian
+- Vitoria
+- Miranda de Ebro
+- Pamplona
+- Zaragoza
+- Andorra
+- Lleida
+- Barcelona
+- Girona
+- Valencia
+- Alicante
+- Segovia
+- Granada
+- Malaga
+- Sevilla
+- Huelva
+- Cadiz
+- Leon
+- Oviedo
+- Santiago de Compostela
+- Pontevedra
+- Vigo
+- Lugo
+
+![Euskotren](../Images/euskotren.jpg)
+
+When I was young my favorite territory of the Iberian peninsula was **Euskadi** [[52]](https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)). I remember when I fall in sleep in the **Euskotren** [[53]](https://eu.wikipedia.org/wiki/Eusko_Trenbideak). 
+
+
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -196,3 +236,5 @@ Me and Saray are victims of a sept. Please help. But what are sept? Games of nob
 49. https://en.wikipedia.org/wiki/Astrology
 50. https://en.wikipedia.org/wiki/Mysticism
 51. https://en.wikipedia.org/wiki/Ritual
+52. https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)
+53. https://eu.wikipedia.org/wiki/Eusko_Trenbideak
