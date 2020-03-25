@@ -20,7 +20,44 @@ But this will not happen.
 
 Those are the tortures that I've suffered:
 
-- 
+- Subliminal messages direct to the head.
+- Auditive and visual cortex injection.
+- Sex violence in the network.
+- Involuntary vocalization. 
+- Gas lighting.
+- Gang stalking.
+- Public humiliation.
+- Persecution.
+- Public humiliation in radio.
+- Slavery.
+
+Also my ex girlfriend has suffered various tremendous tortures for what I know physically and in radio:
+
+- Sexual harassment.
+- Physical forced prostitution.
+- Forced prostitution as an hologram.
+- Forced prostitution in transposition.
+- Forced to do pain to her loves.
+
+My best friend, Massimo, is also an enormous victim of the noble network, he suffered from when he was an adolescent various crimes like:
+
+- Forced prostitution in radio.
+- Sexual harassment.
+- Sleep deprivation.
+- Forced to do pain to his friends.
+- Loose of his work and company.
+
+And I even don't know what else because he and she has fear to speak because this is a monarchy and the principle rule is to not speak about this network and the Machine. 
+
+But I really deeply appreciate themselves. I know that they cannot fight in public because they've got child and those criminals forced them to do those horrible crimes to themselves and, remember, not to others, so they are absolutely not criminals. Look above, those that are the two most important persons for me here in Barcelona in reality have not suffered exactly what could be classified as torture but as to be targets individuals, like me that had suffered also electronic torture.  I want to help them to be free from the chain of this absurdity in the democratic Europe. Because just I love them. Nothing more nothing less. And I receive continuously death threats in radio just because I do.
+
+Have no fear sweetie and dude. No fear. We're going to act in this absurd circus but in reality we have to fight for our rights. You, the twos, are not totally conscious on what are your right in democracy. Your rights are constitutional no one, nor the monarchy, could break them. No one. Nor the church. No one.
+
+Call me guys. Call me. We've to fight together not loosing time in stupidity but doing what I'm doing, I know that you've not the technological culture to do this but I will do it for you. Just come here and speak about your life and the Machine without any problem. 
+
+The machine is a crime. Is a monster. Is what is changing our Europe. And you have child. Don't loose time trying to fight with those enormous titanic selling drug or selling yourself. At the question how we will live? It's simple. Working. Monarchy could not destroy your legal work. This is a full stop. I'm not a stupid and the king of this country know it.
+
+Full stop.  
 
 ### External Links
 
