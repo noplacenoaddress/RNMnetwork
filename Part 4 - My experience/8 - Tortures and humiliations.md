@@ -10,7 +10,11 @@ What I've suffered has been visualized by almost all the people that I've known 
 
 Now on 2020 they are playing with my internal organs to produce cancer and others dysfunctions.
 
+This is how I can describe the electronic tortures that I've lived, 2018 was a very bad year next the decrease the power of the tortures and now they are trying to debilitate me. 
 
+![1.1% amigo mio esta vez la tienes chunga](../Images/2020-01-30-083641.jpg)
+
+But this will not happen. I'm power.
 
 ### External Links
 
