@@ -176,6 +176,7 @@ One fact so curious that I always being in deeply love with Spain. From when I w
 - Pontevedra
 - Vigo
 - Lugo
+- Eivissa
 
 ![Euskotren](../Images/euskotren.jpg)
 
@@ -187,7 +188,17 @@ When I was young my favorite territory of the Iberian peninsula was **Euskadi** 
 >
 > *Maite zaitut.*
 
+When I decided to live in the Iberian peninsula was the new years day of 2007. Thirteen years ago. I remember that I tell one friend of mine to bring it back to Genoa. His name is Fabio, he works in the betting sector. 
 
+![Castillejos 219](../Images/castillejos219.jpg)
+
+I started to live in Barcelona in a house that was rented from two friends of mine, or something similar, Simone and Vincenzo. This photo is from Google and it is dated 2008. Castillejos 219 fourth floor first door. 
+
+I've got my first **resident registration** [[54]](https://en.wikipedia.org/wiki/Resident_registration) here and next I go to the Barceloneta police department to obtain my **NIE number** [[55]](https://en.wikipedia.org/wiki/NIE_number). Next it started the first problem here in Spain. The NIE number was cloned anteriorly, and this in fact is very strange, and used by a **Portuguese** [[56]](https://en.wikipedia.org/wiki/Portuguese_people) person that have done bank fraud here in Spain. I go to denunciate this fact a lot of time but no police department take the denounce and I've got to demonstrate to the bank of Spain that I was not in this country when this fraud had occurred and they simply delete me ID in their database without any denounce. 
+
+My NIE is **X9770628K**. 
+
+A couple of years later those two friends one day decide to put me in the street and for a couple of weeks a live in the street. But I don't go away, I love Spain and I'm still in totally love with the Iberian peninsula. 
 
 ### External Links
 
@@ -244,3 +255,6 @@ When I was young my favorite territory of the Iberian peninsula was **Euskadi** 
 51. https://en.wikipedia.org/wiki/Ritual
 52. https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)
 53. https://eu.wikipedia.org/wiki/Eusko_Trenbideak
+54. https://en.wikipedia.org/wiki/Resident_registration
+55. https://en.wikipedia.org/wiki/NIE_number
+56. https://en.wikipedia.org/wiki/Portuguese_people
