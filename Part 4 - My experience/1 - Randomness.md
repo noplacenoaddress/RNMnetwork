@@ -179,7 +179,13 @@ One fact so curious that I always being in deeply love with Spain. From when I w
 
 ![Euskotren](../Images/euskotren.jpg)
 
-When I was young my favorite territory of the Iberian peninsula was **Euskadi** [[52]](https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)). I remember when I fall in sleep in the **Euskotren** [[53]](https://eu.wikipedia.org/wiki/Eusko_Trenbideak). 
+When I was young my favorite territory of the Iberian peninsula was **Euskadi** [[52]](https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)). I remember when I fall in sleep in the **Euskotren** [[53]](https://eu.wikipedia.org/wiki/Eusko_Trenbideak).  Those phrases are for you Basque people:
+
+> *San Sebastianetik Bilbao.* 
+>
+> *tren urdina, landa, itsasoa, jende gutxi eta errepikatutako geldialdiak. isuri berdez inguraturik, goizeko ihintzaz bainatutako belardiak, ozeano usaina, portua, merkatua, arrantza, lurra, ardoa, simaurra, behia, gatz salda, ekaitza, harea, urdaiazpikoa, aldea, gorakoa, askatasuna. mugaldea, borroka, aldarrikapena, jendea, hizkuntza, kultura, desberdintasuna eta batasuna. lur zoragarria.* 
+>
+> *Maite zaitut.*
 
 
 
