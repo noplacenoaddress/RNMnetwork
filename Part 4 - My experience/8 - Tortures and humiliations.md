@@ -18,7 +18,9 @@ This is how I can describe the electronic tortures that I've lived, 2018 was a v
 
 But this will not happen. I'm power.
 
-Those are the tortures that I've suffered
+Those are the tortures that I've suffered:
+
+- 
 
 ### External Links
 
