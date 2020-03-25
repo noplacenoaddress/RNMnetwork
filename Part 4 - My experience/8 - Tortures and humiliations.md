@@ -16,7 +16,7 @@ This is how I can describe the electronic tortures that I've lived, 2018 was a v
 
 ![1.1% amigo mio esta vez la tienes chunga](../Images/2020-01-30-083641.jpg)
 
-But this will not happen. I'm power.
+But this will not happen. 
 
 Those are the tortures that I've suffered:
 
