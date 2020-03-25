@@ -21,6 +21,8 @@ From a OSINT point of view what is our preferred tool to analyze those propertie
 
 ### Squatting in Catalunya
 
+![Ciao U](../Images/82967724_625618471528699_468013259491279507_n.jpg)
+
 
 
 ### External links
