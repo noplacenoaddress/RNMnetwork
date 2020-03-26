@@ -157,7 +157,26 @@ Children are strictly protected by a large series of international rights. Crimi
 
 As far as I know i'm in neural network control from when I was born. I think that I was a **testbed** [[67]](https://en.wikipedia.org/wiki/Testbed) over which this technology was developed. 
 
-Those are the **children's rights** [[68]](https://en.wikipedia.org/wiki/Children's_rights) that can be applied to put in jail forever those monsters:
+Those are the international organs that guarantee that internationals laws have to be applied:
+
+- **United nations** [[68]](https://en.wikipedia.org/wiki/United_Nations)
+- **UNICEF** [[69]](https://en.wikipedia.org/wiki/UNICEF)
+- **Safe the children** [[70]](https://en.wikipedia.org/wiki/Save_the_Children)
+
+Those are the **children's rights** [[71]](https://en.wikipedia.org/wiki/Children's_rights) that can be applied to put in jail forever those monsters:
+
+- **Declaration of the rights of the children.** [[72]](https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_the_Child)
+- **Convention on the rights of the child.** [[73]](https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_the_Child)
+
+Obviously also the state penal code is full of laws that are applied to severely punish those criminals that can be found on the Spanish penal book:
+
+[https://es.wikipedia.org/wiki/C%C3%B3digo_Penal_(Espa%C3%B1a)](https://es.wikipedia.org/wiki/Código_Penal_(España))
+
+
+
+
+
+
 
 
 
@@ -299,7 +318,17 @@ Those are the **children's rights** [[68]](https://en.wikipedia.org/wiki/Childre
 
 67. https://en.wikipedia.org/wiki/Testbed
 
-68. https://en.wikipedia.org/wiki/Children's_rights
+68. https://en.wikipedia.org/wiki/United_Nations
+
+69. https://en.wikipedia.org/wiki/UNICEF
+
+70. https://en.wikipedia.org/wiki/Save_the_Children
+
+71. https://en.wikipedia.org/wiki/Children's_rights
+
+72. https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_the_Child
+
+73. https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_the_Child
 
     
 
