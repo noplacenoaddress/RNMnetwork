@@ -73,6 +73,14 @@ Being part of a stepfamily comport various risk to the child but also some menta
 1. **Phaedra complex** [[40]](https://en.wikipedia.org/wiki/Phaedra_complex) that is the sexual desire of a stepmother to his stepson. And in this network my mother suffered this mental illness. And I've got the evidences obtained by filming her touching my penis with special lights and technology.
 2. **Narcissistic abuse** [[41]](https://en.wikipedia.org/wiki/Narcissistic_abuse). This is my father or stepfather I don't know. Taking off me my company, because yes the engineer of the systematic destruction of my life is him, I'm suffering a type of narcissistic abuse based on the fact that I depend financially by him. It's a crime and a mental illness very strong. Another important evidence to take in front of a court.
 
+Those complex are rare and strong in them minds and they can argue that they suffered mental illness because they take a lot of sedative. But my mother have always take a lot of this drug the problem is my father. He starts to take this, in my opinion, to argue that he is ill. But this is not true I'm finding that he is an enormous stalker and he wants to eat his son, this is another mental illness.
+
+There is a world that is not used very often the name is Italian:
+
+**Tecnofagia** [[42]](https://www.garzantilinguistica.it/ricerca/?q=tecnofagia).
+
+And I'm victim of. 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Brain_tumor
@@ -156,6 +164,8 @@ Being part of a stepfamily comport various risk to the child but also some menta
 40. https://en.wikipedia.org/wiki/Phaedra_complex
 
 41. https://en.wikipedia.org/wiki/Narcissistic_abuse
+
+42. https://www.garzantilinguistica.it/ricerca/?q=tecnofagia
 
     
 
