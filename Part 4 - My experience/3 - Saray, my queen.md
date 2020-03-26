@@ -90,6 +90,10 @@ Why?
 
 This is very difficult to understand but it's without any doubt something related to Catholic Church. But in reality what is the real point of interest? It's obvious money. I think that me and Saray in our lineage tree got something very important and very precious. We are certainly owners of something whose existence we totally ignore. They tortured us electronically as well as they deprived me of any material goods and sold her as a prostitute to her, constantly threatening her with her minor daughter. It's a scandal. We both thirst for justice because the state is and always will be a **secular** [[9]](https://en.wikipedia.org/wiki/Secular_state) institution. 
 
+### Sexual harassment 
+
+
+
 ### External links 
 
 1. https://en.wikipedia.org/wiki/Sedative
