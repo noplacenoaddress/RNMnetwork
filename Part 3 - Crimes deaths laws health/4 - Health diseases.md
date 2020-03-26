@@ -70,7 +70,8 @@ Always in this panorama my family is not my family and my DNA confirm it. So thi
 
 Being part of a stepfamily comport various risk to the child but also some mental ill for the stepparents that I can present in front a court that can be used like an evidence against them:
 
-1. 
+1. **Phaedra complex** [[40]](https://en.wikipedia.org/wiki/Phaedra_complex) that is the sexual desire of a stepmother to his stepson. And in this network my mother suffered this mental illness. And I've got the evidences obtained by filming her touching my penis with special lights and technology.
+2. **Narcissistic abuse** [[41]](https://en.wikipedia.org/wiki/Narcissistic_abuse). This is my father or stepfather I don't know. Taking off me my company, because yes the engineer of the systematic destruction of my life is him, I'm suffering a type of narcissistic abuse based on the fact that I depend financially by him. It's a crime and a mental illness very strong. Another important evidence to take in front of a court.
 
 ### External links
 
@@ -151,6 +152,10 @@ Being part of a stepfamily comport various risk to the child but also some menta
 38. https://en.wikipedia.org/wiki/Human_penis
 
 39. https://en.wikipedia.org/wiki/Stepfamily
+
+40. https://en.wikipedia.org/wiki/Phaedra_complex
+
+41. https://en.wikipedia.org/wiki/Narcissistic_abuse
 
     
 
