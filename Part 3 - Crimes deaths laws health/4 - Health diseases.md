@@ -75,7 +75,7 @@ Being part of a stepfamily comport various risk to the child but also some menta
 
 Those complex are rare and strong in them minds and they can argue that they suffered mental illness because they take a lot of sedative. But my mother have always take a lot of this drug the problem is my father. He starts to take this, in my opinion, to argue that he is ill. But this is not true I'm finding that he is an enormous stalker and he wants to eat his son, this is another mental illness.
 
-There is a world that is not used very often the name is Italian:
+There is a world that is not used very often in Italian:
 
 **Tecnofagia** [[42]](https://www.garzantilinguistica.it/ricerca/?q=tecnofagia).
 
