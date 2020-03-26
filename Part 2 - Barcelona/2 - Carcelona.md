@@ -69,6 +69,8 @@ This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coo
 
 This site has got a lot of others tower and all are operating in the lowest part of the radio spectrum. We will speak more about this site in the fourth chapter. 
 
+
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Monopoly_(game)

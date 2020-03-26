@@ -200,6 +200,16 @@ My NIE is **X9770628K**.
 
 A couple of years later those two friends one day decide to put me in the street and for a couple of weeks a live in the street. But I don't go away, I love Spain and I'm still in totally love with the Iberian peninsula. 
 
+### A tale that told me my father
+
+![A tale](../Images/pp.jpg)
+
+Now I've understand that all my life  was a staging. 
+
+My father when I was a boy told me different times a tale. An horrific tale. He told me that one time when he was in the country side he go to piss in a **cesspit** [[57]](https://en.wikipedia.org/wiki/Cesspit). For some reason he slide down the hole and someone rescue him after he was drowning in human excrement. Now I know it's all untrue and that he was simply telling me where I would have grown up. Obviously all this story was managed with this network, the neuronal control network of the church and the state. 
+
+> *An occult child-trafficking mafia.* 
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -258,3 +268,4 @@ A couple of years later those two friends one day decide to put me in the street
 54. https://en.wikipedia.org/wiki/Resident_registration
 55. https://en.wikipedia.org/wiki/NIE_number
 56. https://en.wikipedia.org/wiki/Portuguese_people
+57. https://en.wikipedia.org/wiki/Cesspit
