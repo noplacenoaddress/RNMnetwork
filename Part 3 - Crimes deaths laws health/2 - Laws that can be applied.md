@@ -147,6 +147,20 @@ Let's explore some European and Spanish laws that can be applied to those monste
 
 First of all indicate that laws about virtual rape, that is the exact crime name, are not so exact in Europe.  
 
+### Child trafficking 
+
+![Children trafficking](../Images/BASA-389K-1-361-4-Children's_Day,_Bulgaria,_1928.jpeg)
+
+First of all we've got to consider that a lot of people that are to be considered as target individuals are in reality victim of child trafficking, as probably I am. 
+
+Children are strictly protected by a large series of international rights. Criminals, nobles or not is absolutely the same, who profit over the slavery of these children both in their trafficking and in the forced labor to which they are subjected in this network such as being a guinea pig for the development of both civil and military technology, being forced into prostitution or trafficking in drugs, weapons or other human beings are destined without a shadow of a doubt to **life imprisonment** [[65]](https://en.wikipedia.org/wiki/Life_imprisonment). Many of these plaintively children can also be exchange goods in markets where they feed on monsters: pedophiles. Or even worse to be sold for another of our land's most horrible trafficking, **organ trade** [[66]](https://en.wikipedia.org/wiki/Organ_trade). 
+
+As far as I know i'm in neural network control from when I was born. I think that I was a **testbed** [[67]](https://en.wikipedia.org/wiki/Testbed) over which this technology was developed. 
+
+Those are the **children's rights** [[68]](https://en.wikipedia.org/wiki/Children's_rights) that can be applied to put in jail forever those monsters:
+
+
+
 
 
 ### External links
@@ -278,6 +292,14 @@ First of all indicate that laws about virtual rape, that is the exact crime name
 63. https://en.wikipedia.org/wiki/Self-control
 
 64. https://en.wikipedia.org/wiki/Memory
+
+65. https://en.wikipedia.org/wiki/Life_imprisonment
+
+66. https://en.wikipedia.org/wiki/Organ_trade
+
+67. https://en.wikipedia.org/wiki/Testbed
+
+68. https://en.wikipedia.org/wiki/Children's_rights
 
     
 
