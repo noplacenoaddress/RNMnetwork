@@ -60,6 +60,16 @@ Acting over those internals organs I fall into dysfunctions that flow into disea
 
 I need help from International police and services. I'm a human not a Guinea pig. 
 
+### Personals toughs 
+
+![Personals toughs](../Images/personaltoughts.jpg)
+
+So in the possible panorama that I'm victim of child trafficking I can underline also mental illness that suffered by parents that in reality are in part victims of those babies assignment for part of the church but in the other they are totally guilty in various crimes of shut up about this Mafia organization where we found a lot of low level nobles family in Catalunya and Liguria. So yes they are criminals. By the way I've found some health mental diseases that can describe the consequences  on them life, but this is not to save them this to understand how church and nobility play with human minds to produce tools to do pain to others humans. Incredible but totally true.
+
+Always in this panorama my family is not my family and my DNA confirm it. So this is not exactly a panorama but always theoretically this is the true. In English my family is called **stepfamily** [[39]](https://en.wikipedia.org/wiki/Stepfamily). So stepfamily speaking about this scandal connected to the remote neural monitoring facility is obviously a family where the church assign those child from nobility that probably are assigned to others because they are born from an incest, a violence or simply doesn't apply to the physical pattern approved for the family. Those sold child are obviously victims of slavery. 
+
+Being part of a stepfamily comport various risk to the child but also some mental ill for the stepparents that I can present in front a court that can be used like an evidence against them.
+
 
 
 ### External links
@@ -139,6 +149,8 @@ I need help from International police and services. I'm a human not a Guinea pig
 37. https://en.wikipedia.org/wiki/Kidney
 
 38. https://en.wikipedia.org/wiki/Human_penis
+
+39. https://en.wikipedia.org/wiki/Stepfamily
 
     
 
