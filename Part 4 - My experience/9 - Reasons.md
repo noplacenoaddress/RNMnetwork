@@ -65,9 +65,10 @@ What are the passes that I've to complain to be recognized in the society:
 4. Use public justice, Internet and this radio network to denunciate that you're victim of child trafficking and various crimes more.
 5. Try to join this network without do any crimes. Some of them are criminals but you're not!
 6. Work and don't loose your dignity.
-7. Be always friend of your real friends. Some of them could have tortured you but they are only slaves.
-8. Be yourself.
-9. If they stalk you, don't stalk anyone. Because you will fall from abused to an abuser. And you're not! If they do it it's only to lead to temptation. When they will accept you, you will denunciate all of the executioners.
+7. Be always friend of your real friends. Some of them could have tortured you but they are only slaves. If they don't reply to you call them again. They are only slaves.
+8. If they stalk you, don't stalk anyone. Because you will fall from abused to an abuser. And you're not! If they do it it's only to lead to temptation. When they will accept you, you will denunciate all of the executioners.
+9. Be yourself.
+10. Be social.
 
 > *To many of them, and many its incredible, really incredible, to speak with. I will only say: thank you. Thank you. Thank you. Love you guys.* 
 
