@@ -70,7 +70,7 @@ What are the passes that I've to complain to be recognized in the society:
 9. Be yourself.
 10. Be social.
 
-> *To many of them, and many its incredible, really incredible, to speak with. I will only say: thank you. Thank you. Thank you. Love you guys.* 
+> *To many of them, and many it's incredible, really incredible, to speak with I will only say: thank you. Thank you. Thank you. Love you guys.* 
 
 ### External links
 
