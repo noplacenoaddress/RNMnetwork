@@ -37,6 +37,41 @@ In my opinion I can trace those step to be a human playing card:
 - You're not a bastard but in the family they decide your body doesn't strictly complain with the regularized pattern of your family.  I mean in big nobles family there is a physical standard that for some reason the new born doesn't complain.
 - Your parents and all the family decide to sell you in the black market with forced labor purposes. Normally this market is maintained by the same Catholic church. And this is the true.
 
+### An unrecognized nobleman
+
+![A coat of arm](../Images/1000x-1.jpg)
+
+Here in this magnetic bell where I've suffered all what I've described writing some are **witnesses** [[12]](https://en.wikipedia.org/wiki/Witness) and others are executioners. 
+
+All of them, and many are Spanish and international famous people being politics, nobles, actors, elite sportsmen and so on, say that they they must recognize me.
+
+**To recognize** [[13]](https://dictionary.cambridge.org/dictionary/english/recognize) it could means:
+
+1. *to know someone* or something because you have seen or heard him or her or experienced it before.
+2. *to accept* that something is legal, true, or important.
+3. If a person's achievements are recognized, *official approval* is shown for them.
+
+All the meanings explained by the Cambridge official UK dictionary are flowing into one goal speaking about my situation. It seems to be very clear that I'm a nobleman that have to be recognize from the society. What is passing in this radio network I've understand that is a previous of what will pass. 
+
+I live in Europe, and Europe is immobility for the Vatican. 
+
+But Spain is not. It's pertain to Europe without any doubt but it's not motionless. Administration is almost totally in Internet, for what I've understand for nobility is almost all in radio. Administration is agile. So I live in the correct place.
+
+What are the passes that I've to complain to be recognized in the society:
+
+1. DNA test and ethnic estimation.
+2. Paternity test.
+3. Write to email, normal post service and fax to all the nobles, masonry and club associations where you found to have roots.
+4. Use public justice, Internet and this radio network to denunciate that you're victim of child trafficking and various crimes more.
+5. Try to join this network without do any crimes. Some of them are criminals but you're not!
+6. Work and don't loose your dignity.
+7. Be always friend of your real friends. Some of them could have tortured you but they are only slaves. If they don't reply to you call them again. They are only slaves.
+8. If they stalk you, don't stalk anyone. Because you will fall from abused to an abuser. And you're not! If they do it it's only to lead to temptation. When they will accept you, you will denunciate all of the executioners.
+9. Be yourself.
+10. Be social.
+
+> *To many of them, and many its incredible, really incredible, to speak with. I will only say: thank you. Thank you. Thank you. Love you guys.* 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/MyHeritage
@@ -50,3 +85,5 @@ In my opinion I can trace those step to be a human playing card:
 9. https://en.wikipedia.org/wiki/Iberians
 10. https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania
 11. https://en.wikipedia.org/wiki/Trafficking_of_children
+12. https://en.wikipedia.org/wiki/Witness
+13. https://dictionary.cambridge.org/dictionary/english/recognize
