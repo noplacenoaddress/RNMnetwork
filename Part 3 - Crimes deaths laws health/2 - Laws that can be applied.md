@@ -199,7 +199,7 @@ The church, money? Who it is possible they are the most rich facility in the wor
 
 Start with the options that I'm a nobleman traded in the child trafficking black market and assigned to a stepfamily by the church. I've got DNA roots of Iberians, north Africans, Greeks, south Italian, north European and **middle East** [[81]](https://en.wikipedia.org/wiki/Middle_East). In the case that I'm a noble with the two parents from a noble lineage or better saying I'm a **descent from antiquity** [[82]](https://en.wikipedia.org/wiki/Descent_from_antiquity) the church have got all the possession of my blood lineage. If they are fighting against me starting from when I was a baby assign me to people that have changed totally them behavior with myself from 2017, so to some kind of abuser prepared to do such change, it surely underline that my possessions are a lot.
 
-And this could be the reason why I'm under torture. And why all the people that I've known before doesn't help me. Because the church have give them some part of my possessions and they are now abuser also. But I love them, someone could change.  
+And this could be the reason why I'm under torture. And why all the people that I've known before doesn't help me. Because the church have give them some part of my possessions and they are now abuser also. But I love them, someone could change. In my opinion also the church could change their behavior I don't want to be the richest man in the world. I only want to be a family dad. Nothing more.  
 
 
 
