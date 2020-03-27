@@ -172,13 +172,30 @@ Obviously also the state penal code is full of laws that are applied to severely
 
 [https://es.wikipedia.org/wiki/C%C3%B3digo_Penal_(Espa%C3%B1a)](https://es.wikipedia.org/wiki/Código_Penal_(España))
 
+### Tortures
 
+![A Persian torture](../Images/feat_persia.jpg)
 
+Ok I'm victim of tortures. And I know why, and his terrible because is from my stepfamily but in front of a lot of people. Why? As usual, money. Nothing more nothing less. Probably I'm a child victim of child trafficking and I'm a nobleman that would have a lot of coats arms. But it's only something probably. The other way is that my family is composed by mental illness people. But this true but could not be the only reason.
 
+Above a medieval Persian torture. Nowadays tortures are done using the remote neural monitoring network. I'm victim of tecnophagy to cover a very serious identity theft crime and a very serious tax crime, and I don't even know what else. Something so terrible that my parents decide to be abusers and not to help me. Incredible but totally true. You know what they are saying? That I take drugs, that is all false.
 
+What international and obviously local state laws are available to condemn in a court those criminals? That you know who they are. It's not so difficult simply go ahead all straight. But this is how I'm. Always all straight.
 
+ As usual United Nations is the organ that give us all the keys useful to denunciate those abuses because simply we're living on 2020 and this is not middle ages. Torture is one of the worst crime to apply to a human, to a child, to a man, to a person, to who you've grown. It's horrible and I'm just crying writing those phrases. World have to know. Torture is defined as:
 
+> the term "torture" means any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from him, or a third person, information or a confession, punishing him for an act he or a third person has committed or is suspected of having committed, or intimidating or coercing him or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted by or at the instigation of or with the consent or acquiescence of a public official or other person acting in an official capacity. It does not include pain or suffering arising only from, inherent in, or incidental to, lawful sanctions.
 
+In my case the torture that I've suffered are:
+
+- Physical and mental but done in an hidden way, using this radio network.
+- The goal of those torture is obliviously **to intimidate** [[74]](https://dictionary.cambridge.org/dictionary/english/intimidate), **to coerce** [[75]](https://dictionary.cambridge.org/dictionary/english/coerce), **to discriminate** [[76]](https://dictionary.cambridge.org/dictionary/english/discriminate). 
+
+To discriminate. I'm absolutely not a **racism** [[77]](https://en.wikipedia.org/wiki/Racism). But in this network they call me the **nigga** [[78]](https://en.wikipedia.org/wiki/Nigga). And for me it's only a pleasure because those people have suffered pains and tortures from sieges, and they are alive and very strong. For them it's because of racism. The two faces of the same medal. Little stupid **bigots** [[79]](https://en.wikipedia.org/wiki/Prejudice) I'm a nigga, a warrior. They put me in transposition without visual cortex injection but with nervous system sensation in a gay sauna. I'm not gay but I'm not **sexist** [[80]](https://en.wikipedia.org/wiki/Sexism). Gay and trans people are other class of people that have fight a lot for them rights. So I love them. And yes I'm also like them fighting for my rights but with my personal sexuality. As them. The same.
+
+Look at those terms, nigga, gay. Who is in reality behind the tortures that I've lived? Simple. The church. Why? Simple. Money. 
+
+The church, money? Who it is possible they are the most rich facility in the world. Why? 
 
 
 
@@ -329,6 +346,20 @@ Obviously also the state penal code is full of laws that are applied to severely
 72. https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_the_Child
 
 73. https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_the_Child
+
+74. https://dictionary.cambridge.org/dictionary/english/intimidate
+
+75. https://dictionary.cambridge.org/dictionary/english/coerce
+
+76. https://dictionary.cambridge.org/dictionary/english/discriminate
+
+77. https://en.wikipedia.org/wiki/Racism
+
+78. https://en.wikipedia.org/wiki/Nigga
+
+79. https://en.wikipedia.org/wiki/Prejudice
+
+80. https://en.wikipedia.org/wiki/Sexism
 
     
 
