@@ -30,14 +30,23 @@ Remember that allegories are presented in all the classics, and religions. In Ca
 
 What I've learned listening to nobles here in network?
 
-- That middle age still exist. And this is the first of all.
-- **That the woman that I'm in love to has absolutely necessity of help from police. Absolutely.**
+- That middle age still exist in radio. And this is the first of all.
+- What pass in radio is still reflected in a controlled way physically. Radio is exaggerated.
 - That almost all the people that I've known in my life are victim of nobility. Someone is an executioner.
 - That when someone say to you to shut up, you have to speak.
 
-Who are the victim of nobility? Normally nobles that are not recognized. What does it mean? Victims of child trafficking. Like me. Slaves, but I'm not.
+Who are the victim of nobility? Normally nobles that are not recognized. What does it mean? Victims of child trafficking. Probably like me. Slaves, but I'm not.
 
+Double entendre is applied human relation by nobles and by slaves with suggestions from the noble network, like in theater is the figure of the **prompter** [[6]](https://en.wikipedia.org/wiki/Prompter_(theatre)). 
 
+In radio, because I call it radio, when you speak with a noble you have to apply to **rhetoric** [[7]](https://en.wikipedia.org/wiki/Rhetoric) of the **figure of speech** [[8]](https://en.wikipedia.org/wiki/Figure_of_speech) at every situation you have to applied the classical **rhetorical operations** [[9]](https://en.wikipedia.org/wiki/Rhetorical_operations):
+
+- addition
+- omission
+- permutation
+- transposition
+
+Be extremely careful to not going crazy! In normal environment in conversations between human beings if someone use this type of rhetoric nowadays take the name of stalker. Nothing more, nothing less. Only stalking that is a crime.
 
 ### External links
 
@@ -46,3 +55,7 @@ Who are the victim of nobility? Normally nobles that are not recognized. What do
 3. https://en.wikipedia.org/wiki/Influence_peddling
 4. [https://en.wikipedia.org/wiki/Lord%27s_Prayer](https://en.wikipedia.org/wiki/Lord's_Prayer)
 5. https://en.wikipedia.org/wiki/Double_entendre
+6. https://en.wikipedia.org/wiki/Prompter_(theatre)
+7. https://en.wikipedia.org/wiki/Rhetoric
+8. https://en.wikipedia.org/wiki/Figure_of_speech
+9. https://en.wikipedia.org/wiki/Rhetorical_operations
