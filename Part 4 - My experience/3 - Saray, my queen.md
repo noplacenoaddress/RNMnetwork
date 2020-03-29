@@ -90,9 +90,23 @@ Why?
 
 This is very difficult to understand but it's without any doubt something related to Catholic Church. But in reality what is the real point of interest? It's obvious money. I think that me and Saray in our lineage tree got something very important and very precious. We are certainly owners of something whose existence we totally ignore. They tortured us electronically as well as they deprived me of any material goods and sold her as a prostitute to her, constantly threatening her with her minor daughter. It's a scandal. We both thirst for justice because the state is and always will be a **secular** [[9]](https://en.wikipedia.org/wiki/Secular_state) institution. 
 
-### Sexual harassment 
+### How is used in the digital Mafia?
 
+![Saray](../Images/20130627_185422.jpg)
 
+This woman, that is the most beautiful woman that I've seen in my life, is a victim of this hell network in Barcelona. She is utilized to induct to suicide victims of frauds. Normal businessman, like I was. This woman is the mother of a fantastic little child and she is under continuous coaction and she is forced to have sex in radio, in transposition that is cancerous but also in physic. 
+
+This woman is an heroine when she knows that I've fall into this noble network like a victim, where normally people dies, she goes to the chief to help me and is three years that she is sold. 
+
+In Catalunya the noble network is owned by a big noble family and, as usual they call it game, they found a Mafia that is called "Sagrada Familia" that is dedicated to drug, prostitution in radio and physic and hacking that in noble terms is "human hacking" or better saying destroying noble families with infidelity. This is how nobles call the "world wide hacker scene".
+
+This woman is from when she was a child that is used in the Franco's network in Spain to do sexual favors to big families.
+
+This woman is a target individual, from the state and the church. The only explanation is that she is also victim of child trafficking. Or she is from a noble family that have disinherited a branch of the family.
+
+**To disinherit** [[10]](https://dictionary.cambridge.org/dictionary/english/disinherit). 
+
+> *I love you for ever, sweetie. Just call me and we'll fight together for our freedom. I promise you. For ever.*
 
 ### External links 
 
@@ -105,4 +119,5 @@ This is very difficult to understand but it's without any doubt something relate
 7. [https://ca.wikipedia.org/wiki/Gu%C3%A0rdia_Urbana_de_Barcelona](https://ca.wikipedia.org/wiki/Guàrdia_Urbana_de_Barcelona)
 8. https://en.wikipedia.org/wiki/Slow-scan_television
 9. https://en.wikipedia.org/wiki/Secular_state
+10. https://dictionary.cambridge.org/dictionary/english/disinherit
 
