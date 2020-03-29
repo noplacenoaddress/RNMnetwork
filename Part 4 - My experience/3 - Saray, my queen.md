@@ -98,8 +98,6 @@ This woman, that is the most beautiful woman that I've seen in my life, is a vic
 
 This woman is an heroine when she knows that I've fall into this noble network like a victim, where normally people dies, she goes to the chief to help me and is three years that she is sold. 
 
-In Catalunya the noble network is owned by a big noble family and, as usual they call it game, they found a Mafia that is called "Sagrada Familia" that is dedicated to drug, prostitution in radio and physic and hacking that in noble terms is "human hacking" or better saying destroying noble families with infidelity. This is how nobles call the "world wide hacker scene".
-
 This woman is from when she was a child that is used in the Franco's network in Spain to do sexual favors to big families.
 
 This woman is a target individual, from the state and the church. The only explanation is that she is also victim of child trafficking. Or she is from a noble family that have disinherited a branch of the family.
