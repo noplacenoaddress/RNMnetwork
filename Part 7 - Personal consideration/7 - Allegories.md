@@ -35,7 +35,9 @@ What I've learned listening to nobles here in network?
 - That almost all the people that I've known in my life are victim of nobility. Someone is an executioner.
 - That when someone say to you to shut up, you have to speak.
 
-Who are the victim of nobility? Normally nobles that are not recognized. What does it mean? Victims of child trafficking. Like me.
+Who are the victim of nobility? Normally nobles that are not recognized. What does it mean? Victims of child trafficking. Like me. Slaves, but I'm not.
+
+
 
 ### External links
 
