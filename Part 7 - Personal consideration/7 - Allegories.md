@@ -48,6 +48,8 @@ In radio, because I call it radio, when you speak with a noble you have to apply
 
 Be extremely careful to not going crazy! In normal environment in conversations between human beings if someone use this type of rhetoric nowadays take the name of stalker. Nothing more, nothing less. Only stalking that is a crime.
 
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Allegory_of_the_cave
