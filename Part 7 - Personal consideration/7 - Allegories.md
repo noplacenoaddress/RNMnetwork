@@ -26,7 +26,16 @@ Remember that allegories are presented in all the classics, and religions. In Ca
 
 ![Double entendre](../Images/1024px-Let_alone2.jpg)
 
-**Double entendre** [[5]](https://en.wikipedia.org/wiki/Double_entendre). To give double meaning to something is obviously used to hide something that is horrible or illegal. Who use double meanings is a criminal. Full stop.
+**Double entendre** [[5]](https://en.wikipedia.org/wiki/Double_entendre). To give double meaning to something is obviously used to hide something that is horrible or illegal. Who use double meanings is a criminal or a victim of a corrupted system. Full stop. Nobility only use double entendre.
+
+What I've learned listening to nobles here in network?
+
+- That middle age still exist. And this is the first of all.
+- **That the woman that I'm in love to has absolutely necessity of help from police. Absolutely.**
+- That almost all the people that I've known in my life are victim of nobility. Someone is an executioner.
+- That when someone say to you to shut up, you have to speak.
+
+
 
 ### External links
 
