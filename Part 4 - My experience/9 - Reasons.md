@@ -88,7 +88,15 @@ How they use me for all over my life? Three ways:
 2. Alpha test of technology and brain inducted states. Without any doubt from when I'm opened and probably from when I was a child. A human guinea pig.
 3. Object of bets in the remote parimutuel betting system.
 
+But in nobility there is always more than a sense so the **idiom** [[16]](https://en.wikipedia.org/wiki/Idiom) "the reverse of the medal" has to be interpreted has:
 
+1. Be part of a selection process. When you are under a magnetic bell where a lot of people bet over your life, in my case from November 2017, all the ones that participate in fact are observed from enormous epicure that evaluate you in front of all the others. Because you're object of bets all the others think that you're the victim but if you're great you can "turn the omelette" so all the others can be victims. Some is used to attract others in a failure state, in my case my queen, Saray, has been used like a **mousetrap** [[17]](https://en.wikipedia.org/wiki/Mousetrap) with sexual harassment, practically all who I've known in my life have do sex with her in radio, that it can be considered a failure for them.
+2. Always speaking about alpha test it can be considered select a man with great values.
+3. What they've sold it can be considered in a small part a revenue for you if you pass the proof.
+
+Speaking about the clerical way to see the think in four ways of interpretation like the cross interpretation are very difficult to understand but in my opinion follow what is known as the four rhetorical operation, but this in case of judgment in a court are practically impossible to proof always because the Vatican state is almost untouchable. 
+
+But yes they are here and they are playing with me. 
 
 
 
@@ -109,3 +117,5 @@ How they use me for all over my life? Three ways:
 13. https://dictionary.cambridge.org/dictionary/english/recognize
 14. https://en.wikipedia.org/wiki/Childhood
 15. https://en.wikipedia.org/wiki/Big_data
+16. https://en.wikipedia.org/wiki/Idiom
+17. https://en.wikipedia.org/wiki/Mousetrap

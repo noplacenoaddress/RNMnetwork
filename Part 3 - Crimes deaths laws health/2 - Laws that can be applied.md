@@ -201,6 +201,10 @@ Start with the options that I'm a nobleman traded in the child trafficking black
 
 And this could be the reason why I'm under torture. And why all the people that I've known before doesn't help me. Because the church have give them some part of my possessions and they are now abuser also. But I love them, someone could change. In my opinion also the church could change their behavior I don't want to be the richest man in the world. I only want to be a family dad. Nothing more.  
 
+### Slavery
+
+
+
 
 
 ### External links
