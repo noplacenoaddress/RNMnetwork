@@ -53,7 +53,8 @@ Articles or paragraphs (Spanish language):
   - De los delitos cometidos por los funcionarios públicos contra otros derechos individuales.
 - Delitos de las organizaciones y grupos criminales.
 - Delitos de lesa humanidad.
-- 
+
+
 
 ### External links
 
