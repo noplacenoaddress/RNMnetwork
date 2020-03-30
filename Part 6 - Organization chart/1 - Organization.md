@@ -34,26 +34,6 @@ I'm sorry my dear, but your intelligence cannot be applied to induct to suicide 
 
 Thank you.
 
-### Batman
-
-![Batman](../Images/batmandetective-1200x675.jpg)
-
-He is a good man, he has a good soul. Very strong and with deep knowledge. A fighter. Mask his knowledge leaving in the street. The street is one of him passions, and so it is for me.
-
-The techno music is another passion of him, he came from the progressive techno music scene. Now supporter and promoter of the **hardtechno** [[10]](https://en.wikipedia.org/wiki/Hardtechno) scene, he is one of the few without perversions, one of the few faithful men, as a man must be.
-
-Here is some music from the old progressive techno scene:
-
-https://www.youtube.com/user/Mrblack1971
-
-I put him here cause i don't wanna describe the old Tuscan crew. Because they were absorbed by the "Illuminati". But the root is different.
-
-I don't want to describe more of this man, he is great. Some connection with south America and Caribbean culture.
-
-Cheers, my friend.
-
-> *Probably he is inside this crew to revenge the collapse of the progressive movement done by the Francese, the girl above.*
-
 ### Who i was calling brother
 
 ![Benelli Leonino](../Images/Benelli_Leoncino_500_Sport_2018_1000_0001.jpg)
