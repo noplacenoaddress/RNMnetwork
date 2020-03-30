@@ -22,7 +22,7 @@ Articles or paragraphs (Spanish language):
 - Delitos contra la intimidad, el derecho a la propia imagen y la inviolabilidad del domicilio.
   
   - Del descubrimiento y revelación de secretos
-- Delitos contra le honor.
+- Delitos contra el honor.
   - De la calumnia.
   - De la injuria.
 - Delitos contra le patrimonio y contra el orden socioeconómico.
@@ -52,6 +52,7 @@ Articles or paragraphs (Spanish language):
   - De los delitos cometidos por los funcionarios públicos contra la inviolavilidad domiciliaria y demás garantías de la intimidad.
   - De los delitos cometidos por los funcionarios públicos contra otros derechos individuales.
 - Delitos de las organizaciones y grupos criminales.
+- Delitos de lesa humanidad.
 - 
 
 ### External links
