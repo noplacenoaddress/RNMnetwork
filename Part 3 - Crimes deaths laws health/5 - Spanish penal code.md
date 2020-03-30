@@ -54,7 +54,33 @@ Articles or paragraphs (Spanish language):
 - Delitos de las organizaciones y grupos criminales.
 - Delitos de lesa humanidad.
 
+Another possible classification that I can indicate to you reader of the abuses that I'm victim of from November 2017 is:
 
+- Abstención de acusar.
+- Abuso de autoridad.
+- Abuso de cargo.
+- Abuso de confianza.
+- Abuso de superioridad.
+- Abuso sexual por medios tecnologicos teléfono o internet.
+- Acoso ilegítimo.
+- Acoso laboral.
+- Acoso sexual.
+- Acuerdos societarios.
+- Agresión sexual.
+- Alteración de la paternidad.
+- Allanamiento de morada por particular.
+- Amenazas a persona.
+- Amenazas de revelar hecho intimos.
+- Animales, abandono.
+- Anomalía o alteración psíquica.
+- Apología.
+- Armas y municiones.
+- Asociación ilicita. Concepto, cooperación economica, fundadores directivos y promotores, miembros activos, provocación, conspiración y proposición y trafico ilegal de personas.
+- Banda armada. Asociación ilícita.
+- Blanqueo de capitales.
+- Ciberacoso infantil.
+- Cohecho. Corrupción de funcionarios.
+- 
 
 ### External links
 
