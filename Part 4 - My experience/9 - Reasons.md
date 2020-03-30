@@ -72,6 +72,34 @@ What are the passes that I've to complain to be recognized in the society:
 
 > *To many of them, and many it's incredible, really incredible, to speak with I will only say: thank you. Thank you. Thank you. Love you guys.* 
 
+### How do they use me in slavery
+
+![Anti slavery day](../Images/anti-slavery-day-logo.jpg)
+
+So I'm in this hell network probably from when I was a child, because in radio they have speak about and in dream and visual cortex injections they have streamed to my brain information totally true about my **childhood** [[14]](https://en.wikipedia.org/wiki/Childhood). When I was a child I cannot remember if I've suffered sexual violence but I can underline that who probably is my stepfamily don't do it. So I will that no, no one have fucked me. 
+
+Remember that I'm opened, or better say I'm in active neural control with brain, nervous and muscle interactions, from November 2017. From that date I've suffered sexual violence in radio only a couple of times and very rapid. Nothing important, and this is not normal because here slaves or victims or target individuals normally are violated. 
+
+So in my opinion only for this I'm an important person.
+
+How they use me for all over my life? Three ways:
+
+1. Sold of data from what I see. Because I'm an human camera from 11/2017 without any doubt and probably from when I was a child. Is what is known as **big data** [[15]](https://en.wikipedia.org/wiki/Big_data).
+2. Alpha test of technology and brain inducted states. Without any doubt from when I'm opened and probably from when I was a child. A human guinea pig.
+3. Object of bets in the remote parimutuel betting system.
+
+But in nobility there is always more than a sense so the **idiom** [[16]](https://en.wikipedia.org/wiki/Idiom) "the reverse of the medal" has to be interpreted has:
+
+1. Be part of a selection process. When you are under a magnetic bell where a lot of people bet over your life, in my case from November 2017, all the ones that participate in fact are observed from enormous epicure that evaluate you in front of all the others. Because you're object of bets all the others think that you're the victim but if you're great you can "turn the omelette" so all the others can be victims. Some is used to attract others in a failure state, in my case my queen, Saray, has been used like a **mousetrap** [[17]](https://en.wikipedia.org/wiki/Mousetrap) with sexual harassment, practically all who I've known in my life have do sex with her in radio, that it can be considered a failure for them.
+2. Always speaking about alpha test it can be considered select a man with great values.
+3. What they've sold it can be considered in a small part a revenue for you if you pass the proof.
+
+Speaking about the clerical way to see the think in four ways of interpretation like the cross interpretation are very difficult to understand but in my opinion follow what is known as the four rhetorical operation, but this in case of judgment in a court are practically impossible to proof always because the Vatican state is almost untouchable. 
+
+But yes they are here and they are playing with me. 
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/MyHeritage
@@ -87,3 +115,7 @@ What are the passes that I've to complain to be recognized in the society:
 11. https://en.wikipedia.org/wiki/Trafficking_of_children
 12. https://en.wikipedia.org/wiki/Witness
 13. https://dictionary.cambridge.org/dictionary/english/recognize
+14. https://en.wikipedia.org/wiki/Childhood
+15. https://en.wikipedia.org/wiki/Big_data
+16. https://en.wikipedia.org/wiki/Idiom
+17. https://en.wikipedia.org/wiki/Mousetrap

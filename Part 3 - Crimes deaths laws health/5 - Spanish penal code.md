@@ -18,12 +18,17 @@ Articles or paragraphs (Spanish language):
   - De los abusos y agresiones sexuales a menores de diceséis años.
   - Del acoso sexual.
   - De los delitos relativos a la prostitución y a la explotación sexual y corrupción de menores.
+  
 - Delitos de la omisión del dever de soccorro.
+
 - Delitos contra la intimidad, el derecho a la propia imagen y la inviolabilidad del domicilio.
+  
   - Del descubrimiento y revelación de secretos
+  
 - Delitos contra le honor.
   - De la calumnia.
   - De la injuria.
+  
 - Delitos contra le patrimonio y contra el orden socioeconómico.
   - De los hurtos.
   - De los robos.
@@ -32,8 +37,32 @@ Articles or paragraphs (Spanish language):
   - De la usarpación.
   - De las defraudaciones.
     - De las estafas.
-    - 
+  
+- Delitos de los daños.
+
+- Delitos relativos a la propiedad intelectual e industrial, al mercado y los consumidores.
+
+- Delitos societarios.
+
+- Delitos de la receptación y el blanqueo de capitales.
+
+- Delitos relativos a la protección de la flora, fauna y animales domésticos.
+
+- Delitos contra la salud pública.
+
+- Delitos de las falsedades documentales.
+
+- Delitos de la prevaricación de los funcionarios públicos y otros comportamientos injustos.
+
+- Delitos de la desobediencia y denegación de auxilio.
+
+- Delitos del cohecho.
+
+- Delitos de la omisión de los deberes de impedir delitos o de promover su persecución.
+
 - 
+
+  
 
 ### External links
 

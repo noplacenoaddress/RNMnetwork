@@ -100,6 +100,8 @@ This woman is an heroine when she knows that I've fall into this noble network l
 
 This woman is from when she was a child that is used in the Franco's network in Spain to do sexual favors to big families.
 
+In Catalunya the noble network is owned by a big noble family and, as usual they call it game, they found a Mafia that is called "Sagrada Familia" that is dedicated to drug, prostitution in radio and physic and hacking that in noble terms is "human hacking" or better saying destroying noble families with infidelity. This is how nobles call the "world wide hacker scene".
+
 This woman is a target individual, from the state and the church. The only explanation is that she is also victim of child trafficking. Or she is from a noble family that have disinherited a branch of the family.
 
 **To disinherit** [[10]](https://dictionary.cambridge.org/dictionary/english/disinherit). 
