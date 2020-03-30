@@ -82,12 +82,13 @@ Remember that I'm opened, or better say I'm in active neural control with brain,
 
 So in my opinion only for this I'm an important person.
 
-How they use me for all over my life? Four ways:
+How they use me for all over my life? Three ways:
 
 1. Sold of data from what I see. Because I'm an human camera from 11/2017 without any doubt and probably from when I was a child. Is what is known as **big data** [[15]](https://en.wikipedia.org/wiki/Big_data).
 2. Alpha test of technology and brain inducted states. Without any doubt from when I'm opened and probably from when I was a child. A human guinea pig.
 3. Object of bets in the remote parimutuel betting system.
-4. 
+
+
 
 
 
