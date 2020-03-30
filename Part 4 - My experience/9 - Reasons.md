@@ -72,6 +72,25 @@ What are the passes that I've to complain to be recognized in the society:
 
 > *To many of them, and many it's incredible, really incredible, to speak with I will only say: thank you. Thank you. Thank you. Love you guys.* 
 
+### How do they use me in slavery
+
+![Anti slavery day](../Images/anti-slavery-day-logo.jpg)
+
+So I'm in this hell network probably from when I was a child, because in radio they have speak about and in dream and visual cortex injections they have streamed to my brain information totally true about my **childhood** [[14]](https://en.wikipedia.org/wiki/Childhood). When I was a child I cannot remember if I've suffered sexual violence but I can underline that who probably is my stepfamily don't do it. So I will that no, no one have fucked me. 
+
+Remember that I'm opened, or better say I'm in active neural control with brain, nervous and muscle interactions, from November 2017. From that date I've suffered sexual violence in radio only a couple of times and very rapid. Nothing important, and this is not normal because here slaves or victims or target individuals normally are violated. 
+
+So in my opinion only for this I'm an important person.
+
+How they use me for all over my life? Four ways:
+
+1. Sold of data from what I see. Because I'm an human camera from 11/2017 without any doubt and probably from when I was a child. Is what is known as **big data** [[15]](https://en.wikipedia.org/wiki/Big_data).
+2. Alpha test of technology and brain inducted states. Without any doubt from when I'm opened and probably from when I was a child. A human guinea pig.
+3. Object of bets in the remote parimutuel betting system.
+4. 
+
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/MyHeritage
@@ -87,3 +106,5 @@ What are the passes that I've to complain to be recognized in the society:
 11. https://en.wikipedia.org/wiki/Trafficking_of_children
 12. https://en.wikipedia.org/wiki/Witness
 13. https://dictionary.cambridge.org/dictionary/english/recognize
+14. https://en.wikipedia.org/wiki/Childhood
+15. https://en.wikipedia.org/wiki/Big_data
