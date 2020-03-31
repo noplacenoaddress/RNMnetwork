@@ -69,7 +69,33 @@ This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coo
 
 This site has got a lot of others tower and all are operating in the lowest part of the radio spectrum. We will speak more about this site in the fourth chapter. 
 
+### B of Barcelona
 
+![B of Barcelona](../Images/pizza-circus-pizza-circus-10-ecac6.jpg)
+
+In the circus of Barcelona where it's managed the B-side market the gangstalking scene is present. The Barcelona mafia it's almost all in radio. Barcelona has got an occult face all streamed directly into visual and auditory cortex to people that have got access to this network. Almost all Spanish people got it but a little circle of target individuals and operators see the worst face of it. How can it be possible? Simple depending on the magnetic identification of the client you'll see one environment or other. 
+
+In reality all this circus has got different levels of interpretation. The deepest and dirtiest one is a brain washing machine that serve to input, upload and output the target individual in cycles. What does I mean? That one time that a person is inserted into this hellish circle, very similar to a Dante's representation of reality, first of all you understand that almost all your life has been machinated. And this is really very sad. Next you understand that almost all the people that you know got a "mission" that conduct you slowly or more rapidly depending on your character to only one final goal:
+
+The destruction of the soul, heavy drug addiction and suicide. But first of all to pass to be an abused to be an abuser.
+
+Why? Because you're a condemned. Why? Simple because you're victim of slavery, forced labor from when you're a child. Why? Because some criminals has sold you in the black market to be played like a card game in this hell. Why? For revenue purposes is the first answer. Secondly it's obviously nobility. You're a bastard or a son that doesn't complain to a pattern in your family. Thirdly you can be a special card to be played like a ram. 
+
+In reality no of this options are good because  you're life is controlled. To fight against this unjust condemnation on the part of people who are now close to the end of their lives as yours could be your stepfamily or worst your real parents the only think that we, we that are target individuals in Europe, target individuals condemned by an ancient mechanism of nobility, church and role play game, have to unveil the remote neural control facility, its infrastructure, register all what we feel and see and use the laws that have been done to protect you, a citizen of a democratic Europe. All that they say in voice to skull chat are frivolities. 
+
+Never be afraid of nobility, mafia or criminals. You're a citizen and you're deeply protected by the state. That is the most important organism in Europe. If your state doesn't really help you we've got the European parliament that will crush like an insect a corrupted state.
+
+But I live in Spain, Spain got a great administration and I trust the Spanish state.
+
+So what is the real purpose of the "Sagrada familia" mafia, that is not because in reality it's a noble game but in front of a judge no one can affirm that mafia is a noble game. No one. Mafia is a criminal association and it's persecuted by the state police forces very strongly. There's no Mafia nowadays that could kill us. The citizens. Everything else is a small story for ignorant children. Nothing more.
+
+One of the worst think about this hell history it's not about me. It's about two persons that I'm deeply in love with. My ex girlfriend Saray is abused from when she was a child in this network for ignorance. A cultivated ignorance. My very good friend Massimo also is abused in this network but in another manner. And they have got babies. So I will fight in front of the state for them.
+
+Saray and Massimo are **pawns** [[13]](https://en.wikipedia.org/wiki/Pawn_(chess)) in this brain wash machine. And I want to take them out from this shit. And I'll do it.
+
+Massimo and Saray are for me like brothers, shit she is wonderful.
+
+And in this neural hell you've to shut up your fucking stupid mouth or I will eliminate you. You know how? Using the police and military forces of this state, my be loved Spain. Today is my birthday, I think I really don't know, I promise guys. I promise.
 
 ###  External links
 
@@ -85,4 +111,5 @@ This site has got a lot of others tower and all are operating in the lowest part
 10. https://en.wikipedia.org/wiki/Google_Street_View
 11. https://en.wikipedia.org/wiki/Instagram
 12. [https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira](https://en.wikipedia.org/wiki/Turó_de_la_Rovira)
+13. https://en.wikipedia.org/wiki/Pawn_(chess)
 
