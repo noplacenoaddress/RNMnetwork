@@ -80,6 +80,11 @@ Another possible classification that I can indicate to you reader of the abuses 
 - Blanqueo de capitales.
 - Ciberacoso infantil.
 - Cohecho. Corrupción de funcionarios.
+- Conspiración, proposición y provocación de detención ilegal y secuestro. Lesiones. Provocación sexual. Robo, extorsión, estafa o aprovocación indebida. Trafico de drogas. Traición.
+- Delitos contra la Constitución Española.
+- Cooperación al suicidio.
+- Corrupción de funcionarios.
+- Child grooming.
 - 
 
 ### External links
