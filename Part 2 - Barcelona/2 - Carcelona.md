@@ -97,6 +97,11 @@ Massimo and Saray are for me like brothers, shit she is wonderful.
 
 And in this neural hell you've to shut up your fucking stupid mouth or I will eliminate you. You know how? Using the police and military forces of this state, my be loved Spain. Today is my birthday, I think I really don't know, I promise guys. I promise.
 
+Let's try to understand the meaning of washing machine:
+
+- Money, remember that on the top of Catalunya there is a small state Vatican related. An accepted fiscal heaven. **Andorra** [[14]](https://en.wikipedia.org/wiki/Andorra). The recycle could be without any doubt from Bitcoin to Euro and vice versa. But it is only a little part. 
+- Classic 
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Monopoly_(game)
@@ -112,4 +117,5 @@ And in this neural hell you've to shut up your fucking stupid mouth or I will el
 11. https://en.wikipedia.org/wiki/Instagram
 12. [https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira](https://en.wikipedia.org/wiki/Turó_de_la_Rovira)
 13. https://en.wikipedia.org/wiki/Pawn_(chess)
+14. https://en.wikipedia.org/wiki/Andorra
 
