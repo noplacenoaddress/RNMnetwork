@@ -100,7 +100,29 @@ And in this neural hell you've to shut up your fucking stupid mouth or I will el
 Let's try to understand the meaning of washing machine:
 
 - Money, remember that on the top of Catalunya there is a small state Vatican related. An accepted fiscal heaven. **Andorra** [[14]](https://en.wikipedia.org/wiki/Andorra). The recycle could be without any doubt from Bitcoin to Euro and vice versa. But it is only a little part. 
-- Classic 
+- Classic black to with and return business chain, for example:
+  - Drug and prostitution.
+  - Other B-side related also technological nowadays.  
+  - Catering and tourism.
+  - Construction and real estate.
+  - Bank and stock exchange.
+  - etcetera etcetera.
+
+Speaking about nobility washing machine could be:
+
+- Brain, or better saying gang stalking and gas lighting.
+- Mobbing.
+- Sexual harassment.
+- Force labor.
+- Child trafficking.
+- Parimutuel betting.
+- etcetera etcetera.
+
+So this is a rapid analysis of the black and with market present in Catalunya a territory that is considerate one of the most rich in Spain. Full of possible **tax investigations** [[15]](https://en.wikipedia.org/wiki/Tax_investigation).
+
+![Al Capone](../Images/capone.jpg)
+
+Speaking about Mafia, my dear Mafia fellows, do you remember how was enjailed mr Al Capone? For **tax evasion** [[16]](https://en.wikipedia.org/wiki/Tax_evasion).
 
 ###  External links
 
@@ -118,4 +140,6 @@ Let's try to understand the meaning of washing machine:
 12. [https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira](https://en.wikipedia.org/wiki/Turó_de_la_Rovira)
 13. https://en.wikipedia.org/wiki/Pawn_(chess)
 14. https://en.wikipedia.org/wiki/Andorra
+15. https://en.wikipedia.org/wiki/Tax_investigation
+16. https://en.wikipedia.org/wiki/Tax_evasion
 
