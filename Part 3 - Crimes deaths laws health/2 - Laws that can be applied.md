@@ -205,7 +205,7 @@ And this could be the reason why I'm under torture. And why all the people that 
 
 ![Slavery](../Images/640px-Maler_der_Grabkammer_des_Rechmirê_002.jpg)
 
-
+Slavery is a crime persecuted by international laws. Slavery
 
 
 
