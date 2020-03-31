@@ -51,8 +51,6 @@ You can appreciate what happened from 2010 to 2017. The climb in number is incre
 
 *Don't do it sweetie, i love you.*
 
-
-
 ### External links
 
 1. https://en.wikipedia.org/wiki/Ponte_Morandi
