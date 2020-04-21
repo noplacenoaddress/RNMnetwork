@@ -221,7 +221,7 @@ At the first key of lecture this is only a street address. But no, it isn't:
 
 Why I give to interpretation to what is the first key of lecture. Because this is masonry and nobility. Thinks are behind what we see. All of this network is build upon this concept.
 
-My parents work without any question at high level in the black market in transposition probably for the Durand de la Penne drug cartel.
+My parents could work without any question at high level in the black market in transposition probably for the Durand de la Penne drug cartel.
 
 ### External links
 
