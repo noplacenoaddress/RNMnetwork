@@ -62,7 +62,7 @@ The human auditory system is composed by the **auditory system** [[38]](https://
 
 ![US5159703](../Images/voicetoskull.png)
 
-The auditory system is totally bypassed by the voice to skull technology. Voice to skull from the early seventy until now was classified as mental sickness. Voice to skull technology was patented on 27 October 1992 by United States Patent under the official name of **silent subliminal presentation system** [[40]](https://patents.google.com/patent/US5159703A/en). The system generate a single **sideband** [[41]](https://en.wikipedia.org/wiki/Sideband), **suppressed carrier** [[42]](https://en.wikipedia.org/wiki/Double-sideband_suppressed-carrier_transmission), **amplitude modulated (AM)** [[43]](https://en.wikipedia.org/wiki/Amplitude_modulation) signal with a channel width of 14.5 KHz, the frequency is 462.25 KHz. 
+The auditory system is totally bypassed by the voice to skull technology. Voice to skull from the early seventy until now was classified as mental sickness. Voice to skull technology was patented on 27 October 1992 by United States Patent under the official name of **silent subliminal presentation system** [[40]](https://patents.google.com/patent/US5159703A/en). The system generate a single **sideband** [[41]](https://en.wikipedia.org/wiki/Sideband), **suppressed carrier** [[42]](https://en.wikipedia.org/wiki/Double-sideband_suppressed-carrier_transmission), **amplitude modulated** [[43]](https://en.wikipedia.org/wiki/Amplitude_modulation) signal with a channel width of 14.5 KHz, the frequency is 462.25 KHz. 
 
 In Catalunya, Spain, people that have worked in this patent have shifted the center frequency and found another that work exactly like these. 431.87
 

@@ -8,7 +8,7 @@ The gang stalking scene, and as you can appreciate I write scene like the **hack
 
 To gain access to state, military and Vatican structures false hacking crimes are done. Normally they are accords between some noble that administrate ancient analog state infrastructure and hacker crew. Those nobles are normally the pupils of fat families. Stupids that sell state semi secret services to gang stalkers. To mask this fraud those people use normally the name Anonymous, citizens think that they are a terrorist group but in reality this name is used to cover this type of network abuses. 
 
-They use the group Anonymous like an anonymizer [[4]](https://en.wikipedia.org/wiki/Anonymizer).
+They use the group Anonymous like an **anonymizer** [[4]](https://en.wikipedia.org/wiki/Anonymizer).
 
 The hacked services are what I've described before. The reflection to which I want to bring the reader is that in reality these services that belong to institutions, church and military is absolutely unthinkable that have been forced and that the technical assistance department of the same is not able to close the security problem . At this point where we have explained how it works, what are the profits and how victims are committed to suicide the most obvious reasoning is to give as true the fact that the legitimate owners, which are institutions, or well leave a security error by the way, since they profit from this hidden but not unknown criminal world, or the so-called nobles who deal with their management use Anonymous's mask and pass themselves off as hackers.
 
