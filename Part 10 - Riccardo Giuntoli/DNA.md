@@ -18,7 +18,11 @@ This is so important and remember that nobles use the art of deception something
 
 **23andMe** [[8]](https://en.wikipedia.org/wiki/23andMe) is a **Silicon Valley** [[9]](https://en.wikipedia.org/wiki/Silicon_Valley) private company working on **biotechnology** [[10]](https://en.wikipedia.org/wiki/Biotechnology) and **genetic genealogy** [[11]](https://en.wikipedia.org/wiki/Genetic_genealogy) obtained by homemade saliva test received by customers using standard post services.
 
-They analyze saliva doing a 
+They execute **salivaomics** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) over the sample received that have the goal to complain with a **genealogical DNA test** [[13]](https://en.wikipedia.org/wiki/Genealogical_DNA_test) to estimate **ethnic** [[14]](https://en.wikipedia.org/wiki/Ethnic_group) and **ancestry** [[15]](https://en.wikipedia.org/wiki/Ancestor) of an individual. 
+
+![Salivaomics to 23andMe](../Images/20200306_095628.jpg)
+
+I've send my saliva sample on 6 March of 2020 to a company dedicated to the stocking and delivering of medical test among others services. The company is **Movianto** [[16]](http://movianto.com/) and the delegation is in Netherlands. From Netherlands. Than it was delivered to US and next the sample was subjected to **DNA extraction** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
 # External links
 
@@ -43,5 +47,19 @@ They analyze saliva doing a
 10. https://en.wikipedia.org/wiki/Biotechnology
 
 11. https://en.wikipedia.org/wiki/Genetic_genealogy
+
+12. https://en.wikipedia.org/wiki/Saliva_testing
+
+13. https://en.wikipedia.org/wiki/Genealogical_DNA_test
+
+14. https://en.wikipedia.org/wiki/Ethnic_group
+
+15. https://en.wikipedia.org/wiki/Ancestor
+
+16. http://movianto.com/
+
+17. https://en.wikipedia.org/wiki/DNA_extraction
+
+    
 
     
