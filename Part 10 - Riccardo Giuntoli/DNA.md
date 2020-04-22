@@ -12,16 +12,36 @@ Now that I'm fighting for my rights in the neural network I've learned a think, 
 
 This is so important and remember that nobles use the art of deception something that derived from the Catholic allegoric figure of the **forbidden fruit** [[7]](https://en.wikipedia.org/wiki/Forbidden_fruit). Church is totally implied in the gang stalking business. The technological B-side. The digital mafia. Almost all is connected with bloodlines. 
 
+### 23andMe
 
+![23andMe](../Images/23admMe.png)
 
- 
+**23andMe** [[8]](https://en.wikipedia.org/wiki/23andMe) is a **Silicon Valley** [[9]](https://en.wikipedia.org/wiki/Silicon_Valley) private company working on **biotechnology** [[10]](https://en.wikipedia.org/wiki/Biotechnology) and **genetic genealogy** [[11]](https://en.wikipedia.org/wiki/Genetic_genealogy) obtained by homemade saliva test received by customers using standard post services.
+
+They analyze saliva doing a 
 
 # External links
 
 1. https://en.wikipedia.org/wiki/DNA
+
 2. https://en.wikipedia.org/wiki/Genetics
+
 3. https://en.wikipedia.org/wiki/Heredity
+
 4. https://en.wikipedia.org/wiki/Sexual_reproduction
+
 5. https://en.wikipedia.org/wiki/Surname
+
 6. https://en.wikipedia.org/wiki/Lineage_(genetic)
+
 7. https://en.wikipedia.org/wiki/Forbidden_fruit
+
+8. https://en.wikipedia.org/wiki/23andMe
+
+9. https://en.wikipedia.org/wiki/Silicon_Valley
+
+10. https://en.wikipedia.org/wiki/Biotechnology
+
+11. https://en.wikipedia.org/wiki/Genetic_genealogy
+
+    
