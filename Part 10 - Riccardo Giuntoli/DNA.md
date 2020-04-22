@@ -24,7 +24,19 @@ They execute **salivaomics** [[12]](https://en.wikipedia.org/wiki/Saliva_testing
 
 I've send my saliva sample on 6 March of 2020 to a company dedicated to the stocking and delivering of medical test among others services. The company is **Movianto** [[16]](http://movianto.com/) and the delegation is in Netherlands. From Netherlands. Than it was delivered to US and next the sample was subjected to **DNA extraction** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
-In the first image you can appreciate the ethnic estimation of this private company. Here there are 
+In the first image you can appreciate the ethnic estimation of this private company. Here there are **ethnic group** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) that DNA speaking they share similar **gene pool** [[19]](https://en.wikipedia.org/wiki/Gene_pool), them groups and sub groups:
+
+- Southern European 82.6%
+  - Italian 71.1%
+  - Greek and Balkan 2.5%
+  - Sardinian 2.4%
+  - Spanish and Portuguese 2.0%
+  - Broadly southern European 4.6%
+- Broadly European 2.0%
+- Western Asian and north African 0.8%
+- Unassigned 0.3%
+
+All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe).
 
 # External links
 
@@ -61,6 +73,12 @@ In the first image you can appreciate the ethnic estimation of this private comp
 16. http://movianto.com/
 
 17. https://en.wikipedia.org/wiki/DNA_extraction
+
+18. https://en.wikipedia.org/wiki/Ethnic_group
+
+19. https://en.wikipedia.org/wiki/Gene_pool
+
+20. https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe
 
     
 
