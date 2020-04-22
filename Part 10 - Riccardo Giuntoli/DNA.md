@@ -38,6 +38,10 @@ In the first image you can appreciate the ethnic estimation of this private comp
 
 All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe).
 
+![Hill of Tara](../Images/tara-aerial.jpg)
+
+
+
 # External links
 
 1. https://en.wikipedia.org/wiki/DNA
