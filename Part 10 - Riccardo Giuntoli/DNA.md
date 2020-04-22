@@ -24,6 +24,8 @@ They execute **salivaomics** [[12]](https://en.wikipedia.org/wiki/Saliva_testing
 
 I've send my saliva sample on 6 March of 2020 to a company dedicated to the stocking and delivering of medical test among others services. The company is **Movianto** [[16]](http://movianto.com/) and the delegation is in Netherlands. From Netherlands. Than it was delivered to US and next the sample was subjected to **DNA extraction** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
+In the first image you can appreciate the ethnic estimation of this private company. Here there are 
+
 # External links
 
 1. https://en.wikipedia.org/wiki/DNA
