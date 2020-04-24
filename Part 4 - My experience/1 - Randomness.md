@@ -210,6 +210,12 @@ My father when I was a boy told me different times a tale. An horrific tale. He 
 
 > *An occult child-trafficking mafia.* 
 
+Another stupidity that my father or stepfather I don't know because I'm victim of tecnophagia from my family that have put me in a parimutuel betting system in the remote neural control network in Catalonia have said to me when I was young is that one time he went to the **Giza pyramid complex** [[58]](https://en.wikipedia.org/wiki/Giza_pyramid_complex) to view the inside of the **Great Pyramid of Giza** [[59]](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza). He said to me that he had passed **claustrophobia** [[60]](https://en.wikipedia.org/wiki/Claustrophobia), another Machine derived mental disorder. Remember that in the "Illuminati" fraud one of the main symbolism is the eye of Horus. A symbol present in the ancient Egypt, similar to the **eye of Ra** [[61]](https://en.wikipedia.org/wiki/Eye_of_Ra).
+
+My father without any doubt have create this plot against my life from I was born. Why? Obviously something related to nobility or church. To protect something very valuable. But also because he suffer of an enormous mental hilliness. Probably derived from some family abuse or **inferiority complex** [[62]](https://en.wikipedia.org/wiki/Inferiority_complex) very deep-rooted from when he was young, and I don't even know because when I was a child he always been out of our house.
+
+> *But it can be only because he is a crazy that have used the neural network to deceive a lot of people.*
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -269,3 +275,8 @@ My father when I was a boy told me different times a tale. An horrific tale. He 
 55. https://en.wikipedia.org/wiki/NIE_number
 56. https://en.wikipedia.org/wiki/Portuguese_people
 57. https://en.wikipedia.org/wiki/Cesspit
+58. https://en.wikipedia.org/wiki/Giza_pyramid_complex
+59. https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+60. https://en.wikipedia.org/wiki/Claustrophobia
+61. https://en.wikipedia.org/wiki/Eye_of_Ra
+62. https://en.wikipedia.org/wiki/Inferiority_complex
