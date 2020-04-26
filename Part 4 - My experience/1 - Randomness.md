@@ -30,7 +30,7 @@ My father has always speak in a very bad way about Spanish people. But I think t
 
 *Markets and merchandise? Probably but I really don't know.*
 
-### When I was born
+### My mother mental illness
 
 ![tavor](../Images/587px-Tavor_lorazepam.jpg)
 
@@ -41,6 +41,10 @@ But why she is addicted and why just after my birth?
 I don't know. Probably is something church related. I know that they thought that i was a girl and my name had to be Jennifer, in English because my grandmother was from Florida, US. I don't know. *Are they my parents*? Or my case is something like this:
 
 https://www.mirror.co.uk/news/world-news/mum-raised-wrong-daughter-30-10632774
+
+Another strangeness that my family have always told to me is that when I was born they thought that I was a girl named Jennifer. I really don't understand why my father or stepfather told me this tail. Probably to give an answer to the heavy sedative dependency that affect the mind of my mother. Or because he have played with her with the machine of the neural network to change the X-ray results from her pregnancy.
+
+
 
 ### A strange car accident
 
@@ -216,6 +220,29 @@ My father without any doubt have create this plot against my life from I was bor
 
 > *But it can be only because he is a crazy that have used the neural network to deceive a lot of people.*
 
+### November rain, 2017
+
+![November Rain](../Images/61g7fcyjlWL._SL1280_.jpg)
+
+The 27 November 2017 I was actively connected to the Spanish neural network in Catalonia.  After a gas lighting persecution that have seen all citizens and authorities in Barcelona, the capital of the autonomous region of Spain. 
+
+> Something very similar to a Nazi racial persecution. 
+
+The 30 November 2017 my father, or stepfather I really don't know until I will do a **DNA paternity test** [[63]](https://en.wikipedia.org/wiki/DNA_paternity_testing), send me a very strange email to my google mail account where he starts to use the manner to speak with double meanings that use a professional stalker. And I really don't even know until this date that my father is one of them. A stalker. Someone that use double meanings to say various think with a phrase but that in reality if you understand what he wants to say he will say to you that your crazy. This is the most terrible weapon that use this kind of criminals. Probably my father don't understand that stalking is a crime punished by the Spanish penal code. 
+
+This is the email text in original language (Italian):
+
+> Ciao, ti racconto ma mi raccomando non dire nulla a mamma perché non vuole che si parli delle sue cose.
+> La mamma aveva un dente finto, incisivo, avvitato sulla radice esistente, frutto di un incidente di gioventù. Passati 40 anni la radice si è guastata e ha dovuto estrarla, il dentista le ha prospettato due soluzioni: fare ponte segando i due denti laterali o fare impianto con perno nel l’osso mandibolare, come hai fatto tu per i due premolari. Il dentista le ha consigliato impianto.
+> Purtroppo per installazione del perno nell’osso le ha causato una emorragia è attualmente ha labbro superiore molto gonfio e due grossi ematomi agli angoli della bocca. Come puoi capire è demoralizzata, inoltre deve fare cura antibiotica e dovrebbe prendere vitamine e fermenti lattici, ma tu conosci tua madre, per lei anche inghiottire una pillola è un grosso problema.
+> Ha fatto questo sciagurato intervento lunedì e sono tre giorni che non mangia, ti tengo informato, tu magari sentila un po’ su argomenti comuni ma ti raccomando nuovamente di non dirle che ti ho raccontato.
+
+I have absolutely no doubt that my family or step family have put me in the gang stalking human hacking scene to obtain incredible revenues and inducting me to suicide. 
+
+Probably, and in fact it is because in neural network I've speak with the maximum Church representatives of the Catholic Church and the Spanish monarchy, they have been bound by third to lie me all them lives. What my father said to me in the past could be interpreted as suggestions. One thing is for sure they are guilty of silencing the truth from their only child. Be he naturally son or well son assigned by a corrupted nobility or Church.
+
+> This is my personal tragedy, my family have done one son to kill him. Nothing more and nothing less. And this is the true.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -280,3 +307,4 @@ My father without any doubt have create this plot against my life from I was bor
 60. https://en.wikipedia.org/wiki/Claustrophobia
 61. https://en.wikipedia.org/wiki/Eye_of_Ra
 62. https://en.wikipedia.org/wiki/Inferiority_complex
+63. https://en.wikipedia.org/wiki/DNA_paternity_testing
