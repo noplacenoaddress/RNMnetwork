@@ -30,7 +30,7 @@ My father has always speak in a very bad way about Spanish people. But I think t
 
 *Markets and merchandise? Probably but I really don't know.*
 
-### When I was born
+### My mother mental illness
 
 ![tavor](../Images/587px-Tavor_lorazepam.jpg)
 
@@ -41,6 +41,10 @@ But why she is addicted and why just after my birth?
 I don't know. Probably is something church related. I know that they thought that i was a girl and my name had to be Jennifer, in English because my grandmother was from Florida, US. I don't know. *Are they my parents*? Or my case is something like this:
 
 https://www.mirror.co.uk/news/world-news/mum-raised-wrong-daughter-30-10632774
+
+Another strangeness that my family have always told to me is that when I was born they thought that I was a girl named Jennifer. I really don't understand why my father or stepfather told me this tail. Probably to give an answer to the heavy sedative dependency that affect the mind of my mother. Or because he have played with her with the machine of the neural network to change the X-ray results from her pregnancy.
+
+
 
 ### A strange car accident
 
