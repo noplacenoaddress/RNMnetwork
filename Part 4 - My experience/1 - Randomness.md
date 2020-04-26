@@ -243,6 +243,12 @@ Probably, and in fact it is because in neural network I've speak with the maximu
 
 > This is my personal tragedy, my family have done one son to kill him. Nothing more and nothing less. And this is the true.
 
+![Saturn devouring his son](../Images/300px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
+
+I remember that when I was an adolescent my father tell me one good think: the best decade of a man start when he is 35 years old and end when he is 45. Now I know why he said to me this good think. To destroy my best years in my life. This fucking son of a bitch have planned my suicide from when I was young. And this is the true.
+
+Probably my father is affected by a terrible mental complex the one that **Francisco Goya** [[64]](https://en.wikipedia.org/wiki/Francisco_Goya) have painted in **Saturn Devouring His Son** [[65]](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) and probably he had done the same plot for the love of my life, Saray.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -308,3 +314,5 @@ Probably, and in fact it is because in neural network I've speak with the maximu
 61. https://en.wikipedia.org/wiki/Eye_of_Ra
 62. https://en.wikipedia.org/wiki/Inferiority_complex
 63. https://en.wikipedia.org/wiki/DNA_paternity_testing
+64. https://en.wikipedia.org/wiki/Francisco_Goya
+65. https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son
