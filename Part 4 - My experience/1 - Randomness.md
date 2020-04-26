@@ -239,6 +239,8 @@ This is the email text in original language (Italian):
 
 I have absolutely no doubt that my family or step family have put me in the gang stalking human hacking scene to obtain incredible revenues and inducting me to suicide. 
 
+Probably, and in fact it is because in neural network I've speak with the maximum Church representatives of the Catholic Church and the Spanish monarchy, they have been bound by third to lie me all them lives. What my father said to me in the past could be interpreted as suggestions. One thing is for sure they are guilty of silencing the truth from their only child. Be he naturally son or well son assigned by a corrupted nobility or Church.
+
 > This is my personal tragedy, my family have done one son to kill him. Nothing more and nothing less. And this is the true.
 
 ### External Links
