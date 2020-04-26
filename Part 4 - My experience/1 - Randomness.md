@@ -228,7 +228,18 @@ The 27 November 2017 I was actively connected to the Spanish neural network in C
 
 > Something very similar to a Nazi racial persecution. 
 
+The 30 November 2017 my father, or stepfather I really don't know until I will do a **DNA paternity test** [[63]](https://en.wikipedia.org/wiki/DNA_paternity_testing), send me a very strange email to my google mail account where he starts to use the manner to speak with double meanings that use a professional stalker. And I really don't even know until this date that my father is one of them. A stalker. Someone that use double meanings to say various think with a phrase but that in reality if you understand what he wants to say he will say to you that your crazy. This is the most terrible weapon that use this kind of criminals. Probably my father don't understand that stalking is a crime punished by the Spanish penal code. 
 
+This is the email text in original language (Italian):
+
+> Ciao, ti racconto ma mi raccomando non dire nulla a mamma perché non vuole che si parli delle sue cose.
+> La mamma aveva un dente finto, incisivo, avvitato sulla radice esistente, frutto di un incidente di gioventù. Passati 40 anni la radice si è guastata e ha dovuto estrarla, il dentista le ha prospettato due soluzioni: fare ponte segando i due denti laterali o fare impianto con perno nel l’osso mandibolare, come hai fatto tu per i due premolari. Il dentista le ha consigliato impianto.
+> Purtroppo per installazione del perno nell’osso le ha causato una emorragia è attualmente ha labbro superiore molto gonfio e due grossi ematomi agli angoli della bocca. Come puoi capire è demoralizzata, inoltre deve fare cura antibiotica e dovrebbe prendere vitamine e fermenti lattici, ma tu conosci tua madre, per lei anche inghiottire una pillola è un grosso problema.
+> Ha fatto questo sciagurato intervento lunedì e sono tre giorni che non mangia, ti tengo informato, tu magari sentila un po’ su argomenti comuni ma ti raccomando nuovamente di non dirle che ti ho raccontato.
+
+I have absolutely no doubt that my family or step family have put me in the gang stalking human hacking scene to obtain incredible revenues and inducting me to suicide. 
+
+> This is my personal tragedy, my family have done one son to kill him. Nothing more and nothing less. And this is the true.
 
 ### External Links
 
@@ -294,3 +305,4 @@ The 27 November 2017 I was actively connected to the Spanish neural network in C
 60. https://en.wikipedia.org/wiki/Claustrophobia
 61. https://en.wikipedia.org/wiki/Eye_of_Ra
 62. https://en.wikipedia.org/wiki/Inferiority_complex
+63. https://en.wikipedia.org/wiki/DNA_paternity_testing
