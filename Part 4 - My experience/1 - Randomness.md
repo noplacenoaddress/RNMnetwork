@@ -220,6 +220,16 @@ My father without any doubt have create this plot against my life from I was bor
 
 > *But it can be only because he is a crazy that have used the neural network to deceive a lot of people.*
 
+### November rain, 2017
+
+![November Rain](../Images/61g7fcyjlWL._SL1280_.jpg)
+
+The 27 November 2017 I was actively connected to the Spanish neural network in Catalonia.  After a gas lighting persecution that have seen all citizens and authorities in Barcelona, the capital of the autonomous region of Spain. 
+
+> Something very similar to a Nazi racial persecution. 
+
+
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
