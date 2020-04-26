@@ -1,4 +1,4 @@
-# Randomness
+# Randomness 
 
 In my life a some times someone have tried to kill me. And until now I don't understand why and I didn't start to investigate. But now I know and now I'm doing it.
 
@@ -43,6 +43,8 @@ I don't know. Probably is something church related. I know that they thought tha
 https://www.mirror.co.uk/news/world-news/mum-raised-wrong-daughter-30-10632774
 
 Another strangeness that my family have always told to me is that when I was born they thought that I was a girl named Jennifer. I really don't understand why my father or stepfather told me this tail. Probably to give an answer to the heavy sedative dependency that affect the mind of my mother. Or because he have played with her with the machine of the neural network to change the X-ray results from her pregnancy.
+
+
 
 
 
