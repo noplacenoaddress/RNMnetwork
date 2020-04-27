@@ -38,9 +38,36 @@ In the first image you can appreciate the ethnic estimation of this private comp
 
 All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe).
 
-![Hill of Tara](../Images/tara-aerial.jpg)
+![Haplogroups](../Images/Haplogroups_europe.png)
 
-Speaking about ancestry 
+Speaking about ancestry it's important to understand the world **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) that are a group of **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) who themselves are **allele** [[23]](https://en.wikipedia.org/wiki/Allele) that are what explain **mutations** [[24]](https://en.wikipedia.org/wiki/Mutation) and **phenotypes** [[25]](https://en.wikipedia.org/wiki/Phenotype).
+
+In **human genetics** [[26]](https://en.wikipedia.org/wiki/Human_genetics) two haplogroups are studied:
+
+- **Y-DNA** [[27]](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup) haplogroup, a **kinship** [[28]](https://en.wikipedia.org/wiki/Kinship) system known as the male line, or better saying **patrilineality** [[29]](https://en.wikipedia.org/wiki/Patrilineality). 	
+- **mtDNA** [[30]](https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup) haplogroup, that is inherited from the female line, the **matrilineality** [[31]](https://en.wikipedia.org/wiki/Matrilineality).
+
+Haplogroups are labeled with letters and numbers like you can appreciate in the image below.
+
+My Y-DNA haplogroup is the **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) and my mtDNA is **W** [[33]](https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)).
+
+You can download all the results obtained by the 23andMe genealogical DNA test at this URL:
+
+- **genome Riccardo Giuntoli** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
+
+### MyHeritage
+
+![Ethnic groups](../Images/20200427_132224.jpg)
+
+**MyHeritage** [[35]](https://en.wikipedia.org/wiki/MyHeritage) is an online genealogy platform based in Israel. On 28 of December 2019 they receive my salivaomics and got the laboratory results on 9 February 2020.
+
+The ethnic estimation is very different from the other company. And this is very strange. Salivaomics was send as the other with normal post office service. But as the other I've got all the genealogical DNA data to download in a public URL.
+
+![MyHerigage ethnic](../Images/myheritage-etnics.jpg)
+
+As you can see in Spanish language them explication of my DNA is:
+
+ 
 
 # External links
 
@@ -83,6 +110,38 @@ Speaking about ancestry
 19. https://en.wikipedia.org/wiki/Gene_pool
 
 20. https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe
+
+21. https://en.wikipedia.org/wiki/Haplogroup
+
+22. https://en.wikipedia.org/wiki/Haplotype
+
+23. https://en.wikipedia.org/wiki/Allele
+
+24. https://en.wikipedia.org/wiki/Mutation
+
+25. https://en.wikipedia.org/wiki/Phenotype
+
+26. https://en.wikipedia.org/wiki/Human_genetics
+
+27. https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup
+
+28. https://en.wikipedia.org/wiki/Kinship
+
+29. https://en.wikipedia.org/wiki/Patrilineality
+
+30. https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup
+
+31. https://en.wikipedia.org/wiki/Matrilineality
+
+32. https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152
+
+33. https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)
+
+34. https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true
+
+35. https://en.wikipedia.org/wiki/MyHeritage
+
+    
 
     
 
