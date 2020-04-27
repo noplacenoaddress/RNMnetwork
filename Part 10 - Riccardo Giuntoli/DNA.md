@@ -47,7 +47,17 @@ In **human genetics** [[26]](https://en.wikipedia.org/wiki/Human_genetics) two h
 - **Y-DNA** [[27]](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup) haplogroup, a **kinship** [[28]](https://en.wikipedia.org/wiki/Kinship) system known as the male line, or better saying **patrilineality** [[29]](https://en.wikipedia.org/wiki/Patrilineality). 	
 - **mtDNA** [[30]](https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup) haplogroup, that is inherited from the female line, the **matrilineality** [[31]](https://en.wikipedia.org/wiki/Matrilineality).
 
+Haplogroups are labeled with letters and numbers like you can appreciate in the image below.
 
+My Y-DNA haplogroup is the **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) and my mtDNA is **W** [[33]](https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)).
+
+You can download all the results obtained by the 23andMe genealogical DNA test at this URL:
+
+- **genome Riccardo Giuntoli** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
+
+### MyHeritage
+
+![Ethnic groups](../Images/20200427_132224.jpg)
 
 # External links
 
@@ -112,6 +122,14 @@ In **human genetics** [[26]](https://en.wikipedia.org/wiki/Human_genetics) two h
 30. https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup
 
 31. https://en.wikipedia.org/wiki/Matrilineality
+
+32. https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152
+
+33. https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)
+
+34. https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true
+
+    
 
     
 
