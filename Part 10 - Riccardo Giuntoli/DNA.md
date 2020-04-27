@@ -53,7 +53,7 @@ My Y-DNA haplogroup is the **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplo
 
 You can download all the results obtained by the 23andMe genealogical DNA test at this URL:
 
-- **genome Riccardo Giuntoli** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
+- **genome Riccardo Giuntoli 23andMe** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
 
 ### MyHeritage
 
@@ -65,7 +65,19 @@ The ethnic estimation is very different from the other company. And this is very
 
 ![MyHerigage ethnic](../Images/myheritage-etnics.jpg)
 
-As you can see in Spanish language them explication of my DNA is:
+As you can see in Spanish language them explication of my DNA is the one that I explain here:
+
+- **Telecom Lobby - possible reasons** [[36]](http://www.telecomlobby.com/neural_network/barcelona/my_experience/reasons.htm)
+
+Reasons of this difference could be that ethnic groups are only approximated or that one of the twos samples was manipulated. Remember that I used **Correos** [[37]](https://en.wikipedia.org/wiki/Correos) so if the results was manipulated it can be only from a very powerful hand and I don't add anything else.
+
+The results from the crown could underline some bloodline common with the Spanish crown, but I really don't know. In the neural network someone speak about it.
+
+> I will go ahead, I promise.
+
+You can download all the results obtained by the MyHeritage genealogical DNA test at this URL:
+
+- **genome Riccardo Giuntoli MyHeritage** [[38]](https://github.com/redeltaglio/DNA/blob/master/MyHeritage_raw_dna_data.csv?raw=true)
 
  
 
@@ -140,6 +152,12 @@ As you can see in Spanish language them explication of my DNA is:
 34. https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true
 
 35. https://en.wikipedia.org/wiki/MyHeritage
+
+36. http://www.telecomlobby.com/neural_network/barcelona/my_experience/reasons.htm
+
+37. https://en.wikipedia.org/wiki/Correos
+
+38. https://github.com/redeltaglio/DNA/blob/master/MyHeritage_raw_dna_data.csv?raw=true
 
     
 
