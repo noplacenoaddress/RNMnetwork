@@ -48,6 +48,22 @@ Another strangeness that my family have always told to me is that when I was bor
 
 In this video obtained with blue led light and a video camera with low resolution you can appreciate the shape of my mother doing sexual electronic torture to me.
 
+### An unexpected gift
+
+![5000 lira](../Images/Lire_5000_(Vincenzo_Bellini).jpeg)
+
+I remember a trip to Rome with my parents to Rome, where all the streets lead. I was just a child looking at those historical monuments with my eyes peering and my brain dreaming.
+
+It was the first present of the street that I've found. Remember, my reader, that nothing in our Europe its guided by the case. All it's machined. And in Rome there's the Pope and the Vatican. At that time the Pope was John Paul II from Poland. 
+
+My mother, that as you can read above got some mental diseases, in my childhood forced me to a catholic life. I received baptism, communion and confirmation. I attended the catechism. I took piano lessons for at least five years. I did not know how to frequent the company of other children but I was always with her, a particular woman did not cook for her son and the same could not use his cutlery at the table. He often quarreled with Dad and the environment in the house was very tense, shouting, quarreling and separate environments. I was always locked in the room playing the only video game they gave me at Christmas. The curious case is that I never complained about this environment that began to actively fight from the thirteen years fighting against the introspective character that this woman had imposed on me. I managed to be a totally free man very early, around sixteen. And I'm very proud given the teaching, excellent in culture, but totally bigoted and conservative. 
+
+> On the contrary, I am a leftist, liberal and socialist man. Long live freedom and democracy. Always. 
+
+For this reason my detachment from the mother's clerical bigotry and the consequent ineptitude of a father now retired and forced into this horrible environment, I could have ended up in the neuronal network with the final goal of the same, seriously ill, of my suicide or well a return to that environment.
+
+> But there are those who say no.
+
 ### A strange car accident
 
 ![san Viglio di Marebbe](../Images/22814182_10214864400186109_4054271269818059772_n.jpg)
