@@ -38,9 +38,16 @@ In the first image you can appreciate the ethnic estimation of this private comp
 
 All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe).
 
-![Hill of Tara](../Images/tara-aerial.jpg)
+![Haplogroups](../Images/Haplogroups_europe.png)
 
-Speaking about ancestry it's important to understand the world **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) that are a group of **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) who themselves are **allele** [[23]](https://en.wikipedia.org/wiki/Allele)
+Speaking about ancestry it's important to understand the world **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) that are a group of **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) who themselves are **allele** [[23]](https://en.wikipedia.org/wiki/Allele) that are what explain **mutations** [[24]](https://en.wikipedia.org/wiki/Mutation) and **phenotypes** [[25]](https://en.wikipedia.org/wiki/Phenotype).
+
+In **human genetics** [[26]](https://en.wikipedia.org/wiki/Human_genetics) two haplogroups are studied:
+
+- **Y-DNA** [[27]](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup) haplogroup, a **kinship** [[28]](https://en.wikipedia.org/wiki/Kinship) system known as the male line, or better saying **patrilineality** [[29]](https://en.wikipedia.org/wiki/Patrilineality). 	
+- **mtDNA** [[30]](https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup) haplogroup, that is inherited from the female line, the **matrilineality** [[31]](https://en.wikipedia.org/wiki/Matrilineality).
+
+
 
 # External links
 
@@ -89,6 +96,22 @@ Speaking about ancestry it's important to understand the world **haplogroup** [[
 22. https://en.wikipedia.org/wiki/Haplotype
 
 23. https://en.wikipedia.org/wiki/Allele
+
+24. https://en.wikipedia.org/wiki/Mutation
+
+25. https://en.wikipedia.org/wiki/Phenotype
+
+26. https://en.wikipedia.org/wiki/Human_genetics
+
+27. https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup
+
+28. https://en.wikipedia.org/wiki/Kinship
+
+29. https://en.wikipedia.org/wiki/Patrilineality
+
+30. https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup
+
+31. https://en.wikipedia.org/wiki/Matrilineality
 
     
 
