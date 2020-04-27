@@ -1,4 +1,4 @@
-# Randomness
+# Randomness 
 
 In my life a some times someone have tried to kill me. And until now I don't understand why and I didn't start to investigate. But now I know and now I'm doing it.
 
@@ -44,7 +44,9 @@ https://www.mirror.co.uk/news/world-news/mum-raised-wrong-daughter-30-10632774
 
 Another strangeness that my family have always told to me is that when I was born they thought that I was a girl named Jennifer. I really don't understand why my father or stepfather told me this tail. Probably to give an answer to the heavy sedative dependency that affect the mind of my mother. Or because he have played with her with the machine of the neural network to change the X-ray results from her pregnancy.
 
+[![Neural network stalking](https://img.youtube.com/vi/Jz3FwnnsBK8/0.jpg)](https://www.youtube.com/watch?v=Jz3FwnnsBK8)
 
+In this video obtained with blue led light and a video camera with low resolution you can appreciate the shape of my mother doing sexual electronic torture to me.
 
 ### A strange car accident
 
