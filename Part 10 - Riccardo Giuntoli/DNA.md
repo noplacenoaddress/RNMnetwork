@@ -40,7 +40,7 @@ All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_
 
 ![Hill of Tara](../Images/tara-aerial.jpg)
 
-Speaking about ancestry 
+Speaking about ancestry it's important to understand the world **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) that are a group of **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) who themselves are **allele** [[23]](https://en.wikipedia.org/wiki/Allele)
 
 # External links
 
@@ -83,6 +83,12 @@ Speaking about ancestry
 19. https://en.wikipedia.org/wiki/Gene_pool
 
 20. https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe
+
+21. https://en.wikipedia.org/wiki/Haplogroup
+
+22. https://en.wikipedia.org/wiki/Haplotype
+
+23. https://en.wikipedia.org/wiki/Allele
 
     
 
