@@ -59,6 +59,16 @@ You can download all the results obtained by the 23andMe genealogical DNA test a
 
 ![Ethnic groups](../Images/20200427_132224.jpg)
 
+**MyHeritage** [[35]](https://en.wikipedia.org/wiki/MyHeritage) is an online genealogy platform based in Israel. On 28 of December 2019 they receive my salivaomics and got the laboratory results on 9 February 2020.
+
+The ethnic estimation is very different from the other company. And this is very strange. Salivaomics was send as the other with normal post office service. But as the other I've got all the genealogical DNA data to download in a public URL.
+
+![MyHerigage ethnic](../Images/myheritage-etnics.jpg)
+
+As you can see in Spanish language them explication of my DNA is:
+
+ 
+
 # External links
 
 1. https://en.wikipedia.org/wiki/DNA
@@ -128,6 +138,8 @@ You can download all the results obtained by the 23andMe genealogical DNA test a
 33. https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)
 
 34. https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true
+
+35. https://en.wikipedia.org/wiki/MyHeritage
 
     
 
