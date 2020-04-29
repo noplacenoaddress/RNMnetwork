@@ -99,12 +99,3 @@ In Turo of Rovira where the telecommunications towers of the radio waves "ship" 
 15. https://ca.wikipedia.org/wiki/Torre_de_Collserola
 16. https://en.wikipedia.org/wiki/Spanish_Civil_War
 17. https://en.wikipedia.org/wiki/Bunker
-18. https://www.ui.com/
-19. https://www.ui.com/airmax/powerbeam/
-20. https://www.ui.com/airmax/nanobeam-ac-gen2/
-21. https://dl.ubnt.com/datasheets/rocketm/RocketM_DS.pdf
-22. https://www.exploit-db.com/
-23. https://www.exploit-db.com/exploits/40044
-24. https://en.wikipedia.org/wiki/Metasploit_Project
-25. https://www.exploit-db.com/exploits/39853
-26. https://www.exploit-db.com/exploits/23735
