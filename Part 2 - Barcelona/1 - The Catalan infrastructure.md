@@ -1,4 +1,30 @@
-# The radio waves ship
+# The Catalan infrastructure
+
+![The Spanish neural network](../Images/patchwork_spanish_neural_network.jpg)
+
+In Spain, the country that I'm love to and where I'm actually living, there is an unknown but not hidden neural network based over terrestrial radio waves technology. 
+
+It's almost used by the cast, nobility. But also it is used to guarantee security in this area because it is actively adopted by military forces and military polices like the national Guardia Civil and obviously by secret services.
+
+In Catalunya, an autonomous region with semi independent authorities, it's actively used. 
+
+But its use is not only legal or for a little circle of users. Nobles play with this with citizens brains and here they have build an enormous humans beta test garden used big big tech firm facilities to develop high level neuroscience technology. But also it's used to control low level B-side market, like drug and prostitution. For those that are obliged operators in this low level massacre, in others words for those who are slaves there are three modes to enter in the market from being a simple slave to be an operator, that is always a slave because he has to change is state from being an abused to be an abuser. Those three modes are:
+
+1. Generate more than forty thousand euros in the B-side market, prostitution or drugs.
+2. Known in deep hacking.  
+3. Propose and participate in a scam to an entrepreneur. Pass to be an abused to be an abuser.
+
+To worst think is that in this territory I've understand that this network is also connected to old buildings of an administration still with some Franco train. Or better saying that some office of the administration and of the national police have seen my persecution. And no one have said nothing. Corruption? Probably yes.
+
+Why I speak about hacking? 
+
+Because nobles use clever boys and girls in a sadistic game of money and guilt. They give one legal access to the noble neural network, every noble got one because its state to pertain to the official nobility list, to an hacker crew to build a game. 
+
+What is a game? A proxy in the neural network hidden with security to complexity and obscurity to guarantee that little drug dealer or small pimples are controlled and subjugated by a pyramidal system of gain over a condition practically equal to slavery.
+
+In Catalunya the word "anonymous" is used to cover this nobility game. Slavery nothing more. And I'm victim of. And the love of my life is also. Saray.
+
+# The Catalan radio waves ship
 
 ![The cathedral of techno](../Images/cruz.jpg)
 
@@ -24,33 +50,33 @@ There is a special antenna in all those towers that connect with an enormous ins
 
 > *It's very probably that this virtual point to point radio bridge exist and it would actually show that governments are also playing in the gangstalking shop.* 
 
-### Carmel bunkers
+### Some geographical point of interest
+
+![sant Fost de Camsentelles](/home/taglio/Documents/GitHub/RNMnetwork/Images/20191209_145540.jpg)
+
+This is a WISP node that fusion the remote neural monitoring access radios, on the left, and the **Ubiquiti** [[5]](https://en.wikipedia.org/wiki/Ubiquiti_Networks) network IP infrastructure. 
+
+Image was taken at 41º 29’ 29.7” N, 2º 15’ 9.1” E **geographical coordinates** [[6]](https://en.wikipedia.org/wiki/Geographic_coordinate_system) on 9 of December of 2019 at 2:55 PM.
+
+The WISP was of my property until 2016, then with a fraud I loose it and they start to induct to suicide me. The name is MESWIFI and now has got an AS number that is **AS205645** [[7]](https://bgp.he.net/AS205645).
+
+The top antenna is a point to point radio wave in proprietary protocol, called AirFiber. **Gigabit wireless** [[8]](https://en.wikipedia.org/wiki/Gigabit_Wireless). This antenna focus to a tower in **Tibidabo** [[9]](https://en.wikipedia.org/wiki/Tibidabo) over Barcelona. Next another access point to the "Illuminati" facility focused over the Catalan capital reducing to slavery a lot of citizens. 
+
+![](/home/taglio/Documents/GitHub/RNMnetwork/Images/EOFWNG2X0AA_epp.jpeg)
+
+This image is taken at 41º 25’ 10.57” N, 2º 09’ 48.39” E geographical coordinates that can be retrieve on **Google Street View** [[10]](https://en.wikipedia.org/wiki/Google_Street_View) aged at the time of writing. As you can appreciate the technology is the same and, yes, is the infrastructure of the "game" "Illuminati" that in reality it's a fraud but it is changing our Europe being a pseudo digital dictatorship.
+
+![](/home/taglio/Documents/GitHub/RNMnetwork/Images/75576725_149927382999364_7626195554552197202_n.jpg)
+
+This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical coordinates that can be retrieve on **Instagram** [[11]](https://en.wikipedia.org/wiki/Instagram) on the social network profile of my old wireless Internet service provider dated on 27 of November 2019 stand out in gray you can appreciate part of the same installation. But there is no magnetic loop antenna. So, no extreme low frequencies, no brain network.
+
+![main mast of the ship](/home/taglio/Documents/GitHub/RNMnetwork/Images/83109843_559132277973370_6242489809795139809_n.jpg)
+
+This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coordinates. Is the tower and is dominating the city of Barcelona. The place is an hill in the middle of the city that is full of ELF and SLF transmitters. The name is **Turó de la Rovira** [[12]](https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira) and is the principle tower of emission.  The "Illuminati" game is served by the black antenna, in this photo is at the second floor on the left. Other equal antennas are underlined. 
 
 ![Carmel bunkers](../Images/1_aerial_min.jpg)
 
 In Turo of Rovira where the telecommunications towers of the radio waves "ship" are installed there is a **Spanish civil war** [[16]](https://en.wikipedia.org/wiki/Spanish_Civil_War) **bunker** [[17]](https://en.wikipedia.org/wiki/Bunker).
-
-
-
-### BCNLabernia
-
-![BCNLabernia](../Images/BCNlabernia.png)
-
-BCNLabernia is an important supernode of the Guifi.net network. And it is located where is the radio waves ship in Turrò Rovira. 
-
-It is an important weak point if someone want to try to digitally enter in the digital ship. Let's analyze together what equipments we've got here:
-
-![BCNLabernia](../Images/bcnlabernia.png)
-
-- 6x **Ubiquiti** [[16]](https://www.ui.com/) **PowerBeam** [[17]](https://www.ui.com/airmax/powerbeam/) 
-- 2x Ubiquiti **NanoBeam** [[18]](https://www.ui.com/airmax/nanobeam-ac-gen2/)
-- 2x Ubiquiti **RocketM** [[19]](https://dl.ubnt.com/datasheets/rocketm/RocketM_DS.pdf)
-
-The last one are outdated and discontinued products. What does it means? That probably has got some vulnerability opened. And Ubiquiti was under the microscope for a pair of public exploit that was possible to find in the web portal **exploit-db** [[20]](https://www.exploit-db.com/):
-
-- **Administration portal remote command execution** [[21]](https://www.exploit-db.com/exploits/40044)
-- **Metasploit** [[22]](https://en.wikipedia.org/wiki/Metasploit_Project) - **Arbitrary File Upload** [[23]](https://www.exploit-db.com/exploits/39853)
-- **Authenticated remote command execution** [[24]](https://www.exploit-db.com/exploits/23735)
 
 
 
