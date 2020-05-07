@@ -1,5 +1,9 @@
 # Possible solutions
 
+Solutions to a complex problem like what I've lived are various and touch various state, Church and nobility levels. The first solutions is to keep calm and not loose mental lucidity. To not fall in the gang stalking washing machine to not pass from an abused to an abuser. This is absolutely imperative.
+
+### Catholic Church
+
 ![Marriage](../Images/cropped-wedding-in-rome-amanda-and-salvatore.jpg)
 
 My persecution start when I was 35 years old. 
