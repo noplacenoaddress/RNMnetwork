@@ -33,6 +33,8 @@ To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas
 - Call to the Church where you receive **Baptism** [[7]](https://en.wikipedia.org/wiki/Baptism). Ask for a certificate. In my case I've called  on 6 of May 2020 at 18:55 to the **Church of Santissima Annunziata in Sturla** [[8]](https://en.wikipedia.org/wiki/Church_of_the_Santissima_Annunziata_in_Sturla), Genoa and speak with the current priest a man that I've known in the past when I was an adolescent in the same city. Very curious but true.
 - Get a certified photocopy of your national identity document.
 - Fill this **document** [[9]](http://www.telecomlobby.com/Download/Mod_doc_Apostasia_PR_2009.pdf) with the correct data.
+- Send them by **registered letter** [[10]](https://en.wikipedia.org/wiki/Registered_mail) and with acknowledgment of receipt to your **diocese** [[11]](https://en.wikipedia.org/wiki/Diocese). In Spain you can find your in this **map** [[12]](https://conferenciaepiscopal.es/iglesia-en-espana/mapa-eclesiastico/).
+- **Here** [[13]](https://apostatar.wordpress.com/experiencias-por-diocesis/) you can find some experience from others citizens. 
 
 ### External links
 
@@ -45,3 +47,7 @@ To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas
 7. https://en.wikipedia.org/wiki/Baptism
 8. https://en.wikipedia.org/wiki/Church_of_the_Santissima_Annunziata_in_Sturla
 9. http://www.telecomlobby.com/Download/Mod_doc_Apostasia_PR_2009.pdf
+10. https://en.wikipedia.org/wiki/Registered_mail
+11. https://en.wikipedia.org/wiki/Diocese
+12. https://conferenciaepiscopal.es/iglesia-en-espana/mapa-eclesiastico/
+13. https://apostatar.wordpress.com/experiencias-por-diocesis/
