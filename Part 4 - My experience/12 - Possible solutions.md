@@ -31,7 +31,8 @@ First of all I live in Spain but I'm Italian. But I've got  residence and nation
 To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas%C3%ADa) in Spanish, the step to follow are very easy and clear:
 
 - Call to the Church where you receive **Baptism** [[7]](https://en.wikipedia.org/wiki/Baptism). Ask for a certificate. In my case I've called  on 6 of May 2020 at 18:55 to the **Church of Santissima Annunziata in Sturla** [[8]](https://en.wikipedia.org/wiki/Church_of_the_Santissima_Annunziata_in_Sturla), Genoa and speak with the current priest a man that I've known in the past when I was an adolescent in the same city. Very curious but true.
-- 
+- Get a certified photocopy of your national identity document.
+- Fill this **document** [[9]](http://www.telecomlobby.com/Download/Mod_doc_Apostasia_PR_2009.pdf) with the correct data.
 
 ### External links
 
@@ -43,3 +44,4 @@ To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas
 6. [https://es.wikipedia.org/wiki/Apostas%C3%ADa](https://es.wikipedia.org/wiki/Apostasía)
 7. https://en.wikipedia.org/wiki/Baptism
 8. https://en.wikipedia.org/wiki/Church_of_the_Santissima_Annunziata_in_Sturla
+9. http://www.telecomlobby.com/Download/Mod_doc_Apostasia_PR_2009.pdf
