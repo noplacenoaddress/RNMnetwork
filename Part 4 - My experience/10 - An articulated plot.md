@@ -22,6 +22,16 @@ So that a possibility even if remote once entered this terrible machine is the f
 
 The beginning of the **landslide** [[7]](https://en.wikipedia.org/wiki/Landslide) start in a **Ikea store** [[8]](https://www.ikea.com/es/es/stores/barcelona-hospitalet/) in **Hospitalet de Llobregat** [[9]](https://en.wikipedia.org/wiki/L%27Hospitalet_de_Llobregat) in 2015.
 
+My mother start to speak with the chief the workers of my old firm, Miguel. My mother is person very **shy** [[10]](https://en.wikipedia.org/wiki/Shyness) and only in this occasion start to speak very fondly with him and this attitude hit me. It was very strange. A couple of months later the **systematic destruction of my life** [[11]](http://www.telecomlobby.com/neural_network/barcelona/my_experience/systematic_destruction_mylife.htm) start. 
+
+After being activated in the Spanish neural network I fall into the remote parimutuel betting system where nobles and all the people that I've known in my life start to bet over my life. Me and **Saray** [[12]](http://www.telecomlobby.com/neural_network/barcelona/my_experience/saray_myqueen.htm) was previously have been separated and our history is that I've traveled more than three thousand kilometers in Barcelona looking for it since continually through the machine and various pornography on the Internet it was sexually raped before my eyes or better said to my brain, my visual and auditive cortex. My history is a **martyrdom** [[13]](https://en.wikipedia.org/wiki/Martyr) of a desperate man looking for his woman. For her a continuous sexual violence. I sexless she overdosed on sex. The ultimate goal of this betting system is without a doubt the suicide of both. Suicide on which there is certainly a bet of a very high value.
+
+> We are victims of a game of nobility with the ultimate goal of suicide. Here nobility and church play. It is an unprecedented European scandal.
+
+The most horrible thing is that even our families play in this horrible depravity circus where unfortunately his daughter is also present.
+
+Please help king of Spain. Help **Felipe VI de España** [[14]](https://es.wikipedia.org/wiki/Felipe_VI_de_Espa%C3%B1a).
+
 ### External links
 
 1. https://it.wikipedia.org/wiki/Economia_sommersa
@@ -33,4 +43,9 @@ The beginning of the **landslide** [[7]](https://en.wikipedia.org/wiki/Landslide
 7. https://en.wikipedia.org/wiki/Landslide
 8. https://www.ikea.com/es/es/stores/barcelona-hospitalet/
 9. [https://en.wikipedia.org/wiki/L%27Hospitalet_de_Llobregat](https://en.wikipedia.org/wiki/L'Hospitalet_de_Llobregat)
+10. https://en.wikipedia.org/wiki/Shyness
+11. http://www.telecomlobby.com/neural_network/barcelona/my_experience/systematic_destruction_mylife.htm
+12. http://www.telecomlobby.com/neural_network/barcelona/my_experience/saray_myqueen.htm
+13. https://en.wikipedia.org/wiki/Martyr
+14. [https://es.wikipedia.org/wiki/Felipe_VI_de_Espa%C3%B1a](https://es.wikipedia.org/wiki/Felipe_VI_de_España)
 
