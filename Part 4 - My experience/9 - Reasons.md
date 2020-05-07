@@ -112,12 +112,14 @@ So it's important for me understand why I've been played in parimutuel betting s
   - Bloodlines. You're a descendant of a noble lineage in ruins or who is not already recognized as such. That is, you are an unrecognized nobleman. The Vatican keep my neural network machine opened to the public because of being recognized in the curse of the life. Arrived at a certain time like that the person was not recognized they put it into play. In a sadistic suicide game.
   - I'm only victim from November 2017 and I'm victim of the digital mafia. The reason it's only money. The strangeness is that my family it's present in radio, but their shapes and voices they may have been copied. But I really don't think so because what I've lived before this date. My life is full of strangeness.
   - I'm the son of a family important in a Genoese mafia, based in the use of this technology. Like Alessandro, the brother of Francesca who have died in a motorbike accident twenty kilometers where I was subjected to a LSD overdose and where I practically died, they try to kill them sons. This seems to be a madness but it could underline which of all the progenitors of these two families is the most intelligent. As if it were a natural selection caused by violence. But I'm not a mobster and I prefer to put them all in jail. This mafia bind services also to the Catholic Church. Or could be the Catholic Church B-side. The Catholic Church mafia. But also could be the nobility B-side. 
-  - It could be a soap of the four.
+  - The Vatican and my mother decided at the time of my birth that I had to be a **priest** [[20]](https://en.wikipedia.org/wiki/Priest). Leaving my neuronal control open all my life and then after activating it I should have realized how negative all the people I knew were. But this is not because I continue to be fond of all my friends and to love the women to whom I said "I love you". And lastly, Saray, I'd like to tell her I love you forever. I'm not a priest and I don't even consider myself a practicing Catholic.
 
 How can i try to escape to this horrible destiny?
 
 - Spreading the world. All the world have to know. Using all the legal tools that I can find to inform. Internet, this radio network, the streets, public court judgment, sending emails and lest but not last sending ordinary mail to all the important and famous persons that are present here.
 - Studying this technology and put it in open source and in open repositories. But it can be dangerous. But with danger I eat together  from all my life.
+
+If it were necessary I would be totally willing to be **excommunicated** []
 
 
 
@@ -142,3 +144,5 @@ How can i try to escape to this horrible destiny?
 17. https://en.wikipedia.org/wiki/Mousetrap
 18. https://en.wikipedia.org/wiki/Hatred
 19. https://it.wikipedia.org/wiki/Sfortuna
+20. https://en.wikipedia.org/wiki/Priest
+21. https://en.wikipedia.org/wiki/Excommunication
