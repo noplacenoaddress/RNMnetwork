@@ -28,7 +28,18 @@ This measures are taken in my old house in sant Pere de Ribes, 08810 Barcelona, 
 
 Surveys over 50 are abnormals and I've got some over 800!
 
+- **Nanotesla surveys** [[1]](https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7)
+
+Another overwhelming surveys are the video obtained by a normal camera configured with low resolution and possible with a blue led light surrounding. With this simple and economic configuration it's possible to register without using any filter holograms or shapes of stalkers that are electronic torture us. 
+
+In my registrations the shape is almost always my mother. In the neural network facility, I think, that the shape is an attribute of a program in the sense that it can be not the real person but only a character that the users of the network wear to stalk you. Here you are a great collection of video that can be taken to a court to blame the nobles who operate in this network, which without a shadow of a doubt is the noble network. That is, if you do not belong to the official list of the nobility, you have certainly been used as a tool or you are a target individual or better saying you are a human guinea pig.
+
+- **Video useful to prove existence of the neural network** [[2]](https://vimeo.com/redeltaglio)
+
 
 
 ### External links
+
+1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
+2. https://vimeo.com/redeltaglio
 

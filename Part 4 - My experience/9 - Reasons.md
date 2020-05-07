@@ -98,9 +98,27 @@ Speaking about the clerical way to see the think in four ways of interpretation 
 
 But yes they are here and they are playing with me. 
 
-### My family psychiatric disorders 
+### Personal considerations
 
+![Brain storming](../Images/new_ideas-760x725.jpg)
 
+So it's important for me understand why I've been played in parimutuel betting system, why all the persons that I've known in my life are presents, why no one help me, why they all lie, why there is also a lot of important persons and celebrities, why I've been tortured, stalked and my life was systematically destroyed and no one, nor my family, say nothing. Those are my toughs: 
+
+- The remote neural network it's different in every country, for example in Spain it's owned by the Monarchy an according to the region administered by one or another important noble family in the territory. Those administrators bind services to nobility and to the Church, those services are absolutely not definable as compatible with the constitution and democracy.
+
+- The results of those services are goods or better saying packets sold to big tech companies that use them in the development of high level technologies with applications in space, military, government and commercial purposes. 
+
+- Targets individuals are subjected to a remote parimutuel betting system where play nobility and those who have known you. Nobility play with gold and money with account in the European fiscal paradise connected to the Vatican bank as Andorra, san Marino, Monaco, Luxembourg and so on. Normal people play with Bitcoins and its derivatives. In this way these criminals make sure that they have no complaints already that the victim should report any person he previously knew. In this way these criminals make sure that they have no complaints already that the victim should report any person he previously knew. But it is obvious that even if these people play, they in turn are victims because they are forced to bet and observe through the virtual screens of the neuronal network to the victim, probably for almost all their lives. The fact that the victim has been observed for a large period generates **hatred** [[18]](https://en.wikipedia.org/wiki/Hatred), with racial connotations, towards the same victim.
+
+- Possible reasons could be:
+
+  - Vatican where a person is baptized preassign to nobility, probably to maintain some little family with low revenues in a middle high level social class, a play card game, persons like me, to play in the future in remote parimutuel betting system. The reason is completely fortuitous. It's like a lottery lot, but where bad luck rules (**sfortuna** [[19]](https://it.wikipedia.org/wiki/Sfortuna) in Italian). In this case the only unforgivable fault of the family is that they have not speak clearly to you to prepare you this terrible period. In my case my father gave me some suggestions in my life while my mother did not. My mother is a bigot and my father doesn't go to the Church.
+  - Bloodlines. You're a descendant of a noble lineage in ruins or who is not already recognized as such. That is, you are an unrecognized nobleman. The Vatican keep my neural network machine opened to the public because of being recognized in the curse of the life. Arrived at a certain time like that the person was not recognized they put it into play. In a sadistic suicide game.
+  - I'm only victim from November 2017 and I'm victim of the digital mafia. The reason it's only money. The strangeness is that my family it's present in radio, but their shapes and voices they may have been copied. But I really don't think so because what I've lived before this date. My life is full of strangeness.
+  - I'm the son of a family important in a Genoese mafia, based in the use of this technology. Like Alessandro, the brother of Francesca who have died in a motorbike accident twenty kilometers where I was subjected to a LSD overdose and where I practically died, they try to kill them sons. This seems to be a madness but it could underline which of all the progenitors of these two families is the most intelligent. As if it were a natural selection caused by violence. But I'm not a mobster and I prefer to put them all in jail. This mafia bind services also to the Catholic Church. Or could be the Catholic Church B-side. The Catholic Church mafia. But also could be the nobility B-side. 
+  - It could be a soap of the four.
+
+  
 
 ### External links
 
@@ -121,3 +139,5 @@ But yes they are here and they are playing with me.
 15. https://en.wikipedia.org/wiki/Big_data
 16. https://en.wikipedia.org/wiki/Idiom
 17. https://en.wikipedia.org/wiki/Mousetrap
+18. https://en.wikipedia.org/wiki/Hatred
+19. https://it.wikipedia.org/wiki/Sfortuna
