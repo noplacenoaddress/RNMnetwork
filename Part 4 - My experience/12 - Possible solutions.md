@@ -36,6 +36,12 @@ To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas
 - Send them by **registered letter** [[10]](https://en.wikipedia.org/wiki/Registered_mail) and with acknowledgment of receipt to your **diocese** [[11]](https://en.wikipedia.org/wiki/Diocese). In Spain you can find your in this **map** [[12]](https://conferenciaepiscopal.es/iglesia-en-espana/mapa-eclesiastico/).
 - **Here** [[13]](https://apostatar.wordpress.com/experiencias-por-diocesis/) you can find some experience from others citizens. 
 
+![Tribunale della Rota Romana](../Images/1371457330772.png)
+
+Another possibility, that almost no one known is to use the Vatican tribunal. It's named **Roman Rota** [[14]](https://en.wikipedia.org/wiki/Roman_Rota). It is very simple to contact using them web page:
+
+- **Contact** [[15]](http://www.rotaromana.va/content/rotaromana/it/contatti.html) of Roman Rota tribunal
+
 ### State 
 
 ![Villanova i la Geltrù](../Images/H_3213201_20170519164025-kN2C--656x437@LaVanguardia-Web.jpg)
@@ -55,3 +61,5 @@ To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas
 11. https://en.wikipedia.org/wiki/Diocese
 12. https://conferenciaepiscopal.es/iglesia-en-espana/mapa-eclesiastico/
 13. https://apostatar.wordpress.com/experiencias-por-diocesis/
+14. https://en.wikipedia.org/wiki/Roman_Rota
+15. http://www.rotaromana.va/content/rotaromana/it/contatti.html
