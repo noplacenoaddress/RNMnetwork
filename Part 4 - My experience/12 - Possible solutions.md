@@ -1,6 +1,6 @@
 # Possible solutions
 
-Solutions to a complex problem like what I've lived are various and touch various state, Church and nobility levels. The first solutions is to keep calm and not loose mental lucidity. To not fall in the gang stalking washing machine to not pass from an abused to an abuser. This is absolutely imperative.
+Solutions to a complex problem like what I've lived are various and touch various organs: state, Church and nobility. The first solutions is to keep calm and not loose mental lucidity. To not fall in the gang stalking washing machine to not pass from an abused to an abuser. This is absolutely imperative.
 
 ### Catholic Church
 
@@ -28,6 +28,11 @@ Another possible solution to go away from the neural network could be present to
 
 First of all I live in Spain but I'm Italian. But I've got  residence and nation identification document of Spain. 
 
+To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas%C3%ADa) in Spanish, the step to follow are very easy and clear:
+
+- Call to the Church where you receive **Baptism** [[7]](https://en.wikipedia.org/wiki/Baptism). Ask for a certificate. In my case I've called  on 6 of May 2020 at 18:55 to the **Church of Santissima Annunziata in Sturla** [[8]](https://en.wikipedia.org/wiki/Church_of_the_Santissima_Annunziata_in_Sturla), Genoa and speak with the current priest a man that I've known in the past when I was an adolescent in the same city. Very curious but true.
+- 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Hypothesis
@@ -35,3 +40,6 @@ First of all I live in Spain but I'm Italian. But I've got  residence and nation
 3. https://en.wikipedia.org/wiki/Sacrament
 4. https://en.wikipedia.org/wiki/COVID-19_pandemic
 5. https://en.wikipedia.org/wiki/Excommunication
+6. [https://es.wikipedia.org/wiki/Apostas%C3%ADa](https://es.wikipedia.org/wiki/Apostasía)
+7. https://en.wikipedia.org/wiki/Baptism
+8. https://en.wikipedia.org/wiki/Church_of_the_Santissima_Annunziata_in_Sturla
