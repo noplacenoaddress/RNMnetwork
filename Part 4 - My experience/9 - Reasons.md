@@ -119,6 +119,8 @@ How can i try to escape to this horrible destiny?
 - Spreading the world. All the world have to know. Using all the legal tools that I can find to inform. Internet, this radio network, the streets, public court judgment, sending emails and lest but not last sending ordinary mail to all the important and famous persons that are present here.
 - Studying this technology and put it in open source and in open repositories. But it can be dangerous. But with danger I eat together  from all my life.
 
+
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/MyHeritage
