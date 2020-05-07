@@ -24,9 +24,14 @@ If this is not possible, now, after **COVID-19 pandemic** [[4]](https://en.wikip
 
 ![](../Images/Threat_of_excommunication_to_thieves_of_books_in_the_library_of_the_university_of_Salamanca_(Spain).jpg)
 
+Another possible solution to go away from the neural network could be present to the Catholic Church a petition to be **excommunicated** [[5]](https://en.wikipedia.org/wiki/Excommunication). 
+
+First of all I live in Spain but I'm Italian. But I've got  residence and nation identification document of Spain. 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Hypothesis
 2. https://en.wikipedia.org/wiki/Marriage
 3. https://en.wikipedia.org/wiki/Sacrament
 4. https://en.wikipedia.org/wiki/COVID-19_pandemic
+5. https://en.wikipedia.org/wiki/Excommunication
