@@ -20,6 +20,8 @@ Remember that they are engineer, theoretically everything should have been fores
 
 So that a possibility even if remote once entered this terrible machine is the fact of being subjected to a kind of **sieve** [[5]](https://en.wikipedia.org/wiki/Sieve). But a sieve that once chosen the public road could cost a life. It's like a terrible **human resource management system** [[6]](https://en.wikipedia.org/wiki/Human_resource_management_system). 
 
+The beginning of the **landslide** [[7]](https://en.wikipedia.org/wiki/Landslide) start in a **Ikea store** [[8]](https://www.ikea.com/es/es/stores/barcelona-hospitalet/) in **Hospitalet de Llobregat** [[9]](https://en.wikipedia.org/wiki/L%27Hospitalet_de_Llobregat) in 2015.
+
 ### External links
 
 1. https://it.wikipedia.org/wiki/Economia_sommersa
@@ -28,4 +30,7 @@ So that a possibility even if remote once entered this terrible machine is the f
 4. https://it.wikipedia.org/wiki/Registro_italiano_navale
 5. https://en.wikipedia.org/wiki/Sieve
 6. https://en.wikipedia.org/wiki/Human_resource_management_system
+7. https://en.wikipedia.org/wiki/Landslide
+8. https://www.ikea.com/es/es/stores/barcelona-hospitalet/
+9. [https://en.wikipedia.org/wiki/L%27Hospitalet_de_Llobregat](https://en.wikipedia.org/wiki/L'Hospitalet_de_Llobregat)
 
