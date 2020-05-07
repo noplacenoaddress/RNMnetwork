@@ -36,6 +36,10 @@ To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas
 - Send them by **registered letter** [[10]](https://en.wikipedia.org/wiki/Registered_mail) and with acknowledgment of receipt to your **diocese** [[11]](https://en.wikipedia.org/wiki/Diocese). In Spain you can find your in this **map** [[12]](https://conferenciaepiscopal.es/iglesia-en-espana/mapa-eclesiastico/).
 - **Here** [[13]](https://apostatar.wordpress.com/experiencias-por-diocesis/) you can find some experience from others citizens. 
 
+### State 
+
+![Villanova i la Geltrù](../Images/H_3213201_20170519164025-kN2C--656x437@LaVanguardia-Web.jpg)
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Hypothesis
