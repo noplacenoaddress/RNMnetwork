@@ -118,6 +118,8 @@ So it's important for me understand why I've been played in parimutuel betting s
   - I'm the son of a family important in a Genoese mafia, based in the use of this technology. Like Alessandro, the brother of Francesca who have died in a motorbike accident twenty kilometers where I was subjected to a LSD overdose and where I practically died, they try to kill them sons. This seems to be a madness but it could underline which of all the progenitors of these two families is the most intelligent. As if it were a natural selection caused by violence. But I'm not a mobster and I prefer to put them all in jail. This mafia bind services also to the Catholic Church. Or could be the Catholic Church B-side. The Catholic Church mafia. But also could be the nobility B-side. 
   - It could be a soap of the four.
 
+  How can i try to escape to this horrible destiny?
+
   
 
 ### External links
