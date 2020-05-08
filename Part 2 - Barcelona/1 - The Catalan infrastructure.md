@@ -97,7 +97,7 @@ Certainly it's possible to create neural applications with one target or a group
 
 > By the way it's seems to be that in Spain almost all citizens are connected to the neural network. Perhaps only in Catalunya.  
 
-
+Let do an example of an application, a normal citizen.
 
 ###  External links
 
