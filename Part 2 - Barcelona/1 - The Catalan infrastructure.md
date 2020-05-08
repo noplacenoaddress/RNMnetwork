@@ -93,7 +93,7 @@ From what I can understand by my tremendous experience upon the neural network i
 
 It's common that neural network applications are bridged over IP networks. Probably in deep Internet or blockchain anonymous networks. It's also possible that there are some bridge with satellite IPTV broadcasting facilities. 
 
-Certainly it's possible to create neural applications with one target or a group of targets. 
+Certainly it's possible to create neural applications with one target or a group of targets. As who fall in this fraud are target this mean that they are connected to the neural network without consent.
 
 
 
