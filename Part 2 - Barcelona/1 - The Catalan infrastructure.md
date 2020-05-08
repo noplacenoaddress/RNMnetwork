@@ -82,6 +82,21 @@ In Turo of Rovira where the telecommunications towers of the radio waves "ship" 
 
 ![Neural web api](../Images/lrg.jpg)
 
+From what I can understand by my tremendous experience upon the neural network is possible to create application with a framework without any doubt. This is what they call "techno". Those applications, like the virtual casino that was crated upon my person, got different goals. In my case:
+
+- Betting over my life.
+- Development of technology with commercial big tech firms.
+- Audiovisual inspirations.
+- Destroy my mental clearness. 
+-  The systematic destroy of my life, a fraud.
+- Suicide.
+
+It's common that neural network applications are bridged over IP networks. Probably in deep Internet or blockchain anonymous networks. It's also possible that there are some bridge with satellite IPTV broadcasting facilities. 
+
+Certainly it's possible to create neural applications with one target or a group of targets. 
+
+
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Slang
