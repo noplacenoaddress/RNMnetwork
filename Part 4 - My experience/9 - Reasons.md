@@ -2,6 +2,8 @@
 
 Why I'm under a magnetic bell in the remote neural control network in Spain? What I've done to the outside world to be damned with those electronic tortures? Why absolutely all the persons that I've known in my life are present in this network someone doing stalking, others playing in remote parimutuel betting system and others torturing me? What is this shit? Am I a bad person? No I'm not. Absolutely.
 
+Probably because I'm victim of masonry; a masonry that eat them sons. Something strictly connected with the Catholic Church. Something that destroy people generating a vast amount of money with slavery. Something that incredibly but true it's active in the democratic Europe of 2020. It's a scandal.
+
 ### DNA
 
 ![My DNA](../Images/dna.jpg)
@@ -119,7 +121,7 @@ How can i try to escape to this horrible destiny?
 - Spreading the world. All the world have to know. Using all the legal tools that I can find to inform. Internet, this radio network, the streets, public court judgment, sending emails and lest but not last sending ordinary mail to all the important and famous persons that are present here.
 - Studying this technology and put it in open source and in open repositories. But it can be dangerous. But with danger I eat together  from all my life.
 
-If it were necessary I would be totally willing to be **excommunicated** []
+If it were necessary I would be totally willing to be **excommunicated** [[21]](https://en.wikipedia.org/wiki/Excommunication). And I found how it can be done rapidly.
 
 
 
