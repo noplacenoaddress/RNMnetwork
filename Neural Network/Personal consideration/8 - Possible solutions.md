@@ -4,7 +4,7 @@ Solutions to a complex problem like what I've lived are various and touch variou
 
 ### Catholic Church
 
-![Marriage](../Images/cropped-wedding-in-rome-amanda-and-salvatore.jpg)
+![Marriage](http://telecomlobby.com/Images/cropped-wedding-in-rome-amanda-and-salvatore.jpg)
 
 My persecution start when I was 35 years old. 
 
@@ -22,7 +22,7 @@ If this is not possible, now, after **COVID-19 pandemic** [[4]](https://en.wikip
 
 > Without any doubt sure monarchy of Spain?
 
-![](../Images/Threat_of_excommunication_to_thieves_of_books_in_the_library_of_the_university_of_Salamanca_(Spain).jpg)
+![](http://telecomlobby.com/Images/Threat_of_excommunication_to_thieves_of_books_in_the_library_of_the_university_of_Salamanca_(Spain).jpg)
 
 Another possible solution to go away from the neural network could be present to the Catholic Church a petition to be **excommunicated** [[5]](https://en.wikipedia.org/wiki/Excommunication). 
 
@@ -36,7 +36,7 @@ To be excommunicated, **apostasía** [[6]](https://es.wikipedia.org/wiki/Apostas
 - Send them by **registered letter** [[10]](https://en.wikipedia.org/wiki/Registered_mail) and with acknowledgment of receipt to your **diocese** [[11]](https://en.wikipedia.org/wiki/Diocese). In Spain you can find your in this **map** [[12]](https://conferenciaepiscopal.es/iglesia-en-espana/mapa-eclesiastico/).
 - **Here** [[13]](https://apostatar.wordpress.com/experiencias-por-diocesis/) you can find some experience from others citizens. 
 
-![Tribunale della Rota Romana](../Images/1371457330772.png)
+![Tribunale della Rota Romana](http://telecomlobby.com/Images/1371457330772.png)
 
 Another possibility, that almost no one known is to use the Vatican tribunal. It's named **Roman Rota** [[14]](https://en.wikipedia.org/wiki/Roman_Rota). It is very simple to contact using them web page:
 
@@ -44,7 +44,9 @@ Another possibility, that almost no one known is to use the Vatican tribunal. It
 
 ### State 
 
-![Villanova i la Geltrù](../Images/H_3213201_20170519164025-kN2C--656x437@LaVanguardia-Web.jpg)
+![Villanova i la Geltrù](http://telecomlobby.com/Images/H_3213201_20170519164025-kN2C--656x437@LaVanguardia-Web.jpg)
+
+
 
 ### External links
 
