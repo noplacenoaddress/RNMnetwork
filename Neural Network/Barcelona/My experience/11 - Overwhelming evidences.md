@@ -12,10 +12,6 @@ But this is a tragedy. Because I want that it's a tragedy. I'm who want it. I'm 
 
 I'm free. And I'm love with the city and with Saray. There is no limit to what I will do do annihilate this mafia. So yes, it's a tragedy.
 
-![Direction](http://telecomlobby.com/Images/andreu-direccion.jpg)
-
-This full I've found where he was living. There is his surname, and pertain to a big noble family in Catalunya, but I don't really think that he is recognized. This is why he works in this shit. He has to comply to this atrocity. Destroy good persons that are damned by recognized nobility and Vatican. It's a terrible work, but yes it's a crime. And I'm victim of. And probably in another way he is victim also. Probably.
-
 ![Torn Mati](http://telecomlobby.com/Images/IMG_20180526_114441.jpg)
 
 This is how Hospital Clinic in Barcelona have classified my illegal detention at the psychiatry plant. The name "Torn Mati" it's not the mine. The numbers also are from the gang stalking circle. 5 is the number that use the marquis family of Genoa, who have played with me in parimutuel betting system in Catalunya in front of all the persons that I've known in my life and also my family. And yes, this is a tragedy. Nothing more, nothing less. It's not only a B-side audiovisual abuse, it's a tragedy.
