@@ -251,8 +251,10 @@ This cannot be a random, my father, and only him, in my youth had give me a lot 
 There is three possible ways:
 
 - When I was born my mother decides that I had to be a priest and my father doesn't want it. This could explain why they always quarreled at home.
-- Bloodlines. I'm a nobleman not recognized in the official register.
+- Bloodlines. I'm a nobleman not recognized in the official register. This is possible only because of child trafficking. 
 - I am the son of a Genoese occult mafia strictly connected with the Catholic Church. And all this madness happened to me as a test of intellectual resistance to enormous stress.
+
+In all the cases I'm victim of slavery. They call it a game, but the only game is to put them all in jail.
 
 ### November rain, 2017
 
