@@ -1,6 +1,6 @@
 # Allegories
 
-![The cave of Plato](../Images/Antrum-Platonicum-or-The-Cave-of-Plato-by-Cornelis-Cornelisz-van-Haarlem-printed-by.png)
+![The cave of Plato](http://telecomlobby.com/Images/Antrum-Platonicum-or-The-Cave-of-Plato-by-Cornelis-Cornelisz-van-Haarlem-printed-by.png)
 
 The cave of Plato. **The allegory of the cave** [[1]](https://en.wikipedia.org/wiki/Allegory_of_the_cave). All the aristocratic society is based on this **myth** [[2]](https://en.wikipedia.org/wiki/Myth). 
 
@@ -24,7 +24,7 @@ Remember that allegories are presented in all the classics, and religions. In Ca
 
 ### General operation of the noble network
 
-![Double entendre](../Images/1024px-Let_alone2.jpg)
+![Double entendre](http://telecomlobby.com/Images/1024px-Let_alone2.jpg)
 
 **Double entendre** [[5]](https://en.wikipedia.org/wiki/Double_entendre). To give double meaning to something is obviously used to hide something that is horrible or illegal. Who use double meanings is a criminal or a victim of a corrupted system. Full stop. Nobility only use double entendre.
 

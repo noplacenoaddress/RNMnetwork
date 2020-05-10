@@ -14,19 +14,19 @@ But why they are doing crimes like those? It's simple. To get profound and go ah
 
 ### The Monero crypt concurrency
 
-![The Monero circuit](../Images/monero.png)
+![The Monero circuit](http://telecomlobby.com/Images/monero.png)
 
 **Monero** [[1]](https://www.getmonero.org/) is decentralized crypt currency, meaning it is secure digital cash  operated by a network of users. Transactions are confirmed by  distributed consensus and then immutably recorded on the **blockchain** [[2]](https://en.wikipedia.org/wiki/Blockchain).  Third-parties do not need to be trusted to keep your **Monero** [[3]](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) safe. Monero is *totally* untraceable. 
 
 Let's do some considerations before start with a deep dive into this network. First of all **M** is its logotype, simple is the concurrency of the Machine, what we start to explain in the last chapter. But does it can be converted into classical money? Yes for sure here it is the exchange graphic:
 
-![monero exchange value](../Images/monero-euro-value.png)
+![monero exchange value](http://telecomlobby.com/Images/monero-euro-value.png)
 
 ​                        
 
 But it's possible to simply go to a cash dispenser and get euro? Yes it is.
 
-![Bitchain ATM cash dispenser](../Images/btcpoint_bitcoin_atm_c828d19c75.jpg)
+![Bitchain ATM cash dispenser](http://telecomlobby.com/Images/btcpoint_bitcoin_atm_c828d19c75.jpg)
 
 Remember that to get cash from this bitcoin **ATM** [[4]](https://en.wikipedia.org/wiki/Automated_teller_machine) normally you have to change **XMR** [[5]](https://www.coinbase.com/price/monero?locale=en) to **LTC** [[6]](https://www.coinbase.com/price/litecoin?locale=en), then go to a local ATM as you can find in **coin ATM radar** [[7]](https://coinatmradar.com/). In Barcelona for example there's the network called **BitBase** [[8]](https://bitbase.es/) where you can sell also directly Monero. 
 
@@ -50,7 +50,7 @@ This is only a little window over this terrorist and criminal network. We'll go 
 
 ### The crypt concurrency market  
 
-![Bitcoin](../Images/AT8rEjx8lVL6PQ1GCU.jpeg)
+![Bitcoin](http://telecomlobby.com/Images/AT8rEjx8lVL6PQ1GCU.jpeg)
 
 The Bitcoin market it's similar to the normal concurrency market, with a quotation changing it's value every day depending on different factors. There's more solid concurrency that don't fluctuate too much but others, new or opened ad hoc for an operation, change them value constantly. People that work with this kind of values know it and play a lot with newbies or ignorance paying in a type and dais after this type loose likely more than 10% of value.  
 
@@ -76,7 +76,7 @@ There are safe crypt currency bank and others that respect totally the privacy o
 
 ### The SAFE network blockchain 
 
-![SAFE network blockchain](../Images/1200px-Safe_Water_Network_logo.svg.png)
+![SAFE network blockchain](http://telecomlobby.com/Images/1200px-Safe_Water_Network_logo.svg.png)
 
 A blockchain model applied to networking **ISO/OSI** [[14]](https://en.wikipedia.org/wiki/OSI_model) stack. It replace the last fourth pile of the Internet model. Packets are replaced with data chunks mixed in various different locations without a fixed one, a central server. It's like the old style **p2p** [[15]](https://en.wikipedia.org/wiki/Peer-to-peer) but with new encryptions models that guarantee **privacy** [[16]](https://en.wikipedia.org/wiki/Privacy), **cryptography** [[17]](https://en.wikipedia.org/wiki/Cryptography), confidentiality, integrity, and availability.
 

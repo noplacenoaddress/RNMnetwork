@@ -1,6 +1,6 @@
 # Do you believe in brain washing?
 
-![Non è la rai 1995](../Images/le-ragazze-di-non-e-la-rai-620x264.jpg)
+![Non è la rai 1995](http://telecomlobby.com/Images/le-ragazze-di-non-e-la-rai-620x264.jpg)
 
 Yes. And mass media and television owners believe more than you. Do you know **TV format** [[1]](https://en.wikipedia.org/wiki/TV_format)? Ok, it's absolutely the same of the pattern used in gang stalking and all others criminals activities of the synthetic telepathy network. It's this a case? No, it is not! In the "Illuminati" pseudo dictatorship most owners are from television and cinema, this is the audiovisual mafia, the digital mafia and the B-side technological mafia. It's nothing more. *Television formats applied to suicide cases*. Full stop.
 
@@ -19,7 +19,7 @@ Format has many other meanings as well, but with those four it's sufficient. I t
 
 **Ocaml** [[16]](https://en.wikipedia.org/wiki/OCaml) is without any doubt a program language very common in this system.
 
-![ocaml.re](../Images/1*uxmsEQN95oGc1M2UQCIywA.png)
+![ocaml.re](http://telecomlobby.com/Images/1*uxmsEQN95oGc1M2UQCIywA.png)
 
 # External links
 

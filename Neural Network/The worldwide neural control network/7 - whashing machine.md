@@ -1,6 +1,6 @@
 # Whashing machine
 
-![The Untouchables](../Images/maxresdefault.jpg)
+![The Untouchables](http://telecomlobby.com/Images/maxresdefault.jpg)
 
 I speak a lot about the Catalan territory because i live in this lovely autonomous community of Spain. It's obvious in practice a very high part of the revenue of this criminal network is in the submerged economy, so payments are in bitcoin and there's no legal enterprise that pays his duties to the state doing a big crime to it. So one manner to put in jail the owners, the Illuminati (Italians and fascists), is do what United States have done with **Al Capone** [[1]](https://en.wikipedia.org/wiki/Al_Capone) a fiscal investigation like we've see with **The Untouchables** [[2]](https://en.wikipedia.org/wiki/The_Untouchables_(film)), a film by **Brian de Palma** [[3]](https://en.wikipedia.org/wiki/Brian_De_Palma).
 
@@ -28,13 +28,13 @@ This is only a ten minutes thinking. *Applications are near infinity*.
 
 ### Real estate holding in Catalunya
 
-![Burbuja inmobiliaria](../Images/bolle-4.jpg)
+![Burbuja inmobiliaria](http://telecomlobby.com/Images/bolle-4.jpg)
 
 Barcelona, the city of my love. Fantastic bohemian Mediterranean port. A city that start a new age from **1992 Summer Olympics**  [[12]](https://en.wikipedia.org/wiki/1992_Summer_Olympics). 
 
 Barcelona has changed a lot, i start to live here from new year day of 2007. The city has reborn with new skyscrapers, new concept transport and technologies, how it's cleaned every day for it tourist facade, what languages you can listen on his old town concurred streets, the dominants colors in your line of sight were pastels and now are led and neon. Like many European capitals, technology is dominant. 
 
-![Gaudi art at Barcelona](../Images/barcelona-rutas-turisticas-alternativas-1030x633.jpg)
+![Gaudi art at Barcelona](http://telecomlobby.com/Images/barcelona-rutas-turisticas-alternativas-1030x633.jpg)
 
 In the last ten years here is the list of Barcelona's neighborhoods and small cities in the province that have got big real estate holdings:
 
@@ -54,11 +54,11 @@ In the last ten years here is the list of Barcelona's neighborhoods and small ci
 
 Ok. Now to go ahead it's not so difficult. A little bit of **OSINT** [[18]](https://en.wikipedia.org/wiki/Open-source_intelligence) technique and Internet to understand underground connections between those companies. Our principle tool is named **Maltego** [[19]](https://en.wikipedia.org/wiki/Maltego).
 
-![Glorias C31](../Images/1475666443_559218_1475666930_noticia_normal.jpg)
+![Glorias C31](http://telecomlobby.com/Images/1475666443_559218_1475666930_noticia_normal.jpg)
 
 ### Techno music in the world
 
-![Nina Kraviz techno music](../Images/techno.jpg)
+![Nina Kraviz techno music](http://telecomlobby.com/Images/techno.jpg)
 
 In techno music concert the Machine of this network is used. But no one say nothing, look at the concerts dates of **Nina Kraviz** [[20]](https://en.wikipedia.org/wiki/Nina_Kraviz), one of the most famous **disk jockey** [[21]](https://en.wikipedia.org/wiki/Disc_jockey) nowadays. Those below are the official dates on **Resident Advisor** [[22]](https://en.wikipedia.org/wiki/Resident_Advisor), but remember that we don't know about unofficial parties.
 
@@ -80,7 +80,7 @@ That are like missions impossible calculating airplane travel, airport times, tr
 
 ### Tech, but not only, industry.
 
-![Secret services US chain](../Images/intelligence-liaison-partners.png)
+![Secret services US chain](http://telecomlobby.com/Images/intelligence-liaison-partners.png)
 
 
 

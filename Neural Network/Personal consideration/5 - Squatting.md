@@ -1,6 +1,6 @@
 # Squatting
 
-![Okupa](../Images/Okupayresiste.jpg)
+![Okupa](http://telecomlobby.com/Images/Okupayresiste.jpg)
 
 To squat:
 
@@ -21,7 +21,7 @@ From a OSINT point of view what is our preferred tool to analyze those propertie
 
 ### Squatting in Catalunya
 
-![Ciao U](../Images/82967724_625618471528699_468013259491279507_n.jpg)
+![Ciao U](http://telecomlobby.com/Images/82967724_625618471528699_468013259491279507_n.jpg)
 
 
 

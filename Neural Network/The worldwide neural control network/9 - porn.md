@@ -1,6 +1,6 @@
 # Porn Internet industry food
 
-![pornography stats](../Images/statistics-on-internet-porn-still-a-major-industry--infographics_50290fccd8f2b_w1500.jpg)
+![pornography stats](http://telecomlobby.com/Images/statistics-on-internet-porn-still-a-major-industry--infographics_50290fccd8f2b_w1500.jpg)
 
 How to produce porn industry food? And I speak about food not because i don't like women involved in porn facilities but because "Illuminati" consider them just food. *Food to buy in a Pakistan's market*. They forge adolescent girls with a large brain washing procedure, it start with the complete demolition of democratic and classic knowledge basis of those girl. Normally victims aren't very educated and come from a normally low social class. It start with something like classes about supposed unknown histories about human kind and flow into sexual abuse based also in the destructions of the normal sexual education, orgies, slavery and so on. It uses the reproductive system over excitement and control described on chapter two.
 
@@ -39,7 +39,7 @@ Will the girl gain money? No absolutely not. *She is fated to a bad destiny*.
 
 ### Barcelona swingers and BDSM ambient.
 
-![Club rosas cinco](../Images/bdsm-rosas-cinco-barcelona.png)
+![Club rosas cinco](http://telecomlobby.com/Images/bdsm-rosas-cinco-barcelona.png)
 
 **Swinging** [[6]](https://en.wikipedia.org/wiki/Swinging_(sexual_practice)), intercambio de parejas in Spanish, intercanvi de parelles in Catalan. A phenomenon that has seen Barcelona, the Catalunya most important city, like one of the most important sexual tourism destination about this sexual practice. 
 
@@ -59,7 +59,7 @@ Don't be afraid to speak about, i'm Riccardo Giuntoli and i say to you that ther
 
 First of all a consideration. Machine of the synthetic telepathy network in porn is present. No one say nothing but it's a reality. Cam site permit to connect people under this system with the models acting in the other site. **Cam4** [[19]](https://en.wikipedia.org/wiki/CAM4) and **Chaturbate** [[20]](https://en.wikipedia.org/wiki/Chaturbate) for sure. So there is an accord between the owners of those web pages and the owners of the network. Who they are?
 
-![Chaturbate web cam](../Images/chatturbate.png)
+![Chaturbate web cam](http://telecomlobby.com/Images/chatturbate.png)
 
 Another consideration. A girl that is victim of this criminal system could be connected to many actress doing live sex on those portals as the owners want. What does it mean? The victim when close her eyes every time will see a porn scene so she cannot sleep and she is always over stimulated always searching to create a sexual slave. *This is a torture that destroy the life of the victim.* Be careful *they can do this also with a children*. Connecting a child to those womens acting in front of the cam will change the behavior of the child, preparing to a possible sold to a pederast.  They use this threat, *i think almost always its only a threat* but i cannot swear it, to obtain also sexual slavery from the mom. 
 

@@ -2,7 +2,7 @@
 
 Like in the OSI model in the remote neural monitoring network there's a pile of different protocols that which deals with human address that are constantly tracked in the network and are considered like machines in a IP network.
 
-![Human stack](../Images/humanstack.jpg)
+![Human stack](http://telecomlobby.com/Images/humanstack.jpg)
 
 Just like our fingerprint, we have unique patterns of electromagnetic activity in our brain and body.  These are called resonance frequencies that are how fast or slow vibrations repeat or cycle. Through resonance, a comparatively weak vibration in one object can cause a strong vibration in another which can be damaged or destroyed. Our unique resonance frequencies can be used to calibrate radios and then used to radiate us with harmful frequencies.
 
@@ -67,13 +67,13 @@ Many police and doctors in reality are corrupted officials that specifically use
 
 ### Physical layer
 
-![Human body](../Images/human-muscles-new.jpg)
+![Human body](http://telecomlobby.com/Images/human-muscles-new.jpg)
 
 **Human body** [[1](https://en.wikipedia.org/wiki/Human_body)] is the physical layer of connectivity of this network. This is an awesome technology but used to destroy, command and conquer. 
 
 ### Data Link Layer
 
-![Unique ID magnetic field](../Images/Screen-Shot-2018-11-09-at-11.08.08-AM-1.png)
+![Unique ID magnetic field](http://telecomlobby.com/Images/Screen-Shot-2018-11-09-at-11.08.08-AM-1.png)
 
 We're locked to those networks by satellite and by the steam machine between an unique human magnetic field value transmitted naturally if radio wave stimulated. The frequency that is used to stimulate these field is 3Ghz it can be transmitted by satellite or by **WiMax** [[2](https://en.wikipedia.org/wiki/WiMAX)] radio technology. **Magnetoelectric** [[3]](https://www.nature.com/articles/s41598-017-01647-x) **nanoparticles** [[4]](https://en.wikipedia.org/wiki/Nanoparticle) MEN are responsible of this emission. 
 
@@ -81,13 +81,13 @@ Until ten years ago those networks exist but the services use in hide mode, ther
 
 ### Network Layer
 
-![Heartmath](../Images/heartmath-science-of-the-heart-electromagnetic-field.jpg)
+![Heartmath](http://telecomlobby.com/Images/heartmath-science-of-the-heart-electromagnetic-field.jpg)
 
 Another method to give an address in this radio network to clients, humans but not only also animal and machines, is the magnetic field produced by **heart** [[5]](https://en.wikipedia.org/wiki/Heart). 
 
 ### Transport Layer
 
-![Human resonance frequencies](../Images/The-human-body-resonance-frequencies.png)
+![Human resonance frequencies](http://telecomlobby.com/Images/The-human-body-resonance-frequencies.png)
 
 The transport layer to address the different organs of the client services, in this case are our organs, are the resonance frequencies of every part of our body. The worst part is that every human has got a particular range of resonance of internal organs. So every target individual has to be scanned like in a **nmap** [[6]](https://en.wikipedia.org/wiki/Nmap) session.
 

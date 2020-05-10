@@ -1,6 +1,6 @@
 # DNA
 
-![Riccardo Giuntoli](../Images/92094777_10222816033691977_6240920452722589696_o.jpg)
+![Riccardo Giuntoli](http://telecomlobby.com/Images/92094777_10222816033691977_6240920452722589696_o.jpg)
 
 In the last fifteen years in Internet there is a few web applications that are used worldwide to do research about **DNA** [[1]](https://en.wikipedia.org/wiki/DNA). This acid molecule carry **genetic** [[2]](https://en.wikipedia.org/wiki/Genetics) instructions that could be used by humankind to study **heredity** [[3]](https://en.wikipedia.org/wiki/Heredity), that in humans is passed generation between generation with **sexual reproduction** [[4]](https://en.wikipedia.org/wiki/Sexual_reproduction). 
 
@@ -14,13 +14,13 @@ This is so important and remember that nobles use the art of deception something
 
 ### 23andMe
 
-![23andMe](../Images/23admMe.png)
+![23andMe](http://telecomlobby.com/Images/23admMe.png)
 
 **23andMe** [[8]](https://en.wikipedia.org/wiki/23andMe) is a **Silicon Valley** [[9]](https://en.wikipedia.org/wiki/Silicon_Valley) private company working on **biotechnology** [[10]](https://en.wikipedia.org/wiki/Biotechnology) and **genetic genealogy** [[11]](https://en.wikipedia.org/wiki/Genetic_genealogy) obtained by homemade saliva test received by customers using standard post services.
 
 They execute **salivaomics** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) over the sample received that have the goal to complain with a **genealogical DNA test** [[13]](https://en.wikipedia.org/wiki/Genealogical_DNA_test) to estimate **ethnic** [[14]](https://en.wikipedia.org/wiki/Ethnic_group) and **ancestry** [[15]](https://en.wikipedia.org/wiki/Ancestor) of an individual. 
 
-![Salivaomics to 23andMe](../Images/20200306_095628.jpg)
+![Salivaomics to 23andMe](http://telecomlobby.com/Images/20200306_095628.jpg)
 
 I've send my saliva sample on 6 March of 2020 to a company dedicated to the stocking and delivering of medical test among others services. The company is **Movianto** [[16]](http://movianto.com/) and the delegation is in Netherlands. From Netherlands. Than it was delivered to US and next the sample was subjected to **DNA extraction** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
@@ -38,7 +38,7 @@ In the first image you can appreciate the ethnic estimation of this private comp
 
 All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe).
 
-![Haplogroups](../Images/Haplogroups_europe.png)
+![Haplogroups](http://telecomlobby.com/Images/Haplogroups_europe.png)
 
 Speaking about ancestry it's important to understand the world **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) that are a group of **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) who themselves are **allele** [[23]](https://en.wikipedia.org/wiki/Allele) that are what explain **mutations** [[24]](https://en.wikipedia.org/wiki/Mutation) and **phenotypes** [[25]](https://en.wikipedia.org/wiki/Phenotype).
 
@@ -57,13 +57,13 @@ You can download all the results obtained by the 23andMe genealogical DNA test a
 
 ### MyHeritage
 
-![Ethnic groups](../Images/20200427_132224.jpg)
+![Ethnic groups](http://telecomlobby.com/Images/20200427_132224.jpg)
 
 **MyHeritage** [[35]](https://en.wikipedia.org/wiki/MyHeritage) is an online genealogy platform based in Israel. On 28 of December 2019 they receive my salivaomics and got the laboratory results on 9 February 2020.
 
 The ethnic estimation is very different from the other company. And this is very strange. Salivaomics was send as the other with normal post office service. But as the other I've got all the genealogical DNA data to download in a public URL.
 
-![MyHerigage ethnic](../Images/myheritage-etnics.jpg)
+![MyHerigage ethnic](http://telecomlobby.com/Images/myheritage-etnics.jpg)
 
 As you can see in Spanish language them explication of my DNA is the one that I explain here:
 

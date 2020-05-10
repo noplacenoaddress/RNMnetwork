@@ -1,6 +1,6 @@
 # Goods for protect our privacy and safety
 
-![Baby](../Images/74456376_10221115436578112_6225842746691682304_n.jpg)
+![Baby](http://telecomlobby.com/Images/74456376_10221115436578112_6225842746691682304_n.jpg)
 
 The neural control network got it layer one based on radio high power electromagnetic emissions. The results is the neural control monitoring network build upon this and **electrosmog** [[1]](https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health),  unnatural **electromagnetic field** [[2]](https://en.wikipedia.org/wiki/Electromagnetic_field) and **electromagnetic interference** [[3]](https://en.wikipedia.org/wiki/Electromagnetic_interference). Human body and human magnetic field produced by different organs.
 
@@ -8,7 +8,7 @@ The neural control network got it layer one based on radio high power electromag
 
 ### Magnets 
 
-![](../Images/GettyImages-147220256-56a8282.jpg)
+![](http://telecomlobby.com/Images/GettyImages-147220256-56a8282.jpg)
 
 I've put a simple magnet upon a hat and another near the heart in the pocket of a shirt for example. This disturb the communication with the "Illuminati" facility. And our body magnetic field are altered. 
 
@@ -18,13 +18,13 @@ Where can I buy them?
 
 ### Aluminum foil hat
 
-![Aluminum foil hat](../Images/30C3_TinFoil-Hat.jpg)
+![Aluminum foil hat](http://telecomlobby.com/Images/30C3_TinFoil-Hat.jpg)
 
 Simply build an **aluminum foil hat** [[5]](https://en.wikipedia.org/wiki/Tin_foil_hat) to stop our mind to be read by the remote neural monitoring network.
 
 ### EMF shield clothes and accessory
 
-![](../Images/afc269525652b4e3322ba18b9edb944e_original.jpg)
+![](http://telecomlobby.com/Images/afc269525652b4e3322ba18b9edb944e_original.jpg)
 
 There is a tissue that is made of **Faraday** [[6]](https://en.wikipedia.org/wiki/Michael_Faraday) fiber on the market not very common to find but nowadays present in campaign foundation portals like **kickstarter** [[7]](https://en.wikipedia.org/wiki/Kickstarter) that is very important to dress our child and ourself to reflect electromagnetic field and radiation product by the remote neural monitoring facility. 
 
@@ -40,7 +40,7 @@ They call this as "Faraday bags" simply **search them in amazon** [[11]](https:/
 
 ### Radio Jamming
 
-![Radio Jamming](../Images/au4gjammer150629059_01.jpg)
+![Radio Jamming](http://telecomlobby.com/Images/au4gjammer150629059_01.jpg)
 
 **Radio jamming** [[12]](https://en.wikipedia.org/wiki/Radio_jamming) from the end of the second world war was used to silently combat between different factions. 
 
@@ -55,13 +55,13 @@ It's also possible to buy a small radio transmitter USB to connect to a smart ph
 
 ### QuWave Defender 
 
-![QuWave](../Images/asdfasdf.jpg)
+![QuWave](http://telecomlobby.com/Images/asdfasdf.jpg)
 
 **QuWave** [[15]](https://quwave.com/index.html) **defender** [[16]](https://quwave.com/defender.html) is a commercial product that guarantee that ELF and SLF frequencies cannot operate upon our brain. The web page isn't well presented and as almost always speaking of this technology it has references to the mystic. As you can see from the image, immunity is guaranteed together with a jammer against dream injection and remote EEG reading and writing. The worst think for this product is the price that round the four hundreds dollars. One positive point is that this manufacturer utilize a policy of **satisfaction guarantee** [[17]](https://quwave.com/policies.html#satisfactionguarantee), if the product isn't able to stop electronic harassment  they sold it with an unconditional 30 days money back guarantee.
 
 ### ZVS Driver
 
-![ZVS Driver](../Images/colored_schem.png)
+![ZVS Driver](http://telecomlobby.com/Images/colored_schem.png)
 
 In the remote neural monitoring network when you're a target individual you're line under an electromagnetic bell where all the stalkers that has got access to the electromagnetic unique id of the bell can visualize you like you're under a series of video cameras. This seems to be impossible to technical explain but it's true they can film you as you are en front of a movie set. 
 
@@ -98,7 +98,7 @@ With a **ZVS Driver** [[18]](https://youtu.be/0ldSaiY-BWA) we can make it imposs
 
 ### House shielding
 
-![A painting found on the street](../Images/90334593_559700711317952_5617898684528978472_n.jpg)
+![A painting found on the street](http://telecomlobby.com/Images/90334593_559700711317952_5617898684528978472_n.jpg)
 
 So we know how to protect ourself from the neural monitoring network. Let's start to see how to protect our houses. There's some products that could be very interesting to buy searching to obtain the almost complete isolation:
 

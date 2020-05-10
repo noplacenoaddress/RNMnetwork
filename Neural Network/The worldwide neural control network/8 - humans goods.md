@@ -1,6 +1,6 @@
 # Products from the assembly line.
 
-![Car's assembly line](../Images/1923-automobile-fabbrica-di-automobili-sulla-linea-di-assemblaggio-finale-di-new-york-cmt08n.jpg)
+![Car's assembly line](http://telecomlobby.com/Images/1923-automobile-fabbrica-di-automobili-sulla-linea-di-assemblaggio-finale-di-new-york-cmt08n.jpg)
 
 The synthetic telepathy network is like an industry of human brains.  It models masses of brains according to predetermined patrons to create figures of work and exploitation in order to foster the greatest gain due to imposed digital slavery. 
 
@@ -21,7 +21,7 @@ They do this also with the ghost of **pederasty** [[2]](https://en.wikipedia.org
 
 So in fact this pseudo dictatorship is founded in drug sell and prostitution. But where does it reverses its revenues? Basically in technology to fortify the digital explosion ship of people. Who're behind this monster? Aristocrats, Vatican, great entrepreneurs and so on. The **elite** [[6]](https://en.wikipedia.org/wiki/Elite). And now the so-called elitist have decided to destroy our democracy probably to reinvigorate the arms market, especially the electronic weapons market in view of a new cyber cold war that currently has already targeted our United Europe to favor the two great giants, the United States and Russia. **Mediterranean Sea** [[7]](https://en.wikipedia.org/wiki/Mediterranean_Sea) always was board of silent cold wars for is geographical center position between the two empires.
 
-![Mediterranean Sea](../Images/Mediterranee_02_EN.jpg)
+![Mediterranean Sea](http://telecomlobby.com/Images/Mediterranee_02_EN.jpg)
 
 ### Theft of ideas and unfair competition
 
@@ -29,7 +29,7 @@ Remember that all people in this network, victims or not, are under remote neura
 
 **Idea theft** [[10]](https://lawtl.com/idea-theft) is a crime! *And i'm victim of*.
 
-![idea theft](../Images/brojid.com_.-Idea-Theft-1.jpg)
+![idea theft](http://telecomlobby.com/Images/brojid.com_.-Idea-Theft-1.jpg)
 
 With remote neural monitoring what happen to business mans: 
 
@@ -41,7 +41,7 @@ So another kind of victim of the network are young inexpert businessman, like i 
 
 ### People with similar physiognomy
 
-![Collages of Faces](../Images/Collage.jpg)
+![Collages of Faces](http://telecomlobby.com/Images/Collage.jpg)
 
 **Physiognomy** [[14]](https://en.wikipedia.org/wiki/Physiognomy). **Clone** [[15]](https://en.wikipedia.org/wiki/Clone_(computing)) in computing. What does those words got in common? 
 
@@ -57,7 +57,7 @@ Remember also that visual cortex of all the human clients of the network is read
 
 ### Hunters of new victims and the develop of a Mantis tool
 
-![Girls hunters](../Images/ROWIE_Coda-Mini-Hunter_Savannah_Pre-Spring-19__198-900x1350.jpg)
+![Girls hunters](http://telecomlobby.com/Images/ROWIE_Coda-Mini-Hunter_Savannah_Pre-Spring-19__198-900x1350.jpg)
 
 To hunt, to pursue, to chase, to *stalk*. Or in computer science, a **trojan horse** [[19]](https://en.wikipedia.org/wiki/Trojan_horse_(computing)); something in a good shape that hide something terrible and dangerous. *Prostitutes*? Something more complex, they aren't directly sold in web pages. They go out in the **Saturday Night Fever** [[20]](https://en.wikipedia.org/wiki/Saturday_Night_Fever) trying to catch, and yes all the days they go out they catch, the correct prey. Someone that isn't connected to the network, someone that has got a good bank account, or someone that is a possible competitor for others clients of the network. In this way  **twenty four girls dressed like my ex girlfriend** in the network monitor tv ended up being a slave to the neural control network for a year and raped several times before becoming a millionaire huntress berthed in the tourist port of Barcelona. 
 
@@ -77,7 +77,7 @@ So let's consider the image on the header. Like I explain it is a production lin
 
 > *The transformation of a person from a girl who enjoy doing love with her boyfriend to a person that hunt for prey in discotheque is something large and laborious.* 
 
-![Mantis](../Images/04-praying-mantis-nationalgeographic_2301352.jpg)
+![Mantis](http://telecomlobby.com/Images/04-praying-mantis-nationalgeographic_2301352.jpg)
 
 Let's analyze this radical transformation that can occur in a mind because the work of an expert human hacker. This is in reality what we've described as this peculiar profession. I think that a transformation like this need at least ten years of work. The result is a perfect **Mantis** [[23]](https://en.wikipedia.org/wiki/Mantis). A tool in human hacking.
 
@@ -88,7 +88,7 @@ Let's analyze this radical transformation that can occur in a mind because the w
 
 ### Girls full of love, John Doe.
 
-![female Doe](../Images/tumblr_m6vugwifZg1r90rkno1_500.jpg)
+![female Doe](http://telecomlobby.com/Images/tumblr_m6vugwifZg1r90rkno1_500.jpg)
 
 This is how Saray have been used in the remote neural monitoring network against myself. Those criminals, putting pressure on the womans using familiar situations, use beautiful woman like human video camera to stole companies secrets and to create a trauma in a businessman. 
 

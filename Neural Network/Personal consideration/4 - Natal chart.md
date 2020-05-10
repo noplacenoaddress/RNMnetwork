@@ -12,7 +12,7 @@ For some reason I think that Vatican through the Jesuit order and in turn with t
 
 ### My natal chart
 
-![Carta Astrale](../Images/cartaastrale.jpg)
+![Carta Astrale](http://telecomlobby.com/Images/cartaastrale.jpg)
 
 This is my natal chart I was born in Genoa on Thursday 31 of March 1981 at 17 hours and 50 minutes.
 

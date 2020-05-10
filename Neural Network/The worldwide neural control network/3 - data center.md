@@ -1,6 +1,6 @@
 # The network computing center 
 
-![Synthetic Telepathy network](../Images/redtelepatia.jpg)
+![Synthetic Telepathy network](http://telecomlobby.com/Images/redtelepatia.jpg)
 
 This is the network scheme of the "Illuminati" criminal network **data center** [[17]](https://en.wikipedia.org/wiki/Data_center). Let's analyses device by device what is the synthetic telepathy network, a telecommunication facility that is changing in my opinion all Europe and is determining a right turning in our governments. It's very dangerous and probably it's the start of what i think it could be a **neo nazism** [[18]](https://en.wikipedia.org/wiki/Neo-Nazism) digital dictatorship and a start of a alpha stage of what we found in Internet named as **cyberwarfare** [[19]](https://en.wikipedia.org/wiki/Cyberwarfare).
 
@@ -67,7 +67,7 @@ Let's introduce every device of the network scheme above:
   
 - **Artificial Intelligence**: all in the synthetic telepathy network, or BRAINnet, is absolutely dominated by machine intelligence. I think that there isn't a big crew of administrators but there is a lot of excellent programmers. I've found connections with the **Neuralink** [[77]](https://en.wikipedia.org/wiki/Neuralink) project by **Elon Musk** [[78]](https://en.wikipedia.org/wiki/Neuralink) and what have said **Mark Zuckerberg** [[79]](https://en.wikipedia.org/wiki/Mark_Zuckerberg) at **F8 conference in 2017** [[80]](https://newsroom.fb.com/news/2017/04/f8-2017-day-1/).
 
-![Mark Zuckerberg at F8 conference in 2017](../Images/f8_mz_d.jpg)
+![Mark Zuckerberg at F8 conference in 2017](http://telecomlobby.com/Images/f8_mz_d.jpg)
 
 ### External links
 

@@ -2,7 +2,7 @@
 
 ### The Italian state
 
-![Italian prefix](../Images/80521461_10221779765545921_1397533786333249536_o.jpg)
+![Italian prefix](http://telecomlobby.com/Images/80521461_10221779765545921_1397533786333249536_o.jpg)
 
 *"All roads lead to Rome"*, a medieval **proverb** [[1]](https://en.wikipedia.org/wiki/Proverb). 
 
@@ -50,7 +50,7 @@ But remember that those are only my to cents because we can try to debug also th
 
 ### Pokemon correlation: a noble game.
 
-![I and my love](../Images/poke.jpg)
+![I and my love](http://telecomlobby.com/Images/poke.jpg)
 
 Remember that machines are shared between target individuals sure? Ok this seams to be a stupidity but in the "Illuminati" game, that in reality is a digital pseudo dictatorship that is changing our Europe and the world, machine numbers are represented by **Pokemon** [[20]](https://en.wikipedia.org/wiki/Pok%C3%A9mon) identifications.
 
@@ -58,7 +58,7 @@ From this stupidity I know for sure that I'm in neural control from 1999. At the
 
 Also colors are important means groups, but remember that basic colors are utilized in gang stalking to do brain washing. To confuse minds. In reality peoples that have access to this network for me are also targets individuals. In this network people are considered like machines, but one time that you're in the only think that have importance is money. But works related to this shit are all frauds. This is a pyramid. It's a fraud. All correlated with black market, prostitution, sexual harassment. All the people here inside gain money on whatever you do one time you're in. This is a fraud. But in reality this game is orchestrated by the elite like we've analyze, nobles, state and church. In reality is utilized to do mass social influencing, destroy democracy and rebuild fascism. It's a scandal nothing more. All the economy inside this system is crypt concurrency related, what does it mean? That is a very big fraud also to the state. We've to stop immediately this system and the method to use is exactly how they catch Al Capone, **tax fraud** [[25]](https://en.wikipedia.org/wiki/Tax_evasion). 
 
-![Colors in Pokemon](../Images/Pokemon_Type_Chart.svg.png)
+![Colors in Pokemon](http://telecomlobby.com/Images/Pokemon_Type_Chart.svg.png)
 
 For example machine number 9, the number they say that belongs to me in this game that is a fraud, in reality I think that machine are not frauds but yes they exist and I've got four machines from the Italian government (1, 2, 4 and 5) indicate color blue, like my eyes, and type water that in Spanish could mean police (**¡agua!** [[26]](https://blogs.20minutos.es/yaestaellistoquetodolosabe/de-donde-proviene-gritar-agua-para-avisar-de-la-presencia-de-la-policia/)). This could mean that in this fraud I've got to denunciate all, and actually I'm doing it so it is not all totally false. A classic noble game.
 
@@ -82,11 +82,11 @@ Speaking about colors and seeing the table of the first **151 Pokemon** [[27]](h
 
 As you can see I've used some links to Wikipedia and others to a site where you can appreciate similar colors, a briefing about the significance and others colors that goes well with.
 
-![meridian](../Images/Primemeridian.jpg)
+![meridian](http://telecomlobby.com/Images/Primemeridian.jpg)
 
 ### The catholic church machine levels
 
-![Super mega direttore](../Images/paolo-paoloni-1102865.jpg)
+![Super mega direttore](http://telecomlobby.com/Images/paolo-paoloni-1102865.jpg)
 
 This patchwork of images are copied from the film **Fantozzi** [[45]](https://en.wikipedia.org/wiki/Fantozzi_(film)) based on the novel from **Paolo Villaggio** [[46]](https://en.wikipedia.org/wiki/Paolo_Villaggio).
 
@@ -112,7 +112,7 @@ This is the end? No...I don't think so.
 
 > *So what is this Machine? It's something international and world and space based used by who command. Divided in levels starting from the nobles to the really unknown. With this machine they observe and change the fate of the world, including affect nature.* 
 
-![Faro de Moncloa](../Images/farodemoncloa21.jpg)
+![Faro de Moncloa](http://telecomlobby.com/Images/farodemoncloa21.jpg)
 
 You can appreciate this telecommunication tower in Madrid called "faro de Moncloa". The are a lot of vertical floor and the a terrace. The terrace is the allegory of the **collage of Cardinals** [[54]](https://en.wikipedia.org/wiki/College_of_Cardinals) but next there is something more and from this film we know that is the Judaic society.
 

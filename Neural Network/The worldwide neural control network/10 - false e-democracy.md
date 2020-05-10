@@ -1,6 +1,6 @@
 # E-democracy
 
-![E-democracy](../Images/800px-Hilbert_3D_e-democracy_roadmap.png)
+![E-democracy](http://telecomlobby.com/Images/800px-Hilbert_3D_e-democracy_roadmap.png)
 
 As you can see there's a pyramid structure in this graphic, so, it's simple, it's a fraud. And electronic democracy *it's not democracy*. I remember my father telling me about his sense of **claustrophobia** [[1]](https://en.wikipedia.org/wiki/Claustrophobia) inside the **Giza pyramid complex** [[2]](https://en.wikipedia.org/wiki/Giza_pyramid_complex), also this illness could be classified as **anxiety disorder** [[3]](https://en.wikipedia.org/wiki/Anxiety_disorder). Look at the second last step before **e-democracy** [[4]](https://en.wikipedia.org/wiki/E-democracy), it's **big data** [[5]](https://en.wikipedia.org/wiki/Big_data) analysis. All of this data in the synthetic telepathy network has grow up a lot. In this criminal network there's absolutely no **privacy** [[6]](https://en.wikipedia.org/wiki/Privacy). And privacy is one of the most important towers of democracy. Where's no privacy there's no democracy.
 
@@ -20,7 +20,7 @@ But speaking about democracy that is the title of this chapter the worst think i
 
 What is this network? I cannot understand why no one say nothing and my fear for a third world war and the consequent deaths is very high. This is terrorism, and is destroying the **United States of Europe** [[9]](https://en.wikipedia.org/wiki/United_States_of_Europe).
 
-![United States of Europe](../Images/9yvgtx5swr621.png) 	
+![United States of Europe](http://telecomlobby.com/Images/9yvgtx5swr621.png) 	
 
 Why our political don't do nothing about? Remember that United Kingdom has vote for ***Brexit***! 
 
@@ -56,7 +56,7 @@ I **rotftl** [[27]](https://emojipedia.org/rolling-on-the-floor-laughing/), a no
 
 ### Piloted feminism and others mass feelings
 
-![Girl power](../Images/feminismpuppetry-punchierpink-958x559.jpg)
+![Girl power](http://telecomlobby.com/Images/feminismpuppetry-punchierpink-958x559.jpg)
 
 *-- vai avanti tu che a me vien da ridere --*
 
@@ -66,7 +66,7 @@ So who can utilize democratic movements to complain with a turn in totalitariani
 
 Why i speak about paint when i speak about feminist? It's not to illegitimate a true sentiment but it's to do a reflexion and i want that you, girls, do the same with my phrases that are not a manipulation but an object thinking. When we speak about sentiment that move a lot of persons, we can speak about masses. Masses are an incredible power tool for politicians and big entrepreneurs. Masses guided using a real sentiment with another final goal are very dangerous for democracy, masses vote almost the same when there's an **election** [[32]](https://en.wikipedia.org/wiki/Election) in the current **legislature** [[33]](https://en.wikipedia.org/wiki/Legislature).   
 
-![Carles Puigdemont in the Catalan parliament](../Images/1024px-Carles_Puigdemont_el_10_d'octubre_de_2017.jpg)
+![Carles Puigdemont in the Catalan parliament](http://telecomlobby.com/Images/1024px-Carles_Puigdemont_el_10_d'octubre_de_2017.jpg)
 
 Very unfortunately always when we speak about masses common feeling if they are not managed by great minds alien to foreign influences and primarily not corrupted by money, like it happen with the advance of the "Illuminati" pseudo dictatorship, they can be addressed where the corrupter want. 
 
@@ -82,19 +82,19 @@ Here it is others masses common feelings that is manipulated with this hell tech
 
 ### Documentation and bank identity thief
 
-![CaixaBank](../Images/60410.jpg)
+![CaixaBank](http://telecomlobby.com/Images/60410.jpg)
 
 There is others towers of our democracy government like the importance of keeping your identification and banking documents private. With this technology all of yours documents are read by the visual cortex remote reading by the neural control.
 
 Also, and yes it's true, with radio frequency it's possible to simulate a **magnetic stripe reader** [[34]](https://en.wikipedia.org/wiki/Card_reader) device and chip reader. It's true and it's under our eyes every days. Do you know **contactless payment** [[35]](https://en.wikipedia.org/wiki/Contactless_payment)? Do you know **radio frequency identification** [[36]](https://en.wikipedia.org/wiki/Radio-frequency_identification)? Could you image that the same system is done from a satellite network? You probably don't understand that we've totally loose our democracy. E-democracy is totally hacked by satterrorism. And it's now, and no one speak about? Does mass media say nothing? No. Why? Because of democratic backsliding that have fallen into populism political real movement and that obviously will fall into fascism and millions of death. The history always is repeating because of human kind, we're always the same animal and with technology we're too dangerous. For our planet and for our fellow men. *What is happening in reality*?
 
-![Capitalist pyramid](../Images/Pyramid_of_Capitalist_System.png) 
+![Capitalist pyramid](http://telecomlobby.com/Images/Pyramid_of_Capitalist_System.png) 
 
 Look another pyramid, another fraud, this have more than two thousand years. A strong one. Ok but now there's one layer upper that is **outer space** [[37]](https://en.wikipedia.org/wiki/Outer_space) and **cyberspace** [[38]](https://en.wikipedia.org/wiki/Cyberspace).
 
 Old summit of the capitalist pyramid, that have been always the same aristocratic cast, have lost them supremacy. This is called **new world order** [[39]](https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)), but is a conspiracy theory (in wikipedia, a web portal...).
 
-![New World Order](../Images/nwo.png)
+![New World Order](http://telecomlobby.com/Images/nwo.png)
 
 Look at this false **esoterism** [[40]](https://en.wikipedia.org/wiki/Western_esotericism) **masonic** [[41]](https://en.wikipedia.org/wiki/Freemasonry) symbol, you can find it on the **dollar** [[42]](https://en.wikipedia.org/wiki/Dollar) . Remember *paper money is a fraud also*.  A pyramid, a fraud, broken in his summit by an eye in space. *Satellite nothing else*.
 
@@ -116,11 +116,11 @@ Look at those last three tech giant, are Chinese.
 
 The reality is one. **Barcelona was owned by BAT tech giants.** And also the B-side is under those group. Because big tech nowadays control also black markets. Yes, it's true and yes the new mafia. The digital one.
 
-![BAT](../Images/Batman-Golden-Age-Featured-Image-Cropped.jpg)
+![BAT](http://telecomlobby.com/Images/Batman-Golden-Age-Featured-Image-Cropped.jpg)
 
 ### Oaths break
 
-![Hippocratic Oath](../Images/HippocraticOath.jpg)
+![Hippocratic Oath](http://telecomlobby.com/Images/HippocraticOath.jpg)
 
 There's various professional figures in a democratic state that have to oath in front of the state about the professional secret of customers personal data and cases. 
 
@@ -137,7 +137,7 @@ I call it a pseudo dictatorship because it is a state under the state like it is
 
 ### Political mass view manipulation
 
-![My father whatsup](../Images/20200101_090649.jpg)
+![My father whatsup](http://telecomlobby.com/Images/20200101_090649.jpg)
 
 This is my father profile image in the social network **Whatsup** [[53]](https://www.whatsapp.com/). As you can see there is a road in a desert, the **loneliness** [[54]](https://en.wikipedia.org/wiki/Loneliness), straight forward. 
 

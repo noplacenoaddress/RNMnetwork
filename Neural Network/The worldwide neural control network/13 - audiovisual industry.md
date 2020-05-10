@@ -14,7 +14,7 @@ This is what they've done in Catalunya and it is a patron to search in all Europ
 
 Ok, so the first step it's to translate analogue different meters longitude waves into [IP](https://en.wikipedia.org/wiki/IP_address). This is almost done with software defined radio, but in the past and probably nowadays something is however up and running there was radio ham bridges. 
 
-![packet radio](../Images/packetradio.png)
+![packet radio](http://telecomlobby.com/Images/packetradio.png)
 
 **Packet radio** [[6]](https://en.wikipedia.org/wiki/Packet_radio) was and is a classical solution present in the **Linux kernel** [[7]](https://en.wikipedia.org/wiki/Linux_kernel).
 
@@ -27,7 +27,7 @@ Here is some good links:
 
 USRP are a point of interest to develop BRAINnet utilized to silently sniff EEG from victims and inject data into brains.
 
-![LFRX](../Images/prod_lfrx_01_lg.jpg)
+![LFRX](http://telecomlobby.com/Images/prod_lfrx_01_lg.jpg)
 
 Some of them implement **direct current** [[12]](https://en.wikipedia.org/wiki/Direct_current) of wireless and those are our favorite products to analyze this hell network from the telecommunications lobby known as **wireless power transfer** [[13]](https://en.wikipedia.org/wiki/Wireless_power_transfer). Look at this radios:
 
@@ -36,7 +36,7 @@ Some of them implement **direct current** [[12]](https://en.wikipedia.org/wiki/D
 
 Next the bridge from ham radio to IP it's important to join a **metropolitan area network** [[16]](https://en.wikipedia.org/wiki/Metropolitan_area_network) with fiber or license radio bridges to a data center. Here with an **exterior gateway protocol** [[17]](https://en.wikipedia.org/wiki/Exterior_gateway_protocol) IP layer three packet are routed to an audiovisual networking and production facility.
 
-![Metro fiber network](../Images/Carrier Ethernet Services over Access Infrastructures.png)
+![Metro fiber network](http://telecomlobby.com/Images/Carrier Ethernet Services over Access Infrastructures.png)
 
 Here protocols are various the but the goal is to retransmit data over IP using **IPTV** [[18]](https://en.wikipedia.org/wiki/Internet_Protocol_television) over Internet, over **deep web** [[19]](https://en.wikipedia.org/wiki/Deep_web), over satellite using **videocipher** [[20]](https://en.wikipedia.org/wiki/Videocipher) customer enterprise equipment. What is transmitted as result of the "Illuminati"  facility is only illegal porn content, also **pedophilia** [[21]](https://en.wikipedia.org/wiki/Pedophilia). Remember that victims are unconscious human video camera.  
 
@@ -46,7 +46,7 @@ Speaking about protocols it's important to learn **Internet Group Management Pro
 
 ### Digital video processing 
 
-![Deepfake](../Images/694940094001_6063551200001_6063550473001-vs.jpg)
+![Deepfake](http://telecomlobby.com/Images/694940094001_6063551200001_6063550473001-vs.jpg)
 
 Resolution of video obtained by the "Illuminati" technology are of **nHD** [[25]](https://en.wikipedia.org/wiki/Graphics_display_resolution#nHD) display resolution, a ninth part of **Full HD** [[26]](https://en.wikipedia.org/wiki/1080p). To be transmitted over the channels above a **video processing** [[27]](https://en.wikipedia.org/wiki/Video_processing) facility is necessary. 
 

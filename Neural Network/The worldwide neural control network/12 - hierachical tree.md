@@ -1,6 +1,6 @@
 # Hierarchical pyramid tree
 
-![Hierarchical pyramid tree](../Images/k11381.gif)
+![Hierarchical pyramid tree](http://telecomlobby.com/Images/k11381.gif)
 
 "Illuminati" is a series of interconnected pyramid structures. A series of interconnected frauds. Every structure got a number.
 

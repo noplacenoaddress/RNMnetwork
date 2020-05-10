@@ -1,6 +1,6 @@
 # Radio infrastructure
 
-![Radio spectrum](/Images/Frq_Band_Comparison.png)
+![Radio spectrum](http://telecomlobby.com/Images/Frq_Band_Comparison.png)
 
 There is a lot of different services join together to create the remote neural monitoring facility. Depending on the layer and  who is the real owner it include hidden services from governments, church, nobles and big facilities. At the lower level, used normally to manage black market, prostitution and betting it is create by the use of open hardware devices and open source programs. 
 
@@ -21,7 +21,7 @@ The technologies are a mixture between analog and IP. All is public but no one h
 
 ### Church services for the cast
 
-![Power lines transposition](../Images/powerlinetranspotion.jpg)
+![Power lines transposition](http://telecomlobby.com/Images/powerlinetranspotion.jpg)
 
 *-- tutte le strade portano a roma --*
 
@@ -37,7 +37,7 @@ Using this magnetic field, electricity and others radio features it's possible f
 
 ### Governments remote neural control
 
-![Remote neural network](../Images/satcycle3-4_2_orig.png)
+![Remote neural network](http://telecomlobby.com/Images/satcycle3-4_2_orig.png)
 
 Governments has got subliminal voice services and silent brain waves sniff embedded in national operators LTE towers. Satellite constellation network also is used to stimulate MEN cells remotely with a 3GHz radio beam antenna. 
 
@@ -53,7 +53,7 @@ What are goals of governments using this technology:
 
 ### "Games" radio and magnetic networks
 
-![Games network](../Images/EOFWNG2X0AA_epp.jpeg)
+![Games network](http://telecomlobby.com/Images/EOFWNG2X0AA_epp.jpeg)
 
 What are games?
 
@@ -71,7 +71,7 @@ Games are assigned and completely masked behind nobles family, hacking and other
 
 Games are like " **the Canterbury tales**" [[20]](https://en.wikipedia.org/wiki/The_Canterbury_Tales), stories created on a center of attention that normally elude citizens and police forces not corrupted by the true meaning that nothing else is, as always, unbridled gain through a series of horrible crimes such as the creation of human guinea pigs for the purpose of developing unauthorized technologies. I am a victim of this system.
 
-![Magnetron](../Images/Inside-a-Magnetron-.png)
+![Magnetron](http://telecomlobby.com/Images/Inside-a-Magnetron-.png)
 
 
 
@@ -89,7 +89,7 @@ Who gain money with those masked "games"? Always the sames, the cast. Who loose 
 
 ### The terrestrial positioning system
 
-![3D radar](../Images/istockphoto-1017394876-640x640.jpg)
+![3D radar](http://telecomlobby.com/Images/istockphoto-1017394876-640x640.jpg)
 
 **3D radar** [[23]](https://en.wikipedia.org/wiki/3D_radar). It's a positioning system that is implemented in the neural control network at the level of "game" if done with open hardware that use a special type of software defined radio that is called **software defined embedded radar** [[24]](http://ancortek.com/).
 

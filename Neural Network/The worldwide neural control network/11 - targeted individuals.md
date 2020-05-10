@@ -1,6 +1,6 @@
 # Targeted individuals
 
-![targeted individuals](../Images/Dr0yW3JVAAArKa-.jpg)
+![targeted individuals](http://telecomlobby.com/Images/Dr0yW3JVAAArKa-.jpg)
 
 Who are target individuals? Person that for whatever reason are exposed to be a victim of a large group of persons, criminals organizations normally. Target individuals like I've said before are business man that have lost them companies in a strange way eaten by opposites sharks, political opponents to the current government or B-side organization,  victims of corrupt love plots among wealthy people. 
 
@@ -14,7 +14,7 @@ But this is not the worst think. In this network another shit happen to those po
 
 Those people are heavy tortured almost every day and every night to obtain value to sell to military facilities. Tortured by sadist. Bent by the excruciating pain of electronic weapons that are a reality silenced by corruption as subtle but as thick as a fog bank that is destroying our Europe in front of our white cocaine noses.
 
-![Target Individual Diagram](../Images/EM43SjfUYAA7TKb.jpeg)
+![Target Individual Diagram](http://telecomlobby.com/Images/EM43SjfUYAA7TKb.jpeg)
 
 Some of them, who got a family that can maintain them like me, try to resist to this monster, this network. And some, always like me, are IT technologist. Someone don't loose his mind after the complicate brain washing phases and the gangstalking one. Like me. Look in twitter the hashtag **#targetindividuals** [[6]](https://twitter.com/hashtag/targetindividuals). This is the legal and silenced by corruption human right abuse in our false electronic democracy. This is the end of ours states. No one speak about and this have to finish right now.
 
@@ -34,7 +34,7 @@ Look at the image above. It say "contract stalking". What does it mean? It means
 
 ### Child trafficking
 
-![Target individual cycle to suicide](../Images/90109249_685665235538391_8909022710445637632_n.jpg)
+![Target individual cycle to suicide](http://telecomlobby.com/Images/90109249_685665235538391_8909022710445637632_n.jpg)
 
 *-- re cycle, garbage --* 
 

@@ -1,6 +1,6 @@
 # About me
 
-![taglio](../Images/41442503_10217626665321011_2490918823650131968_n.jpg)
+![taglio](http://telecomlobby.com/Images/41442503_10217626665321011_2490918823650131968_n.jpg)
 
 *A broken clock is always right twice a day*
 
