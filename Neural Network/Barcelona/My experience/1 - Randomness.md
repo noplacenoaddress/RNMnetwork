@@ -20,7 +20,7 @@ They say that my Machine, but I don't know where it is, what kind of system is a
 
 ### My parents' honeymoon
 
-![Barcelona 1978](../Images/prensa_0210.jpg)
+![Barcelona 1978](http://telecomlobby.com/Images/prensa_0210.jpg)
 
 
 
@@ -32,7 +32,7 @@ My father has always speak in a very bad way about Spanish people. But I think t
 
 ### My mother mental illness
 
-![tavor](../Images/587px-Tavor_lorazepam.jpg)
+![tavor](http://telecomlobby.com/Images/587px-Tavor_lorazepam.jpg)
 
 From when I was born on 31 of March of 1981, in Genova at 17:50:28 at **Galliera hospital** [[4]](https://it.wikipedia.org/wiki/Ente_ospedaliero_Ospedali_Galliera), my mother fall in deep psychosis. Anxiety, depression and insomnia. She take benzoziapepine at industrial levels from about thirty five years! Yes she is a drugs addicted. 
 
@@ -50,7 +50,7 @@ In this video obtained with blue led light and a video camera with low resolutio
 
 ### An unexpected gift
 
-![5000 lira](../Images/Lire_5000_(Vincenzo_Bellini).jpeg)
+![5000 lira](http://telecomlobby.com/Images/Lire_5000_(Vincenzo_Bellini).jpeg)
 
 I remember a trip to Rome with my parents to Rome, where all the streets lead. I was just a child looking at those historical monuments with my eyes peering and my brain dreaming.
 
@@ -66,7 +66,7 @@ For this reason my detachment from the mother's clerical bigotry and the consequ
 
 ### A strange car accident
 
-![san Viglio di Marebbe](../Images/22814182_10214864400186109_4054271269818059772_n.jpg)
+![san Viglio di Marebbe](http://telecomlobby.com/Images/22814182_10214864400186109_4054271269818059772_n.jpg)
 
 In 1988 or 1989 in a mountain road near **san Vigilio di Marebbe** [[4]](https://it.wikipedia.org/wiki/San_Vigilio_(Marebbe)) a town in **south Tyrol** [[5]](https://en.wikipedia.org/wiki/South_Tyrol) direction to 
 **Pederü** [[6]](https://it.wikipedia.org/wiki/Rifugio_Peder%C3%BC) in the Rudo Valley was winter and the season was very cold. My father was driving a **Fiat Ritmo** [[7]](https://en.wikipedia.org/wiki/Fiat_Ritmo) metallic blue without winter wheel. The road was full of ice. In a left turn the front of the car skated and with and the muzzle positioned itself frontally against the mountain; my father, perhaps without consciousness but the maneuver was very risky, instead of choking frontally at low speed in a safe area that was the side of the mountain on the left, He decided to turn sharply *to the right* on an icy road resulting in a round of one hundred and eighty meters putting the car in the front direction of an **overhang** [[8]](https://en.wikipedia.org/wiki/Overhang_(rock_formation)) of at least twenty meters vertical jump and then end up in a bed of a totally frozen river. That is, he turned completely *in the direction of a sure death*. Chance wanted, and sometimes only in this exact case probably some superior entity, that a small fir wood stake of at least twenty centimeters in diameter parried the machine hovering between the road and the overhang with practically a third of it already outside from the fit. We didn't die for a plume.
@@ -79,7 +79,7 @@ Why he went in the cold valley on winter without snow tires or not even chains? 
 
 ### Bergolo fraction of Cortemilia, Italy. MKUltra
 
-![Bergolo](../Images/0121ga26.jpg)
+![Bergolo](http://telecomlobby.com/Images/0121ga26.jpg)
 
 Look at this playbill it's from 1998 from a little fraction of **Cortemilia** [[4]](https://it.wikipedia.org/wiki/Cortemilia) **province of Cuneo** [[5]](https://it.wikipedia.org/wiki/Provincia_di_Cuneo) in **Piemonte** [[6]](https://it.wikipedia.org/wiki/Piemonte).
 
@@ -95,7 +95,7 @@ In Bergolo there was a festival, a live music festival, **country stile** [[11]]
 
 Remember what I'm saying about this hell network? I speak about virtual rape, something that is described in "**a rape in cyberspace**" [[15]](https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace) a novel that describe this crime done by a **cyberpunk** [[16]](https://en.wikipedia.org/wiki/Cyberpunk). 
 
-![punk van](../Images/i447225.jpg)
+![punk van](http://telecomlobby.com/Images/i447225.jpg)
 
 In this festival people arrive with punk van and mount tend and some one product **LSD** [[17]](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) papers on site. We was young and from 1996 to 1999 I use to consume trip with my friends. 
 
@@ -113,7 +113,7 @@ A fatal motorbike accident tragedy. Near the same fraction. Three years later. A
 
 ### Communion and Liberation
 
-![CL](../Images/Comunione_e_liberazione.jpg)
+![CL](http://telecomlobby.com/Images/Comunione_e_liberazione.jpg)
 
 From 1994 to 2001 I go to high school **Martin Luther King** [[20]](https://www.liceoking.it/) in Genoa, my born city. The normal curse was of five years of study. But I repeat two times; I never been a great scholar but I'm clever so I finish. The worst think is that the two years that I've lost was not really my fault, even if I repeat when I was eighteen I didn't study a lot.
 
@@ -135,11 +135,11 @@ For me the fraud "Illuminati" that have induct to suicide an enormous number of 
 
 ### My father signs
 
-![old sign](../Images/mgantica.jpg)
+![old sign](http://telecomlobby.com/Images/mgantica.jpg)
 
 This is the old sign of my father, this sign is from 2009. You can appreciate an "A" capital cursive letter in the middle of the sign. The "A" is the first letter of the butcher's name.
 
-![new sign](../Images/mgmoderna.jpg)
+![new sign](http://telecomlobby.com/Images/mgmoderna.jpg)
 
 This is the new sign sign of my father. It's so strange that a very precise engineer has changed his sign. In the middle you can appreciate a "f" cursive letter, but not capital.
 
@@ -147,7 +147,7 @@ This is the new sign sign of my father. It's so strange that a very precise engi
 
 ### Friends of mine that have died in strange circumstances
 
-![Genoa](../Images/AdobeStock_118239878_0.jpeg)
+![Genoa](http://telecomlobby.com/Images/AdobeStock_118239878_0.jpeg)
 
 In Genoa in the last thirty years a couple of friends or known people have died in accidents, overdose or suicide:
 
@@ -167,7 +167,7 @@ Me and Saray are victims of a sept. Please help. But what are sept? Games of nob
 
 ### Spain
 
-![Veterano](../Images/1497627786_568058_1497628958_noticia_grande.jpg)
+![Veterano](http://telecomlobby.com/Images/1497627786_568058_1497628958_noticia_grande.jpg)
 
 One fact so curious that I always being in deeply love with Spain. From when I was very young I usually travel for passion and curiosity to this country with some friends or alone. Every years all the summer I go to Spain and travel I was traveling with my backpack and little money in my pocket. Those are the provincial capitals that I've visited :
 
@@ -200,7 +200,7 @@ One fact so curious that I always being in deeply love with Spain. From when I w
 - Lugo
 - Eivissa
 
-![Euskotren](../Images/euskotren.jpg)
+![Euskotren](http://telecomlobby.com/Images/euskotren.jpg)
 
 When I was young my favorite territory of the Iberian peninsula was **Euskadi** [[52]](https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)). I remember when I fall in sleep in the **Euskotren** [[53]](https://eu.wikipedia.org/wiki/Eusko_Trenbideak).  Those phrases are for you Basque people:
 
@@ -212,7 +212,7 @@ When I was young my favorite territory of the Iberian peninsula was **Euskadi** 
 
 When I decided to live in the Iberian peninsula was the new years day of 2007. Thirteen years ago. I remember that I tell one friend of mine to bring it back to Genoa. His name is Fabio, he works in the betting sector. 
 
-![Castillejos 219](../Images/castillejos219.jpg)
+![Castillejos 219](http://telecomlobby.com/Images/castillejos219.jpg)
 
 I started to live in Barcelona in a house that was rented from two friends of mine, or something similar, Simone and Vincenzo. This photo is from Google and it is dated 2008. Castillejos 219 fourth floor first door. 
 
@@ -224,7 +224,7 @@ A couple of years later those two friends one day decide to put me in the street
 
 ### A tale that told me my father
 
-![A tale](../Images/pp.jpg)
+![A tale](http://telecomlobby.com/Images/pp.jpg)
 
 Now I've understand that all my life  was a staging. 
 
@@ -240,7 +240,7 @@ My father without any doubt have create this plot against my life from I was bor
 
 ### A gift from my father
 
-![Gilera Stalker](../Images/67892425_175716130227419_4033764887786886214_n.jpg)
+![Gilera Stalker](http://telecomlobby.com/Images/67892425_175716130227419_4033764887786886214_n.jpg)
 
 **Gilera Stalker** [[63]](https://it.wikipedia.org/wiki/Gilera_Stalker) was my second motorbike and my father bought it to me on 1997. Yes, at that time I don't even know what is a stalker. Nor I don't when I was thirteen. I know it now.
 
@@ -258,7 +258,7 @@ In all the cases I'm victim of slavery. They call it a game, but the only game i
 
 ### November rain, 2017
 
-![November Rain](../Images/61g7fcyjlWL._SL1280_.jpg)
+![November Rain](http://telecomlobby.com/Images/61g7fcyjlWL._SL1280_.jpg)
 
 The 27 November 2017 I was actively connected to the Spanish neural network in Catalonia.  After a gas lighting persecution that have seen all citizens and authorities in Barcelona, the capital of the autonomous region of Spain. 
 
@@ -279,7 +279,7 @@ Probably, and in fact it is because in neural network I've speak with the maximu
 
 > This is my personal tragedy, my family have done one son to kill him. Nothing more and nothing less. And this is the true.
 
-![Saturn devouring his son](../Images/300px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
+![Saturn devouring his son](http://telecomlobby.com/Images/300px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
 
 I remember that when I was an adolescent my father tell me one good think: the best decade of a man start when he is 35 years old and end when he is 45. Now I know why he said to me this good think. To destroy my best years in my life. And my life has been systematically destroyed exactly from when I was 35 years old. What a coincidence, really? 
 

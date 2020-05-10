@@ -1,6 +1,6 @@
 # Massimo
 
-![suca](../Images/20140208_121912.jpg)
+![suca](http://telecomlobby.com/Images/20140208_121912.jpg)
 
 Massimo the boy on the right, is who I was calling brother. Why I was calling him brother? I don't know, it's only about feelings. 
 
@@ -24,7 +24,7 @@ But this has to finish and they don't have the power to do this. And I will do i
 
 He arrived to Barcelona at sixteen years old, very young and a little bit strange for a Genoese. But the strangest think is that he started to live exactly where who I call the butcher got a has an abandoned industrial ship from where he manages his dirty business, **Gorg** [[10]](https://ca.wikipedia.org/wiki/Gorg_(Badalona)) a district of Badalona.
 
-![Badalona Gorg](../Images/bdn.jpg)
+![Badalona Gorg](http://telecomlobby.com/Images/bdn.jpg)
 
 Probably he had come to Catalunya to fist study this technology and enter in this system after the school of this master and then to try to defeat him taking his place because in reality he works for the noble family of Genoa, for the Jesuits.
 

@@ -1,6 +1,6 @@
 # Carcelona
 
-![Monopoly](../Images/01-This-Is-What-the-First-Ever-Monopoly-Game-Looked-Like-courtesy-Thomas-E-Forsyth.jpg)
+![Monopoly](http://telecomlobby.com/Images/01-This-Is-What-the-First-Ever-Monopoly-Game-Looked-Like-courtesy-Thomas-E-Forsyth.jpg)
 
 Time has passed from when the first **monopoly** [[1]](https://en.wikipedia.org/wiki/Monopoly_(game)) **board game** [[2]](https://en.wikipedia.org/wiki/Board_game) was published. The principle difference between **Carcelona** [[3]](https://www.youtube.com/watch?v=Cqfx5GPecAE), the augmented reality environment directly injected to our visual and auditive cortex in Barcelona, and these game is that here there are not any manual and targets individuals reduced to small narcos or prostitutes forged by the remote neural monitoring network have not buy or better saying contracted any service. We're forced to join in. We're forced to be a bitch or a narcos by slavery. Electronic harassment slavery.  
 
@@ -47,7 +47,7 @@ Because they have systematically destroy my life, they stole my job and used my 
 
 ### B of Barcelona
 
-![B of Barcelona](../Images/pizza-circus-pizza-circus-10-ecac6.jpg)
+![B of Barcelona](http://telecomlobby.com/Images/pizza-circus-pizza-circus-10-ecac6.jpg)
 
 In the circus of Barcelona where it's managed the B-side market the gangstalking scene is present. The Barcelona mafia it's almost all in radio. Barcelona has got an occult face all streamed directly into visual and auditory cortex to people that have got access to this network. Almost all Spanish people got it but a little circle of target individuals and operators see the worst face of it. How can it be possible? Simple depending on the magnetic identification of the client you'll see one environment or other. 
 
@@ -96,7 +96,7 @@ Speaking about nobility washing machine could be:
 
 So this is a rapid analysis of the black and with market present in Catalunya a territory that is considerate one of the most rich in Spain. Full of possible **tax investigations** [[15]](https://en.wikipedia.org/wiki/Tax_investigation).
 
-![Al Capone](../Images/capone.jpg)
+![Al Capone](http://telecomlobby.com/Images/capone.jpg)
 
 Speaking about Mafia, my dear Mafia fellows, do you remember how was enjailed mr Al Capone? For **tax evasion** [[16]](https://en.wikipedia.org/wiki/Tax_evasion).
 

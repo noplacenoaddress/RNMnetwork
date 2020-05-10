@@ -1,6 +1,6 @@
 # The systematic destruction of my life
 
-![Montserrat](../Images/IMG-20141217-WA0000.jpeg)
+![Montserrat](http://telecomlobby.com/Images/IMG-20141217-WA0000.jpeg)
 
 I start living in Spain in 2007. Italy start to decline in **2001** [[1]](https://en.wikipedia.org/wiki/2001_Italian_general_election) with the second electoral victory of the right wing coalition **house of freedom** [[2]](https://en.wikipedia.org/wiki/House_of_Freedoms) summit by **Silvio Berlusconi** [[3]](https://en.wikipedia.org/wiki/Silvio_Berlusconi). So i decide to go out of my country. 
 
@@ -18,7 +18,7 @@ Those was my possessions that I've lost in this systematic destruction plot by s
 - A house where i got all my possessions including a lot of computer data located in **Av. de les Palmeres, 12, 08811 Canyelles, Barcelona, Spain** [[10]](https://goo.gl/maps/9u4pJv5835CL6B1t5). The house was privately rented.
 - Four motorbikes. Two registered with my name, one in Italy and the other in Spain, one that I've payed in cash and is registered to the name of the girlfriend of a man that i know, and one without registration number. 
 
-![Fingerprints](../Images/1280px-Fingerprints_taken_by_William_James_Herschel_1859-1860.jpg)
+![Fingerprints](http://telecomlobby.com/Images/1280px-Fingerprints_taken_by_William_James_Herschel_1859-1860.jpg)
 
 More than this I've suffered:
 
@@ -32,13 +32,13 @@ More than this I've suffered:
 - A provoked incarceration for four days where a slight crime was committed but was conjectured. One night in the **Mossos** [[14]](https://mossos.gencat.cat/ca/inici/) **commissary** [[15]](http://serveisoberts.gencat.cat/equipaments/3040055) in the Barcelona district of **Les Corts** [[16]](https://ca.wikipedia.org/wiki/Les_Corts). Two nights and days in the **national police** [[17]](https://www.policia.es/) la Verneda where they take my **fingerprints** [[18]](https://en.wikipedia.org/wiki/Fingerprint), my **elbows** [[19]](https://en.wikipedia.org/wiki/Elbow) prints, and photographs of an operation derived from the incident caused. I had never been arrested.
 - Various petty thefts when I was practically living on the street with no possessions.
 
-![Operation](../Images/op.png)
+![Operation](http://telecomlobby.com/Images/op.png)
 
 But the worst think is that the women that i love was sold in forced prostitution after be victim of a very heavy brainwashing technique and sadomasochist sexual slavery. 
 
 > *I love you sweetie, be careful. Don't accept drug from anyone. Take care my sun flower.* 
 
-![ti amo](../Images/tiamo.png)
+![ti amo](http://telecomlobby.com/Images/tiamo.png)
 
 ### External links
 

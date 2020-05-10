@@ -1,6 +1,6 @@
 # Canyelles, our lost house
 
-![Canyelles](../Images/35299207_456863851422799_639551734527557632_n.jpg)
+![Canyelles](http://telecomlobby.com/Images/35299207_456863851422799_639551734527557632_n.jpg)
 
 *They have separated us. They have forced our tears. All of this to play with your body, to sell you like in a butcher, to gain to earn slips of paper or magnetic states of a hard disk. To gain with one of the worst think in the world, gambling. ludopathy for mentally ill people.*
 
@@ -16,7 +16,7 @@ I've seen a photo of you, I've seen three hundred photos of you, I've seen your 
 
 ### A chronological history of disasters 
 
-![the cold Europe, moon of Jupiter](../Images/800px-Europa-moon-with-margins.jpg)
+![the cold Europe, moon of Jupiter](http://telecomlobby.com/Images/800px-Europa-moon-with-margins.jpg)
 
 *We was happy, but she was nervous. But sometimes she lets her soul see. And she was not what people thought about her. She was, and is, who I love. Full stop. But there's something more, something that overshadow her being a woman, something from which she escaped. Something she needed to scream for help.*
 
@@ -30,7 +30,7 @@ I've seen a photo of you, I've seen three hundred photos of you, I've seen your 
 
 #### 27 January of 2015 - fecal water invades the ground floor
 
-![](../Images/IMG-20150127-WA0005.jpg)
+![](http://telecomlobby.com/Images/IMG-20150127-WA0005.jpg)
 
 In the systematic destruction of my life the number **five** [[2]](https://en.wikipedia.org/wiki/5_(disambiguation)) it's omnipresent. 
 
@@ -42,7 +42,7 @@ This is was the start of the destruction. Something provoked by a lot of people,
 
 #### 19 March of 2015 - she lefts me
 
-![she left me](../Images/IMG-20150319-WA0000.jpeg)
+![she left me](http://telecomlobby.com/Images/IMG-20150319-WA0000.jpeg)
 
 This is our lost terrace. Here we made love. And some one say to me on a social network, a cine face. And now I know why, but it is B-side cine. 
 
@@ -50,7 +50,7 @@ This is our lost terrace. Here we made love. And some one say to me on a social 
 
 #### 22 December 2015 - a lighting strike that had to destroy all
 
-![lighting strike](../Images/6RFGJ2F65QI6TFEGIBWI6S7HAY.jpg)
+![lighting strike](http://telecomlobby.com/Images/6RFGJ2F65QI6TFEGIBWI6S7HAY.jpg)
 
 Incredible, remember that this chapter it's only about our house. But all in this part it's about destructions. About personal **apocalypse** [[10]](https://en.wikipedia.org/wiki/Apocalyptic_literature). But the real name it's another, I call this *digital mafia*. And yes with this lighting strike exactly over our house, incredible, all the technology was totally destroyed. And i had an accident, she left me, and so on. 
 

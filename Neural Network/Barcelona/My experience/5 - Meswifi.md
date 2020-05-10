@@ -1,6 +1,6 @@
 # My work, my passion and experience.
 
-![mounting a tower](../Images/35400228_456852041423980_6215908955487469568_o.jpg)
+![mounting a tower](http://telecomlobby.com/Images/35400228_456852041423980_6215908955487469568_o.jpg)
 
 Here I'm doing my job. Job that they have stole me. Job that I've created. Job where people work in a legal way. Job that i create to join my passion for telecommunications and my passion for nature. It's not simple. I was so happy.
 
@@ -20,7 +20,7 @@ The grow in Catalunya of suicide is like 25% in the last 8 years. All of those o
 
 ### Chronological events in Meswifi the name of the provider
 
-![work as an operator](../Images/20130723_135016.jpg)
+![work as an operator](http://telecomlobby.com/Images/20130723_135016.jpg)
 
 In December 2011 i was doing presential courses for the company 34Telecom. Here i know who would have been my partner in the Internet service provider. 
 
@@ -32,19 +32,19 @@ The first service was a simple copper **VDSL** [[12]](https://en.wikipedia.org/w
 
 Then we start to connect to official towers. At north we decide to grow up with an old radio ham private tower in the town of **Caldes de Montbui** [[14]](https://ca.wikipedia.org/wiki/Caldes_de_Montbui) in the mountain of **Farell** [[15]](https://ca.wikipedia.org/wiki/Fort_Farell). Next was the **serralada de Marina** [[16]](https://ca.wikipedia.org/wiki/Serralada_de_Marina) tower in **sant Fost de Campsentelles** [[17]](https://ca.wikipedia.org/wiki/Sant_Fost_de_Campsentelles) a tower from the municipality.
 
-![sant Fost](../Images/1367578604315.jpg)
+![sant Fost](http://telecomlobby.com/Images/1367578604315.jpg)
 
 Look at the summit antenna. It's for the magnetic steam machine. And other cable, this time **ethernet** [[18]](https://en.wikipedia.org/wiki/Ethernet), is culpable of all my adventure.
 
 My partner was a **plumber** [[19]](https://en.wikipedia.org/wiki/Plumber). And with his experience I start to learn something about installations. Was a good professor. And in a year I start to mount point of presence and customer premises equipment like an operator, but I was the chief, but it's so important in my opinion have a complete vision of the business. And I love it, because you stay in nature all the day. We normally do three hundred kilometers for day. So thank you Adam, and thank you Miguel. 
 
-![](../Images/20140313_162109.jpg)
+![](http://telecomlobby.com/Images/20140313_162109.jpg)
 
 Next was the most important one for our grow up. Sant Jeroni in Montserrat. It permit coverage on **Bages** [[20]](https://ca.wikipedia.org/wiki/Bages), **Lluçanes** [[21]](https://ca.wikipedia.org/wiki/Llu%C3%A7an%C3%A8s), **Anoia** [[22]](https://ca.wikipedia.org/wiki/Anoia), **Moianes** [[23]](https://ca.wikipedia.org/wiki/Moian%C3%A8s), **Alt Penedes** [[24]](https://ca.wikipedia.org/wiki/Alt_Pened%C3%A8s), **Llobregat** [[25]](https://ca.wikipedia.org/wiki/Llobregat). We go up the mountain with forty kilograms of goods every one. I do this fantastic walk like thirty times. Was like a dream, work but doing a mountain trip. And they stole it from me. 
 
 > *They stole my dreams. And with the steam machine they write my dreams. They have to be stopped.* 
 
-![nature](../Images/11659220_10207247886218020_6564094909592538389_n.jpg)
+![nature](http://telecomlobby.com/Images/11659220_10207247886218020_6564094909592538389_n.jpg)
 
 And we continue to grow up with many others point of presence. And we start to invoice like four millions of Eur, legally. This is a great amount of money. And we do only with fifteen thousand Eur of initial inversion. Nothing at all. We do a great job.
 
@@ -56,7 +56,7 @@ But something start to be wrong with my associate and he starts when i was out, 
 
 > *Her nickname in subliminal voice chat, in the remote neural control network is "Francese".*
 
-![A military ship](../Images/MM_Luigi_Durand_de_la_Penne_D560.jpg)
+![A military ship](http://telecomlobby.com/Images/MM_Luigi_Durand_de_la_Penne_D560.jpg)
 
 This **destroyer** [[26]](https://en.wikipedia.org/wiki/Destroyer) has got her surname. It's from the **Italian Navy** [[27]](https://en.wikipedia.org/wiki/Italian_Navy). Search it in Wikipedia! Spread the world.
 

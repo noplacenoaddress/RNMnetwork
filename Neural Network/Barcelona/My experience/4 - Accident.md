@@ -1,6 +1,6 @@
 # A provoked motorbike accident
 
-![Tunnel Garraf](../Images/tunnelgarraf.jpg)
+![Tunnel Garraf](http://telecomlobby.com/Images/tunnelgarraf.jpg)
 
 On 19 of May 2015 i privately buy a motorcycle **Yamaha** [[1]](https://en.wikipedia.org/wiki/Yamaha_Corporation) **YZF-R6** [[2]](https://en.wikipedia.org/wiki/Yamaha_YZF-R6). Fell the wind on my face is one of my favorites passions of my life, it's like sex.
 
@@ -18,11 +18,11 @@ After less than five kilometers after the highway exit near the Catalan road **C
 
 A month after i was hospitalized in the **El Pilar hospital** [[23]](https://www.quironsalud.es/pilar/en). Here they say to me that my bone was like pulverized by the accident. They operate me, and my operation was transmitted by the "Illuminati" synthetic telepathy network in the monitors of all the clients of this hell network. They didn't use total **anesthesia** [[24]](https://en.wikipedia.org/wiki/Anesthesia) and in the operation they put on my arm eight screws and one plaque.
 
-![Centro el Pilar](../Images/20151228_180918.jpg)
+![Centro el Pilar](http://telecomlobby.com/Images/20151228_180918.jpg)
 
 The motorbike was transported to a Honda shop. A friend of one person that I've described on chapter thirteen work there. Here are photos of the bumpy bike.
 
-![R6 ](../Images/IMG-20151211-WA0032.jpg)
+![R6 ](http://telecomlobby.com/Images/IMG-20151211-WA0032.jpg)
 
 Nothing special at all. The problem is that this person, that is in effect one component of the "Illuminati" digital mafia, has machined that the shop close, they stole my bike,  and i have to denunciate it.
 

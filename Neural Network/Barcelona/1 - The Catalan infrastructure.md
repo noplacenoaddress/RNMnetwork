@@ -1,6 +1,6 @@
 # The Catalan infrastructure
 
-![The Spanish neural network](../Images/patchwork_spanish_neural_network.jpg)
+![The Spanish neural network](http://telecomlobby.com/Images/patchwork_spanish_neural_network.jpg)
 
 In Spain, the country that I'm love to and where I'm actually living, there is an unknown but not hidden neural network based over terrestrial radio waves technology. 
 
@@ -26,13 +26,13 @@ In Catalunya the word "anonymous" is used to cover this nobility game. Slavery n
 
 # The Catalan radio waves ship
 
-![The cathedral of techno](../Images/cruz.jpg)
+![The cathedral of techno](http://telecomlobby.com/Images/cruz.jpg)
 
 In Barcelona on the summit of a hill that dominates all the Catalan capital there is what in the underground city's **slang** [[1]](https://en.wikipedia.org/wiki/Slang) is known as "la nau", "la nave", "the ship".  A white small house similar to the colors that we found in **Athens** [[2]](https://en.wikipedia.org/wiki/Athens) on whose roof it dominates a **Coptic cross** [[3]](https://en.wikipedia.org/wiki/Coptic_cross).  On the right side you can appreciate the main mast of the allegorical ship, a telecommunication tower which exactly resembles the mast of a **cruise ship** [[4]](https://en.wikipedia.org/wiki/Cruise_ship) that in fact *is* a telecommunication tower.
 
 A Coptic cross is associated with Coptic Christians or better **Copts** [[5]](https://en.wikipedia.org/wiki/Copts). This **ethnoreligious group** [[6]](https://en.wikipedia.org/wiki/Ethnoreligious_group) that speak historically the **Coptic language** [[7]](https://en.wikipedia.org/wiki/Coptic_language) the latest stage of the **Egyptian language** [[8]](https://en.wikipedia.org/wiki/Egyptian_language).
 
-![Illuminati](../Images/1920px-Eye_of_Horus_bw.svg.png)
+![Illuminati](http://telecomlobby.com/Images/1920px-Eye_of_Horus_bw.svg.png)
 
 In the wikipedia article about the Coptic language on the right you can appreciate this symbol, that in the ancient Egypt was interpreted as the **eye of Horus** [[9]](https://en.wikipedia.org/wiki/Eye_of_Horus). In the "Illuminati" fraud, that in reality is a digital pseudo dictatorship that is destroying our democracy, this symbol is often use as what is called the **third eye** [[10]](https://en.wikipedia.org/wiki/Third_eye), that has got mystical and esoteric concept to deflect the attention of an investigator and to subdue weak minds in order to make them become slaves as sexual as being **drug dealer** [[11]](https://en.wikipedia.org/wiki/Drug_Dealer).  This is fraud take it root on Internet from the late eighties and has Genoese families as theorists. This fraud is a paramilitary group that has got hackers as soldiers, but not only.  Remember that **Illuminati** [[12]](https://en.wikipedia.org/wiki/Illuminati) was a **secret society** [[13]](https://en.wikipedia.org/wiki/Secret_society), and those are the "**new world order**" [[14]](https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)), that is only an enormous fraud that have killed indirectly with accidents and suicides a lot of people.
 
@@ -46,13 +46,13 @@ https://photos.app.goo.gl/i9aknz413W48STsy7
 
 There is a special antenna in all those towers that connect with an enormous installation in the biggest tower of Barcelona. The state one. The **Collserola tower** [[15]](https://ca.wikipedia.org/wiki/Torre_de_Collserola).
 
-![point to point](../Images/ptpgordete.jpg)
+![point to point](http://telecomlobby.com/Images/ptpgordete.jpg)
 
 > *It's very probably that this virtual point to point radio bridge exist and it would actually show that governments are also playing in the gangstalking shop.* 
 
 ### Some geographical point of interest
 
-![sant Fost de Camsentelles](../Images/20191209_145540.jpg)
+![sant Fost de Camsentelles](http://telecomlobby.com/Images/20191209_145540.jpg)
 
 This is a WISP node that fusion the remote neural monitoring access radios, on the left, and the **Ubiquiti** [[5]](https://en.wikipedia.org/wiki/Ubiquiti_Networks) network IP infrastructure. 
 
@@ -62,25 +62,25 @@ The WISP was of my property until 2016, then with a fraud I loose it and they st
 
 The top antenna is a point to point radio wave in proprietary protocol, called AirFiber. **Gigabit wireless** [[8]](https://en.wikipedia.org/wiki/Gigabit_Wireless). This antenna focus to a tower in **Tibidabo** [[9]](https://en.wikipedia.org/wiki/Tibidabo) over Barcelona. Next another access point to the "Illuminati" facility focused over the Catalan capital reducing to slavery a lot of citizens. 
 
-![](../Images/EOFWNG2X0AA_epp.jpeg)
+![](http://telecomlobby.com/Images/EOFWNG2X0AA_epp.jpeg)
 
 This image is taken at 41º 25’ 10.57” N, 2º 09’ 48.39” E geographical coordinates that can be retrieve on **Google Street View** [[10]](https://en.wikipedia.org/wiki/Google_Street_View) aged at the time of writing. As you can appreciate the technology is the same and, yes, is the infrastructure of the "game" "Illuminati" that in reality it's a fraud but it is changing our Europe being a pseudo digital dictatorship.
 
-![](../Images/75576725_149927382999364_7626195554552197202_n.jpg)
+![](http://telecomlobby.com/Images/75576725_149927382999364_7626195554552197202_n.jpg)
 
 This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical coordinates that can be retrieve on **Instagram** [[11]](https://en.wikipedia.org/wiki/Instagram) on the social network profile of my old wireless Internet service provider dated on 27 of November 2019 stand out in gray you can appreciate part of the same installation. But there is no magnetic loop antenna. So, no extreme low frequencies, no brain network.
 
-![main mast of the ship](../Images/83109843_559132277973370_6242489809795139809_n.jpg)
+![main mast of the ship](http://telecomlobby.com/Images/83109843_559132277973370_6242489809795139809_n.jpg)
 
 This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coordinates. Is the tower and is dominating the city of Barcelona. The place is an hill in the middle of the city that is full of ELF and SLF transmitters. The name is **Turó de la Rovira** [[12]](https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira) and is the principle tower of emission.  The "Illuminati" game is served by the black antenna, in this photo is at the second floor on the left. Other equal antennas are underlined. 
 
-![Carmel bunkers](../Images/1_aerial_min.jpg)
+![Carmel bunkers](http://telecomlobby.com/Images/1_aerial_min.jpg)
 
 In Turo of Rovira where the telecommunications towers of the radio waves "ship" are installed there is a **Spanish civil war** [[16]](https://en.wikipedia.org/wiki/Spanish_Civil_War) **bunker** [[17]](https://en.wikipedia.org/wiki/Bunker).
 
 ### Neural applications
 
-![La maldición de la corona](../Images/maldicioncorona.jpg)
+![La maldición de la corona](http://telecomlobby.com/Images/maldicioncorona.jpg)
 
 From what I can understand by my tremendous experience upon the neural network is possible to create application with a framework without any doubt. This is what they call "techno". Those applications, like the virtual casino that was crated upon my person, got different goals. In my case:
 

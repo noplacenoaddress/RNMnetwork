@@ -6,7 +6,7 @@ Nowadays it is a multi layer radio frequency networks which structure is similar
 
 It's a soap of different radio service, very complex to analyze because of a smoke curtain covering this type of networks. Why? Because in the past they was utilized by secret services and nowadays are utilized my a digital mafia that hack human brains. Manipulate masses. Change political views. Destroy families. Bet on suicides. The aristocratic cast, the Vatican, audiovisual monsters, big tech facilities and also public and private space companies "play" with this. 
 
-![Neuro Informatics](../Images/neuroinfo.jpg)
+![Neuro Informatics](http://telecomlobby.com/Images/neuroinfo.jpg)
 
 *Something that is destroying the Europe Union and democracy*. *Here is a scheme from a **target individual** [[2]](https://www.youtube.com/channel/UC6tQ8RihaSENODcgjLHtrAg).*
 

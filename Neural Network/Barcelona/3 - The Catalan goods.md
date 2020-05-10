@@ -1,6 +1,6 @@
 # The Catalan's goods	
 
-![Bingo augusta Badalona](../Images/1527747317_noticia-1.jpg)
+![Bingo augusta Badalona](http://telecomlobby.com/Images/1527747317_noticia-1.jpg)
 
 This is a recent shoot of the **bingo** [[1]](https://en.wikipedia.org/wiki/Bingo_(card_game)) **Augusta** [[2]](http://www.rodriguezvillar.com/bingo-augusta/) in **Badalona** [[3]](https://en.wikipedia.org/wiki/Badalona). You can play the bingo game or do sports betting. But we've said before that people bet over network's victim. And yes, i think that many bets are mask beside other legals bets. Like the ones we find here, in the bingo club.
 
@@ -8,7 +8,7 @@ Why I speak about Badalona, because i know him there and i love this city, littl
 
 ### The Catalan metaphor about greyhound racing
 
-![Greyhound turn](../Images/Greyhound_racing_turn.jpg)
+![Greyhound turn](http://telecomlobby.com/Images/Greyhound_racing_turn.jpg)
 
 In Catalunya the medium high class society play the game of remote parimutuel betting that i've described in the part one. 
 
@@ -28,7 +28,7 @@ And time is past. And i cannot wait more. Two years has past. Five years that i 
 
 What i want to explain here, dear reader, is how Catalans bet in this shit. They compare dog breeds to humans. *Could you tell me if am I a dog sons of bitches?*
 
-![Am I a dog?](../Images/asdawww.jpg)
+![Am I a dog?](http://telecomlobby.com/Images/asdawww.jpg)
 
 The reply is one: no.
 
@@ -56,13 +56,13 @@ They have virtual rape her.
 
 ### The audiovisual Catalan industry
 
-![Nadie sabe nada](../Images/asda23232es.jpg)
+![Nadie sabe nada](http://telecomlobby.com/Images/asda23232es.jpg)
 
 **Andreu Bonafuente** [[11]](https://ca.wikipedia.org/wiki/Andreu_Buenafuente_Moreno) and **Berto Romero** [[12]](https://ca.wikipedia.org/wiki/Alberto_Romero_Tom%C3%A1s) are two TV and radio presenters working in the Catalan radio **cadena Ser** [[13]](https://ca.wikipedia.org/wiki/Cadena_SER) and in the format producer **el Terrat** [[14]](https://ca.wikipedia.org/wiki/El_Terrat). The twos work in various TV and theater show in Barcelona. They are great. But in some kind of manner, it's seems incredible but yes it's true, sometimes they do gag over what have passed to me and to my ex girlfriend. And this is profit over a misfortune and i don't know if it is completely legal. And the most important think is how it is possible that a TV format producer or a radio company know about a victim of the Catalan killer wireless network? The answer is so simple. Owners of the network sell our mishaps to people who write **screenplays** [[15]](https://en.wikipedia.org/wiki/Screenplay). 
 
 ### Special service prostitution
 
-![Salesia Badalona](../Images/photo-2579-normal.jpg)
+![Salesia Badalona](http://telecomlobby.com/Images/photo-2579-normal.jpg)
 
 Women that captured with the Machine in reality are sold and also them babies. They call this special service and it costs thousands of current money, euro, probably transferred to Andorran bank accounts. 
 
@@ -74,7 +74,7 @@ They use to drugs them with stimulants like **dopamine** [[18]](https://psychona
 
 ### The saint Antony chain of suicide
 
-![Chain of sant'Antoni](../Images/76678353_10221426968366212_6830992437423374336_o.jpg)
+![Chain of sant'Antoni](http://telecomlobby.com/Images/76678353_10221426968366212_6830992437423374336_o.jpg)
 
 All of those goods are related to a **chain of saint Antoni** [[22]](https://it.wikipedia.org/wiki/Catena_di_sant%27Antonio) translated to the humans in a suicide induction a bet version. Saint Antoni was object of popular **catholic devotion** [[23]](https://en.wikipedia.org/wiki/Catholic_devotions). In computer science when someone receive a mail of a **chain letter** [[24]](https://en.wikipedia.org/wiki/Chain_letter) if he is an ignorant eh would resend it to all is contacts like the same mail asks. Normally a chain letter contain an **hoax** [[25]](https://en.wikipedia.org/wiki/Hoax) or a **confidence trick** [[26]](https://en.wikipedia.org/wiki/Confidence_trick) or a **virus** [[27]](https://en.wikipedia.org/wiki/Computer_virus) like the old **ILOVEYOU** [[28]](https://en.wikipedia.org/wiki/ILOVEYOU). Was an infect method utilized in the **1990s** [[29]](https://en.wikipedia.org/wiki/1990s). 
 

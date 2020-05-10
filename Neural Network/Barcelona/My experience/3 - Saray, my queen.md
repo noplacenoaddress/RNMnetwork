@@ -1,6 +1,6 @@
 # Saray, my queen
 
-![my baby](../Images/IMG-20140410-WA0002.jpg)
+![my baby](http://telecomlobby.com/Images/IMG-20140410-WA0002.jpg)
 
 All of this. All of this fight. All of this, it's to reclaim your rights my sun flower. Your rights ahead the law. Your rights as a wonderful woman that i've known on December 2012. I'm totally in love with you. No one else.
 
@@ -36,13 +36,13 @@ She was threatened to go away from our house in Canyelles and join a body buildi
 
 *But I will do it for you sweetie. And for your son. I love you.*
 
-![chain breaks](../Images/depositphotos_75624997-stock-illustration-man-hands-breaking-steel-handcuffs.jpg)
+![chain breaks](http://telecomlobby.com/Images/depositphotos_75624997-stock-illustration-man-hands-breaking-steel-handcuffs.jpg)
 
 ### What they forced her in the systematic destruction of my life
 
 So I meet Saray on September 2012 and start a relationship with her on 11 of January of 2013. She was married by the town hall with her husband David. She got a baby of more or less one year old. She was very angry with her husband and I start to meet her in them bar. 
 
-![La herradura](../Images/herradura.jpg)
+![La herradura](http://telecomlobby.com/Images/herradura.jpg)
 
 To resume the *strange* thinks that I've notice about her:
 
@@ -58,11 +58,11 @@ To resume the *strange* thinks that I've notice about her:
 
 ### What happen from July 2018 to now
 
-![Oeste](../Images/oeste.jpg)
+![Oeste](http://telecomlobby.com/Images/oeste.jpg)
 
-![Centro](../Images/centro.jpg)
+![Centro](http://telecomlobby.com/Images/centro.jpg)
 
-![Este](../Images/este.jpg)
+![Este](http://telecomlobby.com/Images/este.jpg)
 
 *I've done four times the "Pilgrimage of Compostela" in front my family, of you and of all the people that I've known in my life. All in the synthetic telepathy network where my mother touch my penis with her right side brain. And you cannot call me. Have an happy new year.* 
 
@@ -82,7 +82,7 @@ Saray got a baby and she is a victim of this technological monster from about fi
 
 ### What do I found on Internet and radio about her?
 
-![You and me](../Images/20150124_234642.jpg)
+![You and me](http://telecomlobby.com/Images/20150124_234642.jpg)
 
 In Internet a lot of pornography. And she is not a porno star. On radio, subliminal voices and video services, a lot of sexual abuse, harassment and rapes, all done with people that I've known personally. All done because of inducting me and her, without any doubt, to suicide. 
 
@@ -92,7 +92,7 @@ This is very difficult to understand but it's without any doubt something relate
 
 ### How is used in the digital Mafia?
 
-![Saray](../Images/20130627_185422.jpg)
+![Saray](http://telecomlobby.com/Images/20130627_185422.jpg)
 
 This woman, that is the most beautiful woman that I've seen in my life, is a victim of this hell network in Barcelona. She is utilized to induct to suicide victims of frauds. Normal businessman, like I was. This woman is the mother of a fantastic little child and she is under continuous coaction and she is forced to have sex in radio, in transposition that is cancerous but also in physic. 
 

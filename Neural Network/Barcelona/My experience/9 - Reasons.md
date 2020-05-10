@@ -6,7 +6,7 @@ Probably because I'm victim of masonry; a masonry that eat them sons. Something 
 
 ### DNA
 
-![My DNA](../Images/dna.jpg)
+![My DNA](http://telecomlobby.com/Images/dna.jpg)
 
 This is my ethnic estimation obtained by a laboratory in United States from a saliva sample sent by regular mail directly from Spain. The laboratory is from an Israel company named **MyHeritage** [[1]](https://en.wikipedia.org/wiki/MyHeritage). 
 
@@ -29,7 +29,7 @@ Always remaining in this possible interpretation the option of exchange of cots 
 
 ### A preassigned playing card in a noble game
 
-![A joker](../Images/48384501_578362595939590_1556837670984876032_o.png)
+![A joker](http://telecomlobby.com/Images/48384501_578362595939590_1556837670984876032_o.png)
 
 So we speak about child trafficking. So we have underlined that child trafficking, also in Europe nowadays and that is totally unbelievable because of constitution and democracy, has got one goal, forced labor. But forced labor what could it mean also? Be an object of bet. And in the remote neural monitoring network bet can be remote. Remember that this network could be understand also as a co working ambient. A deep fake one where nobles in a virtual saloon or better saying a virtual casino do them bet over your life, my life. You've been played like in a card game a player trow a card.
 
@@ -41,7 +41,7 @@ In my opinion I can trace those step to be a human playing card:
 
 ### An unrecognized nobleman
 
-![A coat of arm](../Images/1000x-1.jpg)
+![A coat of arm](http://telecomlobby.com/Images/1000x-1.jpg)
 
 Here in this magnetic bell where I've suffered all what I've described writing some are **witnesses** [[12]](https://en.wikipedia.org/wiki/Witness) and others are executioners. 
 
@@ -76,7 +76,7 @@ What are the passes that I've to complain to be recognized in the society:
 
 ### How do they use me in slavery
 
-![Anti slavery day](../Images/anti-slavery-day-logo.jpg)
+![Anti slavery day](http://telecomlobby.com/Images/anti-slavery-day-logo.jpg)
 
 So I'm in this hell network probably from when I was a child, because in radio they have speak about and in dream and visual cortex injections they have streamed to my brain information totally true about my **childhood** [[14]](https://en.wikipedia.org/wiki/Childhood). When I was a child I cannot remember if I've suffered sexual violence but I can underline that who probably is my stepfamily don't do it. So I will that no, no one have fucked me. 
 
@@ -102,7 +102,7 @@ But yes they are here and they are playing with me.
 
 ### Personal considerations
 
-![Brain storming](../Images/new_ideas-760x725.jpg)
+![Brain storming](http://telecomlobby.com/Images/new_ideas-760x725.jpg)
 
 So it's important for me understand why I've been played in parimutuel betting system, why all the persons that I've known in my life are presents, why no one help me, why they all lie, why there is also a lot of important persons and celebrities, why I've been tortured, stalked and my life was systematically destroyed and no one, nor my family, say nothing. Those are my toughs: 
 
