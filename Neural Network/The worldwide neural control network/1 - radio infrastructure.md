@@ -1,6 +1,6 @@
 # Radio infrastructure
 
-![Radio spectrum](../Images/Frq_Band_Comparison.png)
+![Radio spectrum](/Images/Frq_Band_Comparison.png)
 
 There is a lot of different services join together to create the remote neural monitoring facility. Depending on the layer and  who is the real owner it include hidden services from governments, church, nobles and big facilities. At the lower level, used normally to manage black market, prostitution and betting it is create by the use of open hardware devices and open source programs. 
 
