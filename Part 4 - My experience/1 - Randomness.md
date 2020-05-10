@@ -238,6 +238,22 @@ My father without any doubt have create this plot against my life from I was bor
 
 > *But it can be only because he is a crazy that have used the neural network to deceive a lot of people.*
 
+### A gift from my father
+
+![Gilera Stalker](../Images/67892425_175716130227419_4033764887786886214_n.jpg)
+
+**Gilera Stalker** [[63]](https://it.wikipedia.org/wiki/Gilera_Stalker) was my second motorbike and my father bought it to me on 1997. Yes, at that time I don't even know what is a stalker. Nor I don't when I was thirteen. I know it now.
+
+This cannot be a random, my father, and only him, in my youth had give me a lot of tips to understand what would happen to me  after thirty five years. 
+
+> But how can he knows it?
+
+There is three possible ways:
+
+- When I was born my mother decides that I had to be a priest and my father doesn't want it. This could explain why they always quarreled at home.
+- Bloodlines. I'm a nobleman not recognized in the official register.
+- I am the son of a Genoese occult mafia strictly connected with the Catholic Church. And all this madness happened to me as a test of intellectual resistance to enormous stress.
+
 ### November rain, 2017
 
 ![November Rain](../Images/61g7fcyjlWL._SL1280_.jpg)
@@ -246,7 +262,7 @@ The 27 November 2017 I was actively connected to the Spanish neural network in C
 
 > Something very similar to a Nazi racial persecution. 
 
-The 30 November 2017 my father, or stepfather I really don't know until I will do a **DNA paternity test** [[63]](https://en.wikipedia.org/wiki/DNA_paternity_testing), send me a very strange email to my google mail account where he starts to use the manner to speak with double meanings that use a professional stalker. And I really don't even know until this date that my father is one of them. A stalker. Someone that use double meanings to say various think with a phrase but that in reality if you understand what he wants to say he will say to you that your crazy. This is the most terrible weapon that use this kind of criminals. Probably my father don't understand that stalking is a crime punished by the Spanish penal code. 
+The 30 November 2017 my father, or stepfather I really don't know until I will do a **DNA paternity test** [[64]](https://en.wikipedia.org/wiki/DNA_paternity_testing), send me a very strange email to my google mail account where he starts to use the manner to speak with double meanings that use a professional stalker. And I really don't even know until this date that my father is one of them. A stalker. Someone that use double meanings to say various think with a phrase but that in reality if you understand what he wants to say he will say to you that your crazy. This is the most terrible weapon that use this kind of criminals. Probably my father don't understand that stalking is a crime punished by the Spanish penal code. 
 
 This is the email text in original language (Italian):
 
@@ -265,7 +281,7 @@ Probably, and in fact it is because in neural network I've speak with the maximu
 
 I remember that when I was an adolescent my father tell me one good think: the best decade of a man start when he is 35 years old and end when he is 45. Now I know why he said to me this good think. To destroy my best years in my life. And my life has been systematically destroyed exactly from when I was 35 years old. What a coincidence, really? 
 
-Probably my father is affected by a terrible mental complex the one that **Francisco Goya** [[64]](https://en.wikipedia.org/wiki/Francisco_Goya) have painted in **Saturn Devouring His Son** [[65]](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) and probably he had done the same plot for the love of my life, Saray. But is Mauro, my father, the real culprit? I think that some one very powerful is behind, some big Spanish noble man or certain names of the Genoese nobility.
+Probably my father is affected by a terrible mental complex the one that **Francisco Goya** [[65]](https://en.wikipedia.org/wiki/Francisco_Goya) have painted in **Saturn Devouring His Son** [[66]](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) and probably he had done the same plot for the love of my life, Saray. But is Mauro, my father, the real culprit? I think that some one very powerful is behind, some big Spanish noble man or certain names of the Genoese nobility.
 
 ### External Links
 
@@ -331,6 +347,7 @@ Probably my father is affected by a terrible mental complex the one that **Franc
 60. https://en.wikipedia.org/wiki/Claustrophobia
 61. https://en.wikipedia.org/wiki/Eye_of_Ra
 62. https://en.wikipedia.org/wiki/Inferiority_complex
-63. https://en.wikipedia.org/wiki/DNA_paternity_testing
-64. https://en.wikipedia.org/wiki/Francisco_Goya
-65. https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son
+63. https://it.wikipedia.org/wiki/Gilera_Stalker
+64. https://en.wikipedia.org/wiki/DNA_paternity_testing
+65. https://en.wikipedia.org/wiki/Francisco_Goya
+66. https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son

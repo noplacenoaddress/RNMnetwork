@@ -99,6 +99,8 @@ Certainly it's possible to create neural applications with one target or a group
 
 Let do an example of an application, a normal citizen.
 
+
+
 ###  External links
 
 1. https://en.wikipedia.org/wiki/Slang
