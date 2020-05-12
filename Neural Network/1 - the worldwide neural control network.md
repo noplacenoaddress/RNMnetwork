@@ -1,5 +1,7 @@
 # The worldwide neural control network soap
 
+> La macchina, il manicomio della terrazza. La terrazza del Vaticano. Il famoso manicomio criminale. Dove nobili difesi da uno scudo entrano in questa rete neuronale in ogni paese differente e si aprofittano di malattie mentali introdotte nelle menti dei nostri genitori, parenti, fratelli e figli per fare miliardi di euro in economia sommersa tanto in bitcoin quanto in paradisi fiscali. Dove si gioca alle scommesse al suicidio. Lo stesso nome lo dice, sco messe. La messa. Il clero. E questa volta propio ci vuole, merda al clero:
+
 From the end of the second world war and mostly in the cold war remote **neural control networks** [[1]](https://en.wikipedia.org/wiki/Electronic_harassment) was developed. 
 
 Nowadays it is a multi layer radio frequency networks which structure is similar to Internet tier division.
