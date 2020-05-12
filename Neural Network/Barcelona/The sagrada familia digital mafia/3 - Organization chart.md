@@ -1,6 +1,6 @@
 # Organization chart
 
-![organization chart](../Images/orgchart.png)
+![organization chart](http://telecomlobby.com/Images/orgchart.png)
 
 First of all this organization it's strictly connected to child trafficking between Spain and Italy. Upon all of this shit there's the sold of data acquired illegally with **remote viewing** [[1]](https://en.wikipedia.org/wiki/Remote_viewing). That are sold obtaining enormous revenues probably all in bitcoin. To analyze this market remember the Monero crypt concurrency and others that are totally anonymous. It's important to understand that there are also a lot of gambling web pages where you can open an account and play in crypt concurrency. I think that a lot of them are strictly connected to this **Casino** [[2]](https://en.wikipedia.org/wiki/Casino). 
 
