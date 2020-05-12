@@ -56,7 +56,7 @@ I've got my personal experience where this B-side criminality put me from being 
 
 So what I've got to do? 
 
-I've understood that it's a plot from all over my life, but I've got to do is first of all divide the time, and remember that **time is of the essence** [[22]](https://en.wikipedia.org/wiki/Time_is_of_the_essence). Speaking about law it's important the **statute of limitations** [[23]](https://en.wikipedia.org/wiki/Statute_of_limitations).
+I've understood that it's a plot from all over my life, but what I've got to do is first of all divide the time, and remember that **time is of the essence** [[22]](https://en.wikipedia.org/wiki/Time_is_of_the_essence). Speaking about law it's important the **statute of limitations** [[23]](https://en.wikipedia.org/wiki/Statute_of_limitations).
 
 All the plot behind the **systematic destruction of my life** [[24]](http://www.telecomlobby.com/neural_network/barcelona/my_experience/systematic_destruction_mylife.htm), that is only a little part of all my state of slavery in the noble network or better saying the remote neural control network but this is only a supposition, have to be divided into smaller crimes to denunciate and after with all the **judgments** [[25]](https://en.wikipedia.org/wiki/Judgment_(law)) it can be brought to trial. 
 
