@@ -46,6 +46,16 @@ Another possibility, that almost no one known is to use the Vatican tribunal. It
 
 ![Villanova i la Geltrù](http://telecomlobby.com/Images/H_3213201_20170519164025-kN2C--656x437@LaVanguardia-Web.jpg)
 
+As this is a complex problem, and it enveloped a lot of state organism with corruption and **code of silence** [[16]](https://en.wikipedia.org/wiki/Omert%C3%A0), is difficult to bring to the surface completely. 
+
+The solution that we can use is the strategy **divide et impera** [[17]](https://en.wikipedia.org/wiki/Divide_and_rule).
+
+First of all it's imperative to use public justice, because corruption is rampant in the salons of lawyers in suits. Remember that who are behind the neural network facility, nobles and higher, are who had give us, citizens, the instruments to live in freedom with democracy. They give us the **constitution** [[18]](https://en.wikipedia.org/wiki/Constitution). The A-side instrument to fight against abuses of a deep unknown but not hidden B-side state. What we can analyze as *games* of the nobility cast. And Spain is a monarchy so *nobility is very strong*. But citizens are stronger if they fight together against those games, or better saying criminality, using those instruments.
+
+I've got my personal experience where this B-side criminality put me from being a telecommunications business man to be a target individual. But probably the real think is that my parents were who give me this destiny using me as a human guinea pig, but perhaps they are not guilty but the noble caste itself, supported by the Catholic Church, was who put me in this cesspool; in fact, my dad always gave me clues in his life like **Hop-o'-My-Thumb** [[19]](https://en.wikipedia.org/wiki/Hop-o%27-My-Thumb) did in the **fairytale** [[20]](https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_pass%C3%A9) by **Charles Perrault** [[21]](https://en.wikipedia.org/wiki/Charles_Perrault).
+
+So what I've got to do? 
+
 
 
 ### External links
@@ -65,3 +75,9 @@ Another possibility, that almost no one known is to use the Vatican tribunal. It
 13. https://apostatar.wordpress.com/experiencias-por-diocesis/
 14. https://en.wikipedia.org/wiki/Roman_Rota
 15. http://www.rotaromana.va/content/rotaromana/it/contatti.html
+16. [https://en.wikipedia.org/wiki/Omert%C3%A0](https://en.wikipedia.org/wiki/Omertà)
+17. https://en.wikipedia.org/wiki/Divide_and_rule
+18. https://en.wikipedia.org/wiki/Constitution
+19. [https://en.wikipedia.org/wiki/Hop-o%27-My-Thumb](https://en.wikipedia.org/wiki/Hop-o'-My-Thumb)
+20. [https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_pass%C3%A9](https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_passé)
+21. https://en.wikipedia.org/wiki/Charles_Perrault
