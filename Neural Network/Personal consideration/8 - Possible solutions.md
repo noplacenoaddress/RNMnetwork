@@ -56,38 +56,79 @@ I've got my personal experience where this B-side criminality put me from being 
 
 So what I've got to do? 
 
-I've understood that it's a plot from all over my life, but I've got to do is first of all divide the time, and remember that **time is of the essence** [[22]](https://en.wikipedia.org/wiki/Time_is_of_the_essence). Speaking about law it's important the **statute of limitations** [[23]](https://en.wikipedia.org/wiki/Statute_of_limitations).
+I've understood that it's a plot from all over my life, but what I've got to do is first of all divide the time, and remember that **time is of the essence** [[22]](https://en.wikipedia.org/wiki/Time_is_of_the_essence). Speaking about law it's important the **statute of limitations** [[23]](https://en.wikipedia.org/wiki/Statute_of_limitations).
 
 All the plot behind the **systematic destruction of my life** [[24]](http://www.telecomlobby.com/neural_network/barcelona/my_experience/systematic_destruction_mylife.htm), that is only a little part of all my state of slavery in the noble network or better saying the remote neural control network but this is only a supposition, have to be divided into smaller crimes to denunciate and after with all the **judgments** [[25]](https://en.wikipedia.org/wiki/Judgment_(law)) it can be brought to trial. 
 
-All start at the the end of 2015 and the worst facts from November 2017. In Spain 
+![Spanish penal code](http://telecomlobby.com/Images/M_2oQCd18Ck.jpg)
+
+All start at the the end of 2015 and the worst facts from November 2017. In Spain **article 131.1** [[26]](https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444) of the penal code, another book useful to the citizen when he has to use the public justice, marks the following maximum implementation times in the face of a crime from lower to highest counting the severity of the same:
+
+- One year
+- Five years
+- Ten years
+- Fifteen years
+- Twenty years
+
+Now in May 2020 I've already started some public justice movement but not all, by the way I've got on my side the fact that I'm victim of a heavy electronic harassment from November 2017 and of gas lighting in 2016 so it was very difficult for me the fact of organize my mind and understanding all the crimes and plot that I've suffered. I think that public justice and police will  understand this delay. Behind all of this plot there is a terrible mind from one of the most important noble families in Catalunya, this is not so easy, he is one of the biggest genius that I've known in my life, and this is the true it's not **to flatter** [[27]](https://dictionary.cambridge.org/dictionary/learner-english/flatter).
 
 
 
 ### External links
 
 1. https://en.wikipedia.org/wiki/Hypothesis
+
 2. https://en.wikipedia.org/wiki/Marriage
+
 3. https://en.wikipedia.org/wiki/Sacrament
+
 4. https://en.wikipedia.org/wiki/COVID-19_pandemic
+
 5. https://en.wikipedia.org/wiki/Excommunication
+
 6. [https://es.wikipedia.org/wiki/Apostas%C3%ADa](https://es.wikipedia.org/wiki/Apostasía)
+
 7. https://en.wikipedia.org/wiki/Baptism
+
 8. https://en.wikipedia.org/wiki/Church_of_the_Santissima_Annunziata_in_Sturla
+
 9. http://www.telecomlobby.com/Download/Mod_doc_Apostasia_PR_2009.pdf
+
 10. https://en.wikipedia.org/wiki/Registered_mail
+
 11. https://en.wikipedia.org/wiki/Diocese
+
 12. https://conferenciaepiscopal.es/iglesia-en-espana/mapa-eclesiastico/
+
 13. https://apostatar.wordpress.com/experiencias-por-diocesis/
+
 14. https://en.wikipedia.org/wiki/Roman_Rota
+
 15. http://www.rotaromana.va/content/rotaromana/it/contatti.html
+
 16. [https://en.wikipedia.org/wiki/Omert%C3%A0](https://en.wikipedia.org/wiki/Omertà)
+
 17. https://en.wikipedia.org/wiki/Divide_and_rule
+
 18. https://en.wikipedia.org/wiki/Constitution
+
 19. [https://en.wikipedia.org/wiki/Hop-o%27-My-Thumb](https://en.wikipedia.org/wiki/Hop-o'-My-Thumb)
+
 20. [https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_pass%C3%A9](https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_passé)
+
 21. https://en.wikipedia.org/wiki/Charles_Perrault
+
 22. https://en.wikipedia.org/wiki/Time_is_of_the_essence
+
 23. https://en.wikipedia.org/wiki/Statute_of_limitations
+
 24. http://www.telecomlobby.com/neural_network/barcelona/my_experience/systematic_destruction_mylife.htm
+
 25. https://en.wikipedia.org/wiki/Judgment_(law)
+
+26. https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444
+
+27. https://dictionary.cambridge.org/dictionary/learner-english/flatter
+
+    
+
