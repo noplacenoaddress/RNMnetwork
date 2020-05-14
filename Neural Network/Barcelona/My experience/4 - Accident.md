@@ -26,7 +26,7 @@ The motorbike was transported to a Honda shop. A friend of one person that I've 
 
 Nothing special at all. The problem is that this person, that is in effect one component of the "Illuminati" digital mafia, has machined that the shop close, they stole my bike,  and i have to denunciate it.
 
-I don't receive nothing about the accident and i was handicapped for life. People bet over my life and do money with the retransmission of the operation. 
+I don't receive nothing about the accident and i was handicapped for life. People bet over my life and do money with the retransmission of the operation. They say this in radio, Francesca admit that she was who had designed the accident. The worst think is that all the people that I know but also my parents was present in the remote viewing application and saw the accident. Only Massimo came rapidly to the hospital with a girl. 
 
 ### External links
 
