@@ -57,6 +57,8 @@ I call him a hunter. These sectarian serial assassins seek their prey in churche
 
 ![Stalkers](http://telecomlobby.com/Images/unnamed.jpg)
 
+
+
 ### External links
 
 1. https://www.wikiwand.com/it/Radio_Vaticana
