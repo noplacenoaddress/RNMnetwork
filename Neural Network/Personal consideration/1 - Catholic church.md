@@ -41,6 +41,11 @@ My ex girlfriend, who is a beautiful mom, is sexually over exited all the time i
 
 This is a scandal. In this place parents try to eat them son. And I'm victim of.
 
+Who are those pederast and mentally hill? 
+
+- Old perverts belonging to prominent families of the nobility.
+- Elements of large noble families resulting from incest or others monstrosities. Many times locked up in convents through this technology they perpetuate sexual violence and abuse over children.
+
 ### Stalkers
 
 ![Stalkers](http://telecomlobby.com/Images/unnamed.jpg)
