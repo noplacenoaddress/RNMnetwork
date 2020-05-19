@@ -45,6 +45,13 @@ Who are those pederast and mentally hill?
 
 - Old perverts belonging to prominent families of the nobility.
 - Elements of large noble families resulting from incest or others monstrosities. Many times locked up in convents through this technology they perpetuate sexual violence and abuse over children.
+- Mental perverts who want to kill their son because they are better than them, due to a life as oppressed.
+
+But here in this mental asylum there someone that speculate a lot. Someone that gain a lot of money. Those are people who utilize old madmen destroyed by psychotropic drugs and they rely on various factors such as the distance of a child to create a perverse mess of destruction of people. Or a whole family. These hunters analyze the victims for many years. Up to hit.
+
+> In my case two noble families have completely corrupted my parents from practically my birth to carry out the horrendous crime to which I am subjected, having created the worm of madness in my relatives.
+
+I call him a hunter.
 
 ### Stalkers
 
