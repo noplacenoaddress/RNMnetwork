@@ -51,7 +51,7 @@ But here in this mental asylum there someone that speculate a lot. Someone that 
 
 > In my case two noble families have completely corrupted my parents from practically my birth to carry out the horrendous crime to which I am subjected, having created the worm of madness in my relatives.
 
-I call him a hunter.
+I call him a hunter. These sectarian serial assassins seek their prey in churches and catechisms. I believe they work closely with the church, having in the madness of a mother who abandons mental lucidity as soon as she gives birth to her favorite prey.
 
 ### Stalkers
 
