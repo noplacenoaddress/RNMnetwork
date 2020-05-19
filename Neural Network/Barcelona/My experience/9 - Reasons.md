@@ -123,6 +123,8 @@ How can i try to escape to this horrible destiny?
 
 If it were necessary I would be totally willing to be **excommunicated** [[21]](https://en.wikipedia.org/wiki/Excommunication). And I found how it can be done rapidly.
 
+Don't miss my final thoughts straight ahead in this chapter.
+
 
 
 ### External links
