@@ -39,7 +39,7 @@ My ex girlfriend, who is a beautiful mom, is sexually over exited all the time i
 
 > The names I will make in court are of the highest order.
 
-
+This is a scandal. 
 
 ### Stalkers
 
