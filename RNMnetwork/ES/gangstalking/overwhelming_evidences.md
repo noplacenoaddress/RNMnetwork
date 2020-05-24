@@ -72,6 +72,8 @@ Next there are a lot of example of narcissistic abuse from both my father and my
 
 - **Narcissistic abuse messages** [[17]](https://photos.app.goo.gl/Nk8AdE3S9dUk7tZv7)
 
+In that case is my father doing this kind of control abuse over his son after a persecution and the systematic destruction of his life; just so curious. You can appreciate as he control me over small amounts of money, denying me ten EUR to eat. Remember that I've always been working in my life but yes sometimes he help me. I've been always a telecommunications entrepreneur. 
+
 Another curious message this time from my mother, is about the remote parimutuel betting system where I was played like a game, sometimes they call me in radio frequency a game card. A play card. A joker.
 
 ![Juego de Cartas](http://telecomlobby.com/Images/juego_cartas.jpg)
@@ -80,9 +82,7 @@ I start speaking about a "card game" and my mother reply:
 
 *"Briscola?"*
 
-The word briscola in Italian could mean different thinks:
-
-- 
+The word briscola in Italian is a card game.
 
 ### External links
 
