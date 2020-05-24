@@ -30,7 +30,7 @@ Another overwhelming surveys are the video obtained by a normal camera configure
 
 In my registrations the shape is almost always my mother. In the neural network facility, I think, that the shape is an attribute of a program in the sense that it can be not the real person but only a character that the users of the network wear to stalk you. Here you are a great collection of video that can be taken to a court to blame the nobles who operate in this network, which without a shadow of a doubt is the noble network. That is, if you do not belong to the official list of the nobility, you have certainly been used as a tool or you are a target individual or better saying you are a human guinea pig.
 
-- **Video useful to prove existence of the neural network** [[2]](https://vimeo.com/redeltaglio)
+- **Video useful to prove existence of the neural network** [[2]](https://www.youtube.com/playlist?list=PLiqG5u1R6kDw7Au1BRC1OXnb9B5-TLQkx)
 - **Barcelona ELF SLF remote neural network survey** [[3]](https://www.youtube.com/playlist?list=PLiqG5u1R6kDyA0cobAl0rEYTTjLEu8wx_)
 
 ### My parents messages 
@@ -69,6 +69,8 @@ In the message unlined in blue the translation is:
 > "You have to loose those fantasies or you will die"
 
 Next there are a lot of example of narcissistic abuse from both my father and my mother, narcissistic abuse in form of control and money. They have stolen me all what I've done in Spain, as you can appreciate in **my chapter** [[12]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/systematic_destruction_mylife.htm) and they have seen how a small purple bitch have provoked me an **accident** [[13]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/accident.htm), and now they give me a ridiculous sum of money to survive which is not enough to eat many times. I also ended up on the street asking for **alms** [[14]](https://en.wikipedia.org/wiki/Alms) and collecting cigarette butts many times, all this in front of an excited nobility for betting on my penis, which in my case does not give me bread. Like this **music** [[15]](https://www.youtube.com/watch?v=3Cd2fW56wYY) from **Elio e le storie tese** [[16]](https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese).
+
+- **Narcissistic abuse messages**
 
 ### External links
 
