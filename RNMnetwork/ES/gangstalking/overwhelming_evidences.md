@@ -48,7 +48,7 @@ I remember that when I was a child my mother and my father always discuss. My mo
 
 Since my dad retired, unfortunately, he must always live with this woman. Ever since my dad retired he has had to prepare for this persecution of his son for betting purposes.
 
-But unfortunately my father obviously since he has always lived in this corrupt environment at the gates of the nobility with a woman with whom I think he has never made love in his life suffers from horrible diseases. Diseases of the mind due to the fact that he has never been a free man since he attended this environment of a social class not suited to his. Diseases of the mind that he poured on his son since he was never free. I don't think he did it consciously, he is simply a sick person and a man who has lived subjugated by this horrible senseless woman.
+But unfortunately my father obviously since he has always lived in this corrupt environment at the gates of the nobility with a woman with whom I think he has never made love in his life suffers from horrible diseases. Diseases of the mind due to the fact that he has never been a free man since he attended this environment of a social class not suited to his. Diseases of the mind that he poured on his son since he was never free. I don't think he did it consciously, he is simply a sick person and a man who has lived subjugated by this woman.
 
 
 
