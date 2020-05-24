@@ -58,7 +58,7 @@ Until 2016 I always have been a business man. Has you can appreciate in my **cur
 
 > I've never touched the B-side market.
 
-But the monster of **narcissistic abuse** [[8]](https://en.wikipedia.org/wiki/Narcissistic_abuse) brooded in my poor dad's sick mind. A personality **disorder** [[9]](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder).
+But the monster of **narcissistic abuse** [[8]](https://en.wikipedia.org/wiki/Narcissistic_abuse) brooded in my parents sick mind. A personality **disorder** [[9]](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder).
 
 Some messages that are evidences of this disorder:
 
