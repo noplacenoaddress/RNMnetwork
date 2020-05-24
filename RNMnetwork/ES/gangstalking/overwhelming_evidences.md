@@ -74,6 +74,8 @@ Next there are a lot of example of narcissistic abuse from both my father and my
 
 In that case is my father doing this kind of control abuse over his son after a persecution and the systematic destruction of his life; just so curious. You can appreciate as he control me over small amounts of money, denying me ten EUR to eat. Remember that I've always been working in my life but yes sometimes he help me. I've been always a telecommunications entrepreneur. 
 
+Always speaking about narcissistic abuse you can see also my mother doing me a speech with connotations very close to **madness** [[18]](https://en.wikipedia.org/wiki/Insanity) talking about a model of an electric keyboard. 
+
 Another curious message this time from my mother, is about the remote parimutuel betting system where I was played like a game, sometimes they call me in radio frequency a game card. A play card. A joker.
 
 ![Juego de Cartas](http://telecomlobby.com/Images/juego_cartas.jpg)
@@ -103,4 +105,5 @@ The word briscola in Italian is a card game.
 15. https://www.youtube.com/watch?v=3Cd2fW56wYY
 16. https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese
 17. https://photos.app.goo.gl/Nk8AdE3S9dUk7tZv7
+18. https://en.wikipedia.org/wiki/Insanity
 
