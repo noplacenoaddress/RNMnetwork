@@ -70,7 +70,21 @@ In the message unlined in blue the translation is:
 
 Next there are a lot of example of narcissistic abuse from both my father and my mother, narcissistic abuse in form of control and money. They have stolen me all what I've done in Spain, as you can appreciate in **my chapter** [[12]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/systematic_destruction_mylife.htm) and they have seen how a small purple bitch have provoked me an **accident** [[13]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/accident.htm), and now they give me a ridiculous sum of money to survive which is not enough to eat many times. I also ended up on the street asking for **alms** [[14]](https://en.wikipedia.org/wiki/Alms) and collecting cigarette butts many times, all this in front of an excited nobility for betting on my penis, which in my case does not give me bread. Like this **music** [[15]](https://www.youtube.com/watch?v=3Cd2fW56wYY) from **Elio e le storie tese** [[16]](https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese).
 
-- **Narcissistic abuse messages**
+- **Narcissistic abuse messages** [[17]](https://photos.app.goo.gl/Nk8AdE3S9dUk7tZv7)
+
+In that case is my father doing this kind of control abuse over his son after a persecution and the systematic destruction of his life; just so curious. You can appreciate as he control me over small amounts of money, denying me ten EUR to eat. Remember that I've always been working in my life but yes sometimes he help me. I've been always a telecommunications entrepreneur. 
+
+Always speaking about narcissistic abuse you can see also my mother doing me a speech with connotations very close to **madness** [[18]](https://en.wikipedia.org/wiki/Insanity) talking about a model of an electric keyboard. 
+
+Another curious message this time from my mother, is about the remote parimutuel betting system where I was played like a game, sometimes they call me in radio frequency a game card. A play card. A joker.
+
+![Juego de Cartas](http://telecomlobby.com/Images/juego_cartas.jpg)
+
+I start speaking about a "card game" and my mother reply:
+
+*"Briscola?"*
+
+The word briscola in Italian is a card game.
 
 ### External links
 
@@ -90,4 +104,6 @@ Next there are a lot of example of narcissistic abuse from both my father and my
 14. https://en.wikipedia.org/wiki/Alms
 15. https://www.youtube.com/watch?v=3Cd2fW56wYY
 16. https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese
+17. https://photos.app.goo.gl/Nk8AdE3S9dUk7tZv7
+18. https://en.wikipedia.org/wiki/Insanity
 
