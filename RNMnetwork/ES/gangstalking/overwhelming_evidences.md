@@ -74,6 +74,8 @@ Next there are a lot of example of narcissistic abuse from both my father and my
 
 In that case is my father doing this kind of control abuse over his son after a persecution and the systematic destruction of his life; just so curious. You can appreciate as he control me over small amounts of money, denying me ten EUR to eat. Remember that I've always been working in my life but yes sometimes he help me. I've been always a telecommunications entrepreneur. 
 
+
+
 Always speaking about narcissistic abuse you can see also my mother doing me a speech with connotations very close to **madness** [[18]](https://en.wikipedia.org/wiki/Insanity) talking about a model of an electric keyboard. 
 
 Another curious message this time from my mother, is about the remote parimutuel betting system where I was played like a game, sometimes they call me in radio frequency a game card. A play card. A joker.
@@ -84,7 +86,30 @@ I start speaking about a "card game" and my mother reply:
 
 *"Briscola?"*
 
-The word briscola in Italian is a card game.
+The word **briscola** [[19]](https://it.wikipedia.org/wiki/Briscola) in Italian is a card game but my grand mother call like this also a clever and cunning person.
+
+But my parents mental disorders are enormous, and probably they even don't realize that they have destroy my life for those disorders.
+
+> I am alive with a miracle.
+
+Someone have speculate over them, nobles families. One Catalan and one from Genoa. Perhaps also a Catholic group called Communion and liberation. 
+
+My parents are the reals target individuals. They totally sick and they have been grown in the mental asylum of the Church with this hell radio. I'm alive with a miracle, daddy. And this is the only true. Or you understand that I'm alive with a miracle or I have to put you in a mental asylum. Your woman have destroy all my relationship for mental sickness. 
+
+*My work, my love, my pets, my house, my friends, my motorbikes, my arm.*
+
+Your woman have destroy my life and probably she has kill her parents for mental sickness. Daddy, use your brain. You've lost the north.
+
+Daddy you and your woman, that probably is my mother but I don't even know because she is totally crazy suffer also of those mental illness:
+
+- **Obsessive–compulsive disorder** [[20]](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder)
+- **Anxiety disorder** [[21]](https://en.wikipedia.org/wiki/Anxiety_disorder)
+
+Look at how many times you call me at mobile phone even if we speak and you see me in the remote neural monitoring network. And you say that this is not true:
+
+- **My father obsessions** [[22]](https://photos.app.goo.gl/XXrdyNpJna1FC4VVA)
+
+
 
 ### External links
 
@@ -106,4 +131,8 @@ The word briscola in Italian is a card game.
 16. https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese
 17. https://photos.app.goo.gl/Nk8AdE3S9dUk7tZv7
 18. https://en.wikipedia.org/wiki/Insanity
+19. https://it.wikipedia.org/wiki/Briscola
+20. [https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder)
+21. https://en.wikipedia.org/wiki/Anxiety_disorder
+22. https://photos.app.goo.gl/XXrdyNpJna1FC4VVA
 
