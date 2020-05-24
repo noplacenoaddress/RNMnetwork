@@ -58,11 +58,15 @@ Until 2016 I always have been a business man. Has you can appreciate in my **cur
 
 > I've never touched the B-side market.
 
-But the monster of **narcissistic abuse** [[8]](https://en.wikipedia.org/wiki/Narcissistic_abuse) brooded in my parents sick mind. A personality **disorder** [[9]](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder).
+But the monster of **narcissistic abuse** [[8]](https://en.wikipedia.org/wiki/Narcissistic_abuse) brooded in my parents sick mind. A personality **disorder** [[9]](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder). But this mental illness it's not the only monster that have grown in the mind of my parents. Remember that I had described them in others chapters. It's important to understand that in those confused brains there are also the **culpability** [[10]](https://en.wikipedia.org/wiki/Culpability), that is not provoked by the nobles presents and I'm totally sure, and it can be detected because of **threatening** [[11]](https://en.wikipedia.org/wiki/Threat) messages from my own father and one in special that is a *death threat* written in a message:
 
-Some messages that are evidences of this disorder:
+![Death threat father](http://telecomlobby.com/Images/minacce_morte_padre.jpg)
 
 
+
+In the message unlined in blue the translation is:
+
+> "You have to loose those fantasies or you will die"
 
 
 
@@ -77,4 +81,6 @@ Some messages that are evidences of this disorder:
 7. http://telecomlobby.com/riccardo_giuntoli/CV-Europass-20200312-Giuntoli-EN.pdf
 8. https://en.wikipedia.org/wiki/Narcissistic_abuse
 9. https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
+10. https://en.wikipedia.org/wiki/Culpability
+11. https://en.wikipedia.org/wiki/Threat
 
