@@ -50,6 +50,20 @@ Since my dad retired, unfortunately, he must always live with this woman. Ever s
 
 But unfortunately my father obviously since he has always lived in this corrupt environment at the gates of the nobility with a woman with whom I think he has never made love in his life suffers from horrible diseases. Diseases of the mind due to the fact that he has never been a free man since he attended this environment of a social class not suited to his. Diseases of the mind that he poured on his son since he was never free. I don't think he did it consciously, he is simply a sick person and a man who has lived subjugated by this woman.
 
+But this is only a manner to excuse my father and the other possibility is that he is totally guilty like my mother or that my mother is a victim of my father.
+
+The only true, is that the twos have tried to destroy my life probably by gaining money or perhaps obliged by the nobility even if I have to say that the word obligation seems a little too exaggerated already that if they were clean, something that I am not seeing that they also do not use the personal toilet like normal people , they would have fought with the only son who is probably not even a blood child.
+
+Until 2016 I always have been a business man. Has you can appreciate in my **curriculum vitae** [[7]](http://telecomlobby.com/riccardo_giuntoli/CV-Europass-20200312-Giuntoli-EN.pdf). So you can understand that money was not a problem for me, and all the money that I've done in my life was legal. 
+
+> I've never touched the B-side market.
+
+But the monster of **narcissistic abuse** [[8]](https://en.wikipedia.org/wiki/Narcissistic_abuse) brooded in my poor dad's sick mind. A personality **disorder** [[9]](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder).
+
+Some messages that are evidences of this disorder:
+
+
+
 
 
 ### External links
@@ -60,4 +74,7 @@ But unfortunately my father obviously since he has always lived in this corrupt 
 4. https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders
 5. https://it.wikipedia.org/wiki/Cornigliano
 6. https://en.wikipedia.org/wiki/Wealth
+7. http://telecomlobby.com/riccardo_giuntoli/CV-Europass-20200312-Giuntoli-EN.pdf
+8. https://en.wikipedia.org/wiki/Narcissistic_abuse
+9. https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
 
