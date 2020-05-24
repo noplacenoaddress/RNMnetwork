@@ -111,7 +111,7 @@ Look at how many times you call me at mobile phone even if we speak and you see 
 
 He usually speaks about drug, but I don't even take drug from very long time ago from when I was an adolescent and he doesn't even know, to cover his narcissistic abuse over a man of forty years that have lost all of his work for his mental illness. I'm sorry dad, you've to understand that you don't stay well. Your brain is sic.
 
-> I don't even know if you're administrating in a good way our possessions. 
+
 
 ### External links
 
