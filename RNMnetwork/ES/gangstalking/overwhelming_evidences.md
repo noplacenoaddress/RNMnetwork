@@ -31,11 +31,33 @@ Another overwhelming surveys are the video obtained by a normal camera configure
 In my registrations the shape is almost always my mother. In the neural network facility, I think, that the shape is an attribute of a program in the sense that it can be not the real person but only a character that the users of the network wear to stalk you. Here you are a great collection of video that can be taken to a court to blame the nobles who operate in this network, which without a shadow of a doubt is the noble network. That is, if you do not belong to the official list of the nobility, you have certainly been used as a tool or you are a target individual or better saying you are a human guinea pig.
 
 - **Video useful to prove existence of the neural network** [[2]](https://vimeo.com/redeltaglio)
+- **Barcelona ELF SLF remote neural network survey** [[3]](https://www.youtube.com/playlist?list=PLiqG5u1R6kDyA0cobAl0rEYTTjLEu8wx_)
+
+### My parents messages 
+
+![Narcissistic parents](http://telecomlobby.com/Images/51974941._SX0_SY0_.jpg)
+
+
+
+As 2017 I even don't know that my parents, my father especially, were two mental illness persons. Being mentally ill they have done a lot of error during my persecution started actively on 27 November of that year. From the messages I've understood that they suffer of various **behavioral diseases** [[4]](https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders) and I start to think about some possible scenarios, but it can be all of them together:
+
+- They have done only one child because of money. They have put me in this hell network from when I was a child to start control me and my behavior because of slavery and because in 2017 they start to bet over my life. Having controlled me all my life they don't fail a play.
+-  They have accepted for money, probably a monthly fee, to change them son, that they've said to me that was a girl, with me that I'm coming from some noble family with the goal of slavery and to be object of betting.
+
+I remember that when I was a child my mother and my father always discuss. My mother attach every time my father and he was the only serious worker at home. She was only a professor without a permanent job, nothing especial at all. He was a serious professional engineer and he came from a poor neighborhood, **Cornigliano** [[5]](https://it.wikipedia.org/wiki/Cornigliano) in Genoa. She was son of a more **wealthy** [[6]](https://en.wikipedia.org/wiki/Wealth) family, nothing particularly rich, however, already frequented the districts of Genoa well and had a country house as a child. Wealthy people who frequented nobles. 
+
+Since my dad retired, unfortunately, he must always live with this woman. Ever since my dad retired he has had to prepare for this persecution of his son for betting purposes.
+
+But unfortunately my father obviously since he has always lived in this corrupt environment at the gates of the nobility with a woman with whom I think he has never made love in his life suffers from horrible diseases. Diseases of the mind due to the fact that he has never been a free man since he attended this environment of a social class not suited to his. Diseases of the mind that he poured on his son since he was never free. I don't think he did it consciously, he is simply a sick person and a man who has lived subjugated by this horrible senseless woman.
 
 
 
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
-2. https://vimeo.com/redeltaglio
+2. https://www.youtube.com/playlist?list=PLiqG5u1R6kDw7Au1BRC1OXnb9B5-TLQkx
+3. https://www.youtube.com/playlist?list=PLiqG5u1R6kDyA0cobAl0rEYTTjLEu8wx_
+4. https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders
+5. https://it.wikipedia.org/wiki/Cornigliano
+6. https://en.wikipedia.org/wiki/Wealth
 
