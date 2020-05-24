@@ -68,7 +68,7 @@ In the message unlined in blue the translation is:
 
 > "You have to loose those fantasies or you will die"
 
-
+Next there are a lot of example of narcissistic abuse from both my father and my mother, narcissistic abuse in form of control and money. They have stolen me all what I've done in Spain, as you can appreciate in **my chapter** [[12]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/systematic_destruction_mylife.htm) and they have seen how a small purple bitch have provoked me an **accident** [[13]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/accident.htm), and now they give me a ridiculous sum of money to survive which is not enough to eat many times. I also ended up on the street asking for **alms** [[14]](https://en.wikipedia.org/wiki/Alms) and collecting cigarette butts many times, all this in front of an excited nobility for betting on my penis, which in my case does not give me bread. Like this **music** [[15]](https://www.youtube.com/watch?v=3Cd2fW56wYY) from **Elio e le storie tese** [[16]](https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese).
 
 ### External links
 
@@ -83,4 +83,9 @@ In the message unlined in blue the translation is:
 9. https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
 10. https://en.wikipedia.org/wiki/Culpability
 11. https://en.wikipedia.org/wiki/Threat
+12. http://telecomlobby.com/RNMnetwork/ES/gangstalking/systematic_destruction_mylife.htm
+13. http://telecomlobby.com/RNMnetwork/ES/gangstalking/accident.htm
+14. https://en.wikipedia.org/wiki/Alms
+15. https://www.youtube.com/watch?v=3Cd2fW56wYY
+16. https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese
 
