@@ -119,6 +119,16 @@ In radio she says they have been preparing her for years to annihilate her son. 
 
 Why is my dad, a good boy worker in a poor Genoese neighborhood, so dominated and victimized by these useless noblemen? Why don't you realize that the cold war is over and this fascist technology is completely out of date? He is an engineer and this makes me think he is guilty. Unfortunately.
 
+### Machined bipolar horn
+
+![Mauro Giuntoli and Vieta Pascual](http://telecomlobby.com/Images/mauro_giuntoli_vieta_pascual.jpg)
+
+Do you remember that in the systematic destruction of my life I've been forced detected in Hospital Clinic in the second floor? The psychiatric one? Here the primary doctor is:
+
+- **Doctor Eduard Vieta Pascual** [[24]](https://www.barnaclinic.com/es/cuadro-medico/331/eduard)
+
+This doctor is a luminary in the treatment of **bipolar horn** [[25]](https://en.wikipedia.org/wiki/Bipolar_disorder).  Do I suffer of bipolar horn? Absolutely no. And I want to underline that I don't even take any kind of drugs from when I was an adolescent.
+
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
@@ -144,4 +154,6 @@ Why is my dad, a good boy worker in a poor Genoese neighborhood, so dominated an
 21. https://en.wikipedia.org/wiki/Anxiety_disorder
 22. https://photos.app.goo.gl/XXrdyNpJna1FC4VVA
 23. https://en.wikipedia.org/wiki/Harpy
+24. https://www.barnaclinic.com/es/cuadro-medico/331/eduard
+25. https://en.wikipedia.org/wiki/Bipolar_disorder
 
