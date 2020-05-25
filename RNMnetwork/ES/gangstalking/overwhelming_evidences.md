@@ -115,7 +115,7 @@ But this is not only mental sickness. He is guilt. Another type of threat that i
 
 My father is a slave to an infirm woman. I remember as a child when at six I already told him to leave her because she always threw her scary screams at home when he returned from work. He always worked and instead of being grateful, this **harpy** [[23]](https://en.wikipedia.org/wiki/Harpy) screamed. She is the monster, unfortunately he has become a kind of slave. Unfortunately. But I'm free and rather I'll have them shut down in some mental health institution.
 
-
+In radio she says they have been preparing her for years to annihilate her son. Who? In reality she throws it on the mystic, but in madness she lies completely. It is nobility.
 
 ### External links
 
