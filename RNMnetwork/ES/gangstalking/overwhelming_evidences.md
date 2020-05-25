@@ -74,6 +74,8 @@ Next there are a lot of example of narcissistic abuse from both my father and my
 
 In that case is my father doing this kind of control abuse over his son after a persecution and the systematic destruction of his life; just so curious. You can appreciate as he control me over small amounts of money, denying me ten EUR to eat. Remember that I've always been working in my life but yes sometimes he help me. I've been always a telecommunications entrepreneur. 
 
+
+
 Always speaking about narcissistic abuse you can see also my mother doing me a speech with connotations very close to **madness** [[18]](https://en.wikipedia.org/wiki/Insanity) talking about a model of an electric keyboard. 
 
 Another curious message this time from my mother, is about the remote parimutuel betting system where I was played like a game, sometimes they call me in radio frequency a game card. A play card. A joker.
@@ -84,7 +86,56 @@ I start speaking about a "card game" and my mother reply:
 
 *"Briscola?"*
 
-The word briscola in Italian is a card game.
+The word **briscola** [[19]](https://it.wikipedia.org/wiki/Briscola) in Italian is a card game but my grand mother call like this also a clever and cunning person.
+
+But my parents mental disorders are enormous, and probably they even don't realize that they have destroy my life for those disorders.
+
+> I am alive with a miracle.
+
+Someone have speculate over them, nobles families. One Catalan and one from Genoa. Perhaps also a Catholic group called Communion and liberation. 
+
+My parents are the reals target individuals. They totally sick and they have been grown in the mental asylum of the Church with this hell radio. I'm alive with a miracle, daddy. And this is the only true. Or you understand that I'm alive with a miracle or I have to put you in a mental asylum. Your woman have destroy all my relationship for mental sickness. 
+
+*My work, my love, my pets, my house, my friends, my motorbikes, my arm.*
+
+Your woman have destroy my life and probably she has kill her parents for mental sickness. Daddy, use your brain. You've lost the north.
+
+Daddy you and your woman, that probably is my mother but I don't even know because she is totally crazy suffer also of those mental illness:
+
+- **Obsessive–compulsive disorder** [[20]](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder)
+- **Anxiety disorder** [[21]](https://en.wikipedia.org/wiki/Anxiety_disorder)
+
+Look at how many times you call me at mobile phone even if we speak and you see me in the remote neural monitoring network. And you say that this is not true:
+
+- **My father obsessions** [[22]](https://photos.app.goo.gl/XXrdyNpJna1FC4VVA)
+
+He usually speaks about drug, but I don't even take drug from very long time ago from when I was an adolescent and he doesn't even know, to cover his narcissistic abuse over a man of forty years that have lost all of his work for his mental illness. I'm sorry dad, you've to understand that you don't stay well. Your brain is sic.
+
+But this is not only mental sickness. He is guilt. Another type of threat that is using my father by message, by email and by talk is the threat to go into psychiatric treatment for not sure what disease and taking medicinal psychiatric drugs that I have never taken in my life. He's very smart because that's exactly what I have to do with him. The problem is that this tug of war between father and son due to I don't know exactly what filth or crimes he made in his youth is causing his son to lose the best years of his life when the same father had indicated to him that they would be from thirty-five to forty-five . Interesting because the systematic destruction of my life started exactly thirty five.
+
+My father is a slave to an infirm woman. I remember as a child when at six I already told him to leave her because she always threw her scary screams at home when he returned from work. He always worked and instead of being grateful, this **harpy** [[23]](https://en.wikipedia.org/wiki/Harpy) screamed. She is the monster, unfortunately he has become a kind of slave. Unfortunately. But I'm free and rather I'll have them shut down in some mental health institution.
+
+In radio she says they have been preparing her for years to annihilate her son. Who? In reality she throws it on the mystic, but in madness she lies completely. It is nobility.
+
+Why is my dad, a good boy worker in a poor Genoese neighborhood, so dominated and victimized by these useless noblemen? Why don't you realize that the cold war is over and this fascist technology is completely out of date? He is an engineer and this makes me think he is guilty. Unfortunately.
+
+### Machined bipolar horn
+
+![Mauro Giuntoli and Vieta Pascual](http://telecomlobby.com/Images/mauro_giuntoli_vieta_pascual.jpg)
+
+Do you remember that in the systematic destruction of my life I've been forced detected in Hospital Clinic in the second floor? The psychiatric one? Here the primary doctor is:
+
+- **Doctor Eduard Vieta Pascual** [[24]](https://www.barnaclinic.com/es/cuadro-medico/331/eduard)
+
+This doctor is a luminary in the treatment of **bipolar horn** [[25]](https://en.wikipedia.org/wiki/Bipolar_disorder).  Do I suffer of bipolar horn? Absolutely no. And I want to underline that I don't even take any kind of drugs from when I was an adolescent.
+
+It's just so curious in the first email from 18 of October of 2019 my father send me the contact of this man in form of **vCard** [[26]](https://en.wikipedia.org/wiki/VCard), to have a this kind of contact in Outlook you have to physically save the contact. If you have in Outlook is that you have previously contact it by email, so you know him. But how can be possible? Why my father know the primary doctor of a Barcelona's hospital?
+
+> Because he knows him. Perhaps because they work together in this nobility filter. A facility that produce slaves.
+
+Some messages more that my father have send me recommending a psychiatric visit:
+
+- **Mental illness messages** [[27]](https://photos.app.goo.gl/foA1mNM3aAwfPb3h9)
 
 ### External links
 
@@ -106,4 +157,13 @@ The word briscola in Italian is a card game.
 16. https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese
 17. https://photos.app.goo.gl/Nk8AdE3S9dUk7tZv7
 18. https://en.wikipedia.org/wiki/Insanity
+19. https://it.wikipedia.org/wiki/Briscola
+20. [https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder)
+21. https://en.wikipedia.org/wiki/Anxiety_disorder
+22. https://photos.app.goo.gl/XXrdyNpJna1FC4VVA
+23. https://en.wikipedia.org/wiki/Harpy
+24. https://www.barnaclinic.com/es/cuadro-medico/331/eduard
+25. https://en.wikipedia.org/wiki/Bipolar_disorder
+26. https://en.wikipedia.org/wiki/VCard
+27. https://photos.app.goo.gl/foA1mNM3aAwfPb3h9
 
