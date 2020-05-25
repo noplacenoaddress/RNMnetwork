@@ -129,6 +129,14 @@ Do you remember that in the systematic destruction of my life I've been forced d
 
 This doctor is a luminary in the treatment of **bipolar horn** [[25]](https://en.wikipedia.org/wiki/Bipolar_disorder).  Do I suffer of bipolar horn? Absolutely no. And I want to underline that I don't even take any kind of drugs from when I was an adolescent.
 
+It's just so curious in the first email from 18 of October of 2019 my father send me the contact of this man in form of **vCard** [[26]](https://en.wikipedia.org/wiki/VCard), to have a this kind of contact in Outlook you have to physically save the contact. If you have in Outlook is that you have previously contact it by email, so you know him. But how can be possible? Why my father know the primary doctor of a Barcelona's hospital?
+
+> Because he knows him. Perhaps because they work together in this nobility filter. A facility that produce slaves.
+
+Some messages more that my father have send me recommending a psychiatric visit:
+
+- **Mental illness messages** [[27]](https://photos.app.goo.gl/foA1mNM3aAwfPb3h9)
+
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
@@ -156,4 +164,6 @@ This doctor is a luminary in the treatment of **bipolar horn** [[25]](https://en
 23. https://en.wikipedia.org/wiki/Harpy
 24. https://www.barnaclinic.com/es/cuadro-medico/331/eduard
 25. https://en.wikipedia.org/wiki/Bipolar_disorder
+26. https://en.wikipedia.org/wiki/VCard
+27. https://photos.app.goo.gl/foA1mNM3aAwfPb3h9
 
