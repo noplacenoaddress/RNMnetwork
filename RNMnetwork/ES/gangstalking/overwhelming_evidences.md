@@ -113,7 +113,7 @@ He usually speaks about drug, but I don't even take drug from very long time ago
 
 But this is not only mental sickness. He is guilt. Another type of threat that is using my father by message, by email and by talk is the threat to go into psychiatric treatment for not sure what disease and taking medicinal psychiatric drugs that I have never taken in my life. He's very smart because that's exactly what I have to do with him. The problem is that this tug of war between father and son due to I don't know exactly what filth or crimes he made in his youth is causing his son to lose the best years of his life when the same father had indicated to him that they would be from thirty-five to forty-five . Interesting because the systematic destruction of my life started exactly thirty five.
 
-Is my father a monster? Probably.
+My father is a slave to an infirm woman. I remember as a child when at six I already told him to leave her because she always threw her scary screams at home when he returned from work. He always worked and instead of being grateful, this **harpy** [[23]](https://en.wikipedia.org/wiki/Harpy) screamed. She is the monster, unfortunately he has become a kind of slave. Unfortunately. But I'm free and rather I'll have them shut down in some mental health institution.
 
 
 
@@ -141,4 +141,5 @@ Is my father a monster? Probably.
 20. [https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder)
 21. https://en.wikipedia.org/wiki/Anxiety_disorder
 22. https://photos.app.goo.gl/XXrdyNpJna1FC4VVA
+23. https://en.wikipedia.org/wiki/Harpy
 
