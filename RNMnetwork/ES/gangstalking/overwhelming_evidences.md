@@ -117,6 +117,8 @@ My father is a slave to an infirm woman. I remember as a child when at six I alr
 
 In radio she says they have been preparing her for years to annihilate her son. Who? In reality she throws it on the mystic, but in madness she lies completely. It is nobility.
 
+Why is my dad, a good boy worker in a poor Genoese neighborhood, so dominated and victimized by these useless noblemen? Why don't you realize that the cold war is over and this fascist technology is completely out of date? He is an engineer and this makes me think he is guilty. Unfortunately.
+
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
