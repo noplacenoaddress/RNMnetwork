@@ -137,6 +137,8 @@ Some messages more that my father have send me recommending a psychiatric visit:
 
 - **Mental illness messages** [[27]](https://photos.app.goo.gl/foA1mNM3aAwfPb3h9)
 
+Obviously I've done a complaint and a impeachment to the hospital were I suffered the abuse.
+
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
