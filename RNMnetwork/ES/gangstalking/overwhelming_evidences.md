@@ -111,7 +111,11 @@ Look at how many times you call me at mobile phone even if we speak and you see 
 
 He usually speaks about drug, but I don't even take drug from very long time ago from when I was an adolescent and he doesn't even know, to cover his narcissistic abuse over a man of forty years that have lost all of his work for his mental illness. I'm sorry dad, you've to understand that you don't stay well. Your brain is sic.
 
-But this is not only mental sickness. He is guilt. Let's analyze the figure of a Catalan doctor.
+But this is not only mental sickness. He is guilt. Another type of threat that is using my father by message, by email and by talk is the threat to go into psychiatric treatment for not sure what disease and taking medicinal psychiatric drugs that I have never taken in my life. He's very smart because that's exactly what I have to do with him. The problem is that this tug of war between father and son due to I don't know exactly what filth or crimes he made in his youth is causing his son to lose the best years of his life when the same father had indicated to him that they would be from thirty-five to forty-five . Interesting because the systematic destruction of my life started exactly thirty five.
+
+Is my father a monster? Probably.
+
+
 
 ### External links
 
