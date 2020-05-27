@@ -24,6 +24,8 @@ A friend of mine, Mauro, which father is an hardware hacker, in his house starts
 
 *A beautiful mind*.
 
+![Primero de mayo CNT](http://telecomlobby.com/Images/queninguquedienrere.webp)
+
 The operating system was a **Windows 98** [[12]](https://en.wikipedia.org/wiki/Windows_98) full of bugs. Mauro hack my desktop in a couple of weeks with a **MS-DOS** [[13]](https://en.wikipedia.org/wiki/MS-DOS) trick in the classic **AUTOEXEC.BAT** [[14]](https://en.wikipedia.org/wiki/AUTOEXEC.BAT) script. So I start to hack. At that time, more then twenty years ago, I use to play. I start gaming, **IRCNet** [[15]](https://en.wikipedia.org/wiki/IRCnet), **takeover** [[16]](https://en.wikipedia.org/wiki/IRC_takeover), **Stacheldraht** [[17]](https://en.wikipedia.org/wiki/Stacheldraht), **Eggdrop** [[18]](https://en.wikipedia.org/wiki/Eggdrop), **BNC** [[19]](https://en.wikipedia.org/wiki/BNC_(software)), **Shell** [[20]](https://en.wikipedia.org/wiki/Shell_(computing)), **TESO team** [[21]](https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)), **Smurf** [[22]](https://en.wikipedia.org/wiki/Smurf_attack) and so on. This is how I start to play with Unix, only illegal hacking in the ninety. 
 
 *I was just a curious boy and not a professional senior network engineer.* 
@@ -46,7 +48,7 @@ Later I’ve found a wireless internet service provider leading the Catalan mark
 
 All **OpenBSD** [[44]](http://openbsd.org/) based.
 
-# External links
+### External links
 
 1. https://en.wikipedia.org/wiki/Pentium_II
 
