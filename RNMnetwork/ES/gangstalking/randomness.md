@@ -30,7 +30,19 @@ My father has always speak in a very bad way about Spanish people. But I think t
 
 *Markets and merchandise? Probably but I really don't know.*
 
-### My mother mental illness
+### Our turtles
+
+![My pet when I was young](http://telecomlobby.com/Images/turtle_9_pokemon_child_trafficking_riccardo_giuntoli.webp)
+
+When I was born, in theory on 31 of March 1981 we lived  for rent in **via Guido Gozzano 1** [[4]](https://www.tuttocitta.it/mappa/genova/via-guido-gozzano), postal code 16131 Genova.
+
+My family, or step family I don't know, got a **tortoise** [[5]](https://en.wikipedia.org/wiki/Tortoise) as a pet. They have bought the animal before I was born, always by theory. Now, why I'm speaking about my pet when I was young?
+
+In the remote neural monitoring network in Spain in subliminal message services I've received information about the double meaning of the Pokemon numbers like I've described in my chapter **machine numbers** [[6]](http://telecomlobby.com/RNMnetwork/considerations/machine_numbers.htm). In voice to skull they have said to me that my machine identification or better saying a group of human controlled by this illegal radio wave system and reduced to slavery and forced labor, human that in my opinion are victim of child trafficking between Spain and Italy and are bastards from very high noble houses and then assigned to a step family that I think that is culpable because they gain money probably a monthly fee, is the number 9.
+
+Number 9 in the first pokemon id table  is a turtle and is of the blue group. In Italian, **sangue blu** [[7]](https://it.wikipedia.org/wiki/Sangue_blu_(espressione)), means that a person got noble bloodline. Means from direct parents. I think that all humans in the group nine, that seams to be a German word, language that my father or step father speak and I don't really know why, are bastards or "game card" for nobility games. Be a nobility game means only one think, be a slave. Be a human guinea pig. 
+
+### My mother Laura mental illness
 
 ![tavor](http://telecomlobby.com/Images/587px-Tavor_lorazepam.jpg)
 
@@ -290,66 +302,70 @@ Probably my father is affected by a terrible mental complex the one that **Franc
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
 2. https://en.wikipedia.org/wiki/Capitalism
 3. https://en.wikipedia.org/wiki/Italy
-4. https://it.wikipedia.org/wiki/Ente_ospedaliero_Ospedali_Galliera
-5. https://it.wikipedia.org/wiki/San_Vigilio_(Marebbe)
-6. https://en.wikipedia.org/wiki/South_Tyrol
-7. [https://it.wikipedia.org/wiki/Rifugio_Peder%C3%BC](https://it.wikipedia.org/wiki/Rifugio_Pederü)
-8. https://en.wikipedia.org/wiki/Fiat_Ritmo
-9. https://it.wikipedia.org/wiki/Cortemilia
-10. https://it.wikipedia.org/wiki/Provincia_di_Cuneo
-11. https://it.wikipedia.org/wiki/Piemonte
-12. https://it.wikipedia.org/wiki/Bergolo
-13. http://www.stpauls.it/ga01/0121ga/0121ga06.htm
-14. https://it.wikipedia.org/wiki/Canti_del_Maggio
-15. https://en.wikipedia.org/wiki/Herald
-16. https://en.wikipedia.org/wiki/Country_music
-17. https://en.wikipedia.org/wiki/Hippie
-18. https://en.wikipedia.org/wiki/Punk_ideologies
-19. https://en.wikipedia.org/wiki/Underground_culture
-20. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
-21. https://en.wikipedia.org/wiki/Cyberpunk
-22. https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide
-23. http://www.sorted.org/diy/DIYwarnings/FFC.htm
-24. https://psychonautwiki.org/wiki/Bad_trip
-25. https://www.liceoking.it/
-26. https://en.wikipedia.org/wiki/Communion_and_Liberation
-27. https://en.wikipedia.org/wiki/Catholic_movements
-28. https://en.wikipedia.org/wiki/Sect
-29. https://en.wikipedia.org/wiki/Opus_Dei
-30. https://en.wikipedia.org/wiki/Double_agent
-31. https://en.wikipedia.org/wiki/Adept
-32. https://en.wikipedia.org/wiki/Atheism
-33. https://en.wikipedia.org/wiki/Parliament
-34. https://en.wikipedia.org/wiki/Plot_plan
-35. https://en.wikipedia.org/wiki/Engineering
-36. https://en.wikipedia.org/wiki/Order_of_the_Engineer
-37. https://en.wikipedia.org/wiki/Professional_order
-38. https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504
-39. https://en.wikipedia.org/wiki/Myth_of_the_Cave
-40. https://it.wikipedia.org/wiki/Recco
-41. [https://it.wikipedia.org/wiki/Spianata_dell%27Acquasola](https://it.wikipedia.org/wiki/Spianata_dell'Acquasola)
-42. https://psychonautwiki.org/wiki/Ketamine
-43. https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719
-44. https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html
-45. https://www.icsmaugeri.it/dove-siamo/ics-genova-nervi
-46. http://www.genovatoday.it/cronaca/nervi-suicidio-ospedale.html
-47. https://en.wikipedia.org/wiki/Occult
-48. https://en.wikipedia.org/wiki/Numerology
-49. https://en.wikipedia.org/wiki/Astrology
-50. https://en.wikipedia.org/wiki/Mysticism
-51. https://en.wikipedia.org/wiki/Ritual
-52. https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)
-53. https://eu.wikipedia.org/wiki/Eusko_Trenbideak
-54. https://en.wikipedia.org/wiki/Resident_registration
-55. https://en.wikipedia.org/wiki/NIE_number
-56. https://en.wikipedia.org/wiki/Portuguese_people
-57. https://en.wikipedia.org/wiki/Cesspit
-58. https://en.wikipedia.org/wiki/Giza_pyramid_complex
-59. https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
-60. https://en.wikipedia.org/wiki/Claustrophobia
-61. https://en.wikipedia.org/wiki/Eye_of_Ra
-62. https://en.wikipedia.org/wiki/Inferiority_complex
-63. https://it.wikipedia.org/wiki/Gilera_Stalker
-64. https://en.wikipedia.org/wiki/DNA_paternity_testing
-65. https://en.wikipedia.org/wiki/Francisco_Goya
-66. https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son
+4. http://telecomlobby.com/RNMnetwork/considerations/machine_numbers.htm
+5. https://en.wikipedia.org/wiki/Tortoise
+6. http://telecomlobby.com/RNMnetwork/considerations/machine_numbers.htm
+7. https://it.wikipedia.org/wiki/Sangue_blu_(espressione)
+8. https://it.wikipedia.org/wiki/Ente_ospedaliero_Ospedali_Galliera
+9. https://it.wikipedia.org/wiki/San_Vigilio_(Marebbe)
+10. https://en.wikipedia.org/wiki/South_Tyrol
+11. [https://it.wikipedia.org/wiki/Rifugio_Peder%C3%BC](https://it.wikipedia.org/wiki/Rifugio_Pederü)
+12. https://en.wikipedia.org/wiki/Fiat_Ritmo
+13. https://it.wikipedia.org/wiki/Cortemilia
+14. https://it.wikipedia.org/wiki/Provincia_di_Cuneo
+15. https://it.wikipedia.org/wiki/Piemonte
+16. https://it.wikipedia.org/wiki/Bergolo
+17. http://www.stpauls.it/ga01/0121ga/0121ga06.htm
+18. https://it.wikipedia.org/wiki/Canti_del_Maggio
+19. https://en.wikipedia.org/wiki/Herald
+20. https://en.wikipedia.org/wiki/Country_music
+21. https://en.wikipedia.org/wiki/Hippie
+22. https://en.wikipedia.org/wiki/Punk_ideologies
+23. https://en.wikipedia.org/wiki/Underground_culture
+24. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
+25. https://en.wikipedia.org/wiki/Cyberpunk
+26. https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide
+27. http://www.sorted.org/diy/DIYwarnings/FFC.htm
+28. https://psychonautwiki.org/wiki/Bad_trip
+29. https://www.liceoking.it/
+30. https://en.wikipedia.org/wiki/Communion_and_Liberation
+31. https://en.wikipedia.org/wiki/Catholic_movements
+32. https://en.wikipedia.org/wiki/Sect
+33. https://en.wikipedia.org/wiki/Opus_Dei
+34. https://en.wikipedia.org/wiki/Double_agent
+35. https://en.wikipedia.org/wiki/Adept
+36. https://en.wikipedia.org/wiki/Atheism
+37. https://en.wikipedia.org/wiki/Parliament
+38. https://en.wikipedia.org/wiki/Plot_plan
+39. https://en.wikipedia.org/wiki/Engineering
+40. https://en.wikipedia.org/wiki/Order_of_the_Engineer
+41. https://en.wikipedia.org/wiki/Professional_order
+42. https://www.elencogiornalisti.it/giornalisti/scheda_giornalista/boccalatte-giuseppina-liliana/36504
+43. https://en.wikipedia.org/wiki/Myth_of_the_Cave
+44. https://it.wikipedia.org/wiki/Recco
+45. [https://it.wikipedia.org/wiki/Spianata_dell%27Acquasola](https://it.wikipedia.org/wiki/Spianata_dell'Acquasola)
+46. https://psychonautwiki.org/wiki/Ketamine
+47. https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719
+48. https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html
+49. https://www.icsmaugeri.it/dove-siamo/ics-genova-nervi
+50. http://www.genovatoday.it/cronaca/nervi-suicidio-ospedale.html
+51. https://en.wikipedia.org/wiki/Occult
+52. https://en.wikipedia.org/wiki/Numerology
+53. https://en.wikipedia.org/wiki/Astrology
+54. https://en.wikipedia.org/wiki/Mysticism
+55. https://en.wikipedia.org/wiki/Ritual
+56. https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)
+57. https://eu.wikipedia.org/wiki/Eusko_Trenbideak
+58. https://en.wikipedia.org/wiki/Resident_registration
+59. https://en.wikipedia.org/wiki/NIE_number
+60. https://en.wikipedia.org/wiki/Portuguese_people
+61. https://en.wikipedia.org/wiki/Cesspit
+62. https://en.wikipedia.org/wiki/Giza_pyramid_complex
+63. https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+64. https://en.wikipedia.org/wiki/Claustrophobia
+65. https://en.wikipedia.org/wiki/Eye_of_Ra
+66. https://en.wikipedia.org/wiki/Inferiority_complex
+67. https://it.wikipedia.org/wiki/Gilera_Stalker
+68. https://en.wikipedia.org/wiki/DNA_paternity_testing
+69. https://en.wikipedia.org/wiki/Francisco_Goya
+70. https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son
