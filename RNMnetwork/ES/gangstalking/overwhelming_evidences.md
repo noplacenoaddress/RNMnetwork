@@ -141,6 +141,8 @@ Obviously I've done a complaint and a impeachment to the hospital were I suffere
 
 ### Barcelona street art
 
+![]()
+
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
