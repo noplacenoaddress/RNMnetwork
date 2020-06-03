@@ -6,7 +6,7 @@
 
 ***H***ello people, got a good Saturday? Ready to open tons of bottles tomorrow? ***I***'m not...this year specially, i'm not ready. I will **return** on the street without any doubt, but this ~~the~~ another story.
 
-So in our hands there's the **nightmare** of the **security cannibals**, the *fish* more difficult to take. There's OpenBSD. He (yes, it's a person, it's ***my best friend***) is a pure BSD 4.4 based Unix that never fail to his customer, respecting rules that, i'm my opinion, are fundamental blocks of great secures peaces of software:
+So in our hands there's the **nightmare** of  the **security cannibals**, the *fish* more difficult to take. There's OpenBSD. He (yes, it's a person, it's ***my best friend***) is a pure BSD 4.4 based Unix that never fail to his customer, respecting rules that, i'm my opinion, are fundamental blocks of great secures peaces of software:
 
 1. Clean and clear code.
 2. Default install with the necessary, no less no more.
