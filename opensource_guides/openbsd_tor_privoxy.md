@@ -117,7 +117,7 @@ In our [first post](https://steemit.com/openbsd/@npna/openbsd-tor-and-the-the-fo
 We've also introduced the concept of [FVEY](https://en.wikipedia.org/wiki/Five_Eyes) that we will continue to analyze as soon as possible.
 What we don't touch last time is the important fact that this two fabulous softwares have got a strange difficult history of interoperability between them. OpenBSD is in ours life from middle of the nineteen and Tor, the onion router project, from September 2002.
 ![torbsd proyect](https://steemitimages.com/640x0/https://avatars3.githubusercontent.com/u/11576463?s=200&v=4)
-But only with the birth of the [torbsd proyect](https://torbsd.github.io/) the configuration of the anonymizing daemon is something simple and easy as it have to be. We can study read and fork the work of the torbsd fellowes at [github](https://github.com/torbsd/).
+But only with the birth of the [torbsd proyect](https://torbsd.github.io/) the configuration of the anonymizing daemon is something simple and easy as it have to be. We can study read and fork the work of the torbsd fellows at [github](https://github.com/torbsd/).
 
 ## Tor daemon in a OpenBSD system
 
