@@ -87,7 +87,26 @@ This is how works the suicide bet chain in Catalunya, and yes it's church, monar
 
 > *My love, you are a tool to destroy beautiful persons. They have raped all your life both the vagina and the mind. you do not want the hand of a person who has declared himself capable of being your friend to take away from this round of infamous vice and sharks that eat the beauty of the soul. You are a lost soul and you do not accept a hand. Look in the mirror without so much powdering your nose. Only it is accepting to rebel against the condition of slavery to which your own parents have relegated you.*
 
+### Neural applications
 
+![La maldición de la corona](http://telecomlobby.com/Images/maldicioncorona.jpg)
+
+From what I can understand by my tremendous experience upon the neural network is possible to create application with a framework without any doubt. This is what they call "techno". Those applications, like the virtual casino that was crated upon my person, got different goals. In my case:
+
+- Betting over my life.
+- Development of technology with commercial big tech firms.
+- Audiovisual inspirations.
+- Destroy my mental clearness. 
+- The systematic destroy of my life, a fraud.
+- Suicide.
+
+It's common that neural network applications are bridged over IP networks. Probably in deep Internet or blockchain anonymous networks. It's also possible that there are some bridge with satellite IPTV broadcasting facilities. 
+
+Certainly it's possible to create neural applications with one target or a group of targets. As who fall in this fraud are target this mean that they are connected to the neural network without consent. So neural applications are all a fraud. 
+
+> By the way it's seems to be that in Spain almost all citizens are connected to the neural network. Perhaps only in Catalunya.  
+
+Let do an example of an application, a normal citizen.
 
 ### External links
 
