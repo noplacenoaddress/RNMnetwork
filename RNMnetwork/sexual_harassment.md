@@ -59,8 +59,6 @@ Don't be afraid to speak about, i'm Riccardo Giuntoli and i say to you that ther
 
 First of all a consideration. Machine of the synthetic telepathy network in porn is present. No one say nothing but it's a reality. Cam site permit to connect people under this system with the models acting in the other site. **Cam4** [[19]](https://en.wikipedia.org/wiki/CAM4) and **Chaturbate** [[20]](https://en.wikipedia.org/wiki/Chaturbate) for sure. So there is an accord between the owners of those web pages and the owners of the network. Who they are?
 
-![Chaturbate web cam](http://telecomlobby.com/Images/chatturbate.png)
-
 Another consideration. A girl that is victim of this criminal system could be connected to many actress doing live sex on those portals as the owners want. What does it mean? The victim when close her eyes every time will see a porn scene so she cannot sleep and she is always over stimulated always searching to create a sexual slave. *This is a torture that destroy the life of the victim.* Be careful *they can do this also with a children*. Connecting a child to those womens acting in front of the cam will change the behavior of the child, preparing to a possible sold to a pederast.  They use this threat, *i think almost always its only a threat* but i cannot swear it, to obtain also sexual slavery from the mom. 
 
 There is others networks that are called **imageboard** [[21]](https://en.wikipedia.org/wiki/Imageboard), on wikipedia some are declared as property of the Anonymous group but *i've got my doubts*. They are on clear and deep Internet . They've got many amateur pornography post but they are a little bit strange because of violence in many cases, we can find on Internet those addresses:
@@ -86,27 +84,6 @@ Who are behind those image boards?
 But the most important think is that i know personally like almost the **organization chart**  [[25]](https://en.wikipedia.org/wiki/Organizational_chart). They have to be put in jail from International Police like **Interpol** [[26]](https://en.wikipedia.org/wiki/Interpol). 
 
 *Saray need help, i wish you where here little baby. Kisses.*
-
-Others pages are not for live interaction but there i've found some porn video about my ex girlfriend, so, if you're too a victim, you could search for your woman. Remember a think, in this gang stalking game they will act in the way that you will think about your woman like as one of the perpetrators,  but no, *she is a victim like you, and she need your help*.
-
-- https://www.xvideos.com/
-- https://xhamster.com/
-
-But nowadays there's a lot of streaming porn video site. This industry is one of the most important branch of the digital revolution. I don't know the exact magnitude of the machine's utilization but i think that a good part in percent of the market. 
-
-But there's a lot of others resources on Internet about porn, a good list in:
-
-https://www.mrporngeek.com/
-
-Last but not least is the platform **Reddit** [[27]](https://en.wikipedia.org/wiki/Reddit):
-
-- https://www.reddit.com/r/gonewild/
-- https://www.reddit.com/r/nsfw/
-- https://www.reddit.com/r/nsfw_gif
-- https://www.reddit.com/r/realgirls
-- https://www.reddit.com/r/holdthemoan/
-
-
 
 # External Links 
 
