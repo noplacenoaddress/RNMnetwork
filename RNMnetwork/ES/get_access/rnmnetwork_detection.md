@@ -27,6 +27,16 @@ My physical position is **41.26667 , 1.76667** [[6]](https://goo.gl/maps/HjF6v9v
 
 ![Spectroid Android application](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_spectroid.webp)
 
+**Spectdroid** [[7]](https://groups.google.com/forum/#!forum/spectroid) by **Carl Reinke** [[8]](https://github.com/carlreinke) is the perfect tool to measure with a standard smartphone what it can be classified as the **Worldwide hum** [[9]](https://www.thehum.info/) or better saying an environmental noise. **Human earing range** [[10]](https://en.wikipedia.org/wiki/Hearing_range) start from 20Hz and end at 20 KHz.
+
+Voice to skull chat used in the remote neural monitoring network can be obtained by radio frequencies modulated thanks to one or more of those **patents** [[11]](http://telecomlobby.com/RNMnetwork/patents/) or can be probably modulated directly into non natural **gamma wave** [[12]](https://en.wikipedia.org/wiki/Gamma_wave) produces by SDR or analogical radios. 
+
+With this application we can search for signals near the 100Hz or below what it can be eared by a victim.
+
+In my journey in Barcelona searching for evidences from the remote neural monitoring facility present in Spain I've found that many telecommunications towers has got point of presence of this criminal network.
+
+The screenshot above is a registration from Spectroid of the environmental ambient in my office at home. Has you can appreciate signals below 100Hz are not very strong near 80 **dBFS** [[13]](https://en.wikipedia.org/wiki/DBFS)
+
 ### SDR based scanner
 
 ![HackRF SDR](http://telecomlobby.com/Images/SDR_HackRF_one_PCB.jpg)
@@ -42,3 +52,11 @@ What we've got to build is an array of different type of antennas depending on t
 4. https://en.wikipedia.org/wiki/Direction_finding
 5. https://en.wikipedia.org/wiki/Discone_antenna
 6. https://goo.gl/maps/HjF6v9vgvKa4GEHe8
+7. https://groups.google.com/forum/#!forum/spectroid
+8. https://github.com/carlreinke
+9. https://www.thehum.info/
+10. https://en.wikipedia.org/wiki/Hearing_range
+11. http://telecomlobby.com/RNMnetwork/patents/
+12. https://en.wikipedia.org/wiki/Gamma_wave
+13. https://en.wikipedia.org/wiki/DBFS
+
