@@ -35,7 +35,13 @@ With this application we can search for signals near the 100Hz or below what it 
 
 In my journey in Barcelona searching for evidences from the remote neural monitoring facility present in Spain I've found that many telecommunications towers has got point of presence of this criminal network.
 
-The screenshot above is a registration from Spectroid of the environmental ambient in my office at home. Has you can appreciate signals below 100Hz are not very strong near 80 **dBFS** [[13]](https://en.wikipedia.org/wiki/DBFS)
+The screenshot above is a registration from Spectroid of the environmental ambient in my office at home. Has you can appreciate signals below 100Hz are not very strong near 80 **dBFS** [[13]](https://en.wikipedia.org/wiki/DBFS) and go down near 10Hz below the 100 dBFS.
+
+![Turro de Rovira Barcelona remote neural monitoring network evidences](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_spectroid_turo_de_rovira_barcelona.webp)
+
+In this image you can see a strange behavior not natural that is provoked by the point of presences of the remote neural monitoring network in Barcelona, Turo de Rovira hill near the center of the city. The ambient has no sound of cars or street, and this is the most important evidence that I had recollected during my walks in Barcelona searching for them.
+
+The red line is the highest sound registered and 60dBFS at 10Hz it's absolutely what you've got to search to denunciate those towers of emissions. This is absolutely not **5G** [[14]](https://en.wikipedia.org/wiki/5G) or other mobile protocol. This is the remote neural monitoring facility.
 
 ### SDR based scanner
 
@@ -59,4 +65,5 @@ What we've got to build is an array of different type of antennas depending on t
 11. http://telecomlobby.com/RNMnetwork/patents/
 12. https://en.wikipedia.org/wiki/Gamma_wave
 13. https://en.wikipedia.org/wiki/DBFS
+14. https://en.wikipedia.org/wiki/5G
 
