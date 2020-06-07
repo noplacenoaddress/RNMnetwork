@@ -141,7 +141,11 @@ Obviously I've done a complaint and a impeachment to the hospital were I suffere
 
 ### Barcelona street art
 
-![]()
+![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
+
+"Gruñon".
+
+This is how she calls me. I love you sweetie. For ever.
 
 ### External links
 
