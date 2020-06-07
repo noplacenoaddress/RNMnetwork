@@ -23,6 +23,10 @@ Next that we've build a scanner and obtained the modulation and information incl
 
 My physical position is **41.26667 , 1.76667** [[6]](https://goo.gl/maps/HjF6v9vgvKa4GEHe8).
 
+### Android applications
+
+![Spectroid Android application](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_spectroid.webp)
+
 ### SDR based scanner
 
 ![HackRF SDR](http://telecomlobby.com/Images/SDR_HackRF_one_PCB.jpg)
