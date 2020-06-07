@@ -291,7 +291,7 @@ Probably, and in fact it is because in neural network I've speak with the maximu
 
 > This is my personal tragedy, my family have done one son to kill him. Nothing more and nothing less. And this is the true.
 
-![Saturn devouring his son](http://telecomlobby.com/Images/300px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
+![Saturn devouring his son](http://telecomlobby.com/Images/300px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo.webp)
 
 I remember that when I was an adolescent my father tell me one good think: the best decade of a man start when he is 35 years old and end when he is 45. Now I know why he said to me this good think. To destroy my best years in my life. And my life has been systematically destroyed exactly from when I was 35 years old. What a coincidence, really? 
 
