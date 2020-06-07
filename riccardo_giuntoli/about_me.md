@@ -6,6 +6,8 @@
 
 ### Short biography.
 
+こんにちは賢い人、春夏秋冬、そして再び春。 スペインから抱擁します。 ありがとう。
+
 Born in Genoa on March 31, 1981 at 19:13. My mother made me Catholic but as a teenager I have chosen to be an atheist and a political passion with a clear left matrix. I love people, technology, nature and telecommunications.
 
 From good family culture, they have taken care to teach me curiosity for this reason I consider myself able to sit at any discussion table. Deep hatred of violence in all its forms, both physical and psychological.
