@@ -2,6 +2,8 @@
 
 ![my baby](http://telecomlobby.com/Images/IMG-20140410-WA0002.jpg)
 
+私は私の愛を探すために千キロも走りましたが、2人の暴君と多くの奴隷があなたにキスするのを許しませんでした。 わたしは、あなたを愛しています。
+
 All of this. All of this fight. All of this, it's to reclaim your rights my sun flower. Your rights ahead the law. Your rights as a wonderful woman that i've known on December 2012. I'm totally in love with you. No one else.
 
 *And that is our story, sweetie.*
