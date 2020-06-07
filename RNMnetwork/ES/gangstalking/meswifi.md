@@ -60,12 +60,6 @@ But something start to be wrong with my associate and he starts when i was out, 
 
 This **destroyer** [[26]](https://en.wikipedia.org/wiki/Destroyer) has got her surname. It's from the **Italian Navy** [[27]](https://en.wikipedia.org/wiki/Italian_Navy). Search it in Wikipedia! Spread the world.
 
-### What meswifi mount today
-
-Today Meswifi is who mount the infrastructure for the "Illuminati" game.
-
-
-
 
 
 ### External Links
