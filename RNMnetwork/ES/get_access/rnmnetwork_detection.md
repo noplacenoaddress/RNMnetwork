@@ -23,7 +23,7 @@ Next that we've build a scanner and obtained the modulation and information incl
 
 My physical position is **41.26667 , 1.76667** [[6]](https://goo.gl/maps/HjF6v9vgvKa4GEHe8).
 
-### Android applications
+### Android applications - Spectdroid
 
 ![Spectroid Android application](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_spectroid.webp)
 
@@ -42,6 +42,14 @@ The screenshot above is a registration from Spectroid of the environmental ambie
 In this image you can see a strange behavior not natural that is provoked by the point of presences of the remote neural monitoring network in Barcelona, Turo de Rovira hill near the center of the city. The ambient has no sound of cars or street, and this is the most important evidence that I had recollected during my walks in Barcelona searching for them.
 
 The red line is the highest sound registered and 60dBFS at 10Hz it's absolutely what you've got to search to denunciate those towers of emissions. This is absolutely not **5G** [[14]](https://en.wikipedia.org/wiki/5G) or other mobile protocol. This is the remote neural monitoring facility.
+
+Use this application with the following options:
+
+- **Spectroid options** [[15]](https://photos.app.goo.gl/vkRrikyhzDkVGPVU8)
+
+Those options have been found on a document in the wild web, here a copy in my website:
+
+- **Detecting environmental noises with basic tools** [[16]](http://telecomlobby.com/RNMnetwork/documents/DETECTING-HENRIK.pdf)
 
 ### SDR based scanner
 
@@ -66,4 +74,6 @@ What we've got to build is an array of different type of antennas depending on t
 12. https://en.wikipedia.org/wiki/Gamma_wave
 13. https://en.wikipedia.org/wiki/DBFS
 14. https://en.wikipedia.org/wiki/5G
+15. https://photos.app.goo.gl/vkRrikyhzDkVGPVU8
+16. http://telecomlobby.com/RNMnetwork/documents/DETECTING-HENRIK.pdf
 
