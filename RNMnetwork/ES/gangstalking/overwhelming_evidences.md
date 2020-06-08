@@ -165,7 +165,15 @@ This is a graffiti in the main square of the little town where I'm living now, s
 
 *It's a unknown but not hidden pseudo dictatorship. It's the nobility that is destroying our united Europe. We've got to stop them, to stop corruption.*
 
+But this is not the only graffiti that I've found. On the street I've found a sticker a lot of time:
 
+![Titi sticker](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_titi_sant_pere_de_ribes_2.webp)
+
+It is normal? No it is not.
+
+Look at my **instagram** [[32]](https://www.instagram.com/redeltaglio/), there is a lot of evidences strictly connected with street art and street theater that are part of the nobility mafia. But it is also used by the resistance, a movement against this mafia. By the way I think that also the resistance is a game of nobility to give to slaves a little bit of hope. The only hope that we can have is to put in jail all of those corrupted nobles, remember that not all nobles are corrupted. Is there where I've got to find a a good support to clean the nobility. Spain is an excellent country being a monarchy. Monarchy of the most powerful family of the nobility, the house of Bourbon.
+
+*Please help Felipe VI of Spain a citizen is publicly denouncing a terrifying abuse against democracy.*
 
 ### External links
 
@@ -200,4 +208,5 @@ This is a graffiti in the main square of the little town where I'm living now, s
 29. https://www.tmb.cat/ca/barcelona/metro/-/lineametro/estacion/330
 30. https://en.wikipedia.org/wiki/Street_or_road_name
 31. https://goo.gl/maps/mq7vgYJREpp7yqjx7
+32. https://www.instagram.com/redeltaglio/
 
