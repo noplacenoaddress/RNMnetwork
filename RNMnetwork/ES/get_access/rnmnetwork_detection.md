@@ -51,6 +51,12 @@ Those options have been found on a document in the wild web, here a copy in my w
 
 - **Detecting environmental noises with basic tools** [[16]](http://telecomlobby.com/RNMnetwork/documents/DETECTING-HENRIK.pdf)
 
+### Audacity
+
+![Audacity Opensource](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_audacity.webp)
+
+Audacity [[17]](https://en.wikipedia.org/wiki/Audacity_(audio_editor))
+
 ### SDR based scanner
 
 ![HackRF SDR](http://telecomlobby.com/Images/SDR_HackRF_one_PCB.jpg)
@@ -76,4 +82,5 @@ What we've got to build is an array of different type of antennas depending on t
 14. https://en.wikipedia.org/wiki/5G
 15. https://photos.app.goo.gl/vkRrikyhzDkVGPVU8
 16. http://telecomlobby.com/RNMnetwork/documents/DETECTING-HENRIK.pdf
+17. https://en.wikipedia.org/wiki/Audacity_(audio_editor)
 
