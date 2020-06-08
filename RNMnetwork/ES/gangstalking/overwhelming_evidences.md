@@ -183,7 +183,16 @@ One of the most clear evidence at the moment to demonstrate that I've been victi
 
 But there is also web applications in fiscal paradises that without a verified registration permit that an anonymous user got a crypt wallet. This is a little bit difficult to obtain but it is possible.
 
- 
+The other option, and this time is almost true and is the only secure route to fish the big nobles families behind, is to analyze those little states in the European continent famous for them semi obscure banks. All are connected with the Vatican central bank. In my opinion the focus has to be over:
+
+- **Lists of banks in Andorra** [[34]](https://en.wikipedia.org/wiki/List_of_banks_in_Andorra) for those who live in Italy.
+- **Lists of banks in san Marino** [[35]](https://en.wikipedia.org/wiki/List_of_banks_in_San_Marino) for those who live in Catalunya.
+
+Nobles always mix the play cards, so for a layer more of security it's normal that from Spain they use the Italian and from Italy the Spanish. But nowadays those banks have raised a little bit the smoke curtain in front of the European Union. 
+
+**Europol** [[36]](https://www.europol.europa.eu/) and the **Guardia di Finanza** [[37]](http://www.gdf.gov.it/) Italian fiscal police are a good place to start also. The bad ass think is that in this hell network have played also important and known politics figures of the twos countries. It has to be a very serious investigation. 
+
+*I write to preserve my life, please help monarchy of Spain and Italian Republic.*
 
 ### External links
 
@@ -220,4 +229,8 @@ But there is also web applications in fiscal paradises that without a verified r
 31. https://goo.gl/maps/mq7vgYJREpp7yqjx7
 32. https://www.instagram.com/redeltaglio/
 33. [https://en.wikipedia.org/wiki/Mossos_d%27Esquadra](https://en.wikipedia.org/wiki/Mossos_d'Esquadra)
+34. https://en.wikipedia.org/wiki/List_of_banks_in_Andorra
+35. https://en.wikipedia.org/wiki/List_of_banks_in_San_Marino
+36. https://www.europol.europa.eu/
+37. http://www.gdf.gov.it/
 
