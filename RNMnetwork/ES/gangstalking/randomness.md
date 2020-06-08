@@ -157,6 +157,8 @@ This is the new sign sign of my father. It's so strange that a very precise engi
 
   "F" is the first letter of the name of the stupid little bitch that now conduct the "Illuminati" pseudo dictatorship that is changing Europe. A plague in our democracy.
 
+But why my father has changed his sign? Because my daddy has give me in the course of my life suggestions to understand what would happen to me after the age of 35. My dad is in turn a victim of the mafia of the nobility. Andreu and Francesca are the people who enslaved me in the neuronal control network. The tool of the nobility mafia.
+
 ### Friends of mine that have died in strange circumstances
 
 ![Genoa](http://telecomlobby.com/Images/AdobeStock_118239878_0.jpeg)
