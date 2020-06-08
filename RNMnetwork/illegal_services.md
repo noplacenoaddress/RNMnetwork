@@ -255,8 +255,6 @@ Why the customers who pay for this service is searching for example the climb of
 
 Now look at sexual ads in Barcelona in a web page called NuevoLoquo, this is an ads for pay not affiliated portal. 
 
-https://www.nuevoloquo.com/anuncios-eroticos/barcelona/putas/catalan/
-
 There is a lot of Catalans young girls. It's so estrange because this territory got a high **PIB** [[89]](https://en.wikipedia.org/wiki/Gross_domestic_product),  33661$ as 2017.  Are those victims of digital **forced prostitution** [[90]](https://en.wikipedia.org/wiki/Forced_prostitution)? Yes, in my opinion. 
 
 Prostitution in the synthetic telepathy network is, like all the structures, a pyramid. 
