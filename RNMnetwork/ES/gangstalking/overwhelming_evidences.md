@@ -153,6 +153,12 @@ This other was taken always in the entrance of a metro station, L3 line **Lessep
 
 But her son call me with another nickname, "Titi". This was how she called me. And look at what I've found in those years searching for her mommy, victim the nobility mafia. Because of her surname probably. They have violated her, without any doubt.
 
+![Grunyi street](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon_grunyi.webp)
+
+This is also so curious. Finding hearths 3D stickers upon the **odonymy** [[30]](https://en.wikipedia.org/wiki/Street_or_road_name) of an ancient street in Barcelona:
+
+- **Carrer de Grunyí 08003 Barcelona** [[31]](https://www.google.com/maps/place/Carrer+de+Gruny%C3%AD,+08003+Barcelona,+Spain/data=!4m2!3m1!1s0x12a4a2fec16633b5:0x56cd942e495cb2b9?sa=X&ved=2ahUKEwi0-KO90vHpAhXeSxUIHek4Cw0Q8gEwAHoECCQQAQ)
+
 ![Titi in sant Pere de Ribes](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_titi_sant_pere_de_ribes.webp)
 
 This is a graffiti in the main square of the little town where I'm living now, sant Pere de Ribes. It's curious don't you think so? This mafia is capillary and has got a lot of "department", they have got a street art crew because of street theater. Doing this you start to think to be different from the others and it is just to force your mind. To create a slave. A low class drug seller. Nothing more, nothing less. 
@@ -192,4 +198,6 @@ This is a graffiti in the main square of the little town where I'm living now, s
 27. https://photos.app.goo.gl/foA1mNM3aAwfPb3h9
 28. https://www.tmb.cat/en/barcelona/metro/-/lineametro/estacion/125
 29. https://www.tmb.cat/ca/barcelona/metro/-/lineametro/estacion/330
+30. https://en.wikipedia.org/wiki/Street_or_road_name
+31. https://goo.gl/maps/mq7vgYJREpp7yqjx7
 
