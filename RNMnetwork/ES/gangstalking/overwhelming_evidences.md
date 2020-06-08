@@ -175,7 +175,7 @@ Look at my **instagram** [[32]](https://www.instagram.com/redeltaglio/), there i
 
 *Please help Felipe VI of Spain a citizen is publicly denouncing a terrifying abuse against democracy.*
 
-### Bitcoin wallets
+### Bitcoin wallets and Vatican related European fiscal semi paradises
 
 ![Bitcoin wallet as overwhelming evidence](http://telecomlobby.com/Images/noble_game_overwhelming_evidences_bitcoin_wallet.webp)
 
