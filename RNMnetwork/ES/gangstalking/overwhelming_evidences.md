@@ -175,6 +175,25 @@ Look at my **instagram** [[32]](https://www.instagram.com/redeltaglio/), there i
 
 *Please help Felipe VI of Spain a citizen is publicly denouncing a terrifying abuse against democracy.*
 
+### Bitcoin wallets and Vatican related European fiscal semi paradises
+
+![Bitcoin wallet as overwhelming evidence](http://telecomlobby.com/Images/noble_game_overwhelming_evidences_bitcoin_wallet.webp)
+
+One of the most clear evidence at the moment to demonstrate that I've been victim of parimutuel betting system in the remote neural monitoring network from November 2017 is to indicate to police, in my case the Catalan autonomic one **Mossos d'Esquadra** [[33]](https://en.wikipedia.org/wiki/Mossos_d%27Esquadra) is being user of a Bitcoin wallet. But there is some complication because a lot are anonymous. One think that it can be done is to analyze hard disks of all technological device of who have been present in this suicide game where almost all the people that I've known in my life, and this is the strongest point of the nobility mafia, and searching for deleted applications about crypt concurrencies. 
+
+But there is also web applications in fiscal paradises that without a verified registration permit that an anonymous user got a crypt wallet. This is a little bit difficult to obtain but it is possible.
+
+The other option, and this time is almost true and is the only secure route to fish the big nobles families behind, is to analyze those little states in the European continent famous for them semi obscure banks. All are connected with the Vatican central bank. In my opinion the focus has to be over:
+
+- **Lists of banks in Andorra** [[34]](https://en.wikipedia.org/wiki/List_of_banks_in_Andorra) for those who live in Italy.
+- **Lists of banks in san Marino** [[35]](https://en.wikipedia.org/wiki/List_of_banks_in_San_Marino) for those who live in Catalunya.
+
+Nobles always mix the play cards, so for a layer more of security it's normal that from Spain they use the Italian and from Italy the Spanish. But nowadays those banks have raised a little bit the smoke curtain in front of the European Union. 
+
+**Europol** [[36]](https://www.europol.europa.eu/) and the **Guardia di Finanza** [[37]](http://www.gdf.gov.it/) Italian fiscal police are a good place to start also. The bad ass think is that in this hell network have played also important and known politics figures of the twos countries. It has to be a very serious investigation. 
+
+*I write to preserve my life, please help monarchy of Spain and Italian Republic.*
+
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
@@ -209,4 +228,9 @@ Look at my **instagram** [[32]](https://www.instagram.com/redeltaglio/), there i
 30. https://en.wikipedia.org/wiki/Street_or_road_name
 31. https://goo.gl/maps/mq7vgYJREpp7yqjx7
 32. https://www.instagram.com/redeltaglio/
+33. [https://en.wikipedia.org/wiki/Mossos_d%27Esquadra](https://en.wikipedia.org/wiki/Mossos_d'Esquadra)
+34. https://en.wikipedia.org/wiki/List_of_banks_in_Andorra
+35. https://en.wikipedia.org/wiki/List_of_banks_in_San_Marino
+36. https://www.europol.europa.eu/
+37. http://www.gdf.gov.it/
 
