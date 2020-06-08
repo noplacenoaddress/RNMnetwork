@@ -143,9 +143,15 @@ Obviously I've done a complaint and a impeachment to the hospital were I suffere
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
 
-"Gruñon".
+"Gruñon". This is how she calls me. I love you sweetie. For ever.
 
-This is how she calls me. I love you sweetie. For ever.
+This image was taken in the inside of a metro station in Barcelona, L1 line **Universitat** [[28]](https://www.tmb.cat/en/barcelona/metro/-/lineametro/estacion/125) red line. But this is not the only one that I've found. This word is not common and no one know how she calls me. How can be possible? The remote neural monitoring network. We were not alone.
+
+![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon_lesepps.webp)
+
+This other was taken always in the entrance of a metro station, L3 line **Lesseps** [[29]](https://www.tmb.cat/ca/barcelona/metro/-/lineametro/estacion/330) green line.
+
+
 
 ### External links
 
@@ -176,4 +182,6 @@ This is how she calls me. I love you sweetie. For ever.
 25. https://en.wikipedia.org/wiki/Bipolar_disorder
 26. https://en.wikipedia.org/wiki/VCard
 27. https://photos.app.goo.gl/foA1mNM3aAwfPb3h9
+28. https://www.tmb.cat/en/barcelona/metro/-/lineametro/estacion/125
+29. https://www.tmb.cat/ca/barcelona/metro/-/lineametro/estacion/330
 
