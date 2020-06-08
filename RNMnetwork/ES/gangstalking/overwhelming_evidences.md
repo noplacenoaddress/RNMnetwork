@@ -151,6 +151,14 @@ This image was taken in the inside of a metro station in Barcelona, L1 line **Un
 
 This other was taken always in the entrance of a metro station, L3 line **Lesseps** [[29]](https://www.tmb.cat/ca/barcelona/metro/-/lineametro/estacion/330) green line.
 
+But her son call me with another nickname, "Titi". This was how she called me. And look at what I've found in those years searching for her mommy, victim the nobility mafia. Because of her surname probably. They have violated her, without any doubt.
+
+![Titi in sant Pere de Ribes](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_titi_sant_pere_de_ribes.webp)
+
+This is a graffiti in the main square of the little town where I'm living now, sant Pere de Ribes. It's curious don't you think so? This mafia is capillary and has got a lot of "department", they have got a street art crew because of street theater. Doing this you start to think to be different from the others and it is just to force your mind. To create a slave. A low class drug seller. Nothing more, nothing less. 
+
+*It's a unknown but not hidden pseudo dictatorship. It's the nobility that is destroying our united Europe. We've got to stop them, to stop corruption.*
+
 
 
 ### External links
