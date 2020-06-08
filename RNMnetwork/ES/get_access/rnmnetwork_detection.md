@@ -55,7 +55,9 @@ Those options have been found on a document in the wild web, here a copy in my w
 
 ![Audacity Opensource](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_audacity.webp)
 
-Audacity [[17]](https://en.wikipedia.org/wiki/Audacity_(audio_editor))
+**Audacity** [[17]](https://en.wikipedia.org/wiki/Audacity_(audio_editor)) is a audio editor professional open source software. 
+
+To grab environment sound or better saying noise I use an external **handy recorder** [[17]](https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/E_H1n.pdf).
 
 ### SDR based scanner
 
@@ -83,4 +85,5 @@ What we've got to build is an array of different type of antennas depending on t
 15. https://photos.app.goo.gl/vkRrikyhzDkVGPVU8
 16. http://telecomlobby.com/RNMnetwork/documents/DETECTING-HENRIK.pdf
 17. https://en.wikipedia.org/wiki/Audacity_(audio_editor)
+18. https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/E_H1n.pdf
 
