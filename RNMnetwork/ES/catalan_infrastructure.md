@@ -54,7 +54,7 @@ There is a special antenna in all those towers that connect with an enormous ins
 
 > *It's very probably that this virtual point to point radio bridge exist and it would actually show that governments are also playing in the gangstalking shop.* 
 
-### Some geographical point of interest
+### Some geographical points of presences.
 
 ![sant Fost de Camsentelles](http://telecomlobby.com/Images/20191209_145540.jpg)
 
