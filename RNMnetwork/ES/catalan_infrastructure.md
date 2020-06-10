@@ -82,9 +82,11 @@ This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coo
 
 In Turo of Rovira where the telecommunications towers of the radio waves "ship" are installed there is a **Spanish civil war** [[25]](https://en.wikipedia.org/wiki/Spanish_Civil_War) **bunker** [[26]](https://en.wikipedia.org/wiki/Bunker).
 
+![sant Fost de Campsentelles](http://telecomlobby.com/Images/remote_neural_monitoring_network_point_of_presences.webp)
 
+There is another point of presence very disturbing on the first line of mountain upon Badalona near the Catalan capital. 
 
-
+This is 
 
 ###  External links
 
