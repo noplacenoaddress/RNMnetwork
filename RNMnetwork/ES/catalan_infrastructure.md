@@ -76,7 +76,7 @@ This image is taken at 41º 25’ 23.42” N, 2º 07’ 9.42” E geographical c
 
 ![main mast of the ship](http://telecomlobby.com/Images/83109843_559132277973370_6242489809795139809_n.jpg)
 
-This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” geographical coordinates. Is the tower and is dominating the city of Barcelona. The place is an hill in the middle of the city that is full of ELF and SLF transmitters. The name is **Turó de la Rovira** [[24]](https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira) and is the principle tower of emission.  The "Illuminati" game is served by the black antenna, in this photo is at the second floor on the left. Other equal antennas are underlined. 
+This image is taken at 41º 25’ 9.56” N, 2º 09’ 41.88” E geographical coordinates. Is the tower and is dominating the city of Barcelona. The place is an hill in the middle of the city that is full of ELF and SLF transmitters. The name is **Turó de la Rovira** [[24]](https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira) and is the principle tower of emission.  The "Illuminati" game is served by the black antenna, in this photo is at the second floor on the left. Other equal antennas are underlined. 
 
 ![Carmel bunkers](http://telecomlobby.com/Images/1_aerial_min.jpg)
 
@@ -86,7 +86,17 @@ In Turo of Rovira where the telecommunications towers of the radio waves "ship" 
 
 There is another point of presence very disturbing on the first line of mountain upon Badalona near the Catalan capital. 
 
-This is 
+This is a building from a Catholic related foundation, its name is **fundació Pere Tarrés** [[27]](https://www.peretarres.org/en). This foundation has got a primary goal, working with child. And this is what is disturbing me, but it is only my suppositions. As you can see the last yellow building has got a little tower mounted over his roof. Look at this image taken from google earth:
+
+![false Catalan TETRA system](http://telecomlobby.com/Images/remote_neural_monitoring_network_point_of_presences_laconreria.webp)
+
+Those black antenna are the same of what I've found on the Turò de Rovira installation, those antennas are VHF/UHF antennas and *normally* are used to bind **TETRA** [[28]](https://en.wikipedia.org/wiki/Terrestrial_Trunked_Radio) communications. Why a security forces system is mounted over a little tower in a Catholic foundation? It's not normal because the left one is focused exactly in the direction of the unique Catalan monastery of **Carthusians** [[29]](https://en.wikipedia.org/wiki/Carthusians) monks. Its name is **Cartuja de Montealegre** [[30]](https://es.wikipedia.org/wiki/Cartuja_de_Montealegre).
+
+![Pere Tarres focused to Carthusian monks](http://telecomlobby.com/Images/remote_neural_monitoring_network_point_of_presences_carthusian.webp)
+
+Are they police? No they are not. Why they have a personal point to multipoint access antenna theoretically to a police telecommunications system? Have they one receiver upon them roof? No they have not. Why? Because this antennas form part of one of the most hide and terrifying telecommunications system in our united Europe. The remote neural monitoring network in Catalunya. An enormous scandal. 
+
+GPS coordinates are  41º 29’ 28.68” N, 2º 15’ 12.09” E.
 
 ###  External links
 
@@ -116,4 +126,8 @@ This is
 24. https://en.wikipedia.org/wiki/Tur%C3%B3_de_la_Rovira
 25. https://en.wikipedia.org/wiki/Spanish_Civil_War
 26. https://en.wikipedia.org/wiki/Bunker
+27. https://www.peretarres.org/en
+28. https://en.wikipedia.org/wiki/Terrestrial_Trunked_Radio
+29. https://en.wikipedia.org/wiki/Carthusians
+30. https://es.wikipedia.org/wiki/Cartuja_de_Montealegre
 
