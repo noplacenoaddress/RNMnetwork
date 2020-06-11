@@ -26,11 +26,11 @@ In this graph, obtained reading the **official data** [[9]](https://www.idescat.
 
 ### Abnormal electrical storms in Catalunya
 
-![Electrical storms density](../Images/rayoscat.png)
+![Electrical storms density](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_electrical_storm.webp)
 
 As you can see in the image above, in Catalunya respect others district of Spain there is an abnormal density of **electrical storms** [[11]](https://en.wikipedia.org/wiki/Thunderstorm). The map is from **AEMET** [[12]](https://es.wikipedia.org/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa) an official organization of the central state.
 
-![table](../Images/rayosBCNtable.png)
+![table](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_catalunya_storm.webp)
 
 Barcelona, Girona, Tarragona and Lleida are in position first, third, fourth and fifth in the national ranking. This is not normal, don't you think so? *I don't*. But why it's important? First of all there's a number of death related to **lighting strikes** [[13]](https://en.wikipedia.org/wiki/Lightning_strike). Those can be real time monitored in the Internet with web applications like:
 
@@ -41,11 +41,11 @@ Here you can appreciate also a database containing statistics and graphs. Statio
 
 ### Abnormal rise in death from mental disorders in Catalunya
 
-![mental disorders](../Images/Mental_Disorder_Silhouette.png)
+![mental disorders](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_mental_disorder.webp)
 
 This is another official statistics this time from Spanish  **National Statistics Institute** [[15]](https://en.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Spain)). This time numbers are horribles. And speak about deaths, as usual. And no, numbers don't lie. *So do i*. 
 
-![Mental Disorders](../Images/mentaldisorders.png)
+![Mental Disorders](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_mental_disorder2.webp)
 
 You can appreciate what happened from 2010 to 2017. The climb in number is incredible. This couldn't be a case, for me it's related with the "Illuminati" pseudo dictatorship and those killer networks that we've analyzed. People start to listen to subliminal messages direct to them brains and think to be mad. Go to the hospital and got directly hospitalized in psychiatric center where they start to assume **barbiturates** [[16]](https://en.wikipedia.org/wiki/Barbiturate). These legal drug used to calm anxiety for example is addictive. Can provoke **overdose** [[17]](https://en.wikipedia.org/wiki/Barbiturate_overdose). Nowadays many young and not so young persons consume cocaine and alcohol. Those two drugs mixed are dangerous and produce agitation, **tachycardia** [[18]](https://en.wikipedia.org/wiki/Tachycardia). People that have got barbiturates dependency use to take them to relax themselves. But together with cocaine and alcohol are mortal. Don't do it. 
 
