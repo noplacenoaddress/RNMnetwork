@@ -1,6 +1,6 @@
 # Laws violated by this system
 
-![La legge è uguale per tutti](../Images/-piero-calamandrei--la-legge--20190913-160438-legge-uguale-tutti.jpg)
+![La legge è uguale per tutti](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_laws.webp)
 
 ### How to hit hard the pyramid of "Illuminati"
 
@@ -26,7 +26,7 @@ All of them are horribles crimes that destroy **human rights** [[8]](https://en.
 
 ### How to hit every network of neural control
 
-![Test your IQ](../Images/B88103384Z.1_20180321200953_000_GET490KV.2-0_Super_Portrait.jpg)
+![Test your IQ](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_IQ.webp)
 
 Like we've already said one of the tower of democracy is without any doubt privacy. In Spain, the country where i live there's a lot of laws protecting this fundamental right of the citizen. Spain is **Europe Union** [[9]](https://en.wikipedia.org/wiki/European_Union). 
 
@@ -59,7 +59,7 @@ The last point is what is break under remote neural control networks. And obviou
 
 ### How to hit the layer one magnetic field
 
-![European flag](../Images/78053672_10221385490689296_5701298094478458880_o.jpg)
+![European flag](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_europe.webp)
 
 Steam machine create a magnetic field with two analogs very powerful radio and ferrite or magnetic loop antennas. Like we've already seen. In the European Union laws electromagnetic field are regulated not speaking about outside environment but speaking about **occupational hazards** [[25]](https://en.wikipedia.org/wiki/Occupational_hazard). The same normative I think that can be applied without any problems because of the extent field provoke health diseases to all the Catalans, not only to who are connected to the remote neural monitoring network. People with for example some mechanical bypass, people that have suffered a **bypass surgery** [[26]](https://en.wikipedia.org/wiki/Bypass_surgery) could be killed in remote with this technology.
 
@@ -75,7 +75,7 @@ Speaking about the Vatican Radio there is various cases of cancer denunciated by
 
 ### Human rights violated
 
-![Universal declaration of human rights](../Images/The_universal_declaration_of_human_rights_10_December_1948.jpg)
+![Universal declaration of human rights](http://telecomlobby.com/Images/The_universal_declaration_of_human_rights_10_December_1948.jpg)
 
 The synthetic telepathy network violate almost eleven rights declared in the **universal declaration** [[29]](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) created in 1948 by the **United Nations** [[30]](https://en.wikipedia.org/wiki/United_Nations):
 
@@ -95,7 +95,7 @@ So it's important to understand that owners of this network have to be put in ja
 
 ### Nuremberger code
 
-![Nuremberger code](../Images/Hermann-Goring-Nazi-prisoner-box-trials-Nurnberg.jpg)
+![Nuremberger code](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_nurnberg.webp)
 
 1. The voluntary consent of the human subject is absolutely essential.
 
@@ -113,7 +113,7 @@ Those are the ten points of the Nuremberger code speak about ethics in human exp
 
 ### Sexual harassment and pedophilia
 
-![The pedophilia spectre](../Images/42059359_533873410388509_13538428406726656_n.jpg)
+![The pedophilia spectre](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_pedophilia.webp)
 
 In **metaverse** [[32]](https://en.wikipedia.org/wiki/Metaverse) virtual world, like the one inject in the visual and auditive cortex that is present in Barcelona because of the remote neural monitoring network from their born in the early nineties sexual violence and pedophilia are present. 
 
@@ -149,7 +149,7 @@ First of all indicate that laws about virtual rape, that is the exact crime name
 
 ### Child trafficking 
 
-![Children trafficking](../Images/BASA-389K-1-361-4-Children's_Day,_Bulgaria,_1928.jpeg)
+![Children trafficking](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_bulgaria.webp)
 
 First of all we've got to consider that a lot of people that are to be considered as target individuals are in reality victim of child trafficking, as probably I am. 
 
@@ -174,7 +174,7 @@ Obviously also the state penal code is full of laws that are applied to severely
 
 ### Tortures
 
-![A Persian torture](../Images/feat_persia.jpg)
+![A Persian torture](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_tortures.webp)
 
 Ok I'm victim of tortures. And I know why, and his terrible because is from my stepfamily but in front of a lot of people. Why? As usual, money. Nothing more nothing less. Probably I'm a child victim of child trafficking and I'm a nobleman that would have a lot of coats arms. But it's only something probably. The other way is that my family is composed by mental illness people. But this true but could not be the only reason.
 
@@ -203,7 +203,7 @@ And this could be the reason why I'm under torture. And why all the people that 
 
 ### Slavery
 
-![Slavery](../Images/640px-Maler_der_Grabkammer_des_Rechmirê_002.jpg)
+![Slavery](http://telecomlobby.com/Images/remote_neural_monitoring_network_technomafia_crimes_slavery.webp)
 
 Slavery is a crime persecuted by international laws. Slavery
 
