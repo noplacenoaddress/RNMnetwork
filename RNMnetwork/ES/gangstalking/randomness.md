@@ -62,7 +62,7 @@ In this video obtained with blue led light and a video camera with low resolutio
 
 ### An unexpected gift
 
-![5000 lira](http://telecomlobby.com/Images/Lire_5000_(Vincenzo_Bellini).jpeg)
+![5000 lira](http://telecomlobby.com/Images/remote_neural_monitoring_network_gangstalking_5.webp)
 
 I remember a trip to Rome with my parents to Rome, where all the streets lead. I was just a child looking at those historical monuments with my eyes peering and my brain dreaming.
 
