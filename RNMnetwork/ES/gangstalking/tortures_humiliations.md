@@ -59,6 +59,14 @@ The machine is a crime. Is a monster. Is what is changing our Europe. And you ha
 
 Full stop.  
 
+### Logbook of torture to which I am subjected
+
+![Logbook](http://telecomlobby.com/Images/remote_neural_monitoring_network_myexperience_logbook.webp)
+
+From June 2020 I start to log every type of torture that I received in radio:
+
+- **Sleep deprivation** [[10]](https://en.wikipedia.org/wiki/Sleep_deprivation) at 3:10 AM all presents.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Iraq_War
@@ -70,3 +78,4 @@ Full stop.
 7. https://en.wikipedia.org/wiki/Civil_Guard_(Spain)
 8. https://en.wikipedia.org/wiki/National_Intelligence_Centre
 9. https://en.wikipedia.org/wiki/Generalitat_de_Catalunya
+10. https://en.wikipedia.org/wiki/Sleep_deprivation
