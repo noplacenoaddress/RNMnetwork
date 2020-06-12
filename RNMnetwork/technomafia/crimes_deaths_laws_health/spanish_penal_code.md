@@ -1,6 +1,6 @@
 # Spanish penal code
 
-![Spanish justice](../Images/0-58.jpg)
+![Spanish justice](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_spanish_penal_code.webp)
 
 So I live in Spain, I and my ex girlfriend are without any doubt victim of noble games. She is victim from she was a little bit more than a baby and I'm in active subliminal messages and visual auditory cortex injections from November 2017 but I think I'm victim of child trafficking between twos Marquees families from Catalunya to Liguria. Also the church probably is implied. The church and a lot of Italians that I tough they were friends of mine.
 
