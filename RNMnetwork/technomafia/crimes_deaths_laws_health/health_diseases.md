@@ -1,6 +1,6 @@
 # Health diseases 
 
-![ELF radiation health](../Images/radiation_health.jpg)
+![ELF radiation health](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_health_risks.webp)
 
 The remote neural monitoring network got a lot of health diseases that could ruin target individual's life that could be presented to a penal court:
 
@@ -20,7 +20,7 @@ Another type of disease that can be taken in front of a court is the **Attention
 
 ### Sleep deprivation
 
-![Effects of sleep deprivation](../Images/Effects_of_sleep_deprivation.svg.png)
+![Effects of sleep deprivation](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_sleep_deprivation.webp)
 
 **Sleep deprivation** [[17]](https://en.wikipedia.org/wiki/Sleep_deprivation) in the neural control network it's obtained by electronic torture. With dream injection it's also possible to completely write in our brain dreams that are prepared like a movie and streamed directly to our mind. 
 
@@ -41,7 +41,7 @@ Those are the illness provoked by this torture:
 - **Growth hormone deficiency** [[32]](https://en.wikipedia.org/wiki/Growth_hormone_deficiency)
 - **Hyphotermia** [[33]](https://en.wikipedia.org/wiki/Hypothermia)
 
-![Glucosa](../Images/2.png)
+![Glucosa](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_pancreas.webp)
 
 Speaking about diabetes in my case from November 2017 when I was "opened" to 18 of December 2019 my **blood sugar level** [[34]](https://en.wikipedia.org/wiki/Blood_sugar_level) have grow to abnormal level falling near diabetes levels.
 
@@ -62,7 +62,7 @@ I need help from International police and services. I'm a human not a Guinea pig
 
 ### Personals toughs 
 
-![Personals toughs](../Images/personaltoughts.jpg)
+![Personals toughs](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_riccardo_giuntoli.webp)
 
 So in the possible panorama that I'm victim of child trafficking I can underline also mental illness that suffered by parents that in reality are in part victims of those babies assignment for part of the church but in the other they are totally guilty in various crimes of shut up about this Mafia organization where we found a lot of low level nobles family in Catalunya and Liguria. So yes they are criminals. By the way I've found some health mental diseases that can describe the consequences  on them life, but this is not to save them this to understand how church and nobility play with human minds to produce tools to do pain to others humans. Incredible but totally true.
 
