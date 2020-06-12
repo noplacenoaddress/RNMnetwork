@@ -1,6 +1,6 @@
 # Victims of persecution genocide
 
-![California demand](../Images/20200103_121251.jpg)
+![California demand](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_genocide.webp)
 
 This front page above is the demand of an American association captained by CEO **Cyrus A. Parsa** [[1]](https://www.amazon.com/Cyrus-Parsa/e/B07WPWXTCJ%3F), probably a secret service related man, versus the big tech giants that use the remote neural monitoring network to develop with human guinea pigs. 
 
