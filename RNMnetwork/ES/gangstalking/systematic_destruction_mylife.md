@@ -40,6 +40,14 @@ But the worst think is that the women that i love was sold in forced prostitutio
 
 ![ti amo](http://telecomlobby.com/Images/tiamo.png)
 
+So I realize that I'm a pokemon, machine number 9, under slavery by a radio technology network the remote neural monitoring network that nowadays is based on a TETRA system modified. My history is exactly the same of what is explained here:
+
+- **The next terrorist assault, TETRA** [[20]](http://telecomlobby.com/RNMnetwork/documents/THE%20NEXT%20TERRORIST%20ASSAULT_%20TETRA.pdf).
+
+I'm totally in love with my ex girlfriend Saray and she is also a victim of this control system where our life is subjected to slavery, parimutuel betting system and to be humans guineas pigs to the development of technology by high tech firm. All directed by nobility in a corrupted Europe.
+
+*Please help Felipe VI, king of Spain. Help house of Bourbon.* 
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/2001_Italian_general_election
