@@ -98,7 +98,7 @@ Are they police? No they are not. Why they have a personal point to multipoint a
 
 GPS coordinates are  41º 29’ 28.68” N, 2º 15’ 12.09” E.
 
-Them coat of arms that you can appreciate in the link above got seven stars, 7 is the number of the deadly sins but also is the number of the victory in the slot machines. It's a game. A noble game, a game of the most ancient European noble family. But them surname is encrypted in my chapter **noble houses** [[31]](http://www.telecomlobby.com/RNMnetwork/considerations/noble_houses.htm).
+Them coat of arms that you can appreciate in the link above got seven stars, 7 is the number of the deadly sins but also is the number of the victory in the slot machines. It's a game. A noble game, a game of the most ancient European noble family. But them surname is encrypted in my chapter **noble houses** [[31]](http://www.telecomlobby.com/RNMnetwork/technomafia/noble_houses.htm).
 
 ### The Catalan TETRA dipole antennas
 
@@ -153,7 +153,7 @@ Start to do some clever considerations about it.
 28. https://en.wikipedia.org/wiki/Terrestrial_Trunked_Radio
 29. https://en.wikipedia.org/wiki/Carthusians
 30. https://es.wikipedia.org/wiki/Cartuja_de_Montealegre
-31. http://www.telecomlobby.com/RNMnetwork/considerations/noble_houses.htm
+31. http://www.telecomlobby.com/RNMnetwork/technomafia/noble_houses.htm
 32. http://mirror.telecomlobby.com/www.kenbotong.com/
 33. https://www.lambdaantenas.com/
 34. https://goo.gl/maps/Lycw39eHWouPr4xu6
