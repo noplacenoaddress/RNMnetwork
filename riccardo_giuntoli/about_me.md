@@ -1,6 +1,6 @@
 # About me
 
-![taglio](http://telecomlobby.com/Images/41442503_10217626665321011_2490918823650131968_n.jpg)
+![Riccardo Giuntoli](http://telecomlobby.com/Images/riccardo_giuntoli_about_me.webp)
 
 *A broken clock is always right twice a day*
 
