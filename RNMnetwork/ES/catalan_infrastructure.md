@@ -100,7 +100,7 @@ GPS coordinates are  41º 29’ 28.68” N, 2º 15’ 12.09” E.
 
 Them coat of arms that you can appreciate in the link above got seven stars, 7 is the number of the deadly sins but also is the number of the victory in the slot machines. It's a game. A noble game, a game of the most ancient European noble family. But them surname is encrypted in my chapter **noble houses** [[31]](http://www.telecomlobby.com/RNMnetwork/considerations/noble_houses.htm).
 
-### The Spanish remote neural monitoring dipole antennas 
+### The Catalan TETRA dipole antennas
 
 ![Turro de Rovira Catalan dipole antenna](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_dipole_antennas.webp)
 
@@ -112,6 +112,14 @@ This photo is from Turro de Rovira installation. Searching on the web I've found
 Catalunya it's absolutely full of those antennas. The coverage is capillary. If they where antennas for normal TETRA operations they should only be installed in towers duly protected by regulations. What are they doing on some occupied houses? Sure, but nevertheless I don't know for sure, or well they use a modified version of this protocol together with others in ELF and 3GHz to form this terrifying network or if not they mount these antennas to deceive at sight even the experts who consider them an installation by law enforcement. Their diffusion, their position make it without a shadow of a doubt the most overwhelming proof I have of this ghost net. Fruit of a brilliant mind, you who read me every day, the pillar of a medieval Catalunya.
 
 ![Tetra pulse](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_tetra_pulse.webp)
+
+But why I speak about TETRA masked installations? Why I consider them totally illegal and strictly connected to the digital mafia that reign over Catalunya, Liguria and probably all Europe? 
+
+Start to do some clever considerations about it.
+
+- TETRA acronym for Terrestrial Trunked Radio is a digital radio standard promoted by **ETSI in 1995**  [[36]](http://telecomlobby.com/RNMnetwork/documents/etr_08603e01p.pdf) and is assigned for uses of governmental police forces.
+- In Catalunya since 2006 is used by police, fire brigades, civil protection, ambulances, forest guards, water agency, gas company, road maintenance service and other public agencies. One example of network build with TETRA is **Xarxa rescat** [[37]](http://interior.gencat.cat/ca/el_departament/xarxa_rescat/). What could indicate this? That there is a lot of different networks and this could underline why there a lot of installations of this emergency system. But remember that channels aren't a lot and coverage in city is near eight kilometers from tower to TETRA client and near thirty kilometers in countryside. What else could indicate this? That for **every** TETRA installation in Catalunya it's absolutely true that a **public call** [[38]](http://cido.diba.cat/contractacio/8202466/servei-de-manteniment-dampliadors-de-cobertura-tetra-sistema-demergencies-mediques-sa-sem) is mandatory. *I've seen installations over private roofs*. This is not possible, it's a system masked behind a normal TETRA installation, it's something that use TETRA dipole antennas. Or if it is a scandal, that it's probably that is, it's a modified version of the official TETRA software mounted over official devices. If it is something hided behind official devices it means that in Spain, in 2020, the state has got access to what the citizens think. But I don't really know, perhaps it's only thats big noble families that use gangstalking to produce slaves and betting over them lives. 
+- The image above show a control protocol of TETRA radio system that is call TETRA pulse.
 
 ###  External links
 
@@ -150,4 +158,7 @@ Catalunya it's absolutely full of those antennas. The coverage is capillary. If 
 33. https://www.lambdaantenas.com/
 34. https://goo.gl/maps/Lycw39eHWouPr4xu6
 35. https://en.wikipedia.org/wiki/Extradition
+36. http://telecomlobby.com/RNMnetwork/documents/etr_08603e01p.pdf
+37. http://interior.gencat.cat/ca/el_departament/xarxa_rescat/
+38. http://cido.diba.cat/contractacio/8202466/servei-de-manteniment-dampliadors-de-cobertura-tetra-sistema-demergencies-mediques-sa-sem
 
