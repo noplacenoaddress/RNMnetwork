@@ -111,6 +111,8 @@ This photo is from Turro de Rovira installation. Searching on the web I've found
 
 Catalunya it's absolutely full of those antennas. The coverage is capillary. If they where antennas for normal TETRA operations they should only be installed in towers duly protected by regulations. What are they doing on some occupied houses? Sure, but nevertheless I don't know for sure, or well they use a modified version of this protocol together with others in ELF and 3GHz to form this terrifying network or if not they mount these antennas to deceive at sight even the experts who consider them an installation by law enforcement. Their diffusion, their position make it without a shadow of a doubt the most overwhelming proof I have of this ghost net. Fruit of a brilliant mind, you who read me every day, the pillar of a medieval Catalunya.
 
+![Tetra pulse](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_tetra_pulse.webp)
+
 ###  External links
 
 1. https://photos.app.goo.gl/18aa7etfexxi2Dr28
