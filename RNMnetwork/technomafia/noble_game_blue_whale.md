@@ -10,6 +10,8 @@ I'm victim of an articulated **blue whale challenge** [[3]](https://en.wikipedia
 
 In the blue whale challenge people stalk the victim and induct him or her about doing worst and worst things, in our cases, me and Saray, were separated and like I've got described stalkers, that in reality are nobles, operators of this network and church related figures, also of high levels, start to machine our lives in opposites modes.
 
+![Phenotypic traits](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits.webp)
+
 ### External links
 
 1. https://www.elespanol.com/espana/20181009/investigan-aparicion-munecos-esteladas-colgados-postes-valencia/344215850_0.html
