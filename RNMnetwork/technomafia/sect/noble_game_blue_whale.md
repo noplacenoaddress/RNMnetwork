@@ -8,11 +8,11 @@ I'm a target individual in Barcelona Spain from one big Catalan family and anoth
 
 I'm victim of an articulated **blue whale challenge** [[3]](https://en.wikipedia.org/wiki/Blue_Whale_Challenge) all jousted in the Spanish remote neural monitoring network. All around this game there are nobles, church and operators that play in a remote parimutuel betting system. A remote casino, but in reality is real one with transposition coverage obtained by the mapping of the real ones, the ones in European and off shore fiscal paradises. 
 
-In the blue whale challenge people stalk the victim and induct him or her about doing worst and worst things, in our cases, me and Saray, were separated and like I've got described stalkers, that in reality are nobles, operators of this network and church related figures, also of high levels, start to machine our lives in opposites modes.
+In the blue whale challenge people stalk the victim and induct him or her about doing worst and worst things, in my cases, me and Saray, were separated and like I've got described stalkers, that in reality are nobles, operators of this network and church related figures, also of high levels, start to machine our lives in opposites modes.
 
 ![Phenotypic traits](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits.webp)
 
-So I'm victim of a noble "card" game. A game with world wide coverage. In Europe dominated for the nobility and the church. Stay tuned upon what is the number 9 and how many people had died under this number. Look at our site, me and Saray will unveil all about:
+So I'm victim of a noble "card" game. A game with world wide coverage. In Europe dominated for the nobility and the church. Stay tuned upon what is the number 9 and how many people had died under this number. Look at my site I will unveil all about:
 
 - **Our plan 9.** [[4]](http://9-rg.com/)
 
