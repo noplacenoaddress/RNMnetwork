@@ -34,47 +34,7 @@ I'm sorry my dear, but your intelligence cannot be applied to induct to suicide 
 
 Thank you.
 
-### Who i was calling brother
 
-![Benelli Leonino](http://telecomlobby.com/Images/Benelli_Leoncino_500_Sport_2018_1000_0001.jpg)
-
-A motorcycle. In the "Illuminati" pseudo dictatorship the metaphor for this item is brother. This is a **Benelli Leoncino** [[11]](https://www.motorcyclenews.com/bike-reviews/benelli/leoncino/2018/). Small lion, not so small. Do you know **Lions club** [[12]](https://lionsclubs.org/en)? Yes he is. Do you know masonic  **Symbolic Grand Lodge of Spain** [[13]](https://es.wikipedia.org/wiki/Gran_Logia_Simb%C3%B3lica_Espa%C3%B1ola), yes he is. 
-
-*We were very good friends until 2016*. 
-
-But someone was planning my suicide for money. And he accepts, and unfortunately he has become rich and powerful. How? With the remote parimutuel betting system. This one, the one utilized in the synthetic telepathy network. 
-
-But not only.
-
-With the pyramidal system of the "Illuminati" they have changed his mind. Yes he is important but in this shit, a shit that have ruin Barcelona the city where we start to live many years ago.
-
-We use to dream in Spanish. And now in Barcelona people speak Italian. A foreign language, a language that have corrupted and deleted the freedom of this wonder city. Oblige Catalans womans to prostitute. Like it has passed to a girl that i'm in love to. 
-
-But i'm Italian, but i totally hate this shit. Totally. 
-
-### His blood brother
-
-![Hotel Splendido](http://telecomlobby.com/Images/Spledido.jpg)
-
-This luxury hotel is where he starts to work when he was nineteen. He, and his brother, didn't come from a high class family. They are from a lower middle class. Good people. Parking luxury cars was his job.
-
-He likes a lot luxury, and always attended higher class persons from rich Genoese neighborhoods and the same **riviera** [[14]](https://en.wikipedia.org/wiki/Italian_Riviera). He wants to arrive where those persons born. But he didn't study a lot and start to search to arrive doing doubtful jobs but not drug related. 
-
-He is a good boy in a certain way to say.
-
-He starts with the world of little frauds. Semi legals. In this Hotel he was knowing old rich woman and he does a sort of luxury **gigolo** [[15]](https://en.wikipedia.org/wiki/Male_prostitution).  Autonomous. But who put him in this ambient? I don't know.
-
-We've got the same age more or less and we start go together in dancing clubs. Like Imperiale in **Tirrenia** [[16]](https://en.wikipedia.org/wiki/Tirrenia), Tuscany. Not far from the **Darby Military Community** [[17]](https://en.wikipedia.org/wiki/Darby_Military_Community).
-
-![Imperiale club](http://telecomlobby.com/Images/imperialeclub.jpg)
-
-As you can see in this ensign the Italian world "**balneare**" [[18]](https://it.wiktionary.org/wiki/balneare), is apparently bad written as **balneaRF**. Radio Frequency. This is one of the most important club of techno progressive scene in the Italy of the nineties. Radio Frequency it's not an error. The crew behind this Italian scene has invented the first radio frequency Machine. One of the progenitor of those hell networks was this one. The one invented by the scene. This scene was destroyed by this funny stupid little bitch that is the owner of this north Italian crew. But it's only my two cents. Nothing more, nothing less. 
-
-Hes has got a sexual deviation. He has got a stable relationship but he is maniacal about doing sex with physical violence to obtain strong **sodomy** [[19]](https://en.wikipedia.org/wiki/Sodomy). Slavery. But he is suffering probably of the effect of **Cinderella** [[20]](https://en.wikipedia.org/wiki/Cinderella_effect). 
-
-*My little poor boy.* 
-
-In Barcelona he starts a cybercafe in Marina street in 2004 with others three fellows. This is the district where i met the girl that now is slaved by the radio frequency machine. And yes, he works for this structure. They call it "techno" or "Illuminati".
 
 ### The Catalan head, the butcher
 
