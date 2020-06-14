@@ -12,6 +12,10 @@ In the blue whale challenge people stalk the victim and induct him or her about 
 
 ![Phenotypic traits](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits.webp)
 
+So I'm victim of a noble "card" game. A game with world wide coverage. In Europe dominated for the nobility and the church. Stay tuned upon what is the number 9 and how many people had died under this number. Look at our site, me and Saray will unveil all about:
+
+- **Our plan 9.** [[4]](http://9-rg.com/)
+
 ### External links
 
 1. https://www.elespanol.com/espana/20181009/investigan-aparicion-munecos-esteladas-colgados-postes-valencia/344215850_0.html
@@ -19,5 +23,7 @@ In the blue whale challenge people stalk the victim and induct him or her about 
 2. https://en.wikipedia.org/wiki/Shooting_range
 
 3. https://en.wikipedia.org/wiki/Blue_Whale_Challenge
+
+4. http://9-rg.com/
 
    
