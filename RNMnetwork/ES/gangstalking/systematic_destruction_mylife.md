@@ -69,3 +69,4 @@ I'm totally in love with my ex girlfriend Saray and she is also a victim of this
 17. https://www.policia.es/
 18. https://en.wikipedia.org/wiki/Fingerprint
 19. https://en.wikipedia.org/wiki/Elbow
+20. http://telecomlobby.com/RNMnetwork/documents/THE%20NEXT%20TERRORIST%20ASSAULT_%20TETRA.pdf
