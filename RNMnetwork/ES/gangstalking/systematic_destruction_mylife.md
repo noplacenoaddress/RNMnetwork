@@ -40,7 +40,7 @@ But the worst think is that the women that i love was sold in forced prostitutio
 
 ![ti amo](http://telecomlobby.com/Images/tiamo.png)
 
-So I realize that I'm a pokemon, machine number 9, under slavery by a radio technology network the remote neural monitoring network that nowadays is based on a TETRA system modified. My history is exactly the same of what is explained here:
+So I realize that I'm under slavery by a radio technology network the remote neural monitoring network that nowadays is based on a TETRA system modified. My history is similar to what is explained here:
 
 - **The next terrorist assault, TETRA** [[20]](http://telecomlobby.com/RNMnetwork/documents/THE%20NEXT%20TERRORIST%20ASSAULT_%20TETRA.pdf).
 
@@ -69,3 +69,4 @@ I'm totally in love with my ex girlfriend Saray and she is also a victim of this
 17. https://www.policia.es/
 18. https://en.wikipedia.org/wiki/Fingerprint
 19. https://en.wikipedia.org/wiki/Elbow
+20. http://telecomlobby.com/RNMnetwork/documents/THE%20NEXT%20TERRORIST%20ASSAULT_%20TETRA.pdf
