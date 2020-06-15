@@ -19,7 +19,7 @@ With this extreme advance technological monster nobles have created alpha test c
 
 One of those two families, the one from Liguria, got military very strong roots. Very connected with **Italian Navy** [[4]](https://en.wikipedia.org/wiki/Italian_Navy). Francesca use this military technology to create slaves and use them in the black market. This is a scandal, an enormous scandal.
 
-
+> Please help Felipe VI king of Spain someone with military grade access to this network is torturing me and my ex girlfriend Saray. They are forcing her to report me for crimes that I have never committed behind there are two noble families and one is not even missing from your country. Help. 
 
 
 
