@@ -27,6 +27,12 @@ A joint venture between the University of Murcia and another from Waterford in I
 
 - **Cybersecurity in Brain-Computer Interfaces: State-of-the-art, opportunities, and future challenges** [[5]](http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf)
 
+This seems to be very interesting speaking about security of a device that theoretically have to be placed upon our head. This network use it in a remote way, this protocol is incredible but it's extremly dangerous because it can be hacked! An interesting point of view to find a little revenge with those criminals that put me under remote neural control in 2017.
+
+*"Uomo avvisato mezzo salvato"*
+
+
+
 ###  External links
 
 1. [https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface](https://en.wikipedia.org/wiki/Brain–computer_interface)
