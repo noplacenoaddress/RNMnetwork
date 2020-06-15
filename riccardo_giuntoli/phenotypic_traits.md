@@ -14,7 +14,11 @@ This is my right blue ice eye. It's curious my eyes color is similar to the one 
 
 *King Juan Carlos I. Help.*
 
+![Italian identity card](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits_ci.webp)
 
+
+
+As you can see also my Italian national identity document my eyes, occhi in Italian, are **azzurri** [[5]](https://www.youtube.com/watch?v=zC8QryPupKk). 
 
 ### External links
 
@@ -22,4 +26,5 @@ This is my right blue ice eye. It's curious my eyes color is similar to the one 
 2. http://telecomlobby.com/riccardo_giuntoli/DNA.htm
 3. https://en.wikipedia.org/wiki/Juan_Carlos_I_of_Spain
 4. https://en.wikipedia.org/wiki/House_of_Bourbon
+5. https://www.youtube.com/watch?v=zC8QryPupKk
 
