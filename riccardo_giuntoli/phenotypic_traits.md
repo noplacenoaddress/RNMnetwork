@@ -10,9 +10,11 @@ In my life I've been always a good man, always giving to others my friendship an
 
 I'm trying to understand why I'm persecuted by those families and after analyzing my **DNA** [[2]](http://telecomlobby.com/riccardo_giuntoli/DNA.htm) l will start with phenotypic traits.
 
-This is my right blue ice eye. It's curious my eyes color is similar to the one that has got the magnificent **Juan Carlos I of Spain** [[3]](https://en.wikipedia.org/wiki/Juan_Carlos_I_of_Spain). Some stupid noble is torturing me every day probably also because our similar color eyes. But obviously I'm not of this family the **House of Bourbon** [[4]](https://en.wikipedia.org/wiki/House_of_Bourbon). The strangest think is that I'm asking publicly for help to this big family because unfortunately in their Catalan border territory I was persecuted by fascist gangs in front of the cameras of the Spanish state. I preferred the public complaint because of the enormous gravity of what happened. So I allow myself to name you also, King Juan Carlos I.
+This is my right blue ice eye. It's curious my eyes color is similar to the one that has got the magnificent **Juan Carlos I of Spain** [[3]](https://en.wikipedia.org/wiki/Juan_Carlos_I_of_Spain). Some stupid noble is torturing me every day probably also because our similar color eyes. But obviously I'm not of this family the **House of Bourbon** [[4]](https://en.wikipedia.org/wiki/House_of_Bourbon). The strangest think is that I'm asking publicly for help to this big family because unfortunately in their Catalan border territory I was persecuted by fascist gangs in front of the cameras of the Spanish state. I preferred the public complaint because of the enormous gravity of what happened. So I allow myself to name you also:
 
-Help.
+*King Juan Carlos I. Help.*
+
+
 
 ### External links
 
