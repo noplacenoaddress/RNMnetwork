@@ -31,21 +31,7 @@ This seems to be very interesting speaking about security of a device that theor
 
 *"Uomo avvisato mezzo salvato"*
 
-### Catalan domestic intelligence DOMINT
 
-![DOMINT](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_domint.webp)
-
-DOMINT, searching it in google the first word that catch my attention is **ECHELON** [[6]](https://en.wikipedia.org/wiki/ECHELON). Someone speak about conspiracy, but no, this system exist and at my opinion every country got one and probably all of them got a galaxy center a site where an extract of the important one from every country is processed. So it's not a conspiracy. And I'm victim of. Why?
-
-Speaking about laws that are very important in this first step to try to go out from this hell network because I'm not a terrorist but a normal man I've found this important document from the European Parliament on the existence of a global system for the interception of private and commercial communications (ECHELON interception system) (2001/2098(INI)):
-
-- **Report** [[7]](http://telecomlobby.com/RNMnetwork/laws/european_parlament_echelon_investigation.pdf)
-
-Look at those grid antennas on the image above. They are exactly the same that I've photographed in the Collserola tower, the most important of Barcelona:
-
- ![Catalan ECHELON is real](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
-
-I was a wireless internet service provider one installation in this tower could be only by the state in the way of military forces or the most important provider in the State, Movistar. It could be also from a joint venture of those two big noble families. I really don't know, personal from the tower doesn't give me details about.
 
 ###  External links
 
