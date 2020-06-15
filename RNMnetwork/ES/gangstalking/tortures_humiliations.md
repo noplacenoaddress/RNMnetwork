@@ -66,7 +66,7 @@ Full stop.
 From June 2020 I start to log every type of torture that I received in radio:
 
 - **Sleep deprivation** [[10]](https://en.wikipedia.org/wiki/Sleep_deprivation) at 3:10 AM 12/06/2020.
-- Dream injection. sleep deprivation and electronic sexual violence at 3:20 AM 15/06/2020.
+- Dream injection, sleep deprivation and electronic sexual violence at 3:20 AM 15/06/2020 by MSS.
 
 ### External Links
 
