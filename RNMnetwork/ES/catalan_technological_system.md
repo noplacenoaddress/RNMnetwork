@@ -21,7 +21,7 @@ One of those two families, the one from Liguria, got military very strong roots.
 
 > Please help Felipe VI king of Spain someone with military grade access to this network is torturing me and my ex girlfriend Saray. They are forcing her to report me for crimes that I have never committed behind there are two noble families and one is not even from your country. Help. 
 
-
+What function does this wireless brain machine interface? It's like the Unix command interpreter, the shell. It's the layer between the victim or the client of the remote neural monitoring network and the machines. It's what use modulation by the radio and antennas that transmit it's command and interpret our brain neural activity, better saying read and write our five senses. This network it's an artificial interference to them, injecting data and reading our electrical activity. If someone, like me, is a victim is nothing more that a human guinea pig. If I could take access analyzing the radio spectrum and reversing the wireless brain machine interface protocol I will be a normal client of the network. It's a long way of study but the owners of the facility always disturb my nights with tortures so I couldn't be at my 100%. It's difficult.
 
 ###  External links
 
