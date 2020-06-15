@@ -16,13 +16,15 @@ Last mile normally is soak into official infrastructure. It's not a secret all t
 
 Who are target individuals? For example who are classified as terrorist, like **ETA** [[3]](https://eu.wikipedia.org/wiki/Euskadi_Ta_Askatasuna) in Spain, by governments was controlled by remote neural networks. But in the last ten years someone come to speculate over those networks forcing human clients to join this hell because of data selling to big tech companies, military facilities and audiovisual industry. Because of big masses manipulation. 
 
-There's also another big class of target individuals. People that come from illegal child traffic, assigned by the church, coming from big nobles families or dynasties, they are grown by families strictly connected with the Vatican. So Italy is a normal place where to find them because of the great power of the Vatican. In them life they are always utilized and next played like a game card. **I am one of them** 
+There's also another big class of target individuals. People that come from illegal child traffic, assigned by the church, coming from big nobles families or dynasties, they are grown by families strictly connected with the Vatican. So Italy is a normal place where to find them because of the great power of the Vatican. In them life they are always utilized and next played like a game card. **I am one of them**.
 
 I'm in active remote neural control from November 2017 and probably in passive from when I came to Spain. Ten years of passive and two of active with subliminal voice to skull service. I've lost all what I've done, but not my mental clearness. 
 
 This is only an horrible crime that they have done with my brain data and bet over my life.
 
 >  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So I'm doing it. Thank you great man and person. I'm searching for the woman that I'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
+
+
 
 # External links
 

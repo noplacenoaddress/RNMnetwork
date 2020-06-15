@@ -121,6 +121,22 @@ Start to do some clever considerations about it.
 - In Catalunya since 2006 is used by police, fire brigades, civil protection, ambulances, forest guards, water agency, gas company, road maintenance service and other public agencies. One example of network build with TETRA is **Xarxa rescat** [[37]](http://interior.gencat.cat/ca/el_departament/xarxa_rescat/). What could indicate this? That there is a lot of different networks and this could underline why there a lot of installations of this emergency system. But remember that channels aren't a lot and coverage in city is near eight kilometers from tower to TETRA client and near thirty kilometers in countryside. What else could indicate this? That for **every** TETRA installation in Catalunya it's absolutely true that a **public call** [[38]](http://cido.diba.cat/contractacio/8202466/servei-de-manteniment-dampliadors-de-cobertura-tetra-sistema-demergencies-mediques-sa-sem) is mandatory. *I've seen installations over private roofs*. This is not possible, it's a system masked behind a normal TETRA installation, it's something that use TETRA dipole antennas. Or if it is a scandal, that it's probably that is, it's a modified version of the official TETRA software mounted over official devices. If it is something hided behind official devices it means that in Spain, in 2020, the state has got access to what the citizens think. But I don't really know, perhaps it's only thats big noble families that use gangstalking to produce slaves and betting over them lives. 
 - The image above show a control protocol of TETRA radio system that is call **TETRA pulse** [[39]](http://mirror.telecomlobby.com/www.tetrawatch.net/tetra/pulse.php.html). It's in ELF and there is many professionals web page that connect TETRA with electronic tortures. How it is possible? I think that in reality the remote neural monitoring network utilize ELF emissions from others installations and via software inject data directly to our brain. It's an idea, but I'm not totally sure at 13 of June of 2020. Look at the installation over the private roof ahead, there is an array of TETRA dipole antennas, TETRA **yagi-uda** [[40]](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna) antennas, two 3GHz of motorola Wimax and another that probably inject SSTV protocol but I don't know at what frequencies.
 
+### Catalan domestic intelligence DOMINT
+
+![DOMINT](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_domint.webp)
+
+DOMINT, searching it in google the first word that catch my attention is **ECHELON** [[41]](https://en.wikipedia.org/wiki/ECHELON). Someone speak about conspiracy, but no, this system exist and at my opinion every country got one and probably all of them got a galaxy center a site where an extract of the important one from every country is processed. So it's not a conspiracy. And I'm victim of. Why?
+
+Speaking about laws that are very important in this first step to try to go out from this hell network because I'm not a terrorist but a normal man I've found this important document from the European Parliament on the existence of a global system for the interception of private and commercial communications (ECHELON interception system) (2001/2098(INI)):
+
+- **Report** [[42]](http://telecomlobby.com/RNMnetwork/laws/european_parlament_echelon_investigation.pdf)
+
+Look at those grid antennas on the image above. They are exactly the same that I've photographed in the Collserola tower, the most important of Barcelona:
+
+ ![Catalan ECHELON is real](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
+
+I was a wireless internet service provider one installation in this tower could be only by the state in the way of military forces or the most important provider in the State, Movistar. It could be also from a joint venture of those two big noble families. I really don't know, personal from the tower doesn't give me details about.
+
 ###  External links
 
 1. https://photos.app.goo.gl/18aa7etfexxi2Dr28
@@ -163,4 +179,6 @@ Start to do some clever considerations about it.
 38. http://cido.diba.cat/contractacio/8202466/servei-de-manteniment-dampliadors-de-cobertura-tetra-sistema-demergencies-mediques-sa-sem
 39. http://mirror.telecomlobby.com/www.tetrawatch.net/tetra/pulse.php.html
 40. [https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna](https://en.wikipedia.org/wiki/Yagi–Uda_antenna)
+41. https://en.wikipedia.org/wiki/ECHELON
+42. http://telecomlobby.com/RNMnetwork/laws/european_parlament_echelon_investigation.pdf
 
