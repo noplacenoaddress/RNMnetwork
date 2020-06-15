@@ -23,6 +23,16 @@ One of those two families, the one from Liguria, got military very strong roots.
 
 What function does this wireless brain machine interface? It's like the Unix command interpreter, the shell. It's the layer between the victim or the client of the remote neural monitoring network and the machines. It's what use modulation by the radio and antennas that transmit it's command and interpret our brain neural activity, better saying read and write our five senses. This network it's an artificial interference to them, injecting data and reading our electrical activity. If someone, like me, is a victim is nothing more that a human guinea pig. If I could take access analyzing the radio spectrum and reversing the wireless brain machine interface protocol I will be a normal client of the network. It's a long way of study but the owners of the facility always disturb my nights with tortures so I couldn't be at my 100%. It's difficult.
 
+A joint venture between the University of Murcia and another from Waterford in Ireland, write this interesting work about brain machine interfaces:
+
+- **Cybersecurity in Brain-Computer Interfaces: State-of-the-art, opportunities, and future challenges** [[5]](http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf)
+
+This seems to be very interesting speaking about security of a device that theoretically have to be placed upon our head. This network use it in a remote way, this protocol is incredible but it's extremly dangerous because it can be hacked! An interesting point of view to find a little revenge with those criminals that put me under remote neural control in 2017.
+
+*"Uomo avvisato mezzo salvato"*
+
+
+
 ###  External links
 
 1. [https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface](https://en.wikipedia.org/wiki/Brain–computer_interface)
@@ -32,5 +42,7 @@ What function does this wireless brain machine interface? It's like the Unix com
 3. http://telecomlobby.com/RNMnetwork/documents/Tahir.pdf
 
 4. https://en.wikipedia.org/wiki/Italian_Navy
+
+5. http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf
 
    
