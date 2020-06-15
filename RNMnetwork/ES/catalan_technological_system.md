@@ -27,9 +27,13 @@ A joint venture between the University of Murcia and another from Waterford in I
 
 - **Cybersecurity in Brain-Computer Interfaces: State-of-the-art, opportunities, and future challenges** [[5]](http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf)
 
-This seems to be very interesting speaking about security of a device that theoretically have to be placed upon our head. This network use it in a remote way, this protocol is incredible but it's extremly dangerous because it can be hacked! An interesting point of view to find a little revenge with those criminals that put me under remote neural control in 2017.
+This seems to be very interesting speaking about security of a device that theoretically have to be placed upon our head. This network use it in a remote way, this protocol is incredible but it's extremely dangerous because it can be hacked! An interesting point of view to find a little revenge with those criminals that put me under remote neural control in 2017.
 
 *"Uomo avvisato mezzo salvato"*
+
+### Catalan domestic intelligence DOMINT
+
+![DOMINT](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_domint.webp)
 
 
 
