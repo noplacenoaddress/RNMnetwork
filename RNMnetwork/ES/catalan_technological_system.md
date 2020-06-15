@@ -4,9 +4,9 @@
 
 The Catalan technological system binded by the infrastructure that I've describer in the past chapter is a wireless brain machine interface. A wireless **BMI** [[1]](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface).
 
-It's very common, and this will be a real scandal, that this high technology system is a surrogate of the military one utilized by Spain forces. In the case of a legal criminal trial what State and military attach in them defenses is that some hacker have breached into the security of the state. 
+It's very common, and this will be a real scandal, that this high technology system is a surrogate of the military one utilized by Spain forces. In the case of a legal criminal trial what State and military attach in them defenses is that some hacker could have forced the security of the state. 
 
-This absolutely false and in radio, voice to skull service, they always threaten me that they always threaten to blame me as I have been investigating this very serious abuse of citizens in Barcelona for more than three years. This is absurd, the technology utilized by those two noble families, and I don't want to publicly stress who are the military behind but it so simple, is very advanced.
+In radio, voice to skull service, the nobles families always threaten me to blame me, as I have been investigating this very serious abuse of citizens in Barcelona for more than three years. This is absurd, the technology utilized by those two noble families, and I don't want to publicly stress who are the military behind but it so simple, is very advanced.
 
  *I cannot do all of this with two SDR radio that doesn't transmit!*
 
@@ -19,7 +19,7 @@ With this extreme advance technological monster nobles have created alpha test c
 
 One of those two families, the one from Liguria, got military very strong roots. Very connected with **Italian Navy** [[4]](https://en.wikipedia.org/wiki/Italian_Navy). Francesca use this military technology to create slaves and use them in the black market. This is a scandal, an enormous scandal.
 
-> Please help Felipe VI king of Spain someone with military grade access to this network is torturing me and my ex girlfriend Saray. They are forcing her to report me for crimes that I have never committed behind there are two noble families and one is not even missing from your country. Help. 
+> Please help Felipe VI king of Spain someone with military grade access to this network is torturing me and my ex girlfriend Saray. They are forcing her to report me for crimes that I have never committed behind there are two noble families and one is not even from your country. Help. 
 
 
 
