@@ -41,7 +41,11 @@ Speaking about laws that are very important in this first step to try to go out 
 
 - **Report** [[7]](http://telecomlobby.com/RNMnetwork/laws/european_parlament_echelon_investigation.pdf)
 
-  
+Look at those grid antennas on the image above. They are exactly the same that I've photographed in the Collserola tower, the most important of Barcelona:
+
+ ![Catalan ECHELON is real](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
+
+I was a wireless internet service provider one installation in this tower could be only by the state in the way of military forces or the most important provider in the State, Movistar. It could be also from a joint venture of those two big noble families. I really don't know, personal from the tower doesn't give me details about.
 
 ###  External links
 
