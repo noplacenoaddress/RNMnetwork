@@ -37,10 +37,11 @@ This seems to be very interesting speaking about security of a device that theor
 
 DOMINT, searching it in google the first word that catch my attention is **ECHELON** [[6]](https://en.wikipedia.org/wiki/ECHELON). Someone speak about conspiracy, but no this system exist and at my opinion every country got one and probably all of them got a galaxy center a site where an extract of the important one from every country is processed. So it's not a conspiracy. And I'm victim of. Why?
 
-Speaking about laws that are very important in this first step to try to go out from this hell network because I'm not a terrorist but a normal man I've found this important document from the European Parliament: 
+Speaking about laws that are very important in this first step to try to go out from this hell network because I'm not a terrorist but a normal man I've found this important document from the European Parliament on the existence of a global system for the interception of private and commercial communications (ECHELON interception system) (2001/2098(INI)):
 
-- **Report on the existence of a global system for the interception of private and commercial communications (ECHELON interception system) (2001/2098(INI))** [[7]](http://telecomlobby.com/RNMnetwork/laws/european_parlament_echelon_investigation.pdf)
-- 
+- **Report** [[7]](http://telecomlobby.com/RNMnetwork/laws/european_parlament_echelon_investigation.pdf)
+
+  
 
 ###  External links
 
