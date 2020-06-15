@@ -137,6 +137,8 @@ Look at those grid antennas on the image above. They are exactly the same that I
 
 I was a wireless internet service provider one installation in this tower could be only by the state in the way of military forces or the most important provider in the State, Movistar. It could be also from a joint venture of those two big noble families. I really don't know, personal from the tower doesn't give me details about.
 
+*But why a lot of them pointed to the sky? Let me image it. Nothing good.*
+
 ###  External links
 
 1. https://photos.app.goo.gl/18aa7etfexxi2Dr28
