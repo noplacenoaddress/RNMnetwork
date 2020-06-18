@@ -28,6 +28,16 @@ Nothing special at all. The problem is that this person, that is in effect one c
 
 I don't receive nothing about the accident and i was handicapped for life. People bet over my life and do money with the retransmission of the operation. They say this in radio, Francesca admit that she was who had designed the accident. The worst think is that all the people that I know but also my parents was present in the remote viewing application and saw the accident. Only Massimo came rapidly to the hospital with a girl. 
 
+### Others cases of provoked accidents
+
+![Motorbike accident](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_accident.webp)
+
+Like I had a couple of friends of mine, one in special that is one of my best friends, suffered accidents in Catalunya. He is also an enormous victim of the Catalan remote neural monitoring network. From when he was young he was obliged to be a low class drug seller. To be operated, to operate, to sell. Remember that nobles use three or four meanings to only one word.
+
+But behind there is another business. All of this victims are humans guineas pigs, with ELF network criminals register body values under extreme situations of pains and stress. This is to sell data to military facilities that develop robotic. And another is the sold of the video, to pervert that got sexual excitations seeing blood. Also the operator of the neural application that register and transform brain waves into images is in a chain of degrade, seeing pain all the day means that is character is being changed. They loose love to others and got mental illness that destroy them minds, the last goal is to create a dead person that destroy life of others and to suicide. Always the same shit. 
+
+*Saray needs help.*  
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Yamaha_Corporation
