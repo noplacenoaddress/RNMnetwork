@@ -98,9 +98,9 @@ So this is a rapid analysis of the black and with market present in Catalunya a 
 
 ![Al Capone](http://telecomlobby.com/Images/capone.jpg)
 
-Speaking about Mafia, my dear Mafia fellows, do you remember how was enjailed mr Al Capone? For **tax evasion** [[16]](https://en.wikipedia.org/wiki/Tax_evasion).
+Speaking about Mafia, my dear Mafia fellows, do you remember how was jailed mr Al Capone? For **tax evasion** [[16]](https://en.wikipedia.org/wiki/Tax_evasion).
 
-### The Illuminati and techno fraud
+### The Illuminati, a Catalan fraud based on slavery and suicide
 
 We've analyzed the radio ship in Barcelona. And we've understand how the enormous Illuminati fraud has born here. In the Catalan capital. But who is beyond this enormous fraud? Remember that those are only my suggestions, and I've got no real evidences. But for me it's clear and a serious police department could really demonstrate it. For those fraud that could be classified as nobles games in the noble network, the remote neural control facility, have died a lot of persons and many mores have lost the brain lucidity. Many, and many friends of mine have change them behavior and also others have die. Rest in peace my friends I want to demonstrate why you have lost your life. Why all the others have observed your suicide in streaming directly upon them heads without saying nothing outside this hell network. Why no one had helped you, my friends. Why all have said that this network doesn't exist. This network exist and it's only technology it's not another world. It's technology and many chiefs and theorist are our parents or our priest or worst archbishop and deans. 
 
@@ -108,7 +108,14 @@ This is the true. They have try to kill us all with those frauds, with betting a
 
 > *Call me sweetie, I know that for you it's another world but I send to you a lot of email. This is true and this is the real world my love. Don't be afraid no one will touch you in our house. Because my house is yours.*
 
+Who does it works? Is a fraud from the cast of power in Europe. It's a card game and the card of the game are humans. Those target individuals are played in various injected applications through the various brain areas of the victims and produce enormous amount of shadow economy.
 
+Who are the slavers, that are entities engaged in slavery?
+
+![Slave ship](http://telecomlobby.com/Images/remote_neural_monitoring_network_slave_ship.webp)
+
+- Catholic church when the child born. As they have got a lot of insiders on state structures dedicated to dedicated to following the birth phase of a human being, they are present in hospital, **pediatrics** [[18]](https://en.wikipedia.org/wiki/Pediatrics) branch. They are involved without a doubt in the exchange of cradles. It is a phase of the trafficking of children, in Europe more dedicated to moving bastard sons of nobility, unwanted children and abandonments for part of the poor.  Those babies are target individuals at born phase. They are like coin in different nobility "games" executed depending of the territory, in Catalunya the game is inspired to the coat of arm of the kingdom of Aragon that end in 1707, as you can see there is number seven present, this number in masonry means "a game". And I'm victim of this ancient game that is a dangerous labyrinth. A labyrinth for the mind, constructed by a genius but pervert mind. 
+- 
 
 ###  External links
 
@@ -128,4 +135,6 @@ This is the true. They have try to kill us all with those frauds, with betting a
 14. https://en.wikipedia.org/wiki/Andorra
 15. https://en.wikipedia.org/wiki/Tax_investigation
 16. https://en.wikipedia.org/wiki/Tax_evasion
+17. https://en.wikipedia.org/wiki/Slavery
+18. https://en.wikipedia.org/wiki/Pediatrics
 
