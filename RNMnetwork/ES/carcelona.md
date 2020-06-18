@@ -115,7 +115,6 @@ Who are the slavers, that are entities engaged in slavery?
 ![Slave ship](http://telecomlobby.com/Images/remote_neural_monitoring_network_slave_ship.webp)
 
 - Catholic church when the child born. As they have got a lot of insiders on state structures dedicated to dedicated to following the birth phase of a human being, they are present in hospital, **pediatrics** [[18]](https://en.wikipedia.org/wiki/Pediatrics) branch. They are involved without a doubt in the exchange of cradles. It is a phase of the trafficking of children, in Europe more dedicated to moving bastard sons of nobility, unwanted children and abandonments for part of the poor.  Those babies are target individuals at born phase. They are like coin in different nobility "games" executed depending of the territory, in Catalunya the game is inspired to the coat of arm of the kingdom of Aragon that end in 1707, as you can see there is number seven present, this number in masonry means "a game". And I'm victim of this ancient game that is a dangerous labyrinth. A labyrinth for the mind, constructed by a genius but pervert mind. 
-- 
 
 ###  External links
 
