@@ -63,6 +63,8 @@ Full stop.
 
 ![Logbook](http://telecomlobby.com/Images/remote_neural_monitoring_network_myexperience_logbook.webp)
 
+I'm under continuous electronic tortures from November 2017, electronic tortures in ELF frequencies that are interferences in my five senses.  
+
 From June 2020 I start to log every type of torture that I received in radio:
 
 - **Sleep deprivation** [[10]](https://en.wikipedia.org/wiki/Sleep_deprivation) at 3:10 AM 12/06/2020.
