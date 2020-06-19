@@ -20,6 +20,12 @@ This is my right blue ice eye. It's curious my eyes color is similar to the one 
 
 As you can see also my Italian national identity document my eyes, occhi in Italian, are **azzurri** [[5]](https://www.youtube.com/watch?v=zC8QryPupKk). 
 
+#### Natural flattened nose
+
+![Natural flattened nose](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits_nose.webp)
+
+This is a detail of my nose. The main bone is visually squeezed. It could be totally natural or well when I was born someone could have broken it specifically to change my connotations. This last option is good in case I'm victim of child trafficking and I'm a bastard born from a sexual encounter between a nobleman and a woman of the people, or the opposite. And this will explain why I'm a target individual in the remote neural monitoring network.
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Sense
