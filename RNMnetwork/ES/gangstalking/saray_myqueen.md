@@ -110,6 +110,14 @@ This woman is a target individual, from the state and the church. The only expla
 
 > *I love you for ever, sweetie. Just call me and we'll fight together for our freedom. I promise you. For ever.*
 
+### Moon and Sun
+
+![Moon and Sun](http://telecomlobby.com/Images/remote_neural_monitoring_network_gangstalking_sun.webp)
+
+In the remote parimutuel betting neural application a king call you moon, so they bet if I follow the moon phases in Barcelona for two years or more. Another king, me, call you, Saray, my sun flower.
+
+*I just love you.*
+
 # External links 
 
 1. https://en.wikipedia.org/wiki/Sedative
