@@ -70,7 +70,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - **Sleep deprivation** [[10]](https://en.wikipedia.org/wiki/Sleep_deprivation) at 3:10 AM 12/06/2020.
 - Dream injection, sleep deprivation and electronic sexual violence at 3:20 AM 15/06/2020.
 - With an advanced military technology all my body is surrounded by wireless direct current,  liquid inside my stomach are moving and I suffered of **diarrhea** [[11]](https://en.wikipedia.org/wiki/Diarrhea) attaches from 04:00 to 06:30 AM 15/06/2020.
-- Dream injection, sleep deprivation and threats in the night of 19/06/2020.
+- Dream injection, sleep deprivation and threats in the night of 19/06/2020. Dream injection is a streaming of a video in our cortex with a lot of neural excitation, this is something absolutely dangerous for a brain cancer.  
 
 ### External Links
 
