@@ -194,6 +194,16 @@ Nobles always mix the play cards, so for a layer more of security it's normal th
 
 *I write to preserve my life, please help monarchy of Spain and Italian Republic.*
 
+### Video collection that prove existence of electronic harassment
+
+![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
+
+All of those videos are originals obtained by a normal webcam with low resolution option and some times with a blue led light that help to sand out the evidences of holograms of person doing stalk to me and torture me with electronic harassment and sexual harassment. 
+
+I'm violated in this network from November 2017 by two big nobles families the same that I'm speaking about in this **chapter** [[38]](http://telecomlobby.com/RNMnetwork/technomafia/noble_houses.htm). 
+
+
+
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
@@ -233,4 +243,5 @@ Nobles always mix the play cards, so for a layer more of security it's normal th
 35. https://en.wikipedia.org/wiki/List_of_banks_in_San_Marino
 36. https://www.europol.europa.eu/
 37. http://www.gdf.gov.it/
+38. http://telecomlobby.com/RNMnetwork/technomafia/noble_houses.htm
 
