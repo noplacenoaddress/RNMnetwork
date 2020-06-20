@@ -194,6 +194,14 @@ Nobles always mix the play cards, so for a layer more of security it's normal th
 
 *I write to preserve my life, please help monarchy of Spain and Italian Republic.*
 
+### Saray evidences
+
+![Skype](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences_saray.webp)
+
+Those are two missed calls of the ancient number of my ex girlfriend Saray that I've got received in my Skype account one the 13 of December 2018 and the second the 28 of June of 2019. The first time that I've got listen to her in the remote neural monitoring network in subliminal messages was on July 2018. For one year I've search for her in all the city walking as I've write in my chapter dedicated to her. She is a victim of this mafia, and she needs help to escape from it. She is a mom, and a wonderful woman. They utilize her and they've got to be put in jail.
+
+I'll do it for you sweetie, I promise.
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
