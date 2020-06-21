@@ -1,6 +1,6 @@
 # An articulated plot
 
-![HRMS](http://telecomlobby.com/Images/8088a9bb0a7987f38ac6b54aca031f24.png)
+![A labyrinth](http://telecomlobby.com/Images/remote_neural_monitoring_network_gangstalking_fauno.webp)
 
 What I've lived from November 2017 is without any doubt the systematically destruction of my life. It was certainly designed by an engineer, and my father is. But here there is also an engineer, theoretically a good friend, who also works for the Italian navy. The French noble family who currently lives in Genoa is absolutely closely connected with this part of the Italian army having in his grandfather a hero of the Second World War, although certainly a fascist.
 
