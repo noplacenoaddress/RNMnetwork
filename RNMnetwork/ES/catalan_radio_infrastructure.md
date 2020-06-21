@@ -1,4 +1,4 @@
-# The Catalan infrastructure
+# The Catalan radio infrastructure
 
 ![The Spanish neural network](http://telecomlobby.com/Images/patchwork_spanish_neural_network.jpg)
 
