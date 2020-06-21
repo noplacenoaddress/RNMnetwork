@@ -1,4 +1,4 @@
-# Phenotypic traits
+# Phenotypic traits of Riccardo Giuntoli
 
 #### Blue ice eyes
 
