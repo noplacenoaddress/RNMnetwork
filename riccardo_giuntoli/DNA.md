@@ -1,4 +1,4 @@
-# DNA
+# DNA of Riccardo Giuntoli
 
 ![Riccardo Giuntoli](http://telecomlobby.com/Images/92094777_10222816033691977_6240920452722589696_o.jpg)
 
@@ -14,7 +14,7 @@ Now that I'm fighting for my rights in the neural network I've learned a think, 
 
 This is so important and remember that nobles use the art of deception something that derived from the Catholic allegoric figure of the **forbidden fruit** [[7]](https://en.wikipedia.org/wiki/Forbidden_fruit). Church is totally implied in the gang stalking business. The technological B-side. The digital mafia. Almost all is connected with bloodlines. 
 
-### 23andMe
+### 23andMe results about Riccardo Giuntoli DNA
 
 ![23andMe](http://telecomlobby.com/Images/23admMe.png)
 
@@ -57,7 +57,7 @@ You can download all the results obtained by the 23andMe genealogical DNA test a
 
 - **genome Riccardo Giuntoli 23andMe** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
 
-### MyHeritage
+### MyHeritage results about Riccardo Giuntoli DNA
 
 ![Ethnic groups](http://telecomlobby.com/Images/20200427_132224.jpg)
 
