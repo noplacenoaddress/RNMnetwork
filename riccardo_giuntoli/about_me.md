@@ -1,4 +1,4 @@
-# About me, Riccardo Giuntoli, a good man.
+# Riccardo Giuntoli, a good man.
 
 ![Riccardo Giuntoli](http://telecomlobby.com/Images/riccardo_giuntoli_about_me.webp)
 
