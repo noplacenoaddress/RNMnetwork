@@ -1,4 +1,4 @@
-# Tortures and humiliations
+# Tortures, humiliations, electronic harassment.
 
 ![Abu Ghraib](http://telecomlobby.com/Images/abughraib.jpeg)
 
@@ -59,7 +59,7 @@ The machine is a crime. Is a monster. Is what is changing our Europe. And you ha
 
 Full stop.  
 
-### Logbook of torture to which I am subjected
+### Logbook of tortures which Riccardo Giuntoli is subjected
 
 ![Logbook](http://telecomlobby.com/Images/remote_neural_monitoring_network_myexperience_logbook.webp)
 
@@ -72,6 +72,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - With an advanced military technology all my body is surrounded by wireless direct current,  liquid inside my stomach are moving and I suffered of **diarrhea** [[11]](https://en.wikipedia.org/wiki/Diarrhea) attaches from 04:00 to 06:30 AM 15/06/2020.
 - Dream injection, sleep deprivation and threats in the night of 19/06/2020. Dream injection is a streaming of a video in our cortex with a lot of neural excitation, this is something absolutely dangerous for a brain cancer.  
 - Extreme pain in the auditive system with blood spill after a first sleep. Dream injection also 20/06/2020. Extreme neural excitation on the frontal lobe.
+- As soon as I went to bed they make me sick and they don't let me sleep 21/06/2020.
 
 ### External Links
 
