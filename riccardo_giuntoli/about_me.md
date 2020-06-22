@@ -8,7 +8,7 @@
 
 こんにちは賢い人、春夏秋冬、そして再び春。 スペインから抱擁します。 ありがとう。
 
-Born in Genoa on March 31, 1981 at 19:13. My mother made me Catholic but as a teenager I have chosen to be an atheist and a political passion with a clear left matrix. I love people, technology, nature and telecommunications.
+Riccardo Giuntoli was born in Genoa on March 31, 1981 at 19:13. My mother made me Catholic but as a teenager I have chosen to be an atheist and a political passion with a clear left matrix. I love people, technology, nature and telecommunications.
 
 From good family culture, they have taken care to teach me curiosity for this reason I consider myself able to sit at any discussion table. Deep hatred of violence in all its forms, both physical and psychological.
 
@@ -20,13 +20,13 @@ Of a career path always distinguished for being independent both in Genoa and in
 
 ### Riccardo Giuntoli runs BSD and love Unix.
 
-My first PC was a **Pentium II** [[1]](https://en.wikipedia.org/wiki/Pentium_II) and my father bought it because I always use to open his office laptop connected with an embedded **56k modem** [[2]](https://en.wikipedia.org/wiki/Modem) to the Internet. I was a curious adolescent with radioham background, **CB** [[3]](https://en.wikipedia.org/wiki/Citizens_band_radio) and **SSB** [[4]](https://en.wikipedia.org/wiki/Single-sideband_modulation). Cycling to the top of a mountain with a motorbike battery, a discone like antenna and a **President Jackson** [[5]](https://president-electronics.com/RadioCB/AM-FM-BLU/JACKSON-II-ASC-Classic). Connecting to Russia and China and using an invented ID. 1 **Alfa Tango** [[6]](https://www.alfatango.org/) 13 01. 1AT1301.
+The first PC of Riccardo Giuntoli was a **Pentium II** [[1]](https://en.wikipedia.org/wiki/Pentium_II) and my father bought it because I always use to open his office laptop connected with an embedded **56k modem** [[2]](https://en.wikipedia.org/wiki/Modem) to the Internet. I was a curious adolescent with radioham background, **CB** [[3]](https://en.wikipedia.org/wiki/Citizens_band_radio) and **SSB** [[4]](https://en.wikipedia.org/wiki/Single-sideband_modulation). Cycling to the top of a mountain with a motorbike battery, a discone like antenna and a **President Jackson** [[5]](https://president-electronics.com/RadioCB/AM-FM-BLU/JACKSON-II-ASC-Classic). Connecting to Russia and China and using an invented ID. 1 **Alfa Tango** [[6]](https://www.alfatango.org/) 13 01. 1AT1301.
 
 A friend of mine, Mauro, which father is an hardware hacker, in his house starts to let me see his oscilloscope and working table with various **Pentium processors** [[7]](https://en.wikipedia.org/wiki/List_of_Intel_Pentium_microprocessors) and various **ISA** [[8]](https://en.wikipedia.org/wiki/Industry_Standard_Architecture) boards. I just started dreaming about information technology science. Mauro was a wannabe hacker. And I don’t know nothing about because of my ignorance and he was jealous about his secret. So my father accept to buy me a desktop system from **Intel** [[9]](https://en.wikipedia.org/wiki/Intel), he was very restrictive with his son buy me something was not at the order of the day. I remember the **USRobotics** [[10]](https://en.wikipedia.org/wiki/USRobotics). And his **registered jack** [[11]](https://en.wikipedia.org/wiki/Registered_jack). I remember the sound of this device connecting to the network of networks, a slow Internet full of incredible content for a curious mind. The mine.
 
 *A beautiful mind*.
 
-![Primero de mayo CNT](http://telecomlobby.com/Images/queninguquedienrere.webp)
+![Riccardo Giuntoli - CNT](http://telecomlobby.com/Images/queninguquedienrere.webp)
 
 The operating system was a **Windows 98** [[12]](https://en.wikipedia.org/wiki/Windows_98) full of bugs. Mauro hack my desktop in a couple of weeks with a **MS-DOS** [[13]](https://en.wikipedia.org/wiki/MS-DOS) trick in the classic **AUTOEXEC.BAT** [[14]](https://en.wikipedia.org/wiki/AUTOEXEC.BAT) script. So I start to hack. At that time, more then twenty years ago, I use to play. I start gaming, **IRCNet** [[15]](https://en.wikipedia.org/wiki/IRCnet), **takeover** [[16]](https://en.wikipedia.org/wiki/IRC_takeover), **Stacheldraht** [[17]](https://en.wikipedia.org/wiki/Stacheldraht), **Eggdrop** [[18]](https://en.wikipedia.org/wiki/Eggdrop), **BNC** [[19]](https://en.wikipedia.org/wiki/BNC_(software)), **Shell** [[20]](https://en.wikipedia.org/wiki/Shell_(computing)), **TESO team** [[21]](https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)), **Smurf** [[22]](https://en.wikipedia.org/wiki/Smurf_attack) and so on. This is how I start to play with Unix, only illegal hacking in the ninety. 
 
