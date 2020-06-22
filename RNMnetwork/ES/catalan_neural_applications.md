@@ -4,7 +4,7 @@ What is a neural application? It's a multicast or dedicated radio stream injecte
 
 It's an hidden but not unknown world of pains.
 
-#### Monopoly, one game where nobles got a fee from houses of sell
+#### Monopoly neural application.
 
 ![Monopoly](http://telecomlobby.com/Images/01-This-Is-What-the-First-Ever-Monopoly-Game-Looked-Like-courtesy-Thomas-E-Forsyth.jpg)
 
