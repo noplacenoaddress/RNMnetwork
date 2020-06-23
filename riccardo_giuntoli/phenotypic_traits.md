@@ -26,6 +26,14 @@ As you can see also my Italian national identity document my eyes, occhi in Ital
 
 This is a detail of my nose. The main bone is visually squeezed. It could be totally natural or well when I was born someone could have broken it specifically to change my connotations. This last option is good in case I'm victim of child trafficking and I'm a bastard born from a sexual encounter between a nobleman and a woman of the people, or the opposite. And this will explain why I'm a target individual in the remote neural monitoring network.
 
+#### Baldness due to neuronal control
+
+![Baldness due to neural control](http://telecomlobby.com/Images/riccardo_giuntoli_baldness.webp)
+
+As you can appreciate the neural control has provoked in my head an irregular baldness clearly due to electronic neural control.
+
+An irrefutable evidence in a trial for crimes against humanity.
+
 #### A present for you 
 
 ![Banana](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits_banana.webp)
