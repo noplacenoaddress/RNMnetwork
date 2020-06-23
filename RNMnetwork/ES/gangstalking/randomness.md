@@ -1,5 +1,7 @@
 # Randomness 
 
+I don't remember nothing about my first four years of life. Nothing. Who am I?
+
 In my life a some times someone have tried to kill me. And until now I don't understand why and I didn't start to investigate. But now I know and now I'm doing it.
 
 All is about the remote neural monitoring network. But not the one build in Barcelona to do a "game", that is not a game is a pseudo dictatorship, the one from the governments and military forces. But I don't know exactly why I've got to die. And who want that I've to die. 
