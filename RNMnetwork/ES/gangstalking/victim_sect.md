@@ -2,7 +2,7 @@
 
 ![A sect suicide](http://telecomlobby.com/Images/remote_neural_monitoring_network_gangstalking_ss.webp)
 
-
+It has as final goal the creation of an army of stalkers that do brain washing to new victims, low class drug sellers and obligated prostitute. It makes suicide a market. It is strictly connected to high tech companies that develop upon unconscious human guinea pigs, victims of baggers. It's up and running just now in Catalunya. It's an international scandal. But it is also active in Italy. Behind two big nobles families, strictly connected to black market and shadow economy. 
 
 ### External Links
 
