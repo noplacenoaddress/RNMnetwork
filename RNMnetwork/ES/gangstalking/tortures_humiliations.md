@@ -73,6 +73,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - Dream injection, sleep deprivation and threats in the night of 19/06/2020. Dream injection is a streaming of a video in our cortex with a lot of neural excitation, this is something absolutely dangerous for a brain cancer.  
 - Extreme pain in the auditive system with blood spill after a first sleep. Dream injection also 20/06/2020. Extreme neural excitation on the frontal lobe.
 - As soon as I went to bed they make me sick and they don't let me sleep 21/06/2020.
+- Before sleep direct current applied directly on the **eardrum** [[12]](https://en.wikipedia.org/wiki/Eardrum) of the right ear and at 4:14 very high v2k messages and dream injection. 25/06/2020
 
 ### External Links
 
@@ -87,3 +88,4 @@ From June 2020 I start to log every type of torture that I received in radio:
 9. https://en.wikipedia.org/wiki/Generalitat_de_Catalunya
 10. https://en.wikipedia.org/wiki/Sleep_deprivation
 11. https://en.wikipedia.org/wiki/Diarrhea
+12. https://en.wikipedia.org/wiki/Eardrum
