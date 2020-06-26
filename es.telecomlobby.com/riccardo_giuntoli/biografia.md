@@ -6,8 +6,6 @@
 
 ### Biografía de Riccardo Giuntoli.
 
-こんにちは賢い人、春夏秋冬、そして再び春。 スペインから抱擁します。 ありがとう。
-
 Riccardo Giuntoli ha nacido en Genova el 31 de Marzo 1981 a las 19 y 13 horas. Mi madre me hizo Católico pero desde que fui un adolescente he elegido ser un ateo con pasión política claramente de izquierdas. Amo a las personas, la tecnología, la natura y a las telecomunicaciones.
 
 Nacido en una familia de optima cultura, han elegido enseñarme al curiosidad por esto me considero capaz de sentarme en cualquier mesa de debate. Odio radical de cualquier forma de violencia tanto psicológica cuanto física. 
