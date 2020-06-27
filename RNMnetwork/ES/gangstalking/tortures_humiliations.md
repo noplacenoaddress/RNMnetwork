@@ -77,6 +77,12 @@ From June 2020 I start to log every type of torture that I received in radio:
 - Electronic sexual violence at 5:26 25/06/2020.
 - Sleep deprivation and extreme sexual violence with an horse at 3:00 of 27/06/2020.
 
+### Videos about electronic violations
+
+On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
+
+
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Iraq_War
@@ -91,3 +97,4 @@ From June 2020 I start to log every type of torture that I received in radio:
 10. https://en.wikipedia.org/wiki/Sleep_deprivation
 11. https://en.wikipedia.org/wiki/Diarrhea
 12. https://en.wikipedia.org/wiki/Eardrum
+13. http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm
