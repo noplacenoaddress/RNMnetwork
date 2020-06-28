@@ -76,6 +76,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - Before sleep direct current applied directly on the **eardrum** [[12]](https://en.wikipedia.org/wiki/Eardrum) of the right ear and at 4:14 very high v2k messages and dream injection. 25/06/2020.
 - Electronic sexual violence at 5:26 25/06/2020.
 - Sleep deprivation and extreme sexual violence with an horse at 3:00 of 27/06/2020.
+- Sleep deprivation and dream injection all night long of 28/06/2020.
 
 ### Videos about electronic violations
 
