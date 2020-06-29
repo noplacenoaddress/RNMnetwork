@@ -27,7 +27,9 @@ This sect obliges victims to work in the shadow economy with electronic harassme
 - Prostitution.
 - Child trafficking from others noble houses. Bastards intended to be played. "Games cards", like me.
 
-This sect is a department of those two noble houses and is the digital mafia of Barcelona. An hidden but not unknown monster. 
+This sect is a department of those two noble houses and is the digital mafia of Barcelona. An hidden but not unknown monster.
+
+I speak about military because the technological infrastructure last mile is extreme low frequencies and the wireless brain machine interface, technology used by military forces. What it means? That those two families got without any doubt some component that have done a military career and they use them access to this military structure, that in Barcelona is mounted in the Collserola tower, to create all the system used in the target individual program. This slavery program pertains above to a network of networks that ends in data centers where high technology is develop and human kind is controlled, like ECHELON.  
 
 
 
