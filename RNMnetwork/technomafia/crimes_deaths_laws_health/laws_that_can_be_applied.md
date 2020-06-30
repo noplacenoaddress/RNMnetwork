@@ -213,7 +213,63 @@ Slavery is a crime persecuted by international laws. Slavery
 
 From an **article** [[83]](https://iapp.org/news/a/spains-new-data-protection-law-more-than-just-gdpr-implementation/) about the Spanish laws that have included the European normative GDPR. Remember carefully that for the military wireless brain computer interface network in ELF radio frequency all, and absolutely all, Catalan citizens are under totally control. Those two big noble families read the mind of all the citizens with this technology, and have got corrupted military personal that operate in the military forces.
 
-Europe have to know that nobility is destroying with the Catholic Church support our democracy. Remember that behind all of sectarian and masonic beliefs there is the Catholic Church. Rembember tha crowns are only puppets of the Church. Crown nowadays are only institutions, the only one that could be considered as strong is the one of Great Britain because they have got their own Church. The **Church of England** [[84]](https://en.wikipedia.org/wiki/Church_of_England). The problem of Europe, the real center of all our problems is the Rome Church. Nothing more. They have invented all about mental illness. All about drug abuse. All about womans abuses. They are Satan in earth but Satan doesn't exist. Satan is the man. Because of this I'm an atheist of left side political vision. Those sons of bitches play with human kind using the concept about the Marconi radio. The think to be important and use the grown ignorance with sexual violence, mass media and Internet manipulation, orgies and sectarian ideas. They create fascism and populism. They are ridicouls.
+Dec. 6, 2018, the Official Gazette of Spain published the Organic Law 3/2018, of December 5, on the Protection of Personal Data and the Guarantee of Digital Rights. The date of the publication of the law is significant as the Constitution Day marks the anniversary of a referendum held in Spain on Dec. 6, 1978.
+
+There are five key issues: The object of the law, data subject rights, the data protection officer, the processing of personal data by political parties, and digital rights in the labor field.
+
+> #### **Object of the law, derogations and enter into force**
+>
+> According to Article 1, this law has a double object. First, it adapts the Spanish legal system to the General Data Protection Regulation and further provides specifications or restrictions of its rules as explained in the GDPR.
+>
+> In this sense, the law states that the fundamental right to data protection of natural persons, under Article 18.4 of the Spanish Constitution, shall be exercised under the GDPR and this law.
+>
+> Second, the law guarantees the digital rights of citizens and employees, beyond the GDPR. For example, the law includes provisions on the right to internet access, the right to digital education, the right to correction on the internet and the right to digital disconnection in the workplace.
+>
+> The law entered into force Dec. 7, 2018, the day following its publication on the Official Gazette.
+>
+> The Organic Law 15/1999, of December 13, on the Protection of Personal Data is repealed, except with regard to several articles related to the processing of personal data in the police and judicial sectors until a law adopts the Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offenses or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA.
+>
+> As well, the Royal Decree-Law 5/2018, of July 27, on urgent measures for the adaptation of Spanish Law to European Union regulations on data protection is repealed, along with any regulations that contradict, oppose or are incompatible with the GDPR and this law.
+>
+> **Data subject's rights specifications**
+>
+> The law includes some specifications with regard to data subjects' rights.
+>
+> Article 12.1 of the law states that a data subject's rights may be exercised personally or through a legal or voluntary representative. And Article 12.3 of the law provides that the processor may attend, on behalf of the controller, any request of exercise of a data subject's rights when provided in the contract or other legal instrument that binds them.
+>
+> 
+>
+> With regard to the right of access and considering Article 12(5) of the GDPR, the law specifies that requests from a data subject are excessive, because of their repetitive character, when submitted “more than once during a period of six months, unless there is a legitimate reason.”
+>
+> And Article 15.2 of the law specifies as well that “When the suppression derives from the exercise of the right of opposition in accordance with Article 21(2) of Regulation (EU) 2016/679, the controller may keep the necessary identification data of the affected person in order to prevent future processing for direct marketing purposes.”
+>
+> Finally, Article 12.6 of the law provides that “the holders of parental authority may exercise on behalf of minors the rights of access, rectification, suppression, opposition or any other rights that may apply in the context of this organic law.” The mention of “any other rights” includes digital rights guaranteed in the law, even beyond data protection.
+>
+> **DPO: more functions and a chilling effect**
+>
+> Following Article 37(4) of the GDPR, the law specifies and clarifies other cases than provided in paragraph 1, in which the designation of a DPO is mandatory. Among them are: bar associations and their general counsels; public and private universities; information society service providers when developing large-scale profiles of service users; and the operators that develop game activity through electronic, computer, telematic and interactive channels, in accordance with the game, or sports federations when processing minors´ personal data. Therefore, the law includes cases that require the designation of a DPO based on the data protection risk, considering factors such as a large-scale processing, profiling or the processing of minors' personal data.
+>
+> The law also includes an additional function for the DPO. This additional function is that the DPO may intervene in case of a complaint against a controller or processor with a supervisory authority. In this case, before submitting the complaint to the supervisory authority, the DPO, when they have been designated, may intervene and communicate to the complainant the organization's resolution within two months of the receipt of such complaint.
+>
+> The Spanish data protection authority, or the corresponding autonomic authority (in Catalonia, Vasque Country or Andalusia), as well, may forward the complaint to the DPO before attending to it. The DPO shall have a month to reply to the complaint.
+>
+> Finally, the law provides that when the DPO is a natural person within the controller or processor, as stated in Article 38.3 of the GDPR “shall not be dismissed or penalized by the controller or the processor for performing his tasks” but adds in its Article 36(2) that “unless he commits fraud or gross negligence in his exercise.” This last provision in the Spanish legislation on data protection could lead to ligation.
+>
+> #### **The controversy: Processing of personal data by political parties**
+>
+> The first days of the law have been marked by a controversy. During the parliamentary procedure, a final disposition to amend the organic law that applies to electoral regime was introduced. According to the amended regulation and among other issues, political parties, coalitions and electoral groups may use personal data obtained from web pages and other sources of public access to carry out political activities during the electoral period.
+>
+> It raised some concerns as it was understood as the possibility for political parties to process personal data for profiling purposes based on individuals´ internet browsing history and their activity in social networks.
+>
+> The Spanish DPA, Dec. 19, 2018, released a report to explain that political parties are not allowed to develop profiles based on political opinions. In particular, the Spanish DPA concludes that political parties, coalitions and electoral groups only may process political opinions when they have been freely expressed by people in the exercise of their right to freedom of expression and their ideological freedom. Also, the Spanish DPA considers that the regulation amended does not cover the application of big data or artificial intelligence technologies to infer a person's political ideology, since this would imply a violation of their fundamental right not to declare their ideology.
+>
+> Therefore, after the Spanish DPA's report, that replies to a consult submitted by the own Director of the authority, the controversy has become without meaning.
+>
+> #### **Digital rights in the labor field**
+>
+> Beyond data protection, the bill introduced into the Congress was amended to include a chapter on the guarantee of digital rights. Several articles refer to the protection of privacy in the labor field, such as the right to privacy and use of digital devices in the workplace (Article 87), the right to digital disconnection in the workplace (Article 87), the right to privacy against the use of video surveillance devices and sound recording in the workplace (Article 89), the right of privacy against the use of geolocation systems in the workplace (Article 90) or the digital rights in collective bargaining (Article 91).
+>
+> In any case, privacy must be considered when adopting any measure in the workplace. For example, Article 86.2 states that the employer may have access to the content inferred from the use of digital devices provided to employees only to control compliance with labor or statutory obligations and ensure integrity of these devices. And the right to digital disconnection seeks to guarantee, outside of legal or conventionally established work time, respect of employee's rest time, permits and vacations, as well as their private and family life.
 
 
 
