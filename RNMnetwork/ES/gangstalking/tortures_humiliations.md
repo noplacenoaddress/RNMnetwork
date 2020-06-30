@@ -77,6 +77,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - Electronic sexual violence at 5:26 25/06/2020.
 - Sleep deprivation and extreme sexual violence with an horse at 3:00 of 27/06/2020.
 - Sleep deprivation and dream injection all night long of 28/06/2020.
+- Sleep deprivation on 29/06/2020. As you know sleep deprivation is a torture and this kind of human crime could put in jail whatever surname.
 
 ### Videos about electronic violations
 
