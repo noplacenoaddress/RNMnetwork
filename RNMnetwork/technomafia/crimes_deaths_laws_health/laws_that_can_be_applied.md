@@ -207,6 +207,12 @@ And this could be the reason why I'm under torture. And why all the people that 
 
 Slavery is a crime persecuted by international laws. Slavery
 
+### General Data Protection Regulation
+
+![GDPR](http://telecomlobby.com/Images/technomafia_laws_gdpr_europe.webp)
+
+
+
 
 
 ### External links
