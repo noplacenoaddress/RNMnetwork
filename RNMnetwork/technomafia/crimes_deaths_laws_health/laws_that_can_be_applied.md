@@ -211,7 +211,9 @@ Slavery is a crime persecuted by international laws. Slavery
 
 ![GDPR](http://telecomlobby.com/Images/technomafia_laws_gdpr_europe.webp)
 
+From an **article** [[83]](https://iapp.org/news/a/spains-new-data-protection-law-more-than-just-gdpr-implementation/) about the Spanish laws that have included the European normative GDPR. Remember carefully that for the military wireless brain computer interface network in ELF radio frequency all, and absolutely all, Catalan citizens are under totally control. Those two big noble families read the mind of all the citizens with this technology, and have got corrupted military personal that operate in the military forces.
 
+Europe have to know that nobility is destroying with the Catholic Church support our democracy. Remember that behind all of sectarian and masonic beliefs there is the Catholic Church. Rembember tha crowns are only puppets of the Church. Crown nowadays are only institutions, the only one that could be considered as strong is the one of Great Britain because they have got their own Church. The **Church of England** [[84]](https://en.wikipedia.org/wiki/Church_of_England). The problem of Europe, the real center of all our problems is the Rome Church. Nothing more. They have invented all about mental illness. All about drug abuse. All about womans abuses. They are Satan in earth but Satan doesn't exist. Satan is the man. Because of this I'm an atheist of left side political vision. Those sons of bitches play with human kind using the concept about the Marconi radio. The think to be important and use the grown ignorance with sexual violence, mass media and Internet manipulation, orgies and sectarian ideas. They create fascism and populism. They are ridicouls.
 
 
 
@@ -380,6 +382,12 @@ Slavery is a crime persecuted by international laws. Slavery
 81. https://en.wikipedia.org/wiki/Middle_East
 
 82. https://en.wikipedia.org/wiki/Descent_from_antiquity
+
+83. https://iapp.org/news/a/spains-new-data-protection-law-more-than-just-gdpr-implementation/
+
+84. https://en.wikipedia.org/wiki/Church_of_England
+
+    
 
     
 
