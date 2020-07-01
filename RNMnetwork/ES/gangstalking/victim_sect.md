@@ -43,7 +43,9 @@ All Catalunya big facilities gain money in this human guinea pig development par
 
 Catalunya and probably all Spain state have to absolutely investigated by Interpol and Europol police forces because of this system. I think that gang stalking have born here and after have been imported to united states. In united states I don't really know how many people have died. Here suicide kill more than ten thousand persons for year and I don't really know how many have fall into heroin addiction. In Catalunya absolutely all is controlled by this pseudo dictatorship called "Illuminati".
 
+### Point of presences of the Catalan sect
 
+![GORG](http://telecomlobby.com/Images/gorg-l10-metro.webp)
 
 ### External Links
 
