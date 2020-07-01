@@ -53,6 +53,10 @@ Because they have systematically destroy my life, they stole my job and used my 
 
 ![Remote parimutuel betting virtual casino](http://telecomlobby.com/Images/pari-mutuel-betting.webp)
 
+Virtual casino is a neural application streamed into a multicast group of brain interconnected by the wireless remote neural monitoring network. Victims of Noble's child traffic called target individuals are inserted into those applications that generate thousand of millions of euros in illegal casinos that got has point of betting humans not horses. It's like the old dog and horses competitions.   
+
+In this virtual casino normally are present all the nobles from European coats of arms. It's like a group of physics casino's that are legal in the semi paradises Vatican bank states like san Marino, Luxembourg, Monaco and so on. The curiosity is that in Andorra there is no Casino. Why? Because it's only injected. Who administer this facility it's simply a genius. But if you open Wikipedia, you'll find all the informations about and it's totally incredible that normal police don't know about hits. So it's a genius? It's one of the oldest families of Spain nobility, it's someone who has got all the contacts necessary to administrate it. It's a man and I know him. 
+
 
 
 ###  External links
