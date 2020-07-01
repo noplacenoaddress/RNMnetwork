@@ -63,7 +63,7 @@ Full stop.
 
 ![Logbook](http://telecomlobby.com/Images/remote_neural_monitoring_network_myexperience_logbook.webp)
 
-I'm under continuous electronic tortures from November 2017, electronic tortures in ELF frequencies that are interferences in my five senses.  
+I'm under continuous electronic tortures from November 2017, electronic tortures in ELF frequencies that are interferences in my five senses.  In all the dreams always people speak about to sell drugs. Francesca want that I become a drug seller. She is a international drug seller.
 
 From June 2020 I start to log every type of torture that I received in radio:
 
@@ -78,6 +78,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - Sleep deprivation and extreme sexual violence with an horse at 3:00 of 27/06/2020.
 - Sleep deprivation and dream injection all night long of 28/06/2020.
 - Sleep deprivation on 29/06/2020. As you know sleep deprivation is a torture and this kind of human crime could put in jail whatever surname.
+- Sleep deprivation and dream injection on 1/07/2020. **Francesca say that her work is induct to suicide people**. This girl never sleep, a simple drug test will underline that she is a complete drug addicted. 
 
 ### Videos about electronic violations
 
