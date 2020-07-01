@@ -63,7 +63,7 @@ Full stop.
 
 ![Logbook](http://telecomlobby.com/Images/remote_neural_monitoring_network_myexperience_logbook.webp)
 
-I'm under continuous electronic tortures from November 2017, electronic tortures in ELF frequencies that are interferences in my five senses.  In all the dreams always people speak about to sell drugs. **Francesca want that I become a drug seller. She is a international drug seller in radio on 2018 she speaks about traffic of 10 tons of cocaine.**
+I'm under continuous electronic tortures from November 2017, electronic tortures in ELF frequencies that are interferences in my five senses.  In all the dreams always people speak about to sell drugs. **Francesca want that I become a drug seller**.
 
 From June 2020 I start to log every type of torture that I received in radio:
 
