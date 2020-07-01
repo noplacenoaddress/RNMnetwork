@@ -57,6 +57,12 @@ Virtual casino is a neural application streamed into a multicast group of brain 
 
 In this virtual casino normally are present all the nobles from European coats of arms. It's like a group of physics casino's that are legal in the semi paradises Vatican bank states like san Marino, Luxembourg, Monaco and so on. The curiosity is that in Andorra there is no Casino. Why? Because it's only injected. Who administer this facility it's simply a genius. But if you open Wikipedia, you'll find all the informations about and it's totally incredible that normal police don't know about hits. So it's a genius? It's one of the oldest families of Spain nobility, it's someone who has got all the contacts necessary to administrate it. It's a man and I know him. 
 
+In this virtual casino cast play with citizens that are victims of nobility from when they was born and that society classified as outcast. In remote neural monitoring network voice to skull subliminal messages service cast always give blame to our friends, our ex girlfriends and our family. It's absolutely obvious that is not the true. Who has got the blame it's only this absurd medieval systems of idiots that maintain society divided by casts. 
+
+The only real blame of your personal circle is to not speak about this crime. This is what we've to do. Do an union and go to courts. But people here loose them minds in drugs and in love. Why love? Because womans are used to create mental illness and the blame don't understand that we know that we, all, are all victims.
+
+Thank you. Thank you. Pirate. Thank you, you great.
+
 
 
 ###  External links
