@@ -119,6 +119,10 @@ In radio she says they have been preparing her for years to annihilate her son. 
 
 Why is my dad, a good boy worker in a poor Genoese neighborhood, so dominated and victimized by these useless noblemen? Why don't you realize that the cold war is over and this fascist technology is completely out of date? He is an engineer and this makes me think he is guilty. Unfortunately.
 
+He is present without any doubt in the remote neural monitoring network application of my parimutuel betting system about my suicide in the target individual program that is transmitted over the wireless brain machine interface in the Barcelona Collserola tower and instead of helping me to do a compliant with his testimony he follows with narcissistic abuse on first of July 2020. Why? He has got fear of this technology? No. He is an electronic engineer with a great career and a lot of culture. He is totally guilty. Unfortunately he is a completely bipolar and very intelligent man. Normally parents are not guilty and are guilty of stalkers. In their case, they saw his son tortured, raped and deprived of any direct. I say it with tears in my eyes.
+
+![Evidences Mauro](http://telecomlobby.com/Images/overwhelming_evideces_mauro.webp)
+
 ### Machined bipolar horn
 
 ![Mauro Giuntoli and Vieta Pascual](http://telecomlobby.com/Images/mauro_giuntoli_vieta_pascual.jpg)
