@@ -21,7 +21,14 @@ Format has many other meanings as well, but with those four it's sufficient. I t
 
 ![ocaml.re](http://telecomlobby.com/Images/1*uxmsEQN95oGc1M2UQCIywA.png)
 
-# External links
+### Drug seller and prostitute preparation 
+
+In the remote neural monitoring network, boys and girls are inducted with the radio wave machine to be slaves in drugs and prostitution black market. The techno network follow a pyramid of pains and submission to different levels of power something very similar to the Church and to the military  structures. This is a pyramid of slaves, obligated to conduct a destructive life for them and for others. But for them thinks are very complicated:
+
+- Normally addicted to drugs cut with chemicals that provoke anxiety, depression, suicides and heavy addictions. 
+- In the drug market as they enter in this pyramid of pains and slavery work with very low class drugs or better saying they are poisoning peoples. Normally tourist. And this is not normal because tourism is one of the most important industry. I know that is low class but every type of tourism have to be considered as positive. I think that in reality this is more like cast division. 
+
+### External links
 
 1. https://en.wikipedia.org/wiki/TV_format
 2. https://en.wikipedia.org/wiki/Gianni_Boncompagni
