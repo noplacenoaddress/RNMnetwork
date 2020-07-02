@@ -28,6 +28,8 @@ In the remote neural monitoring network, boys and girls are inducted with the ra
 - Normally addicted to drugs cut with chemicals that provoke anxiety, depression, suicides and heavy addictions. 
 - In the drug market as they enter in this pyramid of pains and slavery work with very low class drugs or better saying they are poisoning peoples. Normally tourist. And this is not normal because tourism is one of the most important industry. I know that is low class but every type of tourism have to be considered as positive. I think that in reality this is more like cast division. 
 
+How they use remote neural monitoring network, different drugs and life manipulation to obtain this kind of psychological slavery that conduct people to be what I've just described? Remember that a lot of girls that work in low class television shows have passed this phase of brainwashing. And no one or almost no one have do a complaint. How it is possible? Because of this advanced technique derive from Middle ages courts. This is the true. And I've not read it in no sites. Now with technology it's all more simple, more rapid, more efficient, more subliminal, more undetectable.  Remember also corruption that is a key to understand why people doesn't do a group complaint to fight against this kind of mental and sexual abuses. That in my opinion are the same crime. Like suicide have to be considered as an assassination with **premeditation** [[7]](https://en.wikipedia.org/wiki/Malice_aforethought). People that do this kind of work, most likely the chiefs of the facilities, have to be considered as serial killer.  
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/TV_format
@@ -36,3 +38,4 @@ In the remote neural monitoring network, boys and girls are inducted with the ra
 4. https://en.wikipedia.org/wiki/Synonym
 5. https://en.wikipedia.org/wiki/Conditional_(computer_programming)
 6. https://en.wikipedia.org/wiki/OCaml
+7. https://en.wikipedia.org/wiki/Malice_aforethought
