@@ -47,6 +47,8 @@ Catalunya and probably all Spain state have to absolutely investigated by Interp
 
 ![GORG](http://telecomlobby.com/Images/gorg-l10-metro.webp)
 
+![Sect Poblenou](http://telecomlobby.com/Images/victim_sect_poblenou.webp)
+
 ### External Links
 
 1. http://telecomlobby.com/RNMnetwork/technomafia/noble_houses.htm
