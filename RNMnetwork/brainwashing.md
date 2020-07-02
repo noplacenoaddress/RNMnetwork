@@ -30,6 +30,8 @@ In the remote neural monitoring network, boys and girls are inducted with the ra
 
 How they use remote neural monitoring network, different drugs and life manipulation to obtain this kind of psychological slavery that conduct people to be what I've just described? Remember that a lot of girls that work in low class television shows have passed this phase of brainwashing. And no one or almost no one have do a complaint. How it is possible? Because of this advanced technique derive from Middle ages courts. This is the true. And I've not read it in no sites. Now with technology it's all more simple, more rapid, more efficient, more subliminal, more undetectable.  Remember also corruption that is a key to understand why people doesn't do a group complaint to fight against this kind of mental and sexual abuses. That in my opinion are the same crime. Like suicide have to be considered as an assassination with **premeditation** [[7]](https://en.wikipedia.org/wiki/Malice_aforethought). People that do this kind of work, most likely the chiefs of the facilities, have to be considered as serial killer.  
 
+After a three years of brainwashing phase conducted in the remote neural monitoring network by operators stalking, brainwashing with drugs, and loose of principles victims are inserted, depending onto their ages and beauty, into audiovisual industry that is an options. In television programs, nowadays in format. Like the same suggest also those television shows are brainwashing. Young beautiful girls are use to aliment nobles in destructive orgies and extreme sex. 
+
 #### Ketamine 
 
 ![Ketamine as brainwashing tool](http://telecomlobby.com/Images/brainwhashing_ketamine.webp)
