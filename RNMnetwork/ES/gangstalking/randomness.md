@@ -115,6 +115,8 @@ In this festival people arrive with punk van and mount tend and some one product
 
 This time something was going bad the taste of the paper was not normal was a **Freddy cat** [[18]](http://www.sorted.org/diy/DIYwarnings/FFC.htm) one. I was experience a **bad trip** [[19]](https://psychonautwiki.org/wiki/Bad_trip) very intense. About eight hours of overdose like travel. And overdose of LSD is almost impossible. At the end of the bad trip i stay totally in another site with my brain, i was seeing another place. At that time I was thinking about only LSD. But no, it wasn't. It was a provoked overdose with something extremely strong that put me in bad trip but then it was a visual  and auditive brain injection with radio waves. It was what I'm calling now "deep immersion". But was the late nineties. 
 
+This is something related to MKUltra project, and I'm victim of, and I'm in perfect mental state. A friend of mine have try to kill me in that moment because he hides me from the ambulance. 
+
 Military technology evolved. Alessandro like Francesca are nephew of a second world war hero, Luigi. And I just survived, a friend of mine hid me from an ambulance that called another person and I have the exact memory. I could not move and he kept me on the ground with one foot instead of showing me to the medical staff.
 
 *What happen to Alessandro at Cortemilia on 10 of September 2001?*
