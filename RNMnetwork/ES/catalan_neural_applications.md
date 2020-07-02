@@ -61,7 +61,7 @@ In this virtual casino cast play with citizens that are victims of nobility from
 
 The only real blame of your personal circle is to not speak about this crime. This is what we've to do. Do an union and go to courts. But people here loose them minds in drugs and in love. Why love? Because womans are used to create mental illness and the blame don't understand that we know that we, all, are all victims.
 
-Thank you. Thank you. Pirate. Thank you, you great.
+*Thank you. Thank you. Pirate. Thank you, you great.*
 
 
 
