@@ -143,6 +143,10 @@ I was a wireless internet service provider one installation in this tower could 
 
 *But why a lot of them pointed to the sky? Let me image it. Nothing good.*
 
+### Cadastral information Turo Rovira
+
+![Cadastral information](http://telecomlobby.com/Images/catalan_radio_infrastructure_cadatral_information.webp)
+
 ###  External links
 
 1. https://photos.app.goo.gl/18aa7etfexxi2Dr28
