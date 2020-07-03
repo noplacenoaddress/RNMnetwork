@@ -80,7 +80,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - Sleep deprivation on 29/06/2020. As you know sleep deprivation is a torture and this kind of human crime could put in jail whatever surname.
 - Sleep deprivation and dream injection on 1/07/2020. **Francesca say that her work is induct to suicide people**. This girl never sleep, a simple drug test will underline that she is a complete drug addicted. 
 - On the night of 3/7/2020 the shape of my mother, that is my mother because of the street where I live, start to touch my earth with near direct current and do sexual violence to me. Remember that this is the traffic network, the B-side network, and in Genoa the address is totally clear.
-- Extreme dream injection with enormous video streamed in my cortex visualizing me ciclying like a child and a man that I know. In the dream the person that produce it think that I'm a little child or something like this. Narcissist abuse. Nothing more.  00:44 AM.
+- Extreme dream injection with enormous video streamed in my cortex visualizing me ciclying like a child and a man that I know. In the dream the person that produce it think that I'm a little child or something like this. Narcissist abuse. Nothing more.  00:44 AM. Sexual violence always from my mother.
 
 ### Videos about electronic violations
 
