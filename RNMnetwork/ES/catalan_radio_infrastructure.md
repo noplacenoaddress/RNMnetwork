@@ -152,7 +152,7 @@ In my investigation I think it is important recollect more data as possible beca
 Those are the **cadastral** [[43]](https://en.wikipedia.org/wiki/Cadastre) information that I've found on the Internet about the  parcels that got the radio antennas visible to the exterior:
 
 - **0157673DF3805G0001TX** [[44]](http://telecomlobby.com/RNMnetwork/documents/0157673DF3805G0001TX.pdf)
-- **0157691DF3805G0001ZX** [[45](http://telecomlobby.com/RNMnetwork/documents/0157691DF3805G0001ZX.pdf)]
+- **0157691DF3805G0001ZX** [[45]](http://telecomlobby.com/RNMnetwork/documents/0157691DF3805G0001ZX.pdf)
 - **0157674DF3805G0001FX** [[46]](http://telecomlobby.com/RNMnetwork/documents/0157674DF3805G0001FX.pdf)
 
 ###  External links
