@@ -214,6 +214,10 @@ This is why I've written all of this book about the target individual European p
 
 Where are you sweetie?
 
+![Saray porn evidences founded on the web](http://telecomlobby.com/Images/overwhelming_evideces_saray_porn.webp)
+
+Those are the number of images and videos of pornography that I've found about Saray and people with very similar physiognomy obviously uploaded to obtain my suicide.  
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
