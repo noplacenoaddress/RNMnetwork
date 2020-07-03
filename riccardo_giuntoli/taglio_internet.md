@@ -10,6 +10,8 @@ Riccardo Giuntoli has got a lot of Internet presence:
 - **Some of my contributions to OpenBSD mailing list** [[4]](https://www.google.com/search?q=site%3Aopenbsd-archive.7691.n7.nabble.com+%22Riccardo+Giuntoli%22)
 - **My repositories on Github** [[5]](https://github.com/redeltaglio?tab=repositories)
 
+*And remember my dear fellows, I've written a book under tortures. And this is the only true.*
+
 ### External links
 
 1. https://www.google.com/search?sxsrf=ALeKk02hcoULnXFIAsf4-camh8V5ihdfpA%3A1590474998726&ei=9rjMXvLvK5PSxgPY1p24Bg&q=%22Riccardo+Giuntoli%22
