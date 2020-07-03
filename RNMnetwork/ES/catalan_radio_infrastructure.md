@@ -16,6 +16,10 @@ But its use is not only legal or for a little circle of users. Nobles play with 
 
 To worst think is that in this territory I've understand that this network is also connected to old buildings of an administration still with some Franco train. Or better saying that some office of the administration and of the national police have seen my persecution. And no one have said nothing. Corruption? Probably yes.
 
+![100Hz radio carrier](http://telecomlobby.com/Images/catalan_radio_infrastructure_100Hz.webp)
+
+*100Hz AM and SSB radio carrier registered in sant Pere de Ribes*
+
 Why I speak about hacking? 
 
 Because nobles use clever boys and girls in a sadistic game of money and guilt. They give one legal access to the noble neural network, every noble got one because its state to pertain to the official nobility list, to an hacker crew to build a game. 
