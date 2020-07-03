@@ -82,6 +82,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - On the night of 3/7/2020 the shape of my mother, that is my mother because of the street where I live, start to touch my earth with near direct current and do sexual violence to me. Remember that this is the traffic network, the B-side network, and in Genoa the address is totally clear.
 - Extreme dream injection with enormous video streamed in my cortex visualizing me ciclying like a child and a man that I know. In the dream the person that produce it think that I'm a little child or something like this. Narcissist abuse. Nothing more.  00:44 AM. Sexual violence always from my mother. "Se piensa de venir en casa mia a montar antenas". 4/7/2020.
 
+![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
