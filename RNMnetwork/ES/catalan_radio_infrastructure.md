@@ -147,6 +147,14 @@ I was a wireless internet service provider one installation in this tower could 
 
 ![Cadastral information](http://telecomlobby.com/Images/catalan_radio_infrastructure_cadatral_information.webp)
 
+In my investigation I think it is important recollect more data as possible because my first step will be a complete compliant about what I've found in Barcelona about the wireless brain machine interface in Collserola tower, the ELF antennas on Turo de Rovira in illegally occupied houses houses that probably are used to sniff brain data and send them to a data center where they are elaborated and used to unauthorized development above unconscious human guinea pigs and for last the TETRA masked installations.
+
+Those are the **cadastral** [[43]](https://en.wikipedia.org/wiki/Cadastre) information that I've found on the Internet about the  parcels that got the radio antennas visible to the exterior:
+
+- **0157673DF3805G0001TX** [[44]](http://telecomlobby.com/RNMnetwork/documents/0157673DF3805G0001TX.pdf)
+- **0157691DF3805G0001ZX** [[45](http://telecomlobby.com/RNMnetwork/documents/0157691DF3805G0001ZX.pdf)]
+- **0157674DF3805G0001FX** [[46]](http://telecomlobby.com/RNMnetwork/documents/0157674DF3805G0001FX.pdf)
+
 ###  External links
 
 1. https://photos.app.goo.gl/18aa7etfexxi2Dr28
@@ -191,4 +199,8 @@ I was a wireless internet service provider one installation in this tower could 
 40. [https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna](https://en.wikipedia.org/wiki/Yagi–Uda_antenna)
 41. https://en.wikipedia.org/wiki/ECHELON
 42. http://telecomlobby.com/RNMnetwork/laws/european_parlament_echelon_investigation.pdf
+43. https://en.wikipedia.org/wiki/Cadastre
+44. http://telecomlobby.com/RNMnetwork/documents/0157673DF3805G0001TX.pdf
+45. http://telecomlobby.com/RNMnetwork/documents/0157691DF3805G0001ZX.pdf
+46. http://telecomlobby.com/RNMnetwork/documents/0157674DF3805G0001FX.pdf
 
