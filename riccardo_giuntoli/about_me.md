@@ -18,6 +18,8 @@ Sufficient notions of both science and letters; I have cultivated computer scien
 
 Of a career path always distinguished for being independent both in Genoa and in Catalonia. Very tortuous course lately interrupted by interests outside my person of which nature was unaware. In strong comeback, determined to rebuild what was lost and fully convinced to meet again with the love of my life. Saray.
 
+![Intuition is my preferred language](http://telecomlobby.com/Images/about_me_riccardo_giuntoli_intuition.webp)
+
 ### Riccardo Giuntoli runs BSD and love Unix.
 
 The first PC of Riccardo Giuntoli was a **Pentium II** [[1]](https://en.wikipedia.org/wiki/Pentium_II) and my father bought it because I always use to open his office laptop connected with an embedded **56k modem** [[2]](https://en.wikipedia.org/wiki/Modem) to the Internet. I was a curious adolescent with radioham background, **CB** [[3]](https://en.wikipedia.org/wiki/Citizens_band_radio) and **SSB** [[4]](https://en.wikipedia.org/wiki/Single-sideband_modulation). Cycling to the top of a mountain with a motorbike battery, a discone like antenna and a **President Jackson** [[5]](https://president-electronics.com/RadioCB/AM-FM-BLU/JACKSON-II-ASC-Classic). Connecting to Russia and China and using an invented ID. 1 **Alfa Tango** [[6]](https://www.alfatango.org/) 13 01. 1AT1301.
