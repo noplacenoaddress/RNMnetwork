@@ -147,7 +147,7 @@ I was a wireless internet service provider one installation in this tower could 
 
 ![Cadastral information](http://telecomlobby.com/Images/catalan_radio_infrastructure_cadatral_information.webp)
 
-In my investigation I think it is important recollect more data as possible because my first step will be a complete compliant about what I've found in Barcelona about the wireless brain machine interface in Collserola tower, the ELF antennas on Turo de Rovira in illegally occupied houses houses that probably are used to sniff brain data and send them to a data center where they are elaborated and used to unauthorized development above unconscious human guinea pigs and for last the TETRA masked installations.
+In my investigation I think it is important recollect more data as possible because my first step will be a complete compliant about what I've found in Barcelona about the wireless brain machine interface in Collserola tower, the ELF antennas on Turo de Rovira in illegally occupied houses houses, or that seem such, that probably are used to sniff brain data and send them to a data center where they are elaborated and used to unauthorized development above unconscious human guinea pigs and for last the TETRA masked installations.
 
 Those are the **cadastral** [[43]](https://en.wikipedia.org/wiki/Cadastre) information that I've found on the Internet about the  parcels that got the radio antennas visible to the exterior:
 
