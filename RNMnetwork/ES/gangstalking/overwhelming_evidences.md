@@ -206,6 +206,14 @@ Those are two missed calls of the ancient number of my ex girlfriend Saray that 
 
 I'll do it for you sweetie, I promise.
 
+![180 emails to Saray but no reply](http://telecomlobby.com/Images/overwhelming_evideces_saray_gmail.webp)
+
+It's from July 2018 that I'm trying to catch Saray, I've written to her 180 emails without any reply. I'm very surprised because all the pornography images that I've found of her.
+
+This is why I've written all of this book about the target individual European program, the remote neural monitoring network and the SPECTRAM lobby, that is the real name of this slavery lobby.
+
+Where are you sweetie?
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
