@@ -39,6 +39,18 @@ In my opinion I can trace those step to be a human playing card:
 - You're not a bastard but in the family they decide your body doesn't strictly complain with the regularized pattern of your family.  I mean in big nobles family there is a physical standard that for some reason the new born doesn't complain.
 - Your parents and all the family decide to sell you in the black market with forced labor purposes. Normally this market is maintained by the same Catholic church. And this is the true.
 
+But being a play card could mean also another think, one of the worst and horrible crimes that could have be done:
+
+Institutions like crowns and churches assign at born a figure to a child only using a lotter system like the one that could be visualized here:
+
+![Christmas lottery in Spain](http://telecomlobby.com/Images/gangstalking_reasons_loterry_elnino.webp)
+
+This lottery is the one that is celebrated every here in Spain, it is called "el niño" or better saying the child in english.
+
+What I want to mean? That you're nothing more than a victim of bad luck and behind there is a corrupted system represented by high nobility and high church levels that play with humanity to move money, sex pleasure and drugs in low class level nobility and church.
+
+This is the the most obvious truth without a shadow of a doubt. I believe it is only this, a system to be eliminated from the root.
+
 ### An unrecognized nobleman
 
 ![A coat of arm](http://telecomlobby.com/Images/1000x-1.jpg)
