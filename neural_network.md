@@ -24,9 +24,15 @@ This is only an horrible crime that they have done with my brain data and bet ov
 
 >  *I'm public writing all of this because of **justice**. It's difficult to demonstrate but a very important person in Spain is helping me in this network. So I'm doing it. Thank you great man and person. I'm searching for the woman that I'm love to and this book is dedicated to her and her baby. They forced her to go out from our house five years ago.*
 
+### Frequencies not regulated 
 
+Below the frequency of 8.3KHz frequencies are declared in all over the world as *not regulated*. What does it means? That is the anarchy of frequencies. Every one, without any license can transmit and receive with whatever transmission power or receiver sensibility. 
 
-# External links
+Who use those frequencies? Very interesting point. People that enslave others. Control over humankind and an important part of the traffic network is done here. Here the target individual program lives. Here life of victims is interfered. By who? By military systems, like the wireless brain machine interface, create machines over humans, that are human guinea pigs. Here traffic of every kind is controlled. All the black market. Here corrupted nobles with military that pertains to the same family have created all this system that have enslaved humanity. And no one speak about. 
+
+But there is a little trick. This frequencies aren't regulated. As a radioham I can clean this spectrum and cover the connection with them facilities. I can do it in every tower that I can build. And this is my only mission. That world know how they work. Using only corruption and a little bit of knowledge. Nothing special it's all public in patents. They are not hacker. They are corrupted noble that work with extreme size technological firm that develop upon our brains without any contract and doing crimes against humanity.
+
+### External links
 
 1. https://en.wikipedia.org/wiki/Electronic_harassment
 2. https://www.youtube.com/channel/UC6tQ8RihaSENODcgjLHtrAg

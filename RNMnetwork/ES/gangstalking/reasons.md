@@ -45,7 +45,7 @@ Institutions like crowns and churches assign at born a figure to a child only us
 
 ![Christmas lottery in Spain](http://telecomlobby.com/Images/gangstalking_reasons_loterry_elnino.webp)
 
-This lottery is the one that is celebrated every here in Spain, it is called "el niño" or better saying the child in english.
+This lottery is the one that is celebrated every here in Spain, it is called "el niño" or better saying the child in English.
 
 What I want to mean? That you're nothing more than a victim of bad luck and behind there is a corrupted system represented by high nobility and high church levels that play with humanity to move money, sex pleasure and drugs in low class level nobility and church.
 
