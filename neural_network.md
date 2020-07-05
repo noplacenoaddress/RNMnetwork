@@ -32,7 +32,7 @@ Who use those frequencies? Very interesting point. People that enslave others. C
 
 But there is a little trick. This frequencies aren't regulated. As a radioham I can clean this spectrum and cover the connection with them facilities. I can do it in every tower that I can build. And this is my only mission. That world know how they work. Using only corruption and a little bit of knowledge. Nothing special it's all public in patents. They are not hacker. They are corrupted noble that work with extreme size technological firm that develop upon our brains without any contract and doing crimes against humanity.
 
-Why peoples are enslaved here? There are options of any kinds, all are stupidities, but there is also the options that you're victim of a game from Catholic Church and the Crowns. Child Trafficking controlled with this frequencies used to aliment low class nobility with parimutuel betting system. A scandal.
+Why peoples are enslaved here? There are options of any kinds, all are stupidities, but there is also the options that you're victim of a game from Catholic Church and the Crowns. Child Trafficking controlled with this frequencies used to aliment low class nobility with parimutuel betting system. A scandal. The suicide business. 
 
 ### External links
 
