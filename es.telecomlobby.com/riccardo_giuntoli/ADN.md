@@ -1,20 +1,20 @@
-# DNA of Riccardo Giuntoli
+# ADN de Riccardo Giuntoli
 
 ![Riccardo Giuntoli](http://telecomlobby.com/Images/92094777_10222816033691977_6240920452722589696_o.jpg)
 
-*Have you recognized anything in my DNA? Send me information to Mossen Anton Miret 10 2/1 08810 sant Pere de Ribes.*
+*Has reconocido algo en mi ADN? Envíame informaciones en c/ Mossen Anton Miret 10 2/1 08810 sant Pere de Ribes.*
 
-In the last fifteen years in Internet there is a few web applications that are used worldwide to do research about **DNA** [[1]](https://en.wikipedia.org/wiki/DNA). This acid molecule carry **genetic** [[2]](https://en.wikipedia.org/wiki/Genetics) instructions that could be used by humankind to study **heredity** [[3]](https://en.wikipedia.org/wiki/Heredity), that in humans is passed generation between generation with **sexual reproduction** [[4]](https://en.wikipedia.org/wiki/Sexual_reproduction). 
+En los últimos quince años en Internet estaban algunas aplicaciones web que eran utilizadas para hacer estudios sobre el **ADN** [[1]](https://en.wikipedia.org/wiki/DNA). Esta molécula ácida transportaba instrucciones genéticas que puede ser utilizada por parte de la humanidad para estudiar su **herencia** [[3]](https://en.wikipedia.org/wiki/Heredity), que en los humanos ha pasado de generación en generación a través de  **reproducción sexual** [[4]](https://en.wikipedia.org/wiki/Sexual_reproduction).
 
-The study of heredity or bloodline could help a citizen, like me, to understand if he pertains to a noble family o to various. That is the reason why I start studying it. To understand who I am and why in the remote neural control facility I've been persecuted from November 2017 and a lot of semi fatal randomness more that I've lived in my incredible life. I start to studying it also to help the woman that I'm love to, Saray. Another victim of this facility, this time probably for her surnames. In my case the **surnames** [[5]](https://en.wikipedia.org/wiki/Surname) doesn't help but I've learned with my bloodline and some somatic characteristic that for sure I pertain to a very important noble **lineage** [[6]](https://en.wikipedia.org/wiki/Lineage_(genetic)). And this why they have electronic torture me.
+El estudio de la herencia o de la línea de sangre podría ayudar a un ciudadano, como yo, para entender si pertenecía a una familia noble o a varía. Esta es la razón porqué he empezado a estudiarla. Para entender quien soy y porqué soy perseguido en el programa de victimas en la red de monitorio neuronal que hace parte de la red de trafico de personas.  En mi caso el **apellido** [[5]](https://en.wikipedia.org/wiki/Surname) no me ha ayudado pero he descubierto con mi línea de sangre y algún trato somático que podría pertenecer a alguna línea de sangre noble. Y esto podría ser el porqué me han torturado eléctricamente. 
 
-Now that I'm fighting for my rights in the neural network I've learned a think, a think that I've got to share with you, my readers, to understand how to choose the right way in a common situation. Never fall in the stalking washing machine:
+Ahora que estoy luchando por mis derechos en la red de monitorio neuronal he entendido una cosa, una cosa que tengo que compartir con vosotros lectores, para entender como elegir la justa manera en una situación complicada. No caer nunca en la máquina del acoso:
 
-*never pass to be an abused to be an abuser*. 
+*No pases nunca de ser un abusado a ser un abusador.*
 
-This is so important and remember that nobles use the art of deception something that derived from the Catholic allegoric figure of the **forbidden fruit** [[7]](https://en.wikipedia.org/wiki/Forbidden_fruit). Church is totally implied in the gang stalking business. The technological B-side. The digital mafia. Almost all is connected with bloodlines. 
+Esto es muy importante y acuérdate que la nobleza utiliza la decepción algo derivado de la alegoría de la Iglesia Católica como el **fruto prohibido** [[7]](https://en.wikipedia.org/wiki/Forbidden_fruit). La Iglesia es totalmente implicada en el negocio del acoso de pandillas. El lado B de las tecnológicas. La mafia digital. Prácticamente todo es conectado con las lineas de sangre.
 
-### 23andMe results about Riccardo Giuntoli DNA
+### 23andMe resultados acerca del ADN de Riccardo Giuntoli
 
 ![23andMe](http://telecomlobby.com/Images/23admMe.png)
 
