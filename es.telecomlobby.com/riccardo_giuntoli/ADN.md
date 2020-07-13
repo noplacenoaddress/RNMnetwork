@@ -18,42 +18,42 @@ Esto es muy importante y acuérdate que la nobleza utiliza la decepción algo de
 
 ![23andMe](http://telecomlobby.com/Images/23admMe.png)
 
-**23andMe** [[8]](https://en.wikipedia.org/wiki/23andMe) is a **Silicon Valley** [[9]](https://en.wikipedia.org/wiki/Silicon_Valley) private company working on **biotechnology** [[10]](https://en.wikipedia.org/wiki/Biotechnology) and **genetic genealogy** [[11]](https://en.wikipedia.org/wiki/Genetic_genealogy) obtained by homemade saliva test received by customers using standard post services.
+**23andMe** [[8]](https://en.wikipedia.org/wiki/23andMe) es una empresa privada de **Silicon Valley** [[9]](https://en.wikipedia.org/wiki/Silicon_Valley) que trabaja en **biotecnología** [[10]](https://en.wikipedia.org/wiki/Biotechnology) y **genealogía genética** [[11]](https://en.wikipedia.org/wiki/Genetic_genealogy) obtenida de un test de saliva recibida de usuarios que utilizan el servicio de correos. 
 
-They execute **salivaomics** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) over the sample received that have the goal to complain with a **genealogical DNA test** [[13]](https://en.wikipedia.org/wiki/Genealogical_DNA_test) to estimate **ethnic** [[14]](https://en.wikipedia.org/wiki/Ethnic_group) and **ancestry** [[15]](https://en.wikipedia.org/wiki/Ancestor) of an individual. 
+Ejecutan estas **pruebas** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) sobre la muestra recibida que ha como resultado un **test genealógico de ADN** [[13]](https://en.wikipedia.org/wiki/Genealogical_DNA_test) para estimar la **étnica** [[14]](https://en.wikipedia.org/wiki/Ethnic_group) y los **antepasados** [[15]](https://en.wikipedia.org/wiki/Ancestor) de un individuo. 
 
 ![Salivaomics to 23andMe](http://telecomlobby.com/Images/20200306_095628.jpg)
 
-I've send my saliva sample on 6 March of 2020 to a company dedicated to the stocking and delivering of medical test among others services. The company is **Movianto** [[16]](http://movianto.com/) and the delegation is in Netherlands. From Netherlands. Than it was delivered to US and next the sample was subjected to **DNA extraction** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
+He enviado mi prueba de saliva el 6 de Marzo de 2020 a una empresa dedicada al almacenamiento y repartición de medicinales entra otros servicios. La compañía es **Movianto** [[16]](http://movianto.com/) y la delegación es en Holanda. Después fue repartida en Estados Unidos y después fue supuesta a extracción de **ADN** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
-In the first image you can appreciate the ethnic estimation of this private company. Here there are **ethnic group** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) that DNA speaking they share similar **gene pool** [[19]](https://en.wikipedia.org/wiki/Gene_pool), them groups and sub groups:
+En esta primera imagen puedes apreciar la estimación étnica de esta empresa privada. Aquí están **grupos étnicos** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) que hablando de ADN comparten la misma reserva genética [[19]](https://en.wikipedia.org/wiki/Gene_pool), grupos y familias:
 
-- Southern European 82.6%
-  - Italian 71.1%
-  - Greek and Balkan 2.5%
-  - Sardinian 2.4%
-  - Spanish and Portuguese 2.0%
-  - Broadly southern European 4.6%
-- Broadly European 2.0%
-- Western Asian and north African 0.8%
-- Unassigned 0.3%
+-  Europeo del Sur 82.6%
+  - Italiano 71.1%
+  - Griego y Balcánico 2.5%
+  - Sardo 2.4%
+  - Español y Portugués 2.0%
+  - Europeo del Sur no clasificado 4.6%
+- Europeo 2.0%
+- Asiático occidental y africano del norte 0.8%
+- No asignado 0.3%
 
-All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe).
+Estos son todos los **grupos étnicos Europeos** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe). 
 
 ![Haplogroups](http://telecomlobby.com/Images/Haplogroups_europe.png)
 
-Speaking about ancestry it's important to understand the world **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) that are a group of **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) who themselves are **allele** [[23]](https://en.wikipedia.org/wiki/Allele) that are what explain **mutations** [[24]](https://en.wikipedia.org/wiki/Mutation) and **phenotypes** [[25]](https://en.wikipedia.org/wiki/Phenotype).
+Hablando de antepasados es importante entender que el nombre **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) que es el grupo de **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) los cuales ellos mismos son **allele** [[23]](https://en.wikipedia.org/wiki/Allele) que son lo que explican las **mutaciones** [[24]](https://en.wikipedia.org/wiki/Mutation) y los **fenotipos** [[25]](https://en.wikipedia.org/wiki/Phenotype).
 
-In **human genetics** [[26]](https://en.wikipedia.org/wiki/Human_genetics) two haplogroups are studied:
+En **genética humana** [[26]](https://en.wikipedia.org/wiki/Human_genetics) dos haplogroups son estudiados:
 
-- **Y-DNA** [[27]](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup) haplogroup, a **kinship** [[28]](https://en.wikipedia.org/wiki/Kinship) system known as the male line, or better saying **patrilineality** [[29]](https://en.wikipedia.org/wiki/Patrilineality). 	
-- **mtDNA** [[30]](https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup) haplogroup, that is inherited from the female line, the **matrilineality** [[31]](https://en.wikipedia.org/wiki/Matrilineality).
+- **Y-DNA** [[27]](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup) haplogroup, un sistema **parentesco** [[28]](https://en.wikipedia.org/wiki/Kinship)  como línea masculina, o mejor dicho **patrilinealidad** [[29]](https://en.wikipedia.org/wiki/Patrilineality). 
+- **mtDNA** [[30]](https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup) haplogroup, que es heredado de la línea femenina, la **matrilinealidad** [[31]](https://en.wikipedia.org/wiki/Matrilineality).
 
-Haplogroups are labeled with letters and numbers like you can appreciate in the image below.
+Haplogroups son etiquetados con letras y números como puedes apreciar de la imagen abajo.
 
-My Y-DNA haplogroup is the **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) and my mtDNA is **W** [[33]](https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)).
+ Mi grupo haplogroup Y-DNA es el **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) y mi mtDNA es el **W** [[33]](https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)). 
 
-You can download all the results obtained by the 23andMe genealogical DNA test at this URL:
+Puedes descargar los resultados obtenidos de 23andMe y el test genealógico en este URL: 
 
 - **genome Riccardo Giuntoli 23andMe** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
 
