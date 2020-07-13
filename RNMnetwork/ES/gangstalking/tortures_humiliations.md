@@ -89,6 +89,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - On the morning of 13/7/2020 sexual harassment with holograms of my mother, she say that I''ve to return to Genova and go to live in the house of my old mother at via Era. Era in Italian mean was. This woman is absolutely guilty about all what I've passed. She is a mental hill person and probably with this technology she has also killed her parents. **She works without any doubt with Francesca**, works in the suicide business and kills youth. Or it can be an hologram like a dress used by Francesca or Andreu.
 - 13/7/2020 at 15:49 one important person present in this network, the traffic one, told me that my destiny will be suicide. On 16:21 he speaks with Francesca about to kill me.
 - 13/7/2020 at 20:20 another important person this time from audiovisual industry say that he wants to kill me.
+- 14/7/2020 01:00 dream injection and sleep deprivation. The dream is about my ex girlfriend in an orgy tortured by friends of mine under a bridge in the sea. They speak about an old friend of mine that is strictly connected with the audiovisual industry. Another say to me when I weak up in subliminal messages that he has done a lot of pornography about her and then he fucks with her in Barcelona for one year. What happen to them?
 
 ![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
 
