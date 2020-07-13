@@ -24,9 +24,9 @@ Ejecutan estas **pruebas** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) 
 
 ![Salivaomics to 23andMe](http://telecomlobby.com/Images/20200306_095628.jpg)
 
+He enviado mi prueba de saliva el 6 de Marzo de 2020 a una empresa dedicada al almacenamiento y repartición de medicinales entra otros servicios. La compañía es **Movianto** [[16]](http://movianto.com/) y la delegación es en Holanda. Después fue repartida en Estados Unidos y después fue supuesta a extracción de **ADN** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
 
-I've send my saliva sample on 6 March of 2020 to a company dedicated to the stocking and delivering of medical test among others services. The company is **Movianto** [[16]](http://movianto.com/) and the delegation is in Netherlands. From Netherlands. Than it was delivered to US and next the sample was subjected to **DNA extraction** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
 In the first image you can appreciate the ethnic estimation of this private company. Here there are **ethnic group** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) that DNA speaking they share similar **gene pool** [[19]](https://en.wikipedia.org/wiki/Gene_pool), them groups and sub groups:
 
