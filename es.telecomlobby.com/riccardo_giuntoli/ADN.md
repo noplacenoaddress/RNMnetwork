@@ -57,19 +57,21 @@ Puedes descargar los resultados obtenidos de 23andMe y el test genealógico en e
 
 - **genome Riccardo Giuntoli 23andMe** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
 
-### MyHeritage results about Riccardo Giuntoli DNA
+### MyHeritage resultados acerca del ADN de Riccardo Giuntoli
 
 ![Ethnic groups](http://telecomlobby.com/Images/20200427_132224.jpg)
 
-**MyHeritage** [[35]](https://en.wikipedia.org/wiki/MyHeritage) is an online genealogy platform based in Israel. On 28 of December 2019 they receive my salivaomics and got the laboratory results on 9 February 2020.
+**MyHeritage** [[35]](https://en.wikipedia.org/wiki/MyHeritage) es una plataforma de genealogía con sede en Israel. El 28 de Diciembre de 2019 han recibido mis pruebas de saliva y los resultados de laboratorio el 9 de Febrero 2020. 
 
-The ethnic estimation is very different from the other company. And this is very strange. Salivaomics was send as the other with normal post office service. But as the other I've got all the genealogical DNA data to download in a public URL.
+La estimación étnica es muy diferente de otra compañía. Y es muy extraño. Las pruebas de saliva fueron enviada como las otras con el servicio de correos. Pero como las otras tengo los datos de ADN para descargar en una dirección pública. 
 
 ![MyHerigage ethnic](http://telecomlobby.com/Images/myheritage-etnics.jpg)
 
-As you can see in Spanish language them explication of my DNA is the one that I explain here:
+Como puedes averiguar en idioma Castellano sus interpretación de mi ADN es la que expongo aquí:
 
 - **Telecom Lobby - possible reasons** [[36]](http://www.telecomlobby.com/neural_network/barcelona/my_experience/reasons.htm)
+
+
 
 Reasons of this difference could be that ethnic groups are only approximated or that one of the twos samples was manipulated. Remember that I used **Correos** [[37]](https://en.wikipedia.org/wiki/Correos) so if the results was manipulated it can be only from a very powerful hand and I don't add anything else.
 
