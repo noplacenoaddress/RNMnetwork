@@ -73,7 +73,7 @@ As you can see in Spanish language them explication of my DNA is the one that I 
 
 Reasons of this difference could be that ethnic groups are only approximated or that one of the twos samples was manipulated. Remember that I used **Correos** [[37]](https://en.wikipedia.org/wiki/Correos) so if the results was manipulated it can be only from a very powerful hand and I don't add anything else.
 
-The results from the crown could underline some bloodline common with the Spanish crown, but I really don't know. In the neural network someone speak about it.
+The results from the Spanish peninsula could underline some bloodline common with the Spanish crown, but I really don't know. In the neural network someone speak about it.
 
 > I will go ahead, I promise.
 
