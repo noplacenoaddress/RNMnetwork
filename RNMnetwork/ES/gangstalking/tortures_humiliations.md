@@ -85,6 +85,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - Going to sleep, the voice of my mother in voice to skull service say that she doesn't want that I continue to live in Barcelona, the city that I'm love to. She do sexual violence to me with wireless brain machine interface mounted in the Collserola tower by the marquees living in Genoa. Those who are fascist. The Spanish crown should help me to eliminate this cancer from the road of Barcelona. Sorry if I speak about you, but I really respect your family but I don't respect nothing fascism. Good night 5/07/2020.
 - At 2:30 AM of 9/7/2020 I cannot sleep because of voice to skull torture. My family is guilty.
 - 6:00 AM of 10/7/2020 dream injection about people that I know in Genoa, they speak about be part of a group, betting, sexual violence and orgies that they  have done with all my ex girlfriends. Theoretically for them was pleasure but in reality it is an  order by Francesca that is the real chief.
+- All the day long of 12/7/2020 I was extremely tortured by electronic harassment with muscles pains, temblors, heavy stomach pains, electronic weapons over the penis, and I also shit on myself. What I'm living is worst than tortures in Guantanamo prison. I'm living tortures like a terrorist in front of the eyes of every one in Spain and no one say nothing. A tremendous scandal. 
 
 ![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
 
