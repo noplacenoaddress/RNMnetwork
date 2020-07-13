@@ -44,16 +44,16 @@ Estos son todos los **grupos étnicos Europeos** [[20]](https://en.wikipedia.org
 
 Hablando de antepasados es importante entender que el nombre **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) que es el grupo de **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) los cuales ellos mismos son **allele** [[23]](https://en.wikipedia.org/wiki/Allele) que son lo que explican las **mutaciones** [[24]](https://en.wikipedia.org/wiki/Mutation) y los **fenotipos** [[25]](https://en.wikipedia.org/wiki/Phenotype).
 
-In **human genetics** [[26]](https://en.wikipedia.org/wiki/Human_genetics) two haplogroups are studied:
+En **genética humana** [[26]](https://en.wikipedia.org/wiki/Human_genetics) dos haplogroups son estudiados:
 
-- **Y-DNA** [[27]](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup) haplogroup, a **kinship** [[28]](https://en.wikipedia.org/wiki/Kinship) system known as the male line, or better saying **patrilineality** [[29]](https://en.wikipedia.org/wiki/Patrilineality). 	
-- **mtDNA** [[30]](https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup) haplogroup, that is inherited from the female line, the **matrilineality** [[31]](https://en.wikipedia.org/wiki/Matrilineality).
+- **Y-DNA** [[27]](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup) haplogroup, un sistema **parentesco** [[28]](https://en.wikipedia.org/wiki/Kinship)  como línea masculina, o mejor dicho **patrilinealidad** [[29]](https://en.wikipedia.org/wiki/Patrilineality). 
+- **mtDNA** [[30]](https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup) haplogroup, que es heredado de la línea femenina, la **matrilinealidad** [[31]](https://en.wikipedia.org/wiki/Matrilineality).
 
-Haplogroups are labeled with letters and numbers like you can appreciate in the image below.
+Haplogroups son etiquetados con letras y números como puedes apreciar de la imagen abajo.
 
-My Y-DNA haplogroup is the **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) and my mtDNA is **W** [[33]](https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)).
+ Mi grupo haplogroup Y-DNA es el **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) y mi mtDNA es el **W** [[33]](https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)). 
 
-You can download all the results obtained by the 23andMe genealogical DNA test at this URL:
+Puedes descargar los resultados obtenidos de 23andMe y el test genealógico en este URL: 
 
 - **genome Riccardo Giuntoli 23andMe** [[34]](https://github.com/redeltaglio/DNA/blob/master/genome_Riccardo_Giuntoli_v5_Full_20200407000435.zip?raw=true)
 
