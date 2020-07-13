@@ -71,15 +71,13 @@ Como puedes averiguar en idioma Castellano sus interpretación de mi ADN es la q
 
 - **Telecom Lobby - possible reasons** [[36]](http://www.telecomlobby.com/neural_network/barcelona/my_experience/reasons.htm)
 
+Las razones de estas diferencias pueden ser que lo grupos étnicos son únicamente aproximados o que uno de estas dos muestras han sido manipuladas. Acuérdense que he utilizado **Correos** [[37]](https://en.wikipedia.org/wiki/Correos) así que si estos resultados han sido manipulados podría ser únicamente por una mano poderosa  y no añado ningún particular más.     
 
+Los resultados desde la península Ibérica podrían subrayar alguna línea de sangre en común con la corona Española, pero no tengo ningún tipo de información más. En la red de monitorio neuronal, que nada más es que una parte de la red trafico de personas hablán acerca de esta posible interpretación.  
 
-Reasons of this difference could be that ethnic groups are only approximated or that one of the twos samples was manipulated. Remember that I used **Correos** [[37]](https://en.wikipedia.org/wiki/Correos) so if the results was manipulated it can be only from a very powerful hand and I don't add anything else.
+> Iré adelante lo prometo
 
-The results from the crown could underline some bloodline common with the Spanish crown, but I really don't know. In the neural network someone speak about it.
-
-> I will go ahead, I promise.
-
-You can download all the results obtained by the MyHeritage genealogical DNA test at this URL:
+Puedes descargar todos los resultados obtenidos acerca del test genealógico de ADN en esta dirección: 
 
 - **genome Riccardo Giuntoli MyHeritage** [[38]](https://github.com/redeltaglio/DNA/blob/master/MyHeritage_raw_dna_data.csv?raw=true)
 
