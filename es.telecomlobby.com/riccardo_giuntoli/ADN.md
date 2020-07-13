@@ -18,11 +18,13 @@ Esto es muy importante y acuérdate que la nobleza utiliza la decepción algo de
 
 ![23andMe](http://telecomlobby.com/Images/23admMe.png)
 
-**23andMe** [[8]](https://en.wikipedia.org/wiki/23andMe) is a **Silicon Valley** [[9]](https://en.wikipedia.org/wiki/Silicon_Valley) private company working on **biotechnology** [[10]](https://en.wikipedia.org/wiki/Biotechnology) and **genetic genealogy** [[11]](https://en.wikipedia.org/wiki/Genetic_genealogy) obtained by homemade saliva test received by customers using standard post services.
+**23andMe** [[8]](https://en.wikipedia.org/wiki/23andMe) es una empresa privada de **Silicon Valley** [[9]](https://en.wikipedia.org/wiki/Silicon_Valley) que trabaja en **biotecnología** [[10]](https://en.wikipedia.org/wiki/Biotechnology) y **genealogía genética** [[11]](https://en.wikipedia.org/wiki/Genetic_genealogy) obtenida de un test de saliva recibida de usuarios que utilizan el servicio de correos. 
 
-They execute **salivaomics** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) over the sample received that have the goal to complain with a **genealogical DNA test** [[13]](https://en.wikipedia.org/wiki/Genealogical_DNA_test) to estimate **ethnic** [[14]](https://en.wikipedia.org/wiki/Ethnic_group) and **ancestry** [[15]](https://en.wikipedia.org/wiki/Ancestor) of an individual. 
+Ejecutan estas **pruebas** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) sobre la muestra recibida que ha como resultado un **test genealógico de ADN** [[13]](https://en.wikipedia.org/wiki/Genealogical_DNA_test) para estimar la **étnica** [[14]](https://en.wikipedia.org/wiki/Ethnic_group) y los **antepasados** [[15]](https://en.wikipedia.org/wiki/Ancestor) de un individuo. 
 
 ![Salivaomics to 23andMe](http://telecomlobby.com/Images/20200306_095628.jpg)
+
+
 
 I've send my saliva sample on 6 March of 2020 to a company dedicated to the stocking and delivering of medical test among others services. The company is **Movianto** [[16]](http://movianto.com/) and the delegation is in Netherlands. From Netherlands. Than it was delivered to US and next the sample was subjected to **DNA extraction** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
