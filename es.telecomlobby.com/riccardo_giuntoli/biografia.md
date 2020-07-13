@@ -26,51 +26,29 @@ Me acuerdo del sonido del **USRobotics** [[9]](https://es.wikipedia.org/wiki/USR
 
 ![Riccardo Giuntoli - CNT](http://telecomlobby.com/Images/queninguquedienrere.webp)
 
-El sistema operativo era Windows 98, un sistema lleno de errores. Mauro entró en mi maquina en un par de semanas utilizando un truco de MS-DOS que ejecutaba código maligno en el fichero AUTOEXEC.BAT. Así que yo también empece a interesarme de seguridad informática. En aquellos años, hace mas de veinte años, jugaba. Empece a jugar, IRCNet, takeover, Stacheldraht, Eggdrop, BNC, Shell, TESO team, Smurf y así diciendo. De esta manera empece a conocer Unix, haciendo algún crimen informático que otro en los noventas.  
+El sistema operativo era **Windows 98** [[10]](https://en.wikipedia.org/wiki/Windows_98), un sistema lleno de errores. Mauro entró en mi maquina en un par de semanas utilizando un truco de **MS-DOS** [[11]](https://en.wikipedia.org/wiki/MS-DOS) que ejecutaba código maligno en el fichero **AUTOEXEC.BAT** [[12]](https://en.wikipedia.org/wiki/AUTOEXEC.BAT). Así que yo también empece a interesarme de seguridad informática. En aquellos años, hace mas de veinte años, jugaba. Empece a jugar, **IRCNet** [[13]](https://en.wikipedia.org/wiki/IRCnet), **takeover** [[14]](https://en.wikipedia.org/wiki/IRC_takeover), **Stacheldraht** [[15]](https://en.wikipedia.org/wiki/Stacheldraht), **Eggdrop** [[16]](https://en.wikipedia.org/wiki/Eggdrop), **BNC** [[17]](https://en.wikipedia.org/wiki/BNC_(software)), **Shell** [[18]](https://en.wikipedia.org/wiki/Shell_(computing)), **TESO team** [[19]](https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)), **Smurf** [[20]](https://en.wikipedia.org/wiki/Smurf_attack) y así diciendo. De esta manera empece a conocer Unix, haciendo algún crimen informático que otro en los noventas.  
 
 Era únicamente un chico curioso no un ingeniero profesional de redes como soy ahora.
 
-Unset HISTFILE era mi comando preferido. Creemos un grupo en IRCNet. Arranquemos un proveedor de cuentas en sistema Unix y empecemos a vender pasarelas hacía la red IRC. Fuimos probadores del protocolo IPv6 utilizando la clase 3FFE. Empecemos a aprender a utilizar apache, FreeBSD, POLLING , configuraciones del núcleo de Unix, redes, administración de usuarios, IPsec, BIND y así diciendo. Pasito a pasito entré en la comunidad de administradores de Unix.
+**Unset HISTFILE** [[21]](https://www.gnu.org/software/bash/manual/html_node/Bash-History-Facilities.html) era mi comando preferido. Creemos un grupo en IRCNet. Arranquemos un proveedor de cuentas en sistema Unix y empecemos a vender pasarelas hacía la red IRC. Fuimos probadores del protocolo IPv6 utilizando la clase **3FFE** [[22]](https://en.wikipedia.org/wiki/6bone). Empecemos a aprender a utilizar **apache** [[23]](https://en.wikipedia.org/wiki/Apache_HTTP_Server), **FreeBSD** [[24]](https://en.wikipedia.org/wiki/FreeBSD), **POLLING** [[25]](https://www.freebsd.org/cgi/man.cgi?query=polling&sektion=4&n=1) , configuraciones del **núcleo de Unix** [[26]](https://www.freebsd.org/doc/en/books/arch-handbook/), redes, administración de usuarios, IPsec, **BIND** [[27]](https://en.wikipedia.org/wiki/BIND) y así diciendo. Pasito a pasito entré en la comunidad de administradores de Unix.
 
 BSD fue mi pasión y Linux mi escritorio. BSD fue mi servidor y Linux mi estación de trabajo.
 
-Recolectaba maquinas antiguas comprándolas en la plataforma Ebay, pasando el tiempo con una antigua versión de la todavía activa pagina. SPARCstation 20 eran unas de mi maquinas favoritas y, obviamente, que "of course it runs".
+Recolectaba maquinas antiguas comprándolas en la plataforma Ebay, pasando el tiempo con una antigua versión de la todavía activa pagina. **SPARCstation 20** [[28]](https://en.wikipedia.org/wiki/SPARCstation_20) eran unas de mi maquinas favoritas y, obviamente, **NetBSD** [[29]](http://netbsd.org/) que "of course it runs".
 
-Entré en la universidad pero no la terminé porqué preferí empezar a trabajar como un profesional independiente en Unix y aplicaciones web.  El "problema del año 2000" había pasado desde seis años y en los siguientes diez años fui a vivir en España donde empece a trabajar y jugar con la trasmisión de datos digitales sobre redes IP utilizando el medio inalámbrico. Mikrotik, Ubiquiti y Openwrt fueron mi trabajo diario y mi pasión. Empece a trabajar como el jefe de departamento de atención técnica de un fabricante español de equipamiento profesional inalámbrico. 
+Entré en la universidad pero no la terminé porqué preferí empezar a trabajar como un profesional independiente en Unix y aplicaciones web.  El "**problema del año 2000**" [[30]](https://en.wikipedia.org/wiki/Year_2000_problem) había pasado desde seis años y en los siguientes diez años fui a vivir en España donde empece a trabajar y jugar con la trasmisión de datos digitales sobre redes IP utilizando el medio inalámbrico. **Mikrotik** [[31]](https://en.wikipedia.org/wiki/MikroTik), **Ubiquiti** [[32]](https://en.wikipedia.org/wiki/Ubiquiti_Networks) y **Openwrt** [[33]](https://en.wikipedia.org/wiki/OpenWrt) fueron mi trabajo diario y mi pasión. Empece a trabajar como el jefe de departamento de atención técnica de un fabricante español de equipamiento profesional inalámbrico. 
 
-Hoy en día mi nombre es conocido en sur América y en España como técnico de calidad tanto en wireless cuanto en WiMAX.
+Hoy en día mi nombre es conocido en sur América y en España como técnico de calidad tanto en wireless cuanto en **WiMAX** [[34]](https://en.wikipedia.org/wiki/WiMAX).
 
 También apreciado en Cuba en agencia gubernamentales y en Nicaragua en el ejercito. Llevando Internet donde los demás no pueden. 
 
-Cisco también es otra pasión para mi. Intercambio de paquetes en varios niveles de la capa ISO/OSI, protocolos de enrutamiento dinámico interiores y exteriores, etiquetado de intercambio de paquetes y así diciendo. Protección de perímetro y  análisis profunda de paquetes son también mi comida diaria. 
+**Cisco** [[35]](https://en.wikipedia.org/wiki/Cisco_Systems) también es otra pasión para mi. **Intercambio de paquetes** [[36]](https://en.wikipedia.org/wiki/Multilayer_switch) en varios niveles de la capa ISO/OSI, protocolos de **enrutamiento dinámico** [[37]](https://en.wikipedia.org/wiki/Dynamic_routing) **interiores** [[38]](https://en.wikipedia.org/wiki/Interior_gateway_protocol) y **exteriores** [[39]](https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol), **etiquetado de intercambio de paquetes** [[40]](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching) y así diciendo. Protección de perímetro y  **análisis profunda de paquetes** [[41]](https://en.wikipedia.org/wiki/Deep_packet_inspection) son también mi comida diaria. 
 
 Más tarde fundé un proveedor de servicios de Internet inalámbrico mandando el mercado Catalano en cuatro años con más de cuatro mil clientes y trecientos grandes cuentas.  Después, desde hace dos años, he profundizado las redes en frecuencias muy bajas. Y los campos magnéticos que se crean a sus alrededores. He ampliado mi conocimientos acerca de las radios programadas vía software y las antenas caseras necesarias para explorar las bajas frecuencias. 
 
 Mis dos nuevos proyectos son la "terraza de las telecomunicaciones" donde estoy haciendo unas publicaciones acerca del control neuronal de estado y redama.es mi nuevo proveedor de servicios tanto en Internet cuanto en radio.
 
-Todo basado en software libre y OpenBSD.  
-
-The operating system was a **Windows 98** [[12]](https://en.wikipedia.org/wiki/Windows_98) full of bugs. Mauro hack my desktop in a couple of weeks with a **MS-DOS** [[13]](https://en.wikipedia.org/wiki/MS-DOS) trick in the classic **AUTOEXEC.BAT** [[14]](https://en.wikipedia.org/wiki/AUTOEXEC.BAT) script. So I start to hack. At that time, more then twenty years ago, I use to play. I start gaming, **IRCNet** [[15]](https://en.wikipedia.org/wiki/IRCnet), **takeover** [[16]](https://en.wikipedia.org/wiki/IRC_takeover), **Stacheldraht** [[17]](https://en.wikipedia.org/wiki/Stacheldraht), **Eggdrop** [[18]](https://en.wikipedia.org/wiki/Eggdrop), **BNC** [[19]](https://en.wikipedia.org/wiki/BNC_(software)), **Shell** [[20]](https://en.wikipedia.org/wiki/Shell_(computing)), **TESO team** [[21]](https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)), **Smurf** [[22]](https://en.wikipedia.org/wiki/Smurf_attack) and so on. This is how I start to play with Unix, only illegal hacking in the ninety. 
-
-*I was just a curious boy and not a professional senior network engineer.* 
-
-**Unset HISTFILE** [[23]](https://www.gnu.org/software/bash/manual/html_node/Bash-History-Facilities.html) was my preferred command. We found a crew in IRCNet. We started a shell provider and started to sell bouncer to the IRC network. We were testers of IPv6 and **3FFE class** [[24]](https://en.wikipedia.org/wiki/6bone). We started learning **apache** [[25]](https://en.wikipedia.org/wiki/Apache_HTTP_Server), **FreeBSD** [[26]](https://en.wikipedia.org/wiki/FreeBSD), **POLLING** [[27]](https://www.freebsd.org/cgi/man.cgi?query=polling&sektion=4&n=1), **kernel hacking** [[28]](https://www.freebsd.org/doc/en/books/arch-handbook/), networking, user administration, IPsec, **BIND** [[29]](https://en.wikipedia.org/wiki/BIND), and so on. Slowly I joined Unix and networking community. 
-
-*BSD was my fun, Linux my desktop. BSD was my server, Linux my workstation.* 
-
-I was a collector of old fashioned hardware buying it in Ebay, chilling with an old style view version of the site. **SPARCstation 20** [[30]](https://en.wikipedia.org/wiki/SPARCstation_20) was my joy and obviously **NetBSD** [[31]](http://netbsd.org/) that “*of course it runs*”.
-
-Joined the University but haven’t graduated and started to work as a an independent professional with Unix and web applications. The **Y2K glitch** [[32]](https://en.wikipedia.org/wiki/Year_2000_problem) passed from six years and in the next ten years I went to live to Spain where I started to work and play with IP over wireless. **MikroTik** [[33]](https://en.wikipedia.org/wiki/MikroTik), **Ubiquiti** [[34]](https://en.wikipedia.org/wiki/Ubiquiti_Networks), **OpenWrt** [[35]](https://en.wikipedia.org/wiki/OpenWrt) was my daily work and passion. I started to work as the head of the technical department of a ES wireless equipment manufacturer.
-
-My name is famous nowadays in South America and Spain as a professional wireless and **WiMAX** [[36]](https://en.wikipedia.org/wiki/WiMAX) technician. 
-
-*Famous in Cuba with government and in Nicaragua with army. Bringing Internet where others could not.* 
-
-**Cisco** [[37]](https://en.wikipedia.org/wiki/Cisco_Systems) is also another passion of mine. **Multilayer switching** [[38]](https://en.wikipedia.org/wiki/Multilayer_switch), **dynamic routing** [[39]](https://en.wikipedia.org/wiki/Dynamic_routing) protocols **interior** [[40]](https://en.wikipedia.org/wiki/Interior_gateway_protocol) and **exterior** [[41]](https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol), **Multi protocol label switching** [[42]](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching) and so on. Firewalling and **deep packet inspection** [[43]](https://en.wikipedia.org/wiki/Deep_packet_inspection) are also my daily bread.
-
-Later I’ve found a wireless internet service provider leading the Catalan market in four years with more that four thousands customers and three hundreds big accounts. Then studied for two years magnetic wireless networks. I’ve amplified my knowledge about software defined radio, ELF and hand manufacturer antennas. My two news projects are Telecom Lobby where I want to public full disclosure technology about neural control and redama.es my new ISP. 
-
-All **OpenBSD** [[44]](http://openbsd.org/) based.
+Todo basado en software libre y **OpenBSD** [[42]](http://openbsd.org/).  
 
 ### External links
 
@@ -92,73 +70,71 @@ All **OpenBSD** [[44]](http://openbsd.org/) based.
 
 10. https://es.wikipedia.org/wiki/USRobotics
 
-11. https://en.wikipedia.org/wiki/Registered_jack
+10. https://en.wikipedia.org/wiki/Windows_98
 
-12. https://en.wikipedia.org/wiki/Windows_98
+11. https://en.wikipedia.org/wiki/MS-DOS
 
-13. https://en.wikipedia.org/wiki/MS-DOS
+12. https://en.wikipedia.org/wiki/AUTOEXEC.BAT
 
-14. https://en.wikipedia.org/wiki/AUTOEXEC.BAT
+13. https://en.wikipedia.org/wiki/IRCnet
 
-15. https://en.wikipedia.org/wiki/IRCnet
+14. https://en.wikipedia.org/wiki/IRC_takeover
 
-16. https://en.wikipedia.org/wiki/IRC_takeover
+15. https://en.wikipedia.org/wiki/Stacheldraht
 
-17. https://en.wikipedia.org/wiki/Stacheldraht
+16. https://en.wikipedia.org/wiki/Eggdrop
 
-18. https://en.wikipedia.org/wiki/Eggdrop
+17. https://en.wikipedia.org/wiki/BNC_(software)
 
-19. https://en.wikipedia.org/wiki/BNC_(software)
+18. https://en.wikipedia.org/wiki/Shell_(computing)
 
-20. https://en.wikipedia.org/wiki/Shell_(computing)
+19. https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)
 
-21. https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)
+20. https://en.wikipedia.org/wiki/Smurf_attack
 
-22. https://en.wikipedia.org/wiki/Smurf_attack
+21. https://www.gnu.org/software/bash/manual/html_node/Bash-History-Facilities.html
 
-23. https://www.gnu.org/software/bash/manual/html_node/Bash-History-Facilities.html
+22. https://en.wikipedia.org/wiki/6bone
 
-24. https://en.wikipedia.org/wiki/6bone
+23. https://en.wikipedia.org/wiki/Apache_HTTP_Server
 
-25. https://en.wikipedia.org/wiki/Apache_HTTP_Server
+24. https://en.wikipedia.org/wiki/FreeBSD
 
-26. https://en.wikipedia.org/wiki/FreeBSD
+25. https://www.freebsd.org/cgi/man.cgi?query=polling&sektion=4&n=1
 
-27. https://www.freebsd.org/cgi/man.cgi?query=polling&sektion=4&n=1
+26. https://www.freebsd.org/doc/en/books/arch-handbook/
 
-28. https://www.freebsd.org/doc/en/books/arch-handbook/
+27. https://en.wikipedia.org/wiki/BIND
 
-29. https://en.wikipedia.org/wiki/BIND
+28. https://en.wikipedia.org/wiki/SPARCstation_20
 
-30. https://en.wikipedia.org/wiki/SPARCstation_20.
+29. http://netbsd.org/
 
-31. http://netbsd.org/
+30. https://en.wikipedia.org/wiki/Year_2000_problem
 
-32. https://en.wikipedia.org/wiki/Year_2000_problem
+31. https://en.wikipedia.org/wiki/MikroTik
 
-33. https://en.wikipedia.org/wiki/MikroTik
+32. https://en.wikipedia.org/wiki/Ubiquiti_Networks
 
-34. https://en.wikipedia.org/wiki/Ubiquiti_Networks
+33. https://en.wikipedia.org/wiki/OpenWrt
 
-35. https://en.wikipedia.org/wiki/OpenWrt
+34. https://en.wikipedia.org/wiki/WiMAX
 
-36. https://en.wikipedia.org/wiki/WiMAX
+35. https://en.wikipedia.org/wiki/Cisco_Systems
 
-37. https://en.wikipedia.org/wiki/Cisco_Systems
+36. https://en.wikipedia.org/wiki/Multilayer_switch
 
-38. https://en.wikipedia.org/wiki/Multilayer_switch
+37. https://en.wikipedia.org/wiki/Dynamic_routing
 
-39. https://en.wikipedia.org/wiki/Dynamic_routing
+38. https://en.wikipedia.org/wiki/Interior_gateway_protocol
 
-40. https://en.wikipedia.org/wiki/Interior_gateway_protocol
+39. https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol
 
-41. https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol
+40. https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
 
-42. https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
+41. https://en.wikipedia.org/wiki/Deep_packet_inspection
 
-43. https://en.wikipedia.org/wiki/Deep_packet_inspection
-
-44. http://openbsd.org/
+42. http://openbsd.org/
 
     
 
