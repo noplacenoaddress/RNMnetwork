@@ -26,25 +26,23 @@ Ejecutan estas **pruebas** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) 
 
 He enviado mi prueba de saliva el 6 de Marzo de 2020 a una empresa dedicada al almacenamiento y repartición de medicinales entra otros servicios. La compañía es **Movianto** [[16]](http://movianto.com/) y la delegación es en Holanda. Después fue repartida en Estados Unidos y después fue supuesta a extracción de **ADN** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
-En esta primera imagen puedes apreciar la estimación étnica de esta empresa privada. Aquí están **grupos étnicos** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) que hablando de ADN comparten 
+En esta primera imagen puedes apreciar la estimación étnica de esta empresa privada. Aquí están **grupos étnicos** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) que hablando de ADN comparten la misma reserva genética [[19]](https://en.wikipedia.org/wiki/Gene_pool), grupos y familias:
 
-In the first image you can appreciate the ethnic estimation of this private company. Here there are **ethnic group** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) that DNA speaking they share similar **gene pool** [[19]](https://en.wikipedia.org/wiki/Gene_pool), them groups and sub groups:
+-  Europeo del Sur 82.6%
+  - Italiano 71.1%
+  - Griego y Balcánico 2.5%
+  - Sardo 2.4%
+  - Español y Portugués 2.0%
+  - Europeo del Sur no clasificado 4.6%
+- Europeo 2.0%
+- Asiático occidental y africano del norte 0.8%
+- No asignado 0.3%
 
-- Southern European 82.6%
-  - Italian 71.1%
-  - Greek and Balkan 2.5%
-  - Sardinian 2.4%
-  - Spanish and Portuguese 2.0%
-  - Broadly southern European 4.6%
-- Broadly European 2.0%
-- Western Asian and north African 0.8%
-- Unassigned 0.3%
-
-All are **European ethnics groups** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe).
+Estos son todos los **grupos étnicos Europeos** [[20]](https://en.wikipedia.org/wiki/Ethnic_groups_in_Europe). 
 
 ![Haplogroups](http://telecomlobby.com/Images/Haplogroups_europe.png)
 
-Speaking about ancestry it's important to understand the world **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) that are a group of **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) who themselves are **allele** [[23]](https://en.wikipedia.org/wiki/Allele) that are what explain **mutations** [[24]](https://en.wikipedia.org/wiki/Mutation) and **phenotypes** [[25]](https://en.wikipedia.org/wiki/Phenotype).
+Hablando de antepasados es importante entender que el nombre **haplogroup** [[21]](https://en.wikipedia.org/wiki/Haplogroup) que es el grupo de **haplotype** [[22]](https://en.wikipedia.org/wiki/Haplotype) los cuales ellos mismos son **allele** [[23]](https://en.wikipedia.org/wiki/Allele) que son lo que explican las **mutaciones** [[24]](https://en.wikipedia.org/wiki/Mutation) y los **fenotipos** [[25]](https://en.wikipedia.org/wiki/Phenotype).
 
 In **human genetics** [[26]](https://en.wikipedia.org/wiki/Human_genetics) two haplogroups are studied:
 
