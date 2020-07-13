@@ -26,7 +26,7 @@ Ejecutan estas **pruebas** [[12]](https://en.wikipedia.org/wiki/Saliva_testing) 
 
 He enviado mi prueba de saliva el 6 de Marzo de 2020 a una empresa dedicada al almacenamiento y repartición de medicinales entra otros servicios. La compañía es **Movianto** [[16]](http://movianto.com/) y la delegación es en Holanda. Después fue repartida en Estados Unidos y después fue supuesta a extracción de **ADN** [[17]](https://en.wikipedia.org/wiki/DNA_extraction).  
 
-
+En esta primera imagen puedes apreciar la estimación étnica de esta empresa privada. Aquí están **grupos étnicos** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) que hablando de ADN comparten 
 
 In the first image you can appreciate the ethnic estimation of this private company. Here there are **ethnic group** [[18]](https://en.wikipedia.org/wiki/Ethnic_group) that DNA speaking they share similar **gene pool** [[19]](https://en.wikipedia.org/wiki/Gene_pool), them groups and sub groups:
 
