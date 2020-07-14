@@ -90,6 +90,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 13/7/2020 at 15:49 one important person present in this network, the traffic one, told me that my destiny will be suicide. On 16:21 he speaks with Francesca about to kill me.
 - 13/7/2020 at 20:20 another important person this time from audiovisual industry say that he wants to kill me.
 - 14/7/2020 01:00 dream injection and sleep deprivation. The dream is about my ex girlfriend in an orgy tortured by friends of mine under a bridge in the sea. They speak about an old friend of mine that is strictly connected with the audiovisual industry. Another say to me when I weak up in subliminal messages that she has done a lot of pornography about her and then he fucks with her in Barcelona for one year. What happen to them? She is victim of brainwashing by television stuff at the age of 37 years old. She was used in pornography perhaps also in Liguria. After I can't go back to sleep because Francesca says: "torturing him because he has to die knows too many names".
+- 15/7/2020 01:48 an horror film streamed directly to my visual cortex doing a dream injection. Saray love horror. 
 
 ![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
 
