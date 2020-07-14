@@ -123,6 +123,10 @@ He is present without any doubt in the remote neural monitoring network applicat
 
 ![Evidences Mauro](http://telecomlobby.com/Images/overwhelming_evideces_mauro.webp)
 
+On the 14 of July of 2020 as I published my Spanish version my father immediately write me a Whatsup:
+
+![Whatsup 14072020](http://telecomlobby.com/Images/overwhelming_evideces_mauro_14072020.webp) 
+
 ### Machined bipolar horn
 
 ![Mauro Giuntoli and Vieta Pascual](http://telecomlobby.com/Images/mauro_giuntoli_vieta_pascual.jpg)
