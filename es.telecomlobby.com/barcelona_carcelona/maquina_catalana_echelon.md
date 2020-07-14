@@ -14,7 +14,9 @@ Evidentemente militares y/o funcionarios corruptos con amistades y/o familiares 
 
 #### ¿Cual es el resultado practico en una persona de la «Maquina» Catalana?
 
+Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina» son detallados en seguida:
 
+-  Perdida total del derecho fundamental constitucional de la privacidad.
 
 ### External links 
 
