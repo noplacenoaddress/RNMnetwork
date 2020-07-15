@@ -19,7 +19,9 @@ Evidentemente militares y/o funcionarios corruptos con amistades y/o familiares 
 Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina», o sea prácticamente todos los ciudadanos Catalanes, son detallados en seguida:
 
 -  Perdida total del derecho fundamental **constitucional** [[2]](https://es.wikipedia.org/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1978) de la **privacidad** [[3]](https://es.wikipedia.org/wiki/Privacidad) y **intimidad** [[4]](https://es.wikipedia.org/wiki/Intimidad), legislada en su artículo dieciocho. También garantizada por la **convención Europea de Derechos Humanos** [[5]](https://es.wikipedia.org/wiki/Convenci%C3%B3n_Europea_de_Derechos_Humanos), artículo ocho, por la directiva europea **95/46 CE** [[6]](http://telecomlobby.com/RNMnetwork/laws/CELEX_31995L0046_ES_TXT.pdf), por el reglamento general de protección de datos **RGPD** [[7]](https://es.wikipedia.org/wiki/Reglamento_General_de_Protecci%C3%B3n_de_Datos) que en España se hizo ejecutiva con la **ley orgánica de protección de datos personales y garantía de los derechos digitales** [[8]](https://es.wikipedia.org/wiki/Ley_Org%C3%A1nica_de_Protecci%C3%B3n_de_Datos_Personales_y_garant%C3%ADa_de_los_derechos_digitales) de Marzo 2018. **BOE-A-2018-16673** [[9]](http://telecomlobby.com/RNMnetwork/laws/BOE-A-2018-16673-consolidado.pdf). Para no olvidarse que la privacidad es también garantizada por parte de **otras leyes** [[10]](https://es.wikipedia.org/wiki/Leyes_de_Espa%C3%B1a_sobre_privacidad) en España, algunas obsoletas actualmente pero interesantes al momento de buscar juicios por delitos que rompen estas leyes, y, como que no, por parte de la **declaración universal de los derechos del ser humano** [[11]](http://telecomlobby.com/RNMnetwork/laws/UDHR.pdf) en su artículo doce. 
-- Perdida total del derecho fundamental 
+- Perdida total de cualquier tipo de **secreto** [[12]](https://es.wikipedia.org/wiki/Secreto) garantizado y obligado de por ley según profesión:
+  - **Secreto de voto** [[13]](https://es.wikipedia.org/wiki/Sufragio_secreto), clasificado como secreto de grado nueve, *más importante que los secretos de estado*. Garantizado por la constitución Española articulo **sesenta y ocho** [[14]](http://telecomlobby.com/RNMnetwork/laws/68_constitucion.pdf) fundamento y columna de la democracia. Donde no existe, en este caso sin ningún tipo de duda en toda Catalunya pero también podría ser en España, no existe la democracia.
+  -  
 
 ### External links 
 
@@ -34,3 +36,6 @@ Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina», o 
 9. http://telecomlobby.com/RNMnetwork/laws/BOE-A-2018-16673-consolidado.pdf
 10. [https://es.wikipedia.org/wiki/Leyes_de_Espa%C3%B1a_sobre_privacidad](https://es.wikipedia.org/wiki/Leyes_de_España_sobre_privacidad)
 11. http://telecomlobby.com/RNMnetwork/laws/UDHR.pdf
+12. https://es.wikipedia.org/wiki/Secreto
+13. https://es.wikipedia.org/wiki/Sufragio_secreto
+14. http://telecomlobby.com/RNMnetwork/laws/68_constitucion.pdf
