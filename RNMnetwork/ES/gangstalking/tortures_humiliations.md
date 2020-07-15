@@ -93,6 +93,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 15/7/2020 01:48 an horror film streamed directly to my visual cortex doing a dream injection. Saray love horror. I cannot sleep again because of sexual harassment with the voice of my mother. In reality is the Francesca crew. Until 5 of clock those idiots follow with dream injections and speak about violence. Are Italians that want to destroy Barcelona with little Mafia rules. They have only destroy our beloved city.
 - 15/7/2020 17:00 just during the "siesta" with dream injection they say to me that I'm not accepted in the drug scene, who question this?, and I see my mother doing me sexual violence as usual.
 - 15/7/2020 21:36 a very important person say that he will kill me.
+- 15/7/2020 23:50 the same person say to me another time if I want to die.
 
 ![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
 
