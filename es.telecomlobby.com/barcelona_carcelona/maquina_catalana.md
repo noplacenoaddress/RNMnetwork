@@ -12,6 +12,8 @@ Pertenecen a dicha estructura varias tecnologías representadas por diferentes e
 
 Evidentemente militares y/o funcionarios corruptos con amistades y/o familiares en familias nobles de rango dejan acceso a dichas infraestructuras utilizando un usuario de alguna persona muerta o bien ficticia para que después los datos en salida y entrada de dichos accesos sean elaborados en un centro de calculo central. 
 
+Esta instalación podría ser también ser conexa a la Iglesia Católica a través de una empresa Italiana pero no tengo acceso a esto tipo de datos.  
+
 #### ¿Cual es el resultado practico en una persona de la «Maquina» Catalana?
 
 ![Piramide invertida](http://telecomlobby.com/Images/Piramide_invertida.webp)
@@ -22,7 +24,7 @@ Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina», o 
 - Perdida total de cualquier tipo de **secreto** [[12]](https://es.wikipedia.org/wiki/Secreto) garantizado y obligado de por ley según profesión:
   - **Secreto de voto** [[13]](https://es.wikipedia.org/wiki/Sufragio_secreto), clasificado como secreto de grado nueve, *más importante que los secretos de estado*. Garantizado por la constitución Española articulo **sesenta y ocho** [[14]](http://telecomlobby.com/RNMnetwork/laws/68_constitucion.pdf) fundamento y columna de la democracia. Donde no existe, en este caso sin ningún tipo de duda en toda Catalunya pero también podría ser en España, no existe la democracia.
   - **Secreto de la correspondencia** [[15]](https://es.wikipedia.org/wiki/Secreto_de_la_correspondencia) que ha sido ampliado a otras formas de comunicación como telefonía y Internet, todas totalmente espiada de forma totalmente ilegal por parte de la red de monitorio neuronal. Viene así definido como «**derecho fundamental de las comunicaciones**» [[16]](http://telecomlobby.com/RNMnetwork/laws/Dialnet-ElDerechoFundamentalAlSecretoDeLasComunicaciones-5085108.pdf) disputable sin sombra de duda en cualquier juicio. 
-  - 
+  - Todo tipo de **secreto profesional** [[17]](https://es.wikipedia.org/wiki/Secreto_profesional). Protegidos de por ley como **detalla** [[18]](http://www.aeds.org/congreso/congresos-aeds/congreso3_10.php) el magistrado jefe del **gabinete técnico** [[19]](http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Informacion-institucional/Estructura-organizativa-del-TS/Gabinete-Tecnico/Gabinete-Tecnico----Area-jurisdiccional---Nombramiento-y-seleccion) del **tribunal supremo** [[20]](https://es.wikipedia.org/wiki/Tribunal_Supremo_(Espa%C3%B1a)) **José María Alvarez-Cienfuegos Suárez** [[21]](https://dialnet.unirioja.es/servlet/autor?codigo=152977).
 
 ### External links 
 
@@ -42,3 +44,9 @@ Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina», o 
 14. http://telecomlobby.com/RNMnetwork/laws/68_constitucion.pdf
 15. https://es.wikipedia.org/wiki/Secreto_de_la_correspondencia
 16. http://telecomlobby.com/RNMnetwork/laws/Dialnet-ElDerechoFundamentalAlSecretoDeLasComunicaciones-5085108.pdf
+17. https://es.wikipedia.org/wiki/Secreto_profesional
+18. http://www.aeds.org/congreso/congresos-aeds/congreso3_10.php
+19. http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Informacion-institucional/Estructura-organizativa-del-TS/Gabinete-Tecnico/Gabinete-Tecnico----Area-jurisdiccional---Nombramiento-y-seleccion
+20. [https://es.wikipedia.org/wiki/Tribunal_Supremo_(Espa%C3%B1a)](https://es.wikipedia.org/wiki/Tribunal_Supremo_(España))
+21. https://dialnet.unirioja.es/servlet/autor?codigo=152977
+
