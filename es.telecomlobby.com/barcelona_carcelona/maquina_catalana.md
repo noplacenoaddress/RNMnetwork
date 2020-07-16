@@ -1,6 +1,6 @@
 # ¿Que es la «Maquina» Catalana?
 
-![¿Que es la «Maquina» Catalana?](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
+![¿Que es la «Maquina» Catalana?](http://telecomlobby.com/Images/brain_sniffed.webp)
 
 La maquina Catalana nada más es que un sistema de monitorio neuronal o sistema de neuroestimuladores inalámbricos y de posición complejo obtenido a través de radio frecuencia.
 
