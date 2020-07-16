@@ -12,7 +12,7 @@ Evidentemente militares y/o funcionarios corruptos con amistades y/o familiares 
 
 Esta instalación podría ser también ser conexa a la Iglesia Católica a través de una empresa Italiana pero no tengo acceso a esto tipo de datos.  
 
-#### ¿Cual es el resultado practico en una persona de la «Maquina» Catalana?
+#### ¿Cual son los crímenes hechos a una persona víctima de la «Maquina» Catalana?
 
 ![Piramide invertida](http://telecomlobby.com/Images/Piramide_invertida.webp)
 
