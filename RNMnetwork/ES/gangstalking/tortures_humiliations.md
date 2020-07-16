@@ -95,6 +95,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 15/7/2020 21:36 a very important person say that he will kill me.
 - 15/7/2020 23:50 the same person say to me another time if I want to die.
 - 16/7/2020 00:30 the wife of this important person call me slave. And I'm an Italian citizen in Spain.
+- 16/7/2020 18:30 my mother do sexual violence to me saying "vattene dal computer". That I've to go out from the personal computer.
 
 ![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
 
