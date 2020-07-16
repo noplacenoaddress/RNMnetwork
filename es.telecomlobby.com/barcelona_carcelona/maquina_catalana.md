@@ -42,6 +42,12 @@ Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina», o 
 
 Siguiendo con los crímenes a los cuales un ser humano capturado por el sistema de neuroestimuladores inalámbricos de construcción en el años noventa y uno pero que hoy en día implementa a nivel software sin ninguna duda una interfaz cerebro maquina inalámbrica compleja compuestas de varias antenas  y seguramente distintas frecuencias dependiendo de la posición geográfica de la victima, no puedo no hacer mención de:
 
+- Trafico de drogas obligado por parte de los dueños de la infraestructura bajo coacción la mayoría de las veces con los hijos o la familia. Los dueños ganan del trafico con una estructura piramidal de estafa, estructura que se puede apreciare en el escudo de armas de un cardinal Genovés fundador del movimiento sectario Católico **Comunión y Liberación** [[41]](https://es.wikipedia.org/wiki/Comuni%C3%B3n_y_Liberaci%C3%B3n). En este negocio esta secta, aunque no sea reconocida así por parte del estado Italiano, convence madres con graves problemas psiquiátricos a vender los hijos para ganar dinero, pueden ser hijos naturales o bien victimas de trafico de cunas. El trafico de drogas es obviamente penado de por ley pero siendo obligado por dicha infraestructura no tiene que considerarse delito por parte de un estado justo que prenda en consideración hacer luz sobre este crimen inmenso contra el ser humano. A su vez la **coacción** [[42]](https://es.wikipedia.org/wiki/Coacci%C3%B3n) si que es delito y en el código penal Español es detallado en el *artículo ciento setenta y dos* que pertenece al **titulo VI** [[43]](http://telecomlobby.com/RNMnetwork/laws/TITULOVI_Delitos_contra_libertad.pdf) del código penal. En el mismo titulo hay mas artículos que se puedan utilizar en fase de juicio contra estas dos familias nobles que utilizan dicha infraestructura por juegos al suicidio, aunque como podéis entender dichas instalaciones muy lamentablemente sean utilizadas por muchas mas actividades delictivas de control: *delitos de las amenazas*, en las cuales yo también he caído amenazando dichos asesinos aunque creo con muchas razones, presente en el artículo 169.
+
+- **Trata de personas** [[44]](https://es.wikipedia.org/wiki/Trata_de_personas)
+
+  
+
 
 
  
@@ -88,4 +94,7 @@ Siguiendo con los crímenes a los cuales un ser humano capturado por el sistema 
 38. [https://es.wikipedia.org/wiki/Tortura_en_Espa%C3%B1a](https://es.wikipedia.org/wiki/Tortura_en_España)
 39. https://es.wikipedia.org/wiki/Theo_van_Boven
 40. http://telecomlobby.com/RNMnetwork/documents/INFORMERELATORTHEOVANBOVEN6.02.04.pdf
+41. [https://es.wikipedia.org/wiki/Comuni%C3%B3n_y_Liberaci%C3%B3n](https://es.wikipedia.org/wiki/Comunión_y_Liberación)
+42. [https://es.wikipedia.org/wiki/Coacci%C3%B3n](https://es.wikipedia.org/wiki/Coacción)
+43. https://es.wikipedia.org/wiki/Trata_de_personas
 
