@@ -40,7 +40,7 @@ Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina» son
    -  **Corte Penal Internacional** [[46]](https://es.wikipedia.org/wiki/Corte_Penal_Internacional)
    -  **Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional** [[47]](https://es.wikipedia.org/wiki/Convenci%C3%B3n_de_las_Naciones_Unidas_contra_la_Delincuencia_Organizada_Transnacional)
    -  **La trata de seres humanos en España** [[48]](http://telecomlobby.com/RNMnetwork/documents/human_trafficking_in_spain_invisible_victims_es_2.pdf), del **Defensor del Pueblo Español** [[49]](https://www.defensordelpueblo.es/)
-   -  **Conveción de las naciones unidas contra la delincuencia organizada transnacional y sus protocolos** [[50]](http://telecomlobby.com/RNMnetwork/documents/TOCebook-s.pdf), Palermo 15 de Noviembre del 2000
+   -  **Conveción de las naciones unidas contra la delincuencia organizada transnacional y sus protocolos** [[50]](http://telecomlobby.com/RNMnetwork/documents/TOCebook-s.pdf), Palermo 15 de Noviembre del 2000.
 
 #### Las torturas en España
 
