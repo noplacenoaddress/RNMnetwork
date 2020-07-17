@@ -41,6 +41,7 @@ Varias deficiencias sobre la vida cotidiana de una victima de la «Maquina» son
    -  **Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional** [[47]](https://es.wikipedia.org/wiki/Convenci%C3%B3n_de_las_Naciones_Unidas_contra_la_Delincuencia_Organizada_Transnacional)
    -  **La trata de seres humanos en España** [[48]](http://telecomlobby.com/RNMnetwork/documents/human_trafficking_in_spain_invisible_victims_es_2.pdf), del **Defensor del Pueblo Español** [[49]](https://www.defensordelpueblo.es/)
    -  **Conveción de las naciones unidas contra la delincuencia organizada transnacional y sus protocolos** [[50]](http://telecomlobby.com/RNMnetwork/documents/TOCebook-s.pdf), Palermo 15 de Noviembre del 2000.
+-  **Persecución** [[51]](https://es.wikipedia.org/wiki/Persecuci%C3%B3n). En esta estructura montada en buena parte con un sistema de telecomunicaciones de tipo militar y subliminal un tercio de los hechos pasan de forma física y es allí donde es mas fácil encontrar un hilo conductor para resalir a los reales ejecutores de estos horribles crímenes pero también a los teóricos, que en este caso, muy lamentablemente, pertenecen a la élite. Masonería y nobleza de muy alto rango. Militares y individuos objetivos de alto **coeficiente intelectual** [[52]](https://es.wikipedia.org/wiki/Cociente_intelectual) vienen utilizados como maquinistas, o sea soldados «picciotti», en varias tareas de distinto nivel como si fuera esta más que una mafia una fabrica. El termino persecución viene conectado hoy en día con que se llama acoso de pandillas o teatro callejero, dos formas de acoso muy articuladas en las cuales participan un gran número de efectivos. Es impresionante y creo que sea algo que se puede encontrar únicamente en una monarquía o dictadura. Dudo que sea posible en una república.  En el caso de la dictadura la persecución es seguramente violenta desde el empezar, en el caso de la monarquía es un escalón de violencia antes psicológica y seguramente después también física si no previamente combatida de la misma forma que hago yo, informando públicamente no tanto a fuerza policiales dada la naturaleza compleja de estos crímenes cuanto a un público lo más elevado posible; por esto prefiero publicar cada día en vez de formatear y organizar los textos de forma ordenada y única. 
 
 #### Las torturas en España
 
@@ -108,8 +109,10 @@ Profundizando el tema de las **torturas en España** [[50]](https://es.wikipedia
 48. http://telecomlobby.com/RNMnetwork/documents/human_trafficking_in_spain_invisible_victims_es_2.pdf
 49. https://www.defensordelpueblo.es/
 50. http://telecomlobby.com/RNMnetwork/documents/TOCebook-s.pdf
-51. [https://es.wikipedia.org/wiki/Tortura_en_Espa%C3%B1a](https://es.wikipedia.org/wiki/Tortura_en_España)
-52. https://es.wikipedia.org/wiki/Theo_van_Boven
-53. http://telecomlobby.com/RNMnetwork/documents/INFORMERELATORTHEOVANBOVEN6.02.04.pdf
-54. 
+51. [https://es.wikipedia.org/wiki/Persecuci%C3%B3n](https://es.wikipedia.org/wiki/Persecución)
+52. https://es.wikipedia.org/wiki/Cociente_intelectual
+53. [https://es.wikipedia.org/wiki/Tortura_en_Espa%C3%B1a](https://es.wikipedia.org/wiki/Tortura_en_España)
+54. https://es.wikipedia.org/wiki/Theo_van_Boven
+55. http://telecomlobby.com/RNMnetwork/documents/INFORMERELATORTHEOVANBOVEN6.02.04.pdf
+56. 
 
