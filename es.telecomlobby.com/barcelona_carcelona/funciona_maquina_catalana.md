@@ -34,7 +34,9 @@ El tercio tramo viene ocupado inmediatamente desde su construcción por una seri
 
 **Yo soy victima de este sistema de control mental remoto.** 
 
+La red de monitorio neuronal de la Torre de Collserola en Barcelona lo que realmente construye es un sistema de DOMINT ilegal y totalmente desconocido por parte de las autoridades Europeas. Un **ECHELON** [[10]](https://es.wikipedia.org/wiki/ECHELON) que actúa y interfiere directamente sobre el ser humano, un crimen horrible contra la humanidad. A diferencia de la red de espionaje mundial, ECHELON, la red de monitorio neuronal que yo mismo prefiero definir como la red de tráfico de personas no se ocupa de datos binarios pero bien de cerebros humanos, de **neurociencia** [[11]](https://es.wikipedia.org/wiki/Neurociencia). 
 
+Ha tenido una evolución desde el 1991 hasta hoy en día 2020, treinta años de desarrollo. Un sistema prácticamente perfecto. Lo que es el interprete de comando y inyecciones de informaciones en los cerebros de las victimas viene hoy en día metido en practica por una interfaz inalámbrica cerebro maquina, BMI brain machina interface, de obvia proveniencia militar. 
 
 ### External links 
 
@@ -47,4 +49,6 @@ El tercio tramo viene ocupado inmediatamente desde su construcción por una seri
 7. [https://es.wikipedia.org/wiki/Televisi%C3%B3n_de_Catalu%C3%B1a](https://es.wikipedia.org/wiki/Televisión_de_Cataluña)
 8. [https://es.wikipedia.org/wiki/Telef%C3%B3nica](https://es.wikipedia.org/wiki/Telefónica)
 9. https://en.wikipedia.org/wiki/Non-line-of-sight_propagation
+10. https://es.wikipedia.org/wiki/ECHELON
+11. https://es.wikipedia.org/wiki/Neurociencia
 
