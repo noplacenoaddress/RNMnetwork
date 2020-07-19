@@ -1,8 +1,12 @@
 # ¿Como funciona la «Maquina» Catalana?
 
-![¿Que es la «Maquina» Catalana?](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
+![Funcionamiento Mafia Catalana](http://telecomlobby.com/Images/mafia_catalana.webp)
 
-Técnicamente el acceso de última milla de la «Maquina» Catalana es radio frecuencia y su fin último es la esclavitud o sea sacar el máximo provecho en un tiempo de vida bastante reducido de las personas victimas. Terminan prácticamente todos enganchados a las drogas, reducidos a la venta de propio cuerpo, violados y obligados en hacer daños a sus círculos de amistades. Todos están metidos forzosamente dentro el programa de individuo objetivo que es un centro de calculo donde se desarrollan aplicaciones neuronales y nuevas tecnologías como la **computación cuántica** [[1]](https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica). Es totalmente plausible que toda esta ciencia se haya desarrollado en su totalidad utilizando parques de conejillos de India reducido a la esclavitud por parte de la **Mafia Catalana**.  
+
+
+Como «Maquina» acordaros que entiendo tanto la tecnología utilizada para esclavizar las victimas y el funcionamiento de la **Mafia Catalana**. Dicha Mafia no tiene ningún tipo de invención o secreto. Quien la ha moldeada ha seguido exactamente lo que se puede encontrar en Internet acerca del control mental. Es una Mafia subliminal, con óptimos contactos en los gobiernos. Es una Mafia de corrupción, acecho, amenazas y coacción. 
+
+Técnicamente el acceso de última milla de la «Maquina» Catalana es radio frecuencia y su fin último es la esclavitud o sea sacar el máximo provecho en un tiempo de vida bastante reducido sobre las personas victimas. Terminan prácticamente todas enganchadas a las drogas, reducidas a la venta de propio cuerpo, violadas y obligadas en hacer daños a sus círculos de amistades. Todos están metidos forzosamente dentro el programa de individuo objetivo que es un centro de calculo donde se desarrollan aplicaciones neuronales y nuevas tecnologías como la **computación cuántica** [[1]](https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica). Es totalmente plausible que toda esta ciencia se haya desarrollado en su totalidad utilizando parques de conejillos de India reducido a la esclavitud por parte de la **Mafia Catalana**.  
 
 El acceso de última milla se compone de varias emisoras en distintas tecnologías:
 
@@ -13,7 +17,7 @@ El acceso de última milla se compone de varias emisoras en distintas tecnologí
 
 #### Sistema de neuroestimuladores inalámbricos
 
-
+![Sistema de neuroestimuladores inalámbricos](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
 
 ### External links 
 
