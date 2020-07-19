@@ -61,6 +61,10 @@ Siendo aquí la interfaz remota, los problemas de seguridad de la infraestructur
 
 El resultado es la locura, la violencia sexual sin dejar rastros, el dolor, la drogo adicción, el suicidio y la muerte por atropello o accidente de carretera. 
 
+![VLF en sant Pere de Ribes](http://telecomlobby.com/Images/vlf_espectro_barcelona.webp)
+
+Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant Pere de Ribes en fecha 19 de Julio 2020, espectro desde los 3 hasta los 30 KHz. Subrayados rangos de interés para una futura análisis de cada portante. 
+
 ### External links 
 
 1. [https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica](https://es.wikipedia.org/wiki/Computación_cuántica)
