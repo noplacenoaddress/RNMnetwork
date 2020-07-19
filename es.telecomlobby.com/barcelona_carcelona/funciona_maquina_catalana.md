@@ -30,7 +30,11 @@ debía ser coordinado entra estos jugadores:
 
 ![Sistema de neuroestimuladores inalámbricos](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
 
-El tercio tramo viene ocupado inmediatamente desde su construcción por una serie de antenas de parrillas de diferente enfoque, algunas mirando hacía el cielo sobretodo en su cara sur la cara hacía la mar y algunas para conexiones **NLOS** [[9]](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) terrestres. Este sistema sin duda ninguna es el nodo de neuroestimuladores inalámbricos entra los más grandes de la tierra. Es el nodo central de la red de tráfico de personas y de mercado negro que utiliza la Mafia Catalana para construir esclavos, seres humanos cuyos derechos constitucionales son pisados brutalmente. Yo soy victima de este sistema de control mental remoto. 
+El tercio tramo viene ocupado inmediatamente desde su construcción por una serie de antenas de parrillas de diferente enfoque, algunas mirando hacía el cielo sobretodo en su cara sur la cara hacía la mar y algunas para conexiones **NLOS** [[9]](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) terrestres. Este sistema sin duda ninguna es el nodo de neuroestimuladores inalámbricos entra los más grandes de la tierra. Es el nodo central de la red de tráfico de personas y de mercado negro que utiliza la Mafia Catalana para construir esclavos, seres humanos cuyos derechos constitucionales son pisados brutalmente. 
+
+**Yo soy victima de este sistema de control mental remoto.** 
+
+
 
 ### External links 
 
