@@ -2,7 +2,9 @@
 
 ![¿Que es la «Maquina» Catalana?](http://telecomlobby.com/Images/brain_sniffed.webp)
 
-La maquina Catalana nada más es que un sistema de monitorio neuronal o sistema de neuroestimuladores inalámbricos obtenido a través de radio frecuencia. Es el sistema de telecomunicaciones de una Mafia, la poco conocida Mafia Catalana. Una  Mafia silenciosa, muy bien organizada, tecnológica, poco sangrienta y que actúa por hechos en cadena. Una Mafia que no tiene ni un titular en ningún periódico como tal.  Yo soy victima de dicha Mafia, es una Mafia que basa su eje central sobre la esclavitud. 
+La maquina Catalana nada más es que un sistema de monitorio neuronal o sistema de neuroestimuladores inalámbricos obtenido a través de radio frecuencia. 
+
+Es el sistema de telecomunicaciones de una Mafia, la poco conocida Mafia Catalana. Una  Mafia silenciosa, muy bien organizada, tecnológica, poco sangrienta y que actúa por hechos en cadena. Una Mafia que no tiene ni un titular en ningún periódico como tal.  Yo soy victima de dicha Mafia, es una Mafia que basa su eje central sobre la esclavitud. 
 
 Pertenecen a dicha estructura varias tecnologías representadas por diferentes emisoras físicas lamentablemente identificables  como gubernamentales, sean ellas militares o bien de servicios públicos como sonar o radares de infraestructura oficial. 
 
