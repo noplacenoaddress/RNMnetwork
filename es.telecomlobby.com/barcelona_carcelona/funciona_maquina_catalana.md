@@ -21,12 +21,12 @@ El acceso de última milla se compone de varias emisoras en distintas tecnologí
 
 Desde un **artículo** [[2]](http://telecomlobby.com/RNMnetwork/documents/torre_collserola_foster.pdf) de la página web del los arquitectos británicos **Foster and Partners** [[3]](https://es.wikipedia.org/wiki/Foster_and_Partners):
 
-> A finales de la década de 1980, como resultado de la expansión de la televisión española y de las redes telefónicas y los requisitos de comunicación de los **Juegos Olímpicos del 1992** [[4]](https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Barcelona_1992), Barcelona se enfrentaba a una explosión de mástiles de transmisión en la montaña del Tibidabo. Anticipando el impacto ambiental que esto tendría, el alcalde **Pasqual Maragall** [[5]](https://es.wikipedia.org/wiki/Pasqual_Maragall) decidió que el infraestructura de comunicaciones y radiodifusión para toda la región
-> debía ser coordinado entra estos jugadores: 
->
-> - **Corporación de Radio y Televisión Española, S.A.** [[6]](https://es.wikipedia.org/wiki/RTVE)
-> - **Televisión de Cataluña** [[7]](https://es.wikipedia.org/wiki/Televisi%C3%B3n_de_Catalu%C3%B1a)
-> - **Telefónica S.A.** [[8]](https://es.wikipedia.org/wiki/Telef%C3%B3nica)
+A finales de la década de 1980, como resultado de la expansión de la televisión española y de las redes telefónicas y los requisitos de comunicación de los **Juegos Olímpicos del 1992** [[4]](https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Barcelona_1992), Barcelona se enfrentaba a una explosión de mástiles de transmisión en la montaña del Tibidabo. Anticipando el impacto ambiental que esto tendría, el alcalde **Pasqual Maragall** [[5]](https://es.wikipedia.org/wiki/Pasqual_Maragall) decidió que el infraestructura de comunicaciones y radiodifusión para toda la región
+debía ser coordinado entra estos jugadores: 
+
+- **Corporación de Radio y Televisión Española, S.A.** [[6]](https://es.wikipedia.org/wiki/RTVE)
+- **Televisión de Cataluña** [[7]](https://es.wikipedia.org/wiki/Televisi%C3%B3n_de_Catalu%C3%B1a)
+- **Telefónica S.A.** [[8]](https://es.wikipedia.org/wiki/Telef%C3%B3nica)
 
 ![Sistema de neuroestimuladores inalámbricos](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_technological_system_echelon.webp)
 
