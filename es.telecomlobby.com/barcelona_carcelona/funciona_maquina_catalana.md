@@ -36,7 +36,9 @@ El tercio tramo viene ocupado inmediatamente desde su construcción por una seri
 
 La red de monitorio neuronal de la Torre de Collserola en Barcelona lo que realmente construye es un sistema de DOMINT ilegal y totalmente desconocido por parte de las autoridades Europeas. Un **ECHELON** [[10]](https://es.wikipedia.org/wiki/ECHELON) que actúa y interfiere directamente sobre el ser humano, un crimen horrible contra la humanidad. A diferencia de la **red de espionaje mundial** [[11]](http://telecomlobby.com/RNMnetwork/documents/echelon.pdf), ECHELON, la red de monitorio neuronal que yo mismo prefiero definir como la red de tráfico de personas no se ocupa de datos binarios pero bien de cerebros humanos, de **neurociencia** [[12]](https://es.wikipedia.org/wiki/Neurociencia). 
 
-Ha tenido una evolución desde el 1991 hasta hoy en día 2020, treinta años de desarrollo. Un sistema prácticamente perfecto. Lo que es el interprete de comando y inyecciones de informaciones en los cerebros de las victimas viene hoy en día metido en practica por una interfaz inalámbrica cerebro maquina, BMI brain machine interface, de obvia proveniencia militar. 
+Ha tenido una evolución desde el 1991 hasta hoy en día 2020, treinta años de desarrollo, hasta llegar a ser un sistema prácticamente perfecto. Lo que es el interprete de comando y inyecciones de informaciones en los cerebros de las victimas viene hoy en día metido en practica por parte de una interfaz inalámbrica cerebro maquina, BMI brain machine interface, de obvia proveniencia militar. Un **sistema de cognición aumentada** fuera de control del usuario final, usuario que es obligado a estar dentro de esta red, siendo en vez que un usuario una victima de Mafia. Una Mafia que es base y alimenta las arcas de las grandes cadenas de audiovisuales privadas. Un escándalo a cielo abierto que brinda conejillos de India a grandes tecnológicas para el desarrollo de aplicaciones tanto militares cuantos civiles de élite. 
+
+Este tipo de aplicación neuronal conlleva varios problemas de seguridad que la universidad de Murcia ha analizado en 2017 en un importante trabajo.
 
 ### External links 
 
