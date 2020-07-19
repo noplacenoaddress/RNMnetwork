@@ -48,7 +48,10 @@ En radio, en el servicio de voz subliminal hacía el cerebro, los representantes
 
 La especificaciones técnicas de las interfaz maquina cerebro inalámbricas son públicas tanto en ámbito universitario y de investigación cuanto en el ámbito militar:
 
-- **Nueva generación de neurotecnología no quirúrgica N3** [[16]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology)
+- **Nueva generación de neurotecnología no quirúrgica N3** [[16]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology).
+- **Arquitectura y concepto de nivel de sistema de una interfaz maquina cerebro inalámbrica** [[17]](http://telecomlobby.com/RNMnetwork/documents/Tahir.pdf). 
+
+Con este sistema de extremo avance tecnológico estas familias nobles han creado campos de conejitos de Indias para el desarrollo de aplicaciones sin contratar las personas, ya que en realidad no sería un crimen bajo previo contrato notarial, y obviamente sin pagarlas. Estoy prácticamente seguro que todo mendigo que vive en la calle en Barcelona es victima de dichos abusos y también viene torturado para que su vida termine en el suicidio, una especie de **limpieza étnica** [[18]](https://es.wikipedia.org/wiki/Limpieza_%C3%A9tnica). Muy pero que muy lamentablemente ambas familias, sobre todo la Francesa, tienen antepasados en el fascismo, en la **décima mas** [[19]](https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS) para ser mas exactos. 
 
 ### External links 
 
@@ -68,4 +71,7 @@ La especificaciones técnicas de las interfaz maquina cerebro inalámbricas son 
 14. http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm
 15. https://es.wikipedia.org/wiki/Interfaz_cerebro-computadora
 16. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology
+17. http://telecomlobby.com/RNMnetwork/documents/Tahir.pdf
+18. [https://es.wikipedia.org/wiki/Limpieza_%C3%A9tnica](https://es.wikipedia.org/wiki/Limpieza_étnica)
+19. https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS
 
