@@ -38,9 +38,17 @@ La red de monitorio neuronal de la Torre de Collserola en Barcelona lo que realm
 
 Ha tenido una evolución desde el 1991 hasta hoy en día 2020, treinta años de desarrollo, hasta llegar a ser un sistema prácticamente perfecto. Un **sistema de cognición aumentada** [[13]](https://en.wikipedia.org/wiki/Augmented_cognition) fuera de control del usuario final, usuario que es obligado a estar dentro de esta red, siendo en vez que un usuario una victima de Mafia. Una Mafia que es base y alimenta las arcas de las grandes cadenas de audiovisuales privadas. Un escándalo a cielo abierto que brinda conejillos de India a grandes tecnológicas para el desarrollo de aplicaciones tanto militares cuantos civiles de élite. 
 
-Traduzco desde mi página de información en Inglés mis deducciones sobre el sistema tecnológico más avanzado nunca hecho para crear una Mafia. Algo muy cercano a la perfección sobre todo calculando el número de personas victimas altísimo que no ha llegado a formular una denuncia digna de tal nombre dada la complejidad del sistema. 
+Traduzco desde mi **página** [[14]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) de información en Inglés mis deducciones sobre el sistema tecnológico más avanzado nunca hecho para crear una Mafia. Algo muy cercano a la perfección sobre todo calculando el número de personas victimas altísimo que no ha llegado a formular una denuncia digna de tal nombre dada la complejidad del sistema. 
 
- 
+ El sistema tecnológico Catalán que funciona utilizando la infraestructura arriba descrita es una **interfaz maquina cerebro** [[15]](https://es.wikipedia.org/wiki/Interfaz_cerebro-computadora) inalámbrica. 
+
+Es muy probable, y esto comportaría un escándalo enorme, que esta tecnología es un extracto de una utilizada por parte de las fuerzas militares Españolas. En el caso de juicio lo que el estado y el genio militar aportaría para su propia defensa sería obviamente que algún hacker podría haber forzado la seguridad del propio sistema.
+
+En radio, en el servicio de voz subliminal hacía el cerebro, los representantes de las familias nobles implicadas siempre me amenazan de culparme de esto, ya que estoy investigando estos abusos contra los ciudadanos de Barcelona desde más de tres años. Esto es absurdo porqué estas familias utilizan la interfaz maquina cerebro y yo no quiero escribir públicamente sus apellidos completos pero es prácticamente seguro que ambas tienen miembros que han pertenecido a la Marina Militar tanto Española cuanto Italiana. 
+
+La especificaciones técnicas de las interfaz maquina cerebro inalámbricas son públicas tanto en ámbito universitario y de investigación cuanto en el ámbito militar:
+
+- **Nueva generación de neurotecnología no quirúrgica N3** [[16]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology)
 
 ### External links 
 
@@ -57,4 +65,7 @@ Traduzco desde mi página de información en Inglés mis deducciones sobre el si
 11. http://telecomlobby.com/RNMnetwork/documents/echelon.pdf
 12. https://es.wikipedia.org/wiki/Neurociencia
 13. https://en.wikipedia.org/wiki/Augmented_cognition
+14. http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm
+15. https://es.wikipedia.org/wiki/Interfaz_cerebro-computadora
+16. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology
 
