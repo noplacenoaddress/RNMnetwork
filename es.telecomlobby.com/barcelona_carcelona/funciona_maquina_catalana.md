@@ -51,7 +51,15 @@ La especificaciones técnicas de las interfaz maquina cerebro inalámbricas son 
 - **Nueva generación de neurotecnología no quirúrgica N3** [[16]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology).
 - **Arquitectura y concepto de nivel de sistema de una interfaz maquina cerebro inalámbrica** [[17]](http://telecomlobby.com/RNMnetwork/documents/Tahir.pdf). 
 
-Con este sistema de extremo avance tecnológico estas familias nobles han creado campos de conejitos de Indias para el desarrollo de aplicaciones sin contratar las personas, ya que en realidad no sería un crimen bajo previo contrato notarial, y obviamente sin pagarlas. Estoy prácticamente seguro que todo mendigo que vive en la calle en Barcelona es victima de dichos abusos y también viene torturado para que su vida termine en el suicidio, una especie de **limpieza étnica** [[18]](https://es.wikipedia.org/wiki/Limpieza_%C3%A9tnica). Muy pero que muy lamentablemente ambas familias, sobre todo la Francesa, tienen antepasados en el fascismo, en la **décima mas** [[19]](https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS) para ser mas exactos. 
+Con este sistema de extremo avance tecnológico estas familias nobles han creado campos de conejitos de Indias para el desarrollo de aplicaciones sin contratar las personas, ya que en realidad no sería un crimen bajo previo contrato notarial, y obviamente sin pagarlas. Estoy prácticamente seguro que todo mendigo que vive en la calle en Barcelona es victima de dichos abusos y también viene torturado para que su vida termine en el suicidio, una especie de **limpieza étnica** [[18]](https://es.wikipedia.org/wiki/Limpieza_%C3%A9tnica). Muy pero que muy lamentablemente ambas familias, sobre todo la Francesa que vive en Genova, tienen antepasados en el fascismo, en la **décima mas** [[19]](https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS) para ser mas exactos. 
+
+¿Que funcionalidades ejecuta la interfaz maquina cerebro inalámbrica? Es parecida a el intérprete de mandos de Unix. Es el nivel de programación que interpreta los estados mentales de la victima de la red de monitorio neuronal. Un estudio de la universidad de Murcia junto a otra de Waterford en Irlanda profundiza la interfaz cerebro maquina:
+
+- **La seguridad cibernética en la interfaz cerebro maquina: perfección, oportunidades y desafíos futuros** [[20]](http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf)
+
+Siendo aquí la interfaz remota, los problemas de seguridad de la infraestructura son varios y abren abanicos de posibles ataques, muchos de ellos a mi manera de ver y conociendo las personas implicadas previamente estudiados en manera de que parezcan debidos a fallas de seguridad, que comportan que las victimas vengan torturadas y secuestradas virtualmente hasta ser inserida en ambientes totalmente inyectados en la corteza auditiva y visual del cerebro. 
+
+El resultado es la locura, la violencia sexual sin dejar rastros, el dolor, la drogo adicción, el suicidio y la muerte por atropello o accidente de carretera. 
 
 ### External links 
 
@@ -74,4 +82,5 @@ Con este sistema de extremo avance tecnológico estas familias nobles han creado
 17. http://telecomlobby.com/RNMnetwork/documents/Tahir.pdf
 18. [https://es.wikipedia.org/wiki/Limpieza_%C3%A9tnica](https://es.wikipedia.org/wiki/Limpieza_étnica)
 19. https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS
+20. http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf
 
