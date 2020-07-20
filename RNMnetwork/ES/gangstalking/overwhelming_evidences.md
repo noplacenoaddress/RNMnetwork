@@ -147,6 +147,12 @@ Some messages more that my father have send me recommending a psychiatric visit:
 
 Obviously I've done a complaint and a impeachment to the hospital were I suffered the abuse.
 
+My father is present without any question in this network, the slaves network. My father know that I'm the victim of the most articulated crime never committed to a single. In radio my father say that he is the father of Francesca, a man who has die many years ago. This is because this marquees cartel want to give me the guilt of all. This man, named Renzo, put me in slavery when I was born but my parents didn't do nothing against them, and this is why in part yes they are guilty. My father known that I'm actively tortured with voice to skull messages every day and with a lot of torture more. And this is the messages, narcissistic abuse messages, that he sends to me at date of 20/7/2020:
+
+![Whatsup 20/7/2020](http://telecomlobby.com/Images/overwhelming_evideces_mauro_20072020.webp)
+
+
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
