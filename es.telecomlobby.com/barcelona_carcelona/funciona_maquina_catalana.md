@@ -67,6 +67,8 @@ Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant 
 
 ![ELF en Barcelona](http://telecomlobby.com/Images/remote_neural_monitoring_network_gangstalking_turorovira.webp)
 
+
+
 ### External links 
 
 1. [https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica](https://es.wikipedia.org/wiki/Computación_cuántica)
