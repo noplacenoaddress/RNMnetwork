@@ -67,6 +67,10 @@ Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant 
 
 ![Zombie tecnologicos](http://telecomlobby.com/Images/zombie_tecnologicos.webp)
 
+Aquí se denota como la red de esclavitud en España, en realidad se trata también de un ECHELON Español. Un ECHELON estatal. 
+
+
+
 #### Sistema de radio en ELF
 
 ![ELF en Barcelona](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_elf.webp)
