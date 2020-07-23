@@ -71,7 +71,9 @@ Aquí se denota como la red de esclavitud en España, en realidad es compuesta t
 
 ¿Como funciona?
 
-Cada uno de las victimas de la red de neuroestimuladores inalámbricos de Barcelona, no quiero cuantificar el número pero creo que prácticamente todo quien pertenece a la clase social medio baja, todos los obreros, todos quien ha hecho utilizo de droga en algún momento de su vida, todo quien por cualquier motivo tiene problemas con la nobleza, y también todos aquellos que tienen acceso y piensan que están jugando con el ser humano pero en realidad ellos mismos son victimas, sufre de lectura remota de sus propios ojos; hablando en claro es una camera humana.  
+Cada uno de las victimas de la red de neuroestimuladores inalámbricos de Barcelona, no quiero cuantificar el número pero creo que prácticamente todo quien pertenece a la clase social medio baja, todos los obreros, todos quien ha hecho utilizo de droga en algún momento de su vida, todo quien por cualquier motivo tiene problemas con la nobleza, y también todos aquellos que tienen acceso y piensan que están jugando con el ser humano pero en realidad ellos mismos son victimas, sufre de lectura remota de sus propios ojos; hablando en claro es una camera humana. 
+
+Sus números de teléfonos son conocidos porqué cada vez que hace una llamada de móvil la red GSM conoce destino y fuente. La red de telefonía móvil está compuesta por muchos puntos de acceso a ella en forma de torre normalmente montadas en los tejados de bloques privados que forman una red muy extensa ciudadana.   
 
 #### Sistema de radio en ELF
 
