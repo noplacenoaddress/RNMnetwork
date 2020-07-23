@@ -67,7 +67,7 @@ Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant 
 
 ![Zombie tecnologicos](http://telecomlobby.com/Images/zombie_tecnologicos.webp)
 
-Aquí se denota como la red de esclavitud en España, en realidad es compuesta es compuesta también por una especie de ECHELON. Un ECHELON estatal que podría ser debido a corrupción de funcionarios pero llegados a este punto de reflexiones es muy probable que no.
+Aquí se denota como la red de esclavitud en España, en realidad es compuesta también por una especie de ECHELON. Un ECHELON estatal que podría ser debido a corrupción de funcionarios pero llegados a este punto de reflexiones es muy probable que no.
 
 ¿Como funciona?
 
