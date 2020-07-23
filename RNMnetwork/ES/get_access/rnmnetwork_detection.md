@@ -75,7 +75,7 @@ What I'm describing here is common to all slaves or victims of the Barcelona's t
 
 1) moving your hand
 
-2) your brain neural state and brain waves are intercepted by the remote neural monitoring network. From where I live the distance is likely forty kilometers with line of sight. The frequencies of the tower are VLF. Intercepted means that are transmitted to the tower elaborated by a computer or a cluster of, and those are without any doubt **IBM Q-wave** [[19]](https://www.ibm.com/quantum-computing/) systems, that are not in local lan with radio of the towers but in a data center, and then retransmitted to the slave, the victim, the client, my visual cortex.
+2) your brain neural state and brain waves are intercepted by the remote neural monitoring network. From where I live the distance is likely forty kilometers without line of sight. The frequencies of the tower are VLF. Intercepted means that are transmitted to the tower elaborated by a computer or a cluster of, and those are without any doubt **IBM Q-wave** [[19]](https://www.ibm.com/quantum-computing/) systems, that are not in local lan with radio of the towers but in a data center, and then retransmitted to the slave, the victim, the client, my visual cortex.
 
 3) I can calculate that this value of **latency** [[20]](https://en.wikipedia.org/wiki/Latency_(engineering)), is from 100 to 500 **milliseconds** [[21]](https://en.wikipedia.org/wiki/Millisecond). 
 
