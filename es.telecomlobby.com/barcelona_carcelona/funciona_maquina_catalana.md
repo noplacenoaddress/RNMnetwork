@@ -65,7 +65,28 @@ Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant 
 
 #### Sistema de radio en ELF
 
-![ELF en Barcelona](http://telecomlobby.com/Images/remote_neural_monitoring_network_gangstalking_turorovira.webp)
+![ELF en Barcelona](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_elf.webp)
+
+
+
+Las **ondas cerebrales** [[21]](https://es.wikipedia.org/wiki/Onda_cerebral) del ser humano se subdividen en:
+
+- ondas delta de 1 a 3 Hz
+- ondas theta de 3.1 a 7.9 Hz
+- ondas alpha de 14 a 29 Hz
+- ondas gamma de 30 a 100 Hz
+
+Como se puede ver de las frecuencias estás ondas son de muy baja amplitud y del orden de pocos micro voltios en el ser humano. 
+
+En la imagen arriba vemos como dos manifestantes probablemente de los años setenta exponen en plaza pública como las frecuencias **ELF** [[22]](https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja) son efectivamente un crimen y yo añado contra la humanidad. Y lo son desde la guerra fria. Los paises, los gobiernos, los servicios y la nobleza las utilizan para construir lo que se llama "el juego". Juego donde el ser humano es un eslavo. Juego donde no existen nuestros derechos, aquellos que ellos mismos han legislado en las constituciones y las leyes. 
+
+El único pequeño problema, gentiles políticos y nobles Españoles y como que no policías (corruptos), es que la constitución es siempre la misma y las leyes también. Muchísimos amigos y colegas mios que he tenido la suerte de conocer en Vuestro, perdone Nuestro porqué el territorio es del pueblo no de la nobleza no estamos en el medio Evo, están reducido a esclavitud y a trabajo forzosos. Trabajos no exactamente legales porqué así vosotros en esta red lo podéis coaccionare al fin que hagan acecho al mejor de sus amigos, yo. Mejor porqué he decido *no jugar*, librarlos de la esclavitud es mi objetivo. Vuestra payasada por la cual han muerto millones de personas, vuestro techno, os cuesta todo lo que tenéis. Todo. 
+
+Este escrito es público porqué todos absolutamente todos lo puedan empuñar en un justo juicio. Nada mas. Es gratuito. Es para la democracia y Vuestros hijos, amigos.
+
+El sistema de radio en ELF activo en Barcelona y probablemente en toda Catalunya muchas veces se encuentra montado junto a repetidores de la red libre guifi.net. Este sistema, por aquellos que se piensan que espiar los ciudadanos sea un juego porqué lo han visto hacer a nobles corruptos, aunque trabaje en frecuencias no reguladas es un grave crimen contra la humanidad. 
+
+Añado vídeo donde se relevan señales por debajo del Kilo Hercio útil a demostrar la existencia de esta red criminal que ha destruido Catalunya. Sirve para hacer una denuncia a la **comisión de mercado de telecomunicaciones** [[23]](https://www.cnmc.es/). 
 
 
 
@@ -91,4 +112,7 @@ Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant 
 18. [https://es.wikipedia.org/wiki/Limpieza_%C3%A9tnica](https://es.wikipedia.org/wiki/Limpieza_étnica)
 19. https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS
 20. http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf
+21. https://es.wikipedia.org/wiki/Onda_cerebral
+22. https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja
+23. https://www.cnmc.es/
 
