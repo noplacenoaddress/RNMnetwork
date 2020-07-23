@@ -23,7 +23,7 @@ Next that we've build a scanner and obtained the modulation and information incl
 
 My physical position is **41.26667 , 1.76667** [[6]](https://goo.gl/maps/HjF6v9vgvKa4GEHe8).
 
-### Android applications - Spectdroid
+#### Android applications - Spectdroid
 
 ![Spectroid Android application](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_spectroid.webp)
 
@@ -51,7 +51,7 @@ Those options have been found on a document in the wild web, here a copy in my w
 
 - **Detecting environmental noises with basic tools** [[16]](http://telecomlobby.com/RNMnetwork/documents/DETECTING-HENRIK.pdf)
 
-### Audacity
+#### Audacity
 
 ![Audacity Opensource](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_audacity.webp)
 
