@@ -59,11 +59,33 @@ Those options have been found on a document in the wild web, here a copy in my w
 
 To grab environment sound or better saying noise I use an external **handy recorder** [[17]](https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/E_H1n.pdf).
 
-### SDR based scanner
+#### Latency calculation
 
-![HackRF SDR](http://telecomlobby.com/Images/SDR_HackRF_one_PCB.jpg)
+![Latency calculation](http://telecomlobby.com/Images/get_access_latency_calculation.webp)
 
-What we've got to build is an array of different type of antennas depending on the frequency, two software defined radio of medium quality to scan the spectrum, an antenna splitter, various antenna tuner possibly automated with a IoT, and a computer with a good ham radio linux distribution.
+The Catalan remote neural network monitoring tower mounted over the third part of the Collserola tower is practically controlling all the Mediterranean sea. And probably also central Africa and south America to create slavery. Slavery in Africa has never ended. 
+
+And this is the true, and no one say nothing.
+
+When you're a victim of the human traffic network, the RNMnetwork like I've called, if you close your you can appreciate a transmission over your visual cortex not utilizing your eyes that are part of the human visual system, a transmission that do interferences over humans.
+
+If you move your hand for example you can appreciate something similar that is transmitted to your visual cortex, what I mean is that instead of displaying only black color you see something similar to pixels of an old CRT television with shadows of what you're doing with your body, like moving an hand. 
+
+What I'm describing here is common to all slaves or victims of the Barcelona's tower. Speaking about technology we have to understand that latency of this simple action transmitted to our visual cortex is the sum of:
+
+1) moving your hand
+
+2) your brain neural state and brain waves are intercepted by the remote neural monitoring network. From where I live the distance is likely forty kilometers with line of sight. The frequencies of the tower are VLF. Intercepted means that are transmitted to the tower elaborated by a computer or a cluster of, and those are without any doubt **IBM Q-wave** [[19]](https://www.ibm.com/quantum-computing/) systems, that are not in local lan with radio of the towers but in a data center, and then retransmitted to the slave, the victim, the client, my visual cortex.
+
+3) I can calculate that this value of **latency** [[20]](https://en.wikipedia.org/wiki/Latency_(engineering)), is from 100 to 500 **milliseconds** [[21]](https://en.wikipedia.org/wiki/Millisecond). 
+
+Here in the remote neural application of remote parimutuel betting system there is a lot of Italians, my parents also, operators that are victims that had passed to be an abused to be an abuser. Someone say to me that latency there is more that one second.
+
+What I want to say?
+
+- The Catalan neural system, is used by nobility in probable all Europe to destroy democracy, because citizens doesn't have suffrage secret suffrage. They have broken them **right to vote** [[22]](https://en.wikipedia.org/wiki/Suffrage) from 1991.
+- This is absolutely, without any doubt in Spain, **not a satellite transmission**. But yes exist satellite connected to the slavery network because in airplane trips it works! I say this because of latency time. It's too small.
+
 
 
 ### External Links
@@ -86,4 +108,8 @@ What we've got to build is an array of different type of antennas depending on t
 16. http://telecomlobby.com/RNMnetwork/documents/DETECTING-HENRIK.pdf
 17. https://en.wikipedia.org/wiki/Audacity_(audio_editor)
 18. https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/E_H1n.pdf
+19. https://www.ibm.com/quantum-computing/
+20. https://en.wikipedia.org/wiki/Latency_(engineering)
+21. https://en.wikipedia.org/wiki/Millisecond
+22. https://en.wikipedia.org/wiki/Suffrage
 
