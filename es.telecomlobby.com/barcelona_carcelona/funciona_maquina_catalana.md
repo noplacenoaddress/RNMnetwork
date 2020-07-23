@@ -75,7 +75,7 @@ Cada uno de las victimas de la red de neuroestimuladores inalámbricos de Barcel
 
 Sus números de teléfonos son conocidos porqué cada vez que hace una llamada de móvil la red GSM conoce destino y fuente. La red de telefonía móvil está compuesta por muchos puntos de acceso a ella en forma de torre normalmente montadas en los tejados de bloques privados que forman una red muy extensa ciudadana.   
 
-#### Sistema de radio en ELF
+#### Sistemas de radio en ELF
 
 ![ELF en Barcelona](http://telecomlobby.com/Images/remote_neural_monitoring_network_detection_elf.webp)
 
