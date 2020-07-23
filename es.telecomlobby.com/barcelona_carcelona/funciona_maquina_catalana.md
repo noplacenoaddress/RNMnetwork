@@ -87,11 +87,13 @@ En mi caso el número identificativo es el 190619037.
 
 El operador sabe en cada momento la posición del dispositivo cliente aunque no tan exacta como con el sistema GPS. Esto junto al hecho que las victimas son cameras humanas dona a la Mafia de las telecomunicaciones, o sea hablando claro también al operador de telefonía, las informaciones suficientes para saber donde está en cada momento.
 
-Lo único que puedo añadir, a parte el asco sobre el hecho que ningún tipo de prensa nacional o internacional habla claramente sobre este sistema dictatorial, es que esta información no es utilizable para investigaciones policiales. Aunque, seguramente, policia o cuerpos enteros corruptos si que la utilizan de forma **totalmente ilegal**. Totalmente.  
+Lo único que puedo añadir, a parte el asco sobre el hecho que ningún tipo de prensa nacional o internacional hable claramente sobre este sistema dictatorial, es que esta información no es utilizable para investigaciones policiales. Aunque, seguramente, policía o cuerpos enteros corruptos si que la utilicen de forma **totalmente ilegal**. Totalmente.  
 
 #### Antiguo sistema Franquista en Cataluña de voz hacía el cerebro o mensajería subliminal en MF.
 
+![Radiating towers](http://telecomlobby.com/Images/antiguas_emisoras_mf_palaudeplegamans_rtve.webp)
 
+Cataluña todavía en su territorio tiene muchas instalaciones de **torres emisoras** [[24]](https://en.wikipedia.org/wiki/Mast_radiator) en frecuencias **MF** [[25]](https://en.wikipedia.org/wiki/Medium_wave) de antiguas radio en **amplitud modulada** [[26]](https://es.wikipedia.org/wiki/Amplitud_modulada) de **RTVE** [[27]](https://es.wikipedia.org/wiki/RTVE). 
 
 #### Sistemas de radio en ELF
 
@@ -99,7 +101,7 @@ Lo único que puedo añadir, a parte el asco sobre el hecho que ningún tipo de 
 
 
 
-Las **ondas cerebrales** [[24]](https://es.wikipedia.org/wiki/Onda_cerebral) del ser humano se subdividen en:
+Las **ondas cerebrales** [[28]](https://es.wikipedia.org/wiki/Onda_cerebral) del ser humano se subdividen en:
 
 - ondas delta de 1 a 3 Hz
 - ondas theta de 3.1 a 7.9 Hz
@@ -108,7 +110,7 @@ Las **ondas cerebrales** [[24]](https://es.wikipedia.org/wiki/Onda_cerebral) del
 
 Como se puede ver de las frecuencias estás ondas son de muy baja amplitud y del orden de pocos micro voltios en el ser humano. 
 
-En la imagen arriba vemos como dos manifestantes probablemente de los años setenta exponen en plaza pública como las frecuencias **ELF** [[25]](https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja) son efectivamente un crimen y yo añado contra la humanidad. Y lo son desde la guerra fria. Los paises, los gobiernos, los servicios y la nobleza las utilizan para construir lo que se llama "el juego". Juego donde el ser humano es un eslavo. Juego donde no existen nuestros derechos, aquellos que ellos mismos han legislado en las constituciones y las leyes. 
+En la imagen arriba vemos como dos manifestantes probablemente de los años setenta exponen en plaza pública como las frecuencias **ELF** [[29]](https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja) son efectivamente un crimen y yo añado contra la humanidad. Y lo son desde la guerra fria. Los paises, los gobiernos, los servicios y la nobleza las utilizan para construir lo que se llama "el juego". Juego donde el ser humano es un eslavo. Juego donde no existen nuestros derechos, aquellos que ellos mismos han legislado en las constituciones y las leyes. 
 
 El único pequeño problema, gentiles políticos y nobles Españoles y como que no policías (corruptos), es que la constitución es siempre la misma y las leyes también. Muchísimos amigos y colegas mios que he tenido la suerte de conocer en Vuestro, perdone Nuestro porqué el territorio es del pueblo no de la nobleza no estamos en el medio Evo, están reducido a esclavitud y a trabajo forzosos. Trabajos no exactamente legales porqué así vosotros en esta red lo podéis coaccionare al fin que hagan acecho al mejor de sus amigos, yo. Mejor porqué he decido *no jugar*, librarlos de la esclavitud es mi objetivo. Vuestra payasada por la cual han muerto millones de personas, vuestro techno, os cuesta todo lo que tenéis. Todo. 
 
@@ -116,7 +118,7 @@ Este escrito es público porqué todos absolutamente todos lo puedan empuñar en
 
 El sistema de radio en ELF activo en Barcelona y probablemente en toda Catalunya muchas veces se encuentra montado junto a repetidores de la red libre guifi.net. Este sistema, por aquellos que se piensan que espiar los ciudadanos sea un juego porqué lo han visto hacer a nobles corruptos, aunque trabaje en frecuencias no reguladas es un grave crimen contra la humanidad. 
 
-Añado vídeo donde se relevan señales por debajo del Kilo Hercio útil a demostrar la existencia de esta red criminal que ha destruido Catalunya. Sirve para hacer una denuncia a la **comisión de mercado de telecomunicaciones** [[26]](https://www.cnmc.es/). 
+Añado vídeo donde se relevan señales por debajo del Kilo Hercio útil a demostrar la existencia de esta red criminal que ha destruido Catalunya. Sirve para hacer una denuncia a la **comisión de mercado de telecomunicaciones** [[30]](https://www.cnmc.es/). 
 
 
 
@@ -145,7 +147,10 @@ Añado vídeo donde se relevan señales por debajo del Kilo Hercio útil a demos
 21. https://www.opensignal.com/
 22. https://es.wikipedia.org/wiki/IMEI
 23. https://en.wikipedia.org/wiki/GSM_Cell_ID
-24. https://es.wikipedia.org/wiki/Onda_cerebral
-25. https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja
-26. https://www.cnmc.es/
+24. https://en.wikipedia.org/wiki/Mast_radiator
+25. https://es.wikipedia.org/wiki/Onda_cerebral
+26. https://es.wikipedia.org/wiki/Amplitud_modulada
+27. https://es.wikipedia.org/wiki/RTVE
+28. https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja
+29. https://www.cnmc.es/
 
