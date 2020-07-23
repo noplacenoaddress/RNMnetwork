@@ -12,7 +12,7 @@ El acceso de última milla se compone de varias emisoras en distintas tecnologí
 
 - Sistema de neuroestimuladores inalámbricos en frecuencias VLF.
 - Sistema de posicionamiento obtenido a través de interfaz con red GSM, probablemente obtenido a través acceso ilegal a la red móvil local utilizando un acceso o más remotos de usuarios robados, ficticios, o obtenidos a través de corrupción.
-- Antiguo sistema Franquista de voz hacía el cerebro o mensajería subliminal en MF.
+- Antiguo sistema Franquista en Cataluña de voz hacía el cerebro o mensajería subliminal en MF.
 - Sistema de radio en ELF.
 
 #### Sistema de neuroestimuladores inalámbricos
@@ -88,6 +88,10 @@ En mi caso el número identificativo es el 190619037.
 El operador sabe en cada momento la posición del dispositivo cliente aunque no tan exacta como con el sistema GPS. Esto junto al hecho que las victimas son cameras humanas dona a la Mafia de las telecomunicaciones, o sea hablando claro también al operador de telefonía, las informaciones suficientes para saber donde está en cada momento.
 
 Lo único que puedo añadir, a parte el asco sobre el hecho que ningún tipo de prensa nacional o internacional habla claramente sobre este sistema dictatorial, es que esta información no es utilizable para investigaciones policiales. Aunque, seguramente, policia o cuerpos enteros corruptos si que la utilizan de forma **totalmente ilegal**. Totalmente.  
+
+#### Antiguo sistema Franquista en Cataluña de voz hacía el cerebro o mensajería subliminal en MF.
+
+
 
 #### Sistemas de radio en ELF
 
