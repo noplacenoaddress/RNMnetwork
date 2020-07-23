@@ -11,9 +11,9 @@ Técnicamente el acceso de última milla de la «Maquina» Catalana es radio fre
 El acceso de última milla se compone de varias emisoras en distintas tecnologías:
 
 - Sistema de neuroestimuladores inalámbricos en frecuencias VLF.
-- Sistema de radio en ELF.
-- Sistema de posicionamiento obtenido a través de interfaz con sistema GSM, probablemente obtenido a través acceso ilegal a la red móvil local utilizando un acceso o más remotos de usuarios robados, ficticios, o obtenidos a través de corrupción.
+- Sistema de posicionamiento obtenido a través de interfaz con red GSM, probablemente obtenido a través acceso ilegal a la red móvil local utilizando un acceso o más remotos de usuarios robados, ficticios, o obtenidos a través de corrupción.
 - Antiguo sistema Franquista de voz hacía el cerebro o mensajería subliminal en MF.
+- Sistema de radio en ELF.
 
 #### Sistema de neuroestimuladores inalámbricos
 
@@ -62,6 +62,10 @@ El resultado es la locura, la violencia sexual sin dejar rastros, el dolor, la d
 ![VLF en sant Pere de Ribes](http://telecomlobby.com/Images/vlf_espectro_barcelona.webp)
 
 Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant Pere de Ribes en fecha 19 de Julio 2020, espectro desde los 3 hasta los 30 KHz. Subrayados rangos de interés para una futura análisis de cada portante. 
+
+#### Sistema de posicionamiento obtenido a través de interfaz con red GSM
+
+![Zombie tecnologicos](http://telecomlobby.com/Images/zombie_tecnologicos.webp)
 
 #### Sistema de radio en ELF
 
