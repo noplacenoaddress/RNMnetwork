@@ -87,7 +87,7 @@ En mi caso el número identificativo es el 190619037.
 
 El operador sabe en cada momento la posición del dispositivo cliente aunque no tan exacta como con el sistema GPS. Esto junto al hecho que las victimas son cameras humanas dona a la Mafia de las telecomunicaciones, o sea hablando claro también al operador de telefonía, las informaciones suficientes para saber donde está en cada momento.
 
-Lo único que puedo añadir, a parte el asco sobre el hecho que ningún tipo de prensa nacional o internacional habla claramente sobre este sistema dictatorial, es que esta información no es utilizable para investigaciones policiales. Aunque, seguramente, policia o cuerpos enteros corruptos si que la utilizan de forma **totalmente ilegal**. Totalmente.  
+Lo único que puedo añadir, a parte el asco sobre el hecho que ningún tipo de prensa nacional o internacional hable claramente sobre este sistema dictatorial, es que esta información no es utilizable para investigaciones policiales. Aunque, seguramente, policía o cuerpos enteros corruptos si que la utilicen de forma **totalmente ilegal**. Totalmente.  
 
 #### Antiguo sistema Franquista en Cataluña de voz hacía el cerebro o mensajería subliminal en MF.
 
