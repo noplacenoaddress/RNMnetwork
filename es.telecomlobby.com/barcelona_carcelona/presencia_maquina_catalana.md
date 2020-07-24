@@ -12,8 +12,13 @@ De igual manera de lo que hemos previamente visto acerca de la red **ECHELON** [
 
 La «Maquina» en Cataluña consta de varios puntos emisión y recepción en distintas tecnologías:
 
--  41° 25' 2.94" N , 2° 6' 51.38" E, la parte de fuste de hormigón con transiciones en tecnología declarada VHF y radiante de FM son puntos de presencias de el sistema de neuroestimuladores inalámbricos Catalano. 
-- 
+41° 25' 2.94" N , 2° 6' 51.38" E, la parte de fuste de hormigón con transiciones en tecnología declarada VHF y radiante de FM son puntos de presencias de el sistema de neuroestimuladores inalámbricos Catalano. Por la magnitud de la instalación seguramente es el mismo estado a ser el propietario, sea ello el Catalán o bien el Español. Esto lo desconozco. 
+
+Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios pero el más importante se encuentra en:
+
+ 41° 25' 9.88" N , 2° 9' 51.22" E en una torres en casetas típicas españolas de una planta. Estilo antiguo un poco mal cuidado exactamente como el estilo del represéntate de la familia noble Catalana de relevancia que he podido conocer personalmente. El sistema ELF sin ninguna duda le pertenece, son frecuencias no reguladas. Y con esto lo he dicho todo. Los puntos sucesivos pertenecen a este tipo de emisoras y son muy comunes en todas las torres no de estado Español, o sea no de RTVE o de **Cellnext Telecom** [[4]](https://www.cellnextelecom.com/):
+
+
 
 
 
@@ -22,3 +27,4 @@ La «Maquina» en Cataluña consta de varios puntos emisión y recepción en dis
 1. https://es.wikipedia.org/wiki/Google_Hacking
 2. http://telecomlobby.com/RNMnetwork/documents/echelon.pdf
 3. https://es.wikipedia.org/wiki/Punto_de_presencia
+4. https://www.cellnextelecom.com/
