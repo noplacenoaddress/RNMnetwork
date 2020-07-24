@@ -12,7 +12,7 @@ De igual manera de lo que hemos previamente visto acerca de la red **ECHELON** [
 
 La «Maquina» en Cataluña consta de varios puntos emisión y recepción en distintas tecnologías:
 
--  **41° 25' 2.94" N , 2° 6' 51.38" E**, la parte de fuste de hormigón con transiciones en tecnología declarada VHF y radiante de FM son puntos de presencias de el sistema de neuroestimuladores inalámbricos Catalano. 
+-  41° 25' 2.94" N , 2° 6' 51.38" E, la parte de fuste de hormigón con transiciones en tecnología declarada VHF y radiante de FM son puntos de presencias de el sistema de neuroestimuladores inalámbricos Catalano. 
 - 
 
 
