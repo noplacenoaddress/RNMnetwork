@@ -69,6 +69,19 @@ Delito de **acecho** [[57]](https://www.conceptosjuridicos.com/codigo-penal-arti
 
 - **El delito de acecho: análisis jurídico y fenomenológico** [[58]](http://telecomlobby.com/RNMnetwork/documents/Tapp1de1.pdf). 
 
+Delitos de **discriminación** [[59]](https://es.wikipedia.org/wiki/Discriminaci%C3%B3n). Por parte de ciudadanía que cobro en cripto monedas y participa al acoso de pandillas. Por parte de muchas personas que has conocido en tu vida ya que participan en el acecho electrónico diario y en las apuestas mutuas remotas de la aplicación neuronal de la victima. Otras están conectadas pero no hacen acoso, alguno probablemente juega en silencio, aquellos que se creen listos, y otros están porqué obligados con coacción por parte de la nobleza. La discriminación es de la más grave, así dicha como colectiva, muchos contra uno. Además puedo enfocar hacía los jueces y abogados interesados en judicar a la Mafia de las telecomunicaciones la discriminación que estoy subiendo como:
+
+- Discriminación por origen étnico con tendencias hacía el **racismo** [[60]](https://es.wikipedia.org/wiki/Racismo). He encontrado de mucho interés un tomo sobre lo que se llama **racismo científico** [[61]](http://telecomlobby.com/RNMnetwork/documents/v27n2a11.pdf). 
+- **Especismo** [[62]](https://es.wikipedia.org/wiki/Especismo)
+- **Discriminación contra los ateos** [[63]](https://es.wikipedia.org/wiki/Discriminaci%C3%B3n_contra_los_ateos)
+
+Obviamente toda forma de discriminación es impugnable en juicio y varios organismos y convenciones internacionales como también leyes del país protegen la ciudadanía contra los perpetradores del delito:
+
+- **Convención Internacional sobre la Eliminación de todas las Formas de Discriminación Racial**  [[64]](https://es.wikipedia.org/wiki/Convenci%C3%B3n_Internacional_sobre_la_Eliminaci%C3%B3n_de_todas_las_Formas_de_Discriminaci%C3%B3n_Racial), ratificada en España pero no aceptada para quejas individuales. Es necesario recolectar varios casos de abusos, y es exactamente mi propósito. 
+- **Protocolo 12 a la Convención Europea de Derechos Humanos** [[65]](http://telecomlobby.com/RNMnetwork/documents/CETS_177.docx.pdf).
+
+La legislación Española al momento de hablar de discriminación hace referencia al derecho de igualdad delante de la ley en el **artículo catorce** [[66]](https://www.derechoshumanos.net/constitucion/articulo14CE.htm) de la constitución.  En el código penal el **articulo quinientos diez** [[67]](http://telecomlobby.com/RNMnetwork/documents/articulo510cp.pdf) habla de discriminación en calidad de delito de odio también analizado en el **boletín oficial de estado** [[68]](https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado) 
+
 #### Las torturas en España
 
 ![torturas en España](http://telecomlobby.com/Images/torturas_espana.webp)
@@ -141,11 +154,20 @@ Encuentro también de sumo interés **palabras** [[62]](http://telecomlobby.com/
 56. https://apdhe.org/
 57. https://www.conceptosjuridicos.com/codigo-penal-articulo-172-ter/
 58. http://telecomlobby.com/RNMnetwork/documents/Tapp1de1.pdf
-59. [https://es.wikipedia.org/wiki/Tortura_en_Espa%C3%B1a](https://es.wikipedia.org/wiki/Tortura_en_España)
-60. https://es.wikipedia.org/wiki/Theo_van_Boven
-61. http://telecomlobby.com/RNMnetwork/documents/INFORMERELATORTHEOVANBOVEN6.02.04.pdf
-62. http://telecomlobby.com/RNMnetwork/documents/tomas_valiente_torturas.pdf
-63. https://elpais.com/
-64. [https://es.wikipedia.org/wiki/Tribunal_Constitucional_(Espa%C3%B1a)](https://es.wikipedia.org/wiki/Tribunal_Constitucional_(España))
-65. [https://es.wikipedia.org/wiki/Francisco_Tom%C3%A1s_y_Valiente](https://es.wikipedia.org/wiki/Francisco_Tomás_y_Valiente)
+59. [https://es.wikipedia.org/wiki/Discriminaci%C3%B3n](https://es.wikipedia.org/wiki/Discriminación)
+60. https://es.wikipedia.org/wiki/Racismo
+61. http://telecomlobby.com/RNMnetwork/documents/v27n2a11.pdf
+62. https://es.wikipedia.org/wiki/Especismo
+63. [https://es.wikipedia.org/wiki/Discriminaci%C3%B3n_contra_los_ateos](https://es.wikipedia.org/wiki/Discriminación_contra_los_ateos)
+64. [https://es.wikipedia.org/wiki/Convenci%C3%B3n_Internacional_sobre_la_Eliminaci%C3%B3n_de_todas_las_Formas_de_Discriminaci%C3%B3n_Racial](https://es.wikipedia.org/wiki/Convención_Internacional_sobre_la_Eliminación_de_todas_las_Formas_de_Discriminación_Racial)
+65. [https://es.wikipedia.org/wiki/Tortura_en_Espa%C3%B1a](https://es.wikipedia.org/wiki/Tortura_en_España)
+66. https://www.derechoshumanos.net/constitucion/articulo14CE.htm
+67. http://telecomlobby.com/RNMnetwork/documents/articulo510cp.pdf
+68. https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado
+69. https://es.wikipedia.org/wiki/Theo_van_Boven
+70. http://telecomlobby.com/RNMnetwork/documents/INFORMERELATORTHEOVANBOVEN6.02.04.pdf
+71. http://telecomlobby.com/RNMnetwork/documents/tomas_valiente_torturas.pdf
+72. https://elpais.com/
+73. [https://es.wikipedia.org/wiki/Tribunal_Constitucional_(Espa%C3%B1a)](https://es.wikipedia.org/wiki/Tribunal_Constitucional_(España))
+74. [https://es.wikipedia.org/wiki/Francisco_Tom%C3%A1s_y_Valiente](https://es.wikipedia.org/wiki/Francisco_Tomás_y_Valiente)
 
