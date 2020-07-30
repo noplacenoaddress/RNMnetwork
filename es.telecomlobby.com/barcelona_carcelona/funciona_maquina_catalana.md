@@ -67,6 +67,14 @@ Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant 
 
 ![Sistema de voz hacía el cerebro](http://telecomlobby.com/Images/sistema_radiante_dictatorial_barcelona.webp)
 
+En la misma torre de telecomunicaciones de Barcelona por debajo de las parrillas que brindan conexión a las radios en VLF se encuentra un servicio en frecuencias VHF con las cuales se crea el sistema de voz hacía el cerebro. El croquis original se encuentra en la revista **Barcelona Metropolis** [[21]](https://www.barcelona.cat/metropolis/ca/revistes) después citado en una **articulo** [[22]](http://telecomlobby.com/RNMnetwork/documents/Article003.pdf) de Carlos Lopez David Rincon datado 1998. 
+
+Juntos estos dos sistemas ilegales brindan el acceso a lo que se puede definir como **tecnocrazia** [[23]](https://es.wikipedia.org/wiki/Tecnocracia), sistema de pseudo dictadura activo en la comunidad autónoma Española que crea la esclavitud digital para desgastar y sacar el mayor partido de todo ciudadano extranjero. También de otras regiones de España. En Catalunya en realidad muchos participantes de la clase dirigente aplican la discriminación racial y la esclavitud con fin último el negocio sobre el suicidio. Destruyen la vida a inmigrantes obligándolos al mundo de la droga de bajo nivel y a pequeños emprendedores europeos utilizando a mujeres para hacer estafas donde las victimas vienen obligadas al mundo de las drogas, al desgaste y como que no al suicidio.
+
+Muchas sur Americanas, además de hacer de mulas por trafico de cocaína, vienen utilizadas para destruir la vida a jóvenes europeos a través embarazos y coacción sobre los niños. Conozco varios casos de Italianos reducidos a la venta de drogas siendo pequeños empresarios o profesionales de optimo nivel. Terminan suicidas, en la cárcel o obligados a ejercer profesiones que no pertenecen al nivel adecuado. 
+
+En Catalunya todo este sistema es gestionado por parte de la mayor familia noble del país, cuyas ramas cubren todas las cargas institucionales disponibles construyendo un estado totalmente corrupto donde los derechos humanos vienen pisados brutalmente por parte de estos individuos. La comunidad Europea tiene que saber como funciona este territorio de confín que juega continuamente también con el sentimiento independentista de su pueblo. Así funciona la clase dirigente de este país, esclavitud. Nada mas.   
+
 #### Sistema de posicionamiento obtenido a través de interfaz con red GSM
 
 ![Zombie tecnologicos](http://telecomlobby.com/Images/zombie_tecnologicos.webp)
@@ -81,9 +89,9 @@ Sus números de teléfonos son conocidos porqué cada vez que hace una llamada d
 
 ![Opensignal Torres de sant Pere de Ribes](http://telecomlobby.com/Images/opensignal_torres_stperederibes.webp)
 
-Por hacernos una idea el software **Opensignal** [[21]](https://www.opensignal.com/) en nuestro dispositivo móvil inteligente indica la posición de la torre LTE a la cual estamos conectados, aquí podéis ver las cuatro torres más cercanas a mi posición, mi casa, y donde estoy conectado a través de mi módem de conexión 4G embebido en el teléfono con sistema operativo Android que utilizo normalmente. 
+Por hacernos una idea el software **Opensignal** [[24]](https://www.opensignal.com/) en nuestro dispositivo móvil inteligente indica la posición de la torre LTE a la cual estamos conectados, aquí podéis ver las cuatro torres más cercanas a mi posición, mi casa, y donde estoy conectado a través de mi módem de conexión 4G embebido en el teléfono con sistema operativo Android que utilizo normalmente. 
 
-En la red LTE hay varias identificaciones de nuestro dispositivo, es una red muy segura. La primera identificación es el número único **IMEI** [[22]](https://es.wikipedia.org/wiki/IMEI), la segunda es nuestra numeración telefónica que viene enviada según protocolo al momento de efectuar o recibir una llamada en servicio de voz. La tercera es la identificación siempre única de la celda de emisión o para hablar mas coloquial torre. Este identificativo toma el nombre de **CELL ID** [[23]](https://en.wikipedia.org/wiki/GSM_Cell_ID).
+En la red LTE hay varias identificaciones de nuestro dispositivo, es una red muy segura. La primera identificación es el número único **IMEI** [[25]](https://es.wikipedia.org/wiki/IMEI), la segunda es nuestra numeración telefónica que viene enviada según protocolo al momento de efectuar o recibir una llamada en servicio de voz. La tercera es la identificación siempre única de la celda de emisión o para hablar mas coloquial torre. Este identificativo toma el nombre de **CELL ID** [[26]](https://en.wikipedia.org/wiki/GSM_Cell_ID).
 
 ![Identificativo de celda LTE](http://telecomlobby.com/Images/opensignal_torres_listado.webp)
 
@@ -99,7 +107,7 @@ Lo único que puedo añadir, a parte el asco sobre el hecho que ningún tipo de 
 
 
 
-Las **ondas cerebrales** [[28]](https://es.wikipedia.org/wiki/Onda_cerebral) del ser humano se subdividen en:
+Las **ondas cerebrales** [[27]](https://es.wikipedia.org/wiki/Onda_cerebral) del ser humano se subdividen en:
 
 - ondas delta de 1 a 3 Hz
 - ondas theta de 3.1 a 7.9 Hz
@@ -108,7 +116,7 @@ Las **ondas cerebrales** [[28]](https://es.wikipedia.org/wiki/Onda_cerebral) del
 
 Como se puede ver de las frecuencias estás ondas son de muy baja amplitud y del orden de pocos micro voltios en el ser humano. 
 
-En la imagen arriba vemos como dos manifestantes probablemente de los años setenta exponen en plaza pública como las frecuencias **ELF** [[29]](https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja) son efectivamente un crimen y yo añado contra la humanidad. Y lo son desde la guerra fria. Los paises, los gobiernos, los servicios y la nobleza las utilizan para construir lo que se llama "el juego". Juego donde el ser humano es un eslavo. Juego donde no existen nuestros derechos, aquellos que ellos mismos han legislado en las constituciones y las leyes. 
+En la imagen arriba vemos como dos manifestantes probablemente de los años setenta exponen en plaza pública como las frecuencias **ELF** [[28]](https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja) son efectivamente un crimen y yo añado contra la humanidad. Y lo son desde la guerra fria. Los paises, los gobiernos, los servicios y la nobleza las utilizan para construir lo que se llama "el juego". Juego donde el ser humano es un eslavo. Juego donde no existen nuestros derechos, aquellos que ellos mismos han legislado en las constituciones y las leyes. 
 
 El único pequeño problema, gentiles políticos y nobles Españoles y como que no policías (corruptos), es que la constitución es siempre la misma y las leyes también. Muchísimos amigos y colegas mios que he tenido la suerte de conocer en Vuestro, perdone Nuestro porqué el territorio es del pueblo no de la nobleza no estamos en el medio Evo, están reducido a esclavitud y a trabajo forzosos. Trabajos no exactamente legales porqué así vosotros en esta red lo podéis coaccionare al fin que hagan acecho al mejor de sus amigos, yo. Mejor porqué he decido *no jugar*, librarlos de la esclavitud es mi objetivo. Vuestra payasada por la cual han muerto millones de personas, vuestro techno, os cuesta todo lo que tenéis. Todo. 
 
@@ -116,7 +124,7 @@ Este escrito es público porqué todos absolutamente todos lo puedan empuñar en
 
 El sistema de radio en ELF activo en Barcelona y probablemente en toda Catalunya muchas veces se encuentra montado junto a repetidores de la red libre guifi.net. Este sistema, por aquellos que se piensan que espiar los ciudadanos sea un juego porqué lo han visto hacer a nobles corruptos, aunque trabaje en frecuencias no reguladas es un grave crimen contra la humanidad. 
 
-Añado vídeo donde se relevan señales por debajo del Kilo Hercio útil a demostrar la existencia de esta red criminal que ha destruido Catalunya. Sirve para hacer una denuncia a la **comisión de mercado de telecomunicaciones** [[30]](https://www.cnmc.es/). 
+Añado vídeo donde se relevan señales por debajo del Kilo Hercio útil a demostrar la existencia de esta red criminal que ha destruido Catalunya. Sirve para hacer una denuncia a la **comisión de mercado de telecomunicaciones** [[29]](https://www.cnmc.es/). 
 
 
 
@@ -142,13 +150,13 @@ Añado vídeo donde se relevan señales por debajo del Kilo Hercio útil a demos
 18. [https://es.wikipedia.org/wiki/Limpieza_%C3%A9tnica](https://es.wikipedia.org/wiki/Limpieza_étnica)
 19. https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS
 20. http://telecomlobby.com/RNMnetwork/documents/1908.03536.pdf
-21. https://www.opensignal.com/
-22. https://es.wikipedia.org/wiki/IMEI
-23. https://en.wikipedia.org/wiki/GSM_Cell_ID
-24. https://en.wikipedia.org/wiki/Mast_radiator
-25. https://es.wikipedia.org/wiki/Onda_cerebral
-26. https://es.wikipedia.org/wiki/Amplitud_modulada
-27. https://es.wikipedia.org/wiki/RTVE
+21. https://www.barcelona.cat/metropolis/ca/revistes
+22. http://telecomlobby.com/RNMnetwork/documents/Article003.pdf
+23. https://es.wikipedia.org/wiki/Tecnocracia
+24. https://www.opensignal.com/
+25. https://es.wikipedia.org/wiki/IMEI
+26. https://en.wikipedia.org/wiki/GSM_Cell_ID
+27. https://es.wikipedia.org/wiki/Onda_cerebral
 28. https://es.wikipedia.org/wiki/Frecuencia_extremadamente_baja
 29. https://www.cnmc.es/
 
