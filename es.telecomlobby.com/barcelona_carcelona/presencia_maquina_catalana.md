@@ -34,7 +34,7 @@ Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios pe
 
 Debido siempre al tiempo de respuesta muy rápido, o sea a una optima latencia, creo que por lo menos buena parte de la elaboración de los estados neuronales de las victimas y la interacción con ella, las interferencias a los cinco sentidos, se tenga que ejecutar en la misma Barcelona.
 
-En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[7]](https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras) más potentes del mundo. **Barcelona Supercomputing Center** [[8]](https://www.bsc.es/es). 
+En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[7]](https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras) más potentes del mundo. **Barcelona Supercomputing Center** [[8]](https://www.bsc.es/es).  El sistema toma el nombre de **MareNostrum** [[9]](https://es.wikipedia.org/wiki/MareNostrum)
 
 
 
@@ -48,3 +48,4 @@ En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[
 6. https://www.cellnextelecom.com/
 7. [https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras](https://es.wikipedia.org/wiki/Clúster_de_computadoras)
 8. https://www.bsc.es/es
+9. https://es.wikipedia.org/wiki/MareNostrum
