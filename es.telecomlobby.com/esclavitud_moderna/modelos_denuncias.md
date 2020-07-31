@@ -2,6 +2,8 @@
 
 ![Tribunal de Estrasburgo](http://telecomlobby.com/Images/tribunal_estrasburgo_derechos_humanos.webp)
 
+*Página elaborada gracias al inmenso trabajo del portal web **derechoshumanos.net***
+
 En España, comunidad autónoma de Cataluña territorio donde estoy empadronado, los pasos a seguir para denunciar los **crímenes de la «Maquina»** [[1]](http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm) son los siguientes:
 
 #### Agotamiento de los recursos judiciales internos
@@ -21,7 +23,7 @@ En el caso de los horribles crímenes de la  «Maquina» es prácticamente impos
 
 #### Posible acceso a justicia gratuita
 
-Con frecuencia (aunque no siempre es así) para la denuncia judicial (interna) de violaciones de derechos humanos y para la actuación ante determinados mecanismos internacionales (por ejemplo, el [Tribunal Europeo de Derechos Humanos](https://www.derechoshumanos.net/tribunales/TribunalEuropeoDerechosHumanos-TEDH.htm)) es necesario actuar con abogado (y en ocasiones, es necesaria incluso la intervención de otros profesionales, como los procuradores, en España).
+Con frecuencia para la denuncia judicial interna de violaciones de derechos humanos y para la actuación ante determinados mecanismos internacionales (por ejemplo, el **Tribunal Europeo de Derechos Humanos** [[3]](https://www.echr.coe.int/Pages/home.aspx?p=home))  es necesario actuar con abogado (y en ocasiones, es necesaria incluso la intervención de otros profesionales, como los procuradores, en España).
 
 Quienes carezcan de recursos económicos suficientes para sufragar los costes de un proceso judicial, deben informarse sobre los mecanismos establecidos en su país para litigar gratuitamente.
 
@@ -29,7 +31,7 @@ Quienes carezcan de recursos económicos suficientes para sufragar los costes de
 
 Una vez agotada la vía interna (agotando todos los recursos procedentes en dicha vía) o si nos encontramos en uno de esos casos excepcionales en los que no se exige el agotamiento de los recursos internos, hay que decidir a qué mecanismo internacional acudir.
 
-##### Determinación de los mecanismos de denuncia aplicables
+#### Determinación de los mecanismos de denuncia aplicables
 
 Debe estudiarse cuáles son los mecanismos de denuncia realmente aplicables o disponibles en cada caso teniendo en cuenta, entre otros, los siguientes factores:
 
@@ -61,4 +63,5 @@ Para la elección del mecanismo a utilizar deben de tomarse en consideración, e
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
 2. https://www.ohchr.org/SP/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx
+3. https://www.echr.coe.int/Pages/home.aspx?p=home
 
