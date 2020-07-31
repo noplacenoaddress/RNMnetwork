@@ -1,10 +1,64 @@
-# Modelos para denuncias
+# ¿Como denunciar la «Maquina»?
 
 ![Tribunal de Estrasburgo](http://telecomlobby.com/Images/tribunal_estrasburgo_derechos_humanos.webp)
 
-Para acceder a los organismos internacionales de denuncias contro abusos sobre el ser humano normalmente hay que agotar las resorsas locales, del país donde somos victimas. 
+En España, comunidad autónoma de Cataluña territorio donde estoy empadronado, los pasos a seguir para denunciar los **crímenes de la «Maquina»** [[1]](http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm) son los siguientes:
 
-En España, comunidad autonoma de Cataluña territorio donde estoy empadronado, los pasos a seguir son los siguientes:
+#### Agotamiento de los recursos judiciales internos
 
-1. 
+Antes de presentar una denuncia por violación de derechos humanos, ante instancias internacionales, se exige, como regla general, el **agotamiento de los recursos judiciales internos** establecidos en el Estado en el que se ha producido la presunta violación de derechos humanos que se pretende denunciar.
+
+No obstante lo anterior, debe señalarse que, en determinadas casos y en determinadas circunstancias, es posible acudir ante instancias internacionales sin haber agotado los recursos judiciales internos, pudiendo citarse, entre otras, las siguientes **excepciones** a la exigencia del agotamiento de los recursos judiciales internos:
+
+- Hay determinados órganos de vigilancia y control, como por ejemplo el **Relator especial de la ONU contra la Tortura** [[2]](https://www.ohchr.org/SP/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx) ante los que es posible acudir sin necesidad de agotar los recursos judiciales internos.
+- Los organismos y mecanismos que exigen el agotamiento de la vía jurisdiccional interna, suelen contemplar, sin embargo, la posibilidad de acudir, como excepción, ante ellos, cuando la vía interna se muestre ineficaz o se pueda prolongar injustificadamente. En mi caso por ejemplo la justicia publica parece no funcionar correctamente. La aristocracia está haciendo de tapón bloqueando mis denuncias en juzgados de guardias. Es un caso de corrupción escandaloso.
+
+Debe prestarse especial atención a la exigencia de agotamiento de los recursos judiciales internos puesto que, en ocasiones, los plazos establecidos por la legislación interna de cada país para poder denunciar y recurrir determinadas violaciones de derechos son plazos muy breves.
+
+Por tanto, si no llegara a reaccionarse con suficiente rapidez ante una violación de derechos humanos, emprendiendo los recursos o mecanismos de impugnación disponibles en el Estado en que se comete la presunta violación de derechos humanos, dentro del plazo establecido en cada caso, se podría perder la posibilidad de acudir ante aquellas instancias internacionales que exigen el agotamiento previo de la vía judicial interna.
+
+En el caso de los horribles crímenes de la  «Maquina» es prácticamente imposible que una victima pueda denunciar en le tiempo previsto de ley. Lo digo porqué al entrar en la red de monitorio neuronal estás supuesto a torturas continuas de acecho y acoso de pandillas es muy complicado mantener la lucidez mental y poder así darse cuenta de todo lo que hay implicado en un crimen tan bien organizado como la esclavitud subliminal. En mi caso es una trama de toda la vida. Absolutamente impensable poder respectar los términos de ley Española según los cuales pueda yo hacer una denuncia. 
+
+#### Posible acceso a justicia gratuita
+
+Con frecuencia (aunque no siempre es así) para la denuncia judicial (interna) de violaciones de derechos humanos y para la actuación ante determinados mecanismos internacionales (por ejemplo, el [Tribunal Europeo de Derechos Humanos](https://www.derechoshumanos.net/tribunales/TribunalEuropeoDerechosHumanos-TEDH.htm)) es necesario actuar con abogado (y en ocasiones, es necesaria incluso la intervención de otros profesionales, como los procuradores, en España).
+
+Quienes carezcan de recursos económicos suficientes para sufragar los costes de un proceso judicial, deben informarse sobre los mecanismos establecidos en su país para litigar gratuitamente.
+
+**3) Elección del mecanismo de denuncia a utilizar**
+
+Una vez agotada la vía interna (agotando todos los recursos procedentes en dicha vía) o si nos encontramos en uno de esos casos excepcionales en los que no se exige el agotamiento de los recursos internos, hay que decidir a qué mecanismo internacional acudir.
+
+**a) \*Determinación de los mecanismos de denuncia aplicables\***
+
+Debe estudiarse cuáles son los mecanismos de denuncia realmente aplicables o disponibles en cada caso teniendo en cuenta, entre otros, los siguientes factores:
+
+\- Naturaleza del derecho vulnerado, debiendo tenerse en cuenta que para determinadas violaciones de derechos humanos se han adoptado mecanismos específicos de supervisión y, en su caso, denuncia (por ejemplo, Comités o Relatores especiales sobre derechos específicos) y que; sin embargo, para otros tipos de violaciones de derechos humanos no se ha establecido ningún [procedimiento específico](https://www.derechoshumanos.net/instrucciones-web/organos-especificos.htm) de denuncia más allá de los mecanismos genéricos de denuncia y supervisión (tales como, por ejemplo, el [Consejo de Derechos Humanos](https://www.derechoshumanos.net/ONU/ConsejoDerechosHumanos-HRC.htm), el [TEDH](https://www.derechoshumanos.net/tribunales/TribunalEuropeoDerechosHumanos-TEDH.htm) o la Corte Interamericana de Derechos Humanos, entre otros).
+
+\- Incluso si se han creado determinados [órganos específicos](https://www.derechoshumanos.net/instrucciones-web/organos-especificos.htm) establecidos para tratar sobre un determinado tipo de derecho o violación de derechos, habrá que comprobar si esos órganos específicos contemplan la posibilidad de actuar ante denuncias individuales, porque no siempre es así.
+
+\- Lugar y tiempo en que se producen las violaciones de derechos humanos que se pretenden denunciar. Este factor debe tenerse en cuenta, por ejemplo, para determinar si un determinado Estado había firmado un determinado Tratado de derechos humanos que, en principio pudiera resultar de aplicación, en el momento de producirse la violación de derechos que se pretende denunciar.
+
+Para el estudio de los mecanismos internacionales disponibles, en cada caso, resulta de utilidad la [Tabla de Derechos Humanos](https://www.derechoshumanos.net/derechos/index.htm).
+
+**b) \*Elección del mecanismo a utilizar de entre los disponibles\*** 
+
+Cada uno de los posibles mecanismos de denuncia e intervención en materia de derechos humanos tiene sus ventajas y desventajas por lo que resulta necesario informarse sobre las ventajas e inconvenientes que ofrecen los diferentes mecanismos susceptibles de ser utilizados en cada caso.
+
+Para la elección del mecanismo a utilizar deben de tomarse en consideración, entre otros, los siguientes factores:
+
+\- Posibilidad de actuar a partir denuncias individuales.
+
+\- Coste económico aparejado (algunos procedimientos requieren la intervención de abogado y otros, como los de Naciones Unidas, no).
+
+\- Posibilidad de obtener una reparación a través del mecanismo utilizado.
+
+\- Fuerza vinculante de la resolución adoptada.
+
+\- Plazos (algunos procedimientos están sujetos a plazos y otros no están sujetos a un plazo concreto).
+
+###  External links 
+
+1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
+2. https://www.ohchr.org/SP/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx
 
