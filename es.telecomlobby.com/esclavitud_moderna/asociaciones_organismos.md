@@ -9,7 +9,10 @@ Podemos acudir a varios organismos internacionales en caso de ser victimas de «
 - **¿Como se presentan denuncias delante de la ONU?** [[3]](https://www.derechoshumanos.net/denunciar/Denuncias-ONU.htm)
 - **Naciones Unidas consejo de derechos humanos** [[4]](https://www.ohchr.org/SP/hrbodies/hrc/pages/home.aspx)
 - **Procedimientos especiales consejo de derechos humanos** [[5]](http://telecomlobby.com/RNMnetwork/documents/procedimientos_especiales_consejo_derechos_humanos.pdf)
-- 
+
+
+
+
 
 ###  External links 
 
