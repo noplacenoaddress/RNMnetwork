@@ -52,6 +52,8 @@ Debido siempre al tiempo de respuesta muy rápido, o sea a una optima latencia, 
 
 En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[7]](https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras) más potentes del mundo. **Barcelona Supercomputing Center** [[8]](https://www.bsc.es/es).  El sistema toma el nombre de **MareNostrum** [[9]](https://es.wikipedia.org/wiki/MareNostrum). El clúster de Barcelona pertenece a la **red de supercomputadoras Española** [[10]](https://es.wikipedia.org/wiki/Red_Espa%C3%B1ola_de_Supercomputaci%C3%B3n); en la red se encuentran varios centros nos interesa encontrar aquellos que brindan servicios sobre **bióinformatica** [[11]](https://es.wikipedia.org/wiki/Bioinform%C3%A1tica) y/o neurociencias. Normalmente un clúster de computadoras funciona alquilando tiempo de computación para proyectos universitarios, de investigación científica o también a grandes empresas privadas. 
 
+![Red supercomputacion española](http://telecomlobby.com/Images/red_supercomputacion_espanola.webp)
+
 
 
 ### External links 
