@@ -24,7 +24,7 @@ Como se puede apreciar de esta documento del 1998, o sea que el nombre de las co
 
 #### Sistema de radio en ELF
 
-Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios pero el más importante se encuentra en:
+Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y muchos son también nodos de la red guifi.net:
 
 ![ELF Turro de Rovira](http://telecomlobby.com/Images/elf_barcelona_turro_rovira.webp)
 
@@ -33,6 +33,8 @@ Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios pe
 ![ELF Marina](http://telecomlobby.com/Images/elf_barcelona_marina.webp)
 
 **41°23'42.16"N ,  2°11'15.31"E** en la azotea de un bloque privado en el barrio de Marina en Barcelona.
+
+![ELF Tibidabo](http://telecomlobby.com/Images/elf_barcelona_tibidabo.webp)
 
 #### Probable centro de calculo y conexiones Europeas programa de individuos objetivo 
 
