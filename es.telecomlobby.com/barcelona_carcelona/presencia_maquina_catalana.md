@@ -22,6 +22,8 @@ Como se puede apreciar de esta documento del 1998, o sea que el nombre de las co
 - Retevisión junto a TV1, TV2, A3, Tele5y Canal+ en planta once. El grupo Italiano de Silvio Berlusconi es presente en la torre de Barcelona, se trata de audiovisuales privadas.
 - **Corporació Catalana de Mitjans Audiovisuals** [[5]](https://www.ccma.cat/), SA en la planta doce. 
 
+![Torre AXION Tibidabo](http://telecomlobby.com/Images/axion_tibidabo.webp)
+
 #### Sistema de radio en ELF
 
 Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y muchos son también nodos de la red guifi.net:
