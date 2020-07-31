@@ -25,15 +25,15 @@ Con frecuencia (aunque no siempre es así) para la denuncia judicial (interna) d
 
 Quienes carezcan de recursos económicos suficientes para sufragar los costes de un proceso judicial, deben informarse sobre los mecanismos establecidos en su país para litigar gratuitamente.
 
-**3) Elección del mecanismo de denuncia a utilizar**
+#### Elección del mecanismo de denuncia a utilizar
 
 Una vez agotada la vía interna (agotando todos los recursos procedentes en dicha vía) o si nos encontramos en uno de esos casos excepcionales en los que no se exige el agotamiento de los recursos internos, hay que decidir a qué mecanismo internacional acudir.
 
-**a) \*Determinación de los mecanismos de denuncia aplicables\***
+##### Determinación de los mecanismos de denuncia aplicables
 
 Debe estudiarse cuáles son los mecanismos de denuncia realmente aplicables o disponibles en cada caso teniendo en cuenta, entre otros, los siguientes factores:
 
-\- Naturaleza del derecho vulnerado, debiendo tenerse en cuenta que para determinadas violaciones de derechos humanos se han adoptado mecanismos específicos de supervisión y, en su caso, denuncia (por ejemplo, Comités o Relatores especiales sobre derechos específicos) y que; sin embargo, para otros tipos de violaciones de derechos humanos no se ha establecido ningún [procedimiento específico](https://www.derechoshumanos.net/instrucciones-web/organos-especificos.htm) de denuncia más allá de los mecanismos genéricos de denuncia y supervisión (tales como, por ejemplo, el [Consejo de Derechos Humanos](https://www.derechoshumanos.net/ONU/ConsejoDerechosHumanos-HRC.htm), el [TEDH](https://www.derechoshumanos.net/tribunales/TribunalEuropeoDerechosHumanos-TEDH.htm) o la Corte Interamericana de Derechos Humanos, entre otros).
+- Naturaleza del derecho vulnerado, debiendo tenerse en cuenta que para determinadas violaciones de derechos humanos se han adoptado mecanismos específicos de supervisión y, en su caso, denuncia (por ejemplo, Comités o Relatores especiales sobre derechos específicos) y que; sin embargo, para otros tipos de violaciones de derechos humanos no se ha establecido ningún [procedimiento específico](https://www.derechoshumanos.net/instrucciones-web/organos-especificos.htm) de denuncia más allá de los mecanismos genéricos de denuncia y supervisión (tales como, por ejemplo, el [Consejo de Derechos Humanos](https://www.derechoshumanos.net/ONU/ConsejoDerechosHumanos-HRC.htm), el [TEDH](https://www.derechoshumanos.net/tribunales/TribunalEuropeoDerechosHumanos-TEDH.htm) o la Corte Interamericana de Derechos Humanos, entre otros).
 
 \- Incluso si se han creado determinados [órganos específicos](https://www.derechoshumanos.net/instrucciones-web/organos-especificos.htm) establecidos para tratar sobre un determinado tipo de derecho o violación de derechos, habrá que comprobar si esos órganos específicos contemplan la posibilidad de actuar ante denuncias individuales, porque no siempre es así.
 
