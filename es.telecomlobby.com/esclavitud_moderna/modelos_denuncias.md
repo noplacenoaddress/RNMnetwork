@@ -35,33 +35,35 @@ Una vez agotada la vía interna (agotando todos los recursos procedentes en dich
 
 Debe estudiarse cuáles son los mecanismos de denuncia realmente aplicables o disponibles en cada caso teniendo en cuenta, entre otros, los siguientes factores:
 
-- Naturaleza del derecho vulnerado, debiendo tenerse en cuenta que para determinadas violaciones de derechos humanos se han adoptado mecanismos específicos de supervisión y, en su caso, denuncia (por ejemplo, Comités o Relatores especiales sobre derechos específicos) y que; sin embargo, para otros tipos de violaciones de derechos humanos no se ha establecido ningún [procedimiento específico](https://www.derechoshumanos.net/instrucciones-web/organos-especificos.htm) de denuncia más allá de los mecanismos genéricos de denuncia y supervisión (tales como, por ejemplo, el [Consejo de Derechos Humanos](https://www.derechoshumanos.net/ONU/ConsejoDerechosHumanos-HRC.htm), el [TEDH](https://www.derechoshumanos.net/tribunales/TribunalEuropeoDerechosHumanos-TEDH.htm) o la Corte Interamericana de Derechos Humanos, entre otros).
+- Naturaleza del derecho vulnerado, debiendo tenerse en cuenta que para determinadas violaciones de derechos humanos se han adoptado mecanismos específicos de supervisión y, en su caso, denuncia (por ejemplo, Comités o Relatores especiales sobre derechos específicos) y que, sin embargo, para otros tipos de violaciones de derechos humanos no se ha establecido ningún procedimiento específico  de denuncia más allá de los mecanismos genéricos de denuncia y supervisión.
 
-\- Incluso si se han creado determinados [órganos específicos](https://www.derechoshumanos.net/instrucciones-web/organos-especificos.htm) establecidos para tratar sobre un determinado tipo de derecho o violación de derechos, habrá que comprobar si esos órganos específicos contemplan la posibilidad de actuar ante denuncias individuales, porque no siempre es así.
+- Incluso si se han creado determinados **órganos específicos** [[4]](http://es.telecomlobby.com/esclavitud_moderna/asociaciones_organismos.htm) establecidos para tratar sobre un determinado tipo de derecho o violación de derechos, habrá que comprobar si esos órganos específicos contemplan la posibilidad de actuar ante denuncias individuales, porque no siempre es así.
+- Lugar y tiempo en que se producen las violaciones de derechos humanos que se pretenden denunciar. Este factor debe tenerse en cuenta, por ejemplo, para determinar si un determinado Estado había firmado un determinado Tratado de derechos humanos que, en principio pudiera resultar de aplicación, en el momento de producirse la violación de derechos que se pretende denunciar.
 
-\- Lugar y tiempo en que se producen las violaciones de derechos humanos que se pretenden denunciar. Este factor debe tenerse en cuenta, por ejemplo, para determinar si un determinado Estado había firmado un determinado Tratado de derechos humanos que, en principio pudiera resultar de aplicación, en el momento de producirse la violación de derechos que se pretende denunciar.
+Para el estudio de los mecanismos internacionales disponibles, en cada caso, resulta de utilidad la **Tabla de Derechos Humanos** [[5]](https://www.derechoshumanos.net/derechos/index.htm).
 
-Para el estudio de los mecanismos internacionales disponibles, en cada caso, resulta de utilidad la [Tabla de Derechos Humanos](https://www.derechoshumanos.net/derechos/index.htm).
-
-**b) \*Elección del mecanismo a utilizar de entre los disponibles\*** 
+#### Elección del mecanismo a utilizar de entre los disponibles
 
 Cada uno de los posibles mecanismos de denuncia e intervención en materia de derechos humanos tiene sus ventajas y desventajas por lo que resulta necesario informarse sobre las ventajas e inconvenientes que ofrecen los diferentes mecanismos susceptibles de ser utilizados en cada caso.
 
 Para la elección del mecanismo a utilizar deben de tomarse en consideración, entre otros, los siguientes factores:
 
-\- Posibilidad de actuar a partir denuncias individuales.
+- Posibilidad de actuar a partir denuncias individuales.
 
-\- Coste económico aparejado (algunos procedimientos requieren la intervención de abogado y otros, como los de Naciones Unidas, no).
+- Coste económico aparejado (algunos procedimientos requieren la intervención de abogado y otros, como los de Naciones Unidas, no).
 
-\- Posibilidad de obtener una reparación a través del mecanismo utilizado.
+- Posibilidad de obtener una reparación a través del mecanismo utilizado.
 
-\- Fuerza vinculante de la resolución adoptada.
+- Fuerza vinculante de la resolución adoptada.
 
-\- Plazos (algunos procedimientos están sujetos a plazos y otros no están sujetos a un plazo concreto).
+- Plazos (algunos procedimientos están sujetos a plazos y otros no están sujetos a un plazo concreto).
+
 
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
 2. https://www.ohchr.org/SP/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx
 3. https://www.echr.coe.int/Pages/home.aspx?p=home
+4. http://es.telecomlobby.com/esclavitud_moderna/asociaciones_organismos.htm
+5. https://www.derechoshumanos.net/derechos/index.htm
 
