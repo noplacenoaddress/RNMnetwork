@@ -4,7 +4,7 @@
 
 *Página elaborada gracias al inmenso trabajo del portal web **derechoshumanos.net***
 
-En España, comunidad autónoma de Cataluña territorio donde estoy empadronado, los pasos a seguir para denunciar los **crímenes de la «Maquina»** [[1]](http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm) son los siguientes:
+En Cataluña, comunidad autónoma de España territorio donde estoy empadronado, los pasos a seguir para denunciar los **crímenes de la «Maquina»** [[1]](http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm) son los siguientes:
 
 #### Agotamiento de los recursos judiciales internos
 
