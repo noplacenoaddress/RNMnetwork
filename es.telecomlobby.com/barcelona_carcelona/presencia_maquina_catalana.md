@@ -24,6 +24,8 @@ Como se puede apreciar de esta documento del 1998, o sea que el nombre de las co
 
 ![Torre AXION Tibidabo](http://telecomlobby.com/Images/axion_tibidabo.webp)
 
+**41°25'26.92"N ,  2° 7'10.04"E** la antigua torre del parque de Tibidabo todavía en función en su últimos tramos, la torre es muy alta y estrecha, tiene varias antenas que podrían ser utilizadas para los servicios que he indicado en la imagen. En la misma zona hay muchísimas emisoras todas de hace bastantes años. Esto podría indicar que en Cataluña el sistema de voz hacía el cerebro, un sistema criminal, era activo antes del 1991 indicando que estas tierras están bajo un sistema dictatorial hace muchos años, prácticamente el Franquismo aquí no ha terminado nunca. Lamentablemente por el pueblo Catalano, esta forma dictatorial es seguramente avalada por parte de la clase dirigente, políticos mandados por parte de una aristocracia latifundista muy presente en estas hermosas tierras.  
+
 #### Sistema de radio en ELF
 
 Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y muchos son también nodos de la red guifi.net:
