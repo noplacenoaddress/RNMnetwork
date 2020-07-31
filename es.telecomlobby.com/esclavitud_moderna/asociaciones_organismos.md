@@ -2,7 +2,7 @@
 
 ![Defensor del pueblo Europeo](http://telecomlobby.com/Images/defensorpuebloeuropeo_organismos_maquina.webp)
 
-Podemos acudir a varios organismos internacionales en caso de ser victimas de «Maquina» que es, como hemos visto, instrumento de la **aristocracia** [[1]](https://es.wikipedia.org/wiki/Aristocracia) que no es hoy en día un forma de gobierno constitucional en Europa utilizado por construir una dictadura subliminal que sigue ejercitando su poder en el territorio Europeo. Esta forma de gobierno tecnológico dictatorial toma el nombre de **tecnocracia** [[2]](https://es.wikipedia.org/wiki/Tecnocracia).  Un crimen horrible contra los derechos humanos activo y operante en España.
+Podemos acudir a varios organismos internacionales en caso de ser victimas de la «Maquina» que es, como hemos visto, instrumento de la **aristocracia** [[1]](https://es.wikipedia.org/wiki/Aristocracia) que no es hoy en día una forma de gobierno constitucional en Europa utilizado para construir una dictadura subliminal que sigue ejercitando su poder en el territorio Europeo. Esta forma de gobierno tecnológico dictatorial toma el nombre de **tecnocracia** [[2]](https://es.wikipedia.org/wiki/Tecnocracia).  Un crimen horrible contra los derechos humanos activo y operante en España.
 
 #### Sistema de protección de derechos de la ONU
 
