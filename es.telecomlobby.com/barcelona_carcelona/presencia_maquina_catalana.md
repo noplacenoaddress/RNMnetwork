@@ -42,7 +42,7 @@ Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y 
 
 **41°25'14.46"N ,  2°7'16.87"E** en la azotea de una casa mono familiar en malas condiciones muy probablemente cuya propiedad pueda ser conectada con la familia noble Catalana. El estilo es aquello.
 
-#### Probable centro de calculo y conexiones Europeas programa de individuos objetivo 
+#### Centro de cálculos y conexiones Europeas programa de individuos objetivo 
 
 ![MareNostrum Barcelona supercomputing](http://telecomlobby.com/Images/barcelona_supercomputing_marenostrum.webp)
 
@@ -50,7 +50,7 @@ Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y 
 
 Debido siempre al tiempo de respuesta muy rápido, o sea a una optima latencia, creo que por lo menos buena parte de la elaboración de los estados neuronales de las victimas y la interacción con ella, las interferencias a los cinco sentidos, se tenga que ejecutar en la misma Barcelona.
 
-En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[7]](https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras) más potentes del mundo. **Barcelona Supercomputing Center** [[8]](https://www.bsc.es/es).  El sistema toma el nombre de **MareNostrum** [[9]](https://es.wikipedia.org/wiki/MareNostrum). El clúster de Barcelona pertenece a la red de supercomputadoras Española 
+En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[7]](https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras) más potentes del mundo. **Barcelona Supercomputing Center** [[8]](https://www.bsc.es/es).  El sistema toma el nombre de **MareNostrum** [[9]](https://es.wikipedia.org/wiki/MareNostrum). El clúster de Barcelona pertenece a la **red de supercomputadoras Española** [[10]](https://es.wikipedia.org/wiki/Red_Espa%C3%B1ola_de_Supercomputaci%C3%B3n); en la red se encuentran varios centros nos interesa encontrar aquellos que brindan servicios sobre **bióinformatica** [[11]](https://es.wikipedia.org/wiki/Bioinform%C3%A1tica) y/o neurociencias. Normalmente un clúster de computadoras funciona alquilando tiempo de computación para proyectos universitarios, de investigación científica o también a grandes empresas privadas. 
 
 
 
@@ -65,3 +65,5 @@ En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[
 7. [https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras](https://es.wikipedia.org/wiki/Clúster_de_computadoras)
 8. https://www.bsc.es/es
 9. https://es.wikipedia.org/wiki/MareNostrum
+10. [https://es.wikipedia.org/wiki/Red_Espa%C3%B1ola_de_Supercomputaci%C3%B3n](https://es.wikipedia.org/wiki/Red_Española_de_Supercomputación)
+11. [https://es.wikipedia.org/wiki/Bioinform%C3%A1tica](https://es.wikipedia.org/wiki/Bioinformática)
