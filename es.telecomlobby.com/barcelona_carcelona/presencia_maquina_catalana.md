@@ -36,7 +36,7 @@ Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y 
 
 ![ELF Tibidabo](http://telecomlobby.com/Images/elf_barcelona_tibidabo.webp)
 
-**41°25'14.46"N ,  2° 7'16.87"E** en la azotea de una casa mono familiar en malas condiciones muy probablemente cuya propiedad pueda ser conectada con la familia noble Catalana. El estilo es aquello.
+**41°25'14.46"N ,  2°7'16.87"E** en la azotea de una casa mono familiar en malas condiciones muy probablemente cuya propiedad pueda ser conectada con la familia noble Catalana. El estilo es aquello.
 
 #### Probable centro de calculo y conexiones Europeas programa de individuos objetivo 
 
