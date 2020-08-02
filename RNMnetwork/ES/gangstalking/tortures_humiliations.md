@@ -111,6 +111,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 26/7/2020 12:45 **Aurora**, an engineer that work indirectly for Francesca speak about a plot where all the nobility have been participated.  I'm very sorry because she was a friend of mine and now she is the girlfriend of one of the best person that I've known in my life. But she just said: "*you've got to die*".
 - 26/7/2020 like I've to present a commercial offer those telecommunication mafias today that is Sunday only do my stalk in neural network. Those, all, work for the great telecommunication firms. Stupidity rules Europe. They do business mobbing to me. Multi millionaires that use girls to destroy little entrepreneurs like me. Europe need a face wash not brain wash. Nobility have to be put in his place. The oblivion.
 - 31/7/2020 Today is the worldwide day against electronic tortures. #StopElectronicTorture. I'm living in Spain where technocrazy is a reality. In my neural application a lot of people that I've known in my life do continuous stalk to me and sexual electronic violence all the day long. This is in front of the higher aristocracy representatives of this country. This is a total scandal. Two nobles families one from France and the other Catalan are the terrorists that are changing our united Europe.
+- 1/8/2020 03:31 dream injection doing a death thread. 
+- 2/8/2020 05:30 dream injection, sleep deprivation and voice to skull. I cannot sleep again.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
