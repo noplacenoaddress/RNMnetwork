@@ -114,6 +114,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 1/8/2020 03:31 dream injection doing a death thread. 
 - 2/8/2020 05:30 dream injection, sleep deprivation and voice to skull. I cannot sleep again.
 - 3/8/2020 01:12 I cannot sleep because of sexual harassment, **Francesca** pay girls to do sexual violence to me using the neural network in Barcelona. It's three years that this stupid pay people with the ultimate goal to induct me to suicide. She is the nephew of an Italian war hero. This bitch doesn't pay an Eur of tax, this bitch has destroy the life of almost all my friends. This bitch has to be put in jail immediately, the crown of Spain has to do something or I will go directly to European parliament and I will stop this shit, this shit is a pseudo dictatorship from aristocracy that got his bases on drugs and forced prostitutions. Girls with babies that do sexual harassment to good mans like me because of the suicide business. 
+- 3/8/2020 06:20 Dream injection, always **Francesca**, that speak about rape me.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
