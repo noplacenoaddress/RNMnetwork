@@ -72,7 +72,7 @@ Estas las especificaciones de cada nodo de clúster:
 
 #### Aplicaciones publicas de interés para investigación crímenes contra la humanidad.
 
-
+![Cognitive Computing Barcelona](http://telecomlobby.com/Images/cognitive_computing.webp)
 
 ### External links 
 
