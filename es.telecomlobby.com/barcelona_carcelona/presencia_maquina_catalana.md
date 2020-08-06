@@ -76,7 +76,11 @@ Estas las especificaciones de cada nodo de clúster:
 
 **Computación Cognitiva** [[25]](https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva). Curioso, en Castellano no hay articulo, mientras que en Catalán si.
 
-**Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación en el Barcelona Supercomputing Center. ¿Que es?
+**Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación en el Barcelona Supercomputing Center. 
+
+> Resumiendo mi estado personal soy un individuo objetivo o sea soy entra las varias cosas un conejillo de India sin previa autorización por mi parte. O sea que alguien, probablemente mis padres, cobran las pagas mensuales de este trabajo que si que es legal. O sea que podría ser, aunque en realidad lo dudo forzudamente, que todo el personal del centro de la Torre y del clúster de computadoras no sea cociente que yo soy un eslavo.  
+>
+> El problema principal es que en la aplicación neuronal de mensajes subliminales hacía el cerebro, una tortura si no previamente contratada y pagada obviamente, hay muchos representantes de la aristocracia Española y Italiana como muchos empresarios de relevo. Lo que pienso es que en caso de ser individuo objetivo se monta un sistema de apuestas mutuas donde juega la elite haciendo toda una serie de humillaciones a la victima con fines de suicidio. La cosa absurdo es que participan los padres que me incitan a la venta de drogas.  También participa un numero muy elevado de personas que he conocido en mi vida siempre apostando sobre lo que yo hago diariamente y también empujándome al crimen. Mi ex pareja no para ni un momento de decirme que me amas y de decirme que ha sido violada.  Todos cobran de la apuestas mutuas de la aplicación del Casino. El dueño, este Catalán del nombre muy pero que muy conocido no creo que pague a nadie menos a las mujeres que actúan en el juego del suicidio. 
 
 ### External links 
 
