@@ -51,7 +51,7 @@ En **genética humana** [[26]](https://en.wikipedia.org/wiki/Human_genetics) dos
 
 Haplogroups son etiquetados con letras y números como puedes apreciar de la imagen abajo.
 
- Mi grupo haplogroup Y-DNA es el **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) y mi mtDNA es el **W** [[33]](https://en.wikipedia.org/wiki/Haplogroup_W_(mtDNA)). 
+ Mi grupo haplogroup Y-DNA es el **R-U152** [[32]](https://en.wikipedia.org/wiki/Haplogroup_R-M269#R-U152) y mi mtDNA es el **W** [[33]](http://shorturl.at/aCP26). 
 
 Puedes descargar los resultados obtenidos de 23andMe y el test genealógico en este URL: 
 
