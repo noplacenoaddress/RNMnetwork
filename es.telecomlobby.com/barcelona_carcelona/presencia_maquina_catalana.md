@@ -90,6 +90,8 @@ Estas las especificaciones de cada nodo de clúster:
 
 **Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación en el Barcelona Supercomputing Center. 
 
+Listado de personas que participan al desarrollo de aplicaciones cognitivas útil para avisar sobre el propio estado de conejillo de India sin retribución. Prácticamente podría ser que soy victima de un robo de identidad y los trabajadores del centro no estén informados:
+
 
 
 ### External links 
