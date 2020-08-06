@@ -74,6 +74,8 @@ Estas las especificaciones de cada nodo de clúster:
 
 ![Cognitive Computing Barcelona](http://telecomlobby.com/Images/cognitive_computing.webp)
 
+**Computación Cognitiva** [[25]](https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva). Curioso, en Castellano no hay articulo, mientras que en Catalán si.
+
 ### External links 
 
 1. https://es.wikipedia.org/wiki/Google_Hacking
@@ -99,5 +101,6 @@ Estas las especificaciones de cada nodo de clúster:
 21. https://ark.intel.com/content/www/us/en/ark/products/83356/intel-xeon-processor-e5-2630-v3-20m-cache-2-40-ghz.html
 22. https://www.nvidia.com/en-gb/data-center/tesla-k80/
 23. https://atos.net/wp-content/uploads/2019/07/BullSequana_X550_features.pdf
-24. https://atos.net/wp-content/uploads/2019/07/BullSequana_X800_features.pdf
+24. https://atos.net/wp-content/uploads/2019/07/BullSequana_X800_features.pdf.
+25. [https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva](https://ca.wikipedia.org/wiki/Computació_Cognitiva)
 
