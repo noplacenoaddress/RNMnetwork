@@ -70,6 +70,10 @@ Estas las especificaciones de cada nodo de clúster:
 
 ¿Que añadir? El número que me han asignado aquí en red de monitorio neuronal unos criminales, unos stalkers, nobles corruptos, es el 9. Una de las CPU utilizadas en estos clúster. Seguramente, porqué así funciona el método de la nobleza, el desarrollo ilegal que se ejecuta sobre mi cerebro, mi esclavitud, se haga en CTE - Power. El número de Saray es el 4, o sea MareNostrum.  Estos números son contenedores, hay muchas victimas mas seguramente en toda Europa. 
 
+#### Aplicaciones publicas de interés para investigación crímenes contra la humanidad.
+
+
+
 ### External links 
 
 1. https://es.wikipedia.org/wiki/Google_Hacking
