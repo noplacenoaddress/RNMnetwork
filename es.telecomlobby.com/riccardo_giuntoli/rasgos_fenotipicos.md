@@ -36,7 +36,7 @@ Una prueba irrefutable en un juicio donde se evalúen crimines contra la humanid
 
 ![Banana](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits_banana.webp)
 
-Más grande, grande, grande y todavía más [[6]](https://www.andromedi.com/el-tamano-medio-del-pene-es-de-13-centimetros/).
+Más grande, grande, grande y todavía **más** [[6]](https://www.andromedi.com/el-tamano-medio-del-pene-es-de-13-centimetros/).
 
 ### External links
 
