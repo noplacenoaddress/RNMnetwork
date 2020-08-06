@@ -46,8 +46,6 @@ Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y 
 
 ![MareNostrum Barcelona supercomputing](http://telecomlobby.com/Images/barcelona_supercomputing_marenostrum.webp)
 
- **41°23'23.22"N ,  2°6'55.83"E**
-
 Debido siempre al tiempo de respuesta muy rápido, o sea a una optima latencia, creo que por lo menos buena parte de la elaboración de los estados neuronales de las victimas y la interacción con ella, las interferencias a los cinco sentidos, se tenga que ejecutar en la misma Barcelona.
 
 En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[7]](https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras) más potentes del mundo. **Barcelona Supercomputing Center** [[8]](https://www.bsc.es/es).  El sistema toma el nombre de **MareNostrum** [[9]](https://es.wikipedia.org/wiki/MareNostrum). El clúster de Barcelona pertenece a la **red de supercomputadoras Española** [[10]](https://es.wikipedia.org/wiki/Red_Espa%C3%B1ola_de_Supercomputaci%C3%B3n); en la red se encuentran varios centros nos interesa encontrar aquellos que brindan servicios sobre **bióinformatica** [[11]](https://es.wikipedia.org/wiki/Bioinform%C3%A1tica) y/o neurociencias. Normalmente un clúster de computadoras funciona alquilando tiempo de computación para proyectos universitarios, de investigación científica o también a grandes empresas privadas. 
@@ -55,6 +53,19 @@ En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[
 ![Red supercomputacion española](http://telecomlobby.com/Images/red_supercomputacion_espanola.webp)
 
 
+
+En el esquema de red se denota como en Cataluña hay dos centros de supercomputación y de como, muy probablemente, también otros centros en el resto del territorio Español participen al programa de individuos objetivos brindando su capacidad de calculo a universidades y/o empresas para el desarrollo de tecnología puntera.
+
+Los centros Catalanes son:
+
+-  **MareNostrum (Proposito General y CTE-Power9-V100) & MinoTauro** [[12]](https://www.res.es/es/nodos-de-la-res/marenostrum-proposito-general-y-cte-power9-v100-minotauro).  **41°23'23.22"N ,  2°6'55.83"E**
+- **Pirineus II y Canigó** [[13]](https://www.res.es/es/nodos-de-la-res/pirineus-ii-y-canig%C3%B3).  **41°23'14.37"N , 2°6'42.83"E**
+
+Estas las especificaciones de cada nodo de clúster:
+
+- MareNostrum 4: **Intel® Xeon(R) Platinum** [[14]](https://www.intel.com/content/www/us/en/products/processors/xeon/scalable/platinum-processors.html), **Intel® Omni-Path Architecture** [[15]](https://www.intel.com/content/www/us/en/high-performance-computing-fabrics/omni-path-driving-exascale-computing.html), **SUSE Linux Enterprise Server** [[16]](https://www.suse.com/products/server/).
+- CTE - Power: **IBM POWER 9** [[17]](https://www.ibm.com/ae-en/it-infrastructure/power/power9),  **GPU NVIDIA Volta V100** [[18]](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/) especifica para operaciones con inteligencia artificial muy presente en la red de monitorio neuronal,  **Dual-rail Mellanox EDR Infiband** [[19]](https://www.mellanox.com/sites/default/files/doc-2020/cs-ornl-summit-infiniband.pdf), **Red Hat® Enterprise Linux® Server** [[20]](https://www.redhat.com/en/store/red-hat-enterprise-linux-server)
+- MinoTauro: 
 
 ### External links 
 
@@ -69,3 +80,13 @@ En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[
 9. https://es.wikipedia.org/wiki/MareNostrum
 10. [https://es.wikipedia.org/wiki/Red_Espa%C3%B1ola_de_Supercomputaci%C3%B3n](https://es.wikipedia.org/wiki/Red_Española_de_Supercomputación)
 11. [https://es.wikipedia.org/wiki/Bioinform%C3%A1tica](https://es.wikipedia.org/wiki/Bioinformática)
+12. https://www.res.es/es/nodos-de-la-res/marenostrum-proposito-general-y-cte-power9-v100-minotauro
+13. [https://www.res.es/es/nodos-de-la-res/pirineus-ii-y-canig%C3%B3](https://www.res.es/es/nodos-de-la-res/pirineus-ii-y-canigó)
+14. https://www.intel.com/content/www/us/en/products/processors/xeon/scalable/platinum-processors.html
+15. https://www.intel.com/content/www/us/en/high-performance-computing-fabrics/omni-path-driving-exascale-computing.html
+16. https://www.suse.com/products/server/
+17. https://www.ibm.com/ae-en/it-infrastructure/power/power9
+18. https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/
+19. https://www.mellanox.com/sites/default/files/doc-2020/cs-ornl-summit-infiniband.pdf
+20. https://www.redhat.com/en/store/red-hat-enterprise-linux-server
+
