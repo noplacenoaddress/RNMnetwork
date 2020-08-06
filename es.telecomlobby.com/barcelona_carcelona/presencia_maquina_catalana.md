@@ -86,6 +86,8 @@ Es como he dicho, una Mafia subliminal. Donde juega la élite y la clase media n
 
 Un punto de investigación fundamental sobre esta Mafia con connotados de secta al suicidio es el número de suicidas Italianos en suelo Catalán. Este numero es totalmente conectadle a esta persona. *Un criminal a pie libre en la sociedad Catalana*. 
 
+Su modo de actuar me acuerda mucho Comunión y Liberación. Una especie de secta Católica legalizada con miembros en todos los edificios públicos Italianos. 
+
 ### External links 
 
 1. https://es.wikipedia.org/wiki/Google_Hacking
