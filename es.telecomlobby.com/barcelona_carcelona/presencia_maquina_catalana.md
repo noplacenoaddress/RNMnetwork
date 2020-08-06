@@ -84,6 +84,8 @@ El problema principal es que en la aplicación neuronal de mensajes subliminales
 
 Es como he dicho, una Mafia subliminal. Donde juega la élite y la clase media no es cociente de nada de ello. En Cataluña juegan Italianos con cuentas en Andorra en Liguria Catalanes con cuentas en Monte Carlo. Es una estafa donde bellas mujeres llevan a ruina a jóvenes empresarios. Personalmente he hecho tres mil kilómetros a pies para buscara a Saray. Ella también en su manera es victima de este hombre y de su familia. Por tener que arruinar personas que la quieren. Pero es culpable de aceptar de trabajar por este individuo, probablemente por pura ignorancia. Por pensar que la nobleza sea intocable. Cosa del todo falsa. 
 
+Un punto de investigación fundamental sobre esta Mafia con connotados de secta al suicidio es el número de suicidas Italianos en suelo Catalán. Este numero es totalmente conectadle a esta persona. *Un criminal a pie libre en la sociedad Catalana*. 
+
 ### External links 
 
 1. https://es.wikipedia.org/wiki/Google_Hacking
