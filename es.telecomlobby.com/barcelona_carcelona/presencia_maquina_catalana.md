@@ -76,7 +76,15 @@ Estas las especificaciones de cada nodo de clúster:
 
 **Computación Cognitiva** [[25]](https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva). Curioso, en Castellano no hay articulo, mientras que en Catalán si.
 
-**Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación en el Barcelona Supercomputing Center. ¿Que es?
+**Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación en el Barcelona Supercomputing Center. 
+
+Resumiendo mi estado personal soy un individuo objetivo o sea soy entra las varias cosas un conejillo de India sin previa autorización por mi parte. O sea que alguien, probablemente mis padres, cobran las pagas mensuales de este trabajo que si que es legal. O sea que podría ser, aunque en realidad lo dudo forzudamente, que todo el personal del centro de la Torre y del clúster de computadoras no sea cociente que yo soy un eslavo.  
+
+El problema principal es que en la aplicación neuronal de mensajes subliminales hacía el cerebro, una tortura si no previamente contratada y pagada obviamente, hay muchos representantes de la aristocracia Española y Italiana como muchos empresarios de relevo. Lo que pienso es que en caso de ser individuo objetivo se monta un sistema de apuestas mutuas donde juega la élite haciendo toda una serie de humillaciones a la victima con fines de suicidio. La cosa absurdo es que participan los padres que me incitan a la venta de drogas.  También participa un numero muy elevado de personas que he conocido en mi vida siempre apostando sobre lo que yo hago diariamente y también empujándome al crimen. Mi ex pareja no para ni un momento de decirme que me amas y de decirme que ha sido violada.  Todos cobran de la apuestas mutuas de la aplicación del Casino. El dueño, este Catalán del nombre muy pero que muy conocido no creo que pague a nadie menos a las mujeres que actúan en el juego del suicidio. Este individuo, una especie de mercante de personas, es el punto clave de conexión de cada departamento publico, sanidad y policía incluidos, ocupándose de haber una talpa en cada uno de ellos. Es por esto que también este sistema no es detectable por la mayoría de personas decentes de este país.
+
+Es como he dicho, una Mafia subliminal. Donde juega la élite y la clase media no es cociente de nada de ello. En Cataluña juegan Italianos con cuentas en Andorra en Liguria Catalanes con cuentas en Monte Carlo. Es una estafa donde bellas mujeres llevan a ruina a jóvenes empresarios. Personalmente he hecho tres mil kilómetros a pies para buscara a Saray. Ella también en su manera es victima de este hombre y de su familia. Por tener que arruinar personas que la quieren. Pero es culpable de aceptar de trabajar por este individuo, probablemente por pura ignorancia. Por pensar que la nobleza sea intocable. Cosa del todo falsa. 
+
+Un punto de investigación fundamental sobre esta Mafia con connotados de secta al suicidio es el número de suicidas Italianos en suelo Catalán. Este numero es totalmente conectadle a esta persona. *Un criminal a pie libre en la sociedad Catalana*. 
 
 ### External links 
 
