@@ -66,6 +66,7 @@ Estas las especificaciones de cada nodo de clúster:
 - MareNostrum 4: **Intel® Xeon(R) Platinum** [[14]](https://www.intel.com/content/www/us/en/products/processors/xeon/scalable/platinum-processors.html), **Intel® Omni-Path Architecture** [[15]](https://www.intel.com/content/www/us/en/high-performance-computing-fabrics/omni-path-driving-exascale-computing.html), **SUSE Linux Enterprise Server** [[16]](https://www.suse.com/products/server/).
 - CTE - Power: **IBM POWER 9** [[17]](https://www.ibm.com/ae-en/it-infrastructure/power/power9),  **GPU NVIDIA Volta V100** [[18]](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/) especifica para operaciones con inteligencia artificial muy presente en la red de monitorio neuronal,  **Dual-rail Mellanox EDR Infiband** [[19]](https://www.mellanox.com/sites/default/files/doc-2020/cs-ornl-summit-infiniband.pdf), **Red Hat® Enterprise Linux® Server** [[20]](https://www.redhat.com/en/store/red-hat-enterprise-linux-server)
 - MinoTauro: **Intel® Xeon® Processor E5-2630 v3** [[21]](https://ark.intel.com/content/www/us/en/ark/products/83356/intel-xeon-processor-e5-2630-v3-20m-cache-2-40-ghz.html), **GPU Nvidia Tesla K80** [[22]](https://www.nvidia.com/en-gb/data-center/tesla-k80/)
+- Pirineus II y Canigó: BullSequana **X550** [[23]](https://atos.net/wp-content/uploads/2019/07/BullSequana_X550_features.pdf) y **X800** [[24]](https://atos.net/wp-content/uploads/2019/07/BullSequana_X800_features.pdf)
 
 ### External links 
 
@@ -91,4 +92,6 @@ Estas las especificaciones de cada nodo de clúster:
 20. https://www.redhat.com/en/store/red-hat-enterprise-linux-server
 21. https://ark.intel.com/content/www/us/en/ark/products/83356/intel-xeon-processor-e5-2630-v3-20m-cache-2-40-ghz.html
 22. https://www.nvidia.com/en-gb/data-center/tesla-k80/
+23. https://atos.net/wp-content/uploads/2019/07/BullSequana_X550_features.pdf
+24. https://atos.net/wp-content/uploads/2019/07/BullSequana_X800_features.pdf
 
