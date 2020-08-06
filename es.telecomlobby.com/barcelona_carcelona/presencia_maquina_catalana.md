@@ -76,6 +76,8 @@ Estas las especificaciones de cada nodo de clúster:
 
 **Computación Cognitiva** [[25]](https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva). Curioso, en Castellano no hay articulo, mientras que en Catalán si.
 
+**Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación en el Barcelona Supercomputing Center. ¿Que es?
+
 ### External links 
 
 1. https://es.wikipedia.org/wiki/Google_Hacking
@@ -103,4 +105,5 @@ Estas las especificaciones de cada nodo de clúster:
 23. https://atos.net/wp-content/uploads/2019/07/BullSequana_X550_features.pdf
 24. https://atos.net/wp-content/uploads/2019/07/BullSequana_X800_features.pdf.
 25. [https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva](https://ca.wikipedia.org/wiki/Computació_Cognitiva)
+26. https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing
 
