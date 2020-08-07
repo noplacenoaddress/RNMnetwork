@@ -20,8 +20,18 @@ El titulo duque y conde fueron distinguidos de forma parecida como rangos en el 
 
 ![](http://telecomlobby.com/Images/81207908_10221833008156953_4700509236348583936_n.jpg)
 
+Este es el **escudo** [[3]](shorturl.at/enrxZ) del **marqués** [[4]](https://es.wikipedia.org/wiki/Marqu%C3%A9s) **KEYBASE SALTPACK ENCRYPTED MESSAGE 2** [[5]](http://telecomlobby.com/keybase/1.txt), fue un **General** [[6]](https://es.wikipedia.org/wiki/General) del **Reino de Cerdeña** [[7]](https://es.wikipedia.org/wiki/Reino_de_Cerde%C3%B1a) y también el de senador del **senado del reino de Italia** [[8]](https://en.wikipedia.org/wiki/Senate_of_the_Kingdom_of_Italy).
+
+![El territorio del senador](http://telecomlobby.com/Images/marchesedlp.jpg)
+
 ### External links 
 
 1. https://www.youtube.com/watch?v=HVf37x07YPg
 2. http://telecomlobby.com/keybase/1.txt
+3. http://shorturl.at/enrxZ
+4. [https://es.wikipedia.org/wiki/Marqu%C3%A9s](https://es.wikipedia.org/wiki/Marqués)
+5. http://telecomlobby.com/keybase/1.txt
+6. https://es.wikipedia.org/wiki/General
+7. [https://es.wikipedia.org/wiki/Reino_de_Cerde%C3%B1a](https://es.wikipedia.org/wiki/Reino_de_Cerdeña)
+8. https://en.wikipedia.org/wiki/Senate_of_the_Kingdom_of_Italy
 
