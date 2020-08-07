@@ -14,7 +14,9 @@ El titulo duque y conde fueron distinguidos de forma parecida como rangos en el 
 
 > Es curioso como el nivel de la aristocracia haya bajado a tal punto de tener yo que hablar de «paparazzi» y mujeres violadas con lavado de cerebro antes de hablar de la raíz literal de sus títulos nobiliario. Vergüenza! 
 
-#### KEYBASE SALTPACK ENCRYPTED MESSAGE 1 [2]
+#### KEYBASE SALTPACK ENCRYPTED MESSAGE 1
+
+**enlace fichero cifrado** [[2]](http://telecomlobby.com/keybase/1.txt)
 
 ![](http://telecomlobby.com/Images/81207908_10221833008156953_4700509236348583936_n.jpg)
 
