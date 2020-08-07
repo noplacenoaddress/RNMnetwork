@@ -12,6 +12,8 @@ En  el **croquis** [[5]](http://telecomlobby.com/Images/torre_collserola_disposi
 
 
 
+
+
 ### External links
 
 1. https://cadenaser.com/programa/nadie_sabe_nada/
