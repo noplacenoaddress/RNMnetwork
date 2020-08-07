@@ -24,6 +24,8 @@ Este es el **escudo** [[3]](shorturl.at/enrxZ) del **marqués** [[4]](https://es
 
 ![El territorio del senador](http://telecomlobby.com/Images/marchesedlp.jpg)
 
+Este territorio del sur de la Francia pertenece a los departamentos de los **Alpes de Alta Provenza** [[9]](https://es.wikipedia.org/wiki/Alpes_de_Alta_Provenza) y de los **Alpes Marítimos** [[10]](http://shorturl.at/ehzP0).  El **último departamento** [[11]](https://es.wikipedia.org/wiki/Departamentos_de_Francia) de Francia abraza el **principado de Mónaco** [[12]](https://es.wikipedia.org/wiki/M%C3%B3naco). 
+
 ### External links 
 
 1. https://www.youtube.com/watch?v=HVf37x07YPg
@@ -34,4 +36,8 @@ Este es el **escudo** [[3]](shorturl.at/enrxZ) del **marqués** [[4]](https://es
 6. https://es.wikipedia.org/wiki/General
 7. [https://es.wikipedia.org/wiki/Reino_de_Cerde%C3%B1a](https://es.wikipedia.org/wiki/Reino_de_Cerdeña)
 8. https://en.wikipedia.org/wiki/Senate_of_the_Kingdom_of_Italy
+9. https://es.wikipedia.org/wiki/Alpes_de_Alta_Provenza
+10. http://shorturl.at/ehzP0
+11. https://es.wikipedia.org/wiki/Departamentos_de_Francia
+12. [https://es.wikipedia.org/wiki/M%C3%B3naco](https://es.wikipedia.org/wiki/Mónaco)
 
