@@ -20,7 +20,7 @@ Esta Mafia actua como mercenaria. En mi caso su cabezilla que he conocido person
 
 - Hosteleria, dos personas. Uno está en la carcel, un laureado y persona de estupenda preparación y cultura, otro ha muerto suicida.
 - Yo, empresario de telecomunicaciones. Luchando contra el acoso de pandillas y el acecho electronico continuo y con aspiraciones a volver a emprender en la tierra que he decidido ser mi patria: Cataluña.
-- Quien era mi mejor amigo, un profesional del **flair** [[6]](https://es.wikipedia.org/wiki/Flairtending). Totalmente victima reducido a la venta de droga y al hacer estafas. Es, como Saray, culpable de haber partecipado a la destrucción sistematica de mi vida; pero los dos son padres, son coaccionados con los hijos, los dos son victimas de la Mafia de las telecomunicaciones. Los dos necesitan ayuda para salir de esta estructura. Los dos han preferido actuar en el teatro de mi suicidio por falta de cultura y sabiduria por plantar cara a estos gigantes.
+- Quien era mi mejor amigo, un profesional del **flair** [[6]](https://es.wikipedia.org/wiki/Flairtending). Totalmente victima reducido a la venta de droga y al hacer estafas. Es, como Saray, culpable de haber partecipado a la destrucción sistematica de mi vida; pero los dos son padres, son coaccionados con los hijos, los dos son victimas de la Mafia de las telecomunicaciones. Los dos necesitan ayuda para salir de esta estructura. Los dos han preferido actuar en el teatro de mi suicidio para falta de cultura y sabiduria por plantar cara a estos gigantes.
 
 
 
