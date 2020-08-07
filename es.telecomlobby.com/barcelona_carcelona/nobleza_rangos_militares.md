@@ -24,7 +24,14 @@ Este es el **escudo** [[3]](shorturl.at/enrxZ) del **marqués** [[4]](https://es
 
 ![El territorio del senador](http://telecomlobby.com/Images/marchesedlp.jpg)
 
-Este territorio del sur de la Francia pertenece a los departamentos de los **Alpes de Alta Provenza** [[9]](https://es.wikipedia.org/wiki/Alpes_de_Alta_Provenza) y de los **Alpes Marítimos** [[10]](http://shorturl.at/ehzP0).  El **último departamento** [[11]](https://es.wikipedia.org/wiki/Departamentos_de_Francia) de Francia abraza el **principado de Mónaco** [[12]](https://es.wikipedia.org/wiki/M%C3%B3naco). 
+Este territorio del sur de la Francia pertenece a los departamentos de los **Alpes de Alta Provenza** [[9]](https://es.wikipedia.org/wiki/Alpes_de_Alta_Provenza) y de los **Alpes Marítimos** [[10]](http://shorturl.at/ehzP0).  El **último departamento** [[11]](https://es.wikipedia.org/wiki/Departamentos_de_Francia) de Francia abraza el **principado de Mónaco** [[12]](https://es.wikipedia.org/wiki/M%C3%B3naco). Hay un pueblo cercano que se llama Orange, como el ISP. 
+
+En esta nota del **senado** [[13]](https://notes9.senato.it/Web/senregno.NSF/d7aba38662bfb3b8c125785e003c4334/591cf55a86f14ba84125646f005b643e?OpenDocument) se puede apreciar que su dirección en Italia era **vía Astalli 15, Roma** [[14]](https://www.google.com/maps/place/Via+degli+Astalli,+15,+00186+Roma+RM,+Italy/@41.8955725,12.4782596,17z/data=!3m1!4b1!4m5!3m4!1s0x132f604c5bc06453:0x7e8376fffd5a2ba4!8m2!3d41.8955725!4d12.4804483?shorturl=1). Esta calle hay empadronado algún punto de interés histórico muy conectado con mi historia de acoso y acecho. Con mi juego al suicidio. Juego aristocrático donde han muerto varios amigos mios:
+
+- **Compañía de Jesús** [[15]](https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Jes%C3%BAs)
+- **«Comando genio»** [[16]](https://it.wikipedia.org/wiki/Comando_genio), una importante división militar Italiana. 
+
+![](http://telecomlobby.com/Images/astalli1.png)
 
 ### External links 
 
@@ -40,4 +47,8 @@ Este territorio del sur de la Francia pertenece a los departamentos de los **Alp
 10. http://shorturl.at/ehzP0
 11. https://es.wikipedia.org/wiki/Departamentos_de_Francia
 12. [https://es.wikipedia.org/wiki/M%C3%B3naco](https://es.wikipedia.org/wiki/Mónaco)
+13. https://notes9.senato.it/Web/senregno.NSF/d7aba38662bfb3b8c125785e003c4334/591cf55a86f14ba84125646f005b643e?OpenDocument 
+14. https://www.google.com/maps/place/Via+degli+Astalli,+15,+00186+Roma+RM,+Italy/@41.8955725,12.4782596,17z/data=!3m1!4b1!4m5!3m4!1s0x132f604c5bc06453:0x7e8376fffd5a2ba4!8m2!3d41.8955725!4d12.4804483?shorturl=1
+15. [https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Jes%C3%BAs](https://es.wikipedia.org/wiki/Compañía_de_Jesús)
+16. https://it.wikipedia.org/wiki/Comando_genio
 
