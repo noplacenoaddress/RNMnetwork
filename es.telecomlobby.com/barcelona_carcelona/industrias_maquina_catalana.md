@@ -16,12 +16,13 @@ Las industrias audiovisuales se alimentan del acecho, de lavado de cerebro que t
 
 En la infrestructura de la Mafia de las telecomunicaciones, se interrumpen las carreras de muchos jovenes empresarios. Victimas de estafas coordenadas y organizadas, porqué cuando se habla de Mafia se habla de organización criminal, las victimas vienen puesta en una cadena de desgaste para después terminar en la carcel, enganchados a drogas pesadas, suicidas.
 
-Esta Mafia actua como mercenaria. En mi caso su jefe que he conocido personalmente porqué seguramente cierto que hubiera muerto, o hubiera aceptado ser un camello por su infraestructura, me ha dejado inmediatamente claro que el todo es debido a mi antigua empresa. Conozco otras victimas, y lamentablemente también amigos que ha muerto suicidas o están en la carcel. Todos tienen como denomidador comun el hecho que han venido a emprender en España:
+Esta Mafia actua como mercenaria. En mi caso su cabezilla que he conocido personalmente porqué seguramente cierto que hubiera muerto, o hubiera aceptado ser un camello por su infraestructura, me ha dejado inmediatamente claro que el todo es debido a mi antigua empresa. Conozco otras victimas, y lamentablemente también amigos que han muerto suicidas o están en la carcel. Todos tienen como denomidador comun el hecho que han venido a emprender en España:
 
 - Hosteleria, dos personas. Uno está en la carcel, un laureado y persona de estupenda preparación y cultura, otro a muerto suicida.
 - Yo, empresario de telecomunicaciones. Luchando contra el acoso de pandillas y el acecho electronico continuo y con aspiraciones a volver a emprender en la tierra que he decidido ser mi patria: Cataluña.
 - Quien era mi mejor amigo, un profesional del **flair** [[6]](https://es.wikipedia.org/wiki/Flairtending). Totalmente victima reducido a la venta de droga y al hacer estafas. Es, como Saray, culpable de haber partecipado a la destrucción sistematica de mi vida; pero los dos son padres, son coaccionados con los hijos, los dos son victimas de la Mafia de las telecomunicaciones. Los dos necesitan ayuda para salir de esta estructura. Los dos han preferido actuar en el teatro de mi suicidio por falta de cultura y sabiduria por plantar cara a estos gigantes.
-- 
+
+
 
 ### External links
 
