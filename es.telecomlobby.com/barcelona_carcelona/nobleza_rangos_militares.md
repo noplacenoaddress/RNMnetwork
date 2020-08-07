@@ -33,6 +33,10 @@ En esta nota del **senado** [[13]](https://notes9.senato.it/Web/senregno.NSF/d7a
 
 ![](http://telecomlobby.com/Images/astalli1.png)
 
+Este senador en una discusión del senado del Reino desde el 22 de Febrero de 1902 hasta el 6 de Julio de 1904, secunda sesión, habla de un sistema de **radio telégrafo** [[17]](https://es.wikipedia.org/wiki/Telegraf%C3%ADa_sin_hilos), el sistema Marconi, aprobado por ley el día 5 de Abril 1903 en la discusión sobre los balances de **correos** [[18]](https://es.wikipedia.org/wiki/Poste_italiane). Marconi fue un pionero de la radio y un i**ngeniero eléctrico** [[19]](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_el%C3%A9ctrica) y mio padre también lo es. Uno de los hijos del senador fue **KEYBASE SALTPACK ENCRYPTED MESSAGE 5** [[20]](http://telecomlobby.com/keybase/5.txt) nació en Genova el 11 de Febrero 1914 y murió el 17 de Enero 1992. Considerado un héroe militar fue en realidad un fascista que perteneció a la mortífera **Decima Flottiglia MAS** [[21]](https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS).
+
+Yo en Cataluña en los años 2016 y 2017 he sido perseguido por parte de pelotones fascistas de aparentemente normales ciudadanos, mercenarios comprados en la red de monitorio neuronal, la red aristocrática donde se hace esclavitud moderna. He vivido una persecución racial delante de una ciudad silenciosa y corrupta. Una ciudad y una policía que ha visto el crimen probablemente más grande nunca cometido a un individuo y no ha intervenido. Tampoco todas las personas que lo han visto en las televisiones neuronales, una pantalla inyectada en la corteza visual de las personas donde se puede ver lo que yo veo, han hecho nada. Y estas personas son prácticamente todas la que yo he conocido en mi vida. Esto es el juego al suicidio de la aristocracia. Una persecución racial avalada por estado y Iglesia. Escenificado en Cataluña por parte de la familia noble más grande del país y organizado de forma fascista por parte de la bisnieta del senador de lo cual estoy hablando. 
+
 ### External links 
 
 1. https://www.youtube.com/watch?v=HVf37x07YPg
@@ -51,4 +55,9 @@ En esta nota del **senado** [[13]](https://notes9.senato.it/Web/senregno.NSF/d7a
 14. https://www.google.com/maps/place/Via+degli+Astalli,+15,+00186+Roma+RM,+Italy/@41.8955725,12.4782596,17z/data=!3m1!4b1!4m5!3m4!1s0x132f604c5bc06453:0x7e8376fffd5a2ba4!8m2!3d41.8955725!4d12.4804483?shorturl=1
 15. [https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Jes%C3%BAs](https://es.wikipedia.org/wiki/Compañía_de_Jesús)
 16. https://it.wikipedia.org/wiki/Comando_genio
+17. [https://es.wikipedia.org/wiki/Telegraf%C3%ADa_sin_hilos](https://es.wikipedia.org/wiki/Telegrafía_sin_hilos)
+18. https://es.wikipedia.org/wiki/Poste_italiane
+19. [https://es.wikipedia.org/wiki/Ingenier%C3%ADa_el%C3%A9ctrica](https://es.wikipedia.org/wiki/Ingeniería_eléctrica)
+20. http://telecomlobby.com/keybase/5.txt
+21. https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS
 
