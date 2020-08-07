@@ -39,8 +39,6 @@ Este senador en una discusión del senado del Reino desde el 22 de Febrero de 19
 
 Uno de los hijos del senador fue **KEYBASE SALTPACK ENCRYPTED MESSAGE 5** [[20]](http://telecomlobby.com/keybase/5.txt) nació en Genova el 11 de Febrero 1914 y murió el 17 de Enero 1992. Considerado un héroe militar fue en realidad un fascista que perteneció a la mortífera **Decima Flottiglia MAS** [[21]](https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS). Fue un importante militar **«hombre rana»** [[22]](https://ca.wikipedia.org/wiki/Home_granota) de la secunda guerra mundial. 
 
-> El substantivo rana me acuerda también el estilo de natación de mi madre. En castellano se llama pero **estilo braza** [[23]](https://es.wikipedia.org/wiki/Estilo_braza). El croar de las ranas puede escribirse en Ingles también como «crack».
-
 ### External links 
 
 1. https://www.youtube.com/watch?v=HVf37x07YPg
