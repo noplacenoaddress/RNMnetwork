@@ -39,6 +39,8 @@ Este senador en una discusión del senado del Reino desde el 22 de Febrero de 19
 
 Uno de los hijos del senador fue **KEYBASE SALTPACK ENCRYPTED MESSAGE 5** [[20]](http://telecomlobby.com/keybase/5.txt) nació en Genova el 11 de Febrero 1914 y murió el 17 de Enero 1992. Considerado un héroe militar fue en realidad un fascista que perteneció a la mortífera **Decima Flottiglia MAS** [[21]](https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS). Fue un importante militar **«hombre rana»** [[22]](https://ca.wikipedia.org/wiki/Home_granota) de la secunda guerra mundial. 
 
+Luigi era un **teniente de navío** [[23]](https://es.wikipedia.org/wiki/Teniente_de_nav%C3%ADo) en la **Marina Militare** [[24]](https://es.wikipedia.org/wiki/Marina_Militare) cuando el 19 de Diciembre de 1941 llevó a cabo una **misión en Alejandría** [[25]](http://shorturl.at/cjGN5), Egipto, utilizando **torpedos humanos** [[26]](https://es.wikipedia.org/wiki/Torpedo_humano) llamados «Maiali», cerdos en Castellano. Del mismo termino con lo cual se han bautizado estas armas está más que claro que este hombre no tendría que ser llamado «héroe». 
+
 ### External links 
 
 1. https://www.youtube.com/watch?v=HVf37x07YPg
@@ -63,5 +65,8 @@ Uno de los hijos del senador fue **KEYBASE SALTPACK ENCRYPTED MESSAGE 5** [[20]]
 20. http://telecomlobby.com/keybase/5.txt
 21. https://es.wikipedia.org/wiki/Decima_Flottiglia_MAS
 22. https://ca.wikipedia.org/wiki/Home_granota
-23. https://es.wikipedia.org/wiki/Estilo_braza
+23. [https://es.wikipedia.org/wiki/Teniente_de_nav%C3%ADo](https://es.wikipedia.org/wiki/Teniente_de_navío)
+24. https://es.wikipedia.org/wiki/Marina_Militare
+25. http://shorturl.at/cjGN5
+26. https://es.wikipedia.org/wiki/Torpedo_humano
 
