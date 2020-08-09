@@ -124,6 +124,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 ![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
 
+#### Photo log in function of time about tortures
+
+![19022015](http://telecomlobby.com/Images/19022015.webp)
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
