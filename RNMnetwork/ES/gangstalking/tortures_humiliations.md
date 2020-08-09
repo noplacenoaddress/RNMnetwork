@@ -128,6 +128,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 ![19022015](http://telecomlobby.com/Images/19022015.webp)
 
+Before being tortured due to a scam to steal my business where I was working on February 19th 2015. As you can see my baldness was not at all pronounced, now August 2020 I am completely bald and irregular in shape.
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
