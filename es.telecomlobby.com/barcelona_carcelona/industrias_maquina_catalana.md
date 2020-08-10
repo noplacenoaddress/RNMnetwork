@@ -4,7 +4,7 @@
 
 A que se refiere el **titular** [[1]](https://cadenaser.com/programa/nadie_sabe_nada/) de este programa de **cadena SER** [[2]](https://en.wikipedia.org/wiki/Cadena_SER)? 
 
-La primera industria que sin duda trae provecho y inspiración de este sistema de esclavitud y humilliaciones publicas es la industria de audiovisuales. Muy radicada en la ciudad condal y también estudiada en la **Universidad de Barcelona** [[3]](https://es.wikipedia.org/wiki/Universidad_de_Barcelona).
+La primera industria que sin duda trae provecho y inspiración de este sistema de esclavitud y humilliaciones publicas es la industria de audiovisuales y la industria del cine Español. Muy radicada en la ciudad condal y también estudiada en la **Universidad de Barcelona** [[3]](https://es.wikipedia.org/wiki/Universidad_de_Barcelona).
 
 En mensajería subliminal los stalkers que partecipan al acecho continuo de la victima, yo, hablan continumanente de la **terraza de las telecomunicaciones** [[4]](http://es.telecomlobby.com/).
 
