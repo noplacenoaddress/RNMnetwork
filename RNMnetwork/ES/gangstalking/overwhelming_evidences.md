@@ -228,6 +228,18 @@ Where are you sweetie?
 
 Those are the number of images and videos of pornography that I've found about Saray and people with very similar physiognomy obviously uploaded to obtain my suicide.  
 
+#### Radio spectrum on the night between 9 and 10 of  August 2020.
+
+ ![radio spectrum under attack](http://telecomlobby.com/Images/10082020_nocturno_mimadre.webp)
+
+This is the power of the remote neural monitoring network in the tower of Barcelona. The principle access point of what aristocracy call "the game" or "techno". It's technocracy. I'm a target individual from November 2017 for money. Aristocracy want that I commit suicide. Francesca a marquees from Genoa is totally guilty behind a drug cartel that have disrupt Barcelona.
+
+In this night, with my parents that have come to Spain just today, they attack me with ultra high voice to skull subliminal messages all night long. 
+
+Look at the spectrum! It's a terrible abuse and a technology totally illegal. Aristocracy is torturing me. **I know ALL THE NAMES BEHIND**.
+
+![Normal spectrum](http://telecomlobby.com/Images/08082020_nocturno.webp)
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
