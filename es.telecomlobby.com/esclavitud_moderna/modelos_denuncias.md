@@ -49,14 +49,18 @@ Cada uno de los posibles mecanismos de denuncia e intervención en materia de de
 Para la elección del mecanismo a utilizar deben de tomarse en consideración, entre otros, los siguientes factores:
 
 - Posibilidad de actuar a partir denuncias individuales.
-
 - Coste económico aparejado (algunos procedimientos requieren la intervención de abogado y otros, como los de Naciones Unidas, no).
-
 - Posibilidad de obtener una reparación a través del mecanismo utilizado.
-
 - Fuerza vinculante de la resolución adoptada.
-
 - Plazos (algunos procedimientos están sujetos a plazos y otros no están sujetos a un plazo concreto).
+
+#### Consejo de los derechos humanos A/HRC/43/49 20/3/2020
+
+Acerca de las torturas. Llorando declaro que soy victima de torturas diarias desde el año 2016. De torturas a través de radio frecuencia diarias desde el **27 de Noviembre 2017**.
+
+**La prohibición de la tortura es universal, absoluta, non derogadle.** 
+
+![Consejo de los derechos humanos](http://telecomlobby.com/Images/452062-01-02.webp)
 
 
 ###  External links 
