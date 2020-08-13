@@ -49,6 +49,7 @@ Este criminal y su grupo traman un guion de dudosa calidad según el tipo de car
 - Venta de pornografía amatorial.
 - Apuestas mutuas sobre toda la vida de la victima, hasta sobre su muerte.
 - Venta de datos de todo lo que los ojos de la victima vean. **Big data** [[9]](https://en.wikipedia.org/wiki/Industrial_big_data).  
+- **Comisiones de emprendedores competidores para la destrucción de la carrera de la victima.** 
 
 A las victimas se le alivian las penas con sexo y droga fácil. Las victimas crean células a su vez donde utilizando la misma tecnología "juegan" a destruir la vida a parejas ignaras para crear pequeños esclavos de venta de drogas y putas obligadas por el entorno negativo normalmente ampliado por el consumo de droga pesada. De esta forma el jefe, que es genial por estos particulares, se libra de un cargo de asociación Mafiosa dejando a los soldados toda las culpas. Si hay una investigación la policía encontraría únicamente conexiones en una célula. Todo lo demás es gestionado en la red de monitorio neuronal por parte de los controladores, maquinistas esclavos pero pagados del jefe. 
 
@@ -56,7 +57,13 @@ Hablo de células porqué esta Mafia tiene tratos de terrorismo.
 
 Como puedo saber todo esto yo? Porqué a mi vez he engañado a este hombre. Me he hecho hacer de todo por años y ahora estoy volcando todo mi saber en este contenido publico. Lo he engañado porqué soy un técnico informático estupendo y el hubiera querido hacerme un maquinista. Así que con el tiempo he aprendido su forma de comportarse y se prácticamente todo acerca de su sucio negocio. 
 
+Aquí juegan hijos de buenas familias, ganan dinero del sufrimiento de las victimas y de muchos indigentes laureados, parejas de casados de las caras pulida, políticos corruptos. Follan frailes y curas. Monstruos pederastas comen.  Aquí chicos de corazón, como yo, hacen tres mil kilómetros a pies para buscar a su amada y después por desgaste físico se arriesgan la silla de rueda. Aquí padres juegan a la ruleta rusa con los hijos provocando un accidente de carretera y apostando el todo por todo. Aquí padres ignorantes hacen vender drogas a sus hijos y se inventan ser Mafiosos. Son fantasmas que utilizan la radio frecuencia con el fin de interferir sobre el hijo. Madres rellenas de grasas y farmacéuticos quitan esposas y amores a los hijos para jugar a las apuestas mutuas.
 
+ **Aquí hemos perdido el amor.**
+
+Ellas, engañadas del vicio, del juego, del sexo fácil, de los muscolitos del espactaculo barato, a sus veces tienen la vida arruinada. Dando el fruto más precioso que es su propio cuerpo a miles de pervertidos que se las follan en orgías animalescas donde se masturban viejos podridos de clase alta. Viejos que les hacen beber sus propio líquidos en estado comatoso derivado de las drogas pesadas de diseño. Aquí flores maravillosas se transforman en mantis religiosas. Ellas nos ven tirarnos de puentes sobre autopistas en jornadas de veranos calientes. Yo lo he pensado hace dos años. Y lo he pensado por ti, Saray. Aquí frailes pervertidos se las follan. Y ellas con la radio frecuencia y la Maquina se abstraen de su propio cuerpo haciendo otra tarea junto al utilizo de ketamina, droga utilizada para que pierdan totalmente el sentido de lo que están haciendo. Destruyendo su ser mujer. Aquí domina el sadismo. El BDSM. El cambio de parejas. Aquí se destruyen tanto mujeres cuantos hombres. Las mujeres en cadenas de desgastes mas lentas, los hombres rápidamente con suicidios y en el mundo de la cárcel que obviamente es la única salida del trafico de drogas. 
+
+En radio la han llamada la **Mafia de las parejas**. 
 
 ### External links
 
