@@ -2,5 +2,3 @@
 
 ![Castillejos](http://telecomlobby.com/Images/castillejos.webp)
 
-26. 
-
