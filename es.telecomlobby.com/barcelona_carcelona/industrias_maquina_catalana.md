@@ -63,7 +63,7 @@ Aquí juegan hijos de buenas familias, ganan dinero del sufrimiento de las victi
 
 ![Yo y Ella](http://telecomlobby.com/Images/IMG-20140410-WA0002.jpg)
 
- **Aquí hemos perdido el amor.**
+ **Aquí hemos perdido el amor. A ver cuando vuelves.**
 
 > Todo absolutamente todo es para quitarte de esta Mafia que te considera un contenedor de pollas. Todo. Pero también se que todo es orquestado para atacar lo más altos rangos de la nobleza que aquí ganan. Pero yo, lo único que quiero es volver a besarte. O sea que de sus planes no me interesa.
 
