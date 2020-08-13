@@ -57,6 +57,8 @@ Hablo de células porqué esta Mafia tiene tratos de terrorismo.
 
 Como puedo saber todo esto yo? Porqué a mi vez he engañado a este hombre. Me he hecho hacer de todo por años y ahora estoy volcando todo mi saber en este contenido publico. Lo he engañado porqué soy un técnico informático estupendo y el hubiera querido hacerme un maquinista. Así que con el tiempo he aprendido su forma de comportarse y se prácticamente todo acerca de su sucio negocio. 
 
+Aquí juegan hijos de buenas familias, ganan dinero del sufrimiento de las victimas y de muchos indigentes laureados, parejas de casados de las caras pulida, políticos corruptos. Follan frailes y curas. Monstruos pederastas comen.  Aquí chicos de corazón, como yo, hacen tres mil kilómetros a pies para buscar a su amada y después por desgaste físico se arriesgan la silla de rueda. Aquí padres juegan a la ruleta rusa con los hijos provocando un accidente de carretera y apostando el todo por todo. 
+
 
 
 ### External links
