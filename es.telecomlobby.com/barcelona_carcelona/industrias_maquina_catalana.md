@@ -22,7 +22,7 @@ Esta Mafia actúa como mercenaria. En mi caso su cabecilla que he conocido perso
 - Yo, empresario de telecomunicaciones. Luchando contra el acoso de pandillas y el acecho electrónico continuo y con aspiraciones a volver a emprender en la tierra que he decidido ser mi patria: Cataluña.
 - Quien era mi mejor amigo, un profesional del **flair** [[6]](https://es.wikipedia.org/wiki/Flairtending). Totalmente victima reducido a la venta de droga y al hacer estafas. Es culpable de haber participado a la destrucción sistemática de mi vida; pero los dos, tanto el como Saray, son padres, son coaccionados con los hijos, los dos son victimas de la Mafia de las telecomunicaciones. Los dos necesitan ayuda para salir de esta estructura. Los dos han preferido actuar en el teatro de mi ruina para falta de cultura y sabiduría por plantar cara a estos gigantes.
 
-#### La mafia a capas, como las pilas del protocolo ISO/OSI, inspirada a Gaudì
+#### La mafia a capas, inspirada a Gaudì. Vidas destruidas. El negocio del suicidio.
 
 ![Gaudì abstraido en radio frecuencia](http://telecomlobby.com/Images/gaudi_pintura_4sentidos.webp)
 
@@ -69,7 +69,7 @@ Aquí juegan hijos de buenas familias, ganan dinero del sufrimiento de las victi
 
 Ellas, engañadas del vicio, del juego, del sexo fácil, de los muscolitos del espactaculo barato, a sus veces tienen la vida arruinada. Dando el fruto más precioso que es su propio cuerpo a miles de pervertidos que se las follan en orgías animalescas donde se masturban viejos podridos de clase alta. Viejos que les hacen beber sus propio líquidos en estado comatoso derivado de las drogas pesadas de diseño. Aquí flores maravillosas se transforman en mantis religiosas. Ellas nos ven tirarnos de puentes sobre autopistas en jornadas de veranos calientes. Yo lo he pensado hace dos años. Y lo he pensado por ti, Saray. Aquí frailes pervertidos se las follan. Y ellas con la radio frecuencia y la Maquina se abstraen de su propio cuerpo haciendo otra tarea junto al utilizo de ketamina, droga utilizada para que pierdan totalmente el sentido de lo que están haciendo. Destruyendo su ser mujer. Aquí domina el sadismo. El BDSM. El cambio de parejas. Aquí se destruyen tanto mujeres cuantos hombres. Las mujeres en cadenas de desgastes mas lentas, los hombres rápidamente con suicidios y en el mundo de la cárcel que obviamente es la única salida del trafico de drogas. 
 
-En radio la han llamada la **Mafia de las parejas**. 
+En radio la han llamada la **Mafia de las parejas**. La mafia de Barcelona la ciudad Europea que ha visto el nacimiento de lo **swinger** [[10]](https://www.google.com/search?sxsrf=ALeKk02aBmkNE0Rn3kpnqRjaaJHECzQTjw%3A1597333386402&ei=il81X--gGLy01fAPn7OEiAI&q=barcelona+swinger). No es un caso. 
 
 ### External links
 
@@ -82,4 +82,5 @@ En radio la han llamada la **Mafia de las parejas**.
 7. https://es.wikipedia.org/wiki/Cosa_nostra
 8. https://es.wikipedia.org/wiki/Mujeres_al_borde_de_un_ataque_de_nervios
 9. https://en.wikipedia.org/wiki/Industrial_big_data
+10. https://www.google.com/search?sxsrf=ALeKk02aBmkNE0Rn3kpnqRjaaJHECzQTjw%3A1597333386402&ei=il81X--gGLy01fAPn7OEiAI&q=barcelona+swinger
 
