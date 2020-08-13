@@ -49,6 +49,7 @@ Este criminal y su grupo traman un guion de dudosa calidad según el tipo de car
 - Venta de pornografía amatorial.
 - Apuestas mutuas sobre toda la vida de la victima, hasta sobre su muerte.
 - Venta de datos de todo lo que los ojos de la victima vean. **Big data** [[9]](https://en.wikipedia.org/wiki/Industrial_big_data).  
+- **Comisiones de emprendedores competidores para la destrucción de la carrera de la victima.** 
 
 A las victimas se le alivian las penas con sexo y droga fácil. Las victimas crean células a su vez donde utilizando la misma tecnología "juegan" a destruir la vida a parejas ignaras para crear pequeños esclavos de venta de drogas y putas obligadas por el entorno negativo normalmente ampliado por el consumo de droga pesada. De esta forma el jefe, que es genial por estos particulares, se libra de un cargo de asociación Mafiosa dejando a los soldados toda las culpas. Si hay una investigación la policía encontraría únicamente conexiones en una célula. Todo lo demás es gestionado en la red de monitorio neuronal por parte de los controladores, maquinistas esclavos pero pagados del jefe. 
 
