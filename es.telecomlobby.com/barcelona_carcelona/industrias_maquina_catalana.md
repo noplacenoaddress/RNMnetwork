@@ -32,13 +32,31 @@ La Mafia Catalana es diseño de un erudito, alguien de mucha cultura literal y a
 
 Su organización, que es reduccionista clasificar como Mafia, siendo extremadamente metódica y muy poco sanguinaria (no hace falta nada más que buscar estadísticas de homicidios con arma de fuego en Barcelona), se ocupa de sacar máximo provecho de las personas, las victimas. Que son inseridas en cadenas de desgaste inspirada de la Iglesia Católica para generar el más alto rendimiento en un tiempo determinado y para terminar después en el olvido. 
 
-Las industrias que tienen su base de recaudación y de fondo de inversión en este Mar de mercado negro, algo impresionante ya que no hay noticia de esta organización en los cotidianos Españoles, son principalmente tecnológicas, de construcción y seguramente del turismo. Se trata de sus escaparates hacía el mercado legal, un mínima pequeña ventana de un mundo que estimo ser millonario. Un mundo que tiene se sede principal en el paraíso fiscal de Andorra sin ningún tipo de duda. Paraíso fiscal que se gestiona y alimenta con la radio de la red de monitorio neuronal. Que algunos es la cárcel del cerebro pero por otros es su herramienta de trabajo principal.  
+**Las industrias que tienen su base de recaudación y de fondo de inversión en este Mar de mercado negro, algo impresionante ya que no hay noticia de esta organización en los cotidianos Españoles, son principalmente tecnológicas, de construcción y seguramente del turismo**. Se trata de sus escaparates hacía el mercado legal, un mínima pequeña ventana de un mundo que estimo ser millonario. Un mundo que tiene se sede principal en el paraíso fiscal de Andorra sin ningún tipo de duda. Paraíso fiscal que se gestiona y alimenta con la radio de la red de monitorio neuronal. Que algunos es la cárcel del cerebro pero por otros es su herramienta de trabajo principal.  
 
 Esta Mafia no es bajo las linternas de las policías tanto Catalanas cuanto Española porqué garantiza seguridad en la ciudad, tanto por mercantes de la droga y otras profesionales ocultas cuanto por los mismos turistas que rellenan la ciudad cada año. Esta Mafia no es buscada porqué buena parte de sus ingresos vienen investidos en el desarrollo tecnológico como hemos visto en el caso de los clúster de super computadoras del territorio Catalana y en investigación universitaria con el fin de llevar la región autónoma al máximo nivel tecnológico posible en estos años de continua competencia en un mercado en crecimiento exponencial desde los años ochenta. 
 
 Yo soy un profundo apasionado de las ciencias informáticas y de información y muy, pero que muy, lamentablemente soy victima de este hombre y de su sistema. Subrayo que muy porqué, aunque de forma totalmente criminal, estoy atraído de la perfección de funcionamiento de este sistema. Sistema que tiene el país bajo una dictadura subliminal. Exactamente como era **Cosa nostra** [[7]](https://es.wikipedia.org/wiki/Cosa_nostra) en los años noventa en Italia pero de forma no violenta. 
 
 En esta Mafia, los «piccioti», no son en mayoría soldados criminales violentos pero son hackers, programadores, universitarios y sobre todo mujeres. Esta mafia saca mucho provecho de estafas muy articuladas que yo defino como el negocio del suicidio. Personalmente me he dado cuenta que dicho negocio es algo proyectado desde prácticamente el nacimiento de la victima y una vez en control neuronal activo ella misma viene emborrachada de porqués que no existen. Todos conectados con falsas promesas de riquezas de alguna manera ridículos. En esta Mafia, muy lamentablemente, los padres son totalmente culpables de recaudar provecho de hijos vendidos a la Mafia Catalana, padres que entran en contacto con esta Mafia a través de infraestructuras Católicas como Comunión y Liberación. 
+
+ES un forma criminal de ganar dinero con el propio hijo. Una forma aterradora de hasta que punto pueda llegar la maldad en el ser humano. Un forma que sale sin ninguna duda de **mujeres al borde de un ataque de nervios** [[8]](https://es.wikipedia.org/wiki/Mujeres_al_borde_de_un_ataque_de_nervios) y hombres ineptos victimas de la propia mujer. 
+
+Este criminal y su grupo traman un guion de dudosa calidad según el tipo de carácter y físico de la victima. Tienen, seguramente, a artistas de cine trabajando con ellos. A guionistas. Como se alimentan? De varias maneras:
+
+- Venta de drogas en caso la victima caiga en ella.
+- Desarrollo de aplicaciones de neuro informática sobre conejillos de India obligados.
+- Venta de pornografía amatorial.
+- Apuestas mutuas sobre toda la vida de la victima, hasta sobre su muerte.
+- Venta de datos de todo lo que los ojos de la victima vean. **Big data** [[9]](https://en.wikipedia.org/wiki/Industrial_big_data).  
+
+A las victimas se le alivian las penas con sexo y droga fácil. Las victimas crean células a su vez donde utilizando la misma tecnología "juegan" a destruir la vida a parejas ignaras para crear pequeños esclavos de venta de drogas y putas obligadas por el entorno negativo normalmente ampliado por el consumo de droga pesada. De esta forma el jefe, que es genial por estos particulares, se libra de un cargo de asociación Mafiosa dejando a los soldados toda las culpas. Si hay una investigación la policía encontraría únicamente conexiones en una célula. Todo lo demás es gestionado en la red de monitorio neuronal por parte de los controladores, maquinistas esclavos pero pagados del jefe. 
+
+Hablo de células porqué esta Mafia tiene tratos de terrorismo. 
+
+Como puedo saber todo esto yo? Porqué a mi vez he engañado a este hombre. Me he hecho hacer de todo por años y ahora estoy volcando todo mi saber en este contenido publico. Lo he engañado porqué soy un técnico informático estupendo y el hubiera querido hacerme un maquinista. Así que con el tiempo he aprendido su forma de comportarse y se prácticamente todo acerca de su sucio negocio. 
+
+
 
 ### External links
 
@@ -49,4 +67,6 @@ En esta Mafia, los «piccioti», no son en mayoría soldados criminales violento
 5. http://telecomlobby.com/Images/torre_collserola_disposicion_servicios.webp
 6. https://es.wikipedia.org/wiki/Flairtending
 7. https://es.wikipedia.org/wiki/Cosa_nostra
+8. https://es.wikipedia.org/wiki/Mujeres_al_borde_de_un_ataque_de_nervios
+9. https://en.wikipedia.org/wiki/Industrial_big_data
 
