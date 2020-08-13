@@ -59,7 +59,13 @@ Como puedo saber todo esto yo? Porqué a mi vez he engañado a este hombre. Me h
 
 Aquí juegan hijos de buenas familias, ganan dinero del sufrimiento de las victimas y de muchos indigentes laureados, parejas de casados de las caras pulida, políticos corruptos. Follan frailes y curas. Monstruos pederastas comen.  Aquí chicos de corazón, como yo, hacen tres mil kilómetros a pies para buscar a su amada y después por desgaste físico se arriesgan la silla de rueda. Aquí padres juegan a la ruleta rusa con los hijos provocando un accidente de carretera y apostando el todo por todo. Aquí padres ignorantes hacen vender drogas a sus hijos y se inventan ser Mafiosos. Son fantasmas que utilizan la radio frecuencia con el fin de interferir sobre el hijo. Madres rellenas de grasas y farmacéuticos quitan esposas y amores a los hijos para jugar a las apuestas mutuas.
 
+¿Son estos hijos utilizados realmente hijos de sangre? Es muy probable que no. Es muy probable, visto el comportamiento de los padres que seamos victimas de trafico de cunas. Por esto la Iglesia en sus mas altos rangos participa al acecho electrónico continuo. 
+
+![Yo y Ella](http://telecomlobby.com/Images/IMG-20140410-WA0002.jpg)
+
  **Aquí hemos perdido el amor.**
+
+> Todo absolutamente todo es para quitarte de esta Mafia que te considera un contenedor de pollas. Todo. Pero también se que todo es orquestado para atacar lo más altos rangos de la nobleza que aquí ganan. Pero yo, lo único que quiero es volver a besarte. O sea que de sus planes no me interesa.
 
 Ellas, engañadas del vicio, del juego, del sexo fácil, de los muscolitos del espactaculo barato, a sus veces tienen la vida arruinada. Dando el fruto más precioso que es su propio cuerpo a miles de pervertidos que se las follan en orgías animalescas donde se masturban viejos podridos de clase alta. Viejos que les hacen beber sus propio líquidos en estado comatoso derivado de las drogas pesadas de diseño. Aquí flores maravillosas se transforman en mantis religiosas. Ellas nos ven tirarnos de puentes sobre autopistas en jornadas de veranos calientes. Yo lo he pensado hace dos años. Y lo he pensado por ti, Saray. Aquí frailes pervertidos se las follan. Y ellas con la radio frecuencia y la Maquina se abstraen de su propio cuerpo haciendo otra tarea junto al utilizo de ketamina, droga utilizada para que pierdan totalmente el sentido de lo que están haciendo. Destruyendo su ser mujer. Aquí domina el sadismo. El BDSM. El cambio de parejas. Aquí se destruyen tanto mujeres cuantos hombres. Las mujeres en cadenas de desgastes mas lentas, los hombres rápidamente con suicidios y en el mundo de la cárcel que obviamente es la única salida del trafico de drogas. 
 
