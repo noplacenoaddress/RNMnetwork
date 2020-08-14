@@ -62,6 +62,11 @@ Acerca de las torturas. Llorando declaro que soy victima de torturas diarias des
 
 ![Consejo de los derechos humanos](http://telecomlobby.com/Images/452062-01-02.webp)
 
+En el articulo cinco de la declaración universal de los derechos humanos leemos:
+
+> Nadie tendría que ser sujeto a torturas o a crueles, inhumanos, y tratamiento degradante o punitivo. 
+
+
 
 ###  External links 
 
