@@ -71,7 +71,7 @@ Ellas, engañadas del vicio, del juego, del sexo fácil, de los muscolitos del e
 
 En radio la han llamada la **Mafia de las parejas**. La mafia de Barcelona la ciudad Europea que ha visto el nacimiento de lo **swinger** [[10]](https://www.google.com/search?sxsrf=ALeKk02aBmkNE0Rn3kpnqRjaaJHECzQTjw%3A1597333386402&ei=il81X--gGLy01fAPn7OEiAI&q=barcelona+swinger). No es un caso. 
 
-#### Mercado negro, trafico y personas de aspecto parecido. Violencia sexual.
+#### Mercado negro, trafico y personas de aspecto parecido. Violencia sexual. Violencia de genero.
 
 ![Academia de cine Español](http://telecomlobby.com/Images/Logo_de_la_Academia_de_Cine_de_España.webp)
 
