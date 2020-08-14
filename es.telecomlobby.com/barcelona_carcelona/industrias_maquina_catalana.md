@@ -85,21 +85,84 @@ Las victimas vienen atrapadas en este infierno por parte de chicos atractivos, n
 
 Estas esclavas vienen vendida por dinero en fiestas de alto nivel. Vienen "preparadas" para soportar violencias y humillaciones de cada genero en locales de perversión de bajo nivel, locales BDSM y after musicales. Vienen vendidas a emprendedores, nobles y deportistas para asquerosidades basadas sobre la violencia sexual. Vienen folladas por viejos y mas de diez hombres a la vez. Servicios especiales los llaman. Se pueden encontrar también en Jesuitas o Salesianos follando. Y esta es la única verdad sobre la violencia de genero de Barcelona. 
 
+Algunos documentos que prueban la existencia de este sistema basado en **P300** [[14]](https://es.wikipedia.org/wiki/P300):
+
+- **Hybrid Brain–Computer Interface Techniques for Improved Classification Accuracy and Increased Number of Commands: A Review** [[15]](http://telecomlobby.com/RNMnetwork/documents/fnbot-11-00035.pdf)
+- **The portable P300 dialing system based on tablet and Emotiv Epoc headset** [[16]](http://telecomlobby.com/RNMnetwork/documents/01432130.pdf)
+- **Development of an Online Home Appliance Control System Using Augmented Reality and an SSVEP-Based Brain–Computer Interface** [[17]](http://telecomlobby.com/RNMnetwork/documents/IEEEAccess_2019_psh.pdf)
+- **Using EEG-Based BCI Devices to Subliminally Probe for Private Information** [[18]](http://telecomlobby.com/RNMnetwork/documents/eeg-wpes17.pdf)
+- **Playing a P300-BCI VR game based leads to changes in cognitive function of healthy adults** [[19]](http://telecomlobby.com/RNMnetwork/documents/2020.05.28.118281v1.full.pdf)
+- **EEG Recording and Online Signal Processing on Android: A Multiapp Framework for Brain-Computer Interfaces on Smartphone** [[20]](http://telecomlobby.com/RNMnetwork/documents/3072870.pdf)
+- **Remote Excitation of Neuronal Circuits Using LowIntensity, Low-Frequency Ultrasound** [[21]](http://telecomlobby.com/RNMnetwork/documents/journal.pone.0003511.PDF)
+- **Pass-thoughts: Authenticating With Our Minds** [[22]](http://telecomlobby.com/RNMnetwork/documents/Pass-thoughtsAuthenticatingWithOurMinds.pdf)
+- **Synthetic telepathy and early mind wars** [[23]](http://telecomlobby.com/RNMnetwork/documents/synthetictelepathyandtheearlymindwars--kopiia1509733759.pdf)
+- **Neuromodulation with transcranial focused ultrasound** [[24]](http://telecomlobby.com/RNMnetwork/documents/nihms961835.pdf)
+- **On the Feasibility of Side-Channel Attacks with Brain-Computer Interfaces** [[25]](http://telecomlobby.com/RNMnetwork/documents/sec12-final56.pdf)
+- **US 7.689,272 B2** [[26]](http://telecomlobby.com/RNMnetwork/patents/US7689272.pdf)
+- **Privacy and Brain-Computer Interfaces** [[27]](http://telecomlobby.com/RNMnetwork/documents/Wahlstrom%20et%20al%202016.docx)
+- **Natural image reconstruction from brain waves: a novel visual BCI system with native feedback** [[28]](http://telecomlobby.com/RNMnetwork/documents/787101v2.full.pdf)
+
+
+
 
 
 #### External links
 
 1. https://cadenaser.com/programa/nadie_sabe_nada/
+
 2. https://en.wikipedia.org/wiki/Cadena_SER
+
 3. https://es.wikipedia.org/wiki/Universidad_de_Barcelona
+
 4. http://es.telecomlobby.com/
+
 5. http://telecomlobby.com/Images/torre_collserola_disposicion_servicios.webp
+
 6. https://es.wikipedia.org/wiki/Flairtending
+
 7. https://es.wikipedia.org/wiki/Cosa_nostra
+
 8. https://es.wikipedia.org/wiki/Mujeres_al_borde_de_un_ataque_de_nervios
+
 9. https://en.wikipedia.org/wiki/Industrial_big_data
+
 10. https://www.google.com/search?sxsrf=ALeKk02aBmkNE0Rn3kpnqRjaaJHECzQTjw%3A1597333386402&ei=il81X--gGLy01fAPn7OEiAI&q=barcelona+swinger
+
 11. https://es.wikipedia.org/wiki/Cine_de_los_Estados_Unidos
+
 12. https://es.wikipedia.org/wiki/Cinecitt%C3%A0
+
 13. [https://es.wikipedia.org/wiki/Academia_de_las_Artes_y_las_Ciencias_Cinematogr%C3%A1ficas_de_Espa%C3%B1a](https://es.wikipedia.org/wiki/Academia_de_las_Artes_y_las_Ciencias_Cinematográficas_de_España)
+
+14. https://es.wikipedia.org/wiki/P300
+
+15. http://telecomlobby.com/RNMnetwork/documents/fnbot-11-00035.pdf
+
+16. http://telecomlobby.com/RNMnetwork/documents/01432130.pdf
+
+17. http://telecomlobby.com/RNMnetwork/documents/IEEEAccess_2019_psh.pdf
+
+18. http://telecomlobby.com/RNMnetwork/documents/eeg-wpes17.pdf
+
+19. http://telecomlobby.com/RNMnetwork/documents/2020.05.28.118281v1.full.pdf
+
+20. http://telecomlobby.com/RNMnetwork/documents/3072870.pdf
+
+21. http://telecomlobby.com/RNMnetwork/documents/journal.pone.0003511.PDF
+
+22. http://telecomlobby.com/RNMnetwork/documents/Pass-thoughtsAuthenticatingWithOurMinds.pdf
+
+23. http://telecomlobby.com/RNMnetwork/documents/synthetictelepathyandtheearlymindwars--kopiia1509733759.pdf
+
+24. http://telecomlobby.com/RNMnetwork/documents/nihms961835.pdf
+
+25. http://telecomlobby.com/RNMnetwork/documents/sec12-final56.pdf
+
+26. http://telecomlobby.com/RNMnetwork/patents/US7689272.pdf
+
+27. http://telecomlobby.com/RNMnetwork/documents/Wahlstrom%20et%20al%202016.docx
+
+28. http://telecomlobby.com/RNMnetwork/documents/787101v2.full.pdf
+
+    
 
