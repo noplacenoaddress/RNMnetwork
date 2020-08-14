@@ -71,7 +71,19 @@ Ellas, engañadas del vicio, del juego, del sexo fácil, de los muscolitos del e
 
 En radio la han llamada la **Mafia de las parejas**. La mafia de Barcelona la ciudad Europea que ha visto el nacimiento de lo **swinger** [[10]](https://www.google.com/search?sxsrf=ALeKk02aBmkNE0Rn3kpnqRjaaJHECzQTjw%3A1597333386402&ei=il81X--gGLy01fAPn7OEiAI&q=barcelona+swinger). No es un caso. 
 
-### External links
+#### Mercado negro, trafico y personas de aspecto parecido. Violencia sexual.
+
+![Academia de cine Español](http://telecomlobby.com/Images/Logo_de_la_Academia_de_Cine_de_España.webp)
+
+En esta Mafia, a través de la tecnología se buscan personas de aspecto parecidos que componentes de familias nobles importantes. ¿Para que? La aristocracia, que participa de forma activa en esta mafia de esclavitud,  utiliza personas de aspecto físico parecido a ellos para utilizarlos en el mercado negro para el trafico de drogas y personas. ¿Como? Cada uno de los esclavos de dicha red es una cámara humana. Todo lo que ellos ven es transmitido en las pantallas de control de la Mafia, cada aristócrata tiene un grupo de esclavos de los cuales gana dinero con el trafico o cualquier otra operación ilegal. Las mujeres son utilizadas en prostitución, a su ves quien pasa ya de un tiempo o de un dinero ganado tiene la oportunidad de construir su grupo. Es la misma cosa que estaba explicando antes, se forman células terroristas mafiosas administradas por personas que antes han sido victimas, esclavos. O sea se han convertido en sádicos. De estas pequeñas pirámides de dolor todos ganan como en las estafas piramidales. 
+
+Las mujeres son utilizadas en prostitución y los hombres en trafico de drogas. De cada una de sus historias de dolor las grandes audiovisuales y productores de cinema sacan inspiración para sus películas o series. Todo nivel de aristocracia Español y Italiano está totalmente culpable, en **Hollywood** [[11]](https://es.wikipedia.org/wiki/Cine_de_los_Estados_Unidos) , **CineCittà** [[12]](https://es.wikipedia.org/wiki/Cinecitt%C3%A0) y en la **academia Español** [[13]](https://es.wikipedia.org/wiki/Academia_de_las_Artes_y_las_Ciencias_Cinematogr%C3%A1ficas_de_Espa%C3%B1a) a todos son cocientes de este problema. En las cadenas de audiovisuales privadas muchísimas chicas vienen obligadas a favores sexuales y esclavitud utilizando esta infraestructura. A través del lavado de cerebro miles de mujeres desde los años noventa han sido violadas por este sistema de esclavitud y nadie habla o nadie sabe nada porqué toda la clase medio alta, aristocracia y traficantes de medio alto nivel utilizan el control mental para doblar personas a ser esclavos.
+
+Estos cerdos publican algunas de las victimas, también menores, en los portales 4chan, 7chan y 8chan. He encontrado de mi ex pareja más de 200 imágenes de pornografía extrema, muy pocas de ella en persona y las demás de chicas muy parecidas. Las chicas parecidas pertenecen al mismo grupo de Saray, esto quiere decir que cualquier tipo de relación sexual tengan Saray la siente en su propio cuerpo. ¿Como es posible? Muy facil los estados neuronales de las victimas vienen replicados a través de radio frecuencia en el cerebro de Saray. Ella ha sido violada "sin signos" por miles o puede ser más personas. Ella ha sido conectada también a la acción de beber bebida alcohólicas. ¿Que quiere decir? Que hace un par de años en muchas discotecas de Barcelona a quien consumaba un cubata de alcohol Saray era obligada a tener que hacerle un placer sexual vía radio fónica. ¿Que quiere decir? Que a través de esta tecnología Saray es un esclava sexual tanto de la casa noble Catalana cuanto de la marquesa Francesa. Saray es sobre excitada continuamente por parte de esta tecnología es un escándalo. Muchísimas chicas son violadas diariamente por esta pandilla de cerdos. Lo más escandaloso es que aquí dentro hay presentes lo más altos cargos también de la Iglesia Católica que ven en pantallas neuronales muchísimas mujeres sufrir de violaciones diarias. Toda esta violencia en radio está hecha para seguir el cuadro de Guadì, se consigue subir el nivel incociente de violencia sexual en las mujeres victimas con el fin último de que acepten servicios sexuales especiales en orgías de numero despropositado de personas, todos ricos enfermos sexuales y también pederastas. 
+
+
+
+#### External links
 
 1. https://cadenaser.com/programa/nadie_sabe_nada/
 2. https://en.wikipedia.org/wiki/Cadena_SER
@@ -83,4 +95,7 @@ En radio la han llamada la **Mafia de las parejas**. La mafia de Barcelona la ci
 8. https://es.wikipedia.org/wiki/Mujeres_al_borde_de_un_ataque_de_nervios
 9. https://en.wikipedia.org/wiki/Industrial_big_data
 10. https://www.google.com/search?sxsrf=ALeKk02aBmkNE0Rn3kpnqRjaaJHECzQTjw%3A1597333386402&ei=il81X--gGLy01fAPn7OEiAI&q=barcelona+swinger
+11. https://es.wikipedia.org/wiki/Cine_de_los_Estados_Unidos
+12. https://es.wikipedia.org/wiki/Cinecitt%C3%A0
+13. [https://es.wikipedia.org/wiki/Academia_de_las_Artes_y_las_Ciencias_Cinematogr%C3%A1ficas_de_Espa%C3%B1a](https://es.wikipedia.org/wiki/Academia_de_las_Artes_y_las_Ciencias_Cinematográficas_de_España)
 
