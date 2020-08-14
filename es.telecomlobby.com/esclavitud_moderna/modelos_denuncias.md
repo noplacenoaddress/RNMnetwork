@@ -64,7 +64,7 @@ Acerca de las torturas. Llorando declaro que soy victima de torturas diarias des
 
 En el articulo cinco de la declaración universal de los derechos humanos leemos:
 
-> Nadie tendría que ser sujeto a torturas o a crueles, inhumanos, y tratamiento degradante o punitivo. 
+> Nadie tendría que ser sujeto a torturas o a crueles, inhumanos, tratamientos degradante o punitivos. 
 
 
 
