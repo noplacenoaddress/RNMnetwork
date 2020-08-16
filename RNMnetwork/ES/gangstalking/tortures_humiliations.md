@@ -179,6 +179,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 15/08/2020 18:34 The owner of this network, a man that among others things it deals with break professional career of businessman like me, justa said to me that my parents and the parents of my ex girlfriend have played suicide with us. Suicide and systematic destruction of our lifes. Those people destroy youth. I've fear that Saray got problems because of my parents. But if it is not true the only explaination is that is **Francesca**.
 
+- 16/08/2020 23:47 A boy, just say me that he will send me a "sicario". Like the film. Fantastic. 
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
