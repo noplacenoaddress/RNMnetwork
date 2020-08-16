@@ -98,7 +98,7 @@ Estas chicas, individuo objetivo de la aristocracia, una vez capturadas en la re
 
 ![VSAT montjuic](http://telecomlobby.com/Images/vsat_montjuic.webp)
 
-Esta instalación en Montjuic también es una transmisora VSAT. Se encuentra cerca de muchos mástiles torres, utilizados en las frecuencias medias. Frecuencia que antiguamente eran utilizadas para el acecho, delito muy común en esta España que tanto quiero, pero muy sangrante por parte de su nobleza corrupta. Por no hablar de Cataluña uno de los territorios mas atacados de por radio. 
+Esta instalación en Montjuic también es una transmisora VSAT. Se encuentra cerca de muchos mástiles torres, utilizados en las frecuencias medias. Frecuencias que antiguamente eran utilizadas para el acecho, delito muy común en esta España que tanto quiero, pero muy sangrante por parte de su nobleza corrupta. Por no hablar de Cataluña uno de los territorios mas atacados de por radio. 
 
 #### Aplicaciones publicas de interés para investigación crímenes contra la humanidad.
 
