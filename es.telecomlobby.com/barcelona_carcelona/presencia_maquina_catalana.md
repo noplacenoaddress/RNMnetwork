@@ -72,7 +72,19 @@ Estas las especificaciones de cada nodo de clúster:
 
 #### Marina y Montjuic, dos barrios donde dominan las ELF y VSAT.
 
+![](http://telecomlobby.com/Images/vsat_marina.webp)
 
+Carrer de Joan Miro. Marina. La aristocracia funciona de una forma muy simple. Son criminales de muy bajo nivel ya que no tienen gana de trabajar nunca. Es muy fácil, a cada cosa corresponde una otra. En Montjuic, otro punto donde se trabaja con VSAT, cerca de la fundación Joan Miro hay otra estación base de transmisión según este protocolo. 
+
+ **41°23'29.11"N , 2°11'36.18"E**
+
+Esta son las coordenadas. Cerca de la misma calle Marina hay unos puntos de accesos en ELF con los cuales se ha construido un juego sobre el sexo y las orgías, juego con lo cual se roba a turistas ignaros. Esta gente participa en las estafas a empresarios como yo. En este barrio he conocido a Saray. Dentro hay muchísimos Italianos de Genova que vienen en Barcelona con la mera motivación de hacer violencia sexual y estafas. Basura de hacer condenar. 
+
+Con esta antena se envía seguramente material pornográfico a un satélite muy probablemente Francés, como la marquesa de Genova. De este satélite se sacan clientes de conexión VSAT y video on demand de pornografía, probablemente también infantil. 
+
+Esta es la realidad del barrio de Marina en Barcelona. Al final está el Casino. Casino totalmente mapeado en radio donde prácticamente todas las personas que he conocido en mi vida han jugado sobre mi desesperación para encontrar a esta mujer. 
+
+*Más de 3000 kilómetros a pies. Mujeres utilizadas por la aristocracia para hacer suicidar hombres enamorados. Esta es la realidad.*
 
 #### Aplicaciones publicas de interés para investigación crímenes contra la humanidad.
 
