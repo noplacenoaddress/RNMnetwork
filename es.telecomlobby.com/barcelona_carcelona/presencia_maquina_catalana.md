@@ -86,6 +86,20 @@ Esta es la realidad del barrio de Marina en Barcelona. Al final está el Casino.
 
 *Más de 3000 kilómetros a pies. Mujeres utilizadas por la aristocracia para hacer suicidar hombres enamorados. Esta es la realidad.*
 
+![16 de Agosto 2019](http://telecomlobby.com/Images/pornmarina.webp)
+
+En c/ de Joan d'Austria 51 última planta el día 16 de Agosto 2019 estaban grabando sin ninguna duda pornografía. Salían por la madrugada muchas chicas jóvenes. Y grupos de turistas borrachos, **rusos** a mi manera de ver las cosas, entraban y salían del bloque. O sea que no erá exactamente pornografía para el circuito de Internet convencional, es algo a lo que estamos acostumbrándoos de encontrar en las redes **xCHAN** en Internet. Orgías brutales y humillaciones. ¿Porqué pasa esto en Barcelona? Porqué en la capital condal mujeres y chicas jóvenes que provienen de lineas de sangre de la nobleza Catalana y Española vienen puesta en cadenas de desgastes con el fin de crear prostitutas forzadas a través de lavado de cerebro y sexo siempre más violento. 
+
+Saray, todo esto, lo ha pasado seguramente en su pasado. Saray ha sido violada desde que era una adolescente, seguramente después del 1991 año de instalación de la Torre de Collserola según proyecto de Maragall. 
+
+Con esta instalación la generalitat de Cataluña ha permitido a la Iglesia Católica indirectamente representada por unos mafiosos catalanes de violar cienes de chicas o puede ser que más. Saray es una de ellas, y yo, Riccardo Giuntoli, no voy a permitir que pase a nadie más. No voy a permitir que muera que una aguja en el brazo. Nada mas. 
+
+Estas chicas, individuo objetivo de la aristocracia, una vez capturadas en la red de monitorio remoto neuronal, violadas continuamente por parte de la radio frecuencia, vendidas en hologramas para violencias, prostituidas y enganchadas a las drogas, después de un cierto tiempo estos individuos las ponen a gestionar grupos de adolescentes que hacen las mismas cosas  ¿Porqué aceptan? Porqué el dolor continuo y las humillaciones que tienen que sufrir debido a su estado las convierten en sádicas. Salen del mismo recurrido de las chicas imagen de cadenas de televisión privadas pasando pero más violencia. Se dedican al suicidio. Ven sus amores morir. Necesitan ayuda y no ser culpadas de los delitos que le quieren acolar los dueños de esta Mafia, la Mafia de las telecomunicaciones y del audiovisual. 
+
+![VSAT montjuic](http://telecomlobby.com/Images/vsat_montjuic.webp)
+
+Esta instalación en Montjuic también es una transmisora VSAT. Se encuentra cerca de muchos mástiles torres, utilizados en las frecuencias medias. Frecuencia que antiguamente eran utilizadas para el acecho, delito muy común en esta España que tanto quiero, pero muy sangrante por parte de su nobleza corrupta. Por no hablar de Cataluña uno de los territorios mas atacados de por radio. 
+
 #### Aplicaciones publicas de interés para investigación crímenes contra la humanidad.
 
 ![Cognitive Computing Barcelona](http://telecomlobby.com/Images/cognitive_computing.webp)
