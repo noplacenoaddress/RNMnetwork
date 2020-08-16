@@ -87,14 +87,14 @@ Estas esclavas vienen vendida por dinero en fiestas de alto nivel. Vienen "prepa
 
 Algunos documentos que prueban la existencia de este sistema basado en **P300** [[14]](https://es.wikipedia.org/wiki/P300):
 
-- **Hybrid Brain–Computer Interface Techniques for Improved Classification Accuracy and Increased Number of Commands: A Review** [[15]](http://telecomlobby.com/RNMnetwork/documents/fnbot-11-00035.pdf)
+- **Hybrid Brain Computer Interface Techniques for Improved Classification Accuracy and Increased Number of Commands: A Review** [[15]](http://telecomlobby.com/RNMnetwork/documents/fnbot-11-00035.pdf)
 - **The portable P300 dialing system based on tablet and Emotiv Epoc headset** [[16]](http://telecomlobby.com/RNMnetwork/documents/01432130.pdf)
-- **Development of an Online Home Appliance Control System Using Augmented Reality and an SSVEP-Based Brain–Computer Interface** [[17]](http://telecomlobby.com/RNMnetwork/documents/IEEEAccess_2019_psh.pdf)
+- **Development of an Online Home Appliance Control System Using Augmented Reality and an SSVEP Based Brain–Computer Interface** [[17]](http://telecomlobby.com/RNMnetwork/documents/IEEEAccess_2019_psh.pdf)
 - **Using EEG-Based BCI Devices to Subliminally Probe for Private Information** [[18]](http://telecomlobby.com/RNMnetwork/documents/eeg-wpes17.pdf)
-- **Playing a P300-BCI VR game based leads to changes in cognitive function of healthy adults** [[19]](http://telecomlobby.com/RNMnetwork/documents/2020.05.28.118281v1.full.pdf)
+- **Playing a P300 BCI VR game based leads to changes in cognitive function of healthy adults** [[19]](http://telecomlobby.com/RNMnetwork/documents/2020.05.28.118281v1.full.pdf)
 - **EEG Recording and Online Signal Processing on Android: A Multiapp Framework for Brain-Computer Interfaces on Smartphone** [[20]](http://telecomlobby.com/RNMnetwork/documents/3072870.pdf)
 - **Remote Excitation of Neuronal Circuits Using LowIntensity, Low-Frequency Ultrasound** [[21]](http://telecomlobby.com/RNMnetwork/documents/journal.pone.0003511.PDF)
-- **Pass-thoughts: Authenticating With Our Minds** [[22]](http://telecomlobby.com/RNMnetwork/documents/Pass-thoughtsAuthenticatingWithOurMinds.pdf)
+- **Pass thoughts: Authenticating With Our Minds** [[22]](http://telecomlobby.com/RNMnetwork/documents/Pass-thoughtsAuthenticatingWithOurMinds.pdf)
 - **Synthetic telepathy and early mind wars** [[23]](http://telecomlobby.com/RNMnetwork/documents/synthetictelepathyandtheearlymindwars--kopiia1509733759.pdf)
 - **Neuromodulation with transcranial focused ultrasound** [[24]](http://telecomlobby.com/RNMnetwork/documents/nihms961835.pdf)
 - **On the Feasibility of Side-Channel Attacks with Brain-Computer Interfaces** [[25]](http://telecomlobby.com/RNMnetwork/documents/sec12-final56.pdf)
