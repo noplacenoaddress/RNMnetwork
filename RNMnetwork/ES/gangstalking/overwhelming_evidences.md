@@ -244,7 +244,7 @@ Look at the spectrum! It's a terrible abuse and a technology totally illegal. Ar
 
 ![](http://telecomlobby.com/Images/spectralviewanalyzer.webp)
 
-This horizontal graph in the Marina zone indicate that **Gamma waves** [[39]](https://en.wikipedia.org/wiki/Gamma_wave) are replicated by radio devices in the Marina district of Barcelona. With gamma waves it is possible to inject into visual cortex second life like worlds. All done to stole, to suicide and to do sexual harassment. 
+This horizontal graph in the Marina zone indicate that **Gamma waves** [[39]](https://en.wikipedia.org/wiki/Gamma_wave) are replicated by radio devices in the Marina district of Barcelona. With gamma waves it is possible to inject into visual cortex second life like worlds. All done to stole, to suicide and to do sexual harassment. For mind control the real problem is that those frequencies aren't illegal they are not regulated. Stalkers can transmit them without any control from telecommunications market. The manner to stop this abuse is to investigate purposes of those network. Who sell those services sell to criminals. They don't do any crime but fiscal ones. Crypt concurrences is the key. 
 
 ![Spectroid](http://telecomlobby.com/Images/spectroid.webp)
 
