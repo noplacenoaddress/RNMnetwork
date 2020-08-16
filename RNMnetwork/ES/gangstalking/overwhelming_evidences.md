@@ -240,6 +240,14 @@ Look at the spectrum! It's a terrible abuse and a technology totally illegal. Ar
 
 ![Normal spectrum](http://telecomlobby.com/Images/08082020_nocturno.webp)
 
+#### ELF transmissions in Marina district, Barcelona.
+
+![](http://telecomlobby.com/Images/spectralviewanalyzer.webp)
+
+This horizontal graph in the Marina zone indicate that **Gamma waves** [[39]](https://en.wikipedia.org/wiki/Gamma_wave) are replicated by radio devices in the Marina district of Barcelona. With gamma waves it is possible to inject into visual cortex second life like worlds. All done to stole, to suicide and to do sexual harassment. For mind control the real problem is that those frequencies aren't illegal they are not regulated. Stalkers can transmit them without any control from telecommunications market. The manner to stop this abuse is to investigate purposes of those network. Who sell those services sell to criminals. They don't do any crime but fiscal ones. Crypt concurrences is the key. 
+
+![Spectroid](http://telecomlobby.com/Images/spectroid.webp)
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
@@ -253,41 +261,82 @@ I'm violated in this network from November 2017 by two big nobles families the s
 ### External links
 
 1. https://photos.app.goo.gl/fAB8pBaHp8j7hSWd7
+
 2. https://www.youtube.com/playlist?list=PLiqG5u1R6kDw7Au1BRC1OXnb9B5-TLQkx
+
 3. https://www.youtube.com/playlist?list=PLiqG5u1R6kDyA0cobAl0rEYTTjLEu8wx_
+
 4. https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders
+
 5. https://it.wikipedia.org/wiki/Cornigliano
+
 6. https://en.wikipedia.org/wiki/Wealth
+
 7. http://telecomlobby.com/riccardo_giuntoli/CV-Europass-20200312-Giuntoli-EN.pdf
+
 8. https://en.wikipedia.org/wiki/Narcissistic_abuse
+
 9. https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
+
 10. https://en.wikipedia.org/wiki/Culpability
+
 11. https://en.wikipedia.org/wiki/Threat
+
 12. http://telecomlobby.com/RNMnetwork/ES/gangstalking/systematic_destruction_mylife.htm
+
 13. http://telecomlobby.com/RNMnetwork/ES/gangstalking/accident.htm
+
 14. https://en.wikipedia.org/wiki/Alms
+
 15. https://www.youtube.com/watch?v=3Cd2fW56wYY
+
 16. https://en.wikipedia.org/wiki/Elio_e_le_Storie_Tese
+
 17. https://photos.app.goo.gl/Nk8AdE3S9dUk7tZv7
+
 18. https://en.wikipedia.org/wiki/Insanity
+
 19. https://it.wikipedia.org/wiki/Briscola
+
 20. [https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder)
+
 21. https://en.wikipedia.org/wiki/Anxiety_disorder
+
 22. https://photos.app.goo.gl/XXrdyNpJna1FC4VVA
+
 23. https://en.wikipedia.org/wiki/Harpy
+
 24. https://www.barnaclinic.com/es/cuadro-medico/331/eduard
+
 25. https://en.wikipedia.org/wiki/Bipolar_disorder
+
 26. https://en.wikipedia.org/wiki/VCard
+
 27. https://photos.app.goo.gl/foA1mNM3aAwfPb3h9
+
 28. https://www.tmb.cat/en/barcelona/metro/-/lineametro/estacion/125
+
 29. https://www.tmb.cat/ca/barcelona/metro/-/lineametro/estacion/330
+
 30. https://en.wikipedia.org/wiki/Street_or_road_name
+
 31. https://goo.gl/maps/mq7vgYJREpp7yqjx7
+
 32. https://www.instagram.com/redeltaglio/
+
 33. [https://en.wikipedia.org/wiki/Mossos_d%27Esquadra](https://en.wikipedia.org/wiki/Mossos_d'Esquadra)
+
 34. https://en.wikipedia.org/wiki/List_of_banks_in_Andorra
+
 35. https://en.wikipedia.org/wiki/List_of_banks_in_San_Marino
+
 36. https://www.europol.europa.eu/
+
 37. http://www.gdf.gov.it/
+
 38. http://telecomlobby.com/RNMnetwork/technomafia/noble_houses.htm
+
+39. https://en.wikipedia.org/wiki/Gamma_wave
+
+    
 
