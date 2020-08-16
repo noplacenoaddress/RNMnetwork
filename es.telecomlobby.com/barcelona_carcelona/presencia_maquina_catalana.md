@@ -70,6 +70,8 @@ Estas las especificaciones de cada nodo de clúster:
 
 ¿Que añadir? El número que me han asignado aquí en red de monitorio neuronal unos criminales, unos stalkers, nobles corruptos, es el 9. Una de las CPU utilizadas en estos clúster. Seguramente, porqué así funciona el método de la nobleza, el desarrollo ilegal que se ejecuta sobre mi cerebro, mi esclavitud, se haga en CTE - Power. El número de Saray es el 4, o sea MareNostrum.  Estos números son contenedores, hay muchas victimas mas seguramente en toda Europa. 
 
+#### Marina y Montjuic, dos barrios donde dominan las ELF y VSAT.
+
 
 
 #### Aplicaciones publicas de interés para investigación crímenes contra la humanidad.
@@ -86,13 +88,29 @@ Estas las especificaciones de cada nodo de clúster:
 >
 > Su modo de actuar me acuerda mucho Comunión y Liberación. Una especie de secta Católica legalizada con miembros en todos los edificios públicos Italianos. 
 
-**Computación Cognitiva** [[25]](https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva). Curioso, en Castellano no hay articulo, mientras que en Catalán si.
+![El hombre a la izquierda tiene rasgos fenotipicos muy parecidos a mi padre ](http://telecomlobby.com/Images/barcelona_supercomputing_reunion.webp)
 
-**Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación en el Barcelona Supercomputing Center. 
+*El hombre a la izquierda tiene rasgos fenotipicos muy parecidos a mi padre.*
 
-Listado de personas que participan al desarrollo de aplicaciones cognitivas útil para avisar sobre el propio estado de conejillo de India sin retribución. Prácticamente podría ser que soy victima de un robo de identidad y los trabajadores del centro no estén informados:
+**Barcelona Supercomputing Center:**
 
+- **Computación Cognitiva** [[25]](https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva). Curioso, en Castellano no hay articulo, mientras que en Catalán si. **Computación Cognitiva** [[26]](https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing) como área de investigación.
+- **Macrodatos** [[27]](https://es.wikipedia.org/wiki/Macrodatos), como **area de investigación** [[28]](https://www.bsc.es/es/research-and-development/research-areas/big-data).
+- **Bioinformatíca** [[29]](https://es.wikipedia.org/wiki/Bioinform%C3%A1tica), como **area de investigación** [[30]](https://www.bsc.es/es/research-and-development/research-areas/bioinformatics).
+- **Biomecánica** [[31]](https://es.wikipedia.org/wiki/Biomec%C3%A1nica), como **area de investigación** [[32]](https://www.bsc.es/es/research-and-development/research-areas/biomechanics).
+- **Genómica** [[33]](https://es.wikipedia.org/wiki/Gen%C3%B3mica), como **area de investigación** [[34]](https://www.bsc.es/es/research-and-development/research-areas/genomics).
+- **Modelado molecular** [[35]](https://es.wikipedia.org/wiki/Modelado_molecular), como **area de investigación** [[36]](https://www.bsc.es/es/research-and-development/research-areas/molecular-modeling).
+- **Simulación social** [[37]](https://es.wikipedia.org/wiki/Simulaci%C3%B3n_social), como **area de investigación** [[38]](https://www.bsc.es/es/research-and-development/research-areas/social-simulation).
 
+Con este elenco he querido analizar únicamente la comunidad autonoma de Catalunya, mientras que la red de super computación se extende a todas las demás. 
+
+![mapa de infraestructuras cientificas](http://telecomlobby.com/Images/infraestructuras_cientificas.webp)
+
+Otra infraestructura de interés con fines investigativos en Cataluña es seguramente el laboratorio de RMN de la Universitat de Barcelona, que se ocupa de resonancia magnetica nuclear. A mi aviso tienen que haber partecipado al desarrollo de la red de monitorio remoto neuronal de la torre de Collserola. Ahora no puedo estar seguro si los cientificos que hayan partecipado tubieran la conciencia que era para el desarrollo de un crimen contra la humanidad. 
+
+Como ya he analizado esta Mafia, la Mafia de las telecomunicaciones, actua como un estado dentro del estado. Tiene representates en todas las infraestructuras públicas y las grandes empresas privadas. Cataluña es un estado totalmente corrupto. Encontrar pruebas para investigadores y policias no tendría que ser tan complicado. La pista a mi manera de ver las cosas es la corrupción y cuentas en cripto moneda. También las tarjetas de prepago anonima son una optimo indicio. 
+
+Los altos rangos de dicha infraestrutura se reunen en el **Lion Club** [[39]](https://e-clubhouse.org/sites/barcelona_gaudi/). Y de esto también estoy seguro.
 
 ### External links 
 
@@ -122,4 +140,17 @@ Listado de personas que participan al desarrollo de aplicaciones cognitivas úti
 24. https://atos.net/wp-content/uploads/2019/07/BullSequana_X800_features.pdf.
 25. [https://ca.wikipedia.org/wiki/Computaci%C3%B3_Cognitiva](https://ca.wikipedia.org/wiki/Computació_Cognitiva)
 26. https://www.bsc.es/es/research-and-development/research-areas/cognitive-computing
+27. https://es.wikipedia.org/wiki/Macrodatos
+28. https://www.bsc.es/es/research-and-development/research-areas/big-data
+29. [https://es.wikipedia.org/wiki/Bioinform%C3%A1tica](https://es.wikipedia.org/wiki/Bioinformática)
+30. https://www.bsc.es/es/research-and-development/research-areas/bioinformatics
+31. [https://es.wikipedia.org/wiki/Biomec%C3%A1nica](https://es.wikipedia.org/wiki/Biomecánica)
+32. https://www.bsc.es/es/research-and-development/research-areas/biomechanics
+33. [https://es.wikipedia.org/wiki/Gen%C3%B3mica](https://es.wikipedia.org/wiki/Genómica)
+34. https://www.bsc.es/es/research-and-development/research-areas/genomics
+35. https://es.wikipedia.org/wiki/Modelado_molecular
+36. https://www.bsc.es/es/research-and-development/research-areas/molecular-modeling
+37. [https://es.wikipedia.org/wiki/Simulaci%C3%B3n_social](https://es.wikipedia.org/wiki/Simulación_social)
+38. https://www.bsc.es/es/research-and-development/research-areas/social-simulation
+39. https://e-clubhouse.org/sites/barcelona_gaudi/
 
