@@ -145,6 +145,10 @@ Here it was **19 of October of 2017**, one month and eight days after I was been
 
 **c/ sant Pau, Barcelona** [[14]](https://www.flickr.com/photos/shadowcaster57/2211381013) was the address. I think that this house, furnished in a very curious shape, pertain to a circuit. The suicide and slavery business circuit of Barcelona. Why I was there? Because a woman.
 
+![In the Gorg installation](http://telecomlobby.com/Images/20171102.webp)
+
+Here was **2 of November 2017**, twenty five days after I was inserted into daily tortures and humiliations. I always have been a very good man with all. I don't really know why I'm suffering this hell in front of many persons that I've known in my life. Here I found evidences of the identity of the Catalan head of this facility. A facility that take money to suicide businessman from foreign countries that work in Catalunya. This is the only true but the worst think is that also my parents have participated to the systematic destruction of my life. Full stop.  Has you can see here my hairs I was losing my hair, I had already suffered various attacks of gang stalking and gaslight. More than a hundred people had closed and threatened me in a club. A hell was about to unveil before my eyes, the hell of a sect dedicated to suicide under commission by Catalan entrepreneurs and under the super vision of Catalan, Spanish and Italian aristocrats. **Francesca** is the instigator of my tragedy and the suicide and murder of several of my friends.
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
