@@ -125,6 +125,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 15/08/2020 18:34 The owner of this network, a man that among others things it deals with break professional career of businessman like me, justa said to me that my parents and the parents of my ex girlfriend have played suicide with us. Suicide and systematic destruction of our lifes. Those people destroy youth. I've fear that Saray got problems because of my parents. But if it is not true the only explaination is that is **Francesca**.
 - 16/08/2020 23:47 A boy, just say me that he will send me a "sicario". Like the film. Fantastic. 
 - 17/08/2020 14:07 **Vincenzo** a stalker from Genoa that work for **Francesca** and do sexual violence to girls who are inserted into this facility is trying to humiliate me with subliminal voice to skull messages. I know that he sexually harassed Saray and I have photos of him and the French Marquise fucking. This ridiculous son of good family is a Genoese junkie who deals exactly with these sexual crimes with the end of suicide. 
+- 18/08/2020 00:00 "Riccardo io voglio solo che non scopi davanti a tua madre", delirium tremens of a criminal that call himself a genious of mind crontrol. I'm very tired in front of all the aristocracy of Spain that this shit speak in this manner to myself.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
