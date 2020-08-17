@@ -181,7 +181,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/08/2020 23:47 A boy, just say me that he will send me a "sicario". Like the film. Fantastic. 
 
-  
+- 17/08/2020 14:07 **Vincenzo** a stalker from Genoa that work for **Francesca** and do sexual violence to girls who are inserted into this facility is trying to 
+
+  humiliate me with subliminal voice to skull messages. I know that he sexually harassed Saray and I have photos of him and the French Marquise fucking. This ridiculous son of good family is a Genoese junkie who deals exactly with these sexual crimes with the end of suicide. 
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
