@@ -193,7 +193,11 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 ![19022015](http://telecomlobby.com/Images/19022015.webp)
 
-Before being tortured due to a scam to steal my business where I was working on February 19th 2015. As you can see my baldness was not at all pronounced, now August 2020 I am completely bald and irregular in shape.
+Before being tortured due to a scam to steal my business where I was working on **February 19th 2015**. As you can see my baldness was not at all pronounced, now August 2020 I am completely bald and irregular in shape.
+
+![19 de Octubre 2017](http://telecomlobby.com/Images/IMG_20171019_223326.webp)
+
+Here it was **19 of October of 2017**, one month and eight days after I was been connected to the Collserola tower. Here I've passed the loose of my job, of my house, of my girlfriend and a semi mortal provoked motorbike accident. I've loose fifteen kilos and almost all my friends. It was a lot of bad situations but at the time I was not thinking about a systematic plot. But yes it was.
 
 ### Videos about electronic violations
 
