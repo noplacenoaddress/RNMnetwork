@@ -199,6 +199,8 @@ Before being tortured due to a scam to steal my business where I was working on 
 
 Here it was **19 of October of 2017**, one month and eight days after I was been connected to the Collserola tower. Here I've passed the loose of my job, of my house, of my girlfriend and a semi mortal provoked motorbike accident. I've loose fifteen kilos and almost all my friends. It was a lot of bad situations but at the time I was not thinking about a systematic plot. But yes it was.
 
+**c/ sant Pau, Barcelona** [[14]](https://www.flickr.com/photos/shadowcaster57/2211381013) was the address. I think that this house, furnished in a very curious shape, pertain to a circuit. The suicide and slavery business circuit of Barcelona. Why I was there? Because a woman.
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
@@ -220,3 +222,4 @@ On 27 of June of 2020 I was violated by the wireless brain machine interface, a 
 11. https://en.wikipedia.org/wiki/Diarrhea
 12. https://en.wikipedia.org/wiki/Eardrum
 13. http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm
+14. https://www.flickr.com/photos/shadowcaster57/2211381013
