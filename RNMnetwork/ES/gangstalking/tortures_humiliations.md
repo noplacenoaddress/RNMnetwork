@@ -139,6 +139,12 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 Before being tortured due to a scam to steal my business where I was working on **February 19th 2015**. As you can see my baldness was not at all pronounced, now August 2020 I am completely bald and irregular in shape.
 
+![Pilar Clinic](http://telecomlobby.com/Images/pilarclinic.webp)
+
+On **28 of November of 2015** I've got a very strange motorbike accident. Those accident are caused to take biometric values of the target individual. In those infrastructures there are members that stole medical values, being a self conscious human camera and gain money in crypt concurrences. Whit those values that have to be taken from a CT scan, better saying the accident have to be dangerous this is why my arm was broken and two friends of mine have died with accidents, criminals, that are aristocratic members, connect the target individual to the remote neural monitoring network. And they enslave him. Like me. Probably also some EEG pattern and hearth pattern is taken to connect the target individual to various different technologies. 
+
+Corrupted members of hospitals probably also send the data physically so they are totally guilty. 
+
 ![19 de Octubre 2017](http://telecomlobby.com/Images/IMG_20171019_223326.webp)
 
 Here it was **19 of October of 2017**, one month and eight days after I was been connected to the Collserola tower. Here I've passed the loose of my job, of my house, of my girlfriend and a semi mortal provoked motorbike accident. I've loose fifteen kilos and almost all my friends. It was a lot of bad situations but at the time I was not thinking about a systematic plot. But yes it was.
