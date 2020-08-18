@@ -145,6 +145,8 @@ On **28 of November of 2015** I've got a very strange motorbike accident. Those 
 
 Corrupted members of hospitals probably also send the data physically so they are totally guilty. 
 
+In my life I've done a lot of motorbike and car accidents. It's from I was an adolescent that aristocracy want to connect me to slavery. Why?
+
 ![19 de Octubre 2017](http://telecomlobby.com/Images/IMG_20171019_223326.webp)
 
 Here it was **19 of October of 2017**, one month and eight days after I was been connected to the Collserola tower. Here I've passed the loose of my job, of my house, of my girlfriend and a semi mortal provoked motorbike accident. I've loose fifteen kilos and almost all my friends. It was a lot of bad situations but at the time I was not thinking about a systematic plot. But yes it was.
