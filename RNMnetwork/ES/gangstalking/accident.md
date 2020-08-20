@@ -28,7 +28,7 @@ Nothing special at all. The problem is that this person, that is in effect one c
 
 I don't receive nothing about the accident and i was handicapped for life. People bet over my life and do money with the retransmission of the operation. They say this in radio, Francesca admit that she was who had designed the accident. The worst think is that all the people that I know but also my parents was present in the remote viewing application and saw the accident. Only Massimo came rapidly to the hospital with a girl. 
 
-### Others cases of provoked accidents
+#### Others cases of provoked accidents
 
 ![Motorbike accident](http://telecomlobby.com/Images/remote_neural_monitoring_network_catalan_accident.webp)
 
@@ -37,6 +37,18 @@ Like I had a couple of friends of mine, one in special that is one of my best fr
 But behind there is another business. All of this victims are humans guineas pigs, with ELF network criminals register body values under extreme situations of pains and stress. This is to sell data to military facilities that develop robotic. And another is the sold of the video, to pervert that got sexual excitations seeing blood. Also the operator of the neural application that register and transform brain waves into images is in a chain of degrade, seeing pain all the day means that is character is being changed. They loose love to others and got mental illness that destroy them minds, the last goal is to create a dead person that destroy life of others and to suicide. Always the same shit. 
 
 *Saray needs help.*  
+
+#### Why accidents or or other causes of hospital admissions? 
+
+![Hospital de Viladecans](http://telecomlobby.com/Images/hdv.webp)
+
+Because of corruption. In hospital structures, very often the private ones like the one where I've been operated (this photo is the inform where the public hospital where I was hospitalised derive the case to the private **mutual organisation** [[25]](https://en.wikipedia.org/wiki/Mutual_organization)), they have elements belonging to the mafia. In hospitals they send EEG and X rays tests to the remote neural monitoring facility that are used to connect the victim to the neural weapons, in the case of Barcelona to the Collserola tower. In this business of suicide play a lot of people that can be recognised by police because they have got a crypt concurrences account or a bank account in one of the European fiscal paradise. In this last case probably they have got only digital access because the account is property of one of the nobles families. 
+
+In  my case the chain of corruption start from the **Villadecans hospital** [[26]](http://www.viladecanshospital.cat/ca/default.aspx), where they reply to me very rapidly when I request documentation about the accident as you can appreciate in this **email** [[27]](http://telecomlobby.com/RNMnetwork/complaints/hospital_villadecans_18082020.txt), next the mutual of accidents in my case **Generali seguros** [[28]](https://www.generali.es/) which office pertains to a friend of my old colleague and at least but not last the private infrastructure where they operate me, **Hospital Pilar** [[29]](https://www.quironsalud.es/pilar/en) where they even don't reply to me. In those chains of scams *number three* is the most important. Always there is three layers to cover the crime and to do the investigation more difficult.  
+
+In the last infrastructure, I think, they use my medical data protected by law to connect me to the remote neural monitoring network. 
+
+This is a scandal. 
 
 ### External links
 
@@ -87,5 +99,15 @@ But behind there is another business. All of this victims are humans guineas pig
 23. https://www.quironsalud.es/pilar/en
 
 24. https://en.wikipedia.org/wiki/Anesthesia
+
+25. https://en.wikipedia.org/wiki/Mutual_organization
+
+26. http://www.viladecanshospital.cat/ca/default.aspx
+
+27. http://telecomlobby.com/RNMnetwork/complaints/hospital_villadecans_18082020.txt
+
+28. https://www.generali.es/
+
+29. https://www.quironsalud.es/pilar/en
 
     
