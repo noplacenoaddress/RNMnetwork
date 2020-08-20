@@ -254,7 +254,7 @@ This horizontal graph in the Marina zone indicate that **Gamma waves** [[39]](ht
 
 ![](http://telecomlobby.com/Images/villadecans2.jpg)
 
-Has you can appreciate the radio transmission in ELF it's present also in Villadecans, province of Barcelona. In sant Pere de Ribes there are two antennas on the montgros mountain but someone have closed them because in this frequencies there is a protocol modulated into the radios. In ELF in Spain people can work and all the B-side is administrated with.
+As you can appreciate the radio transmission in ELF it's present also in Villadecans, province of Barcelona. In sant Pere de Ribes there are two antennas on the montgros mountain but someone have closed them because in this frequencies there is a protocol modulated into the radios. In ELF in Spain people can work and all the B-side is administrated with.
 
 Has you can appreciate in Viladecans signal is very high, -48 dBm is very strong signal. Those frequencies are not regulated so what an investigator have to denunciate is how it is used. But not the provider. This is the key, clients have to be investigated, the provider doesn't commit any crime.
 
