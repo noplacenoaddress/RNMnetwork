@@ -80,6 +80,15 @@ Muchas veces lamentablemente se niega hasta la existencia de la tortura "sin ras
 
 - **Lista de abogados defensores de derechos humanos en España** [[9]](https://www.derechoshumanos.net/abogados/lista-abogados-spain.htm). 
 
+En seguida detallamos otros puntos claves del documento en asunto:
+
+- Examen de las varias interpretaciones del concepto de tortura psicológica.
+- Definición de torturas psicológicas y físicas bajo la prospectiva del derecho humano internacional.
+- Recomendaciones acerca la interpretación de elementos constitutivos de tortura en el contexto de la tortura psicológica.  
+- Una serie de herramientas gracias a lo cual se pueda identificar métodos, técnicas, o circunstancias de la tortura psicológica. 
+- El hecho que los criminales, normalmente estados, utilicen métodos muy complejos con el único fin de confundir las victimas para que no hagan una denuncia exhaustiva. De este punto clave soy totalmente victima ya que en mensajería subliminal las historietas que me han contado personajes muy importante en este país tenían como único alcance la violación de la prohibición internacional de la torturas, con el tiempo pero y siendo diariamente torturado he despejado la mente y las ideas.
+- Definición de tortura moderna como **cibertortura** [[10]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm). La que yo y muchísimos otros ciudadanos Europeos están subiendo por parte de Estado, Iglesia y monstruos de audiovisuales privadas. 
+
 
 
 ###  External links 
@@ -93,4 +102,5 @@ Muchas veces lamentablemente se niega hasta la existencia de la tortura "sin ras
 7. https://es.wikipedia.org/wiki/Proyecto_MK_Ultra
 8. http://telecomlobby.com/RNMnetwork/documents/training8Rev1en.pdf
 9. https://www.derechoshumanos.net/abogados/lista-abogados-spain.htm
+10. http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
 
