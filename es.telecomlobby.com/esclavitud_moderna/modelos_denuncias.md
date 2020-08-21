@@ -66,7 +66,13 @@ En el articulo cinco de la declaración universal de los derechos humanos leemos
 
 > Nadie tendría que ser sujeto a torturas o a crueles, inhumanos, tratamientos degradante o punitivos. 
 
+En el consejo en asunto se han definido varios puntos claves, de nuestro particular interés el punto siete que habla del limite muy sutil entra investigaciones que no coercitivas y tortura psicológica (que es exactamente uno de los crimines más importantes diariamente ejecutados en la red de neuroestimuladores inalámbricos de Barcelona a victimas que no tienen ningún tipo de derecho constitucional).
 
+La prohibición de la tortura ha sido reconocida en numerosos instrumentos internacionales para garantizar los derechos humanos aunque números países, entra los cuales seguramente está en primeras posiciones España junto a las otras coronas Europeas aunque no se haga referencia a este tipo de  forma de Estado como principales perpetradores de estos crímenes, has desarrollado métodos de tortura que implementan la coerción, la intimidación, el castigo, la humillación o la discriminación sin dejar rastros o trazas físicas.  
+
+En la red de monitorio neuronal que utiliza la infraestructura que he desglosado se hace exactamente todo lo de que habla el consejo en asunto. Yo personalmente soy victima de todos estos crímenes. Delante mio en mi aplicación neuronal hay muchísimas personas que he conocido personalmente en mi vida, mi familia y varios representantes de la aristocracia tanto Española cuanto Italiana. También están presentes representantes de la Iglesia Católica. 
+
+Desde el final de la segunda guerra mundial y en la **guerra fría** [[6]](https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa), que a mi manera de ver las cosas ahora mismo es guerra caliente ya que el mundo está totalmente lleno de electrosmog también de satélites que utilizan microondas que no hacen nada mas que empeorar el clima de la Tierra, se han hecho varios experimentos clasificados en control de la mente humana. **MKUltra** [[7]](https://es.wikipedia.org/wiki/Proyecto_MK_Ultra) es uno de los proyectos pioneros, tenía su propósito final  la investigación sobre el cambio y modificación del comportamiento humano debido a factores externos. De aquí se han desarrollado técnicas de control de la mente de forma remota, una realidad instalada en la torre principal de Cataluña, la torre de Collserola. Las tecnologías modernas están creando herramientas y ambientes sin precedentes donde las torturas "sin dejar rastros" son muy fáciles de ejecutar y muy complicadas de demostrar. La aristocracia ha creado un estado dentro el estado donde la tortura a lo estilo medieval viene hecha sobre individuos objetivos sin una verdadera motivación. Se utilizan como motivo historietas sobre antepasados comunes o rostros cuyos rasgos se parecen a el de la victima. En mi caso una familia Francesa ha portado estas motivaciones ficticias explicando que tengo *rasgos del príncipe Antonio de Curtis, del artista Salvador Dali y del artista Picasso*.  Se trata de torturas que ellos llaman juegos y sirven a alimentar sus arcas con apuestas mutuas remotas sobre la vida de la victima profundamente cambiada por el hecho de ser un esclavo. 
 
 ###  External links 
 
@@ -75,4 +81,6 @@ En el articulo cinco de la declaración universal de los derechos humanos leemos
 3. https://www.echr.coe.int/Pages/home.aspx?p=home
 4. http://es.telecomlobby.com/esclavitud_moderna/asociaciones_organismos.htm
 5. https://www.derechoshumanos.net/derechos/index.htm
+6. [https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa](https://es.wikipedia.org/wiki/Guerra_Fría)
+7. https://es.wikipedia.org/wiki/Proyecto_MK_Ultra
 
