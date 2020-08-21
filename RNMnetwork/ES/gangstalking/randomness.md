@@ -313,7 +313,7 @@ One pair of **cufflinks** [[72]](https://en.wikipedia.org/wiki/Cufflink). In Ita
 
 In Catalunya two twins deal with organised crime and one of them is who mounted the systematic destruction of my life. 
 
-*How it is possible that my father know in advance this man will organise a fraud to me?* 
+*How it is possible that my father know in advance that this man will organise a fraud to me?* 
 
 His art name is "**Rubi**" a ghionist of organised scams and of the suicide shop where the upper class and the aristocracy play. A man very powerful with a background in the post punk movement in Catalunya and very related to the biggest noble family of this country as the most powerful of Spain. An unteachable as the time that I'm writing. An expert in mind control, the root of the tower of suicide that use neural monitoring as last mile in Catalunya. 
 
