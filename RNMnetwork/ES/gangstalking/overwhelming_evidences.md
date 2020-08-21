@@ -189,6 +189,18 @@ Look at my **instagram** [[32]](https://www.instagram.com/redeltaglio/), there i
 
 *Please help Felipe VI of Spain a citizen is publicly denouncing a terrifying abuse against democracy.*
 
+![](http://telecomlobby.com/Images/20190817_165035.webp)
+
+On 17 of August of 2020 in Barcelona someone have painted this in Barcelona:
+
+-   S it's the first letter of Saray, R is the first letter of Riccardo.
+- Pink is the favourite colour of Saray.
+- Under you can see the shape of a serpent or a winding path in a mountain (Turro de Rovira could be there is one very similar).
+- Near the R it's seems to be that there is another capital letter V. Five, like what I've found in Rome. V like revenge, vendetta in Italian.
+- Next a crown that seems to be painted with two V. Vendetta for the twos.
+
+I love you Saray, don't waste more time please sweetie. I want to put, all, in jail. I love you.
+
 ### Bitcoin wallets and Vatican related European fiscal semi paradises
 
 ![Bitcoin wallet as overwhelming evidence](http://telecomlobby.com/Images/noble_game_overwhelming_evidences_bitcoin_wallet.webp)
