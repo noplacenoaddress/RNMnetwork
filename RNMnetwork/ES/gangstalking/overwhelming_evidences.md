@@ -278,6 +278,10 @@ As you can appreciate the radio transmission in ELF it's present also in Villade
 
 Has you can appreciate in Viladecans signal is very high, -48 dBm is very strong signal. Those frequencies are not regulated so what an investigator have to denunciate is how it is used. But not the provider. This is the key, clients have to be investigated, the provider doesn't commit any crime.
 
+#### Scam numbers that do telephonic stalk to me
+
+![Scam numbers](http://telecomlobby.com/Images/amenazas_telefonicas.webp)
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
