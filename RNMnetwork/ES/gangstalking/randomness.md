@@ -321,6 +321,9 @@ My ex girlfriend, his father that have died and his mother, are victims of this 
 
 *Andreu, it was a pleasure to meet you, but Saray has got a baby. I'm sorry.*
 
+> I was the owner of a little ISP in Catalunya and my business partner was son of a middle class Catalan family that works in services and construction. They had no window in telecommunications as they lacked adequate education. Being Catalans, as is famous, these people came into contact with me through their son, a good boy who was all in all very subjugated by the figure of his **father**, and we started a company that in three years would have reached almost four thousand customers. All with fifteen thousand ridiculous euros that they have given us and amply returned.
+> Everything absolutely everything that has happened to me is **a scam organized for this family**, not so much for the son I'm sure, to steal my job in a horrible form using judicial corruption and avocacy, getting along with my family using pressuring from mafia elements in Genoa and this French marquise, and organizing a horrible humiliating and suicide game where practically all the people I have known in my life have wagered on a remote basis. My ex-girlfriend is under custody of her daughter a sex slave of this family, not directly but well through this man, **Rubi**, who is the organizer and leader of a subliminal Mafia and a suicide sect. This is the only truth. Everything else is a world of infamous creeps who raped Saray forcing her to do pornography to make me commit suicide.
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
