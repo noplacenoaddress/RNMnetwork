@@ -76,6 +76,10 @@ Desde el final de la segunda guerra mundial y en la **guerra fría** [[6]](https
 
 Punto clave para hacer denuncias es entender que las torturas tanto mentales o psicológicas cuanto físicas siempre tienen que ser juzgadas como tales. La única diferencia es la dificultad técnica tanto por las victimas, muchas veces no preparadas acerca de radio frecuencia y informática (caso totalmente contrario a mi formación), cuanto por los investigadores debido al hecho que las modulaciones de estas tecnologías son muy complicadas de demodular con el fin de registrar las pruebas útiles a un juicio. Muy interesante el **protocolo de Instambul** [[8]](http://telecomlobby.com/RNMnetwork/documents/training8Rev1en.pdf) acerca de los métodos útiles para conseguir un juicio justo y firme contra estos aristócratas que se permiten torturar un ciudadano Europeo en suelo Español. 
 
+Muchas veces lamentablemente se niega hasta la existencia de la tortura "sin rastros" a nivel de legislación de estado, cosa que he podido averiguar ya que por ejemplo en el código penal Español no hay ni mención acerca del termino torturas. Cosa muy vergonzosa vista la presencia de este monstruo en radio frecuencia que sirve exactamente para hacer este horrible crimen contra la humanidad. Nosotros ciudadanos afectados tenemos de nuestro lado las fuerzas internacionales delante de las cuales todos somos iguales, y con todos quiero decir todos no tiene nada que ver los apellidos y la línea de sangre o la capacidad económica. Tanto el consejo contra las torturas cuanto titulares de mandatos han rechazado esto tipo de lagunas legislativas. Acordaros también de la profesión de abogado defensor de derechos humanos. 
+
+- **Lista de abogados defensores de derechos humanos en España** [[9]](https://www.derechoshumanos.net/abogados/lista-abogados-spain.htm). 
+
 
 
 ###  External links 
@@ -88,4 +92,5 @@ Punto clave para hacer denuncias es entender que las torturas tanto mentales o p
 6. [https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa](https://es.wikipedia.org/wiki/Guerra_Fría)
 7. https://es.wikipedia.org/wiki/Proyecto_MK_Ultra
 8. http://telecomlobby.com/RNMnetwork/documents/training8Rev1en.pdf
+9. https://www.derechoshumanos.net/abogados/lista-abogados-spain.htm
 
