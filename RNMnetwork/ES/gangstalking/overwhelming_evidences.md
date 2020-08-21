@@ -201,6 +201,14 @@ On 17 of August of 2020 in Barcelona someone have painted this in Barcelona:
 
 I love you Saray, don't waste more time please sweetie. I want to put, all, in jail. I love you.
 
+Other images in the street art scene of the city:
+
+![SR](http://telecomlobby.com/Images/81574351_498595914136534_943288875984707214_n.webp)
+
+![SR](http://telecomlobby.com/Images/asdf.webp)
+
+
+
 ### Bitcoin wallets and Vatican related European fiscal semi paradises
 
 ![Bitcoin wallet as overwhelming evidence](http://telecomlobby.com/Images/noble_game_overwhelming_evidences_bitcoin_wallet.webp)
