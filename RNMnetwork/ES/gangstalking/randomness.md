@@ -303,6 +303,24 @@ I remember that when I was an adolescent my father tell me one good think: the b
 
 Probably my father is affected by a terrible mental complex the one that **Francisco Goya** [[65]](https://en.wikipedia.org/wiki/Francisco_Goya) have painted in **Saturn Devouring His Son** [[66]](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) and probably he had done the same plot for the love of my life, Saray. But is Mauro, my father, the real culprit? I think that some one very powerful is behind, some big Spanish noble man or certain names of the Genoese nobility.
 
+#### An elegant shirt cufflinks
+
+![A present from my father](http://telecomlobby.com/Images/cufflinks.webp)
+
+On 2014 perhaps 2013 my father give me a present. A present that I've lost in **my house** [[71]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/canyelles.htm) when the owner of the same change my keys and I've lost all what my possessions. 
+
+One pair of **cufflinks** [[72]](https://en.wikipedia.org/wiki/Cufflink). In Italian "gemelli".
+
+In Catalunya two twins deal with organised crime and one of them is who mounted the systematic destruction of my life. 
+
+*How it is possible that my father know in advance this man will organise a fraud to me?* 
+
+His art name is "**Rubi**" a ghionist of organised scams and of the suicide shop where the upper class and the aristocracy play. A man very powerful with a background in the post punk movement in Catalunya and very related to the biggest noble family of this country as the most powerful of Spain. An unteachable as the time that I'm writing. An expert in mind control, the root of the tower of suicide that use neural monitoring as last mile in Catalunya. 
+
+My ex girlfriend, his father that have died and his mother, are victims of this man. This man is the monster of the B-side of this country. He is the most dangerous person that I've known in my life. All this country is corrupted by his organisation. It is organised like a Sept but with Mafia connotated. This Man play also with Vatican. This man has destroyed the soul of many of friends of mine, he is an hunter of aristocracy. 
+
+*Andreu, it was a pleasure to meet you, but Saray has got a baby. I'm sorry.*
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
@@ -375,3 +393,5 @@ Probably my father is affected by a terrible mental complex the one that **Franc
 68. https://en.wikipedia.org/wiki/DNA_paternity_testing
 69. https://en.wikipedia.org/wiki/Francisco_Goya
 70. https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son
+71. http://telecomlobby.com/RNMnetwork/ES/gangstalking/canyelles.htm
+72. https://en.wikipedia.org/wiki/Cufflink
