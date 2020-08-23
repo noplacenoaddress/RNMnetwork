@@ -326,7 +326,7 @@ My ex girlfriend, his father that have died and his mother, are victims of this 
 >
 > Behind there is also the most important audiovisual private facility in Italy. And this is incredible but what I've got understand is that this monster, tha caiman, use those suicide histories to create audiovisual plots. To alimentate his industry. It's a scandal. 
 
-### 
+Those two people are infiltrators of the nobility and the church in groups, Rubi in anarchist punk and the other in motorists. They organize destruction of groups, of individuals and they organize the suicide shop in Spain or act as a filter for young telecommunications entrepreneurs as mercenaries. They have no political color so they can easily be confused in anarchist groups, being however only the heads of a gang paid for by aristocracy, politics and business. As I met the blond I can easily place him in a sect. It is the telecommunications mafia headquartered in Barcelona due to the Collserola tower.
 
 ### External Links
 
