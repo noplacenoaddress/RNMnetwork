@@ -303,6 +303,31 @@ I remember that when I was an adolescent my father tell me one good think: the b
 
 Probably my father is affected by a terrible mental complex the one that **Francisco Goya** [[65]](https://en.wikipedia.org/wiki/Francisco_Goya) have painted in **Saturn Devouring His Son** [[66]](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) and probably he had done the same plot for the love of my life, Saray. But is Mauro, my father, the real culprit? I think that some one very powerful is behind, some big Spanish noble man or certain names of the Genoese nobility.
 
+#### An elegant shirt cufflinks
+
+![A present from my father](http://telecomlobby.com/Images/cufflinks.webp)
+
+On 2014 perhaps 2013 my father give me a present. A present that I've lost in **my house** [[71]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/canyelles.htm) when the owner of the same change my keys and I've lost all what my possessions. 
+
+One pair of **cufflinks** [[72]](https://en.wikipedia.org/wiki/Cufflink). In Italian "gemelli".
+
+In Catalunya two twins deal with organised crime and one of them is who mounted the systematic destruction of my life. 
+
+*How it is possible that my father know in advance that this man will organise a fraud to me?* 
+
+His art name is "**Rubi**" a ghionist of organised scams and of the suicide shop where the upper class and the aristocracy play. A man very powerful with a background in the post punk movement in Catalunya and very related to the biggest noble family of this country as the most powerful of Spain. An unteachable as the time that I'm writing. An expert in mind control, the root of the tower of suicide that use neural monitoring as last mile in Catalunya. 
+
+My ex girlfriend, his father that have died and his mother, are victims of this man. This man is the monster of the B-side of this country. He is the most dangerous person that I've known in my life. All this country is corrupted by his organisation. It is organised like a Sept but with Mafia connotated. This Man play also with Vatican. This man has destroyed the soul of many of friends of mine, he is an hunter of aristocracy. 
+
+*Andreu, it was a pleasure to meet you, but Saray has got a baby. I'm sorry.*
+
+> I was the owner of a little ISP in Catalunya and my business partner was son of a middle class Catalan family that works in services and construction. They had no window in telecommunications as they lacked adequate education. Being Catalans, as is famous, these people came into contact with me through their son, a good boy who was all in all very subjugated by the figure of his **father**, and we started a company that in three years would have reached almost four thousand customers. All with fifteen thousand ridiculous euros that they have given us and amply returned.
+> Everything absolutely everything that has happened to me is **a scam organized for this family**, not so much for the son I'm sure, to steal my job in a horrible form using judicial corruption and avocacy, getting along with my family using pressuring from mafia elements in Genoa and this French marquise, and organizing a horrible humiliating and suicide game where practically all the people I have known in my life have wagered on a remote basis. My ex-girlfriend is under custody of her daughter a sex slave of this family, not directly but well through this man, **Rubi**, who is the organizer and leader of a subliminal Mafia and a suicide sect. This is the only truth. Everything else is a world of infamous creeps who raped Saray forcing her to do pornography to make me commit suicide.
+>
+> Behind there is also the most important audiovisual private facility in Italy. And this is incredible but what I've got understand is that this monster, tha caiman, use those suicide histories to create audiovisual plots. To alimentate his industry. It's a scandal. 
+
+### 
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Rage_Against_the_Machine
