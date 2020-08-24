@@ -91,23 +91,65 @@ En seguida detallamos otros puntos claves del documento en asunto:
 
 Importante documento disponible en la página web de la **oficina del alto comisionado de las Naciones Unidas para los derechos humanos** [[11]](https://es.wikipedia.org/wiki/Oficina_del_Alto_Comisionado_de_las_Naciones_Unidas_para_los_Derechos_Humanos) un **cuestionario** [[12]](http://telecomlobby.com/RNMnetwork/documents/QuestionnairePsychologicalTorture.pdf) acerca de nuestra experiencia como victimas de torturas psicológicas, acecho, y torturas «sin rastros», todas la que subimos en la red de neuroestimuladores inalámbricos presente en la torre de Collserola en Barcelona.
 
-El acecho y la tortura «sin rastros» a nivel de leyes internacionales sobre derecho humano vienen consideradas tan graves como las físicas; en el articulo uno del **CAT** [[13]](http://telecomlobby.com/RNMnetwork/documents/CAT_es.pdf) se habla de ella tanto como física cuanto mental, esta última en particular viene infligida a través de sufrimientos y penas. En la red de monitorio neuronal normalmente se utiliza una ex pareja para hacer sufrir gravemente la victima utilizando la figura de la mujer como victima de un sistema Mafioso, de violencias sexuales, de explotación, de amor imposible de realizarse a causa de ser victima de Mafia. Todo es teatro, aunque, esto si que es totalmente verdadero, las misma mujeres que aceptan participar a este tipo de crimen organizado a su vez pierden la dignidad y a través de las pantallas neuronales están obligadas a ver personas con las cuales por lo menos han tenido sexo perder la vida por su culpa. Ellas mismas son victimas en procesos de desgastes parecido al proceso natural de la mujer. Hasta que puedan tener hijos. 
+El acecho y la tortura «sin rastros» a nivel de leyes internacionales sobre derecho humano vienen consideradas tan graves como las físicas; en el articulo uno del **CAT** [[13]](http://telecomlobby.com/RNMnetwork/documents/CAT_es.pdf) se habla de ella tanto como física cuanto mental, esta última en particular viene infligida a través de sufrimientos y penas. En la red de monitorio neuronal normalmente se utiliza una ex pareja para hacer sufrir gravemente la victima utilizando la figura de la mujer como victima de un sistema Mafioso, de violencias sexuales, de explotación, de amor imposible de realizarse a causa de ser victima de Mafia. Todo es teatro, aunque, esto si que es totalmente verdadero, las misma mujeres que aceptan participar a este tipo de crimen organizado a su vez pierden la dignidad y a través de las pantallas neuronales están obligadas a ver personas con las cuales por lo menos han tenido sexo perder la vida por su culpa. Ellas mismas son victimas de un procesos de desgaste parecido al proceso natural de la mujer. Hasta que puedan tener hijos. 
 
 ![La ben plantada](http://telecomlobby.com/Images/labenplantada.webp)
+
+El reporte **E/CN.4/1986/15** [[14]](http://telecomlobby.com/RNMnetwork/documents/E_CN.4_1986_15_S.pdf) de las naciones unidas habla en 1.986 de torturas mentales que se diferencian de las físicas porqué infligidas en la psique. Esta definición es perfecta también de aquellas del sistema de neuroestimuladores de Barcelona. Pero, lo que hay que subrayar, que en este último caso de lo cual yo soy victima además de la mente se tortura también el cerebro como órgano a través de radio frecuencia. 
+
+Tanto la tortura física cuanto la psicológica tienen **secuelas** [[15]](http://shorturl.at/emrAU) tanto físicas cuanto psicológicas. Los métodos de tortura física detallados en el párrafo 118 son replicados perfectamente en la red de monitorio neuronal de Barcelona a través del utilizo ilegal de varias tecnologías en radio frecuencia. El resultado es que la tortura es prácticamente imposible de demostrar y no deja rastros, algunas de ellas son insinuadas por parte de «maquinistas», personas que se ocupan de torturar utilizando la radio:
+
+![Quemaduras de parrillas](http://telecomlobby.com/Images/quemaduras_de_parrillas.webp)
+
+- **Palizas**, desde que me están torturando me han dado tres palizas y disparado una vez con un arma de aire comprimido. 
+- **Quemaduras**, en mi caso infligida con armas electrónicas y insinuada una vez.  La quemadura de parrilla en infligida continuamente a través de las armas electrónicas de Collserola. Yo personalmente la sufro cada día. Gracias a esta tecnología se puede pasar el dolor a los órganos internos. Algo horrible que induce muchas victimas en pensar de tener un tumor. Cosa falsa que pero ya que en la sanidad hay muchos infiltrados por esta organización da come resultado una operación y **quimioterapia** [[16]](https://es.wikipedia.org/wiki/Quimioterapia). Un persona que conozco ha muerto hace poco por tumor a los intestinos y otra persona, amiga mía pero que lamentablemente ha participado un poco en la destrucción sistemática de mi vida, son muy probablemente victimas de falsos tumores. 
+- **Descargas eléctricas**, también la sufro diariamente. 
+- **Vejaciones sexuales** continuas en cuanto a sensaciones totalmente verdaderas creadas a través de la radio frecuencia. Tanto violación, también por parte de mis padres como he gravado en vídeo, cuanto inserción de objectos en orificios del cuerpo.
+- **Administración de drogas** en institución psiquiátricas que he hábilmente denegado engañando al personal medico. 
+- **Neurolélticos** diluidos en bebidas de los cuales no tengo las pruebas pero leyendo los efectos confirmo sin ninguna duda de haberlos ingeridos. **Plasis** [[17]](https://www.saudemais.org/plasil/). Quien tiene receptas de esta medicina tiene que ser investigado porqué pertenece sin dudas al circulo de torturadores de la Mafia de Barcelona.
+- **Denegación prolongada de descanso**. Registradas en parte en mi **cuaderno** [[18]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm) desde junio 2020, hay que subrayar que estoy siendo torturado desde noviembre 2017.
+- **Denegación prolongada de alimentos**. Estando bajo torturas no estoy trabajando normalmente porqué estoy ocupando prácticamente todo mi tiempo en estudiar esta tecnología muy compleja, en entender lo que me ha pasado y despejar mi mente de toda la confusión inducida por todas las historietas contadas en mensajería subliminal  y en escribir este libro. Mis padres, bajo una forma narcisista, a veces me han denegado los alimentos porqué el poco dinero que me ingresan no llegaba a cubrir los gastos semanales.
+- 
+
+
 
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
+
 2. https://www.ohchr.org/SP/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx
+
 3. https://www.echr.coe.int/Pages/home.aspx?p=home
+
 4. http://es.telecomlobby.com/esclavitud_moderna/asociaciones_organismos.htm
+
 5. https://www.derechoshumanos.net/derechos/index.htm
+
 6. [https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa](https://es.wikipedia.org/wiki/Guerra_Fría)
+
 7. https://es.wikipedia.org/wiki/Proyecto_MK_Ultra
+
 8. http://telecomlobby.com/RNMnetwork/documents/training8Rev1en.pdf
+
 9. https://www.derechoshumanos.net/abogados/lista-abogados-spain.htm
+
 10. http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
+
 11. https://es.wikipedia.org/wiki/Oficina_del_Alto_Comisionado_de_las_Naciones_Unidas_para_los_Derechos_Humanos
+
 12. http://telecomlobby.com/RNMnetwork/documents/QuestionnairePsychologicalTorture.pdf
+
 13. http://telecomlobby.com/RNMnetwork/documents/CAT_es.pdf
+
+14. http://telecomlobby.com/RNMnetwork/documents/E_CN.4_1986_15_S.pdf
+
+15. http://shorturl.at/emrAU
+
+16. https://es.wikipedia.org/wiki/Quimioterapia
+
+17. https://www.saudemais.org/plasil/
+
+18. http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
+
+    
 
