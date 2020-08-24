@@ -89,7 +89,11 @@ En seguida detallamos otros puntos claves del documento en asunto:
 - El hecho que los criminales, normalmente estados, utilicen métodos muy complejos con el único fin de confundir las victimas para que no hagan una denuncia exhaustiva. De este punto clave soy totalmente victima ya que en mensajería subliminal las historietas que me han contado personajes muy importante en este país tenían como único alcance la violación de la prohibición internacional de la torturas, con el tiempo pero y siendo diariamente torturado he despejado la mente y las ideas.
 - Definición de tortura moderna como **cibertortura** [[10]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm). La que yo y muchísimos otros ciudadanos Europeos están subiendo por parte de Estado, Iglesia y monstruos de audiovisuales privadas. 
 
+Importante documento disponible en la página web de la **oficina del alto comisionado de las Naciones Unidas para los derechos humanos** [[11]](https://es.wikipedia.org/wiki/Oficina_del_Alto_Comisionado_de_las_Naciones_Unidas_para_los_Derechos_Humanos) un **cuestionario** [[12]](http://telecomlobby.com/RNMnetwork/documents/QuestionnairePsychologicalTorture.pdf) acerca de nuestra experiencia como victimas de torturas psicológicas, acecho, y torturas «sin rastros», todas la que subimos en la red de neuroestimuladores inalámbricos presente en la torre de Collserola en Barcelona.
 
+El acecho y la tortura «sin rastros» a nivel de leyes internacionales sobre derecho humano vienen consideradas tan graves como las físicas; en el articulo uno del **CAT** [[13]](http://telecomlobby.com/RNMnetwork/documents/CAT_es.pdf) se habla de ella tanto como física cuanto mental, esta última en particular viene infligida a través de sufrimientos y penas. En la red de monitorio neuronal normalmente se utiliza una ex pareja para hacer sufrir gravemente la victima utilizando la figura de la mujer como victima de un sistema Mafioso, de violencias sexuales, de explotación, de amor imposible de realizarse a causa de ser victima de Mafia. Todo es teatro, aunque, esto si que es totalmente verdadero, las misma mujeres que aceptan participar a este tipo de crimen organizado a su vez pierden la dignidad y a través de las pantallas neuronales están obligadas a ver personas con las cuales por lo menos han tenido sexo perder la vida por su culpa. Ellas mismas son victimas en procesos de desgastes parecido al proceso natural de la mujer. Hasta que puedan tener hijos. 
+
+![La ben plantada](http://telecomlobby.com/Images/labenplantada.webp)
 
 ###  External links 
 
@@ -103,4 +107,7 @@ En seguida detallamos otros puntos claves del documento en asunto:
 8. http://telecomlobby.com/RNMnetwork/documents/training8Rev1en.pdf
 9. https://www.derechoshumanos.net/abogados/lista-abogados-spain.htm
 10. http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
+11. https://es.wikipedia.org/wiki/Oficina_del_Alto_Comisionado_de_las_Naciones_Unidas_para_los_Derechos_Humanos
+12. http://telecomlobby.com/RNMnetwork/documents/QuestionnairePsychologicalTorture.pdf
+13. http://telecomlobby.com/RNMnetwork/documents/CAT_es.pdf
 
