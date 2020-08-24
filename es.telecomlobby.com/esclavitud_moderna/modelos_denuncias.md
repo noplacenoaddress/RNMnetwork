@@ -103,6 +103,12 @@ Tanto la tortura física cuanto la psicológica tienen **secuelas** [[15]](http:
 
 - **Palizas**, desde que me están torturando me han dado tres palizas y disparado una vez con un arma de aire comprimido. 
 - **Quemaduras**, en mi caso infligida con armas electrónicas y insinuada una vez.  La quemadura de parrilla en infligida continuamente a través de las armas electrónicas de Collserola. Yo personalmente la sufro cada día. Gracias a esta tecnología se puede pasar el dolor a los órganos internos. Algo horrible que induce muchas victimas en pensar de tener un tumor. Cosa falsa que pero ya que en la sanidad hay muchos infiltrados por esta organización da come resultado una operación y **quimioterapia** [[16]](https://es.wikipedia.org/wiki/Quimioterapia). Un persona que conozco ha muerto hace poco por tumor a los intestinos y otra persona, amiga mía pero que lamentablemente ha participado un poco en la destrucción sistemática de mi vida, son muy probablemente victimas de falsos tumores. 
+- **Descargas eléctricas**, también la sufro diariamente. 
+- **Vejaciones sexuales** continuas en cuanto a sensaciones totalmente verdaderas creadas a través de la radio frecuencia. Tanto violación, también por parte de mis padres como he gravado en vídeo, cuanto inserción de objectos en orificios del cuerpo.
+- **Administración de drogas** en institución psiquiátricas que he hábilmente denegado engañando al personal medico. 
+- **Neurolélticos** diluidos en bebidas de los cuales no tengo las pruebas pero leyendo los efectos confirmo sin ninguna duda de haberlos ingeridos. **Plasis** [[17]](https://www.saudemais.org/plasil/). Quien tiene receptas de esta medicina tiene que ser investigado porqué pertenece sin dudas al circulo de torturadores de la Mafia de Barcelona.
+- **Denegación prolongada de descanso**. Registradas en parte en mi **cuaderno** [[18]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm) desde junio 2020, hay que subrayar que estoy siendo torturado desde noviembre 2017.
+- **Denegación prolongada de alimentos**. Estando bajo torturas no estoy trabajando normalmente porqué estoy ocupando prácticamente todo mi tiempo en estudiar esta tecnología muy compleja, en entender lo que me ha pasado y despejar mi mente de toda la confusión inducida por todas las historietas contadas en mensajería subliminal  y en escribir este libro. Mis padres, bajo una forma narcisista, a veces me han denegado los alimentos porqué el poco dinero que me ingresan no llegaba a cubrir los gastos semanales.
 - 
 
 
@@ -140,6 +146,10 @@ Tanto la tortura física cuanto la psicológica tienen **secuelas** [[15]](http:
 15. http://shorturl.at/emrAU
 
 16. https://es.wikipedia.org/wiki/Quimioterapia
+
+17. https://www.saudemais.org/plasil/
+
+18. http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
 
     
 
