@@ -109,7 +109,6 @@ Tanto la tortura física cuanto la psicológica tienen **secuelas** [[15]](http:
 - **Neurolélticos** diluidos en bebidas de los cuales no tengo las pruebas pero leyendo los efectos confirmo sin ninguna duda de haberlos ingeridos. **Plasis** [[17]](https://www.saudemais.org/plasil/). Quien tiene receptas de esta medicina tiene que ser investigado porqué pertenece sin dudas al circulo de torturadores de la Mafia de Barcelona.
 - **Denegación prolongada de descanso**. Registradas en parte en mi **cuaderno** [[18]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm) desde junio 2020, hay que subrayar que estoy siendo torturado desde noviembre 2017.
 - **Denegación prolongada de alimentos**. Estando bajo torturas no estoy trabajando normalmente porqué estoy ocupando prácticamente todo mi tiempo en estudiar esta tecnología muy compleja, en entender lo que me ha pasado y despejar mi mente de toda la confusión inducida por todas las historietas contadas en mensajería subliminal  y en escribir este libro. Mis padres, bajo una forma narcisista, a veces me han denegado los alimentos porqué el poco dinero que me ingresan no llegaba a cubrir los gastos semanales.
-- 
 
 
 
