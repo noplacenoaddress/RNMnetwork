@@ -130,6 +130,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 23/08/2020 10:10 I've recently discovered that behind **Francesca** and behind the telecomunications system of remote neural monitoring there is **neo nazism** and in subliminal messages they just say me that they want to kill me.
 - 23/08/2020 18:33 **Vincenzo** a sexual stalker that work for **Francesca** say to me that I will kill me with a gun. He just say that this Marquees say to him that he can do it because she protect him. With what? Nothing it's only a stupid that think that aristocracy got more rights that an European citizen. He is also doing sexual violence in radio to me and Saray.
 - 24/08/2020 05:30 dream injection, sleep deprivation and v2k. I want to remember to stalkers, people that I know, that sleep deprivation is a torture.
+- 25/08/2020 01:58 with radio frequency they provoke to me areophagy  to humiliate me in front of all the presents in my neural application; the problem is that all are stalkers and do crimes against humanity. Dear **Francesca** areophagy it's not the problem here there is a lot of people with child...
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
