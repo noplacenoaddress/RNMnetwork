@@ -132,6 +132,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 24/08/2020 05:30 dream injection, sleep deprivation and v2k. I want to remember to stalkers, people that I know, that sleep deprivation is a torture.
 - 25/08/2020 01:58 with radio frequency they provoke to me areophagy  to humiliate me in front of all the presents in my neural application; the problem is that all are stalkers and do crimes against humanity. Dear **Francesca** areophagy it's not the problem here there is a lot of people with child...
 - 25/08/2020 12:14 in subliminal messages services a very important aristocratic of this country has offered to me do sex with a famous person. In this slavery network those persons thinks that I'm an hourse. This animal have to sell drug, do sex in parimutuel betting system, and be a slave of a owner. An old lady in a bar speaking with another say "que lo alquilen", this why I say no to have sex under this human camera system to a Spanish wonderful woman. Aristocracy in Spain think that I'm a play card, a person in slavery that generate money. This is a scandal because I'm an Italian man protected by international laws. JA,JA.
+- 28/08/2020 00:30 ripetitive voice to skull simulating a strange soundfrom Rubi, the blonde (now middle grey) chief, and I cannot sleep. Sleep deprivation dear Andreu it's a torture.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
