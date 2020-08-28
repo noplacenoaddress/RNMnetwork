@@ -94,6 +94,10 @@ Encuentro también de sumo interés **palabras** [[73]](http://telecomlobby.com/
 
 > La tortura degrada, humilla y destruye. El torturador se degrada porque su absoluta falta de. respeto a la víctima se vuelve contra él y lo deshumaniza. El horrendo espectáculo de la tortura apenas tiene algo de humano, porque el hombre que es víctima ha sido convertido en cosa por los administradores de su dolor, y éstos se transforman en seres diabólicos que fueron hombres antes de perder su dignidad. Sólo es humano el sufrimiento del torturado, humillado y ofendido. Por eso no podemos soportar la imagen de unos hombres torturando a otro sin sentimos también ofendidos. Por eso no importa tanto conocer el nombre de las víctimas como el de los torturadores, que antes fueron secuestradores, después asesinos y en todo momento cobardes criminales, despreciables seres infrahumanos, escoria. 
 
+En cuanto a leyes internacionales aplicables acerca de las torturas infligidas en la red de monitorio neuronal de la torre de Collserola os agradezco la lectura de mi capitulo:
+
+- **Derecho internacional contra las torturas en España.** [[77]](http://es.telecomlobby.com/esclavitud_moderna/derecho_internacional_torturas.htm)
+
 ### External links 
 
 1. http://telecomlobby.com/RNMnetwork/laws/tablas_2017.pdf
@@ -171,4 +175,5 @@ Encuentro también de sumo interés **palabras** [[73]](http://telecomlobby.com/
 73. https://elpais.com/
 74. [https://es.wikipedia.org/wiki/Tribunal_Constitucional_(Espa%C3%B1a)](https://es.wikipedia.org/wiki/Tribunal_Constitucional_(España))
 75. [https://es.wikipedia.org/wiki/Francisco_Tom%C3%A1s_y_Valiente](https://es.wikipedia.org/wiki/Francisco_Tomás_y_Valiente)
+76. http://es.telecomlobby.com/esclavitud_moderna/derecho_internacional_torturas.htm
 
