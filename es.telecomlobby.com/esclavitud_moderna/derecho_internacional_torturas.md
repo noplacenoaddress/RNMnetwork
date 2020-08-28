@@ -54,9 +54,9 @@ Para la elección del mecanismo a utilizar deben de tomarse en consideración, e
 - Fuerza vinculante de la resolución adoptada.
 - Plazos (algunos procedimientos están sujetos a plazos y otros no están sujetos a un plazo concreto).
 
-#### Consejo de los derechos humanos A/HRC/43/49 20/3/2020
+### Consejo de los derechos humanos A/HRC/43/49 20/3/2020
 
-Acerca de las torturas. Llorando declaro que soy victima de torturas diarias desde el año 2016. De torturas a través de radio frecuencia diarias desde el **27 de Noviembre 2017**.
+ Acerca de las torturas. Llorando declaro que soy victima de torturas diarias desde el año 2016. De torturas a través de radio frecuencia diarias desde el **27 de Noviembre 2017**.
 
 **La prohibición de la tortura es universal, absoluta, non derogadle.** 
 
@@ -136,6 +136,8 @@ El Estado Catalano es totalmente culpable de encubrir estas estafas con fine úl
 - Fundamental para llevar en juicio a los stalkers de esta secta que se dedica al negocio del suicidio que opera en Catalunya protegida por importantes aristócratas es el entender que ya la premeditación de los procesos para aniquilar los sentidos o la personalidad de una victima son de considerar torturas a pleno efecto. A mi manera de ver diría que se tienen que juzgar también como una premeditación de asesinado a largo termino. Un suicidio tiene que ser considerado sin ninguna duda un asesinado bajo comisión. Esta gente son mercenarios. Asesinos a sueldo de los guantes blancos. Una persona muy implicada en este negocio, persona que he frecuentado por mucho tiempo, suele robar con guantes blancos. Ahora he entendido que es un asesino a sueldo de mujeres. ¿Quien paga? Quien juega a cartas, Marqueses. **Francesca**. ¿Quienes son las cartas, los torturadores y los asesinos? Victima de la aristocracia, victima del Vaticano. ¿Porqué? Dinero y poder. Como siempre.
 - Debido las nuevas tecnologías y a los rápidos avances en las ciencias medicas, farmacológicas y de neuro tecnología como también en cibernética, robótica y inteligencia artificial es complicado desenmascarar las nuevas técnicas y ambientes donde se consume el crimen más antiguo, horrible, inhumano y humillante del animal más horroroso de la Tierra, el ser humano. Ningún otro animal cumple torturas en sus símiles. La red de neuroestimuladores inalámbricos de Barcelona es, y esto si soy su descubridor como tal, el ambiente más complicado y oculto que existe actualmente sin ninguna duda para cumplir y hacer divertir enfermizos millonarios con nuestras carnes, dolor y sufrimientos.  En la red de monitorio neuronal nuestros sentidos vienen ampliados por parte de la radio frecuencia. De esta manera muchas victimas se sienten **Übermensch** [[21]](https://es.wikipedia.org/wiki/%C3%9Cbermensch), así los **reales** perpetradores de estos crímenes contra la humanidad ocultan detrás de estas falsas sensaciones la realidad: sois únicamente torturados. Soy victimas. Nada mas. Os están quitando el ser humanos, os están deshumanizando, sois maquinas.  La única forma de salir de la tecnocracia es una denuncia conjunta. Estoy muy cansado de lameculos de una aristocracia arruinada, enferma, antigua y inútil. 
 
+- La **impotencia** [[22]](https://es.wikipedia.org/wiki/Impotencia) es algo que los torturadores crean en la psique de las victimas. De la impotencia psíquica, debida a torturas y humillaciones, deriva la impotencia sexual. Yo en fecha 28 de Agosto 2020 no tengo relaciones completas sexuales desde hace dos años debido al aislamiento forzoso hecho por casi todas las personas que he conocido en Barcelona. Esta Mafia es una Mafia muy radicada. Una Mafia que se basa sobre la tortura y la esclavitud. La impotencia es el gatillo de la esclavitud. Quien la crea tiene que ser juzgado por torturas. Acordaros, lectores, que el reino Español tiene un amplio pasado basado sobre la esclavitud y la trata de personas; esto no ha cambiado. Está ocultado detrás de la red de monitorio neuronal. En la red de esclavitud moderna Española los torturadores son todos quienes tienen los controles de tu aplicación neuronal. En la aplicación neuronal se hace tortura, por esto el simple hecho de no tener acceso te convierte en victima. En esclavo. Aunque esta forma de esclavitud es únicamente mental de otro lado salir de ella es complejo cuanto en la antigüedad aunque hoy en día tenemos los instrumentos legales suficientes. El problema principal es que casi ningún esclavo con esta tecnología, siendo ellos todos de clase social obrera o criminales, sabe de serlo. Sois esclavos amigos mios, estáis haciendo daño a quien os quiere. También en vuestras mismas familias. Aristócratas pagan pequeñas sumas para crear torturadores, sumas o inmunidad en el trafico de drogas gracias a corrupción. 
+
 
 
 ###  External links 
@@ -182,5 +184,8 @@ El Estado Catalano es totalmente culpable de encubrir estas estafas con fine úl
 
 21. [https://es.wikipedia.org/wiki/%C3%9Cbermensch](https://es.wikipedia.org/wiki/Übermensch)
 
+22. https://es.wikipedia.org/wiki/Impotencia
+
     
 
+​              
