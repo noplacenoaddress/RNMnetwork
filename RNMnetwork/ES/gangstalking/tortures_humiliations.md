@@ -134,6 +134,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 25/08/2020 12:14 in subliminal messages services a very important aristocratic of this country has offered to me do sex with a famous person. In this slavery network those persons thinks that I'm an hourse. This animal have to sell drug, do sex in parimutuel betting system, and be a slave of a owner. An old lady in a bar speaking with another say "que lo alquilen", this why I say no to have sex under this human camera system to a Spanish wonderful woman. Aristocracy in Spain think that I'm a play card, a person in slavery that generate money. This is a scandal because I'm an Italian man protected by international laws. JA,JA.
 - 28/08/2020 00:30 ripetitive voice to skull simulating a strange soundfrom Rubi, the blonde (now middle grey) chief, and I cannot sleep. Sleep deprivation dear it's a torture.
 - 28/08/2020 17:25 My daddy: "this work is useless". Dear dad I'm working for my freedom. You are useless because you are seeing your son been tortured. Go to fuck.
+- 30/08/2020 13:32 My daddy: "tu devi lavorare poi quando esageri con i soldi ti faccio mandare all'ospedale da uno di questi picchiatori".
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
