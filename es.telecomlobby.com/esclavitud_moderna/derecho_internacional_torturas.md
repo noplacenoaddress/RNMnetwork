@@ -166,6 +166,10 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
   Todas estas técnicas tienen el fin último de destruir el sentido de control de las victimas. A través de torturas psicológicas continuas y sexuales puntuales por ejemplo las mujeres pierden totalmente el limite de la violencia sexual. Vienen utilizadas para orgías absurdas donde los jefes ganan sumas a seis cifras mientras que ellas se abstraen totalmente con la maquina para ser violadas brutalmente y no ponen nin denuncias. Mi ex pareja está viviendo este infierno desde hace más de diez años. Se alimenta también una completa dependencia de las victimas sobre los torturadores; me pasa levemente con ella pero sobre todo porqué se que ella no es una torturadora cociente pero ha sido construida con los años y las violencias. **Síndrome de Estocolmo** [[38]](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo). 
 
+- **Dignidad** [[39]](https://es.wikipedia.org/wiki/Dignidad) y identidad, humillaciones, rotura de privacidad y **integridad sexual** [[40]](http://telecomlobby.com/RNMnetwork/documents/integridad_sexual_delitos.pdf). La autoestima es totalmente debilitada por parte de los maquinistas de la red neuronal atacando fuertemente los puntos previamente indicados. Es tortura, no os equivoquéis. Un crimen contra la humanidad.  
+
+
+
 
 
  
@@ -247,6 +251,10 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 37. https://es.wikipedia.org/wiki/Sue%C3%B1o_de_movimientos_oculares_r%C3%A1pidos
 
 38. https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo
+
+39. https://es.wikipedia.org/wiki/Dignidad
+
+40. http://telecomlobby.com/RNMnetwork/documents/integridad_sexual_delitos.pdf
 
     
 
