@@ -149,9 +149,12 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 ![Miedo un estado emocional provocado en el cerebro](http://telecomlobby.com/Images/Brain_limbicsystem.webp)
 
 -  Seguridad. **Miedo** [[29]](https://es.wikipedia.org/wiki/Miedo), **fobias** [[30]](https://es.wikipedia.org/wiki/Fobia) y **ansiedad** [[31]](https://es.wikipedia.org/wiki/Ansiedad). Todos provocados por la «maquina», y como «maquina» quiero enfocar la misma sociedad monárquica también. La seguridad de una victima o de una sociedad, la Catalana de baja extracción social, los grupos de jóvenes diferentes de los cánones comunes, los extranjeros y los marginados (y con esto quiero denotar una amplia parte de la élite de este país como franquistas) puede ser atacada de distintas formas:
+
   - directos o indirectos hechos repetitivos o escalados actos de torturas, mutilación que en el caso de la «maquina» se hace a través se sensaciones obtenidas a través de radio frecuencia que actúa en órganos internos y sistema nervioso, violencia sexual típicamente infligida a mujeres con el fin de obtener otras herramientas de utilizar para el negocio del suicidio, y otros abusos contra familiares, amigos y compañeros.
   - retener o tergiversar información sobre el destino de las víctimas o sus seres queridos, simulacros de ejecuciones, presenciar el asesinato o la tortura real o intencionada de otros. En mi caso es desde julio 2018 que se me representa Saray, mi ex pareja, como victima de violencia sexual. Ella está presente en la aplicación neuronal de mi tortura y esclavitud. No me ha contactado nunca de forma habitual aun que sepas perfectamente mi condición de torturado. De su lado la posible coacción sobre su hija, pero dudo que se pueda considerar como inocente debido al tiempo. Es una mujer y hubiera denunciado para proteger a su sangre. En inmersión y sueños la he visualizada como tal, y la he buscada por Barcelona por mas de un año. He visualizado la ejecución de un hombre también pero el fin último era únicamente que yo llamara la policía en un ataque de pánico y fuera ingresado en un instituto de salud mental. Muchas personas que conozco participan diariamente en mensajería subliminal indicándome que ella efectivamente es victima de numerosos crímenes. No lo es y ellos lo saben. 
   - provocar fobias personales o culturales, conmigo lo han hecho muchas personas que conozco declarándose franquistas ya que soy un demócrata de izquierdas. Aunque tengo que decir que estos ignorantes lo dicen porqué los jefes se lo imponen; la verdad es que detrás de la sociedad tecnocrata hay la filosofía del nacional socialismo. Se nota la asesa de los populismos en Europa últimamente. Es terrorismo capilar. 
+
+  El hecho de probar miedo de forma prolongada es de considerarse más traumático en cuanto a secuelas que una experiencia de tortura física. Secuelas que incluyen **trastorno por estrés postraumático** [[32]](https://es.wikipedia.org/wiki/Trastorno_por_estr%C3%A9s_postraum%C3%A1tico), **dolor crónico** [[33]](https://es.wikipedia.org/wiki/Dolor_cr%C3%B3nico) y **trastornos somatomorfos** [[34]](https://es.wikipedia.org/wiki/Trastorno_somatomorfo).
 
 
 
@@ -220,6 +223,12 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 30. https://es.wikipedia.org/wiki/Fobia
 
 31. https://es.wikipedia.org/wiki/Ansiedad
+
+32. https://es.wikipedia.org/wiki/Trastorno_por_estr%C3%A9s_postraum%C3%A1tico
+
+33. https://es.wikipedia.org/wiki/Dolor_cr%C3%B3nico
+
+34. https://es.wikipedia.org/wiki/Trastorno_somatomorfo
 
     
 
