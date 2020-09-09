@@ -159,7 +159,12 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 ![Carcel del cerebro](http://telecomlobby.com/Images/carcel_cerebro.webp)
 
 - **Libertad cognitiva** [[35]](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652), **dominación** [[36]](shorturl.at/efAJ1) y subyugación. En la red de neuroestimuladores de Barcelona se interfiere sin previo consentimiento en la actividad neuronal de una persona. Un crimen contra la humanidad se interpretado de forma correcta.  En mi caso en mi aplicación neuronal han roto mi libertad cognitiva prácticamente todas las personas que he conocido en mi vida, es una forma de dominación humillante y terrible. ¿Porqué? El único fin es el suicidio, después de unos años de torturas, de ser un conejillo de India, de ser obyecto de apuestas mutuas remotas, de ser un esclavo y de varios crímenes más que detallo exactamente en otros capítulos. Entra todos los participantes al casino virtual de apuestas mutuas se comparte todo tipo de información acerca de mi vida pasada, otra forma de dominación. La mayoría de las veces se tergiversa esta información otras, puntuales pero precisas, se me eleva la moral para mantener el estado de animo en una condición aceptable y así alargar el período de tortura. Cristian, quien murió por suicidio y víctima del mismo sistema, se suicidó luego de siete años en un hospital psiquiátrico. Aquí en la red están todos los viejos amigos de ambos. Todos ustedes son cómplices de la tortura, lo siento muchachos. Pero yo no muero. Dentro de la red neuronal se consigue la tortura por privación de la autodeterminación, o sea de la libertad cognitiva, además que por la misma tecnología de ultima milla inalámbrica también por comportamientos de *maquinistas* a las ordenes de dos representantes de familias nobles, una Ligure Francesa y otra Catalana:
-  - 
+
+  - creación de un ambiente desfavorable por la higiene, obtenido a través de la impotencia y de la depresión provocada, por una alimentación correcta, obtenido a través la drogo dependencia, por el sueño, debido al acecho electrónico y a la escritura remota de sueño en **fase REM** [[37]](https://es.wikipedia.org/wiki/Sue%C3%B1o_de_movimientos_oculares_r%C3%A1pidos), y a problemas en orinar y defecar siempre debidos al suministro de alguna substancia escondida en algún alimento o bebida.
+  - imposición de reglas, aquí conocida como leyes debido a que las victimas creen de vivir en un estado de competencias superiores al estado oficial (terrorismo y Mafia nada más), ilógicas. Los maquinistas las explican como interpretaciones diferentes de las leyes Españolas creando confusión mental y trastornos en los individuos objetivos.  
+  - imposición a las propias victimas de opciones de vida imposibles haciendo así que participen ellos mismos en la propia tortura. Además que se inducen a ser abusadores sobre otras nuevas victimas. 
+
+  Todas estas técnicas tienen el fin último de destruir el sentido de control de las victimas. A través de torturas psicológicas continuas y sexuales puntuales por ejemplo las mujeres pierden totalmente el limite de la violencia sexual. Vienen utilizadas para orgías absurdas donde los jefes ganan sumas a seis cifras mientras que ellas se abstraen totalmente con la maquina para ser violadas brutalmente y no ponen nin denuncias. Mi ex pareja está viviendo este infierno desde hace más de diez años. Se alimenta también una completa dependencia de las victimas sobre los torturadores; me pasa levemente con ella pero sobre todo porqué se que ella no es una torturadora cociente pero ha sido construida con los años y las violencias. 
 
 
 
@@ -238,6 +243,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 35. https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652
 
 36. http://shorturl.at/efAJ1
+
+37. https://es.wikipedia.org/wiki/Sue%C3%B1o_de_movimientos_oculares_r%C3%A1pidos
 
     
 
