@@ -156,6 +156,10 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
   El hecho de probar miedo de forma prolongada es de considerarse más traumático en cuanto a secuelas que una experiencia de tortura física. Secuelas que incluyen **trastorno por estrés postraumático** [[32]](https://es.wikipedia.org/wiki/Trastorno_por_estr%C3%A9s_postraum%C3%A1tico), **dolor crónico** [[33]](https://es.wikipedia.org/wiki/Dolor_cr%C3%B3nico) y **trastornos somatomorfos** [[34]](https://es.wikipedia.org/wiki/Trastorno_somatomorfo).
 
+![Carcel del cerebro](http://telecomlobby.com/Images/carcel_cerebro.webp)
+
+- **Libertad cognitiva** [[35]](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652), dominación y subyugación. En la red de neuroestimuladores de Barcelona se interfiere sin previo consentimiento en la actividad neuronal de una persona. Un crimen contra la humanidad se interpretado de forma correcta. 
+
 
 
  
@@ -229,6 +233,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 33. https://es.wikipedia.org/wiki/Dolor_cr%C3%B3nico
 
 34. https://es.wikipedia.org/wiki/Trastorno_somatomorfo
+
+35. https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652
 
     
 
