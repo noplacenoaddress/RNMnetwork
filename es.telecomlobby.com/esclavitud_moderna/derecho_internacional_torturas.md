@@ -156,10 +156,6 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
   El hecho de probar miedo de forma prolongada es de considerarse más traumático en cuanto a secuelas que una experiencia de tortura física. Secuelas que incluyen **trastorno por estrés postraumático** [[32]](https://es.wikipedia.org/wiki/Trastorno_por_estr%C3%A9s_postraum%C3%A1tico), **dolor crónico** [[33]](https://es.wikipedia.org/wiki/Dolor_cr%C3%B3nico) y **trastornos somatomorfos** [[34]](https://es.wikipedia.org/wiki/Trastorno_somatomorfo).
 
-
-
-![](http://telecomlobby.com/Images/carcel_cerebro.webp)
-
 - **Libertad cognitiva** [[35]](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652), **dominación** [[36]](shorturl.at/efAJ1) y subyugación. En la red de neuroestimuladores de Barcelona se interfiere sin previo consentimiento en la actividad neuronal de una persona. Un crimen contra la humanidad se interpretado de forma correcta.  En mi caso en mi aplicación neuronal han roto mi libertad cognitiva prácticamente todas las personas que he conocido en mi vida, es una forma de dominación humillante y terrible. ¿Porqué? El único fin es el suicidio, después de unos años de torturas, de ser un conejillo de India, de ser obyecto de apuestas mutuas remotas, de ser un esclavo y de varios crímenes más que detallo exactamente en otros capítulos. Entra todos los participantes al casino virtual de apuestas mutuas se comparte todo tipo de información acerca de mi vida pasada, otra forma de dominación. La mayoría de las veces se tergiversa esta información otras, puntuales pero precisas, se me eleva la moral para mantener el estado de animo en una condición aceptable y así alargar el período de tortura. Cristian, quien murió por suicidio y víctima del mismo sistema, se suicidó luego de siete años en un hospital psiquiátrico. Aquí en la red están todos los viejos amigos de ambos. Todos ustedes son cómplices de la tortura, lo siento muchachos. Pero yo no muero. Dentro de la red neuronal se consigue la tortura por privación de la autodeterminación, o sea de la libertad cognitiva, además que por la misma tecnología de ultima milla inalámbrica también por comportamientos de *maquinistas* a las ordenes de dos representantes de familias nobles, una Ligure Francesa y otra Catalana:
 
   - creación de un ambiente desfavorable por la higiene, obtenido a través de la impotencia y de la depresión provocada, por una alimentación correcta, obtenido a través la drogo dependencia, por el sueño, debido al acecho electrónico y a la escritura remota de sueño en **fase REM** [[37]](https://es.wikipedia.org/wiki/Sue%C3%B1o_de_movimientos_oculares_r%C3%A1pidos), y a problemas en orinar y defecar siempre debidos al suministro de alguna substancia escondida en algún alimento o bebida.
@@ -172,7 +168,7 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
   - **Poner en la picota** [[41]](shorturl.at/EHQW5) la victima en clave moderna. Internet, grafiti, alusiones continuas en medios de telecomunicaciones públicos de cadenas privadas (absurdo pero totalmente cierto). **Memes** [[42]](https://es.wikipedia.org/wiki/Meme_de_internet). 
   - Continuo estimulo sexual a través de radio frecuencia por parte de los maquinistas al fin de forzar las victimas a la masturbación que no es exactamente pública pero es vista por todas las personas que participan en la aplicación neuronal de torturas. La **masturbación** [[43]](https://es.wikipedia.org/wiki/Masturbaci%C3%B3n) no es absolutamente ningún tipo de tortura y es un practica sexual normal, en algunos individuos puede ser causa de vergüenza propia sobre todo porqué son presentes los padres y la familia en este ambiente de tortura. También los padres de todas las personas que se conocen. 
 
-
+![](http://telecomlobby.com/Images/carcel_cerebro.webp)
 
 
 
