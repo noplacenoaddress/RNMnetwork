@@ -158,7 +158,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
 ![Carcel del cerebro](http://telecomlobby.com/Images/carcel_cerebro.webp)
 
-- **Libertad cognitiva** [[35]](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652), dominación y subyugación. En la red de neuroestimuladores de Barcelona se interfiere sin previo consentimiento en la actividad neuronal de una persona. Un crimen contra la humanidad se interpretado de forma correcta. 
+- **Libertad cognitiva** [[35]](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652), **dominación** [[36]](shorturl.at/efAJ1) y subyugación. En la red de neuroestimuladores de Barcelona se interfiere sin previo consentimiento en la actividad neuronal de una persona. Un crimen contra la humanidad se interpretado de forma correcta.  En mi caso en mi aplicación neuronal han roto mi libertad cognitiva prácticamente todas las personas que he conocido en mi vida, es una forma de dominación humillante y terrible. ¿Porqué? El único fin es el suicidio, después de unos años de torturas, de ser un conejillo de India, de ser obyecto de apuestas mutuas remotas, de ser un esclavo y de varios crímenes más que detallo exactamente en otros capítulos. Entra todos los participantes al casino virtual de apuestas mutuas se comparte todo tipo de información acerca de mi vida pasada, otra forma de dominación. La mayoría de las veces se tergiversa esta información otras, puntuales pero precisas, se me eleva la moral para mantener el estado de animo en una condición aceptable y así alargar el período de tortura. Cristian, quien murió por suicidio y víctima del mismo sistema, se suicidó luego de siete años en un hospital psiquiátrico. Aquí en la red están todos los viejos amigos de ambos. Todos ustedes son cómplices de la tortura, lo siento muchachos. Pero yo no muero. Dentro de la red neuronal se consigue la tortura por privación de la autodeterminación, o sea de la libertad cognitiva, además que por la misma tecnología de ultima milla inalámbrica también por comportamientos de *maquinistas* a las ordenes de dos representantes de familias nobles, una Ligure Francesa y otra Catalana:
+  - 
 
 
 
@@ -235,6 +236,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 34. https://es.wikipedia.org/wiki/Trastorno_somatomorfo
 
 35. https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/los-orgenes-de-crispr-716/el-derecho-a-la-libertad-cognitiva-15652
+
+36. http://shorturl.at/efAJ1
 
     
 
