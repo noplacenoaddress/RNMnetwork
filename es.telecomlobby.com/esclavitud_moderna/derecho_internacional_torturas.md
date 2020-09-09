@@ -166,7 +166,9 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
   Todas estas técnicas tienen el fin último de destruir el sentido de control de las victimas. A través de torturas psicológicas continuas y sexuales puntuales por ejemplo las mujeres pierden totalmente el limite de la violencia sexual. Vienen utilizadas para orgías absurdas donde los jefes ganan sumas a seis cifras mientras que ellas se abstraen totalmente con la maquina para ser violadas brutalmente y no ponen nin denuncias. Mi ex pareja está viviendo este infierno desde hace más de diez años. Se alimenta también una completa dependencia de las victimas sobre los torturadores; me pasa levemente con ella pero sobre todo porqué se que ella no es una torturadora cociente pero ha sido construida con los años y las violencias. **Síndrome de Estocolmo** [[38]](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo). 
 
-- **Dignidad** [[39]](https://es.wikipedia.org/wiki/Dignidad) y identidad, humillaciones, rotura de privacidad y **integridad sexual** [[40]](http://telecomlobby.com/RNMnetwork/documents/integridad_sexual_delitos.pdf). La autoestima es totalmente debilitada por parte de los maquinistas de la red neuronal atacando fuertemente los puntos previamente indicados. Es tortura, no os equivoquéis. Un crimen contra la humanidad.  
+- **Dignidad** [[39]](https://es.wikipedia.org/wiki/Dignidad) y identidad, humillaciones, rotura de privacidad y **integridad sexual** [[40]](http://telecomlobby.com/RNMnetwork/documents/integridad_sexual_delitos.pdf). La autoestima es totalmente debilitada por parte de los maquinistas de la red neuronal atacando fuertemente los puntos previamente indicados. Es tortura, no os equivoquéis. Un crimen contra la humanidad. El DOMINT rompe totalmente la privacidad en todas sus formas, todo nuestro cuerpo, sensaciones, pensamientos y ideas son leídas por parte de los torturadores. La integridad sexual viene metida a riesgo siempre por parte de la tecnología porqué los perpetradores del crimen del negocio del suicidio con la radio frecuencia controlan la erección en el pene masculino y la sobre excitación tanto en hombres cuanto mujeres. Otras técnicas añadidas a la tecnología son:
+  - **Poner en la picota** [[41]](shorturl.at/EHQW5) la victima en clave moderna. Internet, grafiti, alusiones continuas en medios de telecomunicaciones públicos de cadenas privadas (absurdo pero totalmente cierto). **Memes** [[42]](https://es.wikipedia.org/wiki/Meme_de_internet). 
+  - Continuo estimulo sexual a través de radio frecuencia por parte de los maquinistas al fin de forzar las victimas a la masturbación que no es exactamente pública pero es vista por todas las personas que participan en la aplicación neuronal de torturas. La **masturbación** [[43]](https://es.wikipedia.org/wiki/Masturbaci%C3%B3n) no es absolutamente ningún tipo de tortura y es un practica sexual normal, en algunos individuos puede ser causa de vergüenza propia sobre todo porqué son presentes los padres y la familia en este ambiente de tortura. También los padres de todas las personas que se conocen. 
 
 
 
@@ -255,6 +257,12 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 39. https://es.wikipedia.org/wiki/Dignidad
 
 40. http://telecomlobby.com/RNMnetwork/documents/integridad_sexual_delitos.pdf
+
+41. http://shorturl.at/EHQW5
+
+42. https://es.wikipedia.org/wiki/Meme_de_internet
+
+43. https://es.wikipedia.org/wiki/Masturbaci%C3%B3n
 
     
 
