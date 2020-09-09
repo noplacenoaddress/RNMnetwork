@@ -2,7 +2,7 @@
 
 ![¿Que es la «Maquina» Catalana?](http://telecomlobby.com/Images/brain_sniffed.webp)
 
-La maquina Catalana nada más es que un sistema de monitorio neuronal o sistema de neuroestimuladores inalámbricos obtenido a través de radio frecuencia. 
+La «Maquina» Catalana nada más es que un sistema de monitorio neuronal o sistema de neuroestimuladores inalámbricos obtenido a través de radio frecuencia. 
 
 Es el sistema de telecomunicaciones de una Mafia, la poco conocida **Mafia de las telecomunicaciones**. Una  Mafia silenciosa, muy bien organizada, tecnológica, poco sangrienta y que actúa por hechos en cadena. Una Mafia que no tiene titular en ningún periódico como tal.  Yo soy victima de dicha Mafia, es una Mafia que basa su eje central sobre la **esclavitud**. 
 
@@ -13,6 +13,8 @@ Pertenecen a dicha estructura varias tecnologías representadas por diferentes e
 Evidentemente militares y/o funcionarios corruptos con amistades y/o familiares en familias nobles de rango dejan acceso a dichas infraestructuras utilizando un usuario de alguna persona muerta o bien ficticia para que después los datos en salida y entrada de dichos accesos sean elaborados en un centro de calculo central. 
 
 Esta instalación podría ser también ser conexa a la Iglesia Católica a través de una empresa Italiana pero no tengo acceso a esto tipo de datos.  
+
+La «Maquina» Catalana organiza las clases sociales mas necesitadas y los extranjeros sin un trabajo estable o bien estafados con el fin de caer en una clase social marginada en un estado dentro el estado aplicando leyes mafiosas y secretos a grupos de individuos con el fin de sacar el máximo provecho económico. Los individuos vienen proyectados en un mundo binario como el de las máquinas. Se aniquila la personalidad de muchos aunque se enriquece la cultura de algunos que vienen juzgados como destacados dentro del grupo. El fin último es seleccionar a través de competiciones, parecidas a encuentros de boxeo, personas que destacan por algún tipo de facultad tanto física cuanto mental. Los demás son únicamente utilizados para desarrollo tecnológico y el fin último es el suicidio o alejarlos del país. Todos ganan en una estafa piramidal así que también quien resiste a los primeros años pasa de ser un abusado a ser un abusador aunque el mismo siga siendo utilizado por parte de esta industria fantasma organizada de forma muy parecida a lo que eran los barrios industriales de la Barcelona del novecientos. Torturas y esclavitud en la sociedad catalana son hoy en día la fuente de mayor ganancia de este país. Corrupción, drogas de diseño y sentimientos los instrumentos principales de estas cadenas de montaje industrial vergonzosas donde están puestos hasta menores obligados a ver cosas horribles en este sistema mafioso y terrorista, la tecnocracia. Una enorme industria sumergida con accionistas, trabajadores cocientes, esclavos, grandes firmas de diferentes mercados, nobles y élite.  
 
 #### ¿Cual son los crímenes hechos a una persona víctima de la «Maquina» Catalana?
 
