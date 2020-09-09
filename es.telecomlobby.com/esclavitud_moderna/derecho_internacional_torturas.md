@@ -148,7 +148,9 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
 ![Miedo un estado emocional provocado en el cerebro](http://telecomlobby.com/Images/Brain_limbicsystem.webp)
 
--  Seguridad propia, miedo, fobias y ansiedad.
+-  Seguridad. **Miedo** [[29]](https://es.wikipedia.org/wiki/Miedo), **fobias** [[30]](https://es.wikipedia.org/wiki/Fobia) y **ansiedad** [[31]](https://es.wikipedia.org/wiki/Ansiedad). Todos provocados por la «maquina», y como «maquina» quiero enfocar la misma sociedad monárquica también. La seguridad de una victima o de una sociedad, la Catalana de baja extracción social, los grupos de jóvenes diferentes de los cánones comunes, los extranjeros y los marginados (y con esto quiero denotar una amplia parte de la élite de este país como franquistas) puede ser atacada de distintas formas:
+  - directos o indirectos hechos repetitivos o escalados actos de torturas, mutilación que en el caso de la «maquina» se hace a través se sensaciones obtenidas a través de radio frecuencia que actúa en órganos internos y sistema nervioso, violencia sexual típicamente infligida a mujeres con el fin de obtener otras herramientas de utilizar para el negocio del suicidio, y otros abusos contra familiares, amigos y compañeros.
+  - Retener o tergiversar información sobre el destino de las víctimas o sus seres queridos, simulacros de ejecuciones, presenciar el asesinato o la tortura real o intencionada de otros. En mi caso es desde julio 2018 que se me representa Saray, mi ex pareja, como victima de violencia sexual. Ella está presente en la aplicación neuronal de mi tortura y esclavitud. No me ha contactado nunca de forma habitual aun que sepas perfectamente mi condición de torturado. De su lado la posible coacción sobre su hija, pero dudo que se pueda considerar como inocente debido al tiempo. Es una mujer y hubiera denunciado para proteger a su sangre. En inmersión y sueños la he visualizada como tal, y la he buscada por Barcelona por mas de un año. He visualizado la ejecución de un hombre también pero el fin último era únicamente que yo llamara la policía en un ataque de pánico y fuera ingresado en un instituto de salud mental. Muchas personas que conozco participan diariamente en mensajería subliminal indicándome que ella efectivamente es victima de numerosos crímenes. No lo es y ellos lo saben. 
 
 
 
@@ -211,6 +213,12 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 27. https://es.wikipedia.org/wiki/C%C3%A1mara_de_tortura
 
 28. https://es.wikipedia.org/wiki/Verdugo
+
+29. https://es.wikipedia.org/wiki/Miedo
+
+30. https://es.wikipedia.org/wiki/Fobia
+
+31. https://es.wikipedia.org/wiki/Ansiedad
 
     
 
