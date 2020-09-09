@@ -164,7 +164,7 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
   - imposición de reglas, aquí conocida como leyes debido a que las victimas creen de vivir en un estado de competencias superiores al estado oficial (terrorismo y Mafia nada más), ilógicas. Los maquinistas las explican como interpretaciones diferentes de las leyes Españolas creando confusión mental y trastornos en los individuos objetivos.  
   - imposición a las propias victimas de opciones de vida imposibles haciendo así que participen ellos mismos en la propia tortura. Además que se inducen a ser abusadores sobre otras nuevas victimas. 
 
-  Todas estas técnicas tienen el fin último de destruir el sentido de control de las victimas. A través de torturas psicológicas continuas y sexuales puntuales por ejemplo las mujeres pierden totalmente el limite de la violencia sexual. Vienen utilizadas para orgías absurdas donde los jefes ganan sumas a seis cifras mientras que ellas se abstraen totalmente con la maquina para ser violadas brutalmente y no ponen nin denuncias. Mi ex pareja está viviendo este infierno desde hace más de diez años. Se alimenta también una completa dependencia de las victimas sobre los torturadores; me pasa levemente con ella pero sobre todo porqué se que ella no es una torturadora cociente pero ha sido construida con los años y las violencias. 
+  Todas estas técnicas tienen el fin último de destruir el sentido de control de las victimas. A través de torturas psicológicas continuas y sexuales puntuales por ejemplo las mujeres pierden totalmente el limite de la violencia sexual. Vienen utilizadas para orgías absurdas donde los jefes ganan sumas a seis cifras mientras que ellas se abstraen totalmente con la maquina para ser violadas brutalmente y no ponen nin denuncias. Mi ex pareja está viviendo este infierno desde hace más de diez años. Se alimenta también una completa dependencia de las victimas sobre los torturadores; me pasa levemente con ella pero sobre todo porqué se que ella no es una torturadora cociente pero ha sido construida con los años y las violencias. **Síndrome de Estocolmo** [[38]](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo). 
 
 
 
@@ -245,6 +245,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 36. http://shorturl.at/efAJ1
 
 37. https://es.wikipedia.org/wiki/Sue%C3%B1o_de_movimientos_oculares_r%C3%A1pidos
+
+38. https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo
 
     
 
