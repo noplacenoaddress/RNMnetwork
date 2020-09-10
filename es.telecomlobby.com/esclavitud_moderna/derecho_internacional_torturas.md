@@ -52,7 +52,7 @@ Para la elección del mecanismo a utilizar deben de tomarse en consideración, e
 - Fuerza vinculante de la resolución adoptada.
 - Plazos (algunos procedimientos están sujetos a plazos y otros no están sujetos a un plazo concreto).
 
-### Consejo de los derechos humanos A/HRC/43/49 20/3/2020
+### Naciones Unidas doc. A/HRC/43/49 20/3/2020 y comentarios sobre la situación Catalana.
 
  Acerca de las torturas. Llorando declaro que soy victima de torturas diarias desde el año 2016. De torturas a través de radio frecuencia diarias desde el **27 de Noviembre 2017**.
 
@@ -181,6 +181,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
 - Relaciones sociales y emocionales debilitadas de aislamiento, exclusiones y **traiciones** [[56]](https://es.wikipedia.org/wiki/Traici%C3%B3n). Desde que estoy en España he sido victima de una escalada de traiciones por parte de mi ex parejas y de un hombre que pertenece a esta secta dedicada al suicidio, a su vez victima. Traiciones que han escalado hasta al aislamiento y la exclusión. El hecho de ser victima de un juego al suicidio es algo que se maquina desde prácticamente toda mi vida, desde aquellos indicios que me dio mi padre, cociente que en un futuro hubiera sido puesto en dicho negocio. Por esto que he terminado frecuentando *maquinistas*, que nada más son victimas del mismo negocio que han pasado ser de abusados a abusadores. En realidad detrás de sus mascaras de torturadores hay personas victimas de marginación social. Todas estos comportamientos negativos de mi entorno más cercano en España hace parte de la tortura psicológica. Personas victimas pueden rápidamente desestabilizarse y debilitarse, es un agujero negro que los llevas a ser torturadores. Yo he combatido todo esto a través la escritura al fin de obtener un justo juicio y una compensación económica en forma de pensión por parte del Estado, Estado criminal que juega en el negocio del suicidio.  Los métodos aplicados en la cárcel del cerebro son los mismos de la cárcel, por esto que prácticamente todas las personas que he frecuentado últimamente afirman ser *franquistas*. El encerrar una persona en medio de otras de otro credo religioso o político hace parte de la esfera de las torturas psicológicas. También estoy aislado en las redes sociales donde ninguna de las personas que conozco desde hace años comenta o participa a ninguna de las publicaciones que hago. Saray me tiene bloqueado en cualquier sitio y se fue de forma emocionalmente muy violenta en 2015. Ya estaba participando a lo que hubiera sido la destrucción sistemática de mi vida y la entrada en el negocio del suicidio en su fase terminal, el desgaste de la persona debido a las interferencias en los cinco sentidos y al frecuentar *maquinistas*; ella también es una maquinista o mejor dicho una torturadora, torturadora sexual. ¿Porqué? Su vida ha sido arruinada por parte del jefe de la secta al suicidio que opera en Barcelona y prepara el campo para las apuestas mutuas donde juega la nobleza. Su vida ha sido arruinada no a caso, sus padre eran toxicómanos y los nobles han tomado como escusa el hecho que su apellido pertenece a una **casa noble** [[57]](https://es.wikipedia.org/wiki/Ducado_de_Linares). Las armas electromagnéticas de la torre de Collserola han puesto en la cárcel a Saray, una cárcel virtual donde se ha convertido en **carcelera** [[58]](https://es.wikipedia.org/wiki/Funcionario_de_prisiones), una cárcel medieval donde se practican torturas para también desgastar a los torturadores, los *maquinistas*. Quien tortura no duerme nunca. Todo es siempre y únicamente apuestas mutuas remotas sobre las vidas destruidas por la «Maquina».  Acoso, acoso de pandillas, humillaciones y acoso sexual siempre utilizados conjuntamente con la radio frecuencia para obtener la esclavitud, la tortura y el fin último que es el suicidio. Antes de ello una serie de enfermedades mentales provocadas y detenciones. 
 
+- Falta de confianza en la instituciones, arbitrariedad y **persecución** [[59]](https://es.wikipedia.org/wiki/Persecuci%C3%B3n). Errores judiciales, negligencias y corrupción. Todos ellos alimentan la «Maquina» de la esclavitud moderna, el negocio del suicidio, la creación de *maquinistas*, el nacional socialismo moderno, la diferencia entra clases sociales y la explotación de las personas por parte de la élite. Spectra, otro nombre de la tecnocracia, envenena todas las instituciones creando un estado dentro del estado terrorista basado sobre la esclavitud, la tecnología, la droga, la prostitución y los siete pecados capitales. Debido a que estás formas de torturas psicológicas vienen de mal funcionamiento de un Estado envenenado, está más que claro que en Catalunya la corrupción juega un papel fundamental, corrupción capilar muy radicada. Fracaso del poder del gobierno es lo que nos encontramos hoy en día en el territorio Catalán. 
+
   
 
 ###  External links 
@@ -300,6 +302,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 57. https://es.wikipedia.org/wiki/Ducado_de_Linares
 
 58. https://es.wikipedia.org/wiki/Funcionario_de_prisiones
+
+59. https://es.wikipedia.org/wiki/Persecuci%C3%B3n
 
     
 
