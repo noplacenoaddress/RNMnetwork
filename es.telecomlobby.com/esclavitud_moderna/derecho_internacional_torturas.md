@@ -178,12 +178,12 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 - **Trastorno del procesamiento sensorial** [[49]](https://es.wikipedia.org/wiki/Desorden_del_procesamiento_sensorial) inducido por la «Maquina». El control del ambiente y de los **sentidos** [[50]](http://shorturl.at/hkCL3) son una necesidad básica del ser humano. La red de esclavitud moderna transmitida por neuroestimuladores inalámbricos por definición provocan alteraciones sobre las actividades eléctricas neuronales, el resultado en el cuerpo humano es una interferencia a lo cinco sentidos aunque no directamente sobre ellos pero sobre el cerebro. Un crimen contra la humanidad utilizado *legalmente* pero con muchas cuestiones éticas en **ámbito militar** [[51]](http://telecomlobby.com/RNMnetwork/documents/bingo/Implicaciones_del_ambito_cognitivo_en_las_Operaciones_Militares.pdf). La sobreexcitación sensorial es un puente entra la tortura física sin rastros y la torturas psicológica. Siendo una victima de esta tecnología es posible vivir un **coma** [[52]](http://shorturl.at/hDGNW) inducido por las armas electrónicas, y yo lo he vivido dos veces en mi vida, en el 1999 y en el 2018. El hecho de actuar de forma no natural sobre los sentidos del ser humano provoca **apatía** [[53]](https://es.wikipedia.org/wiki/Apat%C3%ADa), **desorientación** [[54]](https://psiquiatria.com/glosario/desorientacion) que si prolongada puede fluir en **esquizofrenia paranoide** [[55]](https://es.wikipedia.org/wiki/Esquizofrenia_paranoide) provocada, confusión, decepción, alucinaciones y síntomas psicóticos. Aunque no detenidos, nosotros victimas somos como encarcelados en la cárcel del cerebro. Algunos *maquinistas* después practican otras formas de torturas además de la provocada por «Maquina» útiles a provocar ansiedad, incapacidad de pensar con claridad, irritabilidad, ira, total agotamiento y desesperación:
 
   - música alta
-
   - mal olores
-
   - temperaturas no confortables 
 
-    
+- Relaciones sociales y emocionales debilitados de aislamiento, exclusiones y **traiciones** [[56]](https://es.wikipedia.org/wiki/Traici%C3%B3n). Desde que estoy en España he sido victima de una escalada de traiciones por parte de mi ex parejas y de un hombre que pertenece a esta secta dedicada al suicidio, a su vez victima. Traiciones que han escalado hasta al aislamiento y la exclusión. El hecho de ser victima de un juego al suicidio es algo que se maquina desde prácticamente toda mi vida, desde aquellos indicios que me dio mi padre, cociente que en un futuro hubiera sido puesto en dicho negocio. Por esto que he terminado frecuentado maquinistas, que nada más son victimas del mismo negocio que pero han pasado ser de abusados a abusadores. En realidad detrás de sus mascaras de torturadores hay personas victimas de marginación social. Todas estos comportamientos negativos de mi entorno más cercano en España hace parte de la tortura psicológica. Personas victimas pueden rápidamente desestabilizarse y debilitarse, es un agujero negro que los llevas a ser torturadores. Yo he combatido todo esto a través la escritura al fin de obtener un justo juicio y una compensación económica en forma de pensión por parte del Estado, Estado criminal que juega en el negocio del suicidio.  Los métodos aplicados en la cárcel del cerebro son los mismos de la cárcel, por esto que prácticamente todas las personas que he frecuentado últimamente afirman ser franquistas. El encerrar una persona en medio de otras de otro credo religioso o político hace parte de la esfera de las torturas psicológicas. También estoy aislado en las redes sociales donde ninguna de las personas que conozco desde hace años comenta o participa a ninguna de las publicaciones que hago. Saray me tiene bloqueado en cualquier sitio y se fue de forma emocionalmente muy violenta en 2015. Ya estaba participando a lo que hubiera sido la destrucción sistemática de mi vida y la entrada en el negocio del suicidio en su fase terminal, el desgaste de la persona debido a las interferencias en los cinco sentidos y al frecuentar *maquinistas*, ella también es una maquinista o mejor dicho una torturadora, torturadora sexual. ¿Porqué? Su vida ha sido arruinada por parte del jefe de la secta al suicidio que opera en Barcelona y prepara el campo para las apuestas mutuas donde juega la nobleza. Su vida ha sido arruinada no a caso, sus padre eran toxicómanos. 
+
+  
 
 ###  External links 
 
@@ -296,6 +296,8 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 54. https://psiquiatria.com/glosario/desorientacion
 
 55. https://es.wikipedia.org/wiki/Esquizofrenia_paranoide
+
+56. https://es.wikipedia.org/wiki/Traici%C3%B3n
 
     
 
