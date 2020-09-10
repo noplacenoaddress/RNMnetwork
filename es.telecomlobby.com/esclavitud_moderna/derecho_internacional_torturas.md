@@ -1,8 +1,6 @@
-# ¿Como denunciar la «Maquina»?
+# Derecho internacional sobre las torturas
 
 ![Tribunal de Estrasburgo](http://telecomlobby.com/Images/tribunal_estrasburgo_derechos_humanos.webp)
-
-*Página elaborada gracias al inmenso trabajo del portal web **derechoshumanos.net***
 
 En Cataluña, comunidad autónoma de España territorio donde estoy empadronado, los pasos a seguir para denunciar los **crímenes de la «Maquina»** [[1]](http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm) son los siguientes:
 
