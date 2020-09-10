@@ -175,7 +175,15 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 
 ![](http://telecomlobby.com/Images/carcel_cerebro.webp)
 
-- **Trastorno del procesamiento sensorial** [[49]](https://es.wikipedia.org/wiki/Desorden_del_procesamiento_sensorial) inducido por la «Maquina». El control del ambiente y de los **sentidos** [[50]](http://shorturl.at/hkCL3) son una necesidad básica del ser humano. La red de esclavitud moderna transmitida por neuroestimuladores inalámbricos por definición provocan alteraciones sobre las actividades eléctricas neuronales, el resultado en el cuerpo humano es una interferencia a lo cinco sentidos aunque no directamente sobre ellos pero sobre el cerebro. Un crimen contra la humanidad utilizado *legalmente* pero con muchas cuestiones éticas en **ámbito militar** [[51]](http://telecomlobby.com/RNMnetwork/documents/bingo/Implicaciones_del_ambito_cognitivo_en_las_Operaciones_Militares.pdf). 
+- **Trastorno del procesamiento sensorial** [[49]](https://es.wikipedia.org/wiki/Desorden_del_procesamiento_sensorial) inducido por la «Maquina». El control del ambiente y de los **sentidos** [[50]](http://shorturl.at/hkCL3) son una necesidad básica del ser humano. La red de esclavitud moderna transmitida por neuroestimuladores inalámbricos por definición provocan alteraciones sobre las actividades eléctricas neuronales, el resultado en el cuerpo humano es una interferencia a lo cinco sentidos aunque no directamente sobre ellos pero sobre el cerebro. Un crimen contra la humanidad utilizado *legalmente* pero con muchas cuestiones éticas en **ámbito militar** [[51]](http://telecomlobby.com/RNMnetwork/documents/bingo/Implicaciones_del_ambito_cognitivo_en_las_Operaciones_Militares.pdf). La sobreexcitación sensorial es un puente entra la tortura física sin rastros y la torturas psicológica. Siendo una victima de esta tecnología es posible vivir un **coma** [[52]](http://shorturl.at/hDGNW) inducido por las armas electrónicas, y yo lo he vivido dos veces en mi vida, en el 1999 y en el 2018. El hecho de actuar de forma no natural sobre los sentidos del ser humano provoca **apatía** [[53]](https://es.wikipedia.org/wiki/Apat%C3%ADa), **desorientación** [[54]](https://psiquiatria.com/glosario/desorientacion) que si prolongada puede fluir en **esquizofrenia paranoide** [[55]](https://es.wikipedia.org/wiki/Esquizofrenia_paranoide) provocada, confusión, decepción, alucinaciones y síntomas psicóticos. Aunque no detenidos, nosotros victimas somos como encarcelados en la cárcel del cerebro. Algunos *maquinistas* después practican otras formas de torturas además de la provocada por «Maquina» útiles a provocar ansiedad, incapacidad de pensar con claridad, irritabilidad, ira, total agotamiento y desesperación:
+
+  - música alta
+
+  - mal olores
+
+  - temperaturas no confortables 
+
+    
 
 ###  External links 
 
@@ -280,6 +288,14 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 50. http://shorturl.at/hkCL3
 
 51. http://telecomlobby.com/RNMnetwork/documents/bingo/Implicaciones_del_ambito_cognitivo_en_las_Operaciones_Militares.pdf
+
+52. http://shorturl.at/hDGNW
+
+53. https://es.wikipedia.org/wiki/Apat%C3%ADa
+
+54. https://psiquiatria.com/glosario/desorientacion
+
+55. https://es.wikipedia.org/wiki/Esquizofrenia_paranoide
 
     
 
