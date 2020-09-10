@@ -165,14 +165,17 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
   Todas estas técnicas tienen el fin último de destruir el sentido de control de las victimas. A través de torturas psicológicas continuas y sexuales puntuales por ejemplo las mujeres pierden totalmente el limite de la violencia sexual. Vienen utilizadas para orgías absurdas donde los jefes ganan sumas a seis cifras mientras que ellas se abstraen totalmente con la maquina para ser violadas brutalmente y no ponen nin denuncias. Mi ex pareja está viviendo este infierno desde hace más de diez años. Se alimenta también una completa dependencia de las victimas sobre los torturadores; me pasa levemente con ella pero sobre todo porqué se que ella no es una torturadora cociente pero ha sido construida con los años y las violencias. **Síndrome de Estocolmo** [[38]](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo). 
 
 - **Dignidad** [[39]](https://es.wikipedia.org/wiki/Dignidad) y identidad, humillaciones, rotura de privacidad y **integridad sexual** [[40]](http://telecomlobby.com/RNMnetwork/documents/integridad_sexual_delitos.pdf). La autoestima es totalmente debilitada por parte de los *maquinistas* de la red neuronal atacando fuertemente los puntos previamente indicados. Es tortura, no os equivoquéis. Un crimen contra la humanidad. El DOMINT rompe totalmente la privacidad en todas sus formas, todo nuestro cuerpo, sensaciones, pensamientos y ideas son leídas por parte de los torturadores. La integridad sexual viene metida a riesgo siempre por parte de la tecnología porqué los perpetradores del crimen del negocio del suicidio con la radio frecuencia controlan la erección en el pene masculino y la sobre excitación tanto en hombres cuanto mujeres. Otras técnicas añadidas a la tecnología son:
+  
   - **Poner en la picota** [[41]](shorturl.at/EHQW5) la victima en clave moderna. Internet, grafiti, alusiones continuas en medios de telecomunicaciones públicos de cadenas privadas (absurdo pero totalmente cierto). **Memes** [[42]](https://es.wikipedia.org/wiki/Meme_de_internet). 
   - Continuo estimulo sexual a través de radio frecuencia por parte de los maquinistas al fin de forzar las victimas a la masturbación que no es exactamente pública pero es vista por todas las personas que participan en la aplicación neuronal de torturas. La **masturbación** [[43]](https://es.wikipedia.org/wiki/Masturbaci%C3%B3n) no es absolutamente ningún tipo de tortura y es un practica sexual normal, en algunos individuos puede ser causa de vergüenza propia sobre todo porqué son presentes los padres y la familia en este ambiente de tortura. También los padres de todas las personas que se conocen. 
+  - **Acoso sexual** [[44]](https://es.wikipedia.org/wiki/Acoso_sexual) continuo en red neuronal y en imágenes inyectadas dentro de la corteza visual. En mi caso ha habido insinuaciones de que mi ex pareja haya sido violada por grupos, animales y mis mismos padres.
+  - Publicación de imágenes pornográficas de la victima. En mi caso los acosadores indican que yo y Saray, mi ex, somos la misma aplicación neuronal que ellos llaman  «Maquina». Los dos tenemos el identificativo número *nueve*. A este identificativo corresponden históricas historias de esclavitud, o sea que el hilo conductor de la búsqueda de la mujer amada es algo utilizado desde antes de Cristo. Siendo la misma aplicación los dos somos victimas pero debido a que vivimos época moderna  la mujer no lo es del todo si no que hace muchos años ha sido convencida a participar a esto tipo de falsos juegos de los cuales se saca provecho a través de esclavitud. Probablemente en la Iglesia o por parte de exponentes de la nobleza local. Sobre ella he encontrado varias imágenes de pornografía en los portales **xCHAN**, asquerosos foros donde hay una serie de mujeres refiguradas como torturadas sexualmente. También menores. Todas son victimas de la nobleza.
+  
+  Las técnicas sobre indicadas provocan humillación en la victima, que aunque se me haga creer que somos dos personas soy únicamente yo. Son 	torturas. La violación prolongada de la privacidad, de la dignidad y de la sexualidad son causas de severas enfermedades mentales. Fluyen en la exclusión social y en el suicidio, lo cual, en el caso de la «Maquina», es homicidio con premeditación. Todos los participantes a la aplicación neuronal son **instigadores** [[45]](https://dle.rae.es/instigar), **cómplices** [[46]](https://dle.rae.es/c%C3%B3mplice) y siendo participes a un crimen complejo donde hay más de dos personas es, sin ninguna duda, **Mafia** [[47]](https://es.wikipedia.org/wiki/Mafia). La tecnocracia es terrorismo y **crimen organizado** [[48]](https://es.wikipedia.org/wiki/Delincuencia_organizada). 
 
 ![](http://telecomlobby.com/Images/carcel_cerebro.webp)
 
-
-
- 
+- **Trastorno del procesamiento sensorial** [[49]](https://es.wikipedia.org/wiki/Desorden_del_procesamiento_sensorial) inducido por la «Maquina». El control del ambiente y de los **sentidos** [[50]](http://shorturl.at/hkCL3) son una necesidad básica del ser humano. La red de esclavitud moderna transmitida por neuroestimuladores inalámbricos por definición provocan alteraciones sobre las actividades eléctricas neuronales, el resultado en el cuerpo humano es una interferencia a lo cinco sentidos aunque no directamente sobre ellos pero sobre el cerebro. Un crimen contra la humanidad utilizado *legalmente* pero con muchas cuestiones éticas en **ámbito militar** [[51]](http://telecomlobby.com/RNMnetwork/documents/bingo/Implicaciones_del_ambito_cognitivo_en_las_Operaciones_Militares.pdf). 
 
 ###  External links 
 
@@ -261,6 +264,22 @@ Las torturas psicológicas son como hemos visto normalmente una suma de varias d
 42. https://es.wikipedia.org/wiki/Meme_de_internet
 
 43. https://es.wikipedia.org/wiki/Masturbaci%C3%B3n
+
+44. https://es.wikipedia.org/wiki/Acoso_sexual
+
+45. https://dle.rae.es/instigar
+
+46. https://dle.rae.es/c%C3%B3mplice
+
+47. https://es.wikipedia.org/wiki/Mafia
+
+48. https://es.wikipedia.org/wiki/Delincuencia_organizada
+
+49. https://es.wikipedia.org/wiki/Desorden_del_procesamiento_sensorial
+
+50. http://shorturl.at/hkCL3
+
+51. http://telecomlobby.com/RNMnetwork/documents/bingo/Implicaciones_del_ambito_cognitivo_en_las_Operaciones_Militares.pdf
 
     
 
