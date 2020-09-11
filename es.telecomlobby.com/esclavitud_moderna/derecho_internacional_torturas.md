@@ -183,6 +183,14 @@ Relaciones sociales y emocionales debilitadas de aislamiento, exclusiones y **tr
 
 Falta de confianza en la instituciones, arbitrariedad y **persecución** [[59]](https://es.wikipedia.org/wiki/Persecuci%C3%B3n). Errores judiciales, negligencias y corrupción. Todos ellos alimentan la «Maquina» de la esclavitud moderna, el negocio del suicidio, la creación de *maquinistas*, el nacional socialismo moderno, la diferencia entra clases sociales y la explotación de las personas por parte de la élite. Spectra, otro nombre de la tecnocracia, envenena todas las instituciones creando un estado dentro del estado terrorista basado sobre la esclavitud, la tecnología, la droga, la prostitución y los siete pecados capitales. Debido a que estás formas de torturas psicológicas vienen de mal funcionamiento de un Estado envenenado, está más que claro que en Catalunya la corrupción juega un papel fundamental, corrupción capilar muy radicada. Fracaso del poder del gobierno es lo que nos encontramos hoy en día en el territorio Catalán. 
 
+La corrupción y la tortura van de par paso. El tratado **A/HRC/40/59** [[60]](http://telecomlobby.com/RNMnetwork/documents/G1900778.pdf) que analizamos en el siguiente capitulo es dedicado en su totalidad a esta relación enfermiza. En Catalunya la tecnocracia ha diseminado corrupción en todos los organismos públicos, es una vergüenza y los ciudadanos Catalanes de clase media, **burguesía** [[61]](https://es.wikipedia.org/wiki/Burgues%C3%ADa), la clase que produce y trabaja no es informada sobre de ello. La tecnocracia se ocupa, como ya he repetido muchas veces, de explotar en forma esclavista la clase baja y los marginados sociales. En ella pero se encuentran también personas que conocen profundamente los problemas debidos a esta Mafia de explotación, y debido a que soy una victima de una estafa articulada y de haber sido inserido dentro del negocio del suicidio he tenido la ocasión y el placer de frecuentar algunos de ellos. Algunos presentan evidentes problemas debido al hecho de haber sido utilizados en calidad de torturadores, otros son luchadores muy experimentados que han vivido la pobreza extrema engañando a los tecnocratas para documentar y ayudar las personas caídas en este agujero esclavista. Debido a la corrupción se obtienen detenciones arbitrarias tanto en cárceles cuanto en institutos psiquiátricos, personalmente he vivido las dos experiencias y en el hospital psiquiátrico me han dado también palizas y me han querido violar desde el hospital al denunciar el caso de mala sanidad adjuntan que había tomado drogas cosa absolutamente falsa ya que no había consumido ningún tipo de estupefaciente. Consecuencias de estos abusos son:
+
+- Desaparición forzada, debida al hecho que las autoridades no admiten haber encarcelado la persona.
+- Detección coactiva, varias detenciones, parecido a lo que ha vivido el padre de mi primera pareja en España, con el fin de romper el individuo. Su alma.
+- Penas crueles y inhumanas. Incompatibles con los principios de justicia y humanidad.
+
+También soy victima de confinamiento civil debido al hecho que nadie de las personas que conozco me hacen participe de sus vidas desde que mi tortura empezó el 27 de Noviembre de 2017. Alguien, cuando he llegado a vivir hasta en la calle, hasta me denegó un techo donde dormir. Alguien que cuidé personalmente en muchas ocasiones. Una evidencia abrumadora de que esta persona es una esclavo de la tecnocracia. También mi ex pareja que tanto busqué pensando de que estuviera viviendo una situación de peligro y de violencia sexual en mano a una banda de panderetas y bandoleros  me bloqueó de cualquier relación social mientras que en red neuronal me acosa continuamente. Acoso que desde una lado me hace mucho placer debido al amor que le tengo que pero sin duda ninguna es un crimen y es violencia de genero contra un hombre. Ella me contestó a una llamada justo antes de empezar la persecución. Ella es totalmente cociente de todo lo que he vivido pero siendo una esclava de la tecnocracia esta haciendo toda una serie de crímenes contra mi persona que tienen que ser visto por un juez como debido a su ignorancia y al hecho que considera la nobleza como seres superiores respecto a los ciudadanos. Creencia totalmente equivocado ya que existe el principio de **igualdad delante de la ley** [[62]](https://es.wikipedia.org/wiki/Igualdad_ante_la_ley) seriamente roto por la corrupción. Siendo España una **monarquía parlamentaria** [[63]](https://es.wikipedia.org/wiki/Monarqu%C3%ADa_parlamentaria) *el rey reina pero no gobierna* es un principio fundamental aunque en su código penal tengan un apartado de leyes hechas a medidas para ellos. El poder de los reyes es bajo el control de **poder legislativo** [[64]](https://es.wikipedia.org/wiki/Poder_legislativo) y del **poder ejecutivo** [[65]](https://es.wikipedia.org/wiki/Poder_ejecutivo). ¿Que pasa en España? La corona en calidad de jefes de la nobleza conjuntamente a todas las familias nobles Europeas a través de la *tecnocracia*, trasmitida vía radio utilizando los neuroestimuladores inalámbricos de la torre de Collserola en Barcelona, comunidad autónoma de Catalunya, y de una corrupción muy radicada obtienen una forma de **aristocracia** [[66]](https://es.wikipedia.org/wiki/Aristocracia) vigente no legislada que actúa únicamente como estado esclavista en las clases bajas. Nadie lo habla porqué aquí la ignorancia y el miedo no permiten que estas victimas hagan publico los abusos y sufrimientos que han vivido, otros burgueses como mis padres se aprovechan de esta situación para sacar provecho de estas personas, otros los nobles son accionistas de este imperio del terror. Mi ex pareja es victima de una banda de panderetas mandados de la tecnocracia, obtienen de ellos protección para trafico de drogas, inmunidad judicial a través corrupción y a cambio montan estafas donde se juega al suicidio con ciudadanos Europeos como yo y donde la nobleza juega en apuestas mutuas remotas. Estos juegos son preparados observando las victimas por decenios a través los ojos de otras victimas que vienen utilizadas como cámaras humanas al fin de conocer profundamente las actitudes de un individuo obyecto. 
+
 
 
 
@@ -306,6 +314,20 @@ Falta de confianza en la instituciones, arbitrariedad y **persecución** [[59]](
 58. https://es.wikipedia.org/wiki/Funcionario_de_prisiones
 
 59. https://es.wikipedia.org/wiki/Persecuci%C3%B3n
+
+60. http://telecomlobby.com/RNMnetwork/documents/G1900778.pdf
+
+61. https://es.wikipedia.org/wiki/Burgues%C3%ADa
+
+62. https://es.wikipedia.org/wiki/Igualdad_ante_la_ley
+
+63. https://es.wikipedia.org/wiki/Monarqu%C3%ADa_parlamentaria
+
+64. https://es.wikipedia.org/wiki/Poder_legislativo
+
+65. https://es.wikipedia.org/wiki/Poder_ejecutivo
+
+66. https://es.wikipedia.org/wiki/Aristocracia
 
     
 
