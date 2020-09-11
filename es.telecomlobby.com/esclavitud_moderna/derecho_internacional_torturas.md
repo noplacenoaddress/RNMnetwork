@@ -207,7 +207,7 @@ Hay que subrayar que las torturas psicológicas son pensadas según las victimas
 
 ![Alteraciones cognitivas](http://telecomlobby.com/Images/alteraciones_cognitivas.webp)
 
-> Quisiera indicar a los lectores que soy un civil, ciudadano Europeo nacido en Italia con residencia en España. Quisiera indicar que soy victima de tortura físicas sin rastros, tortura psicológica, cibertortura a través de neuroestimuladores inalámbricos, acoso de pandillas, intento de asesinado, Mafia y de un estado dentro del estado Español llamado tecnocracia. El todo para encubrir un estafa muy articulada de la nobleza contra mi persona. Soy victima del negocio al suicidio. Mis torturadores son personas a sus veces victimas dentro de los cuales hay también una mujer que amo. Saray. Mujer maravillosa utilizada por parte de la tecnocracia bajo coacción continua.
+> Quisiera indicar a los lectores que soy un civil, ciudadano Europeo nacido en Italia con residencia en España. Quisiera indicar que soy victima de tortura físicas sin rastros, tortura psicológica, cibertortura a través de neuroestimuladores inalámbricos, acoso de pandillas, intento de asesinado, Mafia y de un estado dentro del estado Español llamado tecnocracia. El todo para encubrir un estafa muy articulada de la nobleza contra mi persona. Soy victima del negocio del suicidio. Mis torturadores son personas a sus veces victimas dentro de los cuales hay también una mujer que amo. Saray. Mujer maravillosa utilizada por parte de la tecnocracia bajo coacción continua.
 >
 
 
