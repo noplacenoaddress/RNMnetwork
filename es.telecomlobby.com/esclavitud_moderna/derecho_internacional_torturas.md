@@ -212,6 +212,8 @@ Hay que subrayar que las torturas psicológicas son pensadas según las victimas
 
 La cibertortura no ha tenido la suficiente atención por parte de los organismos internacionales, como tal se define tortura sin rastros y psicológicas a través de varios medios tecnológicos (radio frecuencia, Internet, televisión). La tortura ha de ser entendida como una herramienta utilizada para Estados absolutistas para limitar el derecho a la libertad de expresión. En España es utilizada para fines esclavistas y para delimitar fuertemente la diferencias de clases sociales de manera similar  al modelo Indiano.  
 
+En España la cibertortura es transmitida en parte a través de la torre de Collserola en frecuencias VLF utilizando armas electromagnéticas, o sea radios, llamadas neuroestimuladores inalámbricos. Es la puerta de acceso a la tecnocracia, donde nobles y la élite *juegan* sobre la vida de seres humanos de baja extracción social explotándolos con fines económicos. 
+
 
 
 ###  External links 
