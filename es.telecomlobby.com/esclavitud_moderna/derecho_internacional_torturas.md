@@ -201,6 +201,12 @@ Parece tan absurdo pero el negocio al suicidio funciona de esta manera y es orga
 
 > Ya que no estoy relevando ningún tipo de secreto mayor que el secreto de voto mi pagina es absolutamente legal. El secreto de voto en democracia es mas importante de cualquier secreto de estado. La realidad es que en Europa debido a la tecnocracia no existe la democracia desde hace mucho tiempo, por lo menos veinticinco años. 
 
+Hay que subrayar que las torturas psicológicas son pensadas según las victimas en mi caso no teniendo relaciones sexuales siempre se me hace alusión a la masturbación y muchas personas me hablan de esta manera. Cosa absurda porqué no tengo ya que Saray está constantemente con migo y que cuando hace dos años he tenido una aventura la chica con la cual la tuve la encontré inmediatamente publicada en los portales **xCHAN**. O sea que no tengo para evitar que mujeres vengan torturadas a sus veces en estos foros públicos.  
+
+#### Cibertortura
+
+![Alteraciones cognitivas](http://telecomlobby.com/Images/alteraciones_cognitivas.webp)
+
 
 
 
