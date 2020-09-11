@@ -210,6 +210,8 @@ Hay que subrayar que las torturas psicológicas son pensadas según las victimas
 > Quisiera indicar a los lectores que soy un civil, ciudadano Europeo nacido en Italia con residencia en España. Quisiera indicar que soy victima de tortura físicas sin rastros, tortura psicológica, cibertortura a través de neuroestimuladores inalámbricos, acoso de pandillas, intento de asesinado, Mafia y de un estado dentro del estado Español llamado tecnocracia. El todo para encubrir un estafa muy articulada de la nobleza contra mi persona. Soy victima del negocio del suicidio. Mis torturadores son personas a sus veces victimas dentro de los cuales hay también una mujer que amo. Saray. Mujer maravillosa utilizada por parte de la tecnocracia bajo coacción continua.
 >
 
+La cibertortura no ha tenido la suficiente atención por parte de los organismos internacionales, como tal se define tortura sin rastros y psicológicas a través de varios medios tecnológicos (radio frecuencia, Internet, televisión). La tortura ha de ser entendida como una herramienta utilizada para Estados absolutistas para limitar el derecho a la libertad de expresión. En España es utilizada para fines esclavistas y para delimitar fuertemente la diferencias de clases sociales de manera similar  al modelo Indiano.  
+
 
 
 ###  External links 
