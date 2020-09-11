@@ -11,7 +11,7 @@ Antes de presentar una denuncia por violación de derechos humanos, ante instanc
 No obstante lo anterior, debe señalarse que, en determinadas casos y en determinadas circunstancias, es posible acudir ante instancias internacionales sin haber agotado los recursos judiciales internos, pudiendo citarse, entre otras, las siguientes **excepciones** a la exigencia del agotamiento de los recursos judiciales internos:
 
 - Hay determinados órganos de vigilancia y control, como por ejemplo el **Relator especial de la ONU contra la Tortura** [[2]](https://www.ohchr.org/SP/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx) ante los que es posible acudir sin necesidad de agotar los recursos judiciales internos.
-- Los organismos y mecanismos que exigen el agotamiento de la vía jurisdiccional interna, suelen contemplar, sin embargo, la posibilidad de acudir, como excepción, ante ellos, cuando la vía interna se muestre ineficaz o se pueda prolongar injustificadaSmente. En mi caso por ejemplo la justicia publica parece no funcionar correctamente. La aristocracia está haciendo de tapón bloqueando mis denuncias en juzgados de guardias. Es un caso de corrupción escandaloso.
+- Los organismos y mecanismos que exigen el agotamiento de la vía jurisdiccional interna, suelen contemplar, sin embargo, la posibilidad de acudir, como excepción, ante ellos, cuando la vía interna se muestre ineficaz o se pueda prolongar injustificadamente. En mi caso por ejemplo la justicia publica parece no funcionar correctamente. La aristocracia está haciendo de tapón bloqueando mis denuncias en juzgados de guardias. Es un caso de corrupción escandaloso.
 
 Debe prestarse especial atención a la exigencia de agotamiento de los recursos judiciales internos puesto que, en ocasiones, los plazos establecidos por la legislación interna de cada país para poder denunciar y recurrir determinadas violaciones de derechos son plazos muy breves.
 
@@ -213,6 +213,8 @@ Hay que subrayar que las torturas psicológicas son pensadas según las victimas
 La cibertortura no ha tenido la suficiente atención por parte de los organismos internacionales, como tal se define tortura sin rastros y psicológicas a través de varios medios tecnológicos (radio frecuencia, Internet, televisión). La tortura ha de ser entendida como una herramienta utilizada para Estados absolutistas para limitar el derecho a la libertad de expresión. En España es utilizada para fines esclavistas y para delimitar fuertemente la diferencias de clases sociales de manera similar  al modelo Indiano.  
 
 En España la cibertortura es transmitida en parte a través de la torre de Collserola en frecuencias VLF utilizando armas electromagnéticas, o sea radios, llamadas neuroestimuladores inalámbricos. Es la puerta de acceso a la tecnocracia, donde nobles y la élite *juegan* sobre la vida de seres humanos de baja extracción social explotándolos con fines económicos. Estas armas actúan sobre los cinco sentidos de las victimas alterando las actividades eléctricas de las neuronas de sus cerebros y del mio, ya que soy uno de ellos. Todo viene elaborado en clúster de ordenadores y mezclado con una gran cantidad de inteligencia artificial. Las victimas somos conejillos de India para el desarrollo de tecnología militar, neurotecnología y otras aplicaciones como robótica y así diciendo. Estado, militares y élite son totalmente culpable de encubrir un campo de concentración moderno donde mueren y sufren millones de personas.
+
+
 
 
 
