@@ -216,7 +216,11 @@ En España la cibertortura es transmitida en parte a través de la torre de Coll
 
 La red de monitorio neuronal ofrece un ambiente muy conducente al abuso y la explotación, garantiza anonimado y **impunidad** [[72]](https://es.wikipedia.org/wiki/Impunidad). En este ambiente hijos de perseguidos vienen conectados al nacimiento y llegados a unos cinco añitos empiezan a ser abusados tanto mentalmente, cuanto sus sueños les vienen robados, cuanto sexualmente. Es un ambiente donde la pederastia es algo impune. Estados, hombres de negocios y crimen organizado tienen la posibilidad de cumplir torturas sobre campos de victimas tanto por **sadismo** [[73]](https://es.wikipedia.org/wiki/Sadismo) de muchos enfermos, enfermedad utilizada por altos cargos de Iglesia y Estado al fin de llegar a un plan general, cuanto para conseguir algo de la o un grupo de victima sea ello pruebas para tecnología o cambio comportamental tanto politico cuanto obtener la moldeación de un esclavo. 
 
-Los neuroestimuladores inalámbricos son una versión todavía no conocida publicamente y activa desde hace por lo menos veinte años y en continuo desarrollo de lo que hoy en día **DARPA** [[74]](https://es.wikipedia.org/wiki/Agencia_de_Proyectos_de_Investigaci%C3%B3n_Avanzados_de_Defensa) llama **neurotecnología no quirúrgica de próxima generación** [[75]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology) en Catalunya utilizada para crear un estado dentro el estado regulado por leyes no escritas practicamente medievales llamado tecnocracia. La tecnología activa activa en Catalunya además es un sistema de vilangia masiva ilegal que ha eliminado el derecho de voto en todo el pueblo Catalano. Aunqué hayan la mayoría de catalanes no conectados de forma active a la red, la forma pasiva existe y seguramente abarca toda la popolación. 
+Los neuroestimuladores inalámbricos son una versión todavía no conocida públicamente y activa desde hace por lo menos veinte años y en continuo desarrollo de lo que hoy en día **DARPA** [[74]](https://es.wikipedia.org/wiki/Agencia_de_Proyectos_de_Investigaci%C3%B3n_Avanzados_de_Defensa) llama **neurotecnología no quirúrgica de próxima generación** [[75]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology) en Catalunya utilizada para crear un estado dentro el estado regulado por leyes no escritas prácticamente medievales llamado tecnocracia. La tecnología activa activa en Catalunya además es un sistema de vigilancia masiva ilegal que ha eliminado el derecho de voto en todo el pueblo Catalano. Aunqué la mayoría de catalanes no sean  conectados de forma active a la red, la forma pasiva existe y seguramente abarca toda la población. De la red de monitorio neuronal se sacan imágenes intimidatorias, difamatorias, degradantes y engañosas. De notar como la palabra degradante sea estrictamente conexa con la palabra tortura. 
+
+Las victimas de la cibertortura (vigilancia masiva en modalidad de lectura y estimulación externa de estados neuronales de sus cerebros) sufren de impotencia de la mismas formas de la cual sufren personas encarceladas. La cárcel del cerebro Catalana provoca en sus detenidos provoca secuelas aun peores porqué las leyes carcelarias son de raíz Medieval. Amigos mios a causa de la tecnocracia están viviendo el infierno de la cárcel común más la cárcel del cerebro Catalana repetida en Italia por parte de la marquesa Francesa que vive en Genova.
+
+Es muy importante entender que todo lo que las victimas de la tecnocracia, también aquellos que tienen acceso a la «Maquina», son victimas de torturas y crímenes contra la humanidad. Todo lo que se llama **human enhancement** [[76]](https://en.wikipedia.org/wiki/Human_enhancement) es interferencia en las actividades cerebrales de las personas.
 
 
 
@@ -373,6 +377,8 @@ Los neuroestimuladores inalámbricos son una versión todavía no conocida publi
 74. https://es.wikipedia.org/wiki/Agencia_de_Proyectos_de_Investigaci%C3%B3n_Avanzados_de_Defensa
 
 75. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology
+
+76. https://en.wikipedia.org/wiki/Human_enhancement
 
     
 
