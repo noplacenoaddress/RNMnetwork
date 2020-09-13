@@ -222,6 +222,10 @@ Las victimas de la cibertortura (vigilancia masiva en modalidad de lectura y est
 
 Es muy importante entender que todo lo que las victimas de la tecnocracia, también aquellos que tienen acceso a la «Maquina», son victimas de torturas y crímenes contra la humanidad. Todo lo que se llama **human enhancement** [[76]](https://en.wikipedia.org/wiki/Human_enhancement) es interferencia en las actividades cerebrales de las personas.
 
+### Effective multilateralism in the Fight Against Torture: trends in the OSCE region and the way forward September 2019
+
+![OCSE region](http://telecomlobby.com/Images/OSCE_acts_signatories.webp)
+
 
 
 
