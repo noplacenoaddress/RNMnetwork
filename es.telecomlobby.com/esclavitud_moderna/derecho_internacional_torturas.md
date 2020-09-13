@@ -240,7 +240,15 @@ Para aniquilar cualquier forma de tortura tanto los Estados cuantos ciudadanos o
 
 Adoptar tolerancia cero acerca de practicas de torturas. Sabiendo que el territorio Catalán es explotado por parte de la tecnocracia Andorrana vía neuroestimuladores inalámbricos haciendo de inmigrantes Andaluces, extranjeros, clase obrera esclavos obligados a dedicarse al mercado de la droga subdividiendo en territorios la región autónoma y que se utiliza la cibertortura y la tortura física sin rastros y las palizas para obtener este fin y que tanto la generalitat de Catalunya cuanto el estado Español conoce este crimen contra la humanidad, diría yo que estamos muy lejos de poder hablar de este país como un país democrático. La herramienta principal de la Mafia de la tecnocracia Andorrana es la corrupción de funcionarios públicos y pagar ciudadanos para comportarse de una cierta manera de forma colectiva contra una o más victimas. Es una Mafia que utiliza el dinero, o sea una Mafia donde las mujeres juegan un papel principal. Es una Mafia que se puede atacar sin duda ninguna a través de investigaciones sobre blanqueo de capitales y trafico de drogas. Utiliza pequeñas empresas abiertas rápidamente para sucios tráficos de drogas y blanqueos normalmente utilizando personas que tienen documentos extra europeos.  
 
-Asegurarse que quien denuncie públicamente casos de torturas pueda trabajar en un ambiente seguro y tenga acceso a personal cualificado totalmente libre de corrupción. Esto es un obligo del Estado Español que pero a su vez es una monarquía así que se encuentra un poco en contradicción ya que la tecnocracia ha sido creada por parte de nobles de rango menor. Las figuras de las cuales se necesita son profesionales de seguridad, otras victimas en estado mental lucido, personal medico, **defensores internacionales de los derechos humanos** [[80]](http://telecomlobby.com/RNMnetwork/documents/300846.pdf)
+Asegurarse que quien denuncie públicamente casos de torturas pueda trabajar en un ambiente seguro y tenga acceso a personal cualificado totalmente libre de corrupción. Esto es un obligo del Estado Español que pero a su vez es una monarquía así que se encuentra un poco en contradicción ya que la tecnocracia ha sido creada por parte de nobles de rango menor. Las figuras de las cuales se necesita son profesionales de seguridad, otras victimas en estado mental lucido, personal medico, **defensores internacionales de los derechos humanos** [[80]](http://telecomlobby.com/RNMnetwork/documents/300846.pdf) y otros actores de la lucha contra la Mafia, Mafia creada por nobles de bajo rango y dirigida por la Iglesia Católica. El Estado es laico, señores.
+
+El DOMINT es tortura dentro de las muras de las casas de los ciudadanos. Importantes documentos el **OPCAT** [[81]](https://en.wikipedia.org/wiki/Optional_Protocol_to_the_Convention_against_Torture) y el los mecanismos de prevención nacional **NPM** [[82]](https://www.ohchr.org/EN/HRBodies/OPCAT/Pages/NationalPreventiveMechanisms.aspx) que en el caso de España son ejercidos por parte del **defensor del pueblo** [[83]](http://telecomlobby.com/RNMnetwork/documents/Spain_04-02-10.pdf). 
+
+Los Estados tienen que hacer parte del **grupo de amigos de la CTI** [[84]](http://telecomlobby.com/RNMnetwork/documents/20200106_Grupo%20de%20Amigos%20CTI_SP.pdf) y avalar organizaciones societarias civiles internacionales y regionales. 
+
+Tienen que reconocer la competencia del **CAT** [[85]](https://www.ohchr.org/en/hrbodies/cat/pages/catindex.aspx) debajo del articulo 22
+
+
 
 ###  External links 
 
@@ -403,6 +411,16 @@ Asegurarse que quien denuncie públicamente casos de torturas pueda trabajar en 
 79. https://es.wikipedia.org/wiki/Manifiesto
 
 80. http://telecomlobby.com/RNMnetwork/documents/300846.pdf
+
+81. https://en.wikipedia.org/wiki/Optional_Protocol_to_the_Convention_against_Torture
+
+82. https://www.ohchr.org/EN/HRBodies/OPCAT/Pages/NationalPreventiveMechanisms.aspx
+
+83. http://telecomlobby.com/RNMnetwork/documents/Spain_04-02-10.pdf
+
+84. http://telecomlobby.com/RNMnetwork/documents/20200106_Grupo%20de%20Amigos%20CTI_SP.pdf
+
+85. https://www.ohchr.org/en/hrbodies/cat/pages/catindex.aspx
 
     
 
