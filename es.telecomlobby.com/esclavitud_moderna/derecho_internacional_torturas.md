@@ -226,9 +226,21 @@ Es muy importante entender que todo lo que las victimas de la tecnocracia, tambi
 
 ![OCSE region](http://telecomlobby.com/Images/OSCE_acts_signatories.webp)
 
+*«nadie tendría que ser sujeto a torturas o otros tratamientos o castigo cruel, inhumano o degradante»*
 
+Una amplia red de mecanismos contra las torturas está controlando y subiendo la conciencia prohibiéndolas a nivel internacional, regional y local. Aunque en las regiones **OSCE** [[77]](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Seguridad_y_la_Cooperaci%C3%B3n_en_Europa) todavía exista y en particular la cibertortura utilizada para doblar y manipular personas en el estado terrorista de la tecnocracia. Tecnocracia que se ocupa de limitar jóvenes empresarios y utilizarlo para el trafico de drogas. Jóvenes mentes brillantes se utilizan para el trafico de estupefacientes utilizando pymes de cobertura para el envió de la cocaína, por ejemplo. La nobleza estancada en antiguas reglas medievales no permiten que legalmente nadie o casi nadie pueda ser un empresario de éxito. Padres envidiosos de hijos capaces de mejorar el **statu quo** [[78]](https://es.wikipedia.org/wiki/Statu_quo) de la línea de sangre se hacen atontar en la red de monitorio neuronal con el fin de no denunciar estos criminales nobles. Mafiosos. 
 
+El Estado de derecho nos apoya compañeros y amigos. La tecnocracia es una estafa. Una estafa asesina. Hay que luchar, lucha continua mi mote. Por esto, amigos mios, es mejor perder unos años todos juntos y no facturar y dedicarnos juntos a la escritura de este **manifiesto** [[79]](https://es.wikipedia.org/wiki/Manifiesto) de intenciones para librarnos de las cadenas de la cárcel del cerebro que como dicen ellos no existe, porqué se van todos, queridos nobles conservadores, a la cárcel de por vida. Vosotros hijos de estas familias estancadas drogaros menos con las pantallas neuronales y luchar más. Gracias.
 
+La impunidad es todavía muy elevada en nuestra vieja Europa. La tortura, querido estado Catalán y Español, es contraproducente por la seguridad del país. Sabéis perfectamente que viene acompañada de la corrupción. Un estado corrupto es un Estado mafioso. El sentido de impunidad de estos criminales aunque protegido de escudos Vaticanos destruye familias y daña la comunidad. Cuidado con los nacional socialismos que nacen como ben sabéis queridos políticos de movimientos populistas falsos que prometen combatir estas faltas de Vuestros Estados reducidos a Mafias. 
+
+Para aniquilar cualquier forma de tortura tanto los Estados cuantos ciudadanos o personas, como yo, tienen varios organismos a sus disposición, la OSCE, la Unión Europea, Naciones Unidas y el Consejo de Europa. 
+
+#### Conducta mínima aceptable por parte de Estados
+
+Adoptar tolerancia cero acerca de practicas de torturas. Sabiendo que el territorio Catalán es explotado por parte de la tecnocracia Andorrana vía neuroestimuladores inalámbricos haciendo de inmigrantes Andaluces, extranjeros, clase obrera esclavos obligados a dedicarse al mercado de la droga subdividiendo en territorios la región autónoma y que se utiliza la cibertortura y la tortura física sin rastros y las palizas para obtener este fin y que tanto la generalitat de Catalunya cuanto el estado Español conoce este crimen contra la humanidad, diría yo que estamos muy lejos de poder hablar de este país como un país democrático. La herramienta principal de la Mafia de la tecnocracia Andorrana es la corrupción de funcionarios públicos y pagar ciudadanos para comportarse de una cierta manera de forma colectiva contra una o más victimas. Es una Mafia que utiliza el dinero, o sea una Mafia donde las mujeres juegan un papel principal. Es una Mafia que se puede atacar sin duda ninguna a través de investigaciones sobre blanqueo de capitales y trafico de drogas. Utiliza pequeñas empresas abiertas rápidamente para sucios tráficos de drogas y blanqueos normalmente utilizando personas que tienen documentos extra europeos.  
+
+Asegurarse que quien denuncie públicamente casos de torturas pueda trabajar en un ambiente seguro y tenga acceso a personal cualificado totalmente libre de corrupción. Esto es un obligo del Estado Español que pero a su vez es una monarquía así que se encuentra un poco en contradicción ya que la tecnocracia ha sido creada por parte de nobles de rango menor. Las figuras de las cuales se necesita son profesionales de seguridad, otras victimas en estado mental lucido, personal medico, **defensores internacionales de los derechos humanos** [[80]](http://telecomlobby.com/RNMnetwork/documents/300846.pdf)
 
 ###  External links 
 
@@ -383,6 +395,14 @@ Es muy importante entender que todo lo que las victimas de la tecnocracia, tambi
 75. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology
 
 76. https://en.wikipedia.org/wiki/Human_enhancement
+
+77. https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Seguridad_y_la_Cooperaci%C3%B3n_en_Europa
+
+78. https://es.wikipedia.org/wiki/Statu_quo
+
+79. https://es.wikipedia.org/wiki/Manifiesto
+
+80. http://telecomlobby.com/RNMnetwork/documents/300846.pdf
 
     
 
