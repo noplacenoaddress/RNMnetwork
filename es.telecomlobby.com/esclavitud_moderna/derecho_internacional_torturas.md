@@ -226,9 +226,11 @@ Es muy importante entender que todo lo que las victimas de la tecnocracia, tambi
 
 ![OCSE region](http://telecomlobby.com/Images/OSCE_acts_signatories.webp)
 
+*«nadie tendría que ser sujeto a torturas o otros tratamientos o castigo cruel, inhumano o degradante»*
 
+Una amplia red de mecanismos contra las torturas está controlando y subiendo la conciencia prohibiéndolas a nivel internacional, regional y local. Aunque en las regiones **OSCE** [[77]](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Seguridad_y_la_Cooperaci%C3%B3n_en_Europa) todavía exista y en particular la cibertortura utilizada para doblar y manipular personas en el estado terrorista de la tecnocracia. Tecnocracia que se ocupa de limitar jóvenes empresarios y utilizarlo para el trafico de drogas. Jóvenes mentes brillantes se utilizan para el trafico de estupefacientes utilizando pymes de cobertura para el envió de la cocaína, por ejemplo. La nobleza estancada en antiguas reglas medievales no permiten que legalmente nadie o casi nadie pueda ser un empresario de éxito. Padres envidiosos de hijos capaces de mejorar el **statu quo** [[78]](https://es.wikipedia.org/wiki/Statu_quo) de la línea de sangre se hacen atontar en la red de monitorio neuronal con el fin de no denunciar estos terroristas nobles. Mafiosos. 
 
-
+El Estado de derecho nos apoya compañeros y amigos. La tecnocracia es una estafa. Una estafa asesina. Hay que luchar, lucha continua mi mote. Por esto, amigos mios, es mejor perder unos años todos juntos y no facturar y dedicarnos juntos a la escritura de este **manifiesto** [[79]](https://es.wikipedia.org/wiki/Manifiesto) de intenciones para librarnos de las cadenas de la cárcel del cerebro que como dicen ellos no existe, porqué se van todos, queridos nobles conservadores, a la cárcel de por vida. Vosotros hijos de estas familias estancadas drogaros menos con las pantallas neuronales y luchar más. Gracias.
 
 ###  External links 
 
@@ -383,6 +385,12 @@ Es muy importante entender que todo lo que las victimas de la tecnocracia, tambi
 75. https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology
 
 76. https://en.wikipedia.org/wiki/Human_enhancement
+
+77. https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Seguridad_y_la_Cooperaci%C3%B3n_en_Europa
+
+78. https://es.wikipedia.org/wiki/Statu_quo
+
+79. https://es.wikipedia.org/wiki/Manifiesto
 
     
 
