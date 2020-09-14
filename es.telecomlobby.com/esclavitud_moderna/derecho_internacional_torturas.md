@@ -333,9 +333,13 @@ Punto clave el hecho de considerar las torturas todavía más graves si hechas e
 
 #### Definición de torturas y humillaciones. 
 
-Muchos instrumentos internacionales contienen la definición de tortura:
+Muchos instrumentos internacionales contienen definen «tortura»:
 
-1. 
+1. **Declaración sobre la protección de todas las personas contra la tortura y otros tratos o castigos crueles, inhumanos o degradantes** [[108]](http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20Declaration_Subjected_Torture_1975.pdf). Año 1975.
+2. **Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes** [[109]](http://telecomlobby.com/RNMnetwork/documents/cat_SP.pdf). Año 1984.
+3. **Convención interamericana para prevenir y sancionar la tortura** [[110]](http://telecomlobby.com/RNMnetwork/documents/convencion_interamaricana_para_prevenir_torturas.pdf). Año 1985.
+
+De forma genérica la tortura denota el hecho intencional de hacer sufrir una persona impotente porqué imposibilitada en reaccionar. En el caso de la cibertortura de la red de monitorio neuronal es absolutamente verdad ya que en mensajería subliminal todos los criminales que participan al acecho te invitan a entrar en la red, cosa totalmente imposible al menos de hacer un grave crimen informático. La impotencia es total y buscada por ellos con el fin último de la humillación y del suicidio. Este es sin ninguna duda el negocio del suicidio Catalán, comisionado por parte de emprendedores, ejecutado por parte de criminales utilizando maquinistas, otros torturados y la cuya identidad se ha ido desgastando con el tiempo debido a la experiencias de dolor, protegido por la nobleza en la tecnocracia Andorrana porqué fuente de inmensas ganancias. Hasta la propia familia es culpable de no reaccionar bajo constante amenaza Mafiosa. Hasta la propia familia es desgastada con largo anticipo respecto al entrada en cibertortura de la victima. Mi madre y mi padre son presentes pero niegan cualquier evidencia, mi madre está evidentemente afectada en la mente mientras que mi padre sigue siendo un interrogante. 
 
 ###  External links 
 
@@ -548,6 +552,16 @@ Muchos instrumentos internacionales contienen la definición de tortura:
 104. http://telecomlobby.com/RNMnetwork/documents/cmw_SP.pdf
 
 105. http://telecomlobby.com/RNMnetwork/documents/asean_human_rights.pdf
+
+106. http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20Declaration_Subjected_Torture_1975.pdf
+
+107. http://telecomlobby.com/RNMnetwork/documents/rs-eng.pdf
+
+108. http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20Declaration_Subjected_Torture_1975.pdf
+
+109. http://telecomlobby.com/RNMnetwork/documents/cat_SP.pdf
+
+110. http://telecomlobby.com/RNMnetwork/documents/convencion_interamaricana_para_prevenir_torturas.pdf
 
      
 
