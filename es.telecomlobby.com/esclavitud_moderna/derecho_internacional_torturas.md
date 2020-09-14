@@ -331,7 +331,7 @@ Punto clave el hecho de considerar las torturas todavía más graves si hechas e
 
 > Comentando mi situación personal muy importantes son el punto seis debido al hecho que soy victima desde mi nacimiento o bien desde mi niñez. Acordaros que la torre de Collserola empezó a transmitir la tecnocracia en 1992, yo tenía once años. 
 
-#### Definición de torturas y humillaciones. 
+#### Definición de torturas y humillaciones
 
 Muchos instrumentos internacionales contienen definen «tortura»:
 
