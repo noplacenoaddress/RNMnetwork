@@ -333,6 +333,10 @@ Punto clave el hecho de considerar las torturas todavía más graves si hechas e
 
 #### Definición de torturas y humillaciones. 
 
+Muchos instrumentos internacionales contienen la definición de tortura:
+
+1. 
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
