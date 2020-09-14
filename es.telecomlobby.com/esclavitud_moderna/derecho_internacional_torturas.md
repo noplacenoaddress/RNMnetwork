@@ -329,11 +329,11 @@ A nivel internacional se ha reconocido la prohibición de las torturas a través
 
 Punto clave el hecho de considerar las torturas todavía más graves si hechas en tiempos de paz. 
 
-> Comentando mi situación personal muy importantes son el punto seis debido al hecho que soy victima desde mi nacimiento o bien desde mi niñez. Acordaros que la torre de Collserola empezó a transmitir la tecnocracia en 1992, yo tenía once años. 
+> Comentando mi situación personal muy importantes son el punto seis debido al hecho que soy victima desde mi nacimiento o bien desde mi niñez. Acordaros que la torre de Collserola empezó a transmitir la tecnocracia en 1992, yo tenía once años. El punto siete también es importante porqué soy Italiano y la estafa que me ha portado a ser conectado a la red de neuroestimuladores inalámbricos se ha maquinado en Catalunya, España.
 
 #### Definición de torturas y humillaciones
 
-Muchos instrumentos internacionales contienen definen «tortura»:
+Muchos instrumentos internacionales contienen definiciones de «tortura»:
 
 1. **Declaración sobre la protección de todas las personas contra la tortura y otros tratos o castigos crueles, inhumanos o degradantes** [[108]](http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20Declaration_Subjected_Torture_1975.pdf). Año 1975.
 2. **Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes** [[109]](http://telecomlobby.com/RNMnetwork/documents/cat_SP.pdf). Año 1984.
