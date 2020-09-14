@@ -272,6 +272,8 @@ Asegurarse que la legislación nacional brinde una adecuada y justa compensació
 
 #### Práctica a los estados participantes 
 
+![NHRI](http://telecomlobby.com/Images/NHRI.webp)
+
 Monitor continuo de todos los sitios de detención incluidas las celdas en las comisarias por las primeras horas de detención. 
 
 Asegurarse que el **defensor del pueblo** [[89]](https://www.defensordelpueblo.es/), NPM Español, pueda trabajar independientemente y en cooperación estrecha con organizaciones de la sociedad civil. 
@@ -289,6 +291,16 @@ Autorizar asociaciones de ciudadanos en ser parte civil in procedimientos intern
 Asegurarse que periodistas y otros, como yo, puedan escribir y informar acerca de las torturas de modo libre y de poder participar a sesiones del CAT en manera de asegurarse que más ciudadanos puedan ser informado sobre el problema.
 
 Contribuir al  **fondo de contribuciones voluntarias de las Naciones Unidas para las víctimas de la tortura** [[91]](https://www.ohchr.org/Documents/Issues/Torture/UNVFVT/MissionStatement_sp.pdf).
+
+Trabajar el reintegro de los sobrevividos a las torturas.
+
+Dedicar grande consideración a la protección de las personas privadas de la libertad, en particular a mujeres, niños, personas mayores, discapacitados y a la comunidad **LGBT** [[92]](https://es.wikipedia.org/wiki/LGBT).
+
+Colaboración continua con **NHRI** [[93]](https://www.ohchr.org/EN/Countries/NHRI/Pages/NHRIMain.aspx), NPM (en el caso de España ambos son representados por parte del «defensor del pueblo») y otras organizaciones nacionales que trabajan en la prevención de las torturas.
+
+LA OSCE y su oficina **ODIHR** [[94]](https://en.wikipedia.org/wiki/Office_for_Democratic_Institutions_and_Human_Rights) se aseguran del buen funcionamiento del dialogo entra estados y sociedad civil acerca de la lucha continua contra las torturas.
+
+
 
 ###  External links 
 
@@ -473,6 +485,12 @@ Contribuir al  **fondo de contribuciones voluntarias de las Naciones Unidas para
 90. https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa
 
 91. https://www.ohchr.org/Documents/Issues/Torture/UNVFVT/MissionStatement_sp.pdf
+
+92. https://es.wikipedia.org/wiki/LGBT
+
+93. https://www.ohchr.org/EN/Countries/NHRI/Pages/NHRIMain.aspx
+
+94. https://en.wikipedia.org/wiki/Office_for_Democratic_Institutions_and_Human_Rights
 
     
 
