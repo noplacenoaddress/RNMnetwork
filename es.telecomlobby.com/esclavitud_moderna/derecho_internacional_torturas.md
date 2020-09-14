@@ -316,13 +316,14 @@ El desprecio por los derechos humanos ha provocado actos crueles que han violado
 
 A nivel internacional se ha reconocido la prohibición de las torturas a través de estas convenciones:
 
-- **Pacto Internacional de Derechos Civiles y Políticos** [[98]](http://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf). Año 1966.
-- **Convención europea de derechos humanos** [[99]](http://telecomlobby.com/RNMnetwork/documents/convention_spa.pdf). Año 1950.
-- **Convención americana de derechos humanos** [[100]](http://telecomlobby.com/RNMnetwork/documents/tratados_B-32_Convencion_Americana_sobre_Derechos_Humanos.pdf). Año 1969.
-- **Carta africana de derechos humanos y de las personas** [[101]](http://telecomlobby.com/RNMnetwork/documents/1297.pdf). Año 1981.
-- **Carta árabe de derechos humanos** [[102]](http://telecomlobby.com/RNMnetwork/documents/carta_arabe.pdf). Año 2004.
-- **Convención de los derechos de los niños** [[103]](http://telecomlobby.com/RNMnetwork/documents/crc_SP.pdf). Año 1989. (importante ya que creo que yo soy una victima desde el nacimiento o desde la niñez)
-- 
+1. **Pacto Internacional de Derechos Civiles y Políticos** [[98]](http://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf). Año 1966.
+2. **Convención europea de derechos humanos** [[99]](http://telecomlobby.com/RNMnetwork/documents/convention_spa.pdf). Año 1950.
+3. **Convención americana de derechos humanos** [[100]](http://telecomlobby.com/RNMnetwork/documents/tratados_B-32_Convencion_Americana_sobre_Derechos_Humanos.pdf). Año 1969.
+4. **Carta africana de derechos humanos y de las personas** [[101]](http://telecomlobby.com/RNMnetwork/documents/1297.pdf). Año 1981.
+5. **Carta árabe de derechos humanos** [[102]](http://telecomlobby.com/RNMnetwork/documents/carta_arabe.pdf). Año 2004.
+6. **Convención de los derechos de los niños** [[103]](http://telecomlobby.com/RNMnetwork/documents/crc_SP.pdf). Año 1989.
+7. **Convención internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares** [[104]](http://telecomlobby.com/RNMnetwork/documents/cmw_SP.pdf). Año 1990.
+8. 
 
 
 
@@ -531,6 +532,10 @@ A nivel internacional se ha reconocido la prohibición de las torturas a través
 101. http://telecomlobby.com/RNMnetwork/documents/1297.pdf
 
 102. http://telecomlobby.com/RNMnetwork/documents/carta_arabe.pdf
+
+103. http://telecomlobby.com/RNMnetwork/documents/crc_SP.pdf
+
+104. http://telecomlobby.com/RNMnetwork/documents/cmw_SP.pdf
 
      
 
