@@ -258,6 +258,22 @@ Controlar de cerca el mercado de las armas utilizadas por torturas. En Catalunya
 
 ![Marco nacional legal torturas](http://telecomlobby.com/Images/marco_nacional_legal_torturas.webp)
 
+Incluir las torturas en el código penal como un crimen especifico y separado, penado con una apropiada mínima sentencia reflejando la gravedad de dicho crimen. En el código penal Español no he encontrado nada parecido.
+
+Definir las torturas como en el articulo 1 del CAT: «tortura significa cualquier hecho infligido a propósito a un individuo causa de dolor y sufrimientos sean ellos físicos o mentales con el fin último de obtener informaciones o confesiones, castigo por un acto cometido o sospechado, intimidar y obligar a una conducta no propia (como la venta de drogas, la prostitución, el robo, las estafas y la traición) o por cualquier hecho basado en la discriminación de cualquier tipo.»
+
+Declarar cualquier tipo de confesión o grabación bajo torturas como inadmisible en sede judicial como indica el articulo 15 del CAT.
+
+Asegurarse que cualquier persona que haya hecho torturas nunca se pueda beneficiar de **amnistías** [[88]](https://es.wikipedia.org/wiki/Amnist%C3%ADa). 
+
+Estipular en la legislación nacional que el crimen de la tortura nunca esté sujeto a limitaciones. 
+
+Asegurarse que la legislación nacional brinde una adecuada y justa compensación por todas las victimas de torturas y por sus familias. También para aumentar la confianza en la justicia publica. 
+
+#### Práctica a los estados participantes 
+
+
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -433,6 +449,8 @@ Controlar de cerca el mercado de las armas utilizadas por torturas. En Catalunya
 86. http://telecomlobby.com/RNMnetwork/documents/GenNetLeaflet-2012-11-15-ES.pdf
 
 87. https://www.interpol.int/en
+
+88. https://es.wikipedia.org/wiki/Amnist%C3%ADa
 
     
 
