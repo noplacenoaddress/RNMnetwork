@@ -341,6 +341,8 @@ Muchos instrumentos internacionales contienen definen «tortura»:
 
 De forma genérica la tortura denota el hecho intencional de hacer sufrir una persona impotente porqué imposibilitada en reaccionar. En el caso de la cibertortura de la red de monitorio neuronal es absolutamente verdad ya que en mensajería subliminal todos los criminales que participan al acecho te invitan a entrar en la red, cosa totalmente imposible al menos de hacer un grave crimen informático. La impotencia es total y buscada por ellos con el fin último de la humillación y del suicidio. Este es sin ninguna duda el negocio del suicidio Catalán, comisionado por parte de emprendedores, ejecutado por parte de criminales utilizando maquinistas, otros torturados y la cuya identidad se ha ido desgastando con el tiempo debido a la experiencias de dolor, protegido por la nobleza en la tecnocracia Andorrana porqué fuente de inmensas ganancias. Hasta la propia familia es culpable de no reaccionar bajo constante amenaza Mafiosa. Hasta la propia familia es desgastada con largo anticipo respecto al entrada en cibertortura de la victima. Mi madre y mi padre son presentes pero niegan cualquier evidencia, mi madre está evidentemente afectada en la mente mientras que mi padre sigue siendo un interrogante. 
 
+> La Mafia se combate denunciando públicamente. La nobleza que utiliza la Mafia como parte armada se combate de la misma manera. Todo, se llama Mafia. No hay otro substantivo para llamar la criminalidad organizada. Nada mas.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
