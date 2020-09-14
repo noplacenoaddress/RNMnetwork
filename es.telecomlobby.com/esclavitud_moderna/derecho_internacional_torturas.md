@@ -214,9 +214,9 @@ La cibertortura no ha tenido la suficiente atención por parte de los organismos
 
 En España la cibertortura es transmitida en parte a través de la torre de Collserola en frecuencias VLF utilizando armas electromagnéticas, o sea radios, llamadas neuroestimuladores inalámbricos. Es la puerta de acceso a la tecnocracia, donde nobles y la élite *juegan* sobre la vida de seres humanos de baja extracción social explotándolos con fines económicos. Estas armas actúan sobre los cinco sentidos de las victimas alterando las actividades eléctricas de las neuronas de sus cerebros y del mio, ya que soy uno de ellos. Todo viene elaborado en clúster de ordenadores y mezclado con una gran cantidad de inteligencia artificial. Las victimas somos conejillos de India para el desarrollo de tecnología militar, neurotecnología y otras aplicaciones como robótica y así diciendo. Estado, militares y élite son totalmente culpable de encubrir un campo de concentración moderno donde mueren y sufren millones de personas.
 
-La red de monitorio neuronal ofrece un ambiente muy conducente al abuso y la explotación, garantiza anonimado y **impunidad** [[72]](https://es.wikipedia.org/wiki/Impunidad). En este ambiente hijos de perseguidos vienen conectados al nacimiento y llegados a unos cinco añitos empiezan a ser abusados tanto mentalmente, cuanto sus sueños les vienen robados, cuanto sexualmente. Es un ambiente donde la pederastia es algo impune. Estados, hombres de negocios y crimen organizado tienen la posibilidad de cumplir torturas sobre campos de victimas tanto por **sadismo** [[73]](https://es.wikipedia.org/wiki/Sadismo) de muchos enfermos, enfermedad utilizada por altos cargos de Iglesia y Estado al fin de llegar a un plan general, cuanto para conseguir algo de la o un grupo de victima sea ello pruebas para tecnología o cambio comportamental tanto politico cuanto obtener la moldeación de un esclavo. 
+La red de monitorio neuronal ofrece un ambiente muy conducente al abuso y la explotación, garantiza anonimato y **impunidad** [[72]](https://es.wikipedia.org/wiki/Impunidad). En este ambiente hijos de perseguidos vienen conectados al nacimiento y llegados a unos cinco añicos empiezan a ser abusados tanto mentalmente, cuanto sus sueños les vienen robados, cuanto sexualmente. Es un ambiente donde la pederastia es algo impune. Estados, hombres de negocios y crimen organizado tienen la posibilidad de cumplir torturas sobre campos de victimas tanto por **sadismo** [[73]](https://es.wikipedia.org/wiki/Sadismo) de muchos enfermos, enfermedad utilizada por altos cargos de Iglesia y Estado al fin de llegar a un plan general, cuanto para conseguir algo de la o un grupo de victima sea ello pruebas para tecnología o cambio comportamental tanto político cuanto obtener la moldeamiento de un esclavo. 
 
-Los neuroestimuladores inalámbricos son una versión todavía no conocida públicamente y activa desde hace por lo menos veinte años y en continuo desarrollo de lo que hoy en día **DARPA** [[74]](https://es.wikipedia.org/wiki/Agencia_de_Proyectos_de_Investigaci%C3%B3n_Avanzados_de_Defensa) llama **neurotecnología no quirúrgica de próxima generación** [[75]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology) en Catalunya utilizada para crear un estado dentro el estado regulado por leyes no escritas prácticamente medievales llamado tecnocracia. La tecnología activa activa en Catalunya además es un sistema de vigilancia masiva ilegal que ha eliminado el derecho de voto en todo el pueblo Catalano. Aunqué la mayoría de catalanes no sean  conectados de forma active a la red, la forma pasiva existe y seguramente abarca toda la población. De la red de monitorio neuronal se sacan imágenes intimidatorias, difamatorias, degradantes y engañosas. De notar como la palabra degradante sea estrictamente conexa con la palabra tortura. 
+Los neuroestimuladores inalámbricos son una versión todavía no conocida públicamente y activa desde hace por lo menos veinte años y en continuo desarrollo de lo que hoy en día **DARPA** [[74]](https://es.wikipedia.org/wiki/Agencia_de_Proyectos_de_Investigaci%C3%B3n_Avanzados_de_Defensa) llama **neurotecnología no quirúrgica de próxima generación** [[75]](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology) en Catalunya utilizada para crear un estado dentro el estado regulado por leyes no escritas prácticamente medievales llamado tecnocracia. La tecnología activa activa en Catalunya además es un sistema de vigilancia masiva ilegal que ha eliminado el derecho de voto en todo el pueblo Catalano. Aunque la mayoría de catalanes no sean  conectados de forma active a la red, la forma pasiva existe y seguramente abarca toda la población. De la red de monitorio neuronal se sacan imágenes intimidatorias, difamatorias, degradantes y engañosas. De notar como la palabra degradante sea estrictamente conexa con la palabra tortura. 
 
 Las victimas de la cibertortura (vigilancia masiva en modalidad de lectura y estimulación externa de estados neuronales de sus cerebros) sufren de impotencia de la mismas formas de la cual sufren personas encarceladas. La cárcel del cerebro Catalana provoca en sus detenidos provoca secuelas aun peores porqué las leyes carcelarias son de raíz Medieval. Amigos mios a causa de la tecnocracia están viviendo el infierno de la cárcel común más la cárcel del cerebro Catalana repetida en Italia por parte de la marquesa Francesa que vive en Genova.
 
@@ -303,6 +303,12 @@ LA OSCE y su oficina **ODIHR** [[94]](https://en.wikipedia.org/wiki/Office_for_D
 ### Septuagésimo aniversario de la declaración universal de los derechos humanos: reafirmando y potenciando la prohibición de las torturas. Comentarios sobre la situación Catalana.  
 
 ![Derechos humanos 70 años.](http://telecomlobby.com/Images/human_rights-10.webp)
+
+Notas de secretario general de Naciones Unidas **Nils Melzer** [[95]](https://en.wikipedia.org/wiki/Nils_Melzer)
+
+#### Introducción 
+
+
 
 ###  External links 
 
@@ -493,6 +499,8 @@ LA OSCE y su oficina **ODIHR** [[94]](https://en.wikipedia.org/wiki/Office_for_D
 93. https://www.ohchr.org/EN/Countries/NHRI/Pages/NHRIMain.aspx
 
 94. https://en.wikipedia.org/wiki/Office_for_Democratic_Institutions_and_Human_Rights
+
+95. https://en.wikipedia.org/wiki/Nils_Melzer
 
     
 
