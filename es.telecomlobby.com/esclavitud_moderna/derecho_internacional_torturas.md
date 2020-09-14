@@ -308,9 +308,13 @@ Notas del secretario general de Naciones Unidas **Nils Melzer** [[95]](https://e
 
 #### Introducción 
 
-El desprecio por los derechos humanos ha provocado actos crueles que han violado la conciencia del ser humano. Las bases de la libertad, de la justicia y de la paz en el mundo son el reconocimiento de la dignidad inherente y de los ecuos y inalienables derechos para toda la especie **Homo sapiens** [[96]](https://es.wikipedia.org/wiki/Homo_sapiens). «Nadie tendría que ser sujeto a torturas o a crueles, inhumanos, tratamientos degradante o punitivos», el articulo base para la sociedad democrática. La tortura **deshumaniza** [[97]](https://es.wikipedia.org/wiki/Deshumanizaci%C3%B3n) tanto las victimas cuantos los torturadores, los *maquinistas*; crea maquinas, maquinas que son explotadas en un sistema esclavista. En Catalunya el sistema esclavista es la tecnocracia Andorrana transmitida vía armas electromagnéticas, radio, en la torre de Collserola en Barcelona. 
+El desprecio por los derechos humanos ha provocado actos crueles que han violado la conciencia del ser humano. Las bases de la libertad, de la justicia y de la paz en el mundo son el reconocimiento de la dignidad inherente y de los ecuos y inalienables derechos para toda la especie **Homo sapiens** [[96]](https://es.wikipedia.org/wiki/Homo_sapiens). «Nadie tendría que ser sujeto a torturas o a crueles, inhumanos, tratamientos degradante o punitivos», el articulo base para la sociedad democrática. La tortura **deshumaniza** [[97]](https://es.wikipedia.org/wiki/Deshumanizaci%C3%B3n) tanto las victimas cuantos los torturadores, los *maquinistas*; crea maquinas, maquinas que son explotadas en un sistema esclavista. En Catalunya el sistema esclavista es la tecnocracia Andorrana transmitida vía armas electromagnéticas, radios, en la torre de Collserola en Barcelona. 
 
 > Saray, el amor de mi vida, es una maquinista. Una persona deshumanizada por las torturas que está luchando para volver a ser libre.
+
+#### Logros
+
+
 
 
 
