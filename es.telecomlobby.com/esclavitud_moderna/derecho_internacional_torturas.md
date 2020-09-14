@@ -272,6 +272,18 @@ Asegurarse que la legislación nacional brinde una adecuada y justa compensació
 
 #### Práctica a los estados participantes 
 
+Monitor continuo de todos los sitios de detención incluidas las celdas en las comisarias por las primeras horas de detención. 
+
+Asegurarse que el **defensor del pueblo** [[89]](https://www.defensordelpueblo.es/), NPM Español, pueda trabajar independientemente y en cooperación estrecha con organizaciones de la sociedad civil. 
+
+Aplicación del protocolo de Instambul.
+
+Asegurarse de que todos los profesionales del sistema judicial reciban la adecuada formación sobre como reconocer casos de torturas.
+
+Establecer unidades de investigación de crímenes de guerra. El pueblo Catalan está bajo continuo ataque a través de armas electromagnéticas. Los neuroestimuladores inalámbricos son armas y Catalunya no está en guerra declarada. Es **guerra fría** [[90]](https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa). 
+
+Asegurarse la independencia de los investigadores sobre casos de torturas, colaboración entra estados y coordinación a nivel nacional de diferentes organismos.
+
 
 
 ###  External links 
@@ -451,6 +463,10 @@ Asegurarse que la legislación nacional brinde una adecuada y justa compensació
 87. https://www.interpol.int/en
 
 88. https://es.wikipedia.org/wiki/Amnist%C3%ADa
+
+89. https://www.defensordelpueblo.es/
+
+90. https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa
 
     
 
