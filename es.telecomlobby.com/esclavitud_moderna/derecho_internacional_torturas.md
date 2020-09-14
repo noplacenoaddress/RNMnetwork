@@ -316,16 +316,22 @@ El desprecio por los derechos humanos ha provocado actos crueles que han violado
 
 A nivel internacional se ha reconocido la prohibición de las torturas a través de estas convenciones:
 
-1. **Pacto Internacional de Derechos Civiles y Políticos** [[98]](http://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf). Año 1966.
+1. **Pacto Internacional de derechos civiles y políticos** [[98]](http://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf). Año 1966.
 2. **Convención europea de derechos humanos** [[99]](http://telecomlobby.com/RNMnetwork/documents/convention_spa.pdf). Año 1950.
 3. **Convención americana de derechos humanos** [[100]](http://telecomlobby.com/RNMnetwork/documents/tratados_B-32_Convencion_Americana_sobre_Derechos_Humanos.pdf). Año 1969.
 4. **Carta africana de derechos humanos y de las personas** [[101]](http://telecomlobby.com/RNMnetwork/documents/1297.pdf). Año 1981.
 5. **Carta árabe de derechos humanos** [[102]](http://telecomlobby.com/RNMnetwork/documents/carta_arabe.pdf). Año 2004.
 6. **Convención de los derechos de los niños** [[103]](http://telecomlobby.com/RNMnetwork/documents/crc_SP.pdf). Año 1989.
 7. **Convención internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares** [[104]](http://telecomlobby.com/RNMnetwork/documents/cmw_SP.pdf). Año 1990.
-8. 
+8. **Convención sobre los derechos de las personas con discapacidad** [[105]](http://telecomlobby.com/RNMnetwork/documents/tccconvs.pdf). Año 2006.
+9. **ASEAN declaración de derechos humanos** [[106]](http://telecomlobby.com/RNMnetwork/documents/asean_human_rights.pdf). Año 2012.
+10. **Estatuto de Roma de la corte penal internacional** [[107]](http://telecomlobby.com/RNMnetwork/documents/rs-eng.pdf). Año 1998.
 
+Punto clave el hecho de considerar las torturas todavía más graves si hechas en tiempos de paz. 
 
+> Comentando mi situación personal muy importantes son el punto seis debido al hecho que soy victima desde mi nacimiento o bien desde mi niñez. Acordaros que la torre de Collserola empezó a transmitir la tecnocracia en 1992, yo tenía once años. 
+
+#### Definición de torturas y humillaciones. 
 
 ###  External links 
 
@@ -536,6 +542,8 @@ A nivel internacional se ha reconocido la prohibición de las torturas a través
 103. http://telecomlobby.com/RNMnetwork/documents/crc_SP.pdf
 
 104. http://telecomlobby.com/RNMnetwork/documents/cmw_SP.pdf
+
+105. http://telecomlobby.com/RNMnetwork/documents/asean_human_rights.pdf
 
      
 
