@@ -343,6 +343,8 @@ De forma genérica la tortura denota el hecho intencional de hacer sufrir una pe
 
 > La Mafia se combate denunciando públicamente. La nobleza que utiliza la clase obrera utilizando torturas se combate de la misma manera. Todo, se llama Mafia. No hay otro substantivo para llamar la criminalidad organizada. Nada mas. 
 
+Mientras que existe tortura hecha únicamente por grupos criminales, la cibertortura *sin duda ninguna* implica el gobierno Catalán, la corona Andorrana y podría ser también la Española. Altos cargos de la Iglesia Católica lamentablemente son implicados. Aunque los ejecutores de las torturas no pertenezcan a la nobleza pero bien sean personas coaccionadas, algunos por cubrir sus sucios tráficos otros por proteger sus familias, los mandantes son millonarios sádicos que prueban placer sexual al ver obreros torturados también sexualmente. Esta es la tecnocracia. Donde nuestros amores vienen vendidos en prostitución en hologramas sin cobrar ni un euro y totalmente asustadas por esta tecnología tan perfecta cuanto diabólica. 
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
