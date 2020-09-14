@@ -300,7 +300,9 @@ Colaboración continua con **NHRI** [[93]](https://www.ohchr.org/EN/Countries/NH
 
 LA OSCE y su oficina **ODIHR** [[94]](https://en.wikipedia.org/wiki/Office_for_Democratic_Institutions_and_Human_Rights) se aseguran del buen funcionamiento del dialogo entra estados y sociedad civil acerca de la lucha continua contra las torturas.
 
+### Septuagésimo aniversario de la declaración universal de los derechos humanos: reafirmando y potenciando la prohibición de las torturas. Comentarios sobre la situación Catalana.  
 
+![Derechos humanos 70 años.](http://telecomlobby.com/Images/human_rights-10.webp)
 
 ###  External links 
 
