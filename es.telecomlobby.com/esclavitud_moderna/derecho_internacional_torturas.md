@@ -246,9 +246,17 @@ El DOMINT es tortura dentro de las muras de las casas de los ciudadanos. Importa
 
 Los Estados tienen que hacer parte del **grupo de amigos de la CTI** [[84]](http://telecomlobby.com/RNMnetwork/documents/20200106_Grupo%20de%20Amigos%20CTI_SP.pdf) y avalar organizaciones societarias civiles internacionales y regionales. 
 
-Tienen que reconocer la competencia del **CAT** [[85]](https://www.ohchr.org/en/hrbodies/cat/pages/catindex.aspx) debajo del articulo 22
+Tienen que reconocer la competencia del **CAT** [[85]](https://www.ohchr.org/en/hrbodies/cat/pages/catindex.aspx) debajo del articulo 22 con el fin de recibir comunicaciones individuales en caso de abusos.
 
+Hacer parte de la **red de Genocidio** [[86]](http://telecomlobby.com/RNMnetwork/documents/GenNetLeaflet-2012-11-15-ES.pdf) en estricta colaboración con **Interpol** [[87]](https://www.interpol.int/en); vigilar de cerca la situación de las torturas en área conflictivas y Catalunya es una región de sentimientos independentistas y en área ocupadas. Antiguamente la corona Española ocupó toda sur América y lo Estados Unidos sureños. 
 
+Tomar notas de los compromisos de la OSCE acerca de la prevención y la lucha contra las torturas.
+
+Controlar de cerca el mercado de las armas utilizadas por torturas. En Catalunya hay activo desde los primeros años de los noventa una arma electromagnética compleja instalada en la torre de Collserola y varias armas más en frecuencias ELF que operan cerca de los 90 hercios. 
+
+#### Marco legal nacional para los estados participantes
+
+![Marco nacional legal torturas](http://telecomlobby.com/Images/marco_nacional_legal_torturas.webp)
 
 ###  External links 
 
@@ -421,6 +429,10 @@ Tienen que reconocer la competencia del **CAT** [[85]](https://www.ohchr.org/en/
 84. http://telecomlobby.com/RNMnetwork/documents/20200106_Grupo%20de%20Amigos%20CTI_SP.pdf
 
 85. https://www.ohchr.org/en/hrbodies/cat/pages/catindex.aspx
+
+86. http://telecomlobby.com/RNMnetwork/documents/GenNetLeaflet-2012-11-15-ES.pdf
+
+87. https://www.interpol.int/en
 
     
 
