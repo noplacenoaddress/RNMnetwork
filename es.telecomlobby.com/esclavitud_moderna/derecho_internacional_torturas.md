@@ -222,7 +222,7 @@ Las victimas de la cibertortura (vigilancia masiva en modalidad de lectura y est
 
 Es muy importante entender que todo lo que las victimas de la tecnocracia, también aquellos que tienen acceso a la «Maquina», son victimas de torturas y crímenes contra la humanidad. Todo lo que se llama **human enhancement** [[76]](https://en.wikipedia.org/wiki/Human_enhancement) es interferencia en las actividades cerebrales de las personas.
 
-### Effective multilateralism in the Fight Against Torture: trends in the OSCE region and the way forward September 2019
+### Multilateralismo eficaz en la lucha contra la tortura, tendencias en la región OSCE 09/19. Comentarios sobre la situación Catalana. 
 
 ![OCSE region](http://telecomlobby.com/Images/OSCE_acts_signatories.webp)
 
@@ -284,7 +284,11 @@ Establecer unidades de investigación de crímenes de guerra. El pueblo Catalan 
 
 Asegurarse la independencia de los investigadores sobre casos de torturas, colaboración entra estados y coordinación a nivel nacional de diferentes organismos.
 
+Autorizar asociaciones de ciudadanos en ser parte civil in procedimientos internacionales y tener acceso a profesionales altamente cualificados en inteligencia, evidencia, iniciados y victimas desarrollados por parte de organizaciones profesionales civiles. 
 
+Asegurarse que periodistas y otros, como yo, puedan escribir y informar acerca de las torturas de modo libre y de poder participar a sesiones del CAT en manera de asegurarse que más ciudadanos puedan ser informado sobre el problema.
+
+Contribuir al  **fondo de contribuciones voluntarias de las Naciones Unidas para las víctimas de la tortura** [[91]](https://www.ohchr.org/Documents/Issues/Torture/UNVFVT/MissionStatement_sp.pdf).
 
 ###  External links 
 
@@ -467,6 +471,8 @@ Asegurarse la independencia de los investigadores sobre casos de torturas, colab
 89. https://www.defensordelpueblo.es/
 
 90. https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa
+
+91. https://www.ohchr.org/Documents/Issues/Torture/UNVFVT/MissionStatement_sp.pdf
 
     
 
