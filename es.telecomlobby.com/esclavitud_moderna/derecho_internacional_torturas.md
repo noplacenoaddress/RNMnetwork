@@ -345,6 +345,23 @@ De forma genérica la tortura denota el hecho intencional de hacer sufrir una pe
 
 Mientras que existe tortura hecha únicamente por grupos criminales, la cibertortura *sin duda ninguna* implica el gobierno Catalán, la corona Andorrana. Altos cargos de la Iglesia Católica lamentablemente son implicados. Aunque los ejecutores de las torturas no pertenezcan a la nobleza pero bien sean personas coaccionadas, algunos por cubrir sus sucios tráficos otros por proteger sus familias, los mandantes son millonarios sádicos que prueban placer sexual al ver obreros torturados también sexualmente. Esta es la tecnocracia. Donde nuestros amores vienen vendidos en prostitución en hologramas sin cobrar ni un euro, totalmente asustadas por esta tecnología tan perfecta cuanto diabólica. 
 
+Hablando de torturas infligidas por funcionarios de policías y por el sistema carcelero se entiende violencia, intimidación y humillación en interrogatorios coactivos, desde denegar contacto con la familia o tratamiento con medicinales (como fui forzado yo a tomar fármacos en una detección forzada en un hospital psiquiátrico) hasta la instrumentación del **síndrome de abstinencia** [[111]](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia), desde detenciones inhumanas y degradantes hasta detenciones arbitrarias o aislamiento no justificado prolongado. 
+
+Cualquier sea la tortura recibida incluye violaciones de la integridad física y mental que no son compatibles con la dignidad humana. 
+
+#### Ajustes estándar para la puesta en marcha nacional 
+
+Otra vez remarcamos como es una obligación por los Estados incriminar la tortura, investigar presuntas violaciones y encarcelar los perpetradores, garantizar el derecho a ser rehabilitados en la sociedad de las victimas y adoptar una amplia gama de medidas preventivas. Tener bajo control a nivel nacional y internacional cualquier individuo que haya sido victima. 
+
+Existen también varios instrumentos de **derecho indicativo** [[112]](https://es.qwe.wiki/wiki/Soft_law) útiles a combatir la tortura:
+
+1. **Reglas de Nelson Mandela** [[113]](https://www.un.org/en/events/mandeladay/mandela_rules.shtml).
+2. **Código de conducta para funcionarios encargados de hacer cumplir la ley** [[114]](http://telecomlobby.com/RNMnetwork/documents/codeofconduct.pdf).
+3. **Principios básicos sobre el uso de la fuerza y de armas de fuego por los funcionarios encargados de hacer cumplir la ley** [[115]](http://telecomlobby.com/RNMnetwork/documents/firearms.pdf).
+4. **Principios de ética médica pertinentes al papel del personal de salud, en particular de los médicos, en la protección de los presos y detenidos contra la tortura y otros tratos o penas crueles, inhumanos o degradantes** [[116]](http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20PrinciplesMedicalEthics.pdf).
+
+Para la situación Catalana es importante el punto numero cuatro. Personalmente he sido detenido con fuerzas en una planta de un hospital público después de haber pedido una ambulancia por dolores causados sin duda ninguna por la «Maquina», la planta es psiquiatría. Aquí me han obligado con **camisa de fuerza** [[117]](https://es.wikipedia.org/wiki/Camisa_de_fuerza) a estar atado a una camilla un día. Me han retenido en más de seis personas. Me han doblado la muñeca operada. No me han permitido defecar ni orinar por un día. En la habitación de al lado se escuchaban gritos. Fue horrible. He denunciado el hecho y el jefe de plantilla me ha contestado por correo electrónico que yo estaba drogado, cuando no es absolutamente verdad. He denunciado en justicia pública y se me ha contestado que no existe el crimen. Corrupción a nivel de salud pública es activa y muy importante en el territorio Catalán. Teóricamente un territorio democrático, donde se utilizan estructuras publicas para crear enfermedades mentales en la cabeza de personas bajo cibertortura continua. Mafia.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -566,6 +583,20 @@ Mientras que existe tortura hecha únicamente por grupos criminales, la cibertor
 109. http://telecomlobby.com/RNMnetwork/documents/cat_SP.pdf
 
 110. http://telecomlobby.com/RNMnetwork/documents/convencion_interamaricana_para_prevenir_torturas.pdf
+
+111. https://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia
+
+112. https://es.qwe.wiki/wiki/Soft_law
+
+113. https://www.un.org/en/events/mandeladay/mandela_rules.shtml
+
+114. http://telecomlobby.com/RNMnetwork/documents/codeofconduct.pdf
+
+115. http://telecomlobby.com/RNMnetwork/documents/firearms.pdf
+
+116. http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20PrinciplesMedicalEthics.pdf
+
+117. https://es.wikipedia.org/wiki/Camisa_de_fuerza
 
      
 
