@@ -386,7 +386,10 @@ El primer reto es la ratificación de los instrumentos internacionales en la leg
 
 Los instrumentos universales y regionales de la lucha contra la tortura que han sido rectificados, aceptados y firmados son:
 
-1. **UNCAT** [[123]](https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture).  
+1. **UNCAT** [[123]](https://es.wikipedia.org/wiki/Convenci%C3%B3n_contra_la_tortura_y_otros_tratos_o_penas_crueles,_inhumanas_o_degradantes). Firmado por España y Andorra.
+2. **OPCAT** [[124]](https://es.wikipedia.org/wiki/Protocolo_Facultativo_de_la_Convenci%C3%B3n_contra_la_Tortura_y_otros_tratos_o_penas_crueles,_inhumanos_o_degradantes). Firmado por España. *Non firmado por Andorra*.
+3. **ICCPR** [[125]](https://es.wikipedia.org/wiki/Pacto_Internacional_de_Derechos_Civiles_y_Pol%C3%ADticos). Firmado por España y Andorra.
+4. **Convenios de Ginebra** [[126]](https://es.wikipedia.org/wiki/Convenios_de_Ginebra)
 
 
 
@@ -636,7 +639,13 @@ Los instrumentos universales y regionales de la lucha contra la tortura que han 
 
 122. https://www.icrc.org/es
 
-123. https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture
+123. https://es.wikipedia.org/wiki/Convenci%C3%B3n_contra_la_tortura_y_otros_tratos_o_penas_crueles,_inhumanas_o_degradantes
+
+124. https://es.wikipedia.org/wiki/Protocolo_Facultativo_de_la_Convenci%C3%B3n_contra_la_Tortura_y_otros_tratos_o_penas_crueles,_inhumanos_o_degradantes
+
+125. https://es.wikipedia.org/wiki/Pacto_Internacional_de_Derechos_Civiles_y_Pol%C3%ADticos
+
+126. https://es.wikipedia.org/wiki/Convenios_de_Ginebra
 
      
 
