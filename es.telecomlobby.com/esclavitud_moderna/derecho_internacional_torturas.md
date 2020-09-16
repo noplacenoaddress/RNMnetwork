@@ -362,6 +362,22 @@ Existen también varios instrumentos de **derecho indicativo** [[112]](https://e
 
 Para la situación Catalana es importante el punto numero cuatro. Personalmente he sido detenido con fuerzas en una planta de un hospital público después de haber pedido una ambulancia por dolores causados sin duda ninguna por la «Maquina», la planta es psiquiatría. Aquí me han obligado con **camisa de fuerza** [[117]](https://es.wikipedia.org/wiki/Camisa_de_fuerza) a estar atado a una camilla un día. Me han retenido en más de seis personas. Me han doblado la muñeca operada. No me han permitido defecar ni orinar por un día. En la habitación de al lado se escuchaban gritos. Fue horrible. He denunciado el hecho y el jefe de plantilla me ha contestado por correo electrónico que yo estaba drogado, cuando no es absolutamente verdad. He denunciado en justicia pública y se me ha contestado que no existe el crimen. Corrupción a nivel de salud pública es activa y muy importante en el territorio Catalán. Teóricamente un territorio democrático, donde se utilizan estructuras publicas para crear enfermedades mentales en la cabeza de personas bajo cibertortura continua. Mafia.
 
+#### Marco internacional institucional 
+
+El CAT es formado por expertos independientes, vigilan la cumplimentación de la convención del año 1984 revisando informes de reuniones de Estados, escuchando denuncias individuales y realizando consultas. El comité también publica periódicamente comentarios generales sobre tratados específicos. Como hemos dicho cada Estado es obligado a tener un organismos de mecanismo preventivo NPM, los profesionales del CAT tienen que poder acceder a cualquier persona privada de su libertad y pueden promover borradores sobre leyes existentes.
+
+Las victimas de torturas, en la cuales yo añado todos los pertenentes al programa de individuos objectivos, pueden acceder  al **fondo voluntario de las naciones unidas para las víctimas de la tortura** [[117]](http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf) gestionado por más de 630 organizaciones mundiales.
+
+Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el páis involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la **assemblea general** [[120]](https://www.un.org/en/ga/).
+
+Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de derechos humanos OHCHR** [[121]](https://www.ohchr.org/sp/Pages/Home.aspx)
+
+
+
+ 
+
+
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -597,6 +613,14 @@ Para la situación Catalana es importante el punto numero cuatro. Personalmente 
 116. http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20PrinciplesMedicalEthics.pdf
 
 117. https://es.wikipedia.org/wiki/Camisa_de_fuerza
+
+118. http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf
+
+119. https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx
+
+120. https://www.un.org/en/ga/
+
+121. https://www.ohchr.org/sp/Pages/Home.aspx
 
      
 
