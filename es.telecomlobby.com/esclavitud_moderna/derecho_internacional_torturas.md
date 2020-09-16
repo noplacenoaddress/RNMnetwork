@@ -396,7 +396,13 @@ Los instrumentos universales y regionales de la lucha contra la tortura que han 
 
 Las naciones tienen que implementar los instrumentos internacionales de lucha contra la tortura en el **derecho local** [[128]](https://es.wikipedia.org/wiki/Derecho_de_Espa%C3%B1a). En el código penal Español la tortura viene definida en los artículos desde el 173 hasta el 177; muy lamentablemente no hace referencia ninguna a la cibertortura.
 
-La criminalización en caso de **autoridad** [[129]](https://es.wikipedia.org/wiki/Autoridad) o **funcionario público** [[130]](https://es.wikipedia.org/wiki/Funcionario), atención porqué las torturas en la red de monitorio neuronal son infligidas por parte de *maquinistas* que a sus veces han sido torturados pero están presentes tanto autoridades cuanto funcionarios públicos que son quien las ordena (podría existir también un pago de forma piramidal dentro de grupos), llega a ser de *ocho a doce años de prisión*. 
+La criminalización en caso de **autoridad** [[129]](https://es.wikipedia.org/wiki/Autoridad) o **funcionario público** [[130]](https://es.wikipedia.org/wiki/Funcionario), atención porqué las torturas en la red de monitorio neuronal son infligidas por parte de *maquinistas* que a sus veces han sido torturados pero están presentes tanto autoridades cuanto funcionarios públicos que son quien las ordena (podría existir también un pago de forma piramidal dentro de grupos), llega a ser de *ocho a doce años de prisión*. El caso de tortura prolongada en el tiempo no viene nombrado, cosa absurda ya que en tecnocracia las torturas son diarias, por años, y tienen como fin el desgaste de las personas y su suicidio. También son hechas ad hoc por el tipo de persona, el carácter y el entorno tanto familiar cuanto laboral.   
+
+Las naciones se tienen que hacer cargo de investigar cualquier tipo de alegación de tortura, también en redes sociales como de normativa Europea, y en caso de crímenes responsabilizarse, reparar y rehabilitar. Aunque todavía muchos sistemas legales no garanticen adecuadamente estos derechos y incluso establezcan barreras para el debido funcionamiento. La corrupción es un hecho en Catalunya. El obstáculo a la investigación es evidente.  
+
+A cerca de la cibertortura el continuo desarrollo tecnológico es la causa del nuevo aumento de las victimas. La causa es la élite el porqué el dinero obtenido de esclavitud, control de las clases sociales, implicación de los Estados en el mercado negro, campos de conejillos de India dedicado al desarrollo de tecnología.  
+
+
 
 
 
