@@ -316,16 +316,16 @@ El desprecio por los derechos humanos ha provocado actos crueles que han violado
 
 A nivel internacional se ha reconocido la prohibición de las torturas a través de estas convenciones:
 
-1. **Pacto Internacional de derechos civiles y políticos** [[98]](http://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf). Año 1966.
-2. **Convención europea de derechos humanos** [[99]](http://telecomlobby.com/RNMnetwork/documents/convention_spa.pdf). Año 1950.
-3. **Convención americana de derechos humanos** [[100]](http://telecomlobby.com/RNMnetwork/documents/tratados_B-32_Convencion_Americana_sobre_Derechos_Humanos.pdf). Año 1969.
-4. **Carta africana de derechos humanos y de las personas** [[101]](http://telecomlobby.com/RNMnetwork/documents/1297.pdf). Año 1981.
-5. **Carta árabe de derechos humanos** [[102]](http://telecomlobby.com/RNMnetwork/documents/carta_arabe.pdf). Año 2004.
-6. **Convención de los derechos de los niños** [[103]](http://telecomlobby.com/RNMnetwork/documents/crc_SP.pdf). Año 1989.
-7. **Convención internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares** [[104]](http://telecomlobby.com/RNMnetwork/documents/cmw_SP.pdf). Año 1990.
-8. **Convención sobre los derechos de las personas con discapacidad** [[105]](http://telecomlobby.com/RNMnetwork/documents/tccconvs.pdf). Año 2006.
-9. **ASEAN declaración de derechos humanos** [[106]](http://telecomlobby.com/RNMnetwork/documents/asean_human_rights.pdf). Año 2012.
-10. **Estatuto de Roma de la corte penal internacional** [[107]](http://telecomlobby.com/RNMnetwork/documents/rs-eng.pdf). Año 1998.
+1. **Pacto Internacional de derechos civiles y políticos** [[98]](http://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf). Articulo 7, año 1966.
+2. **Convención europea de derechos humanos** [[99]](http://telecomlobby.com/RNMnetwork/documents/convention_spa.pdf). Articulo 3, año 1950.
+3. **Convención americana de derechos humanos** [[100]](http://telecomlobby.com/RNMnetwork/documents/tratados_B-32_Convencion_Americana_sobre_Derechos_Humanos.pdf). Articulo 5, año 1969.
+4. **Carta africana de derechos humanos y de las personas** [[101]](http://telecomlobby.com/RNMnetwork/documents/1297.pdf). Articulo 5, año 1981.
+5. **Carta árabe de derechos humanos** [[102]](http://telecomlobby.com/RNMnetwork/documents/carta_arabe.pdf). Articulo 8, año 2004.
+6. **Convención de los derechos de los niños** [[103]](http://telecomlobby.com/RNMnetwork/documents/crc_SP.pdf). Articulo 37, año 1989.
+7. **Convención internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares** [[104]](http://telecomlobby.com/RNMnetwork/documents/cmw_SP.pdf). Articulo 10, año 1990.
+8. **Convención sobre los derechos de las personas con discapacidad** [[105]](http://telecomlobby.com/RNMnetwork/documents/tccconvs.pdf). Articulo 15 año 2006.
+9. **ASEAN declaración de derechos humanos** [[106]](http://telecomlobby.com/RNMnetwork/documents/asean_human_rights.pdf). Articulo 14, año 2012.
+10. **Estatuto de Roma de la corte penal internacional** [[107]](http://telecomlobby.com/RNMnetwork/documents/rs-eng.pdf). Articulo 7, año 1998.
 
 Punto clave el hecho de considerar las torturas todavía más graves si hechas en tiempos de paz. 
 
@@ -366,15 +366,27 @@ Para la situación Catalana es importante el punto numero cuatro. Personalmente 
 
 El CAT es formado por expertos independientes, vigilan la cumplimentación de la convención del año 1984 revisando informes de reuniones de Estados, escuchando denuncias individuales y realizando consultas. El comité también publica periódicamente comentarios generales sobre tratados específicos. Como hemos dicho cada Estado es obligado a tener un organismos de mecanismo preventivo NPM, los profesionales del CAT tienen que poder acceder a cualquier persona privada de su libertad y pueden promover borradores sobre leyes existentes.
 
-Las victimas de torturas, en la cuales yo añado todos los pertenentes al programa de individuos objectivos, pueden acceder  al **fondo voluntario de las naciones unidas para las víctimas de la tortura** [[117]](http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf) gestionado por más de 630 organizaciones mundiales.
+Las victimas de torturas, en la cuales yo añado todos los pertinentes al programa de individuos objetivos, pueden acceder  al **fondo voluntario de las naciones unidas para las víctimas de la tortura** [[117]](http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf) gestionado por más de 630 organizaciones mundiales.
 
-Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el páis involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la **assemblea general** [[120]](https://www.un.org/en/ga/).
+Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el país involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la **asamblea general** [[120]](https://www.un.org/en/ga/).
 
-Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de derechos humanos OHCHR** [[121]](https://www.ohchr.org/sp/Pages/Home.aspx)
+Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de derechos humanos OHCHR** [[121]](https://www.ohchr.org/sp/Pages/Home.aspx).
 
+Fuera de Naciones Unidas el **comité internacional de Cruz Roja ICRC** [[122]](https://www.icrc.org/es) opera mundialmente como una organización humanitaria imparcial. Normalmente se ocupa de territorios en guerra, a mi aviso siendo el ser humano bajo ataque de armas electromagnéticas la cibertortura tendría que ser vigilada también por este organismo.
 
+Todo ello lamentablemente la tortura parece que esté en aumento de nuevo, las nuevas tecnologías permiten impunidad y discriminación.
 
- 
+#### Retos 
+
+![UNCAT](http://telecomlobby.com/Images/uncat.webp)
+
+El primer reto es la ratificación de los instrumentos internacionales en la legislación estatal y su aplicación sin distinciones como según el articulo 28 de la declaración universal de los derechos humanos:
+
+> Toda persona tiene derecho a que se establezca un orden social e internacional en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente efectivos.
+
+Los instrumentos universales y regionales de la lucha contra la tortura que han sido rectificados, aceptados y firmados son:
+
+1. **UNCAT** [[123]](https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture).  
 
 
 
@@ -621,6 +633,10 @@ Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de 
 120. https://www.un.org/en/ga/
 
 121. https://www.ohchr.org/sp/Pages/Home.aspx
+
+122. https://www.icrc.org/es
+
+123. https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture
 
      
 
