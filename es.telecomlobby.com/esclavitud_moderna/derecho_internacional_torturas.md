@@ -404,6 +404,8 @@ A cerca de la cibertortura el continuo desarrollo tecnológico es la causa del n
 
 > Si alguien piensa de poder hacerme causa por publicación de secretos se equivoca muchísimo porqué con esta tecnología se ha destruido la democracia. No hay servicio secreto que se pueda permitir tal lujo, que yo llamo sin temor terrorismo. 
 
+Hay que tener particular atención a tecnologías automatizadas como la **inteligencia artificial** [[131]](https://es.wikipedia.org/wiki/Inteligencia_artificial), muy desarrollada en esta red, algunas de las cuales hacen de forma automática torturas. En este sistema de control el hombre es torturado también por maquinas.  
+
 
 
 
@@ -669,6 +671,8 @@ A cerca de la cibertortura el continuo desarrollo tecnológico es la causa del n
 129. https://es.wikipedia.org/wiki/Autoridad
 
 130. https://es.wikipedia.org/wiki/Funcionario
+
+131. https://es.wikipedia.org/wiki/Inteligencia_artificial
 
      
 
