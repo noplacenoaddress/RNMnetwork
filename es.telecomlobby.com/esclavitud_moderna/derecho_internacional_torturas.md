@@ -368,7 +368,7 @@ El CAT es formado por expertos independientes, vigilan la cumplimentación de la
 
 Las victimas de torturas, en la cuales yo añado todos los pertinentes al programa de individuos objetivos, pueden acceder  al **fondo voluntario de las naciones unidas para las víctimas de la tortura** [[117]](http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf) gestionado por más de 630 organizaciones mundiales.
 
-Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el país involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la asamblea general** [[120]](https://www.un.org/en/ga/).
+Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el país involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la **asamblea general** [[120]](https://www.un.org/en/ga/).
 
 Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de derechos humanos OHCHR** [[121]](https://www.ohchr.org/sp/Pages/Home.aspx).
 
