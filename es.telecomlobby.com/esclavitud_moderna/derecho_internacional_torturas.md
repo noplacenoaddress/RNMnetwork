@@ -366,11 +366,21 @@ Para la situación Catalana es importante el punto numero cuatro. Personalmente 
 
 El CAT es formado por expertos independientes, vigilan la cumplimentación de la convención del año 1984 revisando informes de reuniones de Estados, escuchando denuncias individuales y realizando consultas. El comité también publica periódicamente comentarios generales sobre tratados específicos. Como hemos dicho cada Estado es obligado a tener un organismos de mecanismo preventivo NPM, los profesionales del CAT tienen que poder acceder a cualquier persona privada de su libertad y pueden promover borradores sobre leyes existentes.
 
-Las victimas de torturas, en la cuales yo añado todos los pertenentes al programa de individuos objectivos, pueden acceder  al **fondo voluntario de las naciones unidas para las víctimas de la tortura** [[117]](http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf) gestionado por más de 630 organizaciones mundiales.
+Las victimas de torturas, en la cuales yo añado todos los pertinentes al programa de individuos objetivos, pueden acceder  al **fondo voluntario de las naciones unidas para las víctimas de la tortura** [[117]](http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf) gestionado por más de 630 organizaciones mundiales.
 
-Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el páis involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la **assemblea general** [[120]](https://www.un.org/en/ga/).
+Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el país involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la asamblea general** [[120]](https://www.un.org/en/ga/).
 
-Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de derechos humanos OHCHR** [[121]](https://www.ohchr.org/sp/Pages/Home.aspx)
+Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de derechos humanos OHCHR** [[121]](https://www.ohchr.org/sp/Pages/Home.aspx).
+
+Fuera de Naciones Unidas el **comité internacional de Cruz Roja ICRC** [[122]](https://www.icrc.org/es) opera mundialmente como una organización humanitaria imparcial. Normalmente se ocupa de territorios en guerra, a mi aviso siendo el ser humano bajo ataque de armas electromagnéticas la cibertortura tendría que ser vigilada también por este organismo.
+
+Todo ello lamentablemente la tortura parece que esté en aumento de nuevo, las nuevas tecnologías permiten impunidad y discriminación.
+
+#### Retos 
+
+El primer reto es la ratificación de los instrumentos internacionales en la legislación estatal y su aplicación sin distinciones como según el articulo 28 de la declaración universal de los derechos humanos:
+
+> Toda persona tiene derecho a que se establezca un orden social e internacional en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente efectivos.
 
 
 
@@ -621,6 +631,8 @@ Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de 
 120. https://www.un.org/en/ga/
 
 121. https://www.ohchr.org/sp/Pages/Home.aspx
+
+122. https://www.icrc.org/es
 
      
 
