@@ -376,7 +376,7 @@ Fuera de Naciones Unidas el **comité internacional de Cruz Roja ICRC** [[122]](
 
 Todo ello lamentablemente la tortura parece que esté en aumento de nuevo, las nuevas tecnologías permiten impunidad y discriminación.
 
-#### Retos 
+#### Retos internacionales
 
 ![UNCAT](http://telecomlobby.com/Images/uncat.webp)
 
@@ -390,6 +390,13 @@ Los instrumentos universales y regionales de la lucha contra la tortura que han 
 2. **OPCAT** [[124]](https://es.wikipedia.org/wiki/Protocolo_Facultativo_de_la_Convenci%C3%B3n_contra_la_Tortura_y_otros_tratos_o_penas_crueles,_inhumanos_o_degradantes). Firmado por España. *Non firmado por Andorra*.
 3. **ICCPR** [[125]](https://es.wikipedia.org/wiki/Pacto_Internacional_de_Derechos_Civiles_y_Pol%C3%ADticos). Firmado por España y Andorra.
 4. **Convenios de Ginebra** [[126]](https://es.wikipedia.org/wiki/Convenios_de_Ginebra)
+5. **Estatuto de Roma** [[127]](https://es.wikipedia.org/wiki/Estatuto_de_Roma). Firmado por España y Andorra.
+
+#### Implementación nacional 
+
+Las naciones tienen que implementar los instrumentos internacionales de lucha contra la tortura en el **derecho local** [[128]](https://es.wikipedia.org/wiki/Derecho_de_Espa%C3%B1a). En el código penal Español la tortura viene definida en los artículos desde el 173 hasta el 177; muy lamentablemente no hace referencia ninguna a la cibertortura.
+
+La criminalización en caso de **autoridad** [[129]](https://es.wikipedia.org/wiki/Autoridad) o **funcionario público** [[130]](https://es.wikipedia.org/wiki/Funcionario), atención porqué las torturas en la red de monitorio neuronal son infligidas por parte de *maquinistas* que a sus veces han sido torturados pero están presentes tanto autoridades cuanto funcionarios públicos que son quien las ordena podría existir también un pago de forma piramidal dentro de grupos, llega a ser de *ocho a doce años de prisión*. 
 
 
 
@@ -646,6 +653,14 @@ Los instrumentos universales y regionales de la lucha contra la tortura que han 
 125. https://es.wikipedia.org/wiki/Pacto_Internacional_de_Derechos_Civiles_y_Pol%C3%ADticos
 
 126. https://es.wikipedia.org/wiki/Convenios_de_Ginebra
+
+127. https://es.wikipedia.org/wiki/Estatuto_de_Roma
+
+128. https://es.wikipedia.org/wiki/Derecho_de_Espa%C3%B1a
+
+129. https://es.wikipedia.org/wiki/Autoridad
+
+130. https://es.wikipedia.org/wiki/Funcionario
 
      
 
