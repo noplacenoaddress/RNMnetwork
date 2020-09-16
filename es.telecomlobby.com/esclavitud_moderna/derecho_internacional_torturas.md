@@ -366,6 +366,14 @@ Para la situación Catalana es importante el punto numero cuatro. Personalmente 
 
 El CAT es formado por expertos independientes, vigilan la cumplimentación de la convención del año 1984 revisando informes de reuniones de Estados, escuchando denuncias individuales y realizando consultas. El comité también publica periódicamente comentarios generales sobre tratados específicos. Como hemos dicho cada Estado es obligado a tener un organismos de mecanismo preventivo NPM, los profesionales del CAT tienen que poder acceder a cualquier persona privada de su libertad y pueden promover borradores sobre leyes existentes.
 
+Las victimas de torturas, en la cuales yo añado todos los pertenentes al programa de individuos objectivos, pueden acceder  al **fondo voluntario de las naciones unidas para las víctimas de la tortura** [[117]](http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf) gestionado por más de 630 organizaciones mundiales.
+
+Desde Naciones Unidas se transmiten llamamientos urgentes de parte de individuos a riesgo de torturas emprendiendo la búsqueda de hechos visitando el páis involucrado y enviado los resultados al **consejo de derechos humanos HRC** [[119]](https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx) y a la **assemblea general** [[120]](https://www.un.org/en/ga/).
+
+Otro organismo, siempre de Naciones Unidas, la **oficina de alto comisionado de derechos humanos OHCHR** [[121]](https://www.ohchr.org/sp/Pages/Home.aspx)
+
+
+
  
 
 
@@ -605,6 +613,14 @@ El CAT es formado por expertos independientes, vigilan la cumplimentación de la
 116. http://telecomlobby.com/RNMnetwork/documents/OHCHR%20_%20PrinciplesMedicalEthics.pdf
 
 117. https://es.wikipedia.org/wiki/Camisa_de_fuerza
+
+118. http://telecomlobby.com/RNMnetwork/documents/BrochureUNVFVT2020.pdf
+
+119. https://www.ohchr.org/SP/HRBodies/HRC/Pages/Home.aspx
+
+120. https://www.un.org/en/ga/
+
+121. https://www.ohchr.org/sp/Pages/Home.aspx
 
      
 
