@@ -400,7 +400,9 @@ La criminalización en caso de **autoridad** [[129]](https://es.wikipedia.org/wi
 
 Las naciones se tienen que hacer cargo de investigar cualquier tipo de alegación de tortura, también en redes sociales como de normativa Europea, y en caso de crímenes responsabilizarse, reparar y rehabilitar. Aunque todavía muchos sistemas legales no garanticen adecuadamente estos derechos y incluso establezcan barreras para el debido funcionamiento. La corrupción es un hecho en Catalunya. El obstáculo a la investigación es evidente.  
 
-A cerca de la cibertortura el continuo desarrollo tecnológico es la causa del nuevo aumento de las victimas. La causa es la élite el porqué el dinero obtenido de esclavitud, control de las clases sociales, implicación de los Estados en el mercado negro, campos de conejillos de India dedicado al desarrollo de tecnología.  
+A cerca de la cibertortura el continuo desarrollo tecnológico es la causa del nuevo aumento de las victimas. La causa es la élite el porqué el dinero obtenido de esclavitud, control de las clases sociales, implicación de los Estados en el mercado negro, campos de conejillos de India dedicado al desarrollo de tecnología. La red de monitorio neuronal transformando los seres humanos en cámaras brinda a los operadores mandados por la tecnocracia vídeo vigilancia ilegal utilizando todas las victimas. ¿A que propósito? Venta de datos, control sobre el mercado negro, apuestas mutuas, investigaciones ilegales, robo de documentación reservada, perdida total del voto secreto base intocable de la democracia. 
+
+> Si alguien piensa de poder hacerme causa por publicación de secretos se equivoca muchísimo porqué con esta tecnología se ha destruido la democracia. No hay servicio secreto que se pueda permitir tal lujo, que yo llamo sin temor terrorismo. 
 
 
 
