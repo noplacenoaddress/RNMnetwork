@@ -410,6 +410,8 @@ Ningún Estado puede regresar ningún inmigrante a su país de origen si hay cua
 
 Muchas veces, como en mi caso, siguiendo una pirámide del terror fuerzas corruptas del Estado alquilan el servicio de neuroestimuladores inalámbricos a delincuencia organizada y grupos armados pero también a grande empresarios. En mi caso fue un empresario que si dirigió a un jefe de crimen organizado que se ocupa de estafas que fluyen en el negocio del suicidio. Para impresionarme me hizo ver con el tiempo actores gubernamentales con el fin que me asustara. También en fase de *gaslight*  me hizo ver la enorme corrupción policial a lo cual esta banda tiene acceso. El todo visionado nobleza de muy alto rango, acordaros que España es una monarquía y que en Catalunya tenemos al norte la **monarquía parlamentaría** [[134]](https://es.wikipedia.org/wiki/Monarqu%C3%ADa_parlamentaria) Andorrana, sede de la tecnocracia de este territorio con obvios fines de paraíso fiscal además que es un **copríncipado** [[135]](https://es.wikipedia.org/wiki/Copr%C3%ADncipes_de_Andorra) entra **Iglesia Católica** [[136]](https://es.wikipedia.org/wiki/Di%C3%B3cesis_de_Urgel) y República Francesa, algo horroroso que explica porqué esta Marquesa Francesa que vive en Genova es tan poderosa en Catalunya, siendo ella muy conectada por herencia con los Jesuitas.  
 
+> Detrás de mi historia de terror, está la Iglesia Católica. Como en cualquier historia de individuo obyecto. Historias de suicidio y de esquejes de líneas de sangre. Acordaros pero que la monarquía Española es monarquía estrictamente Católica. 
+
 
 
 ###  External links 
