@@ -424,6 +424,8 @@ NHRI, que en España como sabemos es representado por el mismo organismo NPM, se
 
 La falta de voluntad política es el mayor de los problemas en los gobiernos en que el marco legislativo nacional funcione correctamente en la lucha a la tortura. Hoy en día la cibertortura es silenciada por una cortina de oro. El negocio del suicidio de la tecnocracia, como la tecnocracia misma, son empresas ficticias millonarias, una *economía sumergida* donde juega la élite. Políticos, nobles, funcionarios, mafias, audiovisuales, etcétera etcétera. Me recuerda al **Telón de Acero** [[139]](https://es.wikipedia.org/wiki/Cortina_de_Hierro) de la Guerra Fría.
 
+
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
