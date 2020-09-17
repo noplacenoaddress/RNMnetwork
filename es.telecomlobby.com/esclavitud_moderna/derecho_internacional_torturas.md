@@ -414,7 +414,7 @@ Muchas veces, como en mi caso, siguiendo una pirámide del terror fuerzas corrup
 
 La eficacia del funcionamiento de las leyes nacionales sobre la prohibición de la tortura requiere un marco institucional muy robusto. Tiene que ser garantizada la independencia de los mecanismos de investigación y denuncia y también del fiscal y de los jueces. Crímenes donde nobleza y Iglesia son directores, que el Estado se asegure de esto en monarquía es algo vital. También lo es considerar que los peones pertenecen a un tablero de ajedrez corrupto de ignorancia cultivada y desconocimiento sobre el **estado laico** [[137]](https://es.wikipedia.org/wiki/Estado_laico); todos actúan guiados por miedos inexistentes, todos son violados utilizando la ignorancia. Por esto que no hay casi denuncias. 
 
-> Por esto que estoy trabajando duramente, por tu libertad amor mio. Por tu libertad y de tus queridos, Saray. Te amo.
+> Por esto estoy trabajando duramente, por tu libertad amor mio. Por tu libertad y de tus queridos, Saray. Te amo.
 
 
 
