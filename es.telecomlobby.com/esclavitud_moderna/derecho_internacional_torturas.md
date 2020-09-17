@@ -416,7 +416,13 @@ La eficacia del funcionamiento de las leyes nacionales sobre la prohibición de 
 
 > Por esto estoy trabajando duramente, por tu libertad amor mio. Por tu libertad y de tus queridos, Saray. Te amo.
 
+Los c**onflictos de intereses** [[138]](https://en.wikipedia.org/wiki/Conflict_of_interest) son al orden del día. La corrupción. Como hemos visto NPM, NHRI, organizaciones de ciudadanos y ICRC son los organismos que se hacen cargo de tener bajo control el correcto funcionamiento del marco estatal. 
 
+NHRI, que en España como sabemos es representado por el mismo organismo NPM, se tiene que hacer cargo que el ambiente de trabajo de personas como yo que denuncian casos de torturas, cibertortura en mi caso en su mayoría, sea libre de acoso, persecuciones y amenazas cosa que no está funcionando correctamente en mi caso.
+
+![Telon de Acero](http://telecomlobby.com/Images/telon_acero.webp)
+
+La falta de voluntad política es el mayor de los problemas en los gobiernos en que el marco legislativo nacional funcione correctamente en la lucha a la tortura. Hoy en día la cibertortura es silenciada por una cortina de oro. El negocio del suicidio de la tecnocracia, como la tecnocracia misma, son empresas ficticias millonarias, una *economía sumergida* donde juega la élite. Políticos, nobles, funcionarios, mafias, audiovisuales, etcétera etcétera. Me recuerda al **Telón de Acero** [[139]](https://es.wikipedia.org/wiki/Cortina_de_Hierro) de la Guerra Fría.
 
 ###  External links 
 
@@ -693,6 +699,10 @@ La eficacia del funcionamiento de las leyes nacionales sobre la prohibición de 
 136. https://es.wikipedia.org/wiki/Di%C3%B3cesis_de_Urgel
 
 137. https://es.wikipedia.org/wiki/Estado_laico
+
+138. https://en.wikipedia.org/wiki/Conflict_of_interest
+
+139. 
 
      
 
