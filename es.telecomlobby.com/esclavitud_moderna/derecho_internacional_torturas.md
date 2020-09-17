@@ -430,6 +430,8 @@ La violenta consecuencia de la corrupción y de las torturas se agrava cuando lo
 
 La **violencia de genero** [[141]](https://es.wikipedia.org/wiki/Violencia_de_g%C3%A9nero), tanto de hombre a mujer cuanto, y sobre todo en el negocio del suicidio Catalán, de mujer a hombre, yo soy victima, tiene que ser considerada como tortura. En la «maquina» y sus historias de humillaciones, torturas y crímenes contra la humanidad la violencia de genero que cumple una ex amada contra la victima es el núcleo central del negocio del suicidio. Un negocio a nivel prácticamente estatal sobre todo hablando de cadena de audiovisuales privadas y non. 
 
+> Saray a su vez es un individuo obyecto, ten fe cariño juntando nuestras dos experiencias toda la «maquina» chapa. 
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
