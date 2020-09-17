@@ -428,7 +428,7 @@ La violenta consecuencia de la corrupción y de las torturas se agrava cuando lo
 
 #### Desafíos directos a la prohibición
 
-
+La **violencia de genero** [[141]](https://es.wikipedia.org/wiki/Violencia_de_g%C3%A9nero), tanto de hombre a mujer cuanto, y sobre todo en el negocio del suicidio Catalán, de mujer a hombre, yo soy victima, tiene que ser considerada como tortura. En la «maquina» y sus historias de humillaciones, torturas y crímenes contra la humanidad la violencia de genero que cumple una ex amada contra la victima es el núcleo central del negocio del suicidio. Un negocio a nivel prácticamente estatal sobre todo hablando de cadena de audiovisuales privadas y non. 
 
 ###  External links 
 
@@ -711,6 +711,8 @@ La violenta consecuencia de la corrupción y de las torturas se agrava cuando lo
 139. https://es.wikipedia.org/wiki/Cortina_de_Hierro
 
 140. https://es.wikipedia.org/wiki/Feudo
+
+141. https://es.wikipedia.org/wiki/Violencia_de_g%C3%A9nero
 
      
 
