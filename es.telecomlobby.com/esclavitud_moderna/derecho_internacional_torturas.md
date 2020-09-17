@@ -416,7 +416,7 @@ La eficacia del funcionamiento de las leyes nacionales sobre la prohibición de 
 
 > Por esto estoy trabajando duramente, por tu libertad amor mio. Por tu libertad y de tus queridos, Saray. Te amo.
 
-Los c**onflictos de intereses** [[138]](https://en.wikipedia.org/wiki/Conflict_of_interest) son al orden del día. La corrupción. Como hemos visto NPM, NHRI, organizaciones de ciudadanos y ICRC son los organismos que se hacen cargo de tener bajo control el correcto funcionamiento del marco estatal. 
+Los **conflictos de intereses** [[138]](https://en.wikipedia.org/wiki/Conflict_of_interest) son al orden del día. La corrupción. Como hemos visto NPM, NHRI, organizaciones de ciudadanos y ICRC son los organismos que se hacen cargo de tener bajo control el correcto funcionamiento del marco estatal. 
 
 NHRI, que en España como sabemos es representado por el mismo organismo NPM, se tiene que hacer cargo que el ambiente de trabajo de personas como yo que denuncian casos de torturas, cibertortura en mi caso en su mayoría, sea libre de acoso, persecuciones y amenazas cosa que no está funcionando correctamente en mi caso.
 
