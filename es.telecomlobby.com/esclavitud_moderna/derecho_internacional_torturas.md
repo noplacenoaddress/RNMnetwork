@@ -426,6 +426,10 @@ La falta de voluntad política es el mayor de los problemas en los gobiernos en 
 
 La violenta consecuencia de la corrupción y de las torturas se agrava cuando los funcionarios estatales se confabulan con el crimen organizado en contextos como la trata o el contrabando de personas, órganos humanos, estupefacientes y otros contrabandos. En Catalunya, región autónoma de España, hoy en día pasa exactamente esto a causa de la tecnocracia Andorrana que opera en el territorio que por la clase obrera es igual que un **feudo** [[140]](https://es.wikipedia.org/wiki/Feudo) Medieval y por empresarios y nobleza un juego sádico de fraudes, estafas, prostitución y venta de drogas. Tecnocracia que utiliza la misma cibertortura, mucho mas avanzada tecnológicamente, que el Franquismo. 
 
+#### Desafíos directos a la prohibición
+
+
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
