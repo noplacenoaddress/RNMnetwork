@@ -412,6 +412,10 @@ Muchas veces, como en mi caso, siguiendo una pirámide del terror fuerzas corrup
 
 > Detrás de mi historia de terror, está la Iglesia Católica. Como en cualquier historia de individuo obyecto. Historias de suicidio y de esquejes de líneas de sangre. Acordaros pero que la monarquía Española es monarquía estrictamente Católica. 
 
+La eficacia del funcionamiento de las leyes nacionales sobre la prohibición de la tortura requiere un marco institucional muy robusto. Tiene que ser garantizada la independencia de los mecanismos de investigación y denuncia y también del fiscal y de los jueces. Siendo estos crímenes donde nobleza y Iglesia son directores, que el Estado se asegure de esto en monarquía es algo vital. También es vital considerar que los peones pertenecen a un tablero de ajedrez corrupto de ignorancia cultivada y desconocimiento sobre el **estado laico** [[137]](https://es.wikipedia.org/wiki/Estado_laico); todos actúan guiados por miedos inexistentes, todos son violados utilizando la ignorancia. Por esto que no hay casi denuncias. 
+
+> Por esto que estoy trabajando duramente, por tu libertad amor mio. Por tu libertad y tus queridos, Saray. Te amo.
+
 
 
 ###  External links 
@@ -687,6 +691,8 @@ Muchas veces, como en mi caso, siguiendo una pirámide del terror fuerzas corrup
 135. https://es.wikipedia.org/wiki/Copr%C3%ADncipes_de_Andorra
 
 136. https://es.wikipedia.org/wiki/Di%C3%B3cesis_de_Urgel
+
+137. https://es.wikipedia.org/wiki/Estado_laico
 
      
 
