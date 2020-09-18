@@ -432,6 +432,23 @@ La **violencia de genero** [[141]](https://es.wikipedia.org/wiki/Violencia_de_g%
 
 > Saray a su vez es un individuo obyecto, ten fe cariño juntando nuestras dos experiencias toda la «maquina» chapa. 
 
+Las torturas sin rastros que yo he vivido por parte de maquinistas en Barcelona desde el 2018 hasta el 2020 corresponden a aquellas que son infligidas en cárceles de máxima seguridad en países que no cumplen con el marco internacional de normativas contra de ellas:
+
+- **posición de estrés** [[142]](https://es.wikipedia.org/wiki/Posici%C3%B3n_de_estr%C3%A9s)
+- **privación del sueño** [[143]](https://es.wikipedia.org/wiki/Privaci%C3%B3n_de_sue%C3%B1o)
+- **asfixia** [[144]](https://es.wikipedia.org/wiki/Asfixia), y en su versión **erótica** [[145]](https://es.wikipedia.org/wiki/Asfixia_er%C3%B3tica) hecha pasar como un placer sexual en mentes devastadas por la esclavitud. No me han infligido esta tortura pero en las redes *xCHAN* hay imágenes que se refieren a ella. 
+- encapuchado o ojos vendado. Tampoco la he pasada pero he sido amenazado en radio neuronal varias veces de secuestro, cosa que se lleva a termine haciendo este gesto. Siempre en *xCHAN* hay imágenes que se refieren a ellas.
+- **manipulación mental** [[146]](https://es.wikipedia.org/wiki/Manipulaci%C3%B3n_mental).
+- desestabilización sensorial.
+
+Sin duda ninguna infligir dolor y sufrimientos en una persona impotente para obtener coerción, intimidación, castigo o discriminación siempre equivalen a tortura, es igual si son infligidas por parte un de único método o de una suma de múltiples técnicas  y circunstancias y independientemente  de si el propósito perseguido is obtenido al instante, solo después repetidas o prolongadas exposiciones o también si no se obtiene el efecto buscado a causa de la capacidad para adaptarse de la víctima. 
+
+Torturas, esclavitud y genocidio han sido totalmente prohibidos por el marco de normativas internacionales porqué destruyen irreparablemente la humanidad y la integridad moral de las victimas, de los mismos torturadores (los *maquinistas*) y por último de la sociedad entera. Por esto muchas veces la cibertortura es utilizada por estados para arruinar totalmente la sociedad civil creando esclavos de baja extracción social y siguiendo generación por generación. En este caso, y es el caso de Catalunya, quien pertenece a la clase obrera con este método no consigue salirme. Yo he sido catapultado a dentro por parte de una estafa, aunque mi padre consiguió salir de ella el fin último de mi tortura es devolverme a la clase social de mi abuelo paterno. En realidad mi padre no ha salido nunca del todo siendo un empleado, esto si de alto nivel. Yo en pocos años había ya salido del todo.
+
+> Con esto quiero saludar a todas las personas que me leen que pertenece a la clase obrera, porqué allí es donde tengo los únicos amigos. Nos vemos pronto con una nueva empresa, una nueva furgoneta y muchas ganas de trabajar y echar dos risas juntos. Por esto se mi invita continuamente a la venta de drogas, para que no pueda salir otra vez.
+
+La impunidad es responsabilidad de los Estados.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -715,6 +732,16 @@ La **violencia de genero** [[141]](https://es.wikipedia.org/wiki/Violencia_de_g%
 140. https://es.wikipedia.org/wiki/Feudo
 
 141. https://es.wikipedia.org/wiki/Violencia_de_g%C3%A9nero
+
+142. https://es.wikipedia.org/wiki/Posici%C3%B3n_de_estr%C3%A9s
+
+143. https://es.wikipedia.org/wiki/Privaci%C3%B3n_de_sue%C3%B1o
+
+144. https://es.wikipedia.org/wiki/Asfixia
+
+145. https://es.wikipedia.org/wiki/Asfixia_er%C3%B3tica
+
+146. https://es.wikipedia.org/wiki/Manipulaci%C3%B3n_mental
 
      
 
