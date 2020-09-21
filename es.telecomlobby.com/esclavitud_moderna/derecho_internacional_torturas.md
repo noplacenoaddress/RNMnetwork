@@ -487,6 +487,8 @@ Las varias figuras que participan al negocio, los *maquinistas*, son sin ninguna
 
 ![Escalera Penrose](http://telecomlobby.com/Images/escalera_penrose.webp)
 
+*¿parece el ADN verdad?*
+
 Los niños lamentablemente son inseridos automáticamente en la red de monitorio neuronal. La id biometrica única viene robado por parte de médicos corruptos y utilizada para conectarlos al infierno en radio. Son muy vulnerables y tenemos que protegerlos de trata de personas y muchísimos crímenes más. También son expuestos a enfermedades mentales como depresión, ansiedad y otros traumas. Todo esto es el negocio que rige Europa. Todo esto se ha digitalizado a través de las nuevas tecnologías. De un lado es mucho mas opresor de otro es mucho más fácil demostrarlo en sede de juicio ya que se puede comparar a una **escalera de penrose** [[162]](https://es.wikipedia.org/wiki/Escalera_de_Penrose) o sea que todo es registrado y todos los culpables una vez individuado el centro de calculo o la red de centro de calculo que tiene traza de todo lo ocurrido son fácilmente localizables y culpables de crímenes contra la humanidad. 
 
 Mientras que es imposible hacer un elenco exhaustivo de personas a riesgo, cosa que yo personalmente no veo tan complicada ya que creo que las varias Iglesias y coronas del mundo si que lo tienen y también la administradora Católica tiene que tener un elenco del mundo Católico, la lucha a la discriminación en todas sus formas en necesaria.
