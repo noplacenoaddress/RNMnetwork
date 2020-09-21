@@ -491,6 +491,8 @@ Los niños lamentablemente son inseridos automáticamente en la red de monitorio
 
 Mientras que es imposible hacer un elenco exhaustivo de personas a riesgo, cosa que yo personalmente no veo tan complicada ya que creo que las varias Iglesias y coronas del mundo si que lo tienen y también la administradora Católica tiene que tener un elenco del mundo Católico, la lucha a la discriminación en todas sus formas en necesaria.
 
+> He sido discriminado de el nacimiento, para crear un bravo Cristo. 
+
 
 
 
