@@ -479,7 +479,11 @@ La resultante marginación socio económica es un factor, yo diría uno de los r
 
 La élite llama la esclavitud moderna, **el juego** [[158]](https://www.amazon.com/Game-Spanish-Alessandro-Baricco/dp/8433964364). 
 
-La tortura, la pobreza, la privación de los derechos básicos (cosa mas marcada en el tercer mundo), el fomento de el desempoderamiento (revés de **empoderamiento** [[159]](https://es.wikipedia.org/wiki/Empoderamiento)) hecho utilizando pequeña criminalidad enmascarada de alta Mafia, las consecuentes encarcelaciones crean una **espiral** [[160]](https://es.wikipedia.org/wiki/Espiral) muy compleja de escapar que llega a la brutalización que en clave moderna es llegar a ser una maquina. Cuidado con esto antes de la tecnología las victimas de este negocio enorme, negocio milenario, llegaban a ser animales ahora maquinas. El fin último siempre es el provecho económico. Nada mas. 
+La tortura, la pobreza, la privación de los derechos básicos (cosa mas marcada en el tercer mundo), el fomento de el desempoderamiento (revés de **empoderamiento** [[159]](https://es.wikipedia.org/wiki/Empoderamiento)) hecho utilizando pequeña criminalidad enmascarada de alta Mafia, las consecuentes encarcelaciones crean una **espiral** [[160]](https://es.wikipedia.org/wiki/Espiral) muy compleja de escapar que llega a la brutalización que en clave moderna es llegar a ser una maquina. Cuidado con esto antes de la tecnología las victimas de este negocio enorme, negocio milenario, llegaban a ser animales ahora maquinas. El fin último siempre es el provecho económico. Nada mas. Estas personas, a las cuales yo pertenezco, llegan a ser **chivo expiatorio** [[161]](https://es.wikipedia.org/wiki/Chivo_expiatorio) por parte de Estados que los obligas a confesar crímenes que no han hecho, abusadas por criminalidad organizada y nobleza. La policía, a través de corrupción prácticamente no detectable, normalmente es demasiado lenta en proteger nuestro colectivo, los target individual. 
+
+Las varias figuras que participan al negocio, los *maquinistas*, son sin ninguna duda otros *target individuals*. Mi fin es conseguir que estas personas gravemente despojadas de sus derechos a través de la cibertortura y de las asquerosidades que tienen que ver en sus pantallas neuronales y de las porquerías que tienen que hacer en el negocio del suicidio que tiene varios escenarios los varios estados tecnocratas entiendan que aunque hayan ganado dinero en el negocio en realidad son todos victimas menos aquellos que tienen un escudo noble oficial. Todos lo son. 
+
+> Tenemos que unirnos y hacer una denuncia enorme contra la nobleza, la administradora del negocio en Catalunya y la Iglesia Católica. 
 
 
 
@@ -804,6 +808,8 @@ La tortura, la pobreza, la privación de los derechos básicos (cosa mas marcada
 159. https://es.wikipedia.org/wiki/Empoderamiento
 
 160. https://es.wikipedia.org/wiki/Espiral
+
+161. https://es.wikipedia.org/wiki/Chivo_expiatorio
 
      
 
