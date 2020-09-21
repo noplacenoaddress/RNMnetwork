@@ -465,7 +465,7 @@ Todo esto ha creado entorno a mi persona un agujero negro de protección legal, 
 
 Todo este conjunto de factores, obviamente orquestados con fines económicos por parte de la aristocracia que monta estos circos de los horrores con único fin el dinero utilizando las fobias de las personas que participan al acecho colectivo de la victima, crea un **target individual** [[153]](http://telecomlobby.com/RNMnetwork/target_individuals.htm). Un individuo que arriesga ser olvidado en la marginación social por parte de su misma familia también. Una vergüenza, lo repito. Todos quienes han participado a mi destrucción sistemática, tanto físicamente cuanto en red, han sido manipulado con el fin de mi suicidio. Con el fin de ser un esclavo vendido en un mercado virtual. Una persona con un precio. Trata de personas.
 
-Los resultados de dicha caza, muy parecida a una **cacería de brujas** [[154]](https://es.wikipedia.org/wiki/Caza_de_brujas) el que nos hace entender que en realidad quien orquesta todo esto es el Vaticano para repartir dinero entra la nobleza, han sido independencia y autosuficiencia disminuidas alimentando síndromes narcisistas en varias personas de mi entorno personal, primero mis padres. Cacería que en mi caso se ha desarrollado en el Estado tecnocrata Andorrano bajo la jurisdicción de la **Iglesia Católica de Barcelona** [[155]](https://esglesia.barcelona/). 
+Los resultados de dicha caza, muy parecida a una **cacería de brujas** [[154]](https://es.wikipedia.org/wiki/Caza_de_brujas) el que nos hace entender que en realidad quien orquesta todo esto es el Vaticano para repartir dinero entra la nobleza, han sido independencia y autosuficiencia disminuidas alimentando síndromes narcisistas en varias personas de mi entorno personal, primero mis padres. Cacería que en mi caso se ha desarrollado en el Estado tecnocrata Andorrano bajo la jurisdicción de la **Iglesia Católica de Barcelona** [[155]](https://esglesia.barcelona/) que a su vez tiene un **tribunal** [[156]](http://www.tribunaleclesiasticbarcelona.org/ca/inici?lang=es&). 
 
 *Queridos lectores, tenéis que esto es únicamente un negocio, yo no soy ningún demonio.* 
 
@@ -782,6 +782,8 @@ Los resultados de dicha caza, muy parecida a una **cacería de brujas** [[154]](
 154. https://es.wikipedia.org/wiki/Caza_de_brujas
 
 155. https://esglesia.barcelona/
+
+156. http://www.tribunaleclesiasticbarcelona.org/ca/inici?lang=es&
 
      
 
