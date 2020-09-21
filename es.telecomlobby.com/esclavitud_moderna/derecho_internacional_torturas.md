@@ -467,7 +467,7 @@ Todo este conjunto de factores, obviamente orquestados con fines económicos por
 
 Los resultados de dicha caza, muy parecida a una **cacería de brujas** [[154]](https://es.wikipedia.org/wiki/Caza_de_brujas) el que nos hace entender que en realidad quien orquesta todo esto es el Vaticano para repartir dinero entra la nobleza, han sido independencia y autosuficiencia disminuidas alimentando síndromes narcisistas en varias personas de mi entorno personal, primero mis padres. Cacería que en mi caso se ha desarrollado en el Estado tecnocrata Andorrano bajo la jurisdicción de la **Iglesia Católica de Barcelona** [[155]](https://esglesia.barcelona/) que a su vez tiene un **tribunal** [[156]](http://www.tribunaleclesiasticbarcelona.org/ca/inici?lang=es&). 
 
-*Queridos lectores, tenéis que esto es únicamente un negocio, yo no soy ningún demonio. Un negocio entramado desde mi nacimiento. Todos son culpables pero casi nadie tiene la visión global del negocio; menos su administradora delegada por la Iglesia: Francesca.* 
+*Queridos lectores, tenéis que entender que esto es únicamente un negocio, yo no soy ningún demonio. Un negocio entramado desde mi nacimiento. Todos son culpables pero casi nadie tiene la visión global del negocio; menos su administradora delegada por la Iglesia: Francesca.* 
 
 
 
