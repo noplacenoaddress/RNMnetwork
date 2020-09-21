@@ -485,6 +485,10 @@ Las varias figuras que participan al negocio, los *maquinistas*, son sin ninguna
 
 > Tenemos que unirnos y hacer una denuncia enorme contra la nobleza, la administradora del negocio en Catalunya y la Iglesia Católica. 
 
+![Escalera Penrose](http://telecomlobby.com/Images/escalera_penrose.webp)
+
+Los niños lamentablemente son inseridos automáticamente en la red de monitorio neuronal. La id biometrica única viene robado por parte de médicos corruptos y utilizada para conectarlos al infierno en radio. Son muy vulnerables y tenemos que protegerlos de trata de personas y muchísimos crímenes más. También son expuestos a enfermedades mentales como depresión, ansiedad y otros traumas. Todo esto es el negocio que rige Europa. Todo esto se ha digitalizado a través de las nuevas tecnologías. De un lado es mucho mas opresor de otro es mucho más fácil demostrarlo en sede de juicio ya que se puede comparar a una **escalera de penrose** [[162]](https://es.wikipedia.org/wiki/Escalera_de_Penrose) o sea que todo es registrado y todos los culpables una vez individuado el centro de calculo o la red de centro de calculo que tiene traza de todo lo ocurrido son fácilmente localizables y culpables de crímenes contra la humanidad. 
+
 
 
 ###  External links 
@@ -810,6 +814,8 @@ Las varias figuras que participan al negocio, los *maquinistas*, son sin ninguna
 160. https://es.wikipedia.org/wiki/Espiral
 
 161. https://es.wikipedia.org/wiki/Chivo_expiatorio
+
+162. https://es.wikipedia.org/wiki/Escalera_de_Penrose
 
      
 
