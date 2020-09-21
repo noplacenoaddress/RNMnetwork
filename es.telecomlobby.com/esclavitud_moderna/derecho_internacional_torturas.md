@@ -455,6 +455,16 @@ Cuando se habla de actores no estatales no podemos no nombrar la aristocracia y 
 
 ![yo no discrimino](http://telecomlobby.com/Images/yo_no_discrimino.webp)
 
+Siendo la red de monitorio neuronal utilizada por *la casta* para esclavizar a través de la tecnología la clase obrera y los marginados es obvió que la **discriminación** [[147]](https://es.wikipedia.org/wiki/Discriminaci%C3%B3n) es muy presente. Se trata de discriminar personas de baja capacidad económica y de limitar personas emprendedora que tienen las capacidades de salir de la pobreza y de cambiar de **clase social** [[148]](https://es.wikipedia.org/wiki/Clase_social) a través de estafas y del negocio del suicidio. Las torturas vienen utilizadas como filtro y como divisor de clases sociales. Personas mayores que ya no trabajan, aristócratas y grandes empresarios son quien se ocupa de limitar la escalada social de mentes brillantes como la mía. La inducción a la venta de drogas es para aniquilar las personas utilizando también el sistema carcelario; mafiosos, violentos y bandas trabajan conjuntamente con estas personas para amenazar las victimas con el fin de que se haga realidad. En este sistema de telecomunicaciones las amenazas y el consecuente miedo juegan un papel fundamental. Las **amenazas** [[149]](shorturl.at/wAQS3) constituyen otro delito que si encuadrado en este contesto a mi manera de ver las cosas constituyen también el delito de organización criminal a sueldo de la élite. 
+
+El individuar un objetivo es una operación de largo termino, en mi caso creo que sea algo que se haya proyectado por el simple hecho de ser hijo de una persona que a través de su carrera tuvo éxito en salir de la clase obrera y de otra que pertenece a una rama de nobleza eliminada por el Vaticano, y es una operación de la aristocracia que de vez en cuando utiliza también Mafia y crimen organizado. En el caso de Saray es por su apellido, otra rama de nobleza cortada en una España monárquica. Para ambos dos no depende exactamente de nosotros pero, en mi caso, se debe también a mi capacidad empresarial. Se trata de de **discriminación debida a factores de fondo**.
+
+Por esto he sido **estigmatizado** [[150]](https://es.wikipedia.org/wiki/Estigma_social) y victima de **demonización** [[151]](https://es.wikipedia.org/wiki/Demonizaci%C3%B3n). 
+
+Todo esto ha creado entorno a mi persona un agujero negro de protección legal, corrupción y impunidad. ¡Una vergüenza! También siendo yo Italiano, comunidad no muy bien vista en Catalunya, he vivido la **marginación** [[152]](https://es.wikipedia.org/wiki/Marginaci%C3%B3n).  
+
+Todo este conjunto de factores, obviamente orquestados con fines económicos por parte de la aristocracia que monta estos circos de los horrores con único fin el dinero utilizando las fobias de las personas que participan al acecho colectivo de la victima, crea un **target individual** [[153]](http://telecomlobby.com/RNMnetwork/target_individuals.htm). Un individuo que arriesga ser olvidado en la marginación social por parte de su misma familia también. Una vergüenza, lo repito.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -748,6 +758,20 @@ Cuando se habla de actores no estatales no podemos no nombrar la aristocracia y 
 145. https://es.wikipedia.org/wiki/Asfixia_er%C3%B3tica
 
 146. https://es.wikipedia.org/wiki/Manipulaci%C3%B3n_mental
+
+147. https://es.wikipedia.org/wiki/Discriminaci%C3%B3n
+
+148. https://es.wikipedia.org/wiki/Clase_social
+
+149. http://shorturl.at/wAQS3
+
+150. https://es.wikipedia.org/wiki/Estigma_social
+
+151. https://es.wikipedia.org/wiki/Demonizaci%C3%B3n
+
+152. https://es.wikipedia.org/wiki/Marginaci%C3%B3n
+
+153. http://telecomlobby.com/RNMnetwork/target_individuals.htm
 
      
 
