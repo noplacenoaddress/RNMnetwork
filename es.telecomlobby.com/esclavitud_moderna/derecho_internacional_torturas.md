@@ -473,6 +473,10 @@ Los resultados de dicha caza, muy parecida a una **cacería de brujas** [[154]](
 
 *Queridos lectores, tenéis que entender que esto es únicamente un negocio, yo no soy ningún demonio. Un negocio entramado desde mi nacimiento. Todos son culpables pero casi nadie tiene la visión global del negocio; menos su administradora delegada por la Iglesia: Francesca. Después en Latín hay algo más pero son únicamente suposiciones lógicas.* 
 
+Los estados democráticos, que otra vez quiero acordar que son y tienen que ser estrictamente laicos, tienen que absolutamente proteger personas vulnerables, personas objetivos, de abusos y tienen que interpretar la protección de las torturas y las cibertorturas contra normas seculares no escritas directamente sino ocultas en varios textos del ser humano.
+
+La resultante marginación socio económica es un factor, yo diría uno de los resultados de las persecuciones, que expone las personas a abusos de Iglesia, estados, élite y crimen organizado. El pertenecer a la clase obrera o haber sido violado hasta el ser marginado nos hace conejillos de India para torturas que como siempre tienen el único fin del suicidio y de la creación de dinero a través de desarrollo que no sigue la **ética** [[157]](https://es.wikipedia.org/wiki/%C3%89tica) necesaria. 
+
 
 
 ###  External links 
@@ -788,6 +792,8 @@ Los resultados de dicha caza, muy parecida a una **cacería de brujas** [[154]](
 155. https://esglesia.barcelona/
 
 156. http://www.tribunaleclesiasticbarcelona.org/ca/inici?lang=es&
+
+157. https://es.wikipedia.org/wiki/%C3%89tica
 
      
 
