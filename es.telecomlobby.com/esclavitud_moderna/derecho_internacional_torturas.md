@@ -449,7 +449,11 @@ Torturas, esclavitud y genocidio han sido totalmente prohibidos por el marco de 
 
 La impunidad es responsabilidad de los Estados. En los últimos años, sobre todo con la cibertortura, las naciones delegan la practica de las torturas a otras naciones o también a organizaciones criminales pagando dicha practica. Esto es lo que pasa en Catalunya. Muchas veces se utilizan fuerzas militares y de inteligencia. 
 
-Cuando se habla de actores no estatales no podemos no nombrar la aristocracia y la nobleza. Como también empresarios y privados expertos. Obviamente las naciones se tienen que hacer cargo como hemos especificado precedentemente las victimas con especial atención mujeres y niños. Esto incluye también policias que crean de una manera o de la otra ambientes favorables a la violencia y a la tortura.
+Cuando se habla de actores no estatales no podemos no nombrar la aristocracia y la nobleza. Como también empresarios y privados expertos. Obviamente las naciones se tienen que hacer cargo como hemos especificado anteriormente las victimas con especial atención mujeres y niños. Esto incluye también policías que crean de una manera o de la otra ambientes favorables a la violencia y a la tortura.
+
+#### Discriminación 
+
+![yo no discrimino](http://telecomlobby.com/Images/yo_no_discrimino.webp)
 
 ###  External links 
 
