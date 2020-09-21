@@ -447,7 +447,9 @@ Torturas, esclavitud y genocidio han sido totalmente prohibidos por el marco de 
 
 > Con esto quiero saludar a todas las personas que me leen que pertenece a la clase obrera, porqué allí es donde tengo los únicos amigos. Nos vemos pronto con una nueva empresa, una nueva furgoneta y muchas ganas de trabajar y echar dos risas juntos. Por esto se mi invita continuamente a la venta de drogas, para que no pueda salir otra vez.
 
-La impunidad es responsabilidad de los Estados.
+La impunidad es responsabilidad de los Estados. En los últimos años, sobre todo con la cibertortura, las naciones delegan la practica de las torturas a otras naciones o también a organizaciones criminales pagando dicha practica. Esto es lo que pasa en Catalunya. Muchas veces se utilizan fuerzas militares y de inteligencia. 
+
+Cuando se habla de actores no estatales no podemos no nombrar la aristocracia y la nobleza. Como también empresarios y privados expertos. Obviamente las naciones se tienen que hacer cargo como hemos especificado precedentemente las victimas con especial atención mujeres y niños. Esto incluye también policias que crean de una manera o de la otra ambientes favorables a la violencia y a la tortura.
 
 ###  External links 
 
@@ -745,4 +747,4 @@ La impunidad es responsabilidad de los Estados.
 
      
 
-​              
+​               
