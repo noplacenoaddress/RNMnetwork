@@ -136,6 +136,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 28/08/2020 17:25 My daddy: "this work is useless". Dear dad I'm working for my freedom. You are useless because you are seeing your son been tortured. Go to fuck.
 - 30/08/2020 13:32 My daddy: "tu devi lavorare poi quando esageri con i soldi ti faccio mandare all'ospedale da uno di questi picchiatori". "Gli Italiani siamo chi ammazzano i figli". As the brother of Francesca that was killed in a motorbike accident and others friends of mine. In Genova, parents try to kill them son. This is the true. And it is all church related.
 - 18/09/2020 06:00 dream injection. Saray affirm that she live with three brothers in Marina district. In dream she wants to suck me but I suffer from erectile dysfunction we are in a site where techno music is played in passeig verneda 88, Barcelona. After my mother speaks. It's a suicide game exactly the blue whale challenge and it's from Russia and played in the Barcelona neural monitoring network.
+- 21/9/2020 04:00 dream injection. stupidity streamed to obtain a torture, sleep deprivation. people have to work in Spain, they do this because the create zombies that have to sell drugs.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
