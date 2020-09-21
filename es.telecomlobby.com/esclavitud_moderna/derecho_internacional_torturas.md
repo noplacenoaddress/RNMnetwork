@@ -475,7 +475,11 @@ Los resultados de dicha caza, muy parecida a una **cacería de brujas** [[154]](
 
 Los estados democráticos, que otra vez quiero acordar que son y tienen que ser estrictamente laicos, tienen que absolutamente proteger personas vulnerables, personas objetivos, de abusos y tienen que interpretar la protección de las torturas y las cibertorturas contra normas seculares no escritas directamente sino ocultas en varios textos del ser humano.
 
-La resultante marginación socio económica es un factor, yo diría uno de los resultados de las persecuciones, que expone las personas a abusos de Iglesia, estados, élite y crimen organizado. El pertenecer a la clase obrera o haber sido violado hasta el ser marginado nos hace conejillos de India para torturas que como siempre tienen el único fin del suicidio y de la creación de dinero a través de desarrollo que no sigue la **ética** [[157]](https://es.wikipedia.org/wiki/%C3%89tica) necesaria. 
+La resultante marginación socio económica es un factor, yo diría uno de los resultados de las persecuciones, que expone las personas a abusos de Iglesia, estados, élite y crimen organizado. El pertenecer a la clase obrera o haber sido violado hasta el ser marginado nos hace conejillos de India para torturas que como siempre tienen el único fin del suicidio y de la creación de dinero a través de desarrollo que no sigue la **ética** [[157]](https://es.wikipedia.org/wiki/%C3%89tica) necesaria. Las personas que pertenecen a la clase más pobres de la sociedad son esclavizadas en la red de monitorio neuronal utilizando cibertortura. 
+
+La élite llama la esclavitud moderna, **el juego** [[158]](https://www.amazon.com/Game-Spanish-Alessandro-Baricco/dp/8433964364). 
+
+La tortura, la pobreza, la privación de los derechos básicos (cosa mas marcada en el tercer mundo), el fomento de el desempoderamiento (revés de **empoderamiento** [[159]](https://es.wikipedia.org/wiki/Empoderamiento)) hecho utilizando pequeña criminalidad enmascarada de alta Mafia, las consecuentes encarcelaciones crean una **espiral** [[160]](https://es.wikipedia.org/wiki/Espiral) muy compleja de escapar que llega a la brutalización que en clave moderna es llegar a ser una maquina. Cuidado con esto antes de la tecnología las victimas de este negocio enorme, negocio milenario, llegaban a ser animales ahora maquinas. El fin último siempre es el provecho económico. Nada mas. 
 
 
 
@@ -794,6 +798,12 @@ La resultante marginación socio económica es un factor, yo diría uno de los r
 156. http://www.tribunaleclesiasticbarcelona.org/ca/inici?lang=es&
 
 157. https://es.wikipedia.org/wiki/%C3%89tica
+
+158. https://www.amazon.com/Game-Spanish-Alessandro-Baricco/dp/8433964364
+
+159. https://es.wikipedia.org/wiki/Empoderamiento
+
+160. https://es.wikipedia.org/wiki/Espiral
 
      
 
