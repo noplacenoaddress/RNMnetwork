@@ -138,6 +138,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 18/09/2020 06:00 dream injection. Saray affirm that she live with three brothers in Marina district. In dream she wants to suck me but I suffer from erectile dysfunction we are in a site where techno music is played in passeig verneda 88, Barcelona. After my mother speaks. It's a suicide game exactly the blue whale challenge and it's from Russia and played in the Barcelona neural monitoring network.
 - 21/9/2020 04:00 dream injection. stupidity streamed to obtain a torture, sleep deprivation. people have to work in Spain, they do this because the create zombies that have to sell drugs.
 - 22/9/2020 03:00 dream injection. my mother, Massimo, Gabriele and the mother of Massimo. I cannot sleet and I have to work. They say, not in dream, that our mothers bet over our life. Destroying it for betting purposes. Psychotics womans destroy life of them sons. Francesca play with this CL group of old womans the do a lot of money.
+- 24/9/2020 22:59 a Catalan aristocratic say that I pertain to him and another say that he see me on the street he will kill me.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
