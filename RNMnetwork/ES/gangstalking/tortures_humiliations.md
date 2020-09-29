@@ -139,6 +139,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 21/9/2020 04:00 dream injection. stupidity streamed to obtain a torture, sleep deprivation. people have to work in Spain, they do this because the create zombies that have to sell drugs.
 - 22/9/2020 03:00 dream injection. my mother, Massimo, Gabriele and the mother of Massimo. I cannot sleet and I have to work. They say, not in dream, that our mothers bet over our life. Destroying it for betting purposes. Psychotics womans destroy life of them sons. Francesca play with this CL group of old womans the do a lot of money.
 - 24/9/2020 22:59 a Catalan aristocratic say that I pertain to him and another say that he see me on the street he will kill me. And another Italian also.
+- 29/9/2020 03:50 dream injection. Saray was dressed with a talleur all white. After I wake up and in visual cortex injection only with closed eyes, BDSM with the twos chief of the band that have done and do stalk to me, Saray was blowjobs him and his woman, a crazy of domination a metal ill, say to me stupidities. Francesca has created a Barcelona based upon humilliations and sexual slavery.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
