@@ -524,6 +524,8 @@ El concepto de tortura puede ser descrito como substantivo o **atributivo** [[16
 
 Es reconocido a nivel internacional que los Estados delegan las torturas a celdas dedicadas a ellas que toman el nombre de **actores no estatales** [[166]](https://es.wikipedia.org/wiki/Actor_no_estatal), estos grupos se dedican a varias tareas más de forma mercenaria pero en tecnocracia responden siempre a la jerarquía noble y Eclesiástica. Del punto de vista del estado de derecho son grupos terroristas activos en Europa. Casi todos los componentes caen en este agujero negro debido a la falta de confianza en el estado de derecho debido al haber sido torturados y encarcelados por parte de los mismos nobles que después los encadenan en esta figuras del terror. Ellos mismos son victimas de este sistema corrupto donde se utiliza la tortura para doblar la voluntad de las victimas. Es un estado dentro del estado, un estado terrorista.
 
+Los estados, en este caso la aristocracia, utiliza estos grupos para lavarse las manos en caso de una investigación internacional. Así no tiene que ser porqué los reales culpables son ellos. **Francesca** es quien hay que investigar en primis para después llegar a toda la aristocracia y algunos ordenes eclesiásticos. 
+
 
 
 ###  External links 
