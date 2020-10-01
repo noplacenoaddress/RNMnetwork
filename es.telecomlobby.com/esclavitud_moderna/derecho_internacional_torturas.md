@@ -509,6 +509,16 @@ Esencialmente la violencia domestica se refiere a todo acto de violencia física
 
 Acerca de la red de monitorio neuronal en radio dentro de mi casa viven continuamente varias personas entra las cuales mi ex pareja, *maquinistas*, amigos, mis padres y otros personajes. Esto crea una especie de familia donde la violencia domestica es al orden del día. Sobretodo basada en violencia psicológica y sexual; es sin duda ninguna tortura más bien basada sobre las humillaciones. Cuando hablo de dentro de mi casa quiero decir dentro de la aplicación neuronal basada en mi cerebro. Es obvio que en cualquier parte yo vaya siempre están todos con migo. O sea que se puede refigurar como un familia, una familia obligada a la violencia por parte de *maquinistas*, torturadores, entrelazados con nobleza. Técnicos de torturas sin rastros y psicológica a sueldo de una marquesa Francesa. El problema principal que dicho maquinistas no son cocientes del todo de lo que se está llevando a cabo en esta aplicación neuronal. Intentaré ser más claro todavía y más exacto para verificar si ellos se sientes capaces de denunciar junto a mi, una victima, todo lo que está detrás de está destrucción sistemática. Es una labor complicada, larga y se necesita la colaboración de más personas posibles. Lo que está mas claro que el agua es que nosotros, ciudadanos reducidos a victimas, torturados y torturadores, tenemos el marco de leyes internacionales que nos protege de estos **noblecillos** que se están jugando territorios y influencias. Ellos lo llaman juego pero adentro de este infierno tecnológico están presente también menores.
 
+La violencia domestica incluye un vasto rango de conductas abusivas desde la negligencia culpable (omisión cociente no hace falta nada mas que acordar que todos quienes están en la aplicación neuronal me han visto torturado por años y no han hecho nada para ayudarme), exceso de controlo con el fin de aislar, humillar, **intimidar** [[164]](https://es.wikipedia.org/wiki/Intimidaci%C3%B3n) o subordinar una persona a varias formas de violencia física, abuso sexual, etcétera etcétera. La violencia domestica a menudo termina en la tortura. Hay que recordar que más de un billón de niños en el mundo son victimas de violencia domestica y que muchas veces la violencia domestica es perpetuada a lo largo de una vida entera. 
+
+A través de esta tecnología estos nobles dueños de la aplicación neuronal utilizan ambientes de violencia domestica y los recrean para utilizar debilidades de personas y transformarlos en torturadores.
+
+El Relator Especial considera la violencia domestica como un importante problema de derechos humanos.
+
+#### Relevancia de la prohibición de la tortura en el contexto de la violencia domestica.  
+
+
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -836,6 +846,8 @@ Acerca de la red de monitorio neuronal en radio dentro de mi casa viven continua
 162. https://es.wikipedia.org/wiki/Escalera_de_Penrose
 
 163. https://es.wikipedia.org/wiki/Violencia_dom%C3%A9stica
+
+164. https://es.wikipedia.org/wiki/Intimidaci%C3%B3n
 
      
 
