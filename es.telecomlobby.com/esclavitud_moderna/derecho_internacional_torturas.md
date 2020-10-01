@@ -526,6 +526,8 @@ Es reconocido a nivel internacional que los Estados delegan las torturas a celda
 
 Los estados, en este caso la aristocracia, utiliza estos grupos para lavarse las manos en caso de una investigación internacional. Así no tiene que ser porqué los reales culpables son ellos. **Francesca** es quien hay que investigar en primis para después llegar a toda la aristocracia y algunos ordenes eclesiásticos. 
 
+Cualquier hecho que incluya una violación física, mental o de la integridad moral es incompatible con la dignidad humana. 
+
 
 
 ###  External links 
