@@ -501,7 +501,13 @@ Mientras que es imposible hacer un elenco exhaustivo de personas a riesgo, cosa 
 
 ![](http://telecomlobby.com/Images/naciones_unidas.webp)
 
+#### La violencia domestica como una cuestión de derechos humanos 
 
+La **violencia domestica** [[163]](https://es.wikipedia.org/wiki/Violencia_dom%C3%A9stica) es presente en cualquier tipo de sociedad, extracción social y nivel de cultura. Daña gravemente la esfera física, sexual, emocional, mental, social de individuos, familias y comunidades. Por muchas personas hace de la vivienda un sitio de peligro, humillación y tortura.
+
+Esencialmente la violencia domestica se refiere a todo acto de violencia física, sexual, psicológica y económica que ocurre dentro da una unidad familiar sea que perpetradores y victimas viven dentro del mismo espacio físico o menos. 
+
+Acerca de la red de monitorio neuronal en radio dentro de mi casa viven continuamente varias personas entra las cuales mi ex pareja, *maquinistas*, amigos, mis padres y otros personajes. Esto crea una especie de familia donde la violencia domestica es al orden del día. Sobretodo basada en violencia psicológica y sexual; es sin duda ninguna tortura más bien basada sobre las humillaciones. Cuando hablo de dentro de mi casa quiero decir dentro de la aplicación neuronal basada en mi cerebro. Es obvio que en cualquier parte yo vaya siempre están todos con migo. O sea que se puede refigurar como un familia, una familia obligada a la violencia por parte de *maquinistas*, torturadores, entrelazados con nobleza. 
 
 ###  External links 
 
@@ -828,6 +834,8 @@ Mientras que es imposible hacer un elenco exhaustivo de personas a riesgo, cosa 
 161. https://es.wikipedia.org/wiki/Chivo_expiatorio
 
 162. https://es.wikipedia.org/wiki/Escalera_de_Penrose
+
+163. https://es.wikipedia.org/wiki/Violencia_dom%C3%A9stica
 
      
 
