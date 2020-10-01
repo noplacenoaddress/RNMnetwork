@@ -497,9 +497,9 @@ Mientras que es imposible hacer un elenco exhaustivo de personas a riesgo, cosa 
 
 
 
+# Naciones Unidas doc. A/74/148 12/7/2019 y comentarios sobre la situación Catalana.
 
-
-
+![](http://telecomlobby.com/Images/naciones_unidas.webp)
 
 
 
