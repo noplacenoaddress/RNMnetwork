@@ -517,6 +517,13 @@ El Relator Especial considera la violencia domestica como un importante problema
 
 #### Relevancia de la prohibición de la tortura en el contexto de la violencia domestica.  
 
+El concepto de tortura puede ser descrito como substantivo o **atributivo** [[165]](http://shorturl.at/nFMQ6):
+
+- El substantivo describe conductas que llegan a ser tortura.
+- El atributivo define el nivel de participación de figuras de Estado requerido para dar lugar a la responsabilidad del mismo en dichos hechos criminales. 
+
+Es reconocido a nivel internacional que los Estados delegan las torturas a celdas dedicadas a ellas que toman el nombre de **actores no estatales** [[166]](https://es.wikipedia.org/wiki/Actor_no_estatal), estos grupos se dedican a varias tareas más de forma mercenaria pero en tecnocracia responden siempre a la jerarquía noble y Eclesiástica. Del punto de vista del estado de derecho son grupos terroristas activos en Europa. Casi todos los componentes caen en este agujero negro debido a la falta de confianza en el estado de derecho debido al haber sido torturados y encarcelados por parte de los mismos nobles que después los encadenan en esta figuras del terror. Ellos mismos son victimas de este sistema corrupto donde se utiliza la tortura para doblar la voluntad de las victimas. Es un estado dentro del estado, un estado terrorista.
+
 
 
 ###  External links 
@@ -848,6 +855,10 @@ El Relator Especial considera la violencia domestica como un importante problema
 163. https://es.wikipedia.org/wiki/Violencia_dom%C3%A9stica
 
 164. https://es.wikipedia.org/wiki/Intimidaci%C3%B3n
+
+165. http://shorturl.at/nFMQ6
+
+166. https://es.wikipedia.org/wiki/Actor_no_estatal
 
      
 
