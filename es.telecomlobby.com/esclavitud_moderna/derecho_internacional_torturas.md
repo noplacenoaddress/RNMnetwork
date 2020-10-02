@@ -528,7 +528,13 @@ Los estados, en este caso la aristocracia, utiliza estos grupos para lavarse las
 
 Cualquier hecho que incluya una violación física, mental o de la integridad moral es incompatible con la dignidad humana. 
 
-Tanto en las torturas cuanto en el maltrato la condición de victima común es la **impotencia**. 
+Tanto en las torturas cuanto en el maltrato la condición de victima común es la **impotencia**. La impotencia de la victima es algo fundamental para encontrar crímenes de tortura o maltrato, en la cibertortura de la cual soy victima en Catalunya desde Noviembre 2017 se ha querido crear impotencia en mi mente utilizando subterfugios:
+
+- Todos los presentes en la aplicación neuronal construida en cima de mi id biometrica a la cual apuntan los neuroestimuladores inalámbricos de la torre de Collserola y las antenas en ELF, donde mi mismo cuerpo es el receptor, se pavonean de tener acceso a esta red que ellos llaman «techno». De esta forma enmascaran la tortura y las humillaciones con lo que bautizan un  «juego» donde yo hubiera tenido que encontrar acceso a esta red gubernamental haciendo crímenes informáticos y después hubiera tenido que encontrar Saray haciendo otro crimen de acoso. El hecho de que yo no tengo acceso provoca **impotencia** respecto a todos los demás, me convierte en el **hazmerreír** [[167]](https://dle.rae.es/hazmerre%C3%ADr) de muchos de los *maquinistas* que dicen ser hackers, lo cual es totalmente falso.
+- **Impotencia** sexual debida a torturas electromagnéticas, utilizando las armas neuro estimulan partes de mi cerebro que corresponden a los estados emotivos de la vergüenza, del miedo, de la incapacidad de satisfacer una mujer. Siendo yo un hombre, las dimensiones de mi pene toman las que se tienen en caso de pasar en realidad uno de estos estados emotivos.
+- **Impotencia** sexual debido al hecho que hace más de dos años (estoy escribiendo en Octubre 2020) no tengo relaciones sexuales con una mujer dado que la última que tuve que ya estaba en control neuronal pocos días después apareció desnuda en los portales de *xCHAN*. Está más que claro que como que soy una camara humana cualquier persona que entre en contacto con migo viene vista por esta banda de actores no estatales.
+- **Impotencia** debida al no poder ayudar a Saray, mi ex pareja. Que he visto en imágenes inyectadas en mi corteza visual en violaciones brutales. La he encontrada en pornografía en Internet. Es utilizada por parte de esta banda bajo coacción para hacer suicidar victimas, es esto el negocio del suicidio.
+- Saray cuando estaba conmigo también ejercitaba **impotencia** sobre de mi. Por ella no por fines de tortura pero por maltrato hacía mi persona. No fui capaz de entender el porqué. Es una victima de una banda de criminales que se ocupan de torturar por la aristocracia y parte de la Iglesia Católica.  
 
 
 
@@ -865,6 +871,8 @@ Tanto en las torturas cuanto en el maltrato la condición de victima común es l
 165. http://shorturl.at/nFMQ6
 
 166. https://es.wikipedia.org/wiki/Actor_no_estatal
+
+167. https://dle.rae.es/hazmerre%C3%ADr
 
      
 
