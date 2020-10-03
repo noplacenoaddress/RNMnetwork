@@ -540,6 +540,10 @@ La violencia domestica degrada, humilla, obliga, embrutece y también viola fís
 
 > Lo que si se yo, es que he hecho más de tres mil kilómetros para dar un beso a esta mujer. Y nadie, absolutamente nadie, ni si quiera mis padres que si están presentes, ha hecho nada. Nada. Para ellos la red de monitorio neuronal no existe. Porqué se avergüenzan. 
 
+#### Análisis de atributos: práctica internacional sobre la responsabilidad del Estado en el contexto de la violencia doméstica
+
+![](http://telecomlobby.com/Images/violencia_domestica.webp)
+
 
 
 ###  External links 
