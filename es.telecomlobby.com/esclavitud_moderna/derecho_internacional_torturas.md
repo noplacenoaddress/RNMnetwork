@@ -556,6 +556,8 @@ Muy lamentablemente este tipo de violencia es utilizada por parte de actores no 
 
 **Saray, te amo. No te preocupes.** 
 
+La esfera privada en la red de neuroestimuladores inalámbricos no existe. Es como si fuera una grande familia donde se incitan las personas a orgías y libertinajes sexuales. El que no tiene absolutamente nada de malo menos el echo que tienen segundos fines, fines económicos y fines destructivos. No hay absolutamente nada de malo en compartir sexo con personas limpias, pero si que lo hay en hacerlo con personas cocientes de que se utilice el placer para diseminar dudas y generar dinero o pero todavía alimentar pervertidos en canales de satélite privados. Quien está detrás de toda esta historieta alimenta el deseo en estas frecuencias utilizando las bellezas de mujeres encadenadas mentalmente y con niños a los jefes de este juego sádico. El comportamiento de ellas es estrictamente dictado de que la mayoría son mamas. La ben plantada, el nombre de la figura de mantis religiosa dedicada al estafa de empresarios y del negocio del suicidio. No son culpables, han sido manipuladas por décadas. Iglesia Católica, representada por algún grupo con ramificaciones sectarias, y nobleza de bajo nivel. Todo bajo el ojo del Estado, que tiene otro fin. Detrás un esqueje de algo muy antiguo, pero estas son otras consideraciones que profundizo en **9-rg.com** [[169]](http://9-rg.com/)
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -893,6 +895,8 @@ Muy lamentablemente este tipo de violencia es utilizada por parte de actores no 
 167. https://dle.rae.es/hazmerre%C3%ADr
 
 168. https://www.echr.coe.int/Pages/home.aspx?p=home
+
+169. http://9-rg.com/
 
      
 
