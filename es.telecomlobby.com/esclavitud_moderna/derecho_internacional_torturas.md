@@ -560,7 +560,7 @@ La esfera privada en la red de neuroestimuladores inalámbricos no existe. Es co
 
 Todo bajo el ojo del Estado, que tiene otro fin. Detrás un esqueje de algo muy antiguo, pero estas son otras consideraciones que profundizo en **9-rg.com** [[169]](http://9-rg.com/).
 
-En la red de monitorio neuronal están presentes, por coaccionar las mujeres, sus hijos. De aquí nacen toda una serie de importantes cuestiones sobre los derechos fundamentales de los niños, derechos que vienen menos en esta red delante de nobles, Estado y Iglesia. Una vergüenza asquerosa! Ellos tienen fines de muy largo plazo, es como una guerra no declarada. Para ellos los muertos no son importantes pero si lo es el resultado final. Si nosotros, todos y todas, nos unimos para destruir su meta, nuestros hijos no vendrán utilizados para llegar a dicho fin. Es igual su cargo o su escudo noble. Es igual, para esto está el marco legislativo internacional. Europa y Naciones Unidas. Pido disculpa si en estos años puedo haberme equivocado algunas veces con los *maquinistas* y con las chicas utilizadas. Todos, muchos de vosotros con varias inseguridades y dependencias, sois inocentes. Utilizados por cerdos.
+En la red de monitorio neuronal están presentes, por coaccionar las mujeres, sus hijos. De aquí nacen toda una serie de importantes cuestiones sobre los derechos fundamentales de los niños, derechos que vienen menos en esta red delante de nobles, Estado y Iglesia. Una vergüenza asquerosa! Ellos tienen fines de muy largo plazo, es como una guerra no declarada. Para ellos los muertos no son importantes pero si lo es el resultado final. Si nosotros, todos y todas, nos unimos para destruir su meta, nuestros hijos no vendrán utilizados para llegar a dicho fin. Es igual su cargo o su escudo noble. Es igual, para esto está el marco legislativo internacional. Europa y Naciones Unidas. Pido disculpa si en estos años puedo haberme equivocado algunas veces con los *maquinistas* y con las chicas utilizadas. Todos, muchos de vosotros con varias inseguridades y dependencias, sois inocentes. Utilizados por cerdos mandados de nobleza. Cerdos que actúan como carceleros en un ambiente compartido de violencia psicológica, sexual y acecho continuo. Fuente de inspiración también de varias películas estadounidenses. Muy parecido al ambiente propuesto por **David Lynch** [[170]](https://es.wikipedia.org/wiki/David_Lynch).
 
 ###  External links 
 
@@ -901,6 +901,8 @@ En la red de monitorio neuronal están presentes, por coaccionar las mujeres, su
 168. https://www.echr.coe.int/Pages/home.aspx?p=home
 
 169. http://9-rg.com/
+
+170. https://es.wikipedia.org/wiki/David_Lynch
 
      
 
