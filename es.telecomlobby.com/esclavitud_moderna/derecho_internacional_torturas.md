@@ -546,6 +546,14 @@ La violencia domestica degrada, humilla, obliga, embrutece y también viola fís
 
 
 
+> Vivo abuso economico por parte de mi familia desde que ha empezado la destrucción sistematica de mi vida. Intimidación, abuso emocional y aislamiento también.
+
+La violencia domestica impone entra otras al Estado una serie de obligaciones por parte del Estado en materia de prevención de torturas también por parte de actores privados.
+
+El Relator Especial como ya hemos reafirmado observa que las naciones son responsables de torturas y maltratos cuando fallan el proceso diligente de protegerlas victimas contra esta violencia. El **tribunal europeo de derechos humanos** [[168]](https://www.echr.coe.int/Pages/home.aspx?p=home) ha detectado en muchos casos el fracaso de las naciones en proteger victimas contra las torturas y la violencia domestica haciendo los Estados culpables en hechos sobre el derecho a la vida, el derecho a la privacidad y a la vida familiar y la prohibición de la discriminación. Un echo delictivo que viola derechos humanos y que inicialmente no es imputable a una nación puede llegar a ser responsabilidad del Estado delante del marco de leyes internacionales porqué no se han aplicado las medidas necesarias para la prevención del mismo. Los derechos de mujeres y niños tienen que ser prioritarios para cualquier Estado. Son las victimas más frecuente de violencia domestica.
+
+Muy lamentablemente este tipo de violencia es utilizada por parte actores no estatales en caso la victima, una mujer como puede ser mi ex pareja, sea esclava también no cocientes de la red de monitorio neuronal. Quiero decir que los echos delictivos pueden traducirse en *violencia domestica sistemática* con el fin de crear una torturadora o una prostituta forzada. Son procesos lentos que estos acosadores tecnológico llevan a cabo en décadas. Es todo para atraer en el agujero negro de la tortura a mujeres ignaras y indefensas. 
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -881,6 +889,8 @@ La violencia domestica degrada, humilla, obliga, embrutece y también viola fís
 166. https://es.wikipedia.org/wiki/Actor_no_estatal
 
 167. https://dle.rae.es/hazmerre%C3%ADr
+
+168. https://www.echr.coe.int/Pages/home.aspx?p=home
 
      
 
