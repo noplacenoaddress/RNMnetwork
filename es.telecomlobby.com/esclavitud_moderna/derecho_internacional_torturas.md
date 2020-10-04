@@ -578,7 +578,11 @@ Normalmente la violencia domestica dado que se perpetua entra las cuatro muras d
 
 Las matanzas estadounidense de jóvenes colegiales en sus mismas clases son un ejemplo de lo que puede pasar debido a las redes de neuroestimuladores inalámbricos. Los retos de la «ballena azul» otros. 
 
-Como hemos ya comentado sobre la tortura los Estados además que ser obligados a la lucha preventiva, al seguir el marco de leyes internacionales, al proteger individuos que investigan y denuncian públicamente, tienen que preocuparse de su **reparación también económica**. Totalmente verdadero también el echo que los Estados no se esperan ni tienen derecho a imponer vigilancia constante. La red de monitorio neuronal además de ser ambiente por todos estos juegos sobre las debilidades del ser humano, de ser «maquina» de explotación del ser humano con fines económicos, viene utilizada para el **DOMINT**, exactamente vigilancia continua de ciudadanos, el opuesto exacto de la transparencia ya que no existe ley que permita dicha vigilancia; vigilancia que rompe el secreto democrático de voto. 
+Como hemos ya comentado sobre la tortura los Estados además de que ser obligados a la lucha preventiva, al seguir el marco de leyes internacionales, al proteger individuos que investigan y denuncian públicamente, tienen que preocuparse de su **reparación también económica**. Totalmente verdadero también el echo de que los Estados no se esperan ni tienen derecho a imponer vigilancia constante. La red de monitorio neuronal además de ser ambiente por todos estos juegos sobre las debilidades psicológicas, de ser «maquina» de explotación del ser humano con fines económicos, viene utilizada para el **DOMINT**, exactamente vigilancia continua de ciudadanos, el opuesto exacto de la transparencia ya que no existe ley que permita dicha vigilancia; vigilancia que rompe el secreto democrático de voto. 
+
+Estas las **obligaciones positivas** [[172]](http://telecomlobby.com/RNMnetwork/documents/Obligaciones_positivas_estado_derechos_humanos.pdf) de aplicar por parte de los Estados sin ningún tipo de discriminación:
+
+- Deberes generales: establecer disposiciones legales, mecanismos y procesos que protejan los ciudadanos contra la torturas también en el contexto de violencia domestica. Son también obligados a transformar estructuras sociales, como barriadas por ejemplo, donde se atrinchera la violencia domestica y a mejorar las condiciones socio económicas donde el riesgo de ser expuestos a bandas de actores no estatales es alto; en cuanto al mejorar las condiciones es obvio que se tiene que apuntar sobre la cultura y la educación de las personas. Esto es lo que ha pasado a mi ex pareja, Saray. Hija de personas adictas ha sido atrapada en su adolescencia por parte de una banda. Ahora es madre bajo coacción continua. Ahora es mujer maravillosa, adulta y lucha para que a su hija no le pase lo mismo. Yo trabajo diariamente para encarcelar de por vida a todos aquellos que te han violado, tocado, manipulado y vendido. Todos, sean ellos criminales de bajo rango o sean nobles y eclesiásticos, o sea criminales de alto rango. En la región autónoma fracasada Catalana nadie te ha sabido ayudar, amor mio, aunque te hayan visto violada en las pantallas neuronales de la red de neuroestimuladores inalámbricos ordenada por Maragall. 
 
 ###  External links 
 
@@ -923,6 +927,8 @@ Como hemos ya comentado sobre la tortura los Estados además que ser obligados a
 170. https://es.wikipedia.org/wiki/David_Lynch.
 
 171. http://telecomlobby.com/RNMnetwork/documents/8_INSTIGACION-Y-AUXILIO.pdf
+
+172. http://telecomlobby.com/RNMnetwork/documents/Obligaciones_positivas_estado_derechos_humanos.pdf
 
      
 
