@@ -572,6 +572,8 @@ El Estado debe conducirse de modo que garantice eficazmente el disfrute de los d
 
 Instigación; **instigación al suicidio** [[171]](http://telecomlobby.com/RNMnetwork/documents/8_INSTIGACION-Y-AUXILIO.pdf); retos; vidas de adolescentes cortadas de cuajo.  *Habla con una ballena, en voz hacía el cerebro*.
 
+Normalmente la violencia domestica dado que se perpetua entra las cuatro muras de la vivienda privada raramente se puede ver como un acto oficial del Estado, cosa totalmente falsa en la red de monitorio neuronal. El estado delega a actores privados, bandas criminales, torturas y instigación a torturas y maltratos. Son procesos lentos, décadas de **abusos diluidos en el tiempo** difíciles de detectar por parte de ciudadanos de clase obrera y baja cultura. También los enmascaran detrás de juegos donde también personas cultas vienen engañadas y se transforman lentamente en maquinistas, torturadores. O envenenan padres utilizando debilidades psiquiátricas y regalando controlo sobre los hijos, de por si un echo criminal. Años de desgaste para intentar comprender porqué los hijos no siguen las huellas de los padres. Violencia domestica sistemática explotada por parte de nobleza que aprendió en clases privadas impartidas por eclesiásticos la debilidades del ser humano, los fallos de la mente humana, sobre como crearlos lentamente y como explotarlos un vez generados con el fin del negocio del suicidio de los hijos.  
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
