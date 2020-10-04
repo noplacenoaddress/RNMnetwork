@@ -593,6 +593,8 @@ Estas las **obligaciones positivas** [[172]](http://telecomlobby.com/RNMnetwork/
 
 > Patrones en valores clínicos debidos a anestesia derivada de operación causa de un accidente maquinado, un intento de asesinado de lo cual también soy victima en la mafia de la nobleza.
 
+Predominio, poder, superioridad, influjo o fuerza dominante que se tiene sobre alguien o algo.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
