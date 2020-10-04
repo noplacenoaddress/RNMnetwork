@@ -574,6 +574,12 @@ Instigación; **instigación al suicidio** [[171]](http://telecomlobby.com/RNMne
 
 Normalmente la violencia domestica dado que se perpetua entra las cuatro muras de la vivienda privada raramente se puede ver como un acto oficial del Estado, cosa totalmente falsa en la red de monitorio neuronal. El estado delega a actores privados, bandas criminales, torturas y instigación a torturas y maltratos. Son procesos lentos, décadas de **abusos diluidos en el tiempo** difíciles de detectar por parte de ciudadanos de clase obrera y baja cultura. También los enmascaran detrás de juegos donde también personas cultas vienen engañadas y se transforman lentamente en maquinistas, torturadores. O envenenan padres utilizando debilidades psiquiátricas y regalando controlo sobre los hijos, de por si un echo criminal. Años de desgaste para intentar comprender porqué los hijos no siguen las huellas de los padres. Violencia domestica sistemática explotada por parte de nobleza que aprendió en clases privadas impartidas por eclesiásticos la debilidades del ser humano, los fallos de la mente humana, sobre como crearlos lentamente y como explotarlos un vez generados con el fin del negocio del suicidio de los hijos.  
 
+> Negocio de lo cual, yo Riccardo Giuntoli, soy victima.
+
+Las matanzas estadounidense de jóvenes colegiales en sus mismas clases son un ejemplo de lo que puede pasar debido a las redes de neuroestimuladores inalámbricos. Los retos de la «ballena azul» otros. 
+
+Como hemos ya comentado sobre la tortura los Estados además que ser obligados a la lucha preventiva, al seguir el marco de leyes internacionales, al proteger individuos que investigan y denuncian públicamente, tienen que preocuparse de su **reparación también económica**. Totalmente verdadero también el echo que los Estados no se esperan ni tienen derecho a imponer vigilancia constante. La red de monitorio neuronal además de ser ambiente por todos estos juegos sobre las debilidades del ser humano, de ser «maquina» de explotación del ser humano con fines económicos, viene utilizada para el **DOMINT**, exactamente vigilancia continua de ciudadanos.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
