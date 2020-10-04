@@ -587,6 +587,12 @@ Estas las **obligaciones positivas** [[172]](http://telecomlobby.com/RNMnetwork/
 - **Deberes investigadores y procesales**:  el Estado tiene que investigar de forma exhaustiva cualquier tipo de denuncia creíble acerca de torturas. En caso negativo es claramente un Estado criminal. El medio publico como Internet junto a la independencia y imparcialidad de quien publica, como yo siendo victima, es particularmente apreciado por parte de Naciones Unidas siendo un medio poco influenciable sobre todo en la pagina del denunciante. 
 - **Reparación económica y non y obligación de no repetición**: absoluto obligo del Estado. 
 
+#### Aplicar la definición sustantiva de tortura y malos tratos a los patrones predominio de violencia doméstica
+
+![](http://telecomlobby.com/Images/patrones_anestesia_valores.webp)
+
+> Patrones en valores clínicos debidos a anestesia derivada de operación causa de un accidente maquinado, un intento de asesinado de lo cual también soy victima en la mafia de la nobleza.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
