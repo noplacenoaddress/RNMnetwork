@@ -568,7 +568,9 @@ El Estado debe conducirse de modo que garantice eficazmente el disfrute de los d
 
 #### Análisis de atributos: debida diligencia y perpetración, instigación, consentimiento y aquiescencia en el contexto de la violencia domestica. 
 
+![](http://telecomlobby.com/Images/retos_blue_whale_ninos.webp)
 
+Instigación; **instigación al suicidio** [[171]](http://telecomlobby.com/RNMnetwork/documents/8_INSTIGACION-Y-AUXILIO.pdf); retos; vidas de adolescentes cortadas de cuajo.  *Habla con una ballena, en voz hacía el cerebro*.
 
 ###  External links 
 
@@ -910,7 +912,9 @@ El Estado debe conducirse de modo que garantice eficazmente el disfrute de los d
 
 169. http://9-rg.com/
 
-170. https://es.wikipedia.org/wiki/David_Lynch
+170. https://es.wikipedia.org/wiki/David_Lynch.
+
+171. http://telecomlobby.com/RNMnetwork/documents/8_INSTIGACION-Y-AUXILIO.pdf
 
      
 
