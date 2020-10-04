@@ -578,7 +578,7 @@ Normalmente la violencia domestica dado que se perpetua entra las cuatro muras d
 
 Las matanzas estadounidense de jóvenes colegiales en sus mismas clases son un ejemplo de lo que puede pasar debido a las redes de neuroestimuladores inalámbricos. Los retos de la «ballena azul» otros. 
 
-Como hemos ya comentado sobre la tortura los Estados además que ser obligados a la lucha preventiva, al seguir el marco de leyes internacionales, al proteger individuos que investigan y denuncian públicamente, tienen que preocuparse de su **reparación también económica**. Totalmente verdadero también el echo que los Estados no se esperan ni tienen derecho a imponer vigilancia constante. La red de monitorio neuronal además de ser ambiente por todos estos juegos sobre las debilidades del ser humano, de ser «maquina» de explotación del ser humano con fines económicos, viene utilizada para el **DOMINT**, exactamente vigilancia continua de ciudadanos.
+Como hemos ya comentado sobre la tortura los Estados además que ser obligados a la lucha preventiva, al seguir el marco de leyes internacionales, al proteger individuos que investigan y denuncian públicamente, tienen que preocuparse de su **reparación también económica**. Totalmente verdadero también el echo que los Estados no se esperan ni tienen derecho a imponer vigilancia constante. La red de monitorio neuronal además de ser ambiente por todos estos juegos sobre las debilidades del ser humano, de ser «maquina» de explotación del ser humano con fines económicos, viene utilizada para el **DOMINT**, exactamente vigilancia continua de ciudadanos, el opuesto exacto de la transparencia ya que no existe ley que permita dicha vigilancia.
 
 ###  External links 
 
