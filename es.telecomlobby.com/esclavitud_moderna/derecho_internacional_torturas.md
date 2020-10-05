@@ -599,7 +599,7 @@ La violencia domestica puede virtualmente tomar cualquier forma. Estos son los p
 
 -  **Asesinato** [[173]](https://es.wikipedia.org/wiki/Asesinato): uno de cinco son perpetrados por parte de un familiar. Uno de siete por parte de una pareja. Se habla de **feminicidio** [[174]](https://es.wikipedia.org/wiki/Feminicidio) global. En esta red como que estoy defendiendo públicamente la figura de mi ex pareja se me amenaza continuamente de ser involucrado en algo parecido indicándome que me han robado las huellas dactilares.  Acordaros que en la red de monitorio neuronal nuestros ojos a menos de protegernos con un gorro de papel de plata son cámaras. Los hijos son quienes arriesgan más el asesinato por parte de los padres y en la red de neuroestimuladores inalámbricos y en la aplicación neuronal de control y apuestas mutuas de las victimas los padres vienen debilitados psicologicamente en frente de la figura del hijo. Obviamente siendo la red de monitorio neuronal un ambiente de tortura por la victima, sus queridos y su familia donde actores no estatales, *maquinistas*, perpetran el negocio del suicidio el Estado es totalmente culpable de denegar el derecho a la vida. En este caso el Estado es más bien la tecnocracia, la aristocracia; siendo Andorra y también España monarquías sus obligaciones de estado de derecho vienen totalmente pisadas.
 - **Violencia** [[175]](https://es.wikipedia.org/wiki/Violencia): es siempre un abuso a menos que no sea en defensa propia. También el mal uso de medicación viene considerado violencia. Según el Relator Especial en caso de violencia sistemática, útil a obtener un segundo fin y discriminatoria hacía una persona impotente se trata de tortura. Por impotencia podría ser considerada también el caso de personas que no reaccionan como el caso hombres victimas de violencia feminista.  
-- Violencia sexual: es al orden del día en la red de monitorio neuronal. No es física pero las sensaciones corporales son muy similares a la del sexo convencional. Ella ha sido violada continuamente en esta red, y yo unas cuantas veces de forma homosexual cuando yo soy heterosexual y nunca he consentido sexo por parte de personas de mi mismo genero. El jefe de la banda de actores no estatales siempre utiliza **símbolo fálico** [[176]](https://es.wikipedia.org/wiki/S%C3%ADmbolo_f%C3%A1lico) delante de nosotros para indicar su superioridad en algo que no nos pertenece. 
+- Violencia sexual: es al orden del día en la red de monitorio neuronal. No es física pero las sensaciones corporales son muy similares a la del sexo convencional. Ella ha sido violada continuamente en esta red, y yo unas cuantas veces de forma homosexual cuando yo soy heterosexual y nunca he consentido sexo por parte de personas de mi mismo genero. El jefe de la banda de actores no estatales siempre utiliza **símbolo fálico** [[176]](https://es.wikipedia.org/wiki/S%C3%ADmbolo_f%C3%A1lico) delante de nosotros para indicar su superioridad en algo que no nos pertenece.  La violencia sexual incluye el acoso sexual también solo verbal con el fin de violar la dignidad de una persona sobre todo cuando hay la intención de crear un ambiente intimidatorio, **hostil** [[177]](https://es.wikipedia.org/wiki/Hostilidad), degradante, humillante y **ofensivo** [[178]](https://es.wikipedia.org/wiki/Insulto). La violencia sexual en todas sus formas es un ataque a la dignidad humana y es capaz de destruir vidas en enteras y infancias. Es utilizada en este sistema de tortura para a su vez crear violadores y violadoras, *maquinistas*, torturadores. Esclavitud. Sadismo.
 
 
 
@@ -956,6 +956,10 @@ La violencia domestica puede virtualmente tomar cualquier forma. Estos son los p
 175. https://es.wikipedia.org/wiki/Violencia
 
 176. https://es.wikipedia.org/wiki/S%C3%ADmbolo_f%C3%A1lico
+
+177. https://es.wikipedia.org/wiki/Hostilidad
+
+178. https://es.wikipedia.org/wiki/Insulto
 
      
 
