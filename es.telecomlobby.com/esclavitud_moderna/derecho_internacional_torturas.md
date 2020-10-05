@@ -598,7 +598,7 @@ Predominio, poder, superioridad, influjo o fuerza dominante que se tiene sobre a
 La violencia domestica puede virtualmente tomar cualquier forma. Estos son los patrones reconducidles a este crimen contra la humanidad estrictamente conectado con la tortura:
 
 -  **Asesinato** [[173]](https://es.wikipedia.org/wiki/Asesinato): uno de cinco son perpetrados por parte de un familiar. Uno de siete por parte por una pareja. Se habla de **feminicidio** [[174]](https://es.wikipedia.org/wiki/Feminicidio) global. En esta red como que estoy defendiendo públicamente la figura de mi ex pareja se me amenaza continuamente de ser involucrado en algo parecido indicándome que me han robado las huellas dactilares.  Acordaros que en la red de monitorio neuronal nuestros ojos a menos de protegernos con un gorro de papel de plata por ejemplo son cámaras. Los hijos son quienes arriesgan más el asesinato por parte de los padres y en la red de neuroestimuladores inalámbricos y en la aplicación neuronal de control y apuestas mutuas de las victimas los padres vienen debilitados psicologicamente en frente de la figura del hijo. Obviamente siendo la red de monitorio neuronal un ambiente de tortura por la victima, sus queridos y su familia donde actores no estatales, *maquinistas*, perpetran el negocio del suicidio el Estado es totalmente culpable de denegar el derecho a la vida. En este caso el Estado es más bien la tecnocracia, la aristocracia; siendo Andorra y también España monarquías sus obligaciones de estado de derecho vienen totalmente pisadas.
-- 
+- **Violencia** [[175]](https://es.wikipedia.org/wiki/Violencia): 
 
 
 
@@ -951,6 +951,8 @@ La violencia domestica puede virtualmente tomar cualquier forma. Estos son los p
 173. https://es.wikipedia.org/wiki/Asesinato
 
 174. https://es.wikipedia.org/wiki/Feminicidio
+
+175. https://es.wikipedia.org/wiki/Violencia
 
      
 
