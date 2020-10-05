@@ -141,6 +141,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 24/9/2020 22:59 a Catalan aristocratic say that I pertain to him and another say that he see me on the street he will kill me. And another Italian also.
 - 29/9/2020 03:50 dream injection. Saray was dressed with a talleur all white. After I wake up and in visual cortex injection only with closed eyes, BDSM with the twos chief of the band that have done and do stalk to me, Saray was blowjobs him and his woman, a crazy of domination a metal ill, say to me stupidities. Francesca has created a Barcelona based upon humilliations and sexual slavery.
 - 1/10/2020 10:10 As I go ahead with my study about human right a person in subliminal message system say: "I'll kill you".
+- 5/10/2020 17:55 I cannot work because of continous stalking from aristocracy in my house. Voice to skull, is Saray that follow the rules from aristocracy or they torture her. It's a scandal from a shittish marquees from France that is destroying Catalunya in front of the crown. They say that this is a game but I love her, its six years that I don't see her, and I'm very tired of stupidity from this woman that sell people and do human slavery in twentyone century. This is the only true, a scandal. **FULL STOP**.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
