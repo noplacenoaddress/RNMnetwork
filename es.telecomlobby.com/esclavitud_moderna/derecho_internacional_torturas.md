@@ -546,7 +546,7 @@ La violencia domestica degrada, humilla, obliga, embrutece y también viola fís
 
 
 
-> Vivo abuso economico por parte de mi familia desde que ha empezado la destrucción sistematica de mi vida. Intimidación, abuso emocional y aislamiento también.
+> Vivo abuso económico por parte de mi familia desde que ha empezado la destrucción sistemática de mi vida. Intimidación, abuso emocional y aislamiento también.
 
 La violencia domestica impone entra otras una serie de obligaciones por parte del Estado en materia de prevención de torturas contra actores privados.
 
