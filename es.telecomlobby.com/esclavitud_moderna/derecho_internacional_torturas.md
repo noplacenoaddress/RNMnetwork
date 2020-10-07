@@ -615,6 +615,10 @@ La violencia domestica puede virtualmente tomar cualquier forma. Estos son los p
 
 
 
+La violencia domestica toma sitio dentro de la esfera familiar o en una casa y es perpetrada en un contexto u ambiente donde los verdugos ejercen poderío económico, social, legal y emocional sobre las victimas. 
+
+> Como he explicado en la red de monitorio neuronal codificada sobre los EEG de victimas y criminales el ambiente es parecido a una casa virtual, algo que se podría refigurar como una sala de la antigua chat IRC, con operadores, signos de cruz que indican quien tiene voz (exactamente como en la red neuronal ya que muchos tienen sus voces codificadas en vocoder) y personas que participan a la sala, el problema es que aquí quien participa a la sala está obligado y no puede salir.  Considerado que el protocolo IRC data 1988 mi consideración es viable ya que la torre de Collserola data 1991. Otro protocolo de aplicación interesante para analizar es LambdaMOO de 1991.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
