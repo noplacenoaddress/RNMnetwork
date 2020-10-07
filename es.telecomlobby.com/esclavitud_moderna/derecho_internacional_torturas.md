@@ -619,7 +619,11 @@ La violencia domestica toma sitio dentro de la esfera familiar o en una casa y e
 
 > Como he explicado en la red de monitorio neuronal codificada sobre los EEG de victimas y criminales el ambiente es parecido a una casa virtual, algo que se podría refigurar como una sala de la antigua chat IRC, con operadores, signos de cruz que indican quien tiene voz (exactamente como en la red neuronal ya que muchos tienen sus voces codificadas en vocoder) y personas que participan a la sala, el problema es que aquí quien participa a la sala está obligado y no puede salir.  Considerado que el protocolo IRC data 1988 mi consideración es viable ya que la torre de Collserola data 1991. Otro protocolo de aplicación interesante para analizar es LambdaMOO de 1991. En la sala de mi tortura el único sin voz soy yo todos los demás son administradores de IRCd, operadores de sala, bot, y gente con voz. David Lynch, la sala roja el cifrado débil de protocolo parece al hablado inverso del enano. 
 
-Denegar el acceso a la justicia a las victimas es típico de la violencia domestica, justo como pasa con las torturas y la corrupción; de la cibertortura ni hablar porqué ni está en el marco legislativo Español, si en el Internacional y España pertenece a Europa y a Naciones Unidas.
+Denegar el acceso a la justicia a las victimas es típico de la violencia domestica, justo como pasa con las torturas y la corrupción; de la cibertortura ni hablar porqué ni está en el marco legislativo Español, si en el Internacional y España pertenece a Europa y a Naciones Unidas. Muchas victimas, sobre todo niños, son separados de sus familias las victimas son frecuentemente traumatizados en manera que a sus veces mas adelante en la vida sean torturadores. Es manipulación sistemática en décadas, del ADN no se sale a menos que no se haga una denuncia colectiva a los poderes nobles que nos hacen esclavos en generaciones. Ahora es todo digital, **cibertortura** la palabra que tiene que ser chillada en las jaulas del tribunal constitucional Europeo de derechos humanos.  En respuesta a la violencia domestica, o sea a tortura, el Estado tiene que:
+
+- Prevenir abusos futuros.
+- Prevenir que las victimas sean victimas mas veces a través de procedimientos posteriores, medidas y sanciones.
+- *Brindar a las victimas rehabilitación, compensación económica, soporte y protección para establecer una vida digna lejos de torturas, violencias, acoso y mafias.* 
 
 ###  External links 
 
