@@ -625,6 +625,10 @@ Denegar el acceso a la justicia a las victimas es típico de la violencia domest
 - Prevenir que las victimas sean victimas mas veces a través de procedimientos posteriores, medidas y sanciones.
 - *Brindar a las victimas rehabilitación, compensación económica, soporte y protección para establecer una vida digna lejos de torturas, violencias, acoso y mafias.* La verdad es que las personas reducidas a Mafias en realidad sean victimas aunque hayan llegado a ser brutalizados y sea muy complicada su re-inserción en la sociedad civil. 
 
+# Naciones Unidas doc. A/HRC/40/59 22/3/2019 y comentarios sobre la situación Catalana.
+
+![](http://telecomlobby.com/Images/nacionesunidas.webp)
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
