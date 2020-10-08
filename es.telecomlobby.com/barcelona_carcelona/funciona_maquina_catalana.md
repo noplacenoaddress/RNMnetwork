@@ -79,7 +79,7 @@ En Catalunya todo este sistema es gestionado por parte de la mayor familia noble
 
 #### Sistema de posicionamiento obtenido a través de interfaz con red GSM
 
-![Zombie tecnologicos](http://telecomlobby.com/Images/zombie_tecnologicos.webp)
+![Zombie tecnologicos](http://telecomlobby.com/Images/neuroestimuladores_iglesia_neowise.webp)
 
 Aquí se denota como la red de esclavitud en España, en realidad es compuesta también por una especie de ECHELON. Un ECHELON estatal que podría ser debido a corrupción de funcionarios pero llegados a este punto de reflexiones es muy probable que no.
 

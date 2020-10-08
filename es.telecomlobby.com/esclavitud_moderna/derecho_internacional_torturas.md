@@ -641,6 +641,8 @@ La **convención de las Naciones Unidas contra la corrupción** [[203]](http://t
 
 > ¿Porqué estoy adentro de acecho continuo, torturas y conozco prácticamente toda la organización? Podría ser porqué soy victima de trafico de cunas. Podría ser porqué mi familia o parte de ella es victima por parte de familias muy poderosas desde hace generaciones. 
 
+
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
