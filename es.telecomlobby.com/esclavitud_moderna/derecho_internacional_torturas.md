@@ -627,7 +627,17 @@ Denegar el acceso a la justicia a las victimas es típico de la violencia domest
 
 # Naciones Unidas doc. A/HRC/40/59 22/3/2019 y comentarios sobre la situación Catalana.
 
-![](http://telecomlobby.com/Images/nacionesunidas.webp)
+![](http://telecomlobby.com/Images/corrupcion_naciones_unidas.webp)
+
+
+
+#### La tortura y los malos tratos relacionados con la corrupción
+
+La corrupción debilita la la creación de instituciones eficaces, responsables y transparentes a todos los niveles incluida la protección de los derechos humanos o sea de la **tortura**. En el caso de la red de monitorio neuronal dicha corrupción es gestionada por parte de la aristocracia y de la Iglesia Católica. La corrupción crea un entorno propicio para los abusos de esos derechos. Los sistemas de justicia penal corruptos son una causa fundamental de la tortura. Se exige a los Estados medidas apropiadas para erradicar la corrupción, basados en sólidos principios democráticos. Es necesaria una extensa colaboración entra expertos, representantes gubernamentales, organizaciones internacionales y organizaciones de la sociedad civil. En ACNUDH una página informativa sobre algunos de los **instrumentos** [[202]](https://www.ohchr.org/SP/ProfessionalInterest/Pages/UniversalHumanRightsInstruments.aspx) para defender los derechos humanos.
+
+#### Características básicas de la corrupción, la tortura y los malos tratos
+
+
 
 ###  External links 
 
@@ -1032,6 +1042,8 @@ Denegar el acceso a la justicia a las victimas es típico de la violencia domest
 200. https://es.wikipedia.org/wiki/El_exorcismo_de_Emily_Rose
 
 201. https://es.wikipedia.org/wiki/Exorcismo
+
+202. https://www.ohchr.org/SP/ProfessionalInterest/Pages/UniversalHumanRightsInstruments.aspx
 
      
 
