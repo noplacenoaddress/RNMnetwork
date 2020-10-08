@@ -143,6 +143,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 1/10/2020 10:10 As I go ahead with my study about human right a person in subliminal message system say: "I'll kill you".
 - 5/10/2020 17:55 I cannot work because of continous stalking from aristocracy in my house. Voice to skull, is Saray that follow the rules from aristocracy or they torture her. It's a scandal from a shittish marquees from France that is destroying Catalunya in front of the crown. They say that this is a game but I love her, its six years that I don't see her, and I'm very tired of stupidity from this woman that sell people and do human slavery in twentyone century. This is the only true, a scandal. **FULL STOP**.
 - 6/10/2020 I'm very tired to be tortured every days. I cannot go ahead with my WISP Redama because there is someone that pay non-state actor crew to torture me because of work mobbing. **Please, king of Spain, help me**; I'm a worker and I work every day to go ahead with my life that was interrupted by technocracy. Please really, help me.
+- 8/10/2020 a member of a important Catolich group is torturing me with direct corrent in front of a lot of people. No one say nothing and this shittish son of a bitch is using torture because I'm working from two weeks and he doesn't want. It's a scandal. **STOP ELECTRONIC TORTURE NOW**.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
