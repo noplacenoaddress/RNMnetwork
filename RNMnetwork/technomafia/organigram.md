@@ -6,7 +6,9 @@ First of all this organization it's strictly connected to child trafficking betw
 
 This Casino is very articulated. Its the result of a great **brainstorming** [[3]](https://en.wikipedia.org/wiki/Brainstorming) from great minds. But to do pain and the systematically destroy people. Who are? And I'm not jocking. They are probably **archbishops** [[4]](https://en.wikipedia.org/wiki/Archbishop). Who are? Nobles that dedicate to study. Illuminati. Nothing more.
 
-### Organization chart of the Sagrada Familia Mafia.
+#### Organization chart of the Sagrada Familia Mafia. A subsidiary of SPECTRAM, a crew of non-state actors.
+
+![SPECTRAM subsidiary](http://telecomlobby.com/Images/sagrada_familia_mafia_nonstate_actors_spectram.webp)
 
 ### External links
 
