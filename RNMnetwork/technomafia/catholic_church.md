@@ -15,6 +15,10 @@ What I want to underline to you, reader? Simply, Vatican city is full of radio t
 
 This is the Vatican Radio principle building but the important think to notice is the antenna in the background. Is an antenna that transmit in MF wave longitude. Medium frequencies are what is used to transmit subliminal messages direct to skull like we've already studied. This antenna is exactly the same that we've reported in Palau de Plegamans in Catalunya. Those are responsible of those messages using the US patent technology. Probably the new digital system perhaps is only remote EEG better saying brain wave transmitted by ELF software defined radio. 
 
+![](http://telecomlobby.com/Images/vatincan_pop_thegame_modern_slavery.webp)
+
+Another view of the central node of what is called "the game", modern slavery with last mile technology based upon dilapidated radios now modernised with computers clusters for neural cognitive interpretation and GPU clusters for artificial intelligence man in the middle in our brain and nervous system. In the point to point probably in 7 GHz proprietary and licensed protocol is encapsulated all the Mediterranean slavery, exploration and sexual harassment. Among other absurdities women used to kill, to suicide exactly the opposite to what is their nature, give birth. Fuck off.
+
 ### An assembly line dedicated to degradation
 
 ![Degradation](../../Images/11294340-3x2-940x627.jpg)
