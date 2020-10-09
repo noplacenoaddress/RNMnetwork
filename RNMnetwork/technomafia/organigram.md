@@ -8,6 +8,8 @@ This Casino is very articulated. Its the result of a great **brainstorming** [[3
 
 #### Organization chart of the Sagrada Familia Mafia. A subsidiary of SPECTRAM, a crew of non-state actors.
 
+![SPECTRAM subsidiary](http://telecomlobby.com/Images/sagrada_familia_mafia_nonstate_actors_spectram.webp)
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Remote_viewing
