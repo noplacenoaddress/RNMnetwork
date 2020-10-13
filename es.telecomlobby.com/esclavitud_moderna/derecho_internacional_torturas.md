@@ -671,7 +671,7 @@ Mientras que la responsabilidad personal es un elemento indispensable de cualqui
 
 El presente informe de centra exclusivamente en los contextos, subcontextos y espacios situacionales caracterizados por cierto grado de interacción entre la corrupción y la tortura, es importante entender que los Estados tienen obligaciones legales de actuar sin demora y eficazmente para prevenir y reparar esos abusos.
 
-La relación entre ambos fenómenos suele ser cíclica, en tanto que uno es origen del otro y lo agrava. 
+La relación entre ambos fenómenos suele ser cíclica, en tanto que uno es origen del otro y lo agrava.  La corrupción no solo se utiliza a menudo deliberadamente para facilitar, perpetuar y proteger la práctica de la tortura, sino que la tortura también se utiliza a menudo deliberadamente para facilitar, perpetuar y proteger la práctica de la corrupción. La corrupción del sistema judicial socava gravemente la rendición de cuentas por vulneraciones de los derechos humanos. Lo actos o las amenazas de tortura también se utilizan como forma de injerencias en el sistema judicial, incluso en relación con la investigación de casos de corrupción y las decisiones al respecto. Tiene mayor incidencia y es más perjudicial en contextos de privación de libertad y entornos caracterizados por la discriminación, la marginación socioeconómica u otras circunstancias en que las personas o las comunidades son vulnerables ante los abusos.
 
 ###  External links 
 
