@@ -669,7 +669,9 @@ Mientras que la responsabilidad personal es un elemento indispensable de cualqui
 
 ![](http://telecomlobby.com/Images/juntos_contra_tortura.webp)
 
+El presente informe de centra exclusivamente en los contextos, subcontextos y espacios situacionales caracterizados por cierto grado de interacción entre la corrupción y la tortura, es importante entender que los Estados tienen obligaciones legales de actuar sin demora y eficazmente para prevenir y reparar esos abusos.
 
+La relación entre ambos fenómenos suele ser cíclica, en tanto que uno es origen del otro y lo agrava. 
 
 ###  External links 
 
