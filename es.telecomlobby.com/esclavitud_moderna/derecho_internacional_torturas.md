@@ -673,6 +673,8 @@ El presente informe de centra exclusivamente en los contextos, subcontextos y es
 
 La relación entre ambos fenómenos suele ser cíclica, en tanto que uno es origen del otro y lo agrava.  La corrupción no solo se utiliza a menudo deliberadamente para facilitar, perpetuar y proteger la práctica de la tortura, sino que la tortura también se utiliza a menudo deliberadamente para facilitar, perpetuar y proteger la práctica de la corrupción. La corrupción del sistema judicial socava gravemente la rendición de cuentas por vulneraciones de los derechos humanos. Lo actos o las amenazas de tortura también se utilizan como forma de injerencias en el sistema judicial, incluso en relación con la investigación de casos de corrupción y las decisiones al respecto. Tiene mayor incidencia y es más perjudicial en contextos de privación de libertad y entornos caracterizados por la discriminación, la marginación socioeconómica u otras circunstancias en que las personas o las comunidades son vulnerables ante los abusos.
 
+Al diseñar medidas para erradicar una pauta específica de interacción entre la corrupción y la tortura es crucial comprender las relaciones causales qeu vinculan ambos fenómenos en ese contexto particular.  En el caso de gobernanza sistémica, las interacciones causales entre la corrupción y la tortura suelen ser fluidas, lo cual hace que la determinación de una cadena fija y precisa de causa y efecto se convierta en una actividad parecida al **dilema** [[213]](https://es.wikipedia.org/wiki/Dilema) clásico de la **gallina y el huevo** [[214]](https://es.wikipedia.org/wiki/El_huevo_o_la_gallina), en mi caso todos empezó con malos tratos. 
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1098,6 +1100,10 @@ La relación entre ambos fenómenos suele ser cíclica, en tanto que uno es orig
 211. https://es.wikipedia.org/wiki/Celos
 
 212. https://es.wikipedia.org/wiki/Crimen_de_lesa_humanidad
+
+213. https://es.wikipedia.org/wiki/Dilema
+
+214. https://es.wikipedia.org/wiki/El_huevo_o_la_gallina
 
      
 
