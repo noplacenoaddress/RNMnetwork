@@ -661,9 +661,13 @@ Los estados donde se aplique tortura o cibertortura tienen deberes delante del d
 
 A juicio del Relator Especial, las personas a quienes, mediante el abuso de un poder otorgado o apropiado, se ha coaccionado para que ofrezcan dinero, actos sexuales, trabajo forzado o alguna otra ventaja indebida no deben considerarse culpables sino victimas de la corrupción. En función de las características de la coacción, también deberían considerarse víctimas de actos o amenazas de tortura o malos tratos, por ejemplo, cuando la cesación de la tortura y malos tratos o la protección contra de ellos se haga de pender de la transferencia de una ventaja indebida. En la red de monitorio neuronal un torturado pasa a ser torturador si participa a la destrucción sistemática de la vida de un nueva victima; en realidad pasan a ser todavía más torturado entrando en un nivel más profundo de la red de monitorio neuronal. 
 
-En países donde se encuentre tortura y corrupción es de suma importancia que se comprenda el carácter predominantemente estructural y sistémico de ambas formas de abuso. Yo añado que dicha estructura es **totalmente computerizada**, me lanzo también en declarar que las grandes tecnológicas participan de forma activa a dicha gestión monumental. 
+En países donde se encuentre tortura y corrupción es de suma importancia que se comprenda el carácter predominantemente estructural y sistémico de ambas formas de abuso. Yo añado que dicha estructura es **totalmente computerizada**, me lanzo también en declarar que las grandes tecnológicas participan de forma activa a dicha gestión monumental. La corrupción abarca en Catalunya todas las instituciones. 
 
+Mientras que la responsabilidad personal es un elemento indispensable de cualquier forma seria de lucha contra la corrupción o contra la tortura y los malos tratos, ninguno de esos fenómenos podrá erradicarse únicamente mediante el enjuiciamiento penal, ya que la justicia penal individualizada no puede abordar de manera apropiada los factores sistémicos y estructurales que dan lugar tanto a la corrupción como a la tortura para responder a ellos se requieren medidas sistémicas más amplias. Factores como las prácticas de reclutamiento, de capacitación, la cultura profesional, la remuneración y las condiciones de trabajo, por ejemplo, pueden contribuir de manera importante a aumentar o atenuar el riesgo de brutalidad policial y  de corrupción. Me arriesgo en declarar que parte de los cuerpos de policía de Catalunya es efectivamente bajo tortura. 
 
+#### Relación general entre la corrupción y la tortura o los malos tratos
+
+![](http://telecomlobby.com/Images/juntos_contra_tortura.webp)
 
 
 
