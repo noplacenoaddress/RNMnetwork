@@ -643,6 +643,14 @@ La **convención de las Naciones Unidas contra la corrupción** [[203]](http://t
 
 Una definición de corrupción hace referencia al «abuso de poder para beneficio propio», diría que es la practica más común en las monarquías. Es curioso porqué los mismos monarcas legislan constitución, códigos penal y civil pero de otro lado, utilizando la red de monitorio neuronal, construyen un ambiente donde la corrupción domina y la tortura es el instrumento más utilizado para doblegar la gente.  Otra hace referencia a «la utilización indebida o el abuso malintencionado de una posición de poder para obtener un beneficio o ventaja personal o para un tercero», *imagínense en una monarquía que se esconde detrás de una banda criminal de actores no estatales reclutados a través de la tortura.* Y a la banda de actores no estatales se le ofrecen ventajas indebidas como dinero y favores incluido violencia sexual hacía mujeres victimas. Como Saray. ¿Porqué aceptan? porqué ellos mismos han sido violados y han sufrido violencia de genero, así que estúpidamente volcán su odio sobre una mujer a su vez victima. Porqué son brutalizados por parte de la tortura. Otro tipo de prueba aplastante es el numero de procedimientos pendientes en las listas de los juzgados que tiene un individuo que pertenece al grupo de actores no estatales, otro grave caso de corrupción extensa. 
 
+La corrupción en los países desarrollados suele ser más sofisticada, más sutil y menos visible que en los países en vía de desarrollo y, por lo tanto, puede resultar más difícil de detectar, pero esto no significa que no exista. Yo Riccardo Giuntoli, he detectado siendo victima el medio de telecomunicaciones utilizado para gestionar dicha corrupción y es sin duda ninguna en Catalunya la red de monitorio neuronal transmitida a través de los neuroestimuladores inalámbricos, armas, de la torre de Collserola. Países del primer mundo, como países Europeos, suelen contribuir a corrupción países del tercer mundo, como en el continente Africano. La corrupción en un país puede ser ocasionada, facilitada o fomentada por factores políticos, empresariales o de otro tipo en otros países. Se puede clasificar como:
+
+- Corrupción en pequeña escala.
+- Corrupción en grande escala.
+- Corrupción política.
+
+«En pequeña escala» se produce principalmente cuando las personas interactúan  directamente con funcionarios de nivel medio o bajo en un intento de obtener acceso a bienes y servicios públicos básicos, entraña sumas de dinero relativamente modestas u otros beneficios personales. El grupo de actores no estatales es organizado en pirámide, el nivel es dado de la antigüedad, son todas personas reclutadas a través de una persecución y de torturas; son personas inocentes que por el hecho de pertenecer a esta función de un estado fracasado han tenido que delinquir en crímenes de pequeña talla que desgastan a los perpetradores mismos, la violencia sexual domina. A este grupo de le da como comida a mujeres a sus veces capturadas en la red de monitorio neuronal, mujeres como comida. Saray es una de ellas y tiene  antigüedad, ya que es una mujer maravillosa todo el grupo es muy celoso de ella. Los **celos** [[211]](https://es.wikipedia.org/wiki/Celos) es otra debilidad de la mente utilizada para desestabilizar el mismo grupo.   
+
 
 
 
@@ -1068,6 +1076,8 @@ Una definición de corrupción hace referencia al «abuso de poder para benefici
 209. https://es.wikipedia.org/wiki/Lavado_de_dinero
 
 210. https://es.wikipedia.org/wiki/Grupo_de_presi%C3%B3n
+
+211. https://es.wikipedia.org/wiki/Celos
 
      
 
