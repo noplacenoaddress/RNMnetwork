@@ -655,6 +655,12 @@ El Relator Especial se ha topado con este tipo de corrupción en muchos países 
 
 **«En grande escala y política»** afecta a funcionarios públicos de alto nivel y entraña a menudo grandes sumas de dinero u otros beneficios, como loa mala asignación de recursos del Estado y la venta o concesión indebida por algún otro motivo de nombramientos políticos o de lucrativos contratos públicos de adquisición o concesión de licencias.  Con este tipo de corrupción de perpetúan actos como comprar votos, financiar campañas ilícitamente y silenciar a la oposición política. Todas las formas de corrupción en gran escala perjudican la buena gobernanza y el interés público, agotan o desvían recursos públicos, socavan gravemente el buen funcionamiento de los servicios e instituciones públicos y llevan a la propagación de la corrupción de la sociedad, puede penetrar en la todas las políticas gubernamentales y en la función legislativa, la aplicación de la ley y la administración de la justicia en formas que socavan o incluso paralizan todos los aspectos de la lucha contra la tortura y los malos tratos, desde la apropiación indebida, delito de lo cual he sido acusado yo a través de una estafa, o la desviación o el agotamiento de recursos que deberían haberse utilizado para la prevención y la reparación en casos de tortura y malos tratos hasta tolerar o facilitar la tortura y malos tratos o asegurar la impunidad por este tipo de abusos. Todo esto es exactamente lo que he detectado yo siendo victima de este sistema enfermizo.  
 
+**Tortura**, instrumento de la tecnocracia para moldear seres humanos como maquinas, denota el acto de infligir intencionalmente dolor o sufrimiento a una persona indefensa para alcanzar un propósito particular. La ilicitud de la tortura proviene principalmente del empleo de un medio intrínsecamente ilícito, en el caso de la cibertortura es la red de monitorio neuronal. Toda forma de tortura y malos tratos entrañan vulneraciones de la integridad física o mental que son incompatibles con la dignidad humana y, por tanto, no pueden justificarse en ninguna circunstancia. 
+
+Los estados donde se aplique tortura o cibertortura tienen deberes delante del derecho internacional general. Estos actos criminales sobre todo se aplicados de forma sistemática, como en la tecnocracia, pueden dar lugar a responsabilidad penal personal por crímenes de guerra o crímenes de **lesa humanidad** [[212]](https://es.wikipedia.org/wiki/Crimen_de_lesa_humanidad). Los estados tienen participación culpable tanto por la corrupción cuanto por las torturas.
+
+A juicio del Relator Especial, las personas a quienes, mediante el abuso de un poder otorgado o apropiado, se ha coaccionado para que ofrezcan dinero, actos sexuales, trabajo forzado o alguna otra ventaja indebida no deben considerarse culpables sino victimas de la corrupción. En función de las características de la coacción, también deberían considerarse víctimas de actos o amenazas de tortura o malos tratos, por ejemplo, cuando la cesación de la tortura y malos tratos o la protección contra de ellos se haga de pender de la transferencia de una ventaja indebida. En la red de monitorio neuronal un torturado pasa a ser torturador si participa a la destrucción sistemática de la vida de un nueva victima; en realidad pasan a ser todavía más torturado entrando en un nivel más profundo de la red de monitorio neuronal. 
+
 
 
 
@@ -1082,6 +1088,8 @@ El Relator Especial se ha topado con este tipo de corrupción en muchos países 
 210. https://es.wikipedia.org/wiki/Grupo_de_presi%C3%B3n
 
 211. https://es.wikipedia.org/wiki/Celos
+
+212. https://es.wikipedia.org/wiki/Crimen_de_lesa_humanidad
 
      
 
