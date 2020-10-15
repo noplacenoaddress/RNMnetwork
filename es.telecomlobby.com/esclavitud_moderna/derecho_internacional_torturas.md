@@ -694,6 +694,10 @@ Corrupción y tortura pueden interactuar de formas muy diferentes, el Relator Es
 
 > Deficiencias sistémicas que derivan de echos y territorios históricos, instituciones milenarias que se aprovechan de estas situaciones sistemáticamente. Pueblos y ciudadanos que sufren todavía después de quinientos años. 
 
+La corrupción y la tortura o los malos tratos pueden entenderse mejor como dos efectos concomitantes de la misma causa original, es decir, el fracaso del sistema de gobernanza imperante a la hora de prevenir el surgimiento y el ejercicio de un poder incontrolado. En circunstancias extremas caracterizadas por una supresión casi completa o un colapso del estado de derecho, como sucede en los regímenes dictatoriales, los **Estados fracasados** [[218]](https://es.wikipedia.org/wiki/Estado_fallido), los conflictos armados o los desastres naturales, el poder incontrolado suele ser consecuencia de deficiencias sistémicas de gobernanza que no necesariamente son percibidas, como en el caso de la red de monitorio neuronal, por lo menos a primera vista, como propicias para la corrupción y la tortura o los malos tratos; no obstante la obligación legal internacional de adoptar medidas sistémicas de reparación puede considerarse una consecuencia directa de la obligación de los Estados de adoptar medidas eficaces para la prevención de la tortura  los malos tratos y de la corrupción.
+
+Una de las causas más fundamentales de la corrupción y de la tortura o los malos tratos cometidos, facilitados o tolerados a todos los niveles de la autoridad del Estado es la ausencia de un sistema eficaz de equilibrios y contrapesos y de una estricta separación de poderes entre las ramas ejecutiva, judicial y legislativa del Gobierno. Mientras que las deficiencias de gobernanza sistémicas son bastante evidentes en Estados con **regímenes autocráticos** [[219]](https://es.wikipedia.org/wiki/Autocracia)
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1129,6 +1133,10 @@ Corrupción y tortura pueden interactuar de formas muy diferentes, el Relator Es
 216. https://es.wikipedia.org/wiki/Servidumbre
 
 217. https://es.wikipedia.org/wiki/Ni%C3%B1os_soldado
+
+218. https://es.wikipedia.org/wiki/Estado_fallido
+
+219. https://es.wikipedia.org/wiki/Autocracia
 
      
 
