@@ -10,7 +10,7 @@ De igual manera de lo que hemos previamente visto acerca de la red **ECHELON** [
 
 #### Neuroestimuladores y voz hacía el cerebro
 
-![Plano de servicios de la torre de Collserola](http://telecomlobby.com/Images/torre_collserola_disposicion_servicios.webp)
+![Plano de servicios de la torre de Collserola](https://telecomlobby.com/Images/torre_collserola_disposicion_servicios.webp)
 
 La «Maquina» en Cataluña consta de varios puntos emisión y recepción en distintas tecnologías:
 
@@ -22,7 +22,7 @@ Como se puede apreciar de esta documento del 1998, o sea que el nombre de las co
 - Retevisión junto a TV1, TV2, A3, Tele5y Canal+ en planta once. El grupo Italiano de Silvio Berlusconi es presente en la torre de Barcelona, se trata de audiovisuales privadas.
 - **Corporació Catalana de Mitjans Audiovisuals** [[5]](https://www.ccma.cat/), SA en la planta doce. 
 
-![Torre AXION Tibidabo](http://telecomlobby.com/Images/axion_tibidabo.webp)
+![Torre AXION Tibidabo](https://telecomlobby.com/Images/axion_tibidabo.webp)
 
 **41°25'26.92"N ,  2°7'10.04"E** la antigua torre del parque de Tibidabo todavía en función en su últimos tramos, la torre es muy alta y estrecha, tiene varias antenas que podrían ser utilizadas para los servicios que he indicado en la imagen. En la misma zona hay muchísimas emisoras todas de hace bastantes años. Esto podría indicar que en Cataluña el sistema de voz hacía el cerebro, un sistema criminal, era activo antes del 1991 indicando que estas tierras están bajo un sistema dictatorial hace muchos años, prácticamente el Franquismo aquí no ha terminado nunca. Lamentablemente por el pueblo Catalano, esta forma dictatorial es seguramente avalada por parte de la clase dirigente, políticos mandados por parte de una aristocracia latifundista muy presente en estas hermosas tierras.  
 
@@ -30,27 +30,27 @@ Como se puede apreciar de esta documento del 1998, o sea que el nombre de las co
 
 Acerca de los sistemas en frecuencias ELF los puntos de presencias son varios y muchos son también nodos de la red guifi.net:
 
-![ELF Turro de Rovira](http://telecomlobby.com/Images/elf_barcelona_turro_rovira.webp)
+![ELF Turro de Rovira](https://telecomlobby.com/Images/elf_barcelona_turro_rovira.webp)
 
  **41°25'9.88"N , 2°9'51.22"E** en una torres en casetas típicas españolas de una planta. Estilo antiguo un poco mal cuidado exactamente como el estilo del represéntate de la familia noble Catalana de relevancia que he podido conocer personalmente. El sistema ELF sin ninguna duda le pertenece, son frecuencias no reguladas. Y con esto lo he dicho todo. Los puntos sucesivos pertenecen a este tipo de emisoras y son muy comunes en todas las torres no de estado Español, o sea no de RTVE o de **Cellnext Telecom** [[6]](https://www.cellnextelecom.com/).
 
-![ELF Marina](http://telecomlobby.com/Images/elf_barcelona_marina.webp)
+![ELF Marina](https://telecomlobby.com/Images/elf_barcelona_marina.webp)
 
 **41°23'42.16"N ,  2°11'15.31"E** en la azotea de un bloque privado en el barrio de Marina en Barcelona.
 
-![ELF Tibidabo](http://telecomlobby.com/Images/elf_barcelona_tibidabo.webp)
+![ELF Tibidabo](https://telecomlobby.com/Images/elf_barcelona_tibidabo.webp)
 
 **41°25'14.46"N ,  2°7'16.87"E** en la azotea de una casa mono familiar en malas condiciones muy probablemente cuya propiedad pueda ser conectada con la familia noble Catalana. El estilo es aquello.
 
 #### Centro de cálculos y conexiones Europeas programa de individuos objetivo 
 
-![MareNostrum Barcelona supercomputing](http://telecomlobby.com/Images/barcelona_supercomputing_marenostrum.webp)
+![MareNostrum Barcelona supercomputing](https://telecomlobby.com/Images/barcelona_supercomputing_marenostrum.webp)
 
 Debido siempre al tiempo de respuesta muy rápido, o sea a una optima latencia, creo que por lo menos buena parte de la elaboración de los estados neuronales de las victimas y la interacción con ella, las interferencias a los cinco sentidos, se tenga que ejecutar en la misma Barcelona.
 
 En Barcelona hay  uno de los quinientos sistemas **clúster de computadoras** [[7]](https://es.wikipedia.org/wiki/Cl%C3%BAster_de_computadoras) más potentes del mundo. **Barcelona Supercomputing Center** [[8]](https://www.bsc.es/es).  El sistema toma el nombre de **MareNostrum** [[9]](https://es.wikipedia.org/wiki/MareNostrum). El clúster de Barcelona pertenece a la **red de supercomputadoras Española** [[10]](https://es.wikipedia.org/wiki/Red_Espa%C3%B1ola_de_Supercomputaci%C3%B3n); en la red se encuentran varios centros nos interesa encontrar aquellos que brindan servicios sobre **bióinformatica** [[11]](https://es.wikipedia.org/wiki/Bioinform%C3%A1tica) y/o neurociencias. Normalmente un clúster de computadoras funciona alquilando tiempo de computación para proyectos universitarios, de investigación científica o también a grandes empresas privadas. 
 
-![Red supercomputacion española](http://telecomlobby.com/Images/red_supercomputacion_espanola.webp)
+![Red supercomputacion española](https://telecomlobby.com/Images/red_supercomputacion_espanola.webp)
 
 
 
@@ -72,7 +72,7 @@ Estas las especificaciones de cada nodo de clúster:
 
 #### Marina y Montjuic, dos barrios donde dominan las ELF y VSAT.
 
-![](http://telecomlobby.com/Images/vsat_marina.webp)
+![](https://telecomlobby.com/Images/vsat_marina.webp)
 
 Carrer de Joan Miro. Marina. La aristocracia funciona de una forma muy simple. Son criminales de muy bajo nivel ya que no tienen gana de trabajar nunca. Es muy fácil, a cada cosa corresponde una otra. En Montjuic, otro punto donde se trabaja con VSAT, cerca de la fundación Joan Miro hay otra estación base de transmisión según este protocolo. 
 
@@ -86,7 +86,7 @@ Esta es la realidad del barrio de Marina en Barcelona. Al final está el Casino.
 
 *Más de 3000 kilómetros a pies. Mujeres utilizadas por la aristocracia para hacer suicidar hombres enamorados. Esta es la realidad.*
 
-![16 de Agosto 2019](http://telecomlobby.com/Images/pornmarina.webp)
+![16 de Agosto 2019](https://telecomlobby.com/Images/pornmarina.webp)
 
 En c/ de Joan d'Austria 51 última planta el día 16 de Agosto 2019 estaban grabando sin ninguna duda pornografía. Salían por la madrugada muchas chicas jóvenes. Y grupos de turistas borrachos, **rusos** a mi manera de ver las cosas, entraban y salían del bloque. O sea que no erá exactamente pornografía para el circuito de Internet convencional, es algo a lo que estamos acostumbrándoos de encontrar en las redes **xCHAN** en Internet. Orgías brutales y humillaciones. ¿Porqué pasa esto en Barcelona? Porqué en la capital condal mujeres y chicas jóvenes que provienen de lineas de sangre de la nobleza Catalana y Española vienen puesta en cadenas de desgastes con el fin de crear prostitutas forzadas a través de lavado de cerebro y sexo siempre más violento. 
 
@@ -96,13 +96,13 @@ Con esta instalación la generalitat de Cataluña ha permitido a la Iglesia Cat�
 
 Estas chicas, individuo objetivo de la aristocracia, una vez capturadas en la red de monitorio remoto neuronal, violadas continuamente por parte de la radio frecuencia, vendidas en hologramas para violencias, prostituidas y enganchadas a las drogas, después de un cierto tiempo estos individuos las ponen a gestionar grupos de adolescentes que hacen las mismas cosas  ¿Porqué aceptan? Porqué el dolor continuo y las humillaciones que tienen que sufrir debido a su estado las convierten en sádicas. Salen del mismo recurrido de las chicas imagen de cadenas de televisión privadas pasando pero más violencia. Se dedican al suicidio. Ven sus amores morir. Necesitan ayuda y no ser culpadas de los delitos que le quieren acolar los dueños de esta Mafia, la Mafia de las telecomunicaciones y del audiovisual. 
 
-![VSAT montjuic](http://telecomlobby.com/Images/vsat_montjuic.webp)
+![VSAT montjuic](https://telecomlobby.com/Images/vsat_montjuic.webp)
 
 Esta instalación en Montjuic también es una transmisora VSAT. Se encuentra cerca de muchos mástiles torres, utilizados en las frecuencias medias. Frecuencias que antiguamente eran utilizadas para el acecho, delito muy común en esta España que tanto quiero, pero muy sangrante por parte de su nobleza corrupta. Por no hablar de Cataluña uno de los territorios mas atacados de por radio. 
 
 #### Aplicaciones publicas de interés para investigación crímenes contra la humanidad.
 
-![Cognitive Computing Barcelona](http://telecomlobby.com/Images/cognitive_computing.webp)
+![Cognitive Computing Barcelona](https://telecomlobby.com/Images/cognitive_computing.webp)
 
 > Resumiendo mi estado personal soy un individuo objetivo o sea soy entra las varias cosas un conejillo de India sin previa autorización por mi parte. O sea que alguien, probablemente mis padres, cobran las pagas mensuales de este trabajo que si que es legal. O sea que podría ser, aunque en realidad lo dudo forzudamente, que todo el personal del centro de la Torre y del clúster de computadoras no sea cociente que yo soy un esclavo.  
 >
@@ -114,7 +114,7 @@ Esta instalación en Montjuic también es una transmisora VSAT. Se encuentra cer
 >
 > Su modo de actuar me acuerda mucho Comunión y Liberación. Una especie de secta Católica legalizada con miembros en todos los edificios públicos Italianos. 
 
-![El hombre a la izquierda tiene rasgos fenotipicos muy parecidos a mi padre ](http://telecomlobby.com/Images/barcelona_supercomputing_reunion.webp)
+![El hombre a la izquierda tiene rasgos fenotipicos muy parecidos a mi padre ](https://telecomlobby.com/Images/barcelona_supercomputing_reunion.webp)
 
 *El hombre a la izquierda tiene rasgos fenotipicos muy parecidos a mi padre.*
 
@@ -130,7 +130,7 @@ Esta instalación en Montjuic también es una transmisora VSAT. Se encuentra cer
 
 Con este elenco he querido analizar únicamente la comunidad autonoma de Catalunya, mientras que la red de super computación se extende a todas las demás. 
 
-![mapa de infraestructuras cientificas](http://telecomlobby.com/Images/infraestructuras_cientificas.webp)
+![mapa de infraestructuras cientificas](https://telecomlobby.com/Images/infraestructuras_cientificas.webp)
 
 Otra infraestructura de interés con fines investigativos en Cataluña es seguramente el laboratorio de RMN de la Universitat de Barcelona, que se ocupa de resonancia magnetica nuclear. A mi aviso tienen que haber partecipado al desarrollo de la red de monitorio remoto neuronal de la torre de Collserola. Ahora no puedo estar seguro si los cientificos que hayan partecipado tubieran la conciencia que era para el desarrollo de un crimen contra la humanidad. 
 
