@@ -725,6 +725,8 @@ Existe en conclusión sin duda ninguna una relación general entra corrupción y
 
 ![Manfred Novak](http://telecomlobby.com/Images/manfred_novak_relator_especial.webp)
 
+
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
