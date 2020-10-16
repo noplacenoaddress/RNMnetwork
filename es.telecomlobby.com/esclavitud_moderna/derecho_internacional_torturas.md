@@ -721,11 +721,13 @@ Existe en conclusión sin duda ninguna una relación general entra corrupción y
 - Marginación socioeconómica y discriminación provocadas;
 - Recurso excesivo a la privación de la libertad y al internamiento involuntario.
 
-# Informe de Manfred Nowak en calidad de Relator Especial del 9 de febrero de 2010 y comentarios sobre la situación Catalana
+# Informe de Manfred Nowak A/HRC/13/39 en calidad de Relator Especial del 9 de febrero de 2010 y comentarios sobre la situación Catalana
 
 ![Manfred Novak](http://telecomlobby.com/Images/manfred_novak_relator_especial.webp)
 
 
+
+Se entiende como el Relator Especial se ocupa de transmitir denuncias de torturas a gobiernos clasificando el material recibido, probablemente después de una investigación por parte del mismo, en varios niveles de gravedad. Yo personalmente he contactado a través del correo electrónico sr-torture@ohchr.org y twitter sin recibir respuesta. 
 
 ###  External links 
 
