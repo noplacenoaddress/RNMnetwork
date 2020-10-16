@@ -729,6 +729,15 @@ Existe en conclusión sin duda ninguna una relación general entra corrupción y
 
 Se entiende como el Relator Especial se ocupa de transmitir denuncias de torturas a gobiernos clasificando el material recibido, probablemente después de una investigación por parte del mismo, en varios niveles de gravedad. Yo personalmente he contactado a través del correo electrónico sr-torture@ohchr.org y twitter sin recibir respuesta. 
 
+#### El mandato del Relator Especial sobre la cuestión de la tortura y la cooperación de los Estados
+
+Dentro de Naciones Unidas, los derechos humanos han sido promovidos y protegidos mediante la cooperación entre cuatro tipos de agentes:
+
+- Estados
+- **Organizaciones no gubernamentales ONG** [[221]](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_no_gubernamental)
+- Expertos independientes
+- **Secretaría de las Naciones Unidas** [[222]](https://es.wikipedia.org/wiki/Secretar%C3%ADa_General_de_las_Naciones_Unidas)
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1170,6 +1179,10 @@ Se entiende como el Relator Especial se ocupa de transmitir denuncias de tortura
 219. https://es.wikipedia.org/wiki/Autocracia
 
 220. http://shorturl.at/vCNW3
+
+221. https://es.wikipedia.org/wiki/Organizaci%C3%B3n_no_gubernamental
+
+222. https://es.wikipedia.org/wiki/Secretar%C3%ADa_General_de_las_Naciones_Unidas
 
      
 
