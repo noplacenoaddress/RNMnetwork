@@ -721,7 +721,9 @@ Existe en conclusión sin duda ninguna una relación general entra corrupción y
 - Marginación socioeconómica y discriminación provocadas;
 - Recurso excesivo a la privación de la libertad y al internamiento involuntario.
 
+# Informe de Manfred Nowak en calidad de Relator Especial del 9 de febrero de 2010 y comentarios sobre la situación Catalana
 
+![Manfred Novak](http://telecomlobby.com/Images/manfred_novak_relator_especial.webp)
 
 ###  External links 
 
