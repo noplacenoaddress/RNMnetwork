@@ -738,6 +738,12 @@ Dentro de Naciones Unidas, los derechos humanos han sido promovidos y protegidos
 - Expertos independientes
 - **Secretaría de las Naciones Unidas** [[222]](https://es.wikipedia.org/wiki/Secretar%C3%ADa_General_de_las_Naciones_Unidas)
 
+Los **Estados** son los agentes más importantes; son miembros de Naciones Unidas y sus órganos normativos, además son los fundamentales responsables de la aplicación de las normas internacionales de derechos humanos y al propio tempo los **principales culpables** de las violaciones de esos mismos derechos.
+
+La sociedad civil, de la cual hago parte, es una de las fuentes principales de información, las ONG pueden informar por escrito directamente a la Comisión de Derechos Humanos.
+
+Los expertos independientes, figura en la cual quiero identificarme, son quienes integran los organismos de tratados encargados de controlar el cumplimiento de los Estados partes de sus respectivas obligaciones; la figura del Relator Especial evalúa entra otras tareas los informes los expertos independientes.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
