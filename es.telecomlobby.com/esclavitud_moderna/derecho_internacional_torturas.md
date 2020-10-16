@@ -696,7 +696,11 @@ Corrupción y tortura pueden interactuar de formas muy diferentes, el Relator Es
 
 La corrupción y la tortura o los malos tratos pueden entenderse mejor como dos efectos concomitantes de la misma causa original, es decir, el fracaso del sistema de gobernanza imperante a la hora de prevenir el surgimiento y el ejercicio de un poder incontrolado. En circunstancias extremas caracterizadas por una supresión casi completa o un colapso del estado de derecho, como sucede en los regímenes dictatoriales, los **Estados fracasados** [[218]](https://es.wikipedia.org/wiki/Estado_fallido), los conflictos armados o los desastres naturales, el poder incontrolado suele ser consecuencia de deficiencias sistémicas de gobernanza que no necesariamente son percibidas, como en el caso de la red de monitorio neuronal, por lo menos a primera vista, como propicias para la corrupción y la tortura o los malos tratos; no obstante la obligación legal internacional de adoptar medidas sistémicas de reparación puede considerarse una consecuencia directa de la obligación de los Estados de adoptar medidas eficaces para la prevención de la tortura  los malos tratos y de la corrupción.
 
-Una de las causas más fundamentales de la corrupción y de la tortura o los malos tratos cometidos, facilitados o tolerados a todos los niveles de la autoridad del Estado es la ausencia de un sistema eficaz de equilibrios y contrapesos y de una estricta separación de poderes entre las ramas ejecutiva, judicial y legislativa del Gobierno. Mientras que las deficiencias de gobernanza sistémicas son bastante evidentes en Estados con **regímenes autocráticos** [[219]](https://es.wikipedia.org/wiki/Autocracia)
+Una de las causas más fundamentales de la corrupción y de la tortura o los malos tratos cometidos, facilitados o tolerados a todos los niveles de la autoridad del Estado es la ausencia de un sistema eficaz de equilibrios y contrapesos y de una estricta separación de poderes entre las ramas ejecutiva, judicial y legislativa del Gobierno. Mientras que las deficiencias de gobernanza sistémicas son bastante evidentes en Estados con **regímenes autocráticos** [[219]](https://es.wikipedia.org/wiki/Autocracia) o con instituciones democráticas débiles, aunque existan en países con instituciones democráticas solidas, como en España y en Italia. En todo el mundo a menudo jueces, **fiscales** [[220]](http://shorturl.at/vCNW3), parlamentarios  y dirigentes políticos se muestran a menudo renuentes a investigar de manera imparcial o a presentar acusaciones de corrupción, tortura o malos tratos y, por lo contrario, suelen mostrar una actitud que oscila entre la tolerancia y la complicidad y que es irreconciliable con su mandato democrático. Lamentablemente pueden observarse insuficiencias análogas de buena gobernanza, imparcialidad y supervisión a nivel de las organizaciones internacionales y otras entidades creadas por los Estados, incluidas las que tienen la tarea de proteger los derechos humanos y de investigar o enjuiciar las vulneraciones. Falta de transparencia, tráfico de influencias, arbitrariedad y denegación de justicia son al orden del día portadas adelante por prácticas corruptas que pasan casi completamente desapercibidas para el público; no hace falta nada mas que pensar a la red de monitorio neuronal que **permite la comunicación sin dispositivos** de personas que se tienen que poner de acuerdo para cualquiera de las practicas criminales que acabo de detallar. 
+
+> Dicho eso aparece como claro el porqué la cibertortura no es investigada en España. Es el medio de telecomunicaciones oculto que permite la corrupción de alto nivel entra otros crímenes. Algún listo pero lo utiliza para el negocio del suicidio juntando en el mismo caldo tanto altos cargos de la nobleza y de la política como torturados de la clase obrera y marginados sociales.
+
+
 
 ###  External links 
 
@@ -1137,6 +1141,8 @@ Una de las causas más fundamentales de la corrupción y de la tortura o los mal
 218. https://es.wikipedia.org/wiki/Estado_fallido
 
 219. https://es.wikipedia.org/wiki/Autocracia
+
+220. http://shorturl.at/vCNW3
 
      
 
