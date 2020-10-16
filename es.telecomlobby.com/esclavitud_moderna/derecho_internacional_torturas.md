@@ -729,6 +729,21 @@ Existe en conclusión sin duda ninguna una relación general entra corrupción y
 
 Se entiende como el Relator Especial se ocupa de transmitir denuncias de torturas a gobiernos clasificando el material recibido, probablemente después de una investigación por parte del mismo, en varios niveles de gravedad. Yo personalmente he contactado a través del correo electrónico sr-torture@ohchr.org y twitter sin recibir respuesta. 
 
+#### El mandato del Relator Especial sobre la cuestión de la tortura y la cooperación de los Estados
+
+Dentro de Naciones Unidas, los derechos humanos han sido promovidos y protegidos mediante la cooperación entre cuatro tipos de agentes:
+
+- Estados
+- **Organizaciones no gubernamentales ONG** [[221]](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_no_gubernamental)
+- Expertos independientes
+- **Secretaría de las Naciones Unidas** [[222]](https://es.wikipedia.org/wiki/Secretar%C3%ADa_General_de_las_Naciones_Unidas)
+
+Los **Estados** son los agentes más importantes; son miembros de Naciones Unidas y sus órganos normativos, además son los fundamentales responsables de la aplicación de las normas internacionales de derechos humanos y al propio tempo los **principales culpables** de las violaciones de esos mismos derechos.
+
+La sociedad civil, de la cual hago parte, es una de las fuentes principales de información, las ONG pueden informar por escrito directamente a la Comisión de Derechos Humanos.
+
+Los expertos independientes, figura en la cual quiero identificarme, son quienes integran los organismos de tratados encargados de controlar el cumplimiento de los Estados partes de sus respectivas obligaciones; la figura del Relator Especial evalúa entra otras tareas los informes los expertos independientes.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1170,6 +1185,10 @@ Se entiende como el Relator Especial se ocupa de transmitir denuncias de tortura
 219. https://es.wikipedia.org/wiki/Autocracia
 
 220. http://shorturl.at/vCNW3
+
+221. https://es.wikipedia.org/wiki/Organizaci%C3%B3n_no_gubernamental
+
+222. https://es.wikipedia.org/wiki/Secretar%C3%ADa_General_de_las_Naciones_Unidas
 
      
 
