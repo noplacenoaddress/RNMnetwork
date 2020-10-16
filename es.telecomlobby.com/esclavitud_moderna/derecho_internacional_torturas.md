@@ -700,6 +700,10 @@ Una de las causas más fundamentales de la corrupción y de la tortura o los mal
 
 > Dicho eso aparece como claro el porqué la cibertortura no es investigada en España. Es el medio de telecomunicaciones oculto que permite la corrupción de alto nivel entra otros crímenes. Algún listo pero lo utiliza para el negocio del suicidio juntando en el mismo caldo tanto altos cargos de la nobleza y de la política como torturados de la clase obrera y marginados sociales.
 
+El efecto más fundamentalmente destructivo de esas deficiencias sistémicas de gobernanza es la paulatina creación de sistemas, entornos y espacios situacionales, y yo añado ambientes de tortura, en que es posible abusar impunemente del poder, lo cual crea un terreno abonado para la propagación de la corrupción también para la práctica incontrolada de la tortura y los malos tratos. En España dicho sistema se utiliza también para preservar los monopolios de las telecomunicaciones, por esto he elegido el dominio **telecomlobby**. A los nuevos emprendedores nos confinan en juegos sádicos y mecanismos de ganancias en cripto moneda sobre torturas, esclavitud, sexo y drogas. Nos tratan como niñatos. Dentro violentos o mafiosos que nos amenazan continuamente utilizando este medio de telecomunicaciones. La ruina de la democracia.
+
+Más allá de la necesidad de un sistema de equilibrios y contrapesos, la lucha contra la corrupción, la tortura y los malos tratos exige un marco normativo e institucional
+
 
 
 ###  External links 
