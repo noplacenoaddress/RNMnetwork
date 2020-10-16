@@ -145,6 +145,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 6/10/2020 I'm very tired to be tortured every days. I cannot go ahead with my WISP Redama because there is someone that pay non-state actor crew to torture me because of work mobbing. **Please, king of Spain, help me**; I'm a worker and I work every day to go ahead with my life that was interrupted by technocracy. Please really, help me.
 - 8/10/2020 a member of a important Catolich group is torturing me with direct corrent in front of a lot of people. No one say nothing and this shittish son of a bitch is using torture because I'm working from two weeks and he doesn't want. It's a scandal. **STOP ELECTRONIC TORTURE NOW**.
 - From 9 to 11 10 2020. I was tortured continuously by electromagnetic weapons and I cannot sleep for two days.  
+- 16/10/2020 01:45 in a dream they threatened me with being embroiled in pedophilia. I just because these people are capable of inventing anything. I remember that I am studying to present myself as a human rights defender.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
