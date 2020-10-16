@@ -710,7 +710,16 @@ En muchos casos de torturas y malos tratos se delegan a agentes de seguridad pri
 
 #### Conclusiones
 
-Existe en conclusión sin duda ninguna una relación general entra corrupción y la tortura y malos tratos
+![Miseria e nobiltà](http://telecomlobby.com/Images/miseria_nobilta.webp)
+
+Existe en conclusión sin duda ninguna una relación general entra corrupción y la tortura y malos tratos, los tres intrínsecamente ilegales y fundamentalmente destructivos para cualquier sociedad que tolere este tipo de abusos, ambas prácticas siguen siendo generalizadas y estando profundamente arraigadas en los sistemas nacionales e internacionales de gobernanza de todo el mundo. En la práctica existe una gran variedad de contextos, subcontextos y espacios situacionales que se caracterizan por cierto grado de interacción entre la corrupción y la tortura o los malos tratos. En la red de monitorio neuronal estos espacios son virtuales, un anticipo de espacio físicos. Este circulo vicioso constituye por tanto fenómenos predominantemente estructurales y  sistémicos, hay que erradicar deficiencias sistémicas de gobernanza que propician estas formas de abuso, en España y en Catalunya no se trata del gobierno del estado de derecho, que igualmente si está informado, pero de la aristocracia. Aquí las deficiencias:
+
+- Tolerancia sistémica de un poder incontrolado;
+- Deficiencias normativas e institucionales;
+- Poder incontrolado de los actores empresariales;
+- Financiación insuficiente de los servicios e instituciones públicos;
+- Marginación socioeconómica y discriminación provocadas;
+- Recurso excesivo a la privación de la libertad y al internamiento involuntario.
 
 
 
