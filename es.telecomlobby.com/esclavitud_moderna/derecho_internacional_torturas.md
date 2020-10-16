@@ -742,7 +742,11 @@ Los **Estados** son los agentes más importantes; son miembros de Naciones Unida
 
 La sociedad civil, de la cual hago parte, es una de las fuentes principales de información, las ONG pueden informar por escrito directamente a la Comisión de Derechos Humanos.
 
-Los expertos independientes, figura en la cual quiero identificarme, son quienes integran los organismos de tratados encargados de controlar el cumplimiento de los Estados partes de sus respectivas obligaciones; la figura del Relator Especial evalúa entra otras tareas los informes los expertos independientes.
+Los expertos independientes, figura en la cual quiero identificarme, son quienes integran los organismos de tratados encargados de controlar el cumplimiento de los Estados partes de sus respectivas obligaciones; la figura del Relator Especial evalúa entra otras tareas los informes los expertos independientes. El Relator Especial estima haber podido realizar un estudio asazmente global de los fenómenos de la tortura y otros tratos o penas crueles, inhumanos o degradantes. 
+
+Se mencionan los gobiernos de Austria, Suiza y Liechtenstein por un destacado equipo de expertos en derechos humanos que provienen del **instituto Ludwig Boltzmann para los Derechos Humanos** [[223]](https://bim.lbg.ac.at/en) de la universalizad de Viena, se hace mención también a la escasa protección de testigos y victimas, como yo, por parte del mismo Relator Especial, cosa que yo intento minimizar gracias a Internet y las plataformas sociales.
+
+A pesar de que la tortura es una de las agresiones más brutales a la dignidad humana y uno de los más graves crímenes de derechos humanos, ya despecho de la absoluta prohibición de la tortura y los malos tratos incluso en las circunstancias más excepcionales amas son prácticas generalizadas en la mayor parte de los países. No hay sociedad que sea inmune a la tortura, pero en muchas es una práctica cotidiana como medio de combatir delitos. 
 
 ###  External links 
 
@@ -1189,6 +1193,8 @@ Los expertos independientes, figura en la cual quiero identificarme, son quienes
 221. https://es.wikipedia.org/wiki/Organizaci%C3%B3n_no_gubernamental
 
 222. https://es.wikipedia.org/wiki/Secretar%C3%ADa_General_de_las_Naciones_Unidas
+
+223. https://bim.lbg.ac.at/en
 
      
 
