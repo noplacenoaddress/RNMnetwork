@@ -744,9 +744,13 @@ La sociedad civil, de la cual hago parte, es una de las fuentes principales de i
 
 Los expertos independientes, figura en la cual quiero identificarme, son quienes integran los organismos de tratados encargados de controlar el cumplimiento de los Estados partes de sus respectivas obligaciones; la figura del Relator Especial evalúa entra otras tareas los informes los expertos independientes. El Relator Especial estima haber podido realizar un estudio asazmente global de los fenómenos de la tortura y otros tratos o penas crueles, inhumanos o degradantes. 
 
-Se mencionan los gobiernos de Austria, Suiza y Liechtenstein por un destacado equipo de expertos en derechos humanos que provienen del **instituto Ludwig Boltzmann para los Derechos Humanos** [[223]](https://bim.lbg.ac.at/en) de la universalizad de Viena, se hace mención también a la escasa protección de testigos y victimas, como yo, por parte del mismo Relator Especial, cosa que yo intento minimizar gracias a Internet y las plataformas sociales.
+Se mencionan los gobiernos de Austria, Suiza y Liechtenstein por un destacado equipo de expertos en derechos humanos que provienen del **instituto Ludwig Boltzmann para los Derechos Humanos** [[223]](https://bim.lbg.ac.at/en) de la universidad de Viena, se hace mención también a la escasa protección de testigos y victimas, como yo, por parte del mismo Relator Especial, cosa que yo intento minimizar gracias a Internet y las plataformas sociales.
 
 A pesar de que la tortura es una de las agresiones más brutales a la dignidad humana y uno de los más graves crímenes de derechos humanos, ya despecho de la absoluta prohibición de la tortura y los malos tratos incluso en las circunstancias más excepcionales amas son prácticas generalizadas en la mayor parte de los países. No hay sociedad que sea inmune a la tortura, pero en muchas es una práctica cotidiana como medio de combatir delitos. 
+
+#### Visita a países
+
+Otro de los mandados fundamentales del Relator Especial es la visita a países con el fin de investigar casos de tortura, y es exactamente mi objetivo hacer en manera que investigue la situación Catalana. Su propósito es asistir a los gobiernos a erradicar la tortura. Es posible sobra la base de una investigación y evaluación cabales y objetivas de las respectivas necesidades de reforma. Dado que en Catalunya la cibertortura es utilizada contra todos los marginados sociales y la clase obrera su detección es bastante simple, sobre todo contando que un investigador independiente como yo ha podido encontrar todo tipo de prueba y infraestructura simplemente frecuentando estas clases sociales y descubriendo con el tiempo la posición física de la «Maquina». También he podido hacer un organigrama de la organización criminal de actores no estatales que cubren aristócratas con el fin del negocio del suicidio, de la tortura y de la explotación; se trata de personas a sus veces torturadas y a las cuales se ha denegado la libertad, con el tiempo han aceptado participar a algo de lo cual la mayoría desconoce el real significado y tamaño. Para poder evaluar la situación el Relator Especial debe gozar de todas las prerrogativas e inmunidades diplomáticas a que tienen derecho los expertos que se encuentran de misión, como lo establece la **Convención sobre Prerrogativas e Inmunidades de las Naciones Unidas** [[224]](http://telecomlobby.com/RNMnetwork/documents/A_RES_22_S.pdf)
 
 ###  External links 
 
@@ -1195,6 +1199,8 @@ A pesar de que la tortura es una de las agresiones más brutales a la dignidad h
 222. https://es.wikipedia.org/wiki/Secretar%C3%ADa_General_de_las_Naciones_Unidas
 
 223. https://bim.lbg.ac.at/en
+
+224. http://telecomlobby.com/RNMnetwork/documents/A_RES_22_S.pdf
 
      
 
