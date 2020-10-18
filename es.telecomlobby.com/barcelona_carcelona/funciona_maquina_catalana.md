@@ -17,7 +17,7 @@ El acceso de última milla se compone de varias emisoras en distintas tecnologí
 
 #### Sistema de neuroestimuladores inalámbricos
 
-![Torre de Collserola](http://redama.es/Images/20150124_234608.jpg)
+![Torre de Collserola](http://telecomlobby.com/Images/torre_collserola_jesus.webp)
 
 Desde un **artículo** [[2]](http://telecomlobby.com/RNMnetwork/documents/torre_collserola_foster.pdf) de la página web del los arquitectos británicos **Foster and Partners** [[3]](https://es.wikipedia.org/wiki/Foster_and_Partners):
 
