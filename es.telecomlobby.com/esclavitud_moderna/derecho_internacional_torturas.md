@@ -754,6 +754,18 @@ Otro de los mandados fundamentales del Relator Especial es la visita a países c
 
 Aun así el Relator Especial se tropieza a menudo con que los gobiernos empeñan ingentes esfuerzos por obstruir sus investigaciones. Cada forma de filtro por parte del Gobierno en contra de la labor del Relator Especial y de cualquier investigador independiente suscita naturalmente sospechas que el Gobierno tiene algo que ocultar. A veces debe realizar enormes esfuerzos para perforar el muro de silencio o de embustes erigido por las autoridades.
 
+#### Seguimiento de las visitas a países
+
+A cada visita en países el Relator Especial elabora informes de seguimiento en los que se consigna la información de los gobiernos acerca de las medidas que han tomado para llevar a la práctica las recomendaciones; si estos países carecen de los recursos económicos necesarios a promover las mejoras propuestas se suele solicitar asistencia al Programa de las Naciones Unidas para el Desarrollo. 
+
+El seguimiento de las visitas del Relator Especial se delega al Consejo de Derechos Humanos y a la Asamblea General. Los responsables de procedimientos especiales son expertos independientes nombrados por el Consejo para que investiguen la situación y le transmiten sus conclusiones. Su misión termina una vez que hayan elaborado sus informes y lo presenten en los respectivos órganos de la Organización. Estos tienen por mandato instar a los correspondientes gobiernos a que apliquen las recomendaciones y disponen de la influencia política para darles seguimiento efectivo.
+
+#### Comunicaciones individuales 
+
+Se afirma que el Relator Especial recibe y envía casi cotidianamente a una considerable número de países comunicaciones atinentes a denuncias puntuales de torturas y malos tratos basadas  en denuncias recibidas de presuntas víctimas y sus familiares o abogados, o por conducto de las ONG naciones e internacionales y otros canales (se hace referencia a ONG pero hoy en día el organismo pertinente es el NHRI español, el **Defensor del Pueblo**). Parece que el Relator Especial verifique cuidadosamente la fidedignidad de las fuentes y la coherencia de la información que se le hace llegar. No prejuzga la exactitud de las denuncias. 
+
+También hace en manera que los gobiernos cumplan las normas internacionales de derechos humanos mediante un indagación exhaustiva e independiente y les pide que le informen de las investigaciones realizadas y de sus resultados. Los números acerca de gobiernos que tomen en serio las cartas del Relator Especial son ridículos. Es necesaria una labor extensa de documentación exhaustiva por nuestra parte y en caso la victima no se capaz por ignorancia o por marginación, **nosotros, investigadores independientes** de la grave situación de la sociedad catalana gravemente afectada por parte de la tecnocracia, tenemos que hacernos cargo de tomar sus declaraciones y de escribir de forma correcta la historia de su tortura y abusos. **Cualquier sea su país de origen y su fe religiosa**. 
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
