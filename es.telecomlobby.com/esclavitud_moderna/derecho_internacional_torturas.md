@@ -783,7 +783,7 @@ no hay que hablar de torturas en sentido sensacionalista, sino exclusivamente pa
 
 #### Las circunstancias que permiten la práctica de la tortura
 
-La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras. Lamentablemente se determina que la tortura es una práctica innegable, a veces rutinaria, generalizada o incluso sistemática en contravención de la clara obligación de la Conveción contra la Tortura de enjuiciar a los culpables con arreglo al derecho penal. Antes cualquier sospecha o denuncia explicita de tortura, debe iniciarse inmediatamente o sin demora una investigación exhaustiva, una **demora de dos semanas se considera ya una violación muy grave**. Yo personalmente denuncio torturas públicamente desde más de dos años en Catalunya.
+La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras. Lamentablemente se determina que la tortura es una práctica innegable, a veces rutinaria, generalizada o incluso sistemática en contravención de la clara obligación de la Conveción contra la Tortura de enjuiciar a los culpables con arreglo al derecho penal. Antes cualquier sospecha o denuncia explicita de tortura, debe iniciarse inmediatamente o sin demora una investigación exhaustiva, una **demora de dos semanas se considera ya una violación muy grave**. Yo personalmente denuncio torturas públicamente desde más de dos años en Catalunya y a **varios organismos internacionales** [[226]](http://telecomlobby.com/RNMnetwork/complaints/) por parte de una marquesa Genovesa y otros nobles Italianos.
 
 ###  External links 
 
@@ -1236,6 +1236,8 @@ La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras.
 224. http://telecomlobby.com/RNMnetwork/documents/A_RES_22_S.pdf
 
 225. https://dle.rae.es/aquiescencia
+
+226. http://telecomlobby.com/RNMnetwork/complaints/
 
      
 
