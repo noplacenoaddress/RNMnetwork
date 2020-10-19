@@ -783,7 +783,7 @@ no hay que hablar de torturas en sentido sensacionalista, sino exclusivamente pa
 
 #### Las circunstancias que permiten la práctica de la tortura
 
-La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras.
+La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras. Lamentablemente se determina que la tortura es una práctica innegable, a veces rutinaria, generalizada o incluso sistemática en contravención de la clara obligación de la Conveción contra la Tortura de enjuiciar a los culpables con arreglo al derecho penal. Antes cualquier sospecha o denuncia explicita de tortura, debe iniciarse inmediatamente o sin demora una investigación exhaustiva, una **demora de dos semanas se considera ya una violación muy grave**. Yo personalmente denuncio torturas públicamente desde más de dos años en Catalunya.
 
 ###  External links 
 
