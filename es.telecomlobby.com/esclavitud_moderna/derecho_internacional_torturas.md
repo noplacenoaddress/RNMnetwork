@@ -766,6 +766,25 @@ Se afirma que el Relator Especial recibe y envía casi cotidianamente a una cons
 
 También hace en manera que los gobiernos cumplan las normas internacionales de derechos humanos mediante un indagación exhaustiva e independiente y les pide que le informen de las investigaciones realizadas y de sus resultados. Los números acerca de gobiernos que tomen en serio las cartas del Relator Especial son ridículos. Es necesaria una labor extensa de documentación exhaustiva por nuestra parte y en caso la victima no se capaz por ignorancia o por marginación, **nosotros, investigadores independientes** de la grave situación de la sociedad catalana gravemente afectada por parte de la tecnocracia, tenemos que hacernos cargo de tomar sus declaraciones y de escribir de forma correcta la historia de su tortura y abusos. **Cualquier sea su país de origen y su fe religiosa**. 
 
+Aun cuando resulta difícil aquilatar la eficacia de las comunicaciones individuales enviadas sus efectos no deben subestimarse. El Relator Especial suele reunirse con las víctimas, esto es mi verdadero objetivo para salvar mi y las personas en mi mismas condiciones de nuevas torturas y violaciones de los derechos humanos.
+
+#### Informes al Consejo de Derechos Humanos y a la Asamblea General
+
+El Relator Especial entabla diálogos interactivos con gobiernos, ONG y NPM y otras asociaciones humanitarias. Se subraya que cualquier prueba obtenida mediante tortura no es valida con fines judiciales. Suele hacer amplias investigaciones con el fin último de erradicar totalmente la tortura y los malos tratos para salvaguardar el derecho humano a la dignidad y a la integridad personal de los detenidos y otros vulnerables.
+
+#### La tortura
+
+no hay que hablar de torturas en sentido sensacionalista, sino exclusivamente para referirse a una de las peores violaciones posibles de los derechos humanos y de abuso que los seres humanos pueden infligirse unos a otros. Es absoluto que la tortura quede prohibida en todas sus formas y que esta prohibición sea inderogable. Quien sufre tortura, y también cibertortura añado yo, sufrirá sus consecuencias por el resto de su vida, física o mentalmente. Para que un acto se pueda clasificar como tortura son necesarios cuatro actos:
+
+1. Debe infligir dolores o sufrimientos graves, ya sean físicos o mentales.
+2. Debe ser intencional.
+3. Debe tener un propósito concreto.
+4. Debe intervenir, o al menos prestar su **aquiescencia** [[225]](https://dle.rae.es/aquiescencia), un funcionario del Estado.
+
+#### Las circunstancias que permiten la práctica de la tortura
+
+La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras.
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1215,6 +1234,8 @@ También hace en manera que los gobiernos cumplan las normas internacionales de 
 223. https://bim.lbg.ac.at/en
 
 224. http://telecomlobby.com/RNMnetwork/documents/A_RES_22_S.pdf
+
+225. https://dle.rae.es/aquiescencia
 
      
 
