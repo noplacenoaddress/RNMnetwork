@@ -785,6 +785,10 @@ no hay que hablar de torturas en sentido sensacionalista, sino exclusivamente pa
 
 La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras. Lamentablemente se determina que la tortura es una práctica innegable, a veces rutinaria, generalizada o incluso sistemática en contravención de la clara obligación de la Convención contra la Tortura de enjuiciar a los culpables con arreglo al derecho penal. Antes cualquier sospecha o denuncia explicita de tortura, debe iniciarse inmediatamente o sin demora una investigación exhaustiva, una **demora de dos semanas se considera ya una violación muy grave**. Yo personalmente denuncio torturas públicamente desde más de dos años en Catalunya y a **varios organismos internacionales** [[226]](http://telecomlobby.com/RNMnetwork/complaints/) por parte de una marquesa Genovesa y otros nobles Italianos y Catalanes. 
 
+Todo funcionario que tengan razones para sospechar que se ha practicado un acto de tortura o malos tratos tienen que avisar inmediatamente a las oficinas pertinentes que se realice la debida investigación según el articulo 12 de la Convención. Aun sin una denuncia la **investigación debería ser obligatoria**, pero muchas veces no es así. 
+
+Los códigos penales nacionales muchas veces no abarcan proteger la integridad física y psicológica de las victimas de torturas o malos tratos, considerado que la crimen contra el ser humano de tortura puede ser suma de varios otros diluidos en el tiempo y difícilmente clasificable como torturas.  
+
 ###  External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
