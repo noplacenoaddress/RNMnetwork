@@ -787,9 +787,15 @@ La magnitud de la impunidad ha sido una de las conclusiones más desalentadoras.
 
 Todo funcionario que tengan razones para sospechar que se ha practicado un acto de tortura o malos tratos tienen que avisar inmediatamente a las oficinas pertinentes que se realice la debida investigación según el articulo 12 de la Convención. Aun sin una denuncia la **investigación debería ser obligatoria**, pero muchas veces no es así. 
 
-Los códigos penales nacionales muchas veces no abarcan proteger la integridad física y psicológica de las victimas de torturas o malos tratos, considerado que la crimen contra el ser humano de tortura puede ser suma de varios otros diluidos en el tiempo y difícilmente clasificable como torturas.  
+Los códigos penales nacionales muchas veces no abarcan proteger la integridad física y psicológica de las victimas de torturas o malos tratos, considerado que la crimen contra el ser humano de tortura puede ser suma de varios otros diluidos en el tiempo y difícilmente clasificable como torturas.  La definición no requiere daños físicos de ninguna especie, ni mucho menos perdurables. **Cada vez hay más métodos de tortura ideados para no dejar rastro alguno**. La obligación de un castigo adecuado es una prolungada condena a reclusión de hasta 20 años de cárcel.
 
-###  External links 
+Es totalmente obligatorio dejar como inadmisibles las pruebas obtenidas bajo tortura en cualquier sistema de justicia penal.
+
+Para cada denuncia de torturas o malos tratos, sobre todo añado en caso de cibertortura por ejemplo utilizadas como instrumento de coacción en la mafia de las telecomunicaciones, puede ser bastante complicado reunir todas las pruebas; en mi caso todo el proceso empezó de forma diluida en una escalada de torturas y terror desde el año 2013, reunir todas las pruebas me ha costado investigar de forma independiente y peligrosa todo el entorno, la victimas y aquellos que defino como maquinistas para poder escribir esta sitio web lo que puedo indicar un estado dentro del estado totalmente terrorista, todos nosotros somos torturados con fines de la destrucción de la persona y la explotación tanto en sexo, cuanto en drogas cuanto en ser otros torturadores, cosa que implica ser a sus veces torturados. 
+
+Como la tortura suele dejar rastros indelebles en el cuerpo o en la mente de las víctimas, la reparación justa y adecuada casi nunca puede ser completa. Cada Estado parte garantice en su sistema legal que la víctima de un acto de tortura obtenga reparación judicial y goce de un derecho efectivo a una reparación justa y adecuada, incluidos los medios para la rehabilitación más completa posible. Lo más importante para las victimas de torturas es restablecer su dignidad; añado desde mi experiencia en la cibertortura transmitida desde la torre de Collserola en VLF y varios puntos de emisión en ELF en Barcelona que todas aquellas personas que con el tiempo han pasado ser desde torturados a torturadores que han tenido que ver y infligir torturas a terceros inocentes como ellos, que los han visto suicidarse, y que su psique y su dignidad tiene ser obligadamente objeto de compensación económica y ayuda psicológica por parte del Estado, contando que algunos funcionarios de varios organismos participan activamente en este negocio terrorista este es el escándalo más grande de nuestra Europa Unida gravemente atacada por parte de esta infraestructura criminal, la tecnocracia. 
+
+###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
 
