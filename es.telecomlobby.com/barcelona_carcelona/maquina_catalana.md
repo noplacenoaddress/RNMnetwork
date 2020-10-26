@@ -2,7 +2,7 @@
 
 ![¿Que es la «Maquina» Catalana?](http://telecomlobby.com/Images/brain_sniffed.webp)
 
-«*divide ut regne*» -- cit. JC.
+«*divide ut regne*»
 
 La «Maquina» Catalana nada más es que un sistema de monitorio neuronal o sistema de neuroestimuladores inalámbricos obtenido a través de radio frecuencia. 
 
