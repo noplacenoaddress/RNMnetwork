@@ -811,6 +811,16 @@ Personalmente altos cargos de la nobleza de España me han invitado a través de
 
 ![Juan Méndez Relator Especial](https://telecomlobby.com/Images/juan_mendez_relator_especial.webp)
 
+Informe que se centra en ciertas formas de abusos presentes en entornos de atención de la salud, que pueden transcender el mero maltrato y equivaler a tortura.
+
+> Os recuerdo mi detención forzosa en la planta de psiquiatría del hospital Clinic de Barcelona donde me han pegado, atado y internado un hospital psiquiátrico contra mi voluntad.   
+
+Este informe arroja luz sobre prácticas abusivas que incumplen la prohibición de la tortura y los malos tratos, sobre todo, hablando de la situación Catalana, si visto come parte del negocio del suicidio, o sea de forma sistemática. 
+
+#### Aplicación del marco de protección contra la tortura y los malos tratos en entornos de atención de la salud
+
+Los malos tratos en entornos de atención de la salud van de par paso con el **derecho a la salud** [[227]](https://es.wikipedia.org/wiki/Derecho_sanitario). Es necesario identificar aquellos abusos que sean algo más que meras violaciones del derecho a la salud y puedan constituir tortura y malos tratos, y fortalecer la rendición de cuentas y los mecanismos de reparación. La tarea de acabar con la tortura y los malos tratos en entornos de atención  de la salud se enfrenta a obstáculos singulares debido, entre otras cosas, a la percepción, nunca justificada, de que las autoridades pueden defender ciertas prácticas de atención de la salud por razones de eficiencia administrativa, para modificar conductas o por imperativo médico. El propósito del presente informa es analizar todas las formas de malos tratos que se fundamentan o se intentan justificar recurriendo a políticas de atención de la salud, beneficiándose de la idea compartida de su pretendida justificación como «tratamiento médico», y detectar fallas o deficiencias intersectoriales que sean comunes a la totalidad o la mayoría de estas prácticas. 
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1264,6 +1274,8 @@ Personalmente altos cargos de la nobleza de España me han invitado a través de
 225. https://dle.rae.es/aquiescencia
 
 226. http://telecomlobby.com/RNMnetwork/complaints/
+
+227. https://es.wikipedia.org/wiki/Derecho_sanitario
 
      
 
