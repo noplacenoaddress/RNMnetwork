@@ -807,6 +807,10 @@ La no devolución es un importante principio codificado en varios instrumentos i
 
 Personalmente altos cargos de la nobleza de España me han invitado a través de amenazas de volver a mi país, Italia. A través de la red de monitorio neuronal, mensajería subliminal, me han amenazado variadas veces.
 
+# Informe de Juan E. Méndez A/HRC/22/53 en calidad de Relator Especial del 1 de febrero de 2013 y comentarios sobre la situación Catalana
+
+![Juan Méndez Relator Especial](https://telecomlobby.com/Images/juan_mendez_relator_especial.webp)
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
