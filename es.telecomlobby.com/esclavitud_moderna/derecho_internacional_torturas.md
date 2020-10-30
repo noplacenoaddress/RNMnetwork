@@ -843,6 +843,8 @@ Volviendo a hablar de las torturas o malos tratos en entornos de atención de la
 
 ![STOP TORTURE](https://telecomlobby.com/Images/prohibicion_tortura.webp)
 
+Como ya hemos visto los Estados están obligados en prevenir la tortura y los tratos crueles, inhumanos o degradantes (malos tratos), dichas conductas son indivisibles y interdependientes y están relacionadas entre sí porqué «las condiciones que dan lugar a malos tratos suelen facilitar la tortura». En mi caso todo empezó por ser **victima de malos tratos** por parte de una mujer que me enamoró, que a su vez es victima de este sistema y ha pasado, bajo coacción seguramente, de ser torturada a ser torturadora; en aquellos tiempos no encontraba una explicación de tal comportamiento, ahora se el porqué y es algo gravisimo. No la culpo de nada siendo a su vez utilizada por parte de varios personajes, algunos de los tratos algo mafiosos, para la introducción de ignaros emprendedores u otros en el negocio del suicidio. Ella obviamente es cociente pero dudo que lo era de la tecnología, ella lee mientras que yo estoy escribiendo y junto a ella su hija. Espero despertar en ella la voluntad de reaccionar delante de todo este infierno que tiene que haber pasado solo por ser una mujer maravillosa y por su apellido de la clara origen noble.
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
