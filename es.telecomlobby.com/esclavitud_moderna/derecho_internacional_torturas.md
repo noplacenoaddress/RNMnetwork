@@ -837,6 +837,8 @@ Varios fines por los que puede infligirse tortura podrían fluir en obtener una 
 
 **Lo más importante es que nosotros, victimas, somos todos iguales**. No hace falta nada mas que unirnos para contar nuestra experiencia para hacernos fuerzas delante de este negocio colosal. Muchos tienen miedo de hablar y muchos han pasado de ser torturados a ser torturadores, *maquinistas*, por poco centavos de un dinero ficticio, la cripto moneda útil pero a garantizar la alimentación y poco más cosa que yo personalmente quiero suplantar pidiendo pensiones al Estado justo porqué somos, todos, victimas de torturas. 
 
+Volviendo a hablar de las torturas o malos tratos en entornos de atención de la salud creo que también el suministro forzoso de medicamentos que afectan la psique se pueda tranquilamente enfocar como pieza degradante del rompecabezas que constituye este negocio oculto. El sacar provecho de situaciones de degrado y marginación creadas a propósito a través de la red de monitorio neuronal es algo diabólico que tiene como escenario, creo uno de los tantos, la nuestra magnifica Barcelona. Posiblemente también la capital Holandesa, **Ámsterdam** [[228]](https://es.wikipedia.org/wiki/%C3%81msterdam), sea otro escenario del negocio del suicidio.   Lamentablemente la cibertortura, o sea la tortura, es utilizada activamente en la sociedad Europea tanto en monarquías cuanto en Italia donde lo que suplanta la corona es el estado Vaticano. 
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1292,6 +1294,8 @@ Varios fines por los que puede infligirse tortura podrían fluir en obtener una 
 226. http://telecomlobby.com/RNMnetwork/complaints/
 
 227. https://es.wikipedia.org/wiki/Derecho_sanitario
+
+228. https://es.wikipedia.org/wiki/%C3%81msterdam
 
      
 
