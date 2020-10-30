@@ -839,6 +839,12 @@ Varios fines por los que puede infligirse tortura podrían fluir en obtener una 
 
 Volviendo a hablar de las torturas o malos tratos en entornos de atención de la salud creo que también el suministro forzoso de medicamentos que afectan la psique se pueda tranquilamente enfocar como pieza degradante del rompecabezas que constituye este negocio oculto. El sacar provecho de situaciones de degrado y marginación creadas a propósito a través de la red de monitorio neuronal es algo diabólico que tiene como escenario, creo uno de los tantos, la nuestra magnifica Barcelona. Posiblemente también la capital Holandesa, **Ámsterdam** [[228]](https://es.wikipedia.org/wiki/%C3%81msterdam), sea otro escenario del negocio del suicidio.   Lamentablemente la cibertortura, o sea la tortura, es utilizada activamente en la sociedad Europea tanto en monarquías cuanto en Italia donde lo que suplanta la corona es el estado Vaticano. 
 
+#### Alcance de las obligaciones básicas del Estado en lo que respecta a la prohibición de la tortura y los malos tratos
+
+![STOP TORTURE](https://telecomlobby.com/Images/prohibicion_tortura.webp)
+
+Como ya hemos visto los Estados están obligados en prevenir la tortura y los tratos crueles, inhumanos o degradantes (malos tratos), dichas conductas son indivisibles y interdependientes y están relacionadas entre sí porqué «las condiciones que dan lugar a malos tratos suelen facilitar la tortura». En mi caso todo empezó por ser **victima de malos tratos** por parte de una mujer que me enamoró, que a su vez es victima de este sistema y ha pasado, bajo coacción seguramente, de ser torturada a ser torturadora; en aquellos tiempos no encontraba una explicación de tal comportamiento, ahora se el porqué y es algo gravisimo. No la culpo de nada siendo a su vez utilizada por parte de varios personajes, algunos de los tratos algo mafiosos, para la introducción de ignaros emprendedores u otros en el negocio del suicidio. Ella obviamente es cociente pero dudo que lo era de la tecnología, ella lee mientras que yo estoy escribiendo y junto a ella su hija. Espero despertar en ella la voluntad de reaccionar delante de todo este infierno que tiene que haber pasado solo por ser una mujer maravillosa y por su apellido de la clara origen noble.
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
