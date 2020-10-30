@@ -821,6 +821,18 @@ Este informe arroja luz sobre prácticas abusivas que incumplen la prohibición 
 
 Los malos tratos en entornos de atención de la salud van de par paso con el **derecho a la salud** [[227]](https://es.wikipedia.org/wiki/Derecho_sanitario). Es necesario identificar aquellos abusos que sean algo más que meras violaciones del derecho a la salud y puedan constituir tortura y malos tratos, y fortalecer la rendición de cuentas y los mecanismos de reparación. La tarea de acabar con la tortura y los malos tratos en entornos de atención  de la salud se enfrenta a obstáculos singulares debido, entre otras cosas, a la percepción, nunca justificada, de que las autoridades pueden defender ciertas prácticas de atención de la salud por razones de eficiencia administrativa, para modificar conductas o por imperativo médico. El propósito del presente informa es analizar todas las formas de malos tratos que se fundamentan o se intentan justificar recurriendo a políticas de atención de la salud, beneficiándose de la idea compartida de su pretendida justificación como «tratamiento médico», y detectar fallas o deficiencias intersectoriales que sean comunes a la totalidad o la mayoría de estas prácticas. 
 
+#### Evolución de la interpretación de la definición de tortura y malos tratos
+
+La definición de la tortura era continuamente objeto de revisión a la luz de las condiciones actuales y los valores en evolución de las sociedades democráticas. La conceptualización como tortura o malos tratos de los abusos cometidos en entornos de atención de la salud es un fenómeno relativamente reciente. En la presente sección, el Relator Especial asume esta evolución continua de un paradigma que, bajo el epígrafe de tortura, incluye de forma creciente formas diversas de malos tratos en entornos de atención de la salud.
+
+El análisis de los abusos cometidos en entornos de atención de la salud a través del prisma de la tortura y los malos tratos se basa en la definición de esas violaciones establecida en la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y en sus interpretaciones autorizadas. A fin de demostrar que las prácticas abusivas en entornos de atención de la salud responden a la definición de la tortura, en la siguiente sección se presenta un panorama general de los principales elementos que integran dicha definición.
+
+#### Aplicabilidad del marco de protección contra la tortura y los malos tratos en entornos de atención de la salud
+
+Recordamos que la tortura debe: infligir dolores o sufrimientos graves, ya sean físicos o mentales; ser intencional; tener un propósito concreto; e intervenir, o al menos prestar su aquiesciencia un funcionario del Estado. En la red de monitorio neuronal siempre están presentes a través de las cameras neuronales, visión remota directamente desde el sistema visual de las victimas. 
+
+El porqué haya interés en torturar en ambiente de atención a la salud merece cierta análisis según el Relator Especial, cosa que, hablando de la situación Catalana, es obvia si vista dentro el prisma del negocio del suicidio, una cadena de degrado exponencial en la cual caen víctimas, normalmente pequeño y mediano emprendedores estafados. Detrás la nobleza que apuesta sobre la vida de las victimas, yo por ejemplo.  
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
