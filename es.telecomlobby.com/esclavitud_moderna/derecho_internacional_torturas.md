@@ -831,7 +831,7 @@ El análisis de los abusos cometidos en entornos de atención de la salud a trav
 
 Recordamos que la tortura debe: infligir dolores o sufrimientos graves, ya sean físicos o mentales; ser intencional; tener un propósito concreto; e intervenir, o al menos prestar su aquiesciencia un funcionario del Estado. En la red de monitorio neuronal siempre están presentes a través de las cameras neuronales, visión remota directamente desde el sistema visual de las victimas. 
 
-El porqué haya interés en torturar en ambiente de atención a la salud merece cierta análisis según el Relator Especial, cosa que, hablando de la situación Catalana, es obvia si vista dentro el prisma del negocio del suicidio, una cadena de degrado exponencial en la cual caen víctimas, normalmente pequeño y mediano emprendedores estafados. Detrás la nobleza que apuesta sobre la vida de las victimas, yo por ejemplo.  
+El porqué haya interés en torturar en ambiente de atención a la salud merece cierta análisis según el Relator Especial, cosa que, hablando de la situación Catalana, es obvia si vista dentro el prisma del negocio del suicidio, una cadena de degrado exponencial en la cual caen víctimas, normalmente pequeño y mediano emprendedores estafados. Detrás la nobleza que apuesta sobre la vida de las victimas, yo por ejemplo. **Somos fichas de maquinas de juego sádicas, se mueven millones en esta estafa organizada**.  La Mafia Catalana es el filtro entra la alta nobleza y la élite de este país, todos involucrados en este negocio, y las victimas reducidas normalmente a la vida en la calle, a ser marginados y a la venta de drogas. 
 
 ###   External links 
 
