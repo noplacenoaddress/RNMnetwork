@@ -839,6 +839,10 @@ Varios fines por los que puede infligirse tortura podrían fluir en obtener una 
 
 Volviendo a hablar de las torturas o malos tratos en entornos de atención de la salud creo que también el suministro forzoso de medicamentos que afectan la psique se pueda tranquilamente enfocar como pieza degradante del rompecabezas que constituye este negocio oculto. El sacar provecho de situaciones de degrado y marginación creadas a propósito a través de la red de monitorio neuronal es algo diabólico que tiene como escenario, creo uno de los tantos, la nuestra magnifica Barcelona. Posiblemente también la capital Holandesa, **Ámsterdam** [[228]](https://es.wikipedia.org/wiki/%C3%81msterdam), sea otro escenario del negocio del suicidio.   Lamentablemente la cibertortura, o sea la tortura, es utilizada activamente en la sociedad Europea tanto en monarquías cuanto en Italia donde lo que suplanta la corona es el estado Vaticano. 
 
+#### Alcance de las obligaciones básicas del Estado en lo que respecta a la prohibición de la tortura y los malos tratos
+
+![STOP TORTURE](https://telecomlobby.com/Images/prohibicion_tortura.webp)
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
