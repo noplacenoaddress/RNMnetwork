@@ -869,7 +869,21 @@ Por lo tanto es totalmente normal cuestionar la doctrina de la necesidad médica
 
 La doctrina de la necesidad médica sigue obstaculizando la protección contra los maltratos arbitrarios en entornos de atención de la salud.
 
-La Alta Comisionada de las Naciones Unidas para los Derechos Humanos examinó las leyes y las practicas discriminatorios y los actos de violencias cometidos contra personas por su orientación sexual e identidad de género en entornos de atención de salud, cosa que he averiguado personalmente en las infraestructuras Catalanas. 
+La Alta Comisionada de las Naciones Unidas para los Derechos Humanos examinó las leyes y las practicas discriminatorios y los actos de violencias cometidos contra personas por su orientación sexual e identidad de género en entornos de atención de salud, cosa que he averiguado personalmente en las infraestructuras Catalanas. La discriminación desempeña un papel destacado en un análisis de las violaciones de los derechos reproductivos como formas de tortura o malos tratos porque bajo su superficie suele haber prejuicios basados en el sexo y en el género. El titular del mandato declaró, con respecto a una definición de la tortura que incluyese la perspectiva de género, que el elemento de propósito se cumplía siempre cuando se trataba de la violencia específica contra la mujer en el sentido de que era inherentemente discriminatoria y de que uno de lso propósitos posibles enumerados en la Convención era la discriminación.
+
+#### El creciente reconocimiento de las diferentes formas de abusos en atención de la salud
+
+Los cuidados médicos que causan graves sufrimientos sin ningún motivo aparente pueden considerarse crueles, inhumanos o degradantes, y si hay participación estatal, como en Catalunya, y una intención específica, constituyen tortura. 
+
+#### Internamiento obligatorio por problemas médicos
+
+En muchos casos pacientes retenidos en centros son objeto de palizas, vergajazos y azotes, suministrados con la aquiescencia del Estados, se les domete a trabajos forzados, y sufren abusos sexuales y humillaciones deliberadas. Personalmente he sufrido un paliza y por parte de otros internados obviamente bajo coacción un intento de abuso sexual homosexual. 
+
+La privación de libertad, en la que suelen estas ausentes las evaluaciones médicas, la revisión judicial o el derecho a apelar, cosa que yo no he tenido, no ofrece tratamientos con base empírica ni eficaces. Los programas de reclusión forzosa infringen las normas internacionales de derechos humanos y son sucedáneos ilegítimos de medidas con base empírica, como la terapia de substitución, las intervenciones psicológicas y otras formas de tratamiento administrado con el consentimiento pleno e informado del paciente.
+
+Hay numerosos callamientos de diversas organizaciones internacionales y regionales a favor del cierro de los centro de internamiento obligatorio que se ignoran sistemáticamente y siguen funcionando sin ningún tipo de supervisión adecuada en materia de derechos humanos.
+
+
 
 ###   External links 
 
