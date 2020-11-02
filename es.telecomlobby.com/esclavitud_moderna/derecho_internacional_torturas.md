@@ -849,6 +849,14 @@ Es inútil recordar que los Estados deben prohibir, impedir y castigar los actos
 
 Garantizar la protección especial de personas y grupos minoritarios y marginados es un componente esencial de la obligación de prevenir la tortura y los malos tratos; los Estados tienen una mayor obligación de proteger a los vulnerables o marginados ante la tortura ya que, por lo general, estas personas están más expuestas al riesgo de sufrir tortura y malos tratos. En muchos casos añado debido a mi investigación de que el grupo social de los vulnerables viene enriquecido voluntariamente de nuevos elementos justo por lo contrario, por el negocio del suicidio que ve muchos funcionarios Estatales involucrados en este crimen contra la humanidad.  
 
+#### Principios rectores y de interpretación
+
+![Consentimiento informado](https://telecomlobby.com/Images/consentimiento_informado.webp)
+
+**La capacidad de entender y querer** es uan condición que se asigna a los actores que ejerecen el **libre albedrío** [[229]](https://es.wikipedia.org/wiki/Libre_albedr%C3%ADo) y la libertad de elección y a cuyos actos se atribuyen efectos jurídicos. Se puede impugnar, aunqué se tenga que demostrar que el sujeto sea incapaz de tomar decisiones.
+
+El Relator Especial sobre el derecho de toda persona capaz de entender señaló que el **consentimiento informado** [[230]](https://es.wikipedia.org/wiki/Consentimiento_informado) no es la mera aceptación de una intervención médica, sino una decisión voluntaria y suficientemente informada. Garantiazar el consentimiento informado
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1306,6 +1314,10 @@ Garantizar la protección especial de personas y grupos minoritarios y marginado
 227. https://es.wikipedia.org/wiki/Derecho_sanitario
 
 228. https://es.wikipedia.org/wiki/%C3%81msterdam
+
+229. https://es.wikipedia.org/wiki/Libre_albedr%C3%ADo
+
+230. https://es.wikipedia.org/wiki/Consentimiento_informado
 
      
 
