@@ -863,7 +863,13 @@ La **tortura**, por ser la violación más grave del derecho humano a la integri
 
 > Os recuerdo que he sido encerrado de por fuerza en un instituto de higiene mental en Catalunya. 
 
+El carácter discriminatorio de las intervenciones psiquiátricas forzadas cumple los requisitos de intencionalidad y propósito recogidos en el artículo 1 de la Convención contra la Tortura, pese a las protestas de buenas intenciones que puedan formular profesionales de la medicina.
 
+Por lo tanto es totalmente normal cuestionar la doctrina de la necesidad médica que puede llegar a ser **tortura médica** [[231]](https://es.wikipedia.org/wiki/Tortura_m%C3%A9dica); suministrar **sedantes** [[232]](https://es.wikipedia.org/wiki/Sedante), cosa que han intentado en mi detención forzosa en un hospital psiquiátrico en Catalunya que yo he hábilmente evitado no tragando las pastillas, y alimentar por la fuerza de manera continua a un paciente inmovilizado y atado a una cama durante un tiempo se ajusta al termino de tortura. 
+
+La doctrina de la necesidad médica sigue obstaculizando la protección contra los maltratos arbitrarios en entornos de atención de la salud.
+
+La Alta Comisionada de las Naciones Unidas para los Derechos Humanos examinó las leyes y las practicas discriminatorios y los actos de violencias cometidos contra personas por su orientación sexual e identidad de género en entornos de atención de salud, cosa que he averiguado personalmente en las infraestructuras Catalanas. 
 
 ###   External links 
 
@@ -1326,6 +1332,10 @@ La **tortura**, por ser la violación más grave del derecho humano a la integri
 229. https://es.wikipedia.org/wiki/Libre_albedr%C3%ADo
 
 230. https://es.wikipedia.org/wiki/Consentimiento_informado
+
+231. https://es.wikipedia.org/wiki/Tortura_m%C3%A9dica
+
+232. https://es.wikipedia.org/wiki/Sedante
 
      
 
