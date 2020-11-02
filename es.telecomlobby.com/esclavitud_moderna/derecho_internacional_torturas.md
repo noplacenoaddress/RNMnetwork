@@ -853,9 +853,17 @@ Garantizar la protección especial de personas y grupos minoritarios y marginado
 
 ![Consentimiento informado](https://telecomlobby.com/Images/consentimiento_informado.webp)
 
-**La capacidad de entender y querer** es uan condición que se asigna a los actores que ejerecen el **libre albedrío** [[229]](https://es.wikipedia.org/wiki/Libre_albedr%C3%ADo) y la libertad de elección y a cuyos actos se atribuyen efectos jurídicos. Se puede impugnar, aunqué se tenga que demostrar que el sujeto sea incapaz de tomar decisiones.
+**La capacidad de entender y querer** es una condición que se asigna a los actores que ejercen el **libre albedrío** [[229]](https://es.wikipedia.org/wiki/Libre_albedr%C3%ADo) y la libertad de elección y a cuyos actos se atribuyen efectos jurídicos. Se puede impugnar, aunque se tenga que demostrar que el sujeto sea incapaz de tomar decisiones.
 
-El Relator Especial sobre el derecho de toda persona capaz de entender señaló que el **consentimiento informado** [[230]](https://es.wikipedia.org/wiki/Consentimiento_informado) no es la mera aceptación de una intervención médica, sino una decisión voluntaria y suficientemente informada. Garantiazar el consentimiento informado
+El Relator Especial sobre el derecho de toda persona capaz de entender señaló que el **consentimiento informado** [[230]](https://es.wikipedia.org/wiki/Consentimiento_informado) no es la mera aceptación de una intervención médica, sino una decisión voluntaria y suficientemente informada. Garantizar el consentimiento informado es un aspecto fundamental del respeto a la autonomía, la libre determinación y la dignidad humana de la persona en un proceso continuo y apropiado de servicios de la atención de la salud solicitados de forma voluntaria. 
+
+El consentimiento informado corre peligro en el entorno de la atención de salud. Las desigualdades como el desequilibro en las relaciones de poder entre médicos y pacientes, agravadas por le estigma y la discriminación hacen que ciertas personas se vean en la tesitura de no poder ejercer su derecho al consentimiento informado.
+
+La **tortura**, por ser la violación más grave del derecho humano a la integridad y la dignidad de la persona, presupone una **situación de impotencia**, en que la víctima está bajo control absoluta de otra persona; una de estas situaciones es la privacidad de la capacidad jurídica, que acaece cuando una persona se ve despojada de su capacidad para tomar decisiones y esta se asigna a terceros. Tratamientos médicos de carácter invasivo e irreversible en caso de que carezcan de finalidad terapéutica pueden constituir tortura y malos tratos si se aplican sin el consentimiento libre y informado del paciente.
+
+> Os recuerdo que he sido encerrado de por fuerza en un instituto de higiene mental en Catalunya. 
+
+
 
 ###   External links 
 
