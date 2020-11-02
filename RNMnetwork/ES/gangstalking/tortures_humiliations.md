@@ -150,6 +150,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 19/10/2020 Because today I've worked from 6AM to 16PM those pathetic ordered by this stupid little bitch of the Marquees do stalk to me in radio subliminal voice service. They are people that I personally know from Genoa, and this is an International complaint because of **tortures, crimes against humanity, Mafia, intent of murder, etc etc**. Those pathetic will go in jail for life. **Francesca** you too. 
 - 21/10/2020 12:00 The torture never stop. I'm continuously electrocuted by electromagnetic weapons in Catalunya, Spain. The weapons are used by a Catalan Mafia man that follow Francesca orders. In subliminal message system he always death threat me.
 - 26/10/2020 00:19 It's from 48h that they torture me. Very heavy head cache. 
+- 2/11/2020 10:11 I was tortured all night long with extremely loud beeps inside my head. From a military electronic weapon and **I'm an european citizen**. Son of bitches.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
