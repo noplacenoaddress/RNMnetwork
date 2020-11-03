@@ -918,7 +918,11 @@ Desde 2008 se dio pasos importantes en la elaboración de normas para abolir las
 
 **Yo, Riccardo Giuntoli torturado y abusado por prácticamente todo mi entorno, afirmo y subscribo que el medio para infligir dichas torturas es la red de monitorio neuronal transmitida por neuroestimuladores inalámbricos con punto de acceso ubicado físicamente en la torre de Collserola de Barcelona. Hemos terminado con la impunidad.** 
 
+Las personas con discapacidad suelen quedar invalidadas atendiendo a un supuesto interés superior y las violaciones graves y la discriminación contra estas personas pueden encubrirse aduciendo las buenas intenciones de los profesionales de la salud.
 
+No puede haber justificación terapéutica para el uso de la reclusión en régimen de aislamiento y los períodos prolongados de inmovilización de las personas con discapacidad en instituciones psiquiátricas; constituyen torturas y malos tratos. Es esencial que se aplique una prohibición absoluta de todas las medidas coercitivas y no consentidas. LA circunstancias de impotencia pueden dar lugar a otros tratamientos no consentidos, como la medicación forzosa y los procedimientos de electrochoque. Este último es practicado de forma remota en la red de monitorio neuronal. 
+
+La **terapia electroconvulsiva** [[236]](https://es.wikipedia.org/wiki/Terapia_electroconvulsiva) es suministrada a las victimas de la red de neuroestimuladores inalámbricos para conseguir exactamente el revés que se indica en el articulo de wikipedia. Para ingresar personas en psiquiátricos donde después a través de la corrupción vienen privadas de sus derechos fundamentales creado un ambiente de tortura y crímenes contra la humanidad. Los mandantes pertenecen a alta nobleza y Iglesia Católica en mi caso y son protegidos de una banda de actores no estatales reclutados donde el enlace, o sea la única persona totalmente culpable, es la persona de mayor edad, el jefe.
 
 ###   External links 
 
@@ -1391,6 +1395,8 @@ Desde 2008 se dio pasos importantes en la elaboración de normas para abolir las
 234. https://es.wikipedia.org/wiki/Control_social
 
 235. https://es.wikipedia.org/wiki/Comunidad_del_Cordero
+
+236. https://es.wikipedia.org/wiki/Terapia_electroconvulsiva
 
      
 
