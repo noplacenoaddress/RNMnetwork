@@ -894,6 +894,18 @@ El Relator Especial cuando se habla de entornos de atención de la salud intenta
 - mutilación genital femenina. En radio, y únicamente aquí porqué no la veo ni frecuento desde el 2015, Saray ha contado haber sido violada y maltratada sexualmente por parte de personas que afirman haber seguido ordenes en este ambiente de tortura. Ordenes impartidos por parte de la Francese. Ahora, como que la sensaciones obtenidas gracias a través de este sistema son prácticamente iguales a las no manipuladas artificialmente no se afirmar con certidumbre si ha sido un maltrato físico o únicamente en red. Si así fuera se trata de torturas sin rastros con sensaciones parecidas a la mutilación genital femenina, algo que sin este tratado que estoy confeccionando no estaría denunciable. **Alguna mujer es torturada sexualmente en Barcelona**; torturada en la red de monitorio neuronal. Pertenecen a la clase obrera o marginal; mujeres de poca cultura que no tienen la capacidad de explicar en una comisaria lo que le ha pasado siendo derivadas, en algún caso con mala intención siendo el funcionario corrupto en este mismo sistema, a un hospital de higiene mental donde normalmente son abusadas físicamente. El miedo, el terror, hace que no haya una denuncia completa. Miedo inducido porqué también muchas veces son consumidoras de drogas; normal siendo victimas de un tecnología que la racionalidad y la poca cultura sabe explicar.
 - infracciones del secreto médico y de la confidencialidad en entornos de atención de la salud; praxis normal en la red de monitorio neuronal, no hay secreto médico. 
 
+El acceso a la información sobre la salud reproductiva es imprescindible para que una mujer pueda ejercer su autonomía reproductiva, y sus derechos a la salud y a la integridad física. Un problema cada vez más generalizado es la esterilización involuntaria de mujeres de minorías étnicas y raciales, mujeres de comunidades marginadas y mujeres con discapacidad a causa de la noción discriminatoria según la cual no son "aptas" para tener hijos. La esterilización forzada es un acto de violencia, una forma de **control social** [[234]](https://es.wikipedia.org/wiki/Control_social) y una violación del derecho a no ser sometido a torturas y otros tratos o penas crueles, inhumanos o degradantes. 
+
+Para muchas víctimas de violación, el acceso a un procedimiento de aborto sin riesgo es prácticamente imposible debido a un laberinto de trabas administrativas y a la negligencia y la obstrucción oficiales. El Tribunal Europeo de Derechos Humanos declaró que "el estigma asociado al aborto y a la violencia sexual causa mucha angustia y sufrimiento, tanto física como mentalmente."
+
+En numerosas ocasiones, los órganos de Naciones Unidas han expresado su preocupación al denegarse o restringirse el acceso a los cuidados posteriores al aborto, a menudo con fines inaceptables como imponer un castigo u obtener una confesión.
+
+#### Denegación de tratamiento contra el dolor
+
+![Circulo del dolor](https://telecomlobby.com/Images/circulo_dolor.webp)
+
+El dolor, como el fracaso, es un circulo vicioso. Dos círculos comunicantes. 
+
 
 
 
@@ -1365,6 +1377,8 @@ El Relator Especial cuando se habla de entornos de atención de la salud intenta
 232. https://es.wikipedia.org/wiki/Sedante
 
 233. https://es.wikipedia.org/wiki/Salud_reproductiva
+
+234. https://es.wikipedia.org/wiki/Control_social
 
      
 
