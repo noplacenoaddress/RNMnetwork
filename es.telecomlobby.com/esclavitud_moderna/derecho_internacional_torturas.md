@@ -910,6 +910,8 @@ Denegar el tratamiento del dolor es un acto de omisión y no de comisión, y se 
 
 #### Personas con discapacidad psicosocial 
 
+Por discapacidad se entienden también aquellas personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales por las cuales, siendo diferentes barreras, no puedan interactuar correctamente en la sociedad. Son personas desatendidas o ingresadas en instituciones de atención psiquiátrica y social, campamentos de oración (en Barcelona las hermanas de la **Comunidad del Cordero** [[235]](https://es.wikipedia.org/wiki/Comunidad_del_Cordero) organizan)
+
 
 
 ###   External links 
@@ -1381,6 +1383,8 @@ Denegar el tratamiento del dolor es un acto de omisión y no de comisión, y se 
 233. https://es.wikipedia.org/wiki/Salud_reproductiva
 
 234. https://es.wikipedia.org/wiki/Control_social
+
+235. https://es.wikipedia.org/wiki/Comunidad_del_Cordero
 
      
 
