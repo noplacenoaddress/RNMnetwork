@@ -914,6 +914,8 @@ Por discapacidad se entienden también aquellas personas que tengan deficiencias
 
 > ¿Que hay detrás en Barcelona, o más allá en Europa? Esquejes de nobleza. Personas internadas  por fines económicos ¿De quien? Obviamente, del estado pontificio. Obviamente. 
 
+Desde 2008 se dio pasos importantes en la elaboración de normas para abolir las intervenciones psiquiátricas forzadas por motivos de discapacidad únicamente por construir una forma de tortura y malos tratos. Se siguen cometiendo en entornos de atención de la salud abusos graves contra personas con discapacidad psicosocial o intelectual, como el abandono, el maltrato mental y físico y la violencia sexual. **Yo, Riccardo Giuntoli torturado y abusado por prácticamente todo mi entorno, afirmo y subscribo que el medio para infligir dichas torturas es la red de monitorio neuronal transmitida por neuroestimuladores inalámbricos con punto de acceso ubicado físicamente en la torre de Collserola de Barcelona.** 
+
 
 
 ###   External links 
