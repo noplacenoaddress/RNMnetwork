@@ -910,7 +910,9 @@ Denegar el tratamiento del dolor es un acto de omisión y no de comisión, y se 
 
 #### Personas con discapacidad psicosocial 
 
-Por discapacidad se entienden también aquellas personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales por las cuales, siendo diferentes barreras, no puedan interactuar correctamente en la sociedad. Son personas desatendidas o ingresadas en instituciones de atención psiquiátrica y social, campamentos de oración (en Barcelona las hermanas de la **Comunidad del Cordero** [[235]](https://es.wikipedia.org/wiki/Comunidad_del_Cordero) organizan)
+Por discapacidad se entienden también aquellas personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales por las cuales, siendo diferentes barreras, no puedan interactuar correctamente en la sociedad. Son personas desatendidas o ingresadas en instituciones de atención psiquiátrica y social, campamentos de oración (en Barcelona las hermanas de la **Comunidad del Cordero** [[235]](https://es.wikipedia.org/wiki/Comunidad_del_Cordero) organizan), internados seglares y religiosos en que se ofrecen terapias, campamentos de entranamiento, centro residenciales privados de tratamiento o centros de curación medios tradicionales. 
+
+> ¿Que hay detrás en Barcelona, o más allá en Europa? Esquejes de nobleza. Personas internadas  por fines económicos ¿De quien? Obviamente, del estado pontificio. Obviamente. 
 
 
 
