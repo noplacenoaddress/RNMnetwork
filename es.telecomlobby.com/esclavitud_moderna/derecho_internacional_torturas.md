@@ -877,7 +877,7 @@ Los cuidados médicos que causan graves sufrimientos sin ningún motivo aparente
 
 #### Internamiento obligatorio por problemas médicos
 
-En muchos casos pacientes retenidos en centros son objeto de palizas, vergajazos y azotes, suministrados con la aquiescencia del Estados, se les domete a trabajos forzados, y sufren abusos sexuales y humillaciones deliberadas. Personalmente he sufrido un paliza y por parte de otros internados obviamente bajo coacción un intento de abuso sexual homosexual. 
+En muchos casos pacientes retenidos en centros son objeto de palizas, vergajazos y azotes, suministrados con la aquiescencia del Estados, se les somete a trabajos forzados, y sufren abusos sexuales y humillaciones deliberadas. Personalmente he sufrido un paliza y por parte de otros internados obviamente bajo coacción un intento de abuso sexual homosexual. 
 
 La privación de libertad, en la que suelen estas ausentes las evaluaciones médicas, la revisión judicial o el derecho a apelar, cosa que yo no he tenido, no ofrece tratamientos con base empírica ni eficaces. Los programas de reclusión forzosa infringen las normas internacionales de derechos humanos y son sucedáneos ilegítimos de medidas con base empírica, como la terapia de substitución, las intervenciones psicológicas y otras formas de tratamiento administrado con el consentimiento pleno e informado del paciente.
 
