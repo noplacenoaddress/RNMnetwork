@@ -910,6 +910,14 @@ Denegar el tratamiento del dolor es un acto de omisión y no de comisión, y se 
 
 #### Personas con discapacidad psicosocial 
 
+Por discapacidad se entienden también aquellas personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales por las cuales, siendo diferentes barreras, no puedan interactuar correctamente en la sociedad. Son personas desatendidas o ingresadas en instituciones de atención psiquiátrica y social, campamentos de oración (en Barcelona las hermanas de la **Comunidad del Cordero** [[235]](https://es.wikipedia.org/wiki/Comunidad_del_Cordero) organizan), internados seglares y religiosos en que se ofrecen terapias, campamentos de entranamiento, centro residenciales privados de tratamiento o centros de curación medios tradicionales. 
+
+> ¿Que hay detrás en Barcelona, o más allá en Europa? Esquejes de nobleza. Personas internadas  por fines económicos ¿De quien? Obviamente, del estado pontificio. Obviamente. 
+
+Desde 2008 se dio pasos importantes en la elaboración de normas para abolir las intervenciones psiquiátricas forzadas por motivos de discapacidad únicamente por construir una forma de tortura y malos tratos. Se siguen cometiendo en entornos de atención de la salud abusos graves contra personas con discapacidad psicosocial o intelectual, como el abandono, el maltrato mental y físico y la violencia sexual. 
+
+**Yo, Riccardo Giuntoli torturado y abusado por prácticamente todo mi entorno, afirmo y subscribo que el medio para infligir dichas torturas es la red de monitorio neuronal transmitida por neuroestimuladores inalámbricos con punto de acceso ubicado físicamente en la torre de Collserola de Barcelona. Hemos terminado con la impunidad.** 
+
 
 
 ###   External links 
@@ -1381,6 +1389,8 @@ Denegar el tratamiento del dolor es un acto de omisión y no de comisión, y se 
 233. https://es.wikipedia.org/wiki/Salud_reproductiva
 
 234. https://es.wikipedia.org/wiki/Control_social
+
+235. https://es.wikipedia.org/wiki/Comunidad_del_Cordero
 
      
 
