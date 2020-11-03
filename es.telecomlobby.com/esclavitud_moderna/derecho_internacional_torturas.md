@@ -885,7 +885,16 @@ Hay numerosos callamientos de diversas organizaciones internacionales y regional
 
 #### Conculcación de los derechos reproductivos
 
-El Relator Especial 
+El Relator Especial cuando se habla de entornos de atención de la salud intenta complementar sus esfuerzos identificando las prácticas relacionadas con los derechos reproductivos. Se ha encontrado con practicas de torturas contra mujeres que hayan pedido servicios de **salud reproductiva** [[233]](https://es.wikipedia.org/wiki/Salud_reproductiva): 
+
+- maltrato y humillación en entornos institucionales.
+- esterilizaciones involuntarias.
+- denegación del acceso a servicios autorizados de salud como el aborto y la atención posaborto.
+- esterilizaciones y aborto forzoso.
+- mutilación genital femenina. En radio, y únicamente aquí porqué no la veo ni frecuento desde el 2015, Saray ha contado haber sido violada y maltratada sexualmente por parte de personas que afirman haber seguido ordenes en este ambiente de tortura. Ordenes impartidos por parte de la Francese. Ahora, como que la sensaciones obtenidas gracias a través de este sistema son prácticamente iguales a las no manipuladas artificialmente no se afirmar con certidumbre si ha sido un maltrato físico o únicamente en red. Si así fuera se trata de torturas sin rastros con sensaciones parecidas a la mutilación genital femenina, algo que sin este tratado que estoy confeccionando no estaría denunciable. **Alguna mujer es torturada sexualmente en Barcelona**; torturada en la red de monitorio neuronal. Pertenecen a la clase obrera o marginal; mujeres de poca cultura que no tienen la capacidad de explicar en una comisaria lo que le ha pasado siendo derivadas, en algún caso con mala intención siendo el funcionario corrupto en este mismo sistema, a un hospital de higiene mental donde normalmente son abusadas físicamente. El miedo, el terror, hace que no haya una denuncia completa. Miedo inducido porqué también muchas veces son consumidoras de drogas; normal siendo victimas de un tecnología que la racionalidad y la poca cultura sabe explicar.
+- 
+
+
 
 
 
@@ -1354,6 +1363,8 @@ El Relator Especial
 231. https://es.wikipedia.org/wiki/Tortura_m%C3%A9dica
 
 232. https://es.wikipedia.org/wiki/Sedante
+
+233. https://es.wikipedia.org/wiki/Salud_reproductiva
 
      
 
