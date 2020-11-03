@@ -906,7 +906,9 @@ En numerosas ocasiones, los órganos de Naciones Unidas han expresado su preocup
 
 El dolor, como el fracaso, es un circulo vicioso. Dos círculos comunicantes. 
 
+Denegar el tratamiento del dolor es un acto de omisión y no de comisión, y se debe más a la negligencia y a las malas políticas del Gobierno que la intención de infligir sufrimiento. Se puede considerar tortura cuando el Gobierno no haya adoptado todas las medidas razonables para proteger la integridad física y mental de las personas.
 
+#### Personas con discapacidad psicosocial 
 
 
 
