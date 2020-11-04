@@ -934,7 +934,38 @@ En la red de monitorio neuronal dichos trastornos son concordados a través mens
 
 Salvo en caso de emergencia, el interesado no se verá privado de su libertad, a menos que se haya demostrado de manera fiable que está **trastornado**. Como la reclusión en un contexto psiquiátrico puede dar lugar a un tratamiento psiquiátrico no consentido, el titular del mandato declaró que la privación de libertad basada en la existencia de una discapacidad podría infligir también una pena o un sufrimiento graves a la persona.
 
-La banda de actores no estatales que operan en Catalunya, torturando victimas de la aristocracia, es muy probable que hayan pasado por el internamiento forzoso en hospitales de higiene mental y que cobren una pensión de parte del Estado. Es una tapadera muy fuerte, el Estado les permite así también bastante libertad en el trafico de drogas de bajo nivel. Un acuerdo silenciado entra torturados que aceptan ser torturadores y perseguir otros como ellos, victimas de una nobleza corrupta y enferma. El jefe de la banda, que yo describo hasta como secta dedicada al suicidio, es la persona de mayor edad; muy probablemente una de las primeras personas en haber sido perseguida después de la mesa en funcionamiento de la torre de Collserola en 1991. Sus  rasgos fenotípicos tienen parecidos a la familia real, en el oído sobre todo, y a la mas grande familia noble Catalana. Su hijo es probable que haya sido fruto de una relación obligada entra el y una mujer de esta familia ya que el apellido es aquel. O sea que el padre probablemente no es ni reconocido. Los mios tienen similitudes con una de las **familias mas importantes de Napoles** [[238].](https://9-rg.com) El porqué acepten hacer daño a otro es una serie de problemas que han pasado ellos mismos relacionadas con la poca confianza en el Estado de derecho, con problemas en relacionarse con la sociedad civil creados por ser torturados, con la soledad y con toda una serie de problemas sexuales debido a la esclavitud. Son en el fondo personas decentes y de buen corazón que han pasados décadas de torturas sin haber sido ayudada. Lo es también Saray, la mujer que he vuelto a encontrar en este sistema de tortura, de cibertortura.  También mis padres sufren de gravisimos problemas sexuales. Otros, en esta pirámide de sufrimiento, son utilizados, aunque ganen bastante dinero, para estafar, estafar a personas que conocen de toda la vida; algo muy triste. El porqué es su clase social de nacimiento y sus ganas de ser aceptados en clases mas altas sin haber estudiado. Aquellas personas se aprovechan de ellos para hacer daño a un buen amigo creando dinero  con maquinas de apuestas remotas. Dinero fácil que tiene que ser eliminado porqué ha destruido la vida a muchísimos amigos mios, la mayoría pequeños empresarios que luchan para tener una actividad decente y continuada. Una vergüenza Española copiada por parte de una marquesa en Italia y utilizada también por parte del más grande grupo empresarial privado de audiovisuales italiano. Utilizada para dividir las personas, **dividi et impera**.
+La banda de actores no estatales que operan en Catalunya, torturando victimas de la aristocracia, es muy probable que hayan pasado por el internamiento forzoso en hospitales de higiene mental y que cobren una pensión de parte del Estado. Es una tapadera muy fuerte, el Estado les permite así también bastante libertad en el trafico de drogas de bajo nivel. Un acuerdo silenciado entra torturados que aceptan ser torturadores y perseguir otros como ellos, victimas de una nobleza corrupta y enferma. El jefe de la banda, que yo describo hasta como secta dedicada al suicidio, es la persona de mayor edad; muy probablemente una de las primeras personas en haber sido perseguida después de la mesa en funcionamiento de la torre de Collserola en 1991. Sus  rasgos fenotípicos tienen parecidos a la familia real, en el oído sobre todo, y a la mas grande familia noble Catalana. Su hijo es probable que haya sido fruto de una relación obligada entra el y una mujer de esta familia ya que el apellido es aquel. O sea que el padre probablemente no es ni reconocido. Los mios tienen similitudes con una de las **familias mas importantes de Napoles** [[238].](https://9-rg.com) El porqué acepten hacer daño a otro es una serie de problemas que han pasado ellos mismos relacionadas con la poca confianza en el Estado de derecho, con problemas en relacionarse con la sociedad civil creados por ser torturados, con la soledad y con toda una serie de problemas sexuales debido a la esclavitud. Son en el fondo personas decentes y de buen corazón que han pasados décadas de torturas sin haber sido ayudada. Lo es también Saray, la mujer que he vuelto a encontrar en este sistema de tortura, de cibertortura.  También mis padres sufren de gravisimos problemas sexuales. Otros, en esta pirámide de sufrimiento, son utilizados, aunque ganen bastante dinero, para estafar, estafar a personas que conocen de toda la vida; algo muy triste. El porqué es su clase social de nacimiento y sus ganas de ser aceptados en clases mas altas sin haber estudiado. Personas de clase social medio alta que se aprovechan de ellos para hacer daño a un buen amigo creando dinero  con maquinas de apuestas remotas. Dinero fácil que tiene que ser eliminado porqué ha destruido la vida a muchísimos, la mayoría pequeños empresarios que luchan para tener una actividad decente y continuada. Una vergüenza Española copiada por parte de una marquesa en Italia y utilizada también por parte del más grande grupo empresarial privado de audiovisuales italiano. Utilizada para dividir las personas, **dividi et impera**.
+
+Cuando se habla de tortura en contextos de detección forzosa en hospitales de higiene mental hay que tener en cuenta diferentes factores:
+
+- Temor
+- Ansiedad
+- Administración forzosa de medicamentos
+- Electrochoque
+- Inmovilización
+- Reclusión
+- Superación de la comunidad
+
+En estas instalaciones muchas veces nos encontramos también, como demarca exactamente mi caso, con un uso no consentido, inadecuado o innecesario de la fuerza que constituye, sobre todo encuadrando los hechos en un plan de destrucción sistemática de la vida del individuo maquinado a través de la misma red de monitorio neuronal utilizando corrupción y torturas como instrumentos, tortura sin duda ninguna!
+
+#### Grupos marginados
+
+En mi vida he conocido personas positivas al **SIDA** [[239]](https://es.wikipedia.org/wiki/Virus_de_la_inmunodeficiencia_humana). Personas Españolas que han vivido los ochenta en un país destrozado por la heroína, droga en realidad mesa en circulo también en Catalunya y País Vasco por destruir los sentimientos independentistas que pertenecen a estas dos comunidades autónomas de la monarquía parlamentaría Española. Destrozado también por la miseria, historias de lucha diarias para conseguir nada mas que la comida. Algo a lo cual no era acostumbrado viniendo de Italia donde estas historias de miseria tan pronunciada es muy complicado escucharlas. **De una realidad tan cruda he conseguido la mejor relación de mi vida**.
+
+Este grupo marginado de la sociedad, tan presente en la realidad Española, se han documentado episodios graves de tortura y malos tratos como:
+
+- no ser aceptados en hospitales
+- alta médica arbitraria
+- negación del acceso a servicios médicos
+- atención de baja calidad que deshumaniza
+
+Las personas que consumen drogas, diría la mayoría de las personas, sufren una enorme estigmatización y criminalización por una sociedad **hipócrita** [[240]](https://es.wikipedia.org/wiki/Hipocres%C3%ADa). En la situación de tortura y violencia que he vivido en una planta de psiquiatría en un hospital publico de Catalunya me han dado del drogado porqué referí escuchar voces, mensajería subliminal de la red de monitorio neuronal, y hasta después de una denuncia en justicia pública que hice me contestaron que el hecho que fui atado a una cama por tanto tiempo se debía a un consumo de drogas con tanto de pruebas de sangre totalmente falsas. Ya que no había consumido absolutamente nada. 
+
+Con frecuencia los consumidores de drogas que viven con el VIH, ven cómo se les niega el tratamiento médico de emergencia. En algunos casos las leyes señalan específicamente la condición de consumidor de drogas como único motivo para retirar la custodia u otros derechos parentales; también se utiliza esta escusa, en el caso no sea un consumo toxicómano, para coaccionar parejas hasta la prostitución forzosa. 
+
+**Saray también podría ser victima de este maltrato siempre organizado de forma mafiosa en el interior de la red de monitorio neuronal.**  
+
+
 
 ###   External links 
 
@@ -1413,6 +1444,12 @@ La banda de actores no estatales que operan en Catalunya, torturando victimas de
 237. https://es.wikipedia.org/wiki/Tutor
 
 238. https://9.rg.com
+
+239. https://es.wikipedia.org/wiki/Virus_de_la_inmunodeficiencia_humana
+
+240. https://es.wikipedia.org/wiki/Hipocres%C3%ADa
+
+     
 
      
 
