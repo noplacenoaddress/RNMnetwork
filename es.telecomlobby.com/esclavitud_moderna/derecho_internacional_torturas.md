@@ -926,7 +926,7 @@ La **terapia electroconvulsiva** [[236]](https://es.wikipedia.org/wiki/Terapia_e
 
 Naciones Unidas ha establecido que el tratamiento involuntario y otras intervenciones psiquiátricas en centros de atención de la salud son formas de tortura y malos tratos. Intervenciones médicas forzosas, que suelen justificarse erróneamente alegando teorías de incapacidad y de necesidad terpéutica pueden llegar a gozar de un amplio apoyo público al realizarse en aras del presunto **interés superior** de la persona afectada. Millones de personas con discapacidad son despojadas de su capacidad juŕidica de incapacidad o sencillamente por una decisión facultativa, según la cual la persona carece de capacidad para tomar decisiones. Se asigna a estas personas un **tutor** [[237]](https://es.wikipedia.org/wiki/Tutor) cuyo consentimiento será considerado suficiente para justificar un tratamiento forzoso. Los criterios que determinan los motivos para administrar un tratamiento sin que haya consentimiento libre e informado deben aclararse en la ley.
 
-En muchos países en que existen en la pŕactica leyes y políticas sobre salud mental, estas se centran en confianr a las personas con discapacidad mental en instituciones psiquiátricas per no protegen eficazmente sus derechos humanos.
+En muchos países en que existen en la pŕactica leyes y políticas sobre salud mental, estas se centran en confinar a las personas con discapacidad mental en instituciones psiquiátricas per no protegen eficazmente sus derechos humanos.
 
 El  marco legislativo internacional ha sido muy explicito en su llamamiento a favor de prohibir las privación de liberta en razón de la discapacidad, es decir, el internamiento forzoso de carácter no penal, el ingreso forzoso en una institución o la privacidad de la libertad por motivos de discapacidad. Se prohíbe por discriminatoria la privación de la libertad basada en la existencia de una forma de discapacidad, en particular mental o intelectual, la existencia de un discapacidad no tiene que justificar en ningún caso una privación de la libertad. En los todos casos en que los motivos de la atención, el tratamiento y la seguridad pública estén vinculados en la legislación a una enfermedad mental aparente diagnosticado hay que aplicar prohibición. Esta privación de libertad es injustificada si se basa en la discriminación o en los prejuicios contra las personas con discapacidad. Los trastornos mentales deben revestir cierta gravedad para justificar la privación de libertad. 
 
@@ -1411,6 +1411,8 @@ La banda de actores no estatales que operan en Catalunya, torturando victimas de
 236. https://es.wikipedia.org/wiki/Terapia_electroconvulsiva
 
 237. https://es.wikipedia.org/wiki/Tutor
+
+238. https://9.rg.com
 
      
 
