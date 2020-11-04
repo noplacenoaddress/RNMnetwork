@@ -977,6 +977,11 @@ También la homófobia es alimentada en esta red. Terapias de cambio de orientac
 
 - causar cicatrices
 - perder la sensibilidad sexual, en hombres más psicológicas en mujeres más física. En hombres debido a abstinencia en mujeres a explotación sexual. Saray y yo somo victimas de ambas practicas, con dicha practica se demarca también mas distancia entra dos personas que se quieren. Estos comisionistas de estas torturas organizadas utilizan las debilidades del entorno de ambos, mujeres pagadas para no compartir sexo conmigo y hombres pagados para organizar sexo de grupo con Saray que a su vez viene masturbada eléctricamente continuamente por parte de torturadores. Yo a mi vez cada vez que salgo de mi casa vengo torturado en mis genitales para que la dimensión de mi pene venga reducida por estados eléctricos estimulados de forma non natural por las armas electromagnéticas y estoy subiendo acecho continuamente por parte de muchísimas personas que conozco y por parte de mis mismos padres y la misma Saray, acecho que deriva a la humillación, que como sabemos de forma sistemática es sin ninguna duda tortura. Tortura organizada por un grupo mafioso, y pagada por la aristocracia que juega a la maquina, el negocio del suicidio.
+- dolor
+- incontinencia. En la red de monitorio neuronal totalmente provocada, que pero puede derivar en una incontinencia psicológica. 
+- depresión crónica debida a los factores precedentes.
+
+Todo ellos agrandan el estigma, hacen conjuntamente a todo los demás instrumentos y derivaciones de la víctima una persona estigmatizada, un Jesús Cristo moderno crucificado por la sociedad entera de forma subliminal, a través de alusiones también en medio de telecomunicaciones públicos. Una persona cuyo futuro es dedicarse al mercado negro si sobrevive al suicidio que a mi modo de razonar tienen un ventana de tiempo limitado entra cinco y diez años. Cristian se suicidó después de siete a cuanto me parece haber entendido. Lo malo por una mujer es que su vida reproductiva es limitada a la mitad de los cuarentas años. Por un hombre representa un reto personal de conocimiento y superación personal. 
 
 ###   External links 
 
