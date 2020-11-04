@@ -965,7 +965,7 @@ Con frecuencia los consumidores de drogas que viven con el VIH, ven cómo se les
 
 **Saray también podría ser victima de este maltrato siempre organizado de forma mafiosa en el interior de la red de monitorio neuronal. Mafiosos de sectas Católicas extremistas, comunión y liberación. **  
 
-
+El uso de registros, en los que la policía y los trabajadores de la salud incluyen e identifican a las personas que consumen drogas y limitan sus derechos civiles, infringe la confidencialidad del paciente lo cual puede dar lugar a nuevas servicias por parte de proveedores de servicios de salud. También he sido tachado de drogado, cuando no consumo, por parte de la guardia urbana de Barcelona, cuerpo notablemente corrupto siempre por este sistema, después de una llamada en **TETRA** hacía la central para un control documental. Algo absurdo. Es obvio que no todo el cuerpo esté corrupto, pero muchos funcionarios tienen acceso a dicha instalación. Algo que viola totalmente, y repito totalmente, el juramento que hacen de proteger los ciudadanos ya que esta instalación viola el principio fundamental democrático del secreto de voto. Y ellos son funcionarios que tienen que proteger la seguridad de la ciudadana, **si no existe democracia no hay seguridad**.
 
 ###   External links 
 
