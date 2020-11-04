@@ -973,6 +973,11 @@ Un informe sobre los trabajadores del sexo documentó las actitudes obstructoras
 
 **Es una industria de manipulación y textura de tramas.** 
 
+También la homófobia es alimentada en esta red. Terapias de cambio de orientación sexual o también de sexo son organizadas y fomentadas en esta red con fin de manipular totalmente la psique de un individuo. Se practica la persecución en Barcelona. Se practica la esclavitud. Otra instrumento, además que la cibertortura y la corrupción, son los abusos sexuales y los abusos médicos, sobre todo a mujeres que pueden:
+
+- causar cicatrices
+- perder la sensibilidad sexual, en hombres más psicológicas en mujeres más física. En hombres debido a abstinencia en mujeres a explotación sexual. Saray y yo somo victimas de ambas practicas, con dicha practica se demarca también mas distancia entra dos personas que se quieren. Estos comisionistas de estas torturas organizadas utilizan las debilidades del entorno de ambos, mujeres pagadas para no compartir sexo conmigo y hombres pagados para organizar sexo de grupo con Saray que a su vez viene masturbada eléctricamente continuamente por parte de torturadores. Yo a mi vez cada vez que salgo de mi casa vengo torturado en mis genitales para que la dimensión de mi pene venga reducida por estados eléctricos estimulados de forma non natural por las armas electromagnéticas y estoy subiendo acecho continuamente por parte de muchísimas personas que conozco y por parte de mis mismos padres y la misma Saray, acecho que deriva a la humillación, que como sabemos de forma sistemática es sin ninguna duda tortura. Tortura organizada por un grupo mafioso, y pagada por la aristocracia que juega a la maquina, el negocio del suicidio.
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
