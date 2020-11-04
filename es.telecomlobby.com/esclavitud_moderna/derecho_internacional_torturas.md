@@ -967,6 +967,12 @@ Con frecuencia los consumidores de drogas que viven con el VIH, ven cómo se les
 
 El uso de registros, en los que la policía y los trabajadores de la salud incluyen e identifican a las personas que consumen drogas y limitan sus derechos civiles, infringe la confidencialidad del paciente lo cual puede dar lugar a nuevas servicias por parte de proveedores de servicios de salud. También he sido tachado de drogado, cuando no consumo, por parte de la guardia urbana de Barcelona, cuerpo notablemente corrupto siempre por este sistema, después de una llamada en **TETRA** hacía la central para un control documental. Algo absurdo. Es obvio que no todo el cuerpo esté corrupto, pero muchos funcionarios tienen acceso a dicha instalación. Algo que viola totalmente, y repito totalmente, el juramento que hacen de proteger los ciudadanos ya que esta instalación viola el principio fundamental democrático del secreto de voto. Y ellos son funcionarios que tienen que proteger la seguridad de la ciudadana, **si no existe democracia no hay seguridad**.
 
+La denegación de tratamiento con **metadona** [[241]](https://es.wikipedia.org/wiki/Metadona) en entornos de custodia policial constituye una violación del derecho a no ser sometido a torturas y malos tratos en determinadas circunstancias. La práctica común de denegar el tratamiento **antirretroviral** [[242]](https://es.wikipedia.org/wiki/Antirretroviral) a las personas seropositivas que consumen drogas, dando por hecho que no serán capaces de seguirlo, constituye tratos crueles e inhumanos, en vista del sufrimiento físico y psicológico padecido a medida que la enfermedad avanza.
+
+Un informe sobre los trabajadores del sexo documentó las actitudes obstructoras y negativas por parte del persona médico, entre ellas la denegación de los servicios de atención de salud necesarios. También se han detectado humillaciones sufridas por los trabajadores del sexo en entornos de atención de la salud como las violaciones de la intimidad y la confidencialidad. En la red de monitorio neuronal de Barcelona se gestiona sin duda ninguna todo el mercado del sexo. Quien tiene acceso monitora las prostitutas y las explota con horarios prohibitivos. Me parece entender que más que grande cantidades de droga en esta red se monitora más la prostitución y la explotación esclavista.  
+
+**Es una industria de manipulación y textura de tramas.** 
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1448,6 +1454,10 @@ El uso de registros, en los que la policía y los trabajadores de la salud inclu
 239. https://es.wikipedia.org/wiki/Virus_de_la_inmunodeficiencia_humana
 
 240. https://es.wikipedia.org/wiki/Hipocres%C3%ADa
+
+241. https://es.wikipedia.org/wiki/Metadona
+
+242. https://es.wikipedia.org/wiki/Antirretroviral
 
      
 
