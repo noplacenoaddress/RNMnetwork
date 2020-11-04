@@ -963,7 +963,7 @@ Las personas que consumen drogas, diría la mayoría de las personas, sufren una
 
 Con frecuencia los consumidores de drogas que viven con el VIH, ven cómo se les niega el tratamiento médico de emergencia. En algunos casos las leyes señalan específicamente la condición de consumidor de drogas como único motivo para retirar la custodia u otros derechos parentales; también se utiliza esta escusa, en el caso no sea un consumo toxicómano, para coaccionar parejas hasta la prostitución forzosa. 
 
-**Saray también podría ser victima de este maltrato siempre organizado de forma mafiosa en el interior de la red de monitorio neuronal.**  
+**Saray también podría ser victima de este maltrato siempre organizado de forma mafiosa en el interior de la red de monitorio neuronal. Mafiosos de sectas Católicas extremistas, comunión y liberación. **  
 
 
 
