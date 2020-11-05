@@ -151,7 +151,11 @@ My father is present without any question in this network, the slaves network. M
 
 ![Whatsup 20/7/2020](http://telecomlobby.com/Images/overwhelming_evideces_mauro_20072020.webp)
 
+On 23 of October 2020 my father from nothing send me this absurd email, I solemnly declare that I do not use any type of drug. And the time of the received email I was at home working as usual like my mobile position and the two persons that live with me could declare. This man is using this facility and have participated to the systematic destruction of my life and my intent of murder. Full stop is totally absurd but this is the only true. He always speak about mental illness, he participated in my gangstalking. 
 
+Is my father connected to the Barcelona Mafia chief that have organised my stalking? Yes, for sure.
+
+![My father](https://telecomlobby.com/Images/myfather_mafia.jpg)
 
 ### Barcelona street art
 
