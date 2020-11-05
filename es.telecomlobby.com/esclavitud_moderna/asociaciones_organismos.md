@@ -48,6 +48,12 @@ Dichas autoridades tomarán su decisión en las mismas condiciones que las aplic
 
 **Articulo 9**: los Estados se prestarán todo el auxilio posible en lo que respecta a cualquier procedimiento penal relativo a los delitos previstos en el artículo 4, inclusive el suministro de todas las pruebas necesarios para el proceso que obren en su poder. Lo Estados cumplirán las obligaciones que les incumben en virtud del párrafo 1 del presente artículo de conformidad con las tratados de auxilio judicial mutuos que existen entre ellos.
 
+**Articulo 10**: Todo Estado parte velará por que se incluyan una educación y una información completas sobre la prohibición de la tortura en la formación profesional del personal encargado de la aplicación de la ley, sea esté civil o militar, del persona medico, de los funcionarios públicos y otras personas que puedan participar en la custodia, el interrogatorio o el tratamiento de cualquier persona sometida a cualquier forma de arresto, detención o prisión.
+
+**Articulo 11**: Todo Estado mantendrá sistemática en examen las normal e instrucciones, métodos y prácticas de interrogatorio, así como las disposiciones para la custodia y el tratamiento de las personas sometidas a cualquier forma de arresto, detención o prisión en cualquier territorio que esté bajo su jurisdicción, a fin de evitar todo caso de tortura.
+
+**Articulo 12**: Todo Estado velará por que, siempre que haya motivos razonables para creer que dentro de su jurisdicción se ha cometido un acto de tortura, las autoridades competentes procedan a una investigación pronta e imparcial. En mi caso es más de dos años a fecha de 11 de 2020 que hago denuncias públicas a través mi página web y mi cuenta de twitter, cosa totalmente valida según normativa europea. También la justicia pública de mi utilizada para denunciar casos aislados y no la trama completa me ha fallado dado que ninguna, y repito ninguna, de las denuncias que he presentado han llegado a ser eficaces. Es un escándalo enorme y han tenido también la cara de internarme forzosamente en un instituto de higiene mental contra mi voluntad. Otro particular horrible es que en la aplicación neuronal donde se me controla continuamente estén presente también mis mismos padres los cuales tampoco, a parte algún breve ceno, han hablado conmigo de la situación de explotación y esclavitud en la cual me encuentro, además comportándose muchas veces de forma narcisista en contra de mi persona.   
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
