@@ -10,7 +10,9 @@ Podemos acudir a varios organismos internacionales en caso de ser victimas de la
 - **Naciones Unidas consejo de derechos humanos** [[4]](https://www.ohchr.org/SP/hrbodies/hrc/pages/home.aspx)
 - **Procedimientos especiales consejo de derechos humanos** [[5]](http://telecomlobby.com/RNMnetwork/documents/procedimientos_especiales_consejo_derechos_humanos.pdf)
 
+# Marco legislativo internaciónal 
 
+#### CAT convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes 1987 y comentarios.
 
 
 
