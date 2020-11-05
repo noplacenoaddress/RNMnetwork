@@ -40,11 +40,13 @@ La tortura en Catalunya transmitida por neuroestimuladores inalámbricos alocado
 
 **Articulo 6**: todo Estado en cuyo territorio se encuentre la persona de la que se supone que ha cometido cualquiera de los delitos a que se hace referencia en el precedente articulo procederá a la detención de dicha persona o tomará otras medidas para asegurar su presencia. La detención y demás medidas se llevarán a cabo de conformidad con las leyes de tal Estado y se mantendrán solamente por el período que sea necesario a fin de permitir la iniciación de un procedimiento penal o de extradición. Tal Estado procederá inmediatamente a una investigación preliminar de los hechos.
 
-**Articulo 7**: el Estado en el territorio de cuya jurisdicción sea hallada la persona de la cual se supone que ha cometido cualquiera de los delitos a que se hace referencia en el artículo 4, en los supuestos previstos en el articulo 5, si no procede a su extradición, someterá el caso a sus aturoidades competentes a efectos de enjuiciamiento.
+**Articulo 7**: el Estado en el territorio de cuya jurisdicción sea hallada la persona de la cual se supone que ha cometido cualquiera de los delitos a que se hace referencia en el artículo 4, en los supuestos previstos en el articulo 5, si no procede a su extradición, someterá el caso a sus autoridades competentes a efectos de enjuiciamiento.
 
 Dichas autoridades tomarán su decisión en las mismas condiciones que las aplicables a cualquier delito de carácter grave, de acuerdo con la legislación de tal Estado. En los casos previstos en el párrafo 2 de artículo 5, el nivela de las pruebas necesarias para el enjuiciamiento o inculpación no será en modo alguno menos escrito que el que se aplica en los casos previstos en el párrafo 1 del artículo 5.
 
-**Articulo 8**: 
+**Articulo 8**: los delitos a que se hace referencia en el artículo 4 se considerarán incluidos entre los delitos que dan lugar a extradición en todo tratado de extradición celebrado entre Estados partes que se compromete a incluir dichos  delitos como a caso de extradición en todo tratado de extradición que celebren entre sí en el futuro. Todo Estado que subordine la extradición a la existencia de un tratado, si recibe de otro Estado con el que no tienen tratado al respecto una solicitud de extradición, podrá considerar la presente Convención como la base jurídica necesaria para la extradición referente a tales delitos. La extradición estará sujeta a las demás condiciones exigibles por el derecho de Estado requerido. Se considerará que los delitos se han cometido. no solamente en el lugar donde ocurrieron, sino también en el territorio de los Estados obligados a establecer su jurisdicción de acuerdo con el párrafo 1 del articulo 5.
+
+**Articulo 9**:
 
 ###  External links 
 
