@@ -46,7 +46,7 @@ Dichas autoridades tomarán su decisión en las mismas condiciones que las aplic
 
 **Articulo 8**: los delitos a que se hace referencia en el artículo 4 se considerarán incluidos entre los delitos que dan lugar a extradición en todo tratado de extradición celebrado entre Estados partes que se compromete a incluir dichos  delitos como a caso de extradición en todo tratado de extradición que celebren entre sí en el futuro. Todo Estado que subordine la extradición a la existencia de un tratado, si recibe de otro Estado con el que no tienen tratado al respecto una solicitud de extradición, podrá considerar la presente Convención como la base jurídica necesaria para la extradición referente a tales delitos. La extradición estará sujeta a las demás condiciones exigibles por el derecho de Estado requerido. Se considerará que los delitos se han cometido. no solamente en el lugar donde ocurrieron, sino también en el territorio de los Estados obligados a establecer su jurisdicción de acuerdo con el párrafo 1 del articulo 5.
 
-**Articulo 9**:
+**Articulo 9**: los Estados se prestarán todo el auxilio posible en lo que respecta a cualquier procedimiento penal relativo a los delitos previstos en el artículo 4, inclusive el suministro de todas las pruebas necesarios para el proceso que obren en su poder. Lo Estados cumplirán las obligaciones que les incumben en virtud del párrafo 1 del presente artículo de conformidad con las tratados de auxilio judicial mutuos que existen entre ellos.
 
 ###  External links 
 
