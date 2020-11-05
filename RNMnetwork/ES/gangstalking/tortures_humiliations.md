@@ -152,6 +152,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 26/10/2020 00:19 It's from 48h that they torture me. Very heavy head cache. 
 - 2/11/2020 10:11 I was tortured all night long with extremely loud beeps inside my head. From a military electronic weapon and **I'm an european citizen**. Son of bitches.
 - 3/11/2020 04:30 dream injection and extreme neural remote exitement. I cannot sleep. **STOP TORTURE ME SON OF BITCHES.**
+- 5/11/2020 all night long I cannot sleep because of sexual harrassment. Famous people in neural slavery speak to me. Stop electronico torture. I have to work I cannot loose days.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
