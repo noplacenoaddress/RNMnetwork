@@ -26,6 +26,18 @@ El reconocimiento de los derechos iguales e inalienables de todos los miembros d
 
 La tortura en Catalunya transmitida por neuroestimuladores inalámbricos alocados en la torre de Collserola de Barcelona es un instrumento utilizado por diferentes fines. En mi caso son la intimidación, la coacción, el infligir dolor físico y mental, el fracaso, el mobbing empresarial, la impotencia y el acecho entra otros. Son infligidos por parte de actores no estatales reclutados siempre a través de tortura, personas que han pasado de ser torturados a ser torturadores. El fin último es el negocio de las apuestas mutuas remotas jugado por la aristocracia, negocio que ha llevado al suicidio muchas personas. Va de par paso con la corrupción, otro instrumento utilizado para encubrir la tortura; otro instrumento es la ignorancia en el sentido que muchos Españoles ignoran totalmente dicha practica en su propio territorio y también como falta de cultura por parte de las victimas normalmente de clase obrera y marginados sociales a causa de la misma tortura. 
 
+**Articulo 2**: todo Estado tomará medidas legislativas, administrativas, judiciales o de otra índole eficaces para impedir los actos de tortura en todo territorio. En ningún caso podrán invocarse circunstancias excepcionales tales como estado de guerra o amenaza de guerra, inestabilidad política interna o cualquier otra emergencia pública como justificación de la tortura. No podrá invocarse una orden de un funcionario superior o de una **autoridad pública** como justificación de la tortura.
+
+**Articulo 3**: Ningún Estado procederá a la expulsión, devolución o extradición de una persona a otro Estado, ni siquiera de España a Italia obviamente y ni si quiera de forma indirecta, cuando haya razones fundadas para creer que estaría en peligro de ser sometida a tortura. Las autoridades competentes tendrán en cuenta todas las consideraciones pertinentes, inclusive, cuando proceda, la existencia en el Estado de que se trate de un cuadro persistente de violaciones manifiestas, patentes o masivas de los derechos humanos.
+
+**Articulo 4**: Todo Estado velará por que todos los actos de tortura constituyan delitos conforme a su legislación penal. Lo mismo se aplicará a toda tentativa de cometer tortura y a todo acto de cualquier persona que constituya complicidad o participación a la tortura. Todo Estado castigará esos delitos con penas adecuadas en las que se tenga en cuenta su gravedad. 
+
+**Articulo 5**: se considera **jurisdicción** [[8]](https://es.wikipedia.org/wiki/Jurisdicci%C3%B3n):
+
+- Todo territorio bajo su jurisdicción o a bordo de una aeronave o un buque matriculados en ese Estado.
+- Cuando el presunto criminal sea nacional de ese Estado.
+- Cuando la victima sea nacional de ese Estado y éste lo considere apropiado. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -41,6 +53,8 @@ La tortura en Catalunya transmitida por neuroestimuladores inalámbricos alocado
 6. https://telecomlobby.com/RNMnetwork/documents/A33430-33436.pdf
 
 7. https://es.wikipedia.org/wiki/Juan_Carlos_I_de_Espa%C3%B1a
+
+8. https://es.wikipedia.org/wiki/Jurisdicci%C3%B3n
 
    
 
