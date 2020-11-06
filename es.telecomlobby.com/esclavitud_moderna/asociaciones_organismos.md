@@ -56,6 +56,12 @@ Dichas autoridades tomarán su decisión en las mismas condiciones que las aplic
 
 **Articulo 13:** Todo Estado velará por que toda persona que alegue haber sido sometida a tortura en cualquier territorio bajo su jurisdicción  tenga derecho a presentar una queja y a que su caso sea pronta e imparcialmente examinado por sus autoridades competentes. Se tomarán medidas para segurar que quien presente la queja y los testigos estén protegidos contra malos tratos o intimidación como consecuencia de la queja o del testimonio prestado.
 
+**Articulo 14**: Todo Estado velará por que su legislación garantice a la víctima de un acto de tortura la reparación y el **derecho a una indemnización** justa y adecuada, incluidos medios para su rehabilitación lo más completa posible. En caso de muerte de la víctima como resultado de un acto de tortura, las personas a su cargo tendrán derecho a indemnización.
+
+Sin duda ninguna una manera segura de recuperar la confianza en el Estado de derecho por todos los maquinistas y las víctimas, muchas de las cuales son marginados, sería una pensión vitalicia y la publicación de todas las especificaciones por parte de una asociación humanitaria o por el mismo Estado, cosa que en España no veo muy factible en el sentido que lo más altos cargos de la aristocracia son quien indica que el **techno**, así lo llaman, es un secreto. Lo llaman así porqué hay toda una serie de capas de engaños para confundir la mente de los objetivos. 
+
+**Articulo 15**: Todo Estado se ase
+
 
 
 ###  External links 
