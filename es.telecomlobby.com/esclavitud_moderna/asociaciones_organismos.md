@@ -56,6 +56,18 @@ Dichas autoridades tomarán su decisión en las mismas condiciones que las aplic
 
 **Articulo 13:** Todo Estado velará por que toda persona que alegue haber sido sometida a tortura en cualquier territorio bajo su jurisdicción  tenga derecho a presentar una queja y a que su caso sea pronta e imparcialmente examinado por sus autoridades competentes. Se tomarán medidas para segurar que quien presente la queja y los testigos estén protegidos contra malos tratos o intimidación como consecuencia de la queja o del testimonio prestado.
 
+**Articulo 14**: Todo Estado velará por que su legislación garantice a la víctima de un acto de tortura la reparación y el **derecho a una indemnización** justa y adecuada, incluidos medios para su rehabilitación lo más completa posible. En caso de muerte de la víctima como resultado de un acto de tortura, las personas a su cargo tendrán derecho a indemnización.
+
+Sin duda ninguna una manera segura de recuperar la confianza en el Estado de derecho por todos los maquinistas y las víctimas, muchas de las cuales son marginados, sería una pensión vitalicia y la publicación de todas las especificaciones por parte de una asociación humanitaria o por el mismo Estado, cosa que en España no veo muy factible en el sentido que lo más altos cargos de la aristocracia son quien indica que el **techno**, así lo llaman, es un secreto. Lo llaman así porqué hay toda una serie de capas de engaños para confundir la mente de los objetivos. 
+
+**Articulo 15**: Todo Estado se asegurará de que ninguna declaración que se demuestre que ha sido hecha como resultado de tortura pueda ser invocada como prueba en ningún procedimiento, salvo en contra de una persona acusa de tortura como prueba de que se ha formulado la declaración.
+
+Este punto es muy importante por todos aquellos que piensan que debajo de cibertortura las grabaciones obtenidas en su propia vivienda o bien de lo que vean su mismos ojos puedan ser utilizadas en sede de juicio. Un apunto pero por aquellos que torturan siendo torturados, las grabaciones tanto vídeo o audio de una victima son validas como prueba. Lo más importante es nunca caer en el abuso de la tortura aunque hemos ido torturados nunca tenemos que perder la dignidad aunque nos ofrezcan dinero a cambio. Es un recurrido complicado porqué aquellos que torturan normalmente han sido reducido a la marginación. 
+
+**Articulo 16**: se prohíben otros actos que constituyan tratos o penas crueles, inhumanos o degradantes y que no lleguen a ser tortura tal como se define en el artículo 1, cuando esos actos sean cometidos por un funcionario público u otra persona que actúe en el ejercicio de funciones oficiales, o por parte de un **agente provocador** [[9]](https://es.wikipedia.org/wiki/Agente_provocador), en la banda de actores no estatales encabezada por el hombre de más edad en la red de monitorio neuronal esta figura es cubierta por el mismo , o con el consentimiento o la aquiescencia de tal funcionario o persona. Lamentablemente este crimen de provocación es cubierto también por mi ex pareja, Saray. Una mujer torturada hace décadas por la nobleza que ha cumplido crímenes sin entender exactamente la magnitud de los mismos. Necesita ayuda urgentemente. 
+
+Es vergonzoso que haya en este ambiente de tortura jugando a las apuestas remotas muchos nobles de magnitud, vergonzoso de como se hayan aprovechado de su psique torturada. Vergonzoso que sus mujeres, bellas y mamas, no hayan intervenido para parar este crimen horrible hecho únicamente por su apellido. Vergonzoso. No pienso callar ni un nombre ni una persona. Vergonzoso.
+
 
 
 ###  External links 
@@ -75,6 +87,8 @@ Dichas autoridades tomarán su decisión en las mismas condiciones que las aplic
 7. https://es.wikipedia.org/wiki/Juan_Carlos_I_de_Espa%C3%B1a
 
 8. https://es.wikipedia.org/wiki/Jurisdicci%C3%B3n
+
+9. https://es.wikipedia.org/wiki/Agente_provocador
 
    
 
