@@ -72,7 +72,9 @@ Vergonzoso que mis mismos padres presentes en este ambiente de tortura no hayan 
 
 #### Parte II
 
-**Articulo 17**: Se constituirá una **comité contra la tortura** [[10]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx). Compuesto por **diez expertos** [[11]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx)
+**Articulo 17**: Se constituirá una **comité contra la tortura** [[10]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx). Compuesto por **diez expertos** [[11]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx) elegidos por los Estados partes teniendo en cuenta una distribución geográfica equitativa y la utilidad de la participación de algunas personas que tengan experiencia jurídica. 
+
+Elegidos en votación secreta de una lista de personas designadas por los Estados. Cada uno podrá designar una persona entre sus propios nacionales. Los Estados tendrán presente la utilidad de designar personas que sean también miembros del **Comité de Derechos Humanos** [[12]](https://www.ohchr.org/sp/hrbodies/ccpr/pages/ccprindex.aspx), organismo que **desde el 1977** [[13]](https://telecomlobby.com/RNMnetwork/documents/Membership1977_2020.pdf) no ha tenido ni un miembro Español cosa curioso dado que la monarquía Española tiene pasados, y yo Riccardo Giuntoli afirmo sin miedo ninguno que presentes también, de esclavitud y torturas, 
 
 ###  External links 
 
@@ -97,6 +99,10 @@ Vergonzoso que mis mismos padres presentes en este ambiente de tortura no hayan 
 10. https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx
 
 11. https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx
+
+12. https://www.ohchr.org/sp/hrbodies/ccpr/pages/ccprindex.aspx
+
+13. https://telecomlobby.com/RNMnetwork/documents/Membership1977_2020.pdf
 
     
 
