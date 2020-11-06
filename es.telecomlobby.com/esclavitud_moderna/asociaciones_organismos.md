@@ -94,6 +94,8 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 > Yo, Riccardo Giuntoli ciudadano de la comunidad Europea, pido que el Comité contra la Tortura como también el Comité de Derechos Humanos sean informados que en Catalunya, comunidad autónoma de España, se realiza de forma sistemática la tortura en su forma mas complicada de demostrar, la cibertortura transmitida por neuroestimuladores inalámbricos montados en la torre de Collserola de Barcelona. Armas electromagnéticas. Soy victima de innumerables crímenes, detrás una familia de marqueses de Genova de origen Francés que administra el campo de conejillos de India humanos ignaras más grande de Europa sin duda ninguna. Todavía más arriba se encuentra la alta nobleza Europea y la Iglesia Católica que a través el utilizo de estas armas cumplen innumerables crímenes contra la humanidad. Ayuda Relator Especial y Secretario General. Ayuda.
 
+![Repubblica Italiana](https://telecomlobby.com/Images/1024px-Emblem_of_Italy.svg.webp)
+
 **Articulo 21**: **todo Estado parte puede alegar que otro no cumple las obligaciones que le impone la Convención**.
 
 ###  External links 
