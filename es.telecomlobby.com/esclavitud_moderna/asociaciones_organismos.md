@@ -68,7 +68,11 @@ Este punto es muy importante por todos aquellos que piensan que debajo de cibert
 
 Es vergonzoso que haya en este ambiente de tortura jugando a las apuestas remotas muchos nobles de magnitud, vergonzoso de como se hayan aprovechado de su psique torturada. Vergonzoso que sus mujeres, bellas y mamas, no hayan intervenido para parar este crimen horrible hecho únicamente por su apellido. Vergonzoso. No pienso callar ni un nombre ni una persona. Vergonzoso.
 
+Vergonzoso que mis mismos padres presentes en este ambiente de tortura no hayan ayudado, salvado, a Saray. Han pasado seis años más de tortura por ella. Mama y trabajadora. Violada y torturada continuamente. No hay piedad ni por ellos.
 
+#### Parte II
+
+**Articulo 17**: Se constituirá una **comité contra la tortura** [[10]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx). Compuesto por **diez expertos** [[11]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx)
 
 ###  External links 
 
@@ -90,5 +94,9 @@ Es vergonzoso que haya en este ambiente de tortura jugando a las apuestas remota
 
 9. https://es.wikipedia.org/wiki/Agente_provocador
 
-   
+10. https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx
+
+11. https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx
+
+    
 
