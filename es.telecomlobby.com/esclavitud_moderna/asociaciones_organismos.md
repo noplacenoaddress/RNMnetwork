@@ -60,7 +60,9 @@ Dichas autoridades tomarán su decisión en las mismas condiciones que las aplic
 
 Sin duda ninguna una manera segura de recuperar la confianza en el Estado de derecho por todos los maquinistas y las víctimas, muchas de las cuales son marginados, sería una pensión vitalicia y la publicación de todas las especificaciones por parte de una asociación humanitaria o por el mismo Estado, cosa que en España no veo muy factible en el sentido que lo más altos cargos de la aristocracia son quien indica que el **techno**, así lo llaman, es un secreto. Lo llaman así porqué hay toda una serie de capas de engaños para confundir la mente de los objetivos. 
 
-**Articulo 15**: Todo Estado se ase
+**Articulo 15**: Todo Estado se asegurará de que ninguna declaración que se demuestre que ha sido hecha como resultado de tortura pueda ser invocada como prueba en ningún procedimiento, salvo en contra de una persona acusa de tortura como prueba de que se ha formulado la declaración.
+
+Este punto es muy importante por todos aquellos que piensan que debajo de cibertortura las grabaciones obtenidas en su propia vivienda o bien de lo que vean su mismos ojos puedan ser utilizadas en sede de juicio. Un apunto pero por aquellos que torturan siendo torturados, las grabaciones tanto vídeo o audio de una victima son validas como prueba. Lo más importante es nunca caer en el abuso de la tortura aunque hemos ido torturados nunca tenemos que perder la dignidad aunque nos ofrezcan dinero a cambio. Es un recurrido complicado porqué aquellos que torturan normalmente han sido reducido a la marginación. 
 
 
 
