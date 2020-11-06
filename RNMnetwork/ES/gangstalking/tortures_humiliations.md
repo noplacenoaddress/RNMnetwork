@@ -150,9 +150,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 19/10/2020 Because today I've worked from 6AM to 16PM those pathetic ordered by this stupid little bitch of the Marquees do stalk to me in radio subliminal voice service. They are people that I personally know from Genoa, and this is an International complaint because of **tortures, crimes against humanity, Mafia, intent of murder, etc etc**. Those pathetic will go in jail for life. **Francesca** you too. 
 - 21/10/2020 12:00 The torture never stop. I'm continuously electrocuted by electromagnetic weapons in Catalunya, Spain. The weapons are used by a Catalan Mafia man that follow Francesca orders. In subliminal message system he always death threat me.
 - 26/10/2020 00:19 It's from 48h that they torture me. Very heavy head cache. 
-- 2/11/2020 10:11 I was tortured all night long with extremely loud beeps inside my head. From a military electronic weapon and **I'm an european citizen**. Son of bitches.
-- 3/11/2020 04:30 dream injection and extreme neural remote exitement. I cannot sleep. **STOP TORTURE ME SON OF BITCHES.**
-- 5/11/2020 all night long I cannot sleep because of sexual harrassment. Famous people in neural slavery speak to me. Stop electronico torture. I have to work I cannot loose days.
+- 2/11/2020 10:11 I was tortured all night long with extremely loud beeps inside my head. From a military electronic weapon and **I'm an European citizen**. Son of bitches.
+- 3/11/2020 04:30 dream injection and extreme neural remote excitement. I cannot sleep. **STOP TORTURE ME SON OF BITCHES.**
+- 5/11/2020 all night long I cannot sleep because of sexual harassment. Famous people in neural slavery speak to me. Stop electronic torture. I have to work I cannot loose days.
+- 6/11/2020 Because yesterday I've said in v2k subliminal message system in the remote neural monitoring facility that I go out from home and go to Barcelona and because I don't do it today I'm under continuous electroshock torture because obviously people have bet upon it and they're loosing money. My life was totally piloted and because know they actively read my mind with electronic weapons I'm under gambling. Help. 
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
