@@ -16,6 +16,12 @@ Podemos acudir a varios organismos internacionales en caso de ser victimas de la
 
 ![CAT](https://telecomlobby.com/Images/que_es_CAT.webp)
 
+> España declara, reconocer la competencia del Comité para recibir y examinar las comunicaciones enviadas por personas sometidas al jurisdicción Española, o en su nombre, que aleguen ser víctimas de una violación por el Estado español de las disposiciones de la presente Convención. Tales comunicaciones deberán ajustarse a los establecido en el mencionado artículo y, en particular en su párrafo 5.
+>
+> Juan Carlos 1
+>
+> Rey de España dado a Lunes 19 de Octubre de 1987
+
 Obliga a los estados a adoptar leyes para prevención, sanción y erradicación de la tortura. Es ratificada en el **BOE 268** [[6]](https://telecomlobby.com/RNMnetwork/documents/A33430-33436.pdf) de noviembre 1987 por el rey **Juan Carlos 1** [[7]](https://es.wikipedia.org/wiki/Juan_Carlos_I_de_Espa%C3%B1a).
 
 El reconocimiento de los derechos iguales e inalienables de todos los miembros de la familia humana es la base de la libertad, la justicia y la paz en el mundo. Los Estados tienen la obligación de promover el respeto universal y la observancia de los derechos humanos y las libertades fundamentales además de la obligación inderogable de proclamar que nadie será sometido a tortura ni a tratos o penas crueles, inhumanos o degradantes.
@@ -96,7 +102,10 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 ![Repubblica Italiana](https://telecomlobby.com/Images/1024px-Emblem_of_Italy.svg.webp)
 
-**Articulo 21**: **todo Estado parte puede alegar que otro no cumple las obligaciones que le impone la Convención**.
+**Articulo 21**: **todo Estado parte puede alegar que otro no cumple las obligaciones que le impone la Convención**:
+
+- Si un Estado considera que otro Estado no cumple las disposiciones de la presente Convención podrá señalar el asunto a la atención de dicho Estado mediante una comunicación escrita. Dentro de un plazo de tres meses, contado desde la fecha de recibo de la comunicación, el Estado destinatario proporcionará al Estado que haya enviado la comunicación una explicación o cualquier otra declaración por escrito que aclare el asunto, la cual hará referencia, hasta donde sea posible y pertinente, a los procedimientos nacionales y a los recursos adaptados, en trámite o que puedan utilizarse al respecto.
+- Si el asunto no se resuelve a satisfacción de los dos Estados interesados en un plazo de seis meses contado desde la fecha en que el Estado destinatario haya recibido la primera comunicación, cualquiera de ambos Estados interesados tendrá derecho a someterlo al Comité, mediante notificación dirigida la comité y al otro Estado.
 
 ###  External links 
 
