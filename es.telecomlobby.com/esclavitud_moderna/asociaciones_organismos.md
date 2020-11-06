@@ -74,7 +74,15 @@ Vergonzoso que mis mismos padres presentes en este ambiente de tortura no hayan 
 
 **Articulo 17**: Se constituirá una **comité contra la tortura** [[10]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx). Compuesto por **diez expertos** [[11]](https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx) elegidos por los Estados partes teniendo en cuenta una distribución geográfica equitativa y la utilidad de la participación de algunas personas que tengan experiencia jurídica. 
 
-Elegidos en votación secreta de una lista de personas designadas por los Estados. Cada uno podrá designar una persona entre sus propios nacionales. Los Estados tendrán presente la utilidad de designar personas que sean también miembros del **Comité de Derechos Humanos** [[12]](https://www.ohchr.org/sp/hrbodies/ccpr/pages/ccprindex.aspx), organismo que **desde el 1977** [[13]](https://telecomlobby.com/RNMnetwork/documents/Membership1977_2020.pdf) no ha tenido ni un miembro Español cosa curioso dado que la monarquía Española tiene pasados, y yo Riccardo Giuntoli afirmo sin miedo ninguno que presentes también, de esclavitud y torturas, 
+Elegidos en votación secreta de una lista de personas designadas por los Estados. Cada uno podrá designar una persona entre sus propios nacionales. Los Estados tendrán presente la utilidad de designar personas que sean también miembros del **Comité de Derechos Humanos** [[12]](https://www.ohchr.org/sp/hrbodies/ccpr/pages/ccprindex.aspx), organismo que **desde el 1977** [[13]](https://telecomlobby.com/RNMnetwork/documents/Membership1977_2020.pdf) no ha tenido ni un miembro Español cosa curiosa dado que la monarquía Española tiene pasados, y yo Riccardo Giuntoli afirmo sin miedo ninguno que presentes también, de esclavitud y torturas, establecido con arreglo al **Pacto Internacional de Derechos Civiles y Políticos** [[14]](https://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf) y que estén dispuestas a prestar servicio en el Comité constituido con arreglo a la presente Convención.
+
+Serán elegidos en reuniones bienales de los Estados Partes convocadas por el **Secretario General de las Naciones Unidas** [[15]](https://www.un.org/sg/es). En estas reuniones, para las cuales formarán **quórum** [[16]](https://es.wikipedia.org/wiki/Cu%C3%B3rum) dos tercios de los Estados Partes, se considerarán elegidos para el Comité los candidatos que obtengan el mayor número de votos y la mayoría absoluta de los votos de los representantes de los Estados Partes presentes y votantes.
+
+Al menos cuatro meses antes de la fecha de cada elección, el Secretario General dirigirá una carta a los Estados Partes invitándoles a que presenten sus candidaturas en un plazo de tres meses. El Secretario General preparará una lista por orden alfabético de todas las personas designadas de este modo, indicando los Estados Partes que las han designado, y la comunicará a los Estados Partes.
+
+Los miembros del Comité serán elegidos por cuatro años. El mandato de cinco de los miembros elegidos en la primera elección expirará al cabo de dos años; inmediatamente después de la primera elección, el presidente de la reunión a que se hace referencia en el párrafo 3 del presente artículo designará por sorteo los nombres de esos cinco miembros.
+
+Si un miembro muerte o renuncia o por cualquier otra causa no puede ya desempeñar sus funciones en el Comité, el Estado Parte que presentó su candidatura signará entre sus nacionales a otros experto para que desempeñe sus funciones durante el resto de su mandato, a reserva de la aprobación de la mayoría de los Estados. Se considerará otorgada dicha aprobación a menos de la mitad o  más de los Estados respondan negativamente dentro de un plazo de seis semanas a contar del momento en que el Secretario General de las Naciones Unidas les comunique la candidatura propuesta. 
 
 ###  External links 
 
@@ -103,6 +111,12 @@ Elegidos en votación secreta de una lista de personas designadas por los Estado
 12. https://www.ohchr.org/sp/hrbodies/ccpr/pages/ccprindex.aspx
 
 13. https://telecomlobby.com/RNMnetwork/documents/Membership1977_2020.pdf
+
+14. https://telecomlobby.com/RNMnetwork/documents/ccpr_SP.pdf
+
+15. https://www.un.org/sg/es
+
+16. https://es.wikipedia.org/wiki/Cu%C3%B3rum
 
     
 
