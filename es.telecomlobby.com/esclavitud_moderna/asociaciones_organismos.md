@@ -106,6 +106,7 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 - Si un Estado considera que otro Estado no cumple las disposiciones de la presente Convención podrá señalar el asunto a la atención de dicho Estado mediante una comunicación escrita. Dentro de un plazo de tres meses, contado desde la fecha de recibo de la comunicación, el Estado destinatario proporcionará al Estado que haya enviado la comunicación una explicación o cualquier otra declaración por escrito que aclare el asunto, la cual hará referencia, hasta donde sea posible y pertinente, a los procedimientos nacionales y a los recursos adaptados, en trámite o que puedan utilizarse al respecto.
 - Si el asunto no se resuelve a satisfacción de los dos Estados interesados en un plazo de seis meses contado desde la fecha en que el Estado destinatario haya recibido la primera comunicación, cualquiera de ambos Estados interesados tendrá derecho a someterlo al Comité, mediante notificación dirigida la comité y al otro Estado.
+- El comité conocerá de todo asunto que se le someta en virtud del presente artículo después de haberse cerciorado de que se ha interpuesto y agotado en tal asunto todos los recursos
 
 ###  External links 
 
