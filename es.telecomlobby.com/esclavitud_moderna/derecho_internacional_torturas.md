@@ -983,6 +983,10 @@ También la homófobia es alimentada en esta red. Terapias de cambio de orientac
 
 Todo ellos agrandan el estigma, hacen conjuntamente a todo los demás instrumentos y derivaciones de la víctima una persona estigmatizada, un Jesús Cristo moderno crucificado por la sociedad entera de forma subliminal, a través de alusiones también en medio de telecomunicaciones públicos. Una persona cuyo futuro es dedicarse al mercado negro si sobrevive al suicidio que a mi modo de razonar tienen un ventana de tiempo limitado entra cinco y diez años. Cristian se suicidó después de siete a cuanto me parece haber entendido. Lo malo por una mujer es que su vida reproductiva es limitada a la mitad de los cuarentas años. Por un hombre representa un reto personal de conocimiento y superación personal. 
 
+# Informe de Nils Melzer A/72/178 en calidad de Relator Especial del 20 de julio de 2017 y comentarios sobre la situación Catalana
+
+![Nils Merlzer](https://telecomlobby.com/Images/nils_merlzer_relator_especial.jpg)
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm

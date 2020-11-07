@@ -135,7 +135,7 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 **Articulo 30**: la controversias que surjan entre dos o más Estados con respecto a la interpretación o aplicación de la presente, que no puedan solucionarse mediante **negociaciones** [[17]](https://es.wikipedia.org/wiki/Negociaci%C3%B3n), se someterán a **arbitraje** [[18]](https://bit.ly/3p5wNEG). Si no se resuelve cualquier Estado podrá someter la controversia a la **Corte Internacional de Justicia** [[19]](https://www.un.org/es/icj/), mediante solicitud presentada de conformidad con el **Estatuto de la Corte** [[20]](https://www.un.org/es/documents/icjstatute/).
 
-**Articulo 31**: Todo Estado podrá denunciar la presente mediante notificación hecho por escrito al Secretario General. Dicha denuncia no eximirá al Estado de las obligaciones que le impone la presente Convención con respecto a toda acción u ominión occurida antes de la fecha en que haya surtido efecto la denuncia, ni la denuncia entrañará tampoco la suspención del examen de cualquier asunto que el Comité haya empezado a examinar antes de la fecha en que surta efecto la denuncia.
+**Articulo 31**: Todo Estado podrá denunciar la presente mediante notificación hecho por escrito al Secretario General. Dicha denuncia no eximirá al Estado de las obligaciones que le impone la presente Convención con respecto a toda acción u omisión ocurrida antes de la fecha en que haya surtido efecto la denuncia, ni la denuncia entrañará tampoco la suspensión del examen de cualquier asunto que el Comité haya empezado a examinar antes de la fecha en que surta efecto la denuncia.
 
 ###  External links 
 
