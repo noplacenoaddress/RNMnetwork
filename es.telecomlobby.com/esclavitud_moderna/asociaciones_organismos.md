@@ -111,7 +111,9 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 - Los Estados tendrán derecho a estar representados cuando el asunto se examine en el Comité ya presentar exposiciones verbalmente o por escrito.
 - Si se llega a una solución con arreglo a lo dispuesto se limitará a una breve exposición de los hechos y de la solución alcanzada. Si no se agregará las exposiciones y las actas que hayan hecho los interesados.
 
-**Articulo 22**: 
+**Articulo 22**: todo Estado parte en la presente Convención podrá declarar que reconoce la competencia del Comité para recibir y **examinar las comunicaciones enviadas por personas sometidas a su jurisdicción que aleguen ser víctimas de una violación** de un Estado de las disposiciones de la Convención:
+
+- 
 
 ###  External links 
 
@@ -133,7 +135,7 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 9. https://es.wikipedia.org/wiki/Agente_provocador
 
-10. https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx
+10. https://www.ohchr.org/SP/HRBodies/CAT
 
 11. https://www.ohchr.org/SP/HRBodies/CAT/Pages/Membership.aspx
 
