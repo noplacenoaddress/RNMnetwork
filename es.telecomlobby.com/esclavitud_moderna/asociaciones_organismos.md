@@ -120,7 +120,11 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
   - la persona ha agotado todos los recursos de la jurisdicción interna de que se pueda disponer; **no se aplicará esta regla cuando la tramitación de los mencionados recursos se prolongue injustificadamente** o sea probable que mejore realmente la situación de la persona que sea víctima de la violación de la presente Convención.
 - el Comité comunicará su parecer al Estado interesado y a la persona de que se trate
 
-**Articulo 23**: 
+**Articulo 23**: los miembros del Comité y los miembros de las comisiones especiales de conciliación designados tendrán derecho a las facilidades, privilegios e inmunidades que se conceden a los expertos que desempeñan misiones para las Naciones Unidas.
+
+**Articulo 24**: el Comité presentará un informe anual sobre sus actividades en virtud de la presente Conveción.
+
+#### Parte III
 
 ###  External links 
 
