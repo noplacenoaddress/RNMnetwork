@@ -133,7 +133,7 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 - Toda enmienda adoptada de conformidad del presente artículo entrará en vigor cuando dos tercios de los Estados Partes en la presente Convención hayan notificado al Secretario General de las Naciones Unidas que la han aceptado de conformidad con sus respectivos procedimientos constitucionales. 
 - Cuando las enmiendas entren en vigor serán obligatorias para los Estados Partes que las hayan aceptado, en tanto que los demás Estados Partes seguirán obligados por las disposiciones de la presente Convención y por las enmiendas anteriores que hayan aceptado.
 
-**Articulo 30**: 
+**Articulo 30**: la controversias que surjan entre dos o más Estados con respecto a la interpretación o aplicación de la presente, que no puedan solucionarse mediante **negociaciones** [[17]](https://es.wikipedia.org/wiki/Negociaci%C3%B3n), se someterán a **arbitraje** [[18]](https://bit.ly/3p5wNEG). Si no se resuelve cualquier Estado podrá someter la controversia a la **Corte Internacional de Justicia** [[19]](https://www.un.org/es/icj/), mediante solicitud presentada de conformidad con el **Estatuto de la Corte** [[20]](https://www.un.org/es/documents/icjstatute/).
 
 ###  External links 
 
@@ -168,6 +168,14 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 15. https://www.un.org/sg/es
 
 16. https://es.wikipedia.org/wiki/Cu%C3%B3rum
+
+17. https://es.wikipedia.org/wiki/Negociaci%C3%B3n
+
+18. https://bit.ly/3p5wNEG
+
+19. https://www.un.org/es/icj/
+
+20. https://www.un.org/es/documents/icjstatute/
 
     
 
