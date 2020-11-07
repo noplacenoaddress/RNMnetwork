@@ -113,7 +113,18 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 **Articulo 22**: todo Estado parte en la presente Convención podrá declarar que reconoce la competencia del Comité para recibir y **examinar las comunicaciones enviadas por personas sometidas a su jurisdicción que aleguen ser víctimas de una violación** de un Estado de las disposiciones de la Convención:
 
-- 
+- se considerará inadmisible toda comunicación recibido de conformidad con el presente artículo que sea anónima. 
+- el Comité examinará las comunicaciones recibidas de conformidad con el presente artículo, a la luz de toda la información puesta a su disposición por la persona de que se trate, o en su nombre, y por el Estado interesado.
+- no examinará ninguna comunicación de una persona a menos que:
+  - la misma cuestión no ha sido, ni está  siendo, examinada según otro procedimiento de investigación o solución internacional.
+  - la persona ha agotado todos los recursos de la jurisdicción interna de que se pueda disponer; **no se aplicará esta regla cuando la tramitación de los mencionados recursos se prolongue injustificadamente** o sea probable que mejore realmente la situación de la persona que sea víctima de la violación de la presente Convención.
+- el Comité comunicará su parecer al Estado interesado y a la persona de que se trate
+
+**Articulo 23**: los miembros del Comité y los miembros de las comisiones especiales de conciliación designados tendrán derecho a las facilidades, privilegios e inmunidades que se conceden a los expertos que desempeñan misiones para las Naciones Unidas.
+
+**Articulo 24**: el Comité presentará un informe anual sobre sus actividades en virtud de la presente Conveción.
+
+#### Parte III
 
 ###  External links 
 
