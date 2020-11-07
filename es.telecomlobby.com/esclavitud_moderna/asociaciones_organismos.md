@@ -122,9 +122,18 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 **Articulo 23**: los miembros del Comité y los miembros de las comisiones especiales de conciliación designados tendrán derecho a las facilidades, privilegios e inmunidades que se conceden a los expertos que desempeñan misiones para las Naciones Unidas.
 
-**Articulo 24**: el Comité presentará un informe anual sobre sus actividades en virtud de la presente Conveción.
+**Articulo 24**: el Comité presentará un informe anual sobre sus actividades en virtud de la presente Convención.
 
 #### Parte III
+
+**Articulo 25**: la presente está sujeta a ratificación. Los instrumentos de ratificación se depositarán en poder sel Secretario General de las Naciones Unidas.
+
+**Articulo 29**: todo Estado podrá proponer una enmienda y depositarla en poder del Secretario General de las Naciones Unidas. Si dentro de los cuatro meses siguientes a la fecha de esa notificación un tercio al menos de los Estados se declara a favor de tal convocatoria, el Secretario General convocará una conferencia con los auspicios de las Naciones Unidas.
+
+- Toda enmienda adoptada de conformidad del presente artículo entrará en vigor cuando dos tercios de los Estados Partes en la presente Convención hayan notificado al Secretario General de las Naciones Unidas que la han aceptado de conformidad con sus respectivos procedimientos constitucionales. 
+- Cuando las enmiendas entren en vigor serán obligatorias para los Estados Partes que las hayan aceptado, en tanto que los demás Estados Partes seguirán obligados por las disposiciones de la presente Convención y por las enmiendas anteriores que hayan aceptado.
+
+**Articulo 30**: 
 
 ###  External links 
 
