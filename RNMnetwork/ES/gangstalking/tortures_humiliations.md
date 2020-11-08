@@ -65,7 +65,7 @@ Full stop.
 
 I'm under continuous electronic tortures from November 2017, electronic tortures in ELF frequencies that are interference in my five senses.  In all the dreams always people speak about to sell drugs. **Francesca want that I become a drug seller**.
 
-First of all I want to speak about that every time that I go to Barcelona and I stay alone Saray torture me. Every time.
+First of all I want to speak about that every time that I go to Barcelona and I stay alone Saray torture me. Every time. Sometimes also Massimo. The twos work for nobles houses. Massimo for one from Genoa and Saray from the most important of Catalunya. I think that in families with two brothers it's normal that one work for one family and the other for another. In this manner the two brothers doesn't have a good relationship. It's better for the parents probably they gain from more money. It's like have sons to create slaves but I don't think that is related to the parents, is because they are slave. It's a slavery chain hidden but not unknown.
 
 From June 2020 I start to log every type of torture that I received in radio:
 
