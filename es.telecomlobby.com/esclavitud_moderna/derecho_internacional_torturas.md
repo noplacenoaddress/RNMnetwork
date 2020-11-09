@@ -993,9 +993,9 @@ Personalmente he sido llevado al calabozo por una maquina, un sistema de eventos
 
 El Relator Especial indica que el uso de la fuerza en entornos insuficientemente controlados conlleva un riesgo importante de arbitrariedad y abuso. Yo, Riccardo Giuntoli, añado que en ambientes demasiado controlados, como Catalunya, el riesgo es de participación a un cuadro general de acecho, tortura y corrupción. También se habla del riesgo del utilizo de algún tipo de arma como medio de hacer cumplir la ley, en Catalunya hay que subrayar que la torre de Collserola, tercer tramo, es un arma oculta enorme que tiene toda la ciudadanía bajo ataque militar. Una **guerra civil** [[248]](https://es.wikipedia.org/wiki/Guerra_civil) sin declarar. Dada la disposición de las antenas y el hecho que utilizan transporte en ionosfera diría que es la arma más importante del Mediterráneo y mas allá. 
 
-> Mi respuesta es la destrucción sistemática de este sistema criminal que es un ataque a los derecho fundamentales del hombre y a la democracia, una revolución pacifica por parte de todos los afectados cocientes de manera que informen a todos los demás ciudadano también controlado sin autorización pero ignaros. 
+> Mi respuesta es la destrucción sistemática de este sistema criminal que es un ataque a los derecho fundamentales del hombre y a la democracia, una revolución pacifica por parte de todos los afectados cocientes de manera que informen a todos los demás ciudadanos también controlado sin autorización. Una revolución basada en el amor, amor que une no traición que divide.
 
- 
+####  Fundamentos
 
 
 
