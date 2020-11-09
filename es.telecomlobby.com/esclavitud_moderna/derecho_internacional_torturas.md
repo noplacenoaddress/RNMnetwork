@@ -1026,7 +1026,9 @@ Todo uso de la fuerza por los agentes del Estado debe perseguir un objetivo leg�
 
 Exige que todo uso de ka fuerza por los agentes del Estado se limite al medio razonablemente menos dañino para alcanzar los fines perseguidos. Los agentes, **o los actores que son agentes encubiertos en movimientos de jóvenes perseguidos** (nada mas),  deben aplicar medios no violentos siempre que sea posible y podrán usar la fuerza solo cuando sea imperioso para alcanzar un objetivo legítimo, y únicamente en la medida estrictamente necesaria. **Los actores pero persiguen fines no compatibles con el estado de derecho**, aunque cubiertos por la alta nobleza. Su fin en Catalunya , fin global, es atentar contra el sentimiento de identidad Catalano, después hacen otros trabajos de persecución utilizando la misma infraestructura militar, los neuroestimuladores inalámbricos. Otro de sus fines es mantener el monopolio de lo que **Carles Serra Hartmann** [[252]](https://telecomlobby.com/RNMnetwork/documents/carles_serra.pdf) define como silicon Vallés.
 
+Desde el punto de vista cualitativo, todo uso de la fuerza debe ser inevitable en el sentido de que los medios no violentos o menos perjudiciales sean ineficaces o no garanticen de manera alguna el logro del propósito deseado. El grado y la manera en que se emplee no deben causar daño que el estrictamente necesario. Se tiene revaluar continuamente; si las circunstancias evolucionaran de manera tal que el propósito deseado se pudiera lograr mediante medios menos dañinos, la fuerza ya no podría utilizarse.
 
+**En la red de monitorio neuronal la fuerza que se utiliza es la tortura.** Yo soy victima de tortura cada día desde el 27 de Noviembre 2017 y desde el 2015 víctima de malos tratos y tortura psicológica. Saray, la mujer que amo, hace décadas.
 
 ###   External links 
 
