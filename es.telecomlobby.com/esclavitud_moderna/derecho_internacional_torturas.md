@@ -1005,7 +1005,16 @@ Los actores no estatales, son en realidad funcionarios de un Estado oculto, un e
 
 #### Principios jurídicos que rigen el uso de la fuerza
 
-Parecen los mismos principios que guían el grupo de actores no estatales, los *maquinistas*. Quien ha construido los binarios de la maquina a vapor de la destrucción sistemática de mi vida.
+Parecen los mismos principios que guían el grupo de actores no estatales, los *maquinistas*. Quien ha construido los binarios de la maquina a vapor de la destrucción sistemática de mi vida. Padres incluidos sin duda ninguna.
+
+Estos principios pueden considerarse principios generales del derecho, se rigen por el siguiente conjunto de principios:
+
+- Legalidad: todo uso de la fuerza debe tener un fundamente jurídico y abogar por un fin legítimo.
+- Necesidad: la fuerza debe utilizarse únicamente para lograr un fin legítimo y en la medida estrictamente necesaria.
+- Proporcionalidad: el daño que pueda ser infligido por el uso de la fuerza no debe ser excesivo en comparación con el beneficio del fin legítimo perseguido. 
+- Precaución: las operaciones para el cumplimiento de la ley deben planificarse, prepararse y llevarse a cabo, en la medida de lo posible, minimizado el uso de la fuerza y, cuando este se torne inevitable, reduciendo al mínimo los daños que de ella puedan resultar.
+
+Para que el uso de la fuerza por los agentes de Estado sea lícito, deben respetarse plenamente todos los principios mencionados. Cuidado porqué el Estado de lo cual hablo yo, es un Estado terrorista.
 
 
 
