@@ -995,7 +995,9 @@ El Relator Especial indica que el uso de la fuerza en entornos insuficientemente
 
 > Mi respuesta es la destrucción sistemática de este sistema criminal que es un ataque a los derecho fundamentales del hombre y a la democracia, una revolución pacifica por parte de todos los afectados cocientes de manera que informen a todos los demás ciudadanos también controlado sin autorización. Una revolución basada en el amor, amor que une no traición que divide.
 
-####  Fundamentos
+#### Alcance
+
+El alcance del presente informe es relevante también para las formas de coacción y malos tratos cometidos por agentes no estatales. Actores; muy importante entender como quien se ocupa de persecuciones y tortura a individuos objetivo sea actores, muchos derivan de los **movimentos punk** [[249]](https://es.wikipedia.org/wiki/Movimiento_punk). Hoy en día **ciberpunk** [[250]](https://es.wikipedia.org/wiki/Ciberpunk). ¿Porqué actúan en las persecuciones de la Mafia de la élite? Porqué alguien de la élite se ocupa dejar esta salida a los individuos objetivo que merecen la pena por sus capacidades, sobre todo cultura. Se trata de movimientos lleno de fervor y inteligencia. Movimientos unidos que actúan en la persecución con el fin de encontrar nuevos participes. Se trata de personas especiales. Personas que el mundo ha querido aislar que pero se han unido. Creo pero que dentro de ellos alguien sea corrupto. **Algún comportamiento no lo entiendo**. Ya que he sido aislado también por ellos, por la parte Catalana por ser Italiano. Otra forma de racismo cosa que no aguanto. Nunca y por nadie. Son guiados de todas formas sus decisiones no son autónomas porqué, probablemente, algunos de ellos se ocupa de mercado negro. Para no ser encarcelado.
 
 
 
@@ -1496,6 +1498,10 @@ El Relator Especial indica que el uso de la fuerza en entornos insuficientemente
 247. https://www.goteo.org/project/spectram
 
 248. https://es.wikipedia.org/wiki/Guerra_civil
+
+249. https://es.wikipedia.org/wiki/Movimiento_punk
+
+250. https://es.wikipedia.org/wiki/Ciberpunk
 
      
 
