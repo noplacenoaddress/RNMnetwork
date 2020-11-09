@@ -987,6 +987,12 @@ Todo ellos agrandan el estigma, hacen conjuntamente a todo los demás instrument
 
 ![Nils Merlzer](https://telecomlobby.com/Images/nils_merlzer_relator_especial.jpg)
 
+Se trata acerca de las conexiones entra la tortura y los casos en que los agentes del Estado recurren a la fuerza de manera innecesaria.
+
+Personalmente he sido llevado al calabozo por una maquina, un sistema de eventos forzados por parte del entorno. Los agentes del Estado en aquel caso tanto el cuerpo de **Mozos de Escuadra** [[243]](https://es.wikipedia.org/wiki/Mozos_de_Escuadra) cuanto el **cuerpo Nacional de Policía** [[244]](https://es.wikipedia.org/wiki/Cuerpo_Nacional_de_Polic%C3%ADa) se han comportado divinamente con el recluso, yo. De notar pero que de forma muy extraña he sido detenido tanto en una comisaria de los Mozos donde obviamente me han registrado algunos rasgos fenotipicos como las huellas dactilares cuanto en una comisaria de Policía, donde han hecho exactamente lo mismo pero con mas exactitud. Curioso. Otras veces pero el cuerpo de los Mozos ha actuado, teatro callejero, en frente de mis ojos de formas no democráticas, aunque absolutamente no violenta.  También el cuerpo de la **Guardia Urbana de Barcelona** [[245]](https://es.wikipedia.org/wiki/Guardia_Urbana_de_Barcelona) y muy lamentablemente el de los **Bomberos de Barcelona** [[246]](https://es.wikipedia.org/wiki/Bomberos_de_Barcelona) los he visto en actuaciones callejeras. 
+
+
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
@@ -1472,6 +1478,14 @@ Todo ellos agrandan el estigma, hacen conjuntamente a todo los demás instrument
 241. https://es.wikipedia.org/wiki/Metadona
 
 242. https://es.wikipedia.org/wiki/Antirretroviral
+
+243. https://es.wikipedia.org/wiki/Mozos_de_Escuadra
+
+244. https://es.wikipedia.org/wiki/Cuerpo_Nacional_de_Polic%C3%ADa
+
+245. https://es.wikipedia.org/wiki/Guardia_Urbana_de_Barcelona
+
+246. https://es.wikipedia.org/wiki/Bomberos_de_Barcelona
 
      
 
