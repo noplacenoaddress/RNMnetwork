@@ -1003,6 +1003,10 @@ De joven también en Genova siempre fui atraído por este tipo de movimientos, n
 
 Los actores no estatales, son en realidad funcionarios de un Estado oculto, un estado dentro el estado. Algunos, prácticamente nadie, es un **agente doble** [[251]](https://es.wikipedia.org/wiki/Agente_doble). El jefe Catalán tiene toda la pinta.
 
+#### Principios jurídicos que rigen el uso de la fuerza
+
+Parecen los mismos principios que guían el grupo de actores no estatales, los *maquinistas*. Quien ha construido los binarios de la maquina a vapor de la destrucción sistemática de mi vida.
+
 
 
 ###   External links 
