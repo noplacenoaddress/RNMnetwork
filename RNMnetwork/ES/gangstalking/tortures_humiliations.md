@@ -158,6 +158,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 6/11/2020 Because yesterday I've said in v2k subliminal message system in the remote neural monitoring facility that I go out from home and go to Barcelona and because I don't do it today I'm under continuous electroshock torture because obviously people have bet upon it and they're loosing money. My life was totally piloted and because know they actively read my mind with electronic weapons I'm under gambling. Help. 
 - 7/11/2020 Dream injection. In the Dream Saray is in a open space room where a lot of people that I know is doing an orgie with her. Those ambient are real and are sexual harassment ambient. Are like BDSM orgies fest. Goals: destroy a person, compelling her with the fear that her daughter might be violated in the same way, lose her job, forced prostitution. also used to make unsuspecting men fall in love with women who are actually used as Saray to make him commit suicide afterwards. Inside mafia people that bet about, they are also in jail.
 - 8/11/2020 Like all night long the head of the non state actors Mafia torture me.
+- 9/11/2020 **Rape treath by Francesca** and the non state actors Mafia in dream injection. After she continoue to say that she will rape me in v2k subliminal message also speaking about my family. A good friend of mine of Genoa, a woman, say that she treath her continously with her sons.
 
 
 
