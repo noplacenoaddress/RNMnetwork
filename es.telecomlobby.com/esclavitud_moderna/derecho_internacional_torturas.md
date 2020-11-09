@@ -991,6 +991,12 @@ Se trata acerca de las conexiones entra la tortura y los casos en que los agente
 
 Personalmente he sido llevado al calabozo por una maquina, un sistema de eventos forzados por parte del entorno. Los agentes del Estado en aquel caso tanto el cuerpo de **Mozos de Escuadra** [[243]](https://es.wikipedia.org/wiki/Mozos_de_Escuadra) cuanto el **cuerpo Nacional de Policía** [[244]](https://es.wikipedia.org/wiki/Cuerpo_Nacional_de_Polic%C3%ADa) se han comportado divinamente con el recluso, yo. De notar pero que de forma muy extraña he sido detenido tanto en una comisaria de los Mozos donde obviamente me han registrado algunos rasgos fenotipicos como las huellas dactilares cuanto en una comisaria de Policía, donde han hecho exactamente lo mismo pero con mas exactitud. Curioso. Otras veces pero el cuerpo de los Mozos ha actuado, teatro callejero, en frente de mis ojos de formas no democráticas, aunque absolutamente no violenta.  También el cuerpo de la **Guardia Urbana de Barcelona** [[245]](https://es.wikipedia.org/wiki/Guardia_Urbana_de_Barcelona) y muy lamentablemente el de los **Bomberos de Barcelona** [[246]](https://es.wikipedia.org/wiki/Bomberos_de_Barcelona) los he visto en actuaciones callejeras. Lo lamento, porqué nunca he tenido ningún tipo de sentimiento contrario a las funciones de los funcionarios de Estado, pero únicamente una actuación callejera en el teatro del negocio del desgaste y del suicidio de un individuo objetivo pertenece al cuadro de tortura. Al ambiente de tortura, o sea **es tortura**. Lo siento. Es obvio que **SPECTRAM** [[247]](https://www.goteo.org/project/spectram), el nombre de esta Mafia de la nobleza Europea y la Iglesia Católica, tiene elementos de corrupción en todos los departamento de Estado. Siendo España una monarquía, o sea donde haya una casa real, su presencia es notable. Siendo Italia la sede del Estado Vaticano, también lo es.
 
+El Relator Especial indica que el uso de la fuerza en entornos insuficientemente controlados conlleva un riesgo importante de arbitrariedad y abuso. Yo, Riccardo Giuntoli, añado que en ambientes demasiado controlados, como Catalunya, el riesgo es de participación a un cuadro general de acecho, tortura y corrupción. También se habla del riesgo del utilizo de algún tipo de arma como medio de hacer cumplir la ley, en Catalunya hay que subrayar que la torre de Collserola, tercer tramo, es un arma oculta enorme que tiene toda la ciudadanía bajo ataque militar. Una **guerra civil** [[248]](https://es.wikipedia.org/wiki/Guerra_civil) sin declarar. Dada la disposición de las antenas y el hecho que utilizan transporte en ionosfera diría que es la arma más importante del Mediterráneo y mas allá. 
+
+> Mi respuesta es la destrucción sistemática de este sistema criminal que es un ataque a los derecho fundamentales del hombre y a la democracia, una revolución pacifica por parte de todos los afectados cocientes de manera que informen a todos los demás ciudadano también controlado sin autorización pero ignaros. 
+
+ 
+
 
 
 ###   External links 
@@ -1488,6 +1494,8 @@ Personalmente he sido llevado al calabozo por una maquina, un sistema de eventos
 246. https://es.wikipedia.org/wiki/Bomberos_de_Barcelona
 
 247. https://www.goteo.org/project/spectram
+
+248. https://es.wikipedia.org/wiki/Guerra_civil
 
      
 
