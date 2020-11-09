@@ -65,6 +65,8 @@ Full stop.
 
 I'm under continuous electronic tortures from November 2017, electronic tortures in ELF frequencies that are interference in my five senses.  In all the dreams always people speak about to sell drugs. **Francesca want that I become a drug seller**.
 
+First of all I want to speak about that every time that I go to Barcelona and I stay alone Saray torture me. Every time. Sometimes also Massimo. The twos work for nobles houses. Massimo for one from Genoa and Saray from the most important of Catalunya. I think that in families with two brothers it's normal that one work for one family and the other for another. In this manner the two brothers doesn't have a good relationship. It's better for the parents probably they gain from more money. It's like have sons to create slaves but I don't think that is related to the parents, is because they are slave. It's a slavery chain hidden but not unknown.
+
 From June 2020 I start to log every type of torture that I received in radio:
 
 - **Sleep deprivation** [[10]](https://en.wikipedia.org/wiki/Sleep_deprivation) at 3:10 AM 12/06/2020.
@@ -154,7 +156,13 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 3/11/2020 04:30 dream injection and extreme neural remote excitement. I cannot sleep. **STOP TORTURE ME SON OF BITCHES.**
 - 5/11/2020 all night long I cannot sleep because of sexual harassment. Famous people in neural slavery speak to me. Stop electronic torture. I have to work I cannot loose days.
 - 6/11/2020 Because yesterday I've said in v2k subliminal message system in the remote neural monitoring facility that I go out from home and go to Barcelona and because I don't do it today I'm under continuous electroshock torture because obviously people have bet upon it and they're loosing money. My life was totally piloted and because know they actively read my mind with electronic weapons I'm under gambling. Help. 
-- 7/11/2020 Dream injection. In the Dream Saray is in a open space room where a lot of people that I know is doing an orgie with her. Those ambient are real and are sexual harassment ambient. Are like BDSM orgies fest. Goals: destroy a person, compelling her with the fear that her daughter might be violated in the same way, lose her job, forced prostitution. also used to make unsuspecting men fall in love with women who are actually used as Saray to make him commit suicide afterwards. Inside mafia people that bet about, they are also in jail.![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 7/11/2020 Dream injection. In the Dream Saray is in a open space room where a lot of people that I know is doing an orgie with her. Those ambient are real and are sexual harassment ambient. Are like BDSM orgies fest. Goals: destroy a person, compelling her with the fear that her daughter might be violated in the same way, lose her job, forced prostitution. also used to make unsuspecting men fall in love with women who are actually used as Saray to make him commit suicide afterwards. Inside mafia people that bet about, they are also in jail.
+- 8/11/2020 Like all night long the head of the non state actors Mafia torture me.
+- 9/11/2020 **Rape treath by Francesca** and the non state actors Mafia in dream injection. After she continoue to say that she will rape me in v2k subliminal message also speaking about my family. A good friend of mine of Genoa, a woman, say that she treath her continously with her sons.
+
+
+
+![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
