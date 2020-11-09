@@ -1022,7 +1022,7 @@ Todo uso de la fuerza por los agentes del Estado debe perseguir un objetivo leg�
 
 #### Principio de necesidad
 
-
+Exige que todo uso de ka fuerza por los agentes del Estado se limite al medio razonablemente menos dañino para alcanzar los fines perseguidos. Los agentes, **o los actores que son agentes encubiertos en movimientos de jóvenes perseguidos** (nada mas),  deben aplicar medios no violentos siempre que sea posible y podrán usar la fuerza solo cuando sea imperioso para alcanzar un objetivo legítimo, y únicamente en la medida estrictamente necesaria. **Los actores pero persiguen fines no compatibles con el estado de derecho**, aunque cubiertos por la alta nobleza.
 
 
 
