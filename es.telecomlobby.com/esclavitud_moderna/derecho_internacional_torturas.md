@@ -1016,6 +1016,14 @@ Estos principios pueden considerarse principios generales del derecho, se rigen 
 
 Para que el uso de la fuerza por los agentes de Estado sea lícito, deben respetarse plenamente todos los principios mencionados. Cuidado porqué el Estado de lo cual hablo yo, es un Estado terrorista.
 
+#### Principio de legalidad
+
+Todo uso de la fuerza por los agentes del Estado debe perseguir un objetivo legítimo, estar fundamentado en la legislación nacional y ser regulado por ella. Los fines legítimos suelen incluir efectuar la detención o impedir la fuga de una persona sospechada de haber cometido un delito, ejercer la legítima defensa individual o la defensa de otras personas contra una amenaza de muerte o lesiones graves de carácter ilícito, o disolver reuniones violentas. Otro parámetro de la legalidad es la igualdad de trato ante la ley para todas las personas, de conformidad con el principio de no discriminación. Los Estados deben proporcionar autorización expresa para el uso de la violencia. Creo que esto también pasa en la Mafia de la élite porqué es organizada a Estados. **Estados que basan su economía en recursos de mercado negro**. 
+
+#### Principio de necesidad
+
+Exige que todo uso de ka fuerza por los agentes del Estado se limite al medio razonablemente menos dañino para alcanzar los fines perseguidos. Los agentes, **o los actores que son agentes encubiertos en movimientos de jóvenes perseguidos** (nada mas),  deben aplicar medios no violentos siempre que sea posible y podrán usar la fuerza solo cuando sea imperioso para alcanzar un objetivo legítimo, y únicamente en la medida estrictamente necesaria. **Los actores pero persiguen fines no compatibles con el estado de derecho**, aunque cubiertos por la alta nobleza.
+
 
 
 ###   External links 
