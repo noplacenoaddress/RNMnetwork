@@ -159,6 +159,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 7/11/2020 Dream injection. In the Dream Saray is in a open space room where a lot of people that I know is doing an orgie with her. Those ambient are real and are sexual harassment ambient. Are like BDSM orgies fest. Goals: destroy a person, compelling her with the fear that her daughter might be violated in the same way, lose her job, forced prostitution. also used to make unsuspecting men fall in love with women who are actually used as Saray to make him commit suicide afterwards. Inside mafia people that bet about, they are also in jail.
 - 8/11/2020 Like all night long the head of the non state actors Mafia torture me.
 - 9/11/2020 **Rape threat by Francesca** and the non state actors Mafia in dream injection. After she continue to say that she will rape me in v2k subliminal message also speaking about my family. A good friend of mine of Genoa, a woman, say that she threat her continuously with her sons.
+- 10/11/2020 Dream injection. I think that dream injection covers the real purpose, neuronal excitation. The excited cells, I think MEM cells, emit an electromagnetic field which is then used to be connectet from  a second radio from the Collserola tower. After this connection a kind of virtual highway is created where various frequencies and licenses are used to obtain various results on the human body used as a 360 degree gyroscopic antenna.
 
 
 
