@@ -1095,7 +1095,9 @@ Los tratos inhumanos incluyen la conducta injustificable que provoca un sufrimie
 
 Os recuerdo que en la red de esclavitud moderna nuestros ojos son cámaras humanas y por explotación sexual, que a mi manera de ver las cosas pertenece al grupo de esclavitud, que se puede refigurar como un contendedor virtual Unix, número cuatro (uno de los de Saray), mujeres son obligadas a practicar orgías brutales contra su voluntad. Estos actos sexuales forzosos constituyen tortura. Actos degradantes y inhumanos. 
 
-La tortura está absolutamente prohibida y no puede justificarse en ninguna circunstancia. 
+La tortura está absolutamente prohibida y no puede justificarse en ninguna circunstancia. La violación del derecho de las personas a la integridad física y mental tiene diferentes niveles que van desde la tortura hasta otros tipos de abuso o trato cruel, inhumano o degradante, cuyas consecuencias físicas y mentales varían en intensidad según los factores **endógenos** [[260]](https://es.wikipedia.org/wiki/Endogeneidad) y **exógenos** [[261]](https://es.wikipedia.org/wiki/Exogeneidad) del individuo.
+
+Atención porqué la esclavitud moderna ha sido pensada para no ser denunciada; quiero decir que las personas son explotadas de forma prácticamente indeterminable diariamente y de forma física ocasionalmente con dilatación de tiempo entra un hecho delictivo u otro. El marco de explotación y esclavitud es de ampliar a varias décadas. Detrás hay genios, probablemente equipos de **premios Nobel** [[262]](https://es.wikipedia.org/wiki/Premio_Nobel). Por esto que en red de monitorio neuronal se habla de cadenas industriales, y yo añado del desgaste personal; cadenas cuyo eje es el tiempo. Cadenas que desgastan, no permiten la felicidad, explotan, derivan al consumo de drogas, llevan a la perdida de la libertad, producen enfermedades mentales. 
 
 
 
@@ -1615,7 +1617,15 @@ La tortura está absolutamente prohibida y no puede justificarse en ninguna circ
 
 257. https://gla.ac.uk/schools/law/staff/nilsmelzer
 
-258. https://dle.rae.es/cabal
+258. https://es.wikipedia.org/wiki/Corolario
+
+259. https://dle.rae.es/cabal
+
+260. https://es.wikipedia.org/wiki/Endogeneidad
+
+261. https://es.wikipedia.org/wiki/Exogeneidad
+
+262. https://es.wikipedia.org/wiki/Premio_Nobel
 
      
 
