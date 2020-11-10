@@ -1070,6 +1070,18 @@ Los funcionarios en caso de detención no pueden utilizar la fuerza, excepto cua
 
 ![NO TORTURE](https://telecomlobby.com/Images/no_torture_abugrai.webp)
 
+La prohibición absoluta e inderogable de la tortura y de los tratos o penas crueles, inhumanos o degradantes se ha codificado en un amplio conjunto de instrumentos universales y regionales, se la reconoce universalmente como un principio fundamental del **derecho internacional consuetudinario** [[255]](https://es.wikipedia.org/wiki/Costumbre_internacional). La prohibición de la tortura ha adquirido también **carácter perentorio** [[256]](https://es.wikipedia.org/wiki/Ius_cogens); *o sea que está claro porqué el Estado delega la tortura a terceros, y ellos tan felices torturan a cambio de algo de inmunidad o sea corrupción. Felicidades!*
+
+El Relator Especial denota también que la prohibición es en cualquier tiempo y lugar, plasma un principio general del derecho y pertenece a las consideraciones elementales de humanidad. El carácter absoluto e inderogable de la prohibición implica que todo uso de la fuerza que constituya tortura es definitivamente ilícito y no puede justificarse bajo ninguna circunstancia, mientras que el carácter imperativo de la prohibición de la tortura implica que toda legislación o ley administrativa nacional, acuerdo internacional o decisión judicial contradictorios quedan automáticamente desprovistos de todo efecto jurídico.  
+
+Quiero observar como las palabras tan firmes del Relator Especial actual, **Niels Melzer** [[257]](gla.ac.uk/schools/law/staff/nilsmelzer/), me llenan de esperanza en esta cruzada contra la cibertortura. 
+
+Los Estados tienen la obligación **corolaria** [[258]](https://es.wikipedia.org/wiki/Corolario) de adoptar medidas efectivas de carácter legislativo, administrativo, judicial y de otra índole para evitar los actos de tortura y los tratos y penas crueles, inhumanos y degradantes en su jurisdicción. Los Estados tienen la obligación de realizar rápidamente una investigación imparcial, a fin de asegurar una rendición de cuentas **cabal** [[259]](https://dle.rae.es/cabal) por esos actos, incluida, en su caso, la responsabilidad administrativa, civil y penal, y de garantizar que las víctimas reciban la reparación y rehabilitación adecuadas.
+
+#### Definición de tortura
+
+![APT](https://telecomlobby.com/Images/derecho_internacional_guia_jurisprudencia.webp)
+
 
 
 ###   External links 
@@ -1581,6 +1593,14 @@ Los funcionarios en caso de detención no pueden utilizar la fuerza, excepto cua
 253. https://es.wikipedia.org/wiki/Angustia
 
 254. https://dle.rae.es/desgracia
+
+255. https://es.wikipedia.org/wiki/Costumbre_internacional
+
+256. https://es.wikipedia.org/wiki/Ius_cogens
+
+257. https://gla.ac.uk/schools/law/staff/nilsmelzer
+
+258. https://dle.rae.es/cabal
 
      
 
