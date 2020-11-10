@@ -1052,8 +1052,6 @@ Ya que no estoy hablando exactamente de funcionarios de Estado pero si de person
 
 De otras manera quisiera indicar al grupo de actores no estatales que yo os estoy haciendo el trabajo de Vuestra libertad, no soy pagado, no tengo una relación con una mujer desde hace tres años, no veo a Saray desde hace seis mientras que a cuanto parece vosotros las habéis vista de forma no exactamente placentera para mi, habéis jugado a las apuestas remotas y me habéis visto torturado sin hacer nada y en algún caso me habéis torturado vosotros mismos para esconder a la nobleza vuestra real intención; provocar que yo denuncie todo el sistema porqué vosotros tenéis miedo debido a vuestra experiencia negativa. Sois victimas de Mafia, cuando una persona es victima de Mafia lo único que tiene que hacer es denunciarlo bajo todos los frentes. Nada mas. 
 
-
-
 #### Principio de precaución
 
 Los funcionarios encargados de hacer cumplir la ley deben reevaluar la situación constantemente a fin de evitar usar la fuerza de forma innecesario o excesiva. Cuando el uso de la fuerza se torna inevitable, los funcionarios encargados de hacer cumplir la ley deben garantizar lo antes posible la asistencia médica a las personas heridas o afectadas.
@@ -1066,7 +1064,11 @@ Se debe hacer hincapié en la imposibilidad de que el individuo pierda su protec
 
 #### Aplicación en contextos de privación de la libertad
 
+Los funcionarios en caso de detención no pueden utilizar la fuerza, excepto cuando sea estrictamente necesario para mantener la seguridad y el orden o cuando su seguridad personal se vea amenazada.
 
+#### Prohibición de la tortura y otros tratos y penas crueles, inhumanos o degradantes
+
+![NO TORTURE](https://telecomlobby.com/Images/no_torture_abugrai.webp)
 
 
 
