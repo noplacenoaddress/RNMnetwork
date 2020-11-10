@@ -1030,6 +1030,14 @@ Desde el punto de vista cualitativo, todo uso de la fuerza debe ser inevitable e
 
 **En la red de monitorio neuronal la fuerza que se utiliza es la tortura.** Yo soy victima de tortura cada día desde el 27 de Noviembre 2017 y desde el 2015 víctima de malos tratos y tortura psicológica. Saray, la mujer que amo, hace décadas.
 
+#### Principio de proporcionalidad
+
+Acerca de si el daño previsto como consecuencia del uso de la fuerza es justificable con respecto al beneficio del propósito deseado. 
+
+> Yo, Riccardo Giuntoli, he sido dañado personalmente de forma incalculable; el porqué podría ser exactamente lo que estoy haciendo, una denuncia publica sobre las armas electromagnéticas que funcionan desde la torre de Collserola por las cuales han perdido la vida seguramente muchísimas personas. Aunque así fuera me encuentro dañado físicamente de por vida además que quisiera subrayar que no soy un militar o sea que no estoy dispuesto a ser dañado físicamente por ningún tipo de motivación. No he jurado fidelidad al estado Español ni a sus ciudadanos. No he jurado fidelidad al Estado Italiano ni a sus ciudadanos. No he jurado fidelidad a la Iglesia Católica ni tampoco creo. He sido utilizado como una herramienta para desbloquear un mecanismo de una maquina antigua, replicada en tecnología hecha por radio y Unix. Nadie, ni siquiera mis padres, me ha pedido la autorización para ser utilizado y nadie me ha pagado. Nadie me está pagando una pensión para ser victima de un intento de asesinado que ha terminado con una minusvalía. Nadie.
+
+
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
