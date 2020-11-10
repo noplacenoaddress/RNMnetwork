@@ -1034,7 +1034,23 @@ Desde el punto de vista cualitativo, todo uso de la fuerza debe ser inevitable e
 
 Acerca de si el daño previsto como consecuencia del uso de la fuerza es justificable con respecto al beneficio del propósito deseado. 
 
-> Yo, Riccardo Giuntoli, he sido dañado personalmente de forma incalculable; el porqué podría ser exactamente lo que estoy haciendo, una denuncia publica sobre las armas electromagnéticas que funcionan desde la torre de Collserola por las cuales han perdido la vida seguramente muchísimas personas. Aunque así fuera me encuentro dañado físicamente de por vida además que quisiera subrayar que no soy un militar o sea que no estoy dispuesto a ser dañado físicamente por ningún tipo de motivación. No he jurado fidelidad al estado Español ni a sus ciudadanos. No he jurado fidelidad al Estado Italiano ni a sus ciudadanos. No he jurado fidelidad a la Iglesia Católica ni tampoco creo. He sido utilizado como una herramienta para desbloquear un mecanismo de una maquina antigua, replicada en tecnología hecha por radio y Unix. Nadie, ni siquiera mis padres, me ha pedido la autorización para ser utilizado y nadie me ha pagado. Nadie me está pagando una pensión para ser victima de un intento de asesinado que ha terminado con una minusvalía. Nadie. Yo, Riccardo Giuntoli, soy victima de crímenes contra la humanidad. Cualquier sea el apellido o los apellidos detrás exijo que vengan juzgados. Lo exijo. 
+> Yo, Riccardo Giuntoli, he sido dañado personalmente de forma incalculable; el porqué podría ser exactamente lo que estoy haciendo, una denuncia publica sobre las armas electromagnéticas que funcionan desde la torre de Collserola por las cuales han perdido la vida seguramente muchísimas personas. Aunque así fuera me encuentro dañado físicamente de por vida además que quisiera subrayar que no soy un militar o sea que no estoy dispuesto a ser dañado físicamente por ningún tipo de motivación. No he jurado fidelidad al estado Español ni a sus ciudadanos. No he jurado fidelidad al Estado Italiano ni a sus ciudadanos. No he jurado fidelidad a la Iglesia Católica ni tampoco creo. He sido utilizado como una herramienta para desbloquear un mecanismo de una maquina antigua, replicada en tecnología hecha por radio y Unix. Nadie, ni siquiera mis padres, me ha pedido la autorización para ser utilizado y nadie me ha pagado. Nadie me está pagando una pensión para ser victima de un intento de asesinado que ha terminado con una minusvalía. Nadie. Yo, Riccardo Giuntoli, soy victima de crímenes contra la humanidad. Cualquier sea el apellido o los apellidos detrás exijo que vengan juzgados. Lo exijo.
+
+La fuerza es permitida únicamente si el daño resultante es proporcionado frente a la gravedad del delito y la importancia del propósito deseado. El requisito de proporcionalidad define un límite superior absoluto para el uso de la fuerza permisible a fin de lograr un fin legítimo determinado. El daño se puede considerar tal en cuanto entraña sufrimiento mental y sentimientos de humillación y **angustia** [[253]](https://es.wikipedia.org/wiki/Angustia). 
+
+> Yo, Riccardo Giuntoli, declaro públicamente, en cuanto victima de una mafia de altísimo rango, que he sufrido tanto daños irreparables físicos cuanto tortura psicológica, humillaciones y malos tratos desde el 2014 y cibertortura desde Noviembre 2017. Todo esto en Catalunya, comunidad autónoma de España.
+
+No debe recurrirse a la fuerza potencialmente letal, y acordaros que este informe del Relator Especial habla de funcionarios de Estado o sea personas con formación militar y no de una banda de actores no estatales o sea de **desgraciados** [[254]](https://dle.rae.es/desgracia) obligados a la tortura porqué torturados por décadas probablemente ni siquiera pagados si no con pensiones para enfermedad mental o jugadores en un sistema de apuestas remoto ilegal, excepto cuando sea estrictamente necesaria para:
+
+-   defender una persona contra la amenaza inminente de muerte o lesiones graves.
+- impedir la comisión de un delito particularmente grave que amenace seriamente la vida.
+- detener a una persona que pueda representar un peligro de este tenor o impedir su fuga.
+- proteger la vida contra un ataque ilícito.
+- consideraciones acerca de que muerte o lesiones graves sean necesarias delante del riesgo de fuga.
+
+Ya que no estoy hablando exactamente de funcionarios de Estado pero si de personas reclutadas a través de manipulación mental, violencia, destrucción sistemática de vidas, violencia sexual y acecho entra otros quisiera acordar a los funcionarios de Estado y nobles que están detrás que todo lo que habéis hecho a estas personas que he tenido la ocasión y el placer de conocer se clasifica como, y sin ninguna duda, crímenes contra la humanidad. **Todos, aunque traficantes o torturadores o clasificados por un Estado corrupto como enfermos mentales, tienen el sacro derecho de denunciaros a todos. Sin ninguna excepción.**
+
+#### Principio de precaución
 
 
 
@@ -1543,6 +1559,10 @@ Acerca de si el daño previsto como consecuencia del uso de la fuerza es justifi
 251. https://es.wikipedia.org/wiki/Agente_doble
 
 252. https://telecomlobby.com/RNMnetwork/documents/carles_serra.pdf
+
+253. https://es.wikipedia.org/wiki/Angustia
+
+254. https://dle.rae.es/desgracia
 
      
 
