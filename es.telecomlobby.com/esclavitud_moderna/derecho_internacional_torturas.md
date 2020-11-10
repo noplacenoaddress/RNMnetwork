@@ -1082,7 +1082,11 @@ Los Estados tienen la obligación **corolaria** [[258]](https://es.wikipedia.org
 
 ![APT](https://telecomlobby.com/Images/derecho_internacional_guia_jurisprudencia.webp)
 
+Varias definiciones en tratados internacionales:
 
+- se entenderá por tortura todo acto por el cual el funcionario público, u otra persona a instigación suya, inflija intencionalmente a una persona penas o sufrimientos graves, ya sean físicos o mentales, con el fin de obtener de ella o de un tercero, información o una confesión, de castigarla por un acto que haya cometido o se sospeche que haya cometido, o de intimidar a esa persona o a otras. No se considerarán torturas las penas o sufrimientos que sean consecuencia únicamente de la privación legítima de la libertad, o sean inherentes o incidentales a esta, en la medida en que estén en consonancia con las Reglas Mínimas para el Tratamiento de los Reclusos.
+- se entenderá por el termino "tortura" todo acto por el cual se inflija intencionadamente a una persona dolores o sufrimientos graves, ya sean físicos o mentales, con el fin de obtener de ella o de un tercero información o una confesión, de castigarla por un acto que haya cometido, o se sospeche que haya cometido, o de intimidar o coaccionar a esa persona o a otras, o por cualquier razón basada en cualquier tipo de discriminación, cuando dichos dolores o sufrimientos sean infligidos por un funcionario público u otra persona en el ejercicio de funciones públicas, a instigación suya, o con su consentimiento o aquiescencia. No se considerarán torturas los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentales a estas.
+- se entenderá por tortura todo acto realizado intencionalmente por el cual se inflijan a una persona penas o sufrimientos físicos o mentales, con fines de investigación criminal, como medio intimidatorio, como castigo personal, como medida preventiva, como pena o con cualquier otro fin. Se entenderá también como tortura la aplicación sobre una persona de métodos tendientes a anular la personalidad de la víctima o a disminuir su capacidad física o mental, aunque no causen dolor físico o angustia psíquica.
 
 ###   External links 
 
