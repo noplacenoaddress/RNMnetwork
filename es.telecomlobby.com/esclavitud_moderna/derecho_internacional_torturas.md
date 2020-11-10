@@ -1062,6 +1062,12 @@ Los funcionarios encargados de hacer cumplir la ley deben reevaluar la situació
 
 #### Control del orden público en el marco de reuniones
 
+Se debe hacer hincapié en la imposibilidad de que el individuo pierda su protección contra la tortura y otros tratos o penas crueles inhumanos o degradantes en cualquier circunstancia, incluso en el contexto de disturbios violentos o protestas ilícitas.
+
+#### Aplicación en contextos de privación de la libertad
+
+
+
 
 
 ###   External links 
