@@ -1050,7 +1050,15 @@ No debe recurrirse a la fuerza potencialmente letal, y acordaros que este inform
 
 Ya que no estoy hablando exactamente de funcionarios de Estado pero si de personas reclutadas a través de manipulación mental, violencia, destrucción sistemática de vidas, violencia sexual y acecho entra otros quisiera acordar a los funcionarios de Estado y nobles que están detrás que todo lo que habéis hecho a estas personas que he tenido la ocasión y el placer de conocer se clasifica como, y sin ninguna duda, crímenes contra la humanidad. **Todos, aunque traficantes o torturadores o clasificados por un Estado corrupto como enfermos mentales, tienen el sacro derecho de denunciaros a todos. Sin ninguna excepción.**
 
+De otras manera quisiera indicar al grupo de actores no estatales que yo os estoy haciendo el trabajo de Vuestra libertad, no soy pagado, no tengo una relación con una mujer desde hace tres años, no veo a Saray desde hace seis mientras que a cuanto parece vosotros las habéis vista de forma no exactamente placentera para mi, habéis jugado a las apuestas remotas y me habéis visto torturado sin hacer nada y en algún caso me habéis torturado vosotros mismos para esconder a la nobleza vuestra real intención; provocar que yo denuncie todo el sistema porqué vosotros tenéis miedo debido a vuestra experiencia negativa. Sois victimas de Mafia, cuando una persona es victima de Mafia lo único que tiene que hacer es denunciarlo bajo todos los frentes. Nada mas. 
+
 #### Principio de precaución
+
+Los funcionarios encargados de hacer cumplir la ley deben reevaluar la situación constantemente a fin de evitar usar la fuerza de forma innecesario o excesiva. Cuando el uso de la fuerza se torna inevitable, los funcionarios encargados de hacer cumplir la ley deben garantizar lo antes posible la asistencia médica a las personas heridas o afectadas.
+
+*¿Quien me ha asistido?*
+
+#### Control del orden público en el marco de reuniones
 
 
 
