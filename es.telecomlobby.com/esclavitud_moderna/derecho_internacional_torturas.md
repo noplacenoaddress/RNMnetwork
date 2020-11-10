@@ -1095,6 +1095,10 @@ Los tratos inhumanos incluyen la conducta injustificable que provoca un sufrimie
 
 Os recuerdo que en la red de esclavitud moderna nuestros ojos son cámaras humanas y por explotación sexual, que a mi manera de ver las cosas pertenece al grupo de esclavitud, que se puede refigurar como un contendedor virtual Unix, número cuatro (uno de los de Saray), mujeres son obligadas a practicar orgías brutales contra su voluntad. Estos actos sexuales forzosos constituyen tortura. Actos degradantes y inhumanos. 
 
+La tortura está absolutamente prohibida y no puede justificarse en ninguna circunstancia. 
+
+
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
