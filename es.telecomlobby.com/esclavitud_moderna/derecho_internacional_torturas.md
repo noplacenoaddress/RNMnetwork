@@ -1117,6 +1117,8 @@ La esencia de la tortura radica en la instrumentalización deliberada del dolor 
 
 Un umbral agravado de tortura no implica que el dolor y el sufrimiento infligidos sean "graves", o la interpretación del requisito de gravedad puede haber evolucionado para reducir significativamente el umbral correspondiente. En las víctimas de las armas electromagnéticas, sobre todo mujeres, el umbral es dilatado en el tiempo y hay hechos graves maquinados ocultos detrás de borracheras, falsa amistad y apuestas sexuales. Todo el entorno de las victimas es culpable, así que ella llegan a pensar que la red sea algo común y que todo las tengan. Esto no es absolutamente verdad la mayoría de ciudadano sin duda ninguna desconocen completamente este crimen contra la humanidad.
 
+> De Catalunya salen mujeres explotadas sexualmente de forma tortuosa. Vienen vendidas a millonarios y ellas ni se dan cuenta. Explotación total, son putas y ni lo saben. Se presumen de miles de hombres conquistados cuando han sido miles de hombres que han pagado favores sexuales, muchos traficantes sudamericanos de cocaína.  Por esto que Saray frecuenta locales de baile sudamericanos. 
+
 
 
 
