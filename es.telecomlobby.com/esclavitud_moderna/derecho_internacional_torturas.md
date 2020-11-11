@@ -1113,6 +1113,10 @@ En la red de monitorio neuronal la impotencia es dada del hecho que la víctima 
 
 > Yo, Riccardo Giuntoli, soy enamorado de Saray. Otra victima de esta vida totalmente controlada. Otra victima de la nobleza. No pienso hacerle dolor físico o mental o traicionarla en orgías brutales. Yo, Saray, quiero amarte fuera de la esclavitud moderna. Quiero salvarte aunque tu me haya torturado.
 
+La esencia de la tortura radica en la instrumentalización deliberada del dolor o sufrimiento infligidos a una persona impotente como vehículo para lograr un propósito particular, incluso si se trata exclusivamente de la gratificación sádica del autor. Impotencia significa que alguien está sometido, es decir, ha sido objeto de control directo físico o equivalente por parte del autor y **ha perdido la capacidad de resistir** o evitar el dolor o sufrimiento. La gama de propósitos que pueden calificarse como actos de tortura es limitada (interrogatorio, castigo, intimidación, coacción y discriminación de toda índole), tales propósitos están redactados de una manera tan amplia que resulta difícil concebir un escenario realista de malos tratos deliberados contra una persona indefensa que no se ajuste a la definición de tortura. La definición de tortura no depende necesariamente de la finalidad precisa o la intensidad del dolor o sufrimiento infligidos, sino de la intencionalidad y la finalidad del acto, en combinación con la impotencia de la víctima. 
+
+Un umbral agravado de tortura no implica que el dolor y el sufrimiento infligidos sean "graves", o la interpretación del requisito de gravedad puede haber evolucionado para reducir significativamente el umbral correspondiente. En las víctimas de las armas electromagnéticas, sobre todo mujeres, el umbral es dilatado en el tiempo y hay hechos graves maquinados ocultos detrás de borracheras, falsa amistad y apuestas sexuales. Todo el entorno de las victimas es culpable, así que ella llegan a pensar que la red sea algo común y que todo las tengan. Esto no es absolutamente verdad la mayoría de ciudadano sin duda ninguna desconocen completamente este crimen contra la humanidad.
+
 
 
 
