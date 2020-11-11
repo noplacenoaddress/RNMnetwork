@@ -1107,6 +1107,14 @@ Un acto constituye tortura cuando los malos tratos:
 
 Se interpreta al tortura como  el infligir dolor  y sufrimiento físicos o psicológicos de manera intencional y sistemática a fin de castigar, intimidar u obtener información. La tortura puede ser realizada por agentes estatales o no estatales, como en el caso Catalán, al momento de ejercer el control sobre la persona o el grupo de personas en cuestión, el grupo cuatro es de mujeres explotadas por parte de las armas electromagnéticas. Según el Tribunal Europeo de Derechos Humanos, la tortura, a diferencia de otros tratos inhumanos y degradantes, entraña tratos deliberadamente inhumanos que causan sufrimientos muy graves y crueles. Yo, Riccardo Giuntoli, afirmo que las personas que cometen dichos tratos inhumanos a sus veces son torturados. 
 
+La tortura es una agresión abominable contra la dignidad del ser humano porque consiste en infligir deliberadamente dolores o padecimientos graves a una víctima reducida a la impotencia con un fin preciso, como obtener de ella una confesión o información. Los factores que permiten distinguir entre la tortura y otros tratos o penas crueles, inhumanos o degradantes no son la intensidad del sufrimiento ocasionado, sino el propósito perseguido, la intención del perpetrador y la **impotencia** de la víctima. Se refiere a tortura cuando una víctima es detenida o cuando es bajo el poder o control efectivo que le causa dolor o sufrimiento en la cual el perpetrador utiliza esta situación de desigualdad y poder para lograr un determinado efecto, como la extracción de información la intimidación o el castigo. 
+
+En la red de monitorio neuronal la impotencia es dada del hecho que la víctima no tiene acceso a la misma mientras que los torturadores y torturadoras si y le causan dolor y sufrimientos. En mi caso parece, que así es porqué en un futuro, hablo a 11 de Noviembre 2020, yo tendré acceso y según la marquesa tendría que hacer lo mismo gozando de violencia sexual y situaciones maquinadas para hacer violencia sexual. Después seguramente tendría que empezar a torturar mi mismo hijo. **Es la escalera de penrose, el ADN**. Es una maldición de vida controlada por parte de la nobleza seguramente porqué soy un antiguo esqueje de la misma. 
+
+> Yo, Riccardo Giuntoli, soy enamorado de Saray. Otra victima de esta vida totalmente controlada. Otra victima de la nobleza. No pienso hacerle dolor físico o mental o traicionarla en orgías brutales. Yo, Saray, quiero amarte fuera de la esclavitud moderna. Quiero salvarte aunque tu me haya torturado.
+
+
+
 
 
 ###   External links 
