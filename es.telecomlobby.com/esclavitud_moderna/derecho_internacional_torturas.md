@@ -1131,6 +1131,10 @@ Yo, Riccardo Giuntoli, declaro públicamente que he descubierto el sistema con e
 
 La torre de Foster en Barcelona es una arma. Una arma sin declarar. Un chupa sangre. como se ve en esta ilustración que transforma la torre a un mosquito. 
 
+Si bien hace mucho tiempo que la licitud determinadas armas y otros medios de guerra ha sido regulada en el derecho internacional humanitario, en los últimos tiempos se ha convertido en un tema de examen del derecho de los derechos humanos en relación con el contexto mas amplio de la aplicación de la ley. Se reconoce que determinadas armas pueden ser intrínsecamente crueles, inhumanas o degradantes por naturaleza o diseño o sea incompatibles con la prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradante. 
+
+**El diseño del tercer tramo de la torre de Norman Foster es exactamente lo que acaba de describir el Relator Especial de Naciones Unidas.**
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
