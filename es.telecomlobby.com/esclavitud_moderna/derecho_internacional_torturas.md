@@ -1135,6 +1135,15 @@ Si bien hace mucho tiempo que la licitud determinadas armas y otros medios de gu
 
 **El diseño del tercer tramo de la torre de Norman Foster es exactamente lo que acaba de describir el Relator Especial de Naciones Unidas.**
 
+Un arma debe considerarse intrínsecamente cruel, inhumana o degradante, si ha sido concebida específicamente o si, por su naturaleza sirve para:
+
+- emplear fuerza innecesaria, excesiva o de otro modo ilícita contra las personas.
+- infligir dolor y sufrimiento a personas indefensas
+
+Se habla de armas capaces de hacer descargas eléctricas mediante control remoto, cosa que es capaz la torre de Foster, capaces de causar dolor físico sino también emociones constates de extrema angustia y humillación así como el sometimiento completo de la víctima independientemente de la distancia física. 
+
+Los Estados deben tomar medidas legislativas, administrativas, judiciales o de otra índole eficaces para impedir que los actos de tortura y otros tratos o penas crueles, inhumanos o degradantes se produzcan dentro de su jurisdicción. En el contexto actual, esto significa que los Estados deben regular el uso de la fuerza al margen de la detención y establecer otros mecanismos adecuados para asegurar que los agentes del Estado estén capacitados, equipados e instruidos a fin de prevenir la tortura y otros tratos o penas crueles, inhumanos o degradantes en las operaciones de aplicación de la ley.
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
