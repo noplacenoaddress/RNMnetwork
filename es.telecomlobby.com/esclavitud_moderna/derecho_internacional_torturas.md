@@ -1144,6 +1144,8 @@ Se habla de armas capaces de hacer descargas eléctricas mediante control remoto
 
 Los Estados deben tomar medidas legislativas, administrativas, judiciales o de otra índole eficaces para impedir que los actos de tortura y otros tratos o penas crueles, inhumanos o degradantes se produzcan dentro de su jurisdicción. En el contexto actual, esto significa que los Estados deben regular el uso de la fuerza al margen de la detención y establecer otros mecanismos adecuados para asegurar que los agentes del Estado estén capacitados, equipados e instruidos a fin de prevenir la tortura y otros tratos o penas crueles, inhumanos o degradantes en las operaciones de aplicación de la ley.
 
+Esta obligación es particularmente importante a la luz de la aparición y el despliegue constantes de nuevas tecnologías para su utilización en operaciones de aplicación de la ley, incluidos los sistemas menos letales, remotos y crecientemente autónomos.
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
