@@ -1099,6 +1099,14 @@ La tortura está absolutamente prohibida y no puede justificarse en ninguna circ
 
 Atención porqué la esclavitud moderna ha sido pensada para no ser denunciada; quiero decir que las personas son explotadas de forma prácticamente indeterminable diariamente y de forma física ocasionalmente con dilatación de tiempo entra un hecho delictivo u otro. El marco de explotación y esclavitud es de ampliar a varias décadas. Detrás hay genios, probablemente equipos de **premios Nobel** [[262]](https://es.wikipedia.org/wiki/Premio_Nobel). Por esto que en red de monitorio neuronal se habla de cadenas industriales, y yo añado del desgaste personal; cadenas cuyo eje es el tiempo. Cadenas que desgastan, no permiten la felicidad, explotan, derivan al consumo de drogas, llevan a la perdida de la libertad, producen enfermedades mentales. 
 
+Un acto constituye tortura cuando los malos tratos:
+
+- son intencionales; el último año que estuve con Saray fui victima de malos tratos, no entendía el porqué probaba tanto amor por ella y ella se comportaba de esta forma horrible. Ahora lo he entendido, es utilizada por parte de la Mafia Catalana para hacer suicidar empresarios. Pescada hace tiempo, décadas seguramente, con violencia sexual y explotación en la red de monitorio neuronal. Trabaja para hacer estafas entregando su cuerpo por parte de unos panderetas inútiles, uno de ellos un chaval, chacal mejor, de Genova que a los dieciséis vino de mi ciudad para aprender del jefe Catalán.  Detrás la marquesa Francesa. 
+- causan sufrimiento físico o mental grave. Su ida de nuestra casa causo en mi un dolor profundo. De allí todo empezó a non funcionar. Perdí mi empresa. Ahora se que fue todo por el negocio del suicidio. Una serie de situaciones nefastas que llevan al degrado y al consiguiente suicidio, en los cuales traidores juegan a apuestas mutuas incluidas muchas familias nobles. Es un juego de la nobleza donde parásitos que no lo son juegan a matar un amigo y un amor y muy lamentablemente miran callados los mismos familiares. Cinco personas que conozco han muerto así. También los padres de mi dos novias Españolas, Thais y Saray. Ambas utilizadas en la mafia Catalana. Ambas victimas de parricidio para desbloquear en ellas mecanismos mentales que conllevan a la explotación en este negocio del infamia. **Herramientas vendidas en trata de personas** a familia nobles. Thais se ha salvado gracias a su fortaleza, no participa aunque esté en la red neuronal, Saray, más débil enamorada de este chacal Italiano que hace enamorar mujeres de propósito madre o sea bajo coacción explotada sexualmente desde hace décadas y probablemente engañada con dinero ficticio y circundada de hombres que hacen del cuerpo un negocio, ha sido vendida a la marquesa por parte del jefe Catalán. 
+- se cometen con una finalidad u objetivo específicos. El negocio del suicidio y las maquinas de apuestas. Mi padre me prometió que hubieran sido mis años mejores. Otro criminal sin duda ninguna. Probablemente según el follar mujeres explotadas y pescar a nuevas para meterlas en el negocio del suicidio es lo mejor que un hombre pueda hacer en su vida. Para mi es una vergüenza de condenar con **cadena perpetua** [[263]](https://es.wikipedia.org/wiki/Cadena_perpetua). Mujeres sobre excitadas sexualmente a través de armas electromagnéticas que se ven metidas en situaciones excitantes maquinadas por parte de pervertidos, la tratan como vacas. 
+
+Se interpreta al tortura como  el infligir dolor  y sufrimiento físicos o psicológicos de manera intencional y sistemática a fin de castigar, intimidar u obtener información. La tortura puede ser realizada por agentes estatales o no estatales, como en el caso Catalán, al momento de ejercer el control sobre la persona o el grupo de personas en cuestión, el grupo cuatro es de mujeres explotadas por parte de las armas electromagnéticas. Según el Tribunal Europeo de Derechos Humanos, la tortura, a diferencia de otros tratos inhumanos y degradantes, entraña tratos deliberadamente inhumanos que causan sufrimientos muy graves y crueles. Yo, Riccardo Giuntoli, afirmo que las personas que cometen dichos tratos inhumanos a sus veces son torturados. 
+
 
 
 ###   External links 
@@ -1626,6 +1634,8 @@ Atención porqué la esclavitud moderna ha sido pensada para no ser denunciada; 
 261. https://es.wikipedia.org/wiki/Exogeneidad
 
 262. https://es.wikipedia.org/wiki/Premio_Nobel
+
+263. https://es.wikipedia.org/wiki/Cadena_perpetua
 
      
 
