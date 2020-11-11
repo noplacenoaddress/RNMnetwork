@@ -1125,6 +1125,12 @@ La violación sexual puede constituir tortura aun cuando consista en un solo hec
 
 Yo, Riccardo Giuntoli, declaro públicamente que he descubierto el sistema con el cual la tortura es aplicada en Europa: los neuroestimuladores inalámbricos montados desde 1991 en la torre de Collserola, Barcelona.
 
+#### Aplicación de la prohibición a armas y otros medios y métodos
+
+![La torre de Foster](https://telecomlobby.com/Images/metamforfosteritzacion.webp)
+
+La torre de Foster en Barcelona es una arma. Una arma sin declarar. Un chupa sangre. como se ve en esta ilustración que transforma la torre a un mosquito. 
+
 ###   External links 
 
 1. http://es.telecomlobby.com/barcelona_carcelona/maquina_catalana.htm
