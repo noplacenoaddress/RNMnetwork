@@ -1121,7 +1121,15 @@ Un umbral agravado de tortura no implica que el dolor y el sufrimiento infligido
 
 La violación sexual y el **abuso sexual** [[264]](https://es.wikipedia.org/wiki/Abuso_sexual) en la red de esclavitud moderna en un sujeto adulto es cada día a cada hora. Yo soy abusado sexualmente por armas electromagnéticas desde hace tres años, el problema es que la arma funciona según el pensamiento de otras personas, o sea que por ejemplo Saray está pensando en mis genitales para que yo sea abusado. Ella abusa de mi porqué la nobleza quiere que yo abuse de ella. El fin es la cárcel para mi que soy inocente. 
 
-La violación sexual puede constituir tortura aun cuando consista en un solo hecho porqué los elementos objetivos y subjetivos que califican un hecho como tortura no se refieren ni a la acumulación de hechos ni al lugar donde el hecho se realiza, sino a la intencionalidad, la severidad del sufrimiento y a la finalidad del acto. Los Estados al no ofrecer un marco jurídico adecuado contra la violación sexual violan la obligación de proteger a las personas contra la tortura.
+La violación sexual puede constituir tortura aun cuando consista en un solo hecho porqué los elementos objetivos y subjetivos que califican un hecho como tortura no se refieren ni a la acumulación de hechos ni al lugar donde el hecho se realiza, sino a la intencionalidad, la severidad del sufrimiento y a la finalidad del acto. Los Estados al no ofrecer un marco jurídico adecuado contra la violación sexual violan la obligación de proteger a las personas contra la tortura. La victima está indefensa porque está bajo el control físico directo o equivalente del autor, en el caso de la red neuronal, personas que pertenecen a la élite tienen bajo control mujeres a través del utilizo de armas electromagnéticas, las acosan diariamente, lo mismo que hace Saray conmigo, la violan continuamente, y la sobre excitan. Para ella todo esto es normal, pensar desde cuantos años o décadas es violada para pensar a la violación como algo normal. En su caso, y solo por ella, yo no considero esta como violencia sexual aunque esté hecha utilizando armas o sea que si lo es.  Ella, probablemente, no sabe que hay algo detrás, algún mecanismo que se entiende arrancar debido a su comportamiento. Es la mafia de las cadenas de hechos. Se utiliza este método para la creación de otra herramienta humana de utilizar. La instrumentalización deliberada del dolor o sufrimiento, en conjunción de la impotencia de la víctima, constituyen la esencia misma de la tortura y del ataque fundamental a la dignidad humana que representa.
+
+Yo, Riccardo Giuntoli, declaro públicamente que he descubierto el sistema con el cual la tortura es aplicada en Europa: los neuroestimuladores inalámbricos montados desde 1991 en la torre de Collserola, Barcelona.
+
+#### Aplicación de la prohibición a armas y otros medios y métodos
+
+![La torre de Foster](https://telecomlobby.com/Images/metamforfosteritzacion.webp)
+
+La torre de Foster en Barcelona es una arma. Una arma sin declarar. Un chupa sangre. como se ve en esta ilustración que transforma la torre a un mosquito. 
 
 ###   External links 
 
