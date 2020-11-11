@@ -118,6 +118,10 @@ In the remote parimutuel betting neural application a king call you moon, so the
 
 *I just love you.*
 
+![11:11](https://telecomlobby.com/Images/11_11_veterans_day.webp)
+
+11/11 11:11 the solution of the techno fraud.
+
 # External links 
 
 1. https://en.wikipedia.org/wiki/Sedative
