@@ -26,6 +26,16 @@ Cada molécula está compuesta por distintos átomos según el **elemento quími
 
 ![Tabla elementos](https://telecomlobby.com/Images/tabla_elementos.webp)
 
+Una molécula la podemos descomponer en partículas muchos menores llamadas **átomos** [[8]](https://es.wikipedia.org/wiki/%C3%81tomo). Toda la materia que existe en la naturaleza está formada por cuerpos simples denominados elementos. El átomo es la parte más pequeña de estos cuerpos que conserva las características originales de un elemento cualquiera.
+
+Para entender la **electricidad** [[9]](https://es.wikipedia.org/wiki/Electricidad) hay que estudiar átomo y componentes.
+
+Cada átomo consta de dos partes el núcleo y la corteza, el núcleo está cargado con carga eléctrica positiva y se compone básicamente de **protones** [[10]](https://es.wikipedia.org/wiki/Prot%C3%B3n), partículas con carga positiva, y **neutrones** [[11]](https://es.wikipedia.org/wiki/Neutr%C3%B3n), partículas con **masa** [[12]](https://es.wikipedia.org/wiki/Masa) pero sin **carga** [[13]](https://es.wikipedia.org/wiki/Carga_el%C3%A9ctrica). Alrededor del núcleo, existen una o más capas, cuyo conjunto se denomina corteza, donde describen órbitas a gran velocidad los **electrones** [[14]](https://es.wikipedia.org/wiki/Electr%C3%B3n), partículas de carga negativa fuertemente atraídos por la carga positiva de este y resulta extremadamente difícil cambiarlos de órbita; los de las órbitas exteriores pueden llegar a abandonar un átomo para pasar a otro, o bien quedar como electrones libres.
+
+#### 1.1.3 Ionización o electrización. Carga eléctrica.
+
+![Ionización](https://telecomlobby.com/Images/tabla_ionizacion.webp)
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -35,3 +45,10 @@ Cada molécula está compuesta por distintos átomos según el **elemento quími
 5. https://es.wikipedia.org/wiki/Calor
 6. https://es.wikipedia.org/wiki/Fr%C3%ADo
 7. https://es.wikipedia.org/wiki/Elemento_qu%C3%ADmico
+8. https://es.wikipedia.org/wiki/%C3%81tomo
+9. https://es.wikipedia.org/wiki/Electricidad
+10. https://es.wikipedia.org/wiki/Prot%C3%B3n
+11. https://es.wikipedia.org/wiki/Neutr%C3%B3n
+12. https://es.wikipedia.org/wiki/Masa
+13. https://es.wikipedia.org/wiki/Carga_el%C3%A9ctrica
+14. https://es.wikipedia.org/wiki/Electr%C3%B3n
