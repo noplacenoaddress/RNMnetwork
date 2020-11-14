@@ -112,6 +112,22 @@ La **corriente continua** [[33]](https://es.wikipedia.org/wiki/Corriente_continu
 
 La **corriente alterna** [[35]](https://es.wikipedia.org/wiki/Corriente_alterna) a la corriente eléctrica en la que la magnitud y dirección varían cíclicamente.
 
+Para que circule la corriente eléctrica deben desplazarse los electrones, lo que precisa una fuerza que los empuje la llamada **fuerza electromotriz** [[36]](https://es.wikipedia.org/wiki/Fuerza_electromotriz) que es producida por una diferencia de potencial o **voltaje** [[37]](https://bit.ly/36B9Hgz).
+
+La intensidad de una corriente eléctrica depende, para una misma diferencia de potencial, del diámetro del **conductor** [[38]](https://es.wikipedia.org/wiki/Conductor_el%C3%A9ctrico), que opone siempre una **resistencia** [[39]](https://es.wikipedia.org/wiki/Resistencia_el%C3%A9ctrica).
+
+Podemos hacer una comparación de términos entre **hidráulica** [[40]](https://es.wikipedia.org/wiki/Hidr%C3%A1ulica) y electricidad:
+
+- Desnivel; diferencia de potencial.
+- **Fuerza hidráulica** [[41]](https://bit.ly/2IxeKX7); fuerza electromotriz.
+- Tubería; conductor.
+- Caudal de agua; intensidad de corriente
+- Partículas de agua; electrones. 
+
+Existen seis formas elementales de producción de corriente eléctrica. 
+
+Un **circuito eléctrico** [[42]](https://es.wikipedia.org/wiki/Circuito) es un conjunto de conductores por el que circula la corriente eléctrica y en el cual hay intercalados, generalmente, elementos productores y consumidores de la misma.
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -183,5 +199,19 @@ La **corriente alterna** [[35]](https://es.wikipedia.org/wiki/Corriente_alterna)
 34. https://bit.ly/3nqudHw
 
 35. https://es.wikipedia.org/wiki/Corriente_alterna
+
+36. https://es.wikipedia.org/wiki/Fuerza_electromotriz
+
+37. https://bit.ly/36B9Hgz
+
+38. https://es.wikipedia.org/wiki/Conductor_el%C3%A9ctrico
+
+39. https://es.wikipedia.org/wiki/Resistencia_el%C3%A9ctrica
+
+40. https://es.wikipedia.org/wiki/Hidr%C3%A1ulica
+
+41. https://bit.ly/2IxeKX7
+
+42. https://es.wikipedia.org/wiki/Circuito
 
     
