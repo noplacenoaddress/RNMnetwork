@@ -16,9 +16,15 @@ Están en continuo movimiento y entre ellas existen fuerzas atractivas y repulsi
 - **Líquidos** [[3]](https://es.wikipedia.org/wiki/L%C3%ADquido), equilibradas.
 - **Gases** [[4]](https://es.wikipedia.org/wiki/Gas), repulsivas.
 
-Mediante **calor** [[5]](https://es.wikipedia.org/wiki/Calor) podemos pasar de estado sólido a líquido y de líquido a gaseoso. Mediante el **frío** [6] el revés. 
+Mediante **calor** [[5]](https://es.wikipedia.org/wiki/Calor) podemos pasar de estado sólido a líquido y de líquido a gaseoso. Mediante el **frío** [[6]](https://es.wikipedia.org/wiki/Fr%C3%ADo) el revés. 
 
 > En la red de neuroestimuladores inalámbricos que ven individuos objetivo como clientes del complejo sistema de radio que la compone muchas veces se puede apreciar algo parecido a humo sobresalir de nuestro cuerpo. Es muy posible que los ingenieros que hayan programado este magnifico sistema de radio quieran representar un flujo de calor desde el interior del cuerpo humano hacía fuera. Por esto en red neuronal mensajería subliminal se habla de «maquina a vapor».
+
+Cada molécula está compuesta por distintos átomos según el **elemento químico** [[7]](https://es.wikipedia.org/wiki/Elemento_qu%C3%ADmico) que constituyan.
+
+#### 1.1.2 Átomo
+
+![Tabla elementos](https://telecomlobby.com/Images/tabla_elementos.webp)
 
 ### External links
 
@@ -26,3 +32,6 @@ Mediante **calor** [[5]](https://es.wikipedia.org/wiki/Calor) podemos pasar de e
 2. https://es.wikipedia.org/wiki/S%C3%B3lido
 3. https://es.wikipedia.org/wiki/L%C3%ADquido
 4. https://es.wikipedia.org/wiki/Gas
+5. https://es.wikipedia.org/wiki/Calor
+6. https://es.wikipedia.org/wiki/Fr%C3%ADo
+7. https://es.wikipedia.org/wiki/Elemento_qu%C3%ADmico
