@@ -98,7 +98,13 @@ $$
 V = \frac{F}{q}\\
 \end{align*}
 $$
+Se puede representar el potencial eléctrico mediante las denominadas **superficies equipotenciales** [[32]](https://es.wikipedia.org/wiki/Superficie_equipotencial), que son el lugar geométrico de los puntos del espacio en los que el potencial tiene un mismo valor o, dicho de otra manera, las superficies en las que todos sus puntos de un campo de fuerza que tienen el mismo potencial.
 
+#### 1.2 Teoría eléctrica. 
+
+#### 1.2.1 Corriente eléctrica, voltaje y resistencia. Circuito eléctrico.
+
+![circuito simbolos](https://telecomlobby.com/Images/circuito_simbolos.webp)
 
 ### External links
 
@@ -163,5 +169,7 @@ $$
 30. https://es.wikipedia.org/wiki/Apantallamiento_el%C3%A9ctrico
 
 31. https://es.wikipedia.org/wiki/Potencial_el%C3%A9ctrico
+
+32. https://es.wikipedia.org/wiki/Superficie_equipotencial
 
     
