@@ -157,6 +157,12 @@ Is my father connected to the Barcelona Mafia chief that have organised my stalk
 
 ![My father](https://telecomlobby.com/Images/myfather_mafia.jpg)
 
+This is my father saying to me that I cannot go ahead with my work of public compliant in Internet about the suicide business Mafia that I'm in. He says that I've only to go ahead with my work and to not dedicate 1/2 day to this full disclosure. I've understand all about, and is a crime against humanity. I'm victim of nobility and Mafia. My parents doesn't help me because probably is something older than me, something that isn't about me. Perhaps I'm victim of child trafficking. Perhaps. Or probably it can be child trafficking of more than a generation.
+
+![14112020](https://telecomlobby.com/Images/myfather_obsession.webp)
+
+
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
