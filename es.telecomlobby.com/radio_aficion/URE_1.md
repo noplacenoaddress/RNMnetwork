@@ -52,7 +52,11 @@ Un **semiconductor** [[17]](https://es.wikipedia.org/wiki/Semiconductor) es un e
 
 #### 1.1.5 Conductividad.
 
+Propiedad que tienen los cuerpos o las sustancias de transmitir de un punto a otro de su masa el calor o la electricidad.
 
+La **Comisión Electrotécnica Internacional** [[18]](https://www.iec.ch/) definió como patrón de la conductividad eléctrica la de un hilo de cobre de 1 metro de longitud y un gramo de masa, que da una resistencia de 0,15388 Ω a 20 °C a lo cual asignó una **conductividad eléctrica** [[19]](https://es.wikipedia.org/wiki/Conductividad_el%C3%A9ctrica) de 100% IACS, a toda **aleación** [[20]](https://es.wikipedia.org/wiki/Aleaci%C3%B3n) de cobre con una conductividad mayor se le denomina de alta conductividad.
+
+**Conductancia** [[21]](https://es.wikipedia.org/wiki/Conductancia_el%C3%A9ctrica) es la medida de la facilidad con que la electricidad fluye a través de un circuito o de un objeto. La unidad de medida de conductancia es el **Siemens** [[22]](https://es.wikipedia.org/wiki/Siemens_(unidad)) y de la conductividad el Siemens/m.
 
 ### External links
 
@@ -73,3 +77,8 @@ Un **semiconductor** [[17]](https://es.wikipedia.org/wiki/Semiconductor) es un e
 15. https://es.wikipedia.org/wiki/Ion
 16. https://es.wikipedia.org/wiki/Corriente_el%C3%A9ctrica
 17. https://es.wikipedia.org/wiki/Semiconductor
+18. https://www.iec.ch/
+19. https://es.wikipedia.org/wiki/Conductividad_el%C3%A9ctrica
+20. https://es.wikipedia.org/wiki/Aleaci%C3%B3n
+21. https://es.wikipedia.org/wiki/Conductancia_el%C3%A9ctrica
+22. https://es.wikipedia.org/wiki/Siemens_(unidad)
