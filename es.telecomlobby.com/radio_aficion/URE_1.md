@@ -66,27 +66,102 @@ Conductancia = \frac{λxsuperficie(cm^2)}{longitud(cm)}\\
 \end{align*}
 $$
 
+La inversa de la conductividad es la **resistividad** [[23]](https://es.wikipedia.org/wiki/Resistividad) que expresa la **resistencia** [[24]](https://es.wikipedia.org/wiki/Resistencia_el%C3%A9ctrica) de un conductor de las medidas antes mencionadas, que es la inversa de la conductancia, la temperatura del conductor influye en la resistencia, si aumenta la resistencia también lo hará y viceversa; ocurre en los cuerpos conductores; en los semiconductores el fenómeno es inverso.
+
+#### 1.1.6 campo eléctrico: intensidad de campo. Unidad de campo: voltios/metro. Potencial. Apantallamiento de campos eléctricos.
+
+Una carga eléctrica es la cantidad de electricidad acumulada en un cuerpo y se mide en una unidad denominada **Culombio** [[25]](https://es.wikipedia.org/wiki/Culombio) que equivale a:
+$$
+\begin{align*}
+C = 6,24x10^{18} electrones\\
+\end{align*}
+$$
+En cualquier punto del espacio en donde exista una carga eléctrica se origina un **campo eléctrico** [[26]](https://es.wikipedia.org/wiki/Campo_el%C3%A9ctrico) que se manifiesta, experimentalmente, por la fuerza de origen eléctrico a que se halla sometida cualquier carga que se sitúe en el otro punto de su alrededor.
+
+La **ley de Coulomb** [[27]](https://es.wikipedia.org/wiki/Ley_de_Coulomb) dice que el valor de la fuerza con que se atraen o se repelen dos cargas puntuales en reposo es directamente proporcional al producto de dichas cargas e inversamente proporcional al cuadrado de la distancia que las separa:
+$$
+\begin{align*}
+F = k\frac{q_1q_2}{d^2}\\
+\end{align*}
+$$
+estando la carga q1 situada en un punto P a una distancia d de otra carga puntual q2. La intensidad del **campo eléctrico** [[28]](https://es.wikipedia.org/wiki/Campo_el%C3%A9ctrico) en un punto se define como la fuerza ejercida sobre la unidad de carga eléctrica positiva colocada en el citado punto, y viene dada por la expresión:
+$$
+\begin{align*}
+E = \frac{F}{q_2}=k\frac{q_1}{q_2}\\
+\end{align*}
+$$
+La intensidad del campo eléctrico, en un punto dado, se mide en **voltios** [[29]](https://es.wikipedia.org/wiki/Voltio) partido por metro.
+
+Si interponemos entre un campo eléctrico y un punto dado una pantalla de material conductor, el citado punto no recibe la influencia del campo eléctrico. Este efecto se conoce como **apantallamiento** [[30]](https://es.wikipedia.org/wiki/Apantallamiento_el%C3%A9ctrico) o blindaje. El **potencial eléctrico** [[31]](https://es.wikipedia.org/wiki/Potencial_el%C3%A9ctrico) en un punto es el trabajo que debe realizar una fuerza eléctrica para mover una carga positiva q desde el infinito con potencial cero hasta ese punto, dividido por dicha carga. Es el trabajo que debe realizar una fuerza externa para traer una carga unitaria q desde el infinito hasta el punto considerado en contra de la fuerza eléctrica dividido por esa carga:
+$$
+\begin{align*}
+V = \frac{F}{q}\\
+\end{align*}
+$$
+
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
+
 2. https://es.wikipedia.org/wiki/S%C3%B3lido
+
 3. https://es.wikipedia.org/wiki/L%C3%ADquido
+
 4. https://es.wikipedia.org/wiki/Gas
+
 5. https://es.wikipedia.org/wiki/Calor
+
 6. https://es.wikipedia.org/wiki/Fr%C3%ADo
+
 7. https://es.wikipedia.org/wiki/Elemento_qu%C3%ADmico
+
 8. https://es.wikipedia.org/wiki/%C3%81tomo
+
 9. https://es.wikipedia.org/wiki/Electricidad
+
 10. https://es.wikipedia.org/wiki/Prot%C3%B3n
+
 11. https://es.wikipedia.org/wiki/Neutr%C3%B3n
+
 12. https://es.wikipedia.org/wiki/Masa
+
 13. https://es.wikipedia.org/wiki/Carga_el%C3%A9ctrica
+
 14. https://es.wikipedia.org/wiki/Electr%C3%B3n
+
 15. https://es.wikipedia.org/wiki/Ion
+
 16. https://es.wikipedia.org/wiki/Corriente_el%C3%A9ctrica
+
 17. https://es.wikipedia.org/wiki/Semiconductor
+
 18. https://www.iec.ch/
+
 19. https://es.wikipedia.org/wiki/Conductividad_el%C3%A9ctrica
+
 20. https://es.wikipedia.org/wiki/Aleaci%C3%B3n
+
 21. https://es.wikipedia.org/wiki/Conductancia_el%C3%A9ctrica
+
 22. https://es.wikipedia.org/wiki/Siemens_(unidad)
+
+23. https://es.wikipedia.org/wiki/Resistividad
+
+24. https://es.wikipedia.org/wiki/Resistencia_el%C3%A9ctrica
+
+25. https://es.wikipedia.org/wiki/Culombio
+
+26. https://es.wikipedia.org/wiki/Campo_el%C3%A9ctrico
+
+27. https://es.wikipedia.org/wiki/Ley_de_Coulomb
+
+28. https://es.wikipedia.org/wiki/Campo_el%C3%A9ctrico
+
+29. https://es.wikipedia.org/wiki/Voltio
+
+30. https://es.wikipedia.org/wiki/Apantallamiento_el%C3%A9ctrico
+
+31. https://es.wikipedia.org/wiki/Potencial_el%C3%A9ctrico
+
+    
