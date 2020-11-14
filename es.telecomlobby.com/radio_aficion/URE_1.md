@@ -36,6 +36,16 @@ Cada átomo consta de dos partes el núcleo y la corteza, el núcleo está carga
 
 ![Ionización](https://telecomlobby.com/Images/tabla_ionizacion.webp)
 
+Si no sometidos a la acción de ninguna fuerza externa el átomo es neutro del punto de vista eléctrico. Si perdiese electrones, quedaría cargado positivamente y se denominaría **ion** [[15]](https://es.wikipedia.org/wiki/Ion) positivo, al revés o sea con un exceso de electrones tiene carga negativa y tendremos un ion negativo.
+
+La carga eléctrica es un estado de desequilibrio entre el número de electrones y protones; los cuerpos con cargas de distinto signo se atraen entre sí mientras que los que poseen el mismo tipo de carga se repelen. 
+
+#### 1.1.4 Conductores, semiconductores y aislantes.
+
+Las capas más externas de la corteza del átomo si no están semillenas o sea a tener menos del 50% de su capacidad de electrones existe el peligro de abandono de estos en dichas capas; toman el nombre de electrones libres. Un cuerpo conductor de electricidad es una sustancia compuesta por átomos cuya capa más externa no llega a estar semillena de electrones asegurando así el paso de la **corriente** [[16]](https://es.wikipedia.org/wiki/Corriente_el%C3%A9ctrica) que otra cosa no es que un flujo de electrones libres desde un cuerpo con carga negativa a otro con carga positiva.
+
+
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -52,3 +62,5 @@ Cada átomo consta de dos partes el núcleo y la corteza, el núcleo está carga
 12. https://es.wikipedia.org/wiki/Masa
 13. https://es.wikipedia.org/wiki/Carga_el%C3%A9ctrica
 14. https://es.wikipedia.org/wiki/Electr%C3%B3n
+15. https://es.wikipedia.org/wiki/Ion
+16. https://es.wikipedia.org/wiki/Corriente_el%C3%A9ctrica
