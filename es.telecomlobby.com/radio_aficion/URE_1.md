@@ -106,6 +106,12 @@ Se puede representar el potencial eléctrico mediante las denominadas **superfic
 
 ![circuito simbolos](https://telecomlobby.com/Images/circuito_simbolos.webp)
 
+Se denomina corriente eléctrica al paso de electrones a lo largo de un conductor que une dos puntos con distinta carga eléctrica. 
+
+La **corriente continua** [[33]](https://es.wikipedia.org/wiki/Corriente_continua) es un flujo continuo de electrones a través de un conductor entre dos puntos de distinto potencial y sus valores son constantes, las cargas eléctricas circulan siempre en la misma dirección; es continua toda corriente que mantenga la misma **polaridad** [[34]](https://bit.ly/3nqudHw).
+
+La **corriente alterna** [[35]](https://es.wikipedia.org/wiki/Corriente_alterna) a la corriente eléctrica en la que la magnitud y dirección varían cíclicamente.
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -171,5 +177,11 @@ Se puede representar el potencial eléctrico mediante las denominadas **superfic
 31. https://es.wikipedia.org/wiki/Potencial_el%C3%A9ctrico
 
 32. https://es.wikipedia.org/wiki/Superficie_equipotencial
+
+33. https://es.wikipedia.org/wiki/Corriente_continua
+
+34. https://bit.ly/3nqudHw
+
+35. https://es.wikipedia.org/wiki/Corriente_alterna
 
     
