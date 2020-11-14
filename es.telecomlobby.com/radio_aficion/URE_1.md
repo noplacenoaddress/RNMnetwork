@@ -58,6 +58,19 @@ La **Comisión Electrotécnica Internacional** [[18]](https://www.iec.ch/) defin
 
 **Conductancia** [[21]](https://es.wikipedia.org/wiki/Conductancia_el%C3%A9ctrica) es la medida de la facilidad con que la electricidad fluye a través de un circuito o de un objeto. La unidad de medida de conductancia es el **Siemens** [[22]](https://es.wikipedia.org/wiki/Siemens_(unidad)) y de la conductividad el Siemens/m.
 
+Siendo lambda λ un coeficiente de conductividad propio de cada materia podemos expresar la conductancia como 
+
+$$
+\begin{align*}
+y = y(x,t) &= A e^{i\theta} \\
+&= A (\cos \theta + i \sin \theta) \\
+&= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \\
+&= A\cos(kx - \omega t) + i A\sin(kx - \omega t)  \\
+&= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big)  \\
+&= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t)
+\end{align*}
+$$
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
