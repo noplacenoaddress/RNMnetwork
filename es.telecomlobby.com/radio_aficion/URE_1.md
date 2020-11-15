@@ -196,6 +196,8 @@ El conjunto de dichos anillos nos da la lectura del número de ohmios de la resi
 
 #### 1.2.6 Disipación de potencia en las resistencias
 
+Una resistencia se intercala en un circuito para obstaculizar el paso de la corriente y transformar en calor el voltaje que no necesitamos ne un punto dado. Se conoce como **efecto Joule** [[49]](https://es.wikipedia.org/wiki/Efecto_Joule). Todo conducto por lo que circula una corriente experimenta un aumento de su temperatura.
+
 
 
 ### External links
@@ -295,5 +297,7 @@ El conjunto de dichos anillos nos da la lectura del número de ohmios de la resi
 47. https://bit.ly/3eZMHfb
 
 48. https://es.wikipedia.org/wiki/Galvan%C3%B3metro
+
+49. https://es.wikipedia.org/wiki/Efecto_Joule
 
     
