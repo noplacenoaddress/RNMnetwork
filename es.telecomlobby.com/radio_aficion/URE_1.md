@@ -151,6 +151,43 @@ La unidad de resistencia es el ohmio Ω. representa la resistencia de un conduct
 
 #### 1.2.3 Ley de Ohm
 
+Al pasar una corriente I por una resistencia R se produce una caída de tensión o ddp que se expresa con la fórmula:
+$$
+\begin{align*}
+E = IxR
+\end{align*}
+$$
+Si aumenta la resistencia disminuye la intensidad y viceversa.
+
+#### 1.2.4 Aplicación de la Ley de Ohm. Resistencias. Agrupación de resistencias.
+
+Si tomamos dos conductores de la misma forma y tamaño pero de distintos materiales y les aplicamos una misma fem, las corrientes que circularán serán distintas, porque cada material, al tener una conductividad distinta, tiene una resistencia al paso de la corriente diferente.
+
+Una resistencia es un elemento o componente de un circuito eléctrico formado por un encapsulado de material que una cierta cantidad de resistencia y con dos rabillos o puntos para su conexión a un circuito.
+
+Las resistencias pueden agruparse en serie, en paralelo o combinando ambas formas. El cálculo de la resistencia resultante se realiza aplicando la Ley de Ohm. En el caso de resistencia conectadas en serie la resistencia del conjunto es la suma de los valores de cada una de ellas
+$$
+\begin{align*}
+R = R_1+R_2+R_3
+\end{align*}
+$$
+La intensidad que pasa por cada una de ellas es igual a la del conjunto:
+$$
+\begin{align*}
+I = I_1 = I_2 = I_3
+\end{align*}
+$$
+En el caso de resistencias conectadas en paralelo, la del conjunto es menor que la de cada una de ellas. La intensidad es inversamente proporcional a su valor.
+$$
+\begin{align*}
+R = \frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}}\\\\
+I = I_1+I_2+I_3
+\end{align*}
+$$
+Un **shunt** [[47]](https://bit.ly/3eZMHfb) es una resistencia acoplada en paralelo con cualquier elemento de un circuito para derivar corriente por ella. Una aplicación típica son los aparatos de medida que soportan poca intensidad de corriente, **galvanómetro** [[48]](https://es.wikipedia.org/wiki/Galvan%C3%B3metro) G, por lo que es preciso limitar ésta adoptando una resistencia en paralelo Rs.
+
+
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -244,5 +281,9 @@ La unidad de resistencia es el ohmio Ω. representa la resistencia de un conduct
 45. https://es.wikipedia.org/wiki/Amperio
 
 46. https://es.wikipedia.org/wiki/Ohmio
+
+47. https://bit.ly/3eZMHfb
+
+48. https://es.wikipedia.org/wiki/Galvan%C3%B3metro
 
     
