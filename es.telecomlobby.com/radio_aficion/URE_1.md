@@ -184,7 +184,13 @@ R = \frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}}\\\\
 I = I_1+I_2+I_3
 \end{align*}
 $$
-Un **shunt** [[47]](https://bit.ly/3eZMHfb) es una resistencia acoplada en paralelo con cualquier elemento de un circuito para derivar corriente por ella. Una aplicación típica son los aparatos de medida que soportan poca intensidad de corriente, **galvanómetro** [[48]](https://es.wikipedia.org/wiki/Galvan%C3%B3metro) G, por lo que es preciso limitar ésta adoptando una resistencia en paralelo Rs.
+Un **shunt** [[47]](https://bit.ly/3eZMHfb) es una resistencia acoplada en paralelo con cualquier elemento de un circuito para derivar corriente por ella. Una aplicación típica son los aparatos de medida que soportan poca intensidad de corriente, **galvanómetro** [[48]](https://es.wikipedia.org/wiki/Galvan%C3%B3metro) G, por lo que es preciso limitar ésta adoptando una resistencia en paralelo Rs. 
+
+#### 1.2.5 Código de colores de las resistencias.
+
+![resistencias](https://telecomlobby.com/Images/banda_colores_resistencias.webp)
+
+Permite indicar su valor en ohmios mediante bandas de colores.
 
 
 
