@@ -192,6 +192,10 @@ Un **shunt** [[47]](https://bit.ly/3eZMHfb) es una resistencia acoplada en paral
 
 Permite indicar su valor en ohmios mediante bandas de colores.
 
+El conjunto de dichos anillos nos da la lectura del número de ohmios de la resistencia. La tolerancia de una resistencia expresa los márgenes alrededor de los cuales puede variar su valor. A mayor precisión, menor tolerancia.
+
+#### 1.2.6 Disipación de potencia en las resistencias
+
 
 
 ### External links
