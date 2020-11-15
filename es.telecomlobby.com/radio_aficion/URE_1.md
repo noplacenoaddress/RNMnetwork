@@ -128,6 +128,29 @@ Existen seis formas elementales de producción de corriente eléctrica.
 
 Un **circuito eléctrico** [[42]](https://es.wikipedia.org/wiki/Circuito) es un conjunto de conductores por el que circula la corriente eléctrica y en el cual hay intercalados, generalmente, elementos productores y consumidores de la misma.
 
+#### 1.2.2 Unidades eléctricas fundamentales: voltios, amperios y ohmios
+
+El voltaje es la presión eléctrica o diferencia del nivel de cargas que existe entre dos puntos como resultado de la presencia de una **fuerza electromotriz** [[43]](https://es.wikipedia.org/wiki/Fuerza_electromotriz) entra ellos. Para medirla se utiliza el **Voltio** [[44]](https://es.wikipedia.org/wiki/Voltio); 1 V es la fuerza electromotriz necesaria para producir una corriente de 1 **amperio** [[45]](https://es.wikipedia.org/wiki/Amperio) en un circuito cuya resistencia sea de 1 **ohmio** [[46]](https://es.wikipedia.org/wiki/Ohmio):
+$$
+\begin{align*}
+Voltios = amperios x ohmios
+\end{align*}
+$$
+Un **kilovoltio** son 1000 voltios. Un **milivoltio** es la milésima parte de un voltio y el **microvoltio μV** es la millonésima parte del voltio.
+
+La corriente eléctrica es el flujo o movimiento de los electrones a través de un conductor como consecuencia de la aplicación de una tensión o diferencia de potencial, la intensidad de corriente es el amperio que corresponde al paso de una carga de un culombio durante un segundo:
+$$
+\begin{align*}
+I = \frac{q}{t}\\\\
+Amperio = \frac{Culombio}{segundo}
+\end{align*}
+$$
+La resistencia es la dificultad o facilidad que encuentra la corriente eléctrica para circular a través de un material.
+
+La unidad de resistencia es el ohmio Ω. representa la resistencia de un conductor en el que, con una diferencia de potencial aplicada en sus extremos de 1 V circula una corriente de 1 A de intensidad.
+
+#### 1.2.3 Ley de Ohm
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -213,5 +236,13 @@ Un **circuito eléctrico** [[42]](https://es.wikipedia.org/wiki/Circuito) es un 
 41. https://bit.ly/2IxeKX7
 
 42. https://es.wikipedia.org/wiki/Circuito
+
+43. https://es.wikipedia.org/wiki/Fuerza_electromotriz
+
+44. https://es.wikipedia.org/wiki/Voltio
+
+45. https://es.wikipedia.org/wiki/Amperio
+
+46. https://es.wikipedia.org/wiki/Ohmio
 
     
