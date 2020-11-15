@@ -196,7 +196,23 @@ El conjunto de dichos anillos nos da la lectura del número de ohmios de la resi
 
 #### 1.2.6 Disipación de potencia en las resistencias
 
-Una resistencia se intercala en un circuito para obstaculizar el paso de la corriente y transformar en calor el voltaje que no necesitamos ne un punto dado. Se conoce como **efecto Joule** [[49]](https://es.wikipedia.org/wiki/Efecto_Joule). Todo conducto por lo que circula una corriente experimenta un aumento de su temperatura.
+Una resistencia se intercala en un circuito para obstaculizar el paso de la corriente y transformar en calor el voltaje que no necesitamos ne un punto dado. Se conoce como **efecto Joule** [[49]](https://es.wikipedia.org/wiki/Efecto_Joule). Todo conducto por lo que circula una corriente experimenta un aumento de su temperatura. La ley de joule enuncia que la cantidad de calor desprendida en un conductor por el paso de una corriente constante es proporcional al cuadrado de la intensidad de la corriente, a la resistencia del conductor y al tiempo que dure el paso. se llama potencia de disipación, medidas en vatios, al producto del votake por la intensidad que ha de circular por la resistencia:
+$$
+\begin{align*}
+P = V xI
+\end{align*}
+$$
+Si la resistencia disipa una potencia mayor que aquélla para la que está preparada, se quema, cortándose el hilo del que está hecha o fundiéndose el material resistivo. Disipación máxima es la potencia calorífica que podemos suministrar a un resistencia sin que la temperatura se eleve peligrosamente.
+
+Los valores de disipación de potencia más frecuentes de las resistencias son los de 0,125W, 0,25W, 0,5W y 1 W.
+
+#### 1.2.7 Coeficientes negativos y positivos de temperatura NTP y PTC
+
+Un **termistor** [[50]](https://es.wikipedia.org/wiki/Termistor) NTC es una resistencia cuyo valor se va reduciendo a medida que aumenta la temperatura. Análogamente a un NTC un termistor PTC es una resistencia cuyo valor va aumentando a medida que aumenta la temperatura.
+
+#### 1.2.8 Otros tipos de resistencias.
+
+Una resistencia ajustable permite fijar su valor dentro de un rango mediante una abrazadera móvil en contacto con el elemento resistivo. Un **reóstato** [[51]]() es una resistencia variable que se usa en los circuitos de gran consumo, empleándose para regular la corriente en máquinas y motores. Un **potenciómetro** [[52]](https://es.wikipedia.org/wiki/Potenci%C3%B3metro) es una resistencia variable que puede ser variada por el usuario para realizar cualquier función.
 
 
 
@@ -299,5 +315,11 @@ Una resistencia se intercala en un circuito para obstaculizar el paso de la corr
 48. https://es.wikipedia.org/wiki/Galvan%C3%B3metro
 
 49. https://es.wikipedia.org/wiki/Efecto_Joule
+
+50. https://es.wikipedia.org/wiki/Termistor
+
+51. https://es.wikipedia.org/wiki/Reostato
+
+52. https://es.wikipedia.org/wiki/Potenci%C3%B3metro
 
     
