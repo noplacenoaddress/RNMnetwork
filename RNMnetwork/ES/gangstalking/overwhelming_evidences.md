@@ -163,6 +163,10 @@ This is my father saying to me that I cannot go ahead with my work of public com
 
 
 
+On 18 of November 2020 this is my father saying that I've got obsessions, obviously he is guilty about the systematic destruction of my life and something else. I don't really know this and this is a tragedy.
+
+ ![18112020 Whatsup](https://telecomlobby.com/Images/mauro18112020.jpg)
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
