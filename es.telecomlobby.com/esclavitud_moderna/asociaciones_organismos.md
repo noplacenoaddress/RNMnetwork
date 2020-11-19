@@ -158,6 +158,9 @@ Participan varias organizaciones mundiales, entra las cuales en suelo Europeo:
 - **IFHHRO, Amsterdam** [[30]](https://www.ifhhro.org/)
 - **IRCT, Copenhagen** [[31]](https://irct.org/)
 - **Fundación Johannes Wier, Amsterdam** [[32]](https://www.johannes-wier.nl/english/) 
+- **Relator Espacial, SRTorture, Ginebra** [[33]](https://ohchr.org/EN/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx) 
+- **Freedom from torture, Londres** [[34]](https://www.freedomfromtorture.org/)
+- **Asociación médica mundial, Ferney-Voltaire** [[35]](https://www.wma.net/es/)
 
 ###  External links 
 
@@ -224,6 +227,14 @@ Participan varias organizaciones mundiales, entra las cuales en suelo Europeo:
 31. https://irct.org/
 
 32. https://www.johannes-wier.nl/english/
+
+33. https://ohchr.org/EN/Issues/Torture/SRTorture/Pages/SRTortureIndex.aspx
+
+34. https://www.freedomfromtorture.org/
+
+35. https://www.wma.net/es/
+
+    
 
     
 
