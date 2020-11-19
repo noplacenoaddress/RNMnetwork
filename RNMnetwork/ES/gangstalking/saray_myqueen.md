@@ -92,6 +92,12 @@ Why?
 
 This is very difficult to understand but it's without any doubt something related to Catholic Church. But in reality what is the real point of interest? It's obvious money. I think that me and Saray in our lineage tree got something very important and very precious. We are certainly owners of something whose existence we totally ignore. They tortured us electronically as well as they deprived me of any material goods and sold her as a prostitute to her, constantly threatening her with her minor daughter. It's a scandal. We both thirst for justice because the state is and always will be a **secular** [[9]](https://en.wikipedia.org/wiki/Secular_state) institution. 
 
+Saray is a victim of two nobles houses because her surname, those monster have played with her brain like a person that wrote books have described in a licterature way, without speaking about the technology. I've understand that those criminals use electronic weapons mounted upon the third part of the Norman Foster tower in Collserola, Barcelona. They do brain washing because of sexual harrassment to create a woman that is a totally slave by the elite to do extreme sex orgies and whatever they want, like suicide people that she fall in love with:
+
+![Miesha Johnston](https://telecomlobby.com/Images/saray_masonry.webp)
+
+In her playlist in youtube she put videos of onvis, an absurdity that doesn't exist. They brainwash her. She doesn't reply to me. Never.
+
 ### How is used in the digital Mafia?
 
 ![Saray](http://telecomlobby.com/Images/20130627_185422.jpg)
