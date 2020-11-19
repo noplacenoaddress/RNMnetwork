@@ -176,6 +176,10 @@ Este manual ha sido escrito para que los Estados protejan obligadamente los indi
 
 *Yo, Riccardo Giuntoli, alego ser victima de tortura en su forma de cibertortura y tortura sin rasgos desde Noviembre 2017 y de malos tratos desde el año 2015.*
 
+#### Capitulo 1, estándares legales internacionales relevantes. 
+
+![](https://telecomlobby.com/Images/enstandares_legales_internacionales.webp)
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
