@@ -164,6 +164,18 @@ Participan varias organizaciones mundiales, entra las cuales en suelo Europeo:
 
 Lamentablemente, no hay ni una asociación Española como tampoco Italiana. Ni siquiera un representante en ninguna de ellas. Absurdo y abrumador, indica como los dos países uno por la Corona el otro por el Vaticano no sean interesados en erradicar la tortura. Lo que hay que subrayar es que ambos obligadamente han sellado los varios tratados y convenciones internacionales para la lucha a la tortura pero no hay ningún tipo de actuación sería por parte de los organismos internacionales acerca de la cibertortura,  instrumento de la tecnocracia un estado terrorista basado en la aristocracia.
 
+#### Introducción 
+
+El propósito de la tortura es destruir no únicamente el plan emotivo y físico de las personas pero también la dignidad y el querer de comunidades enteras. 
+
+En el caso de los maquinistas, personas utilizadas en la banda de actores no estatales por parte del jefe de la Mafia Catalana, es absolutamente clara esta última afirmación. Se le destruye la dignidad para obtener que pasen de torturados a torturadores, Saray es una de ellos.
+
+La tortura es algo que abarca todo el genero humano porqué va en contra del real significado de nuestra especie y destruye las esperanzas para un futuro mejor.  
+
+Este manual ha sido escrito para que los Estados protejan obligadamente los individuos de la tortura. La documentación es aplicable también en otros contextos como investigaciones sobre infracciones de derechos humanos y rutinas de monitorio del correcto funcionamiento del marco internacional aplicado en legislación local. Este manual también representa un punto de referencia a nivel internacional por profesionales médicos que tienen que documentar casos de torturas. Sirve como guía para evaluar personas que aleguen ser victimas de torturas y malos tratos, y para reportar hallazgos a la justicia u a otros cuerpos de investigación. 
+
+*Yo, Riccardo Giuntoli, alego ser victima de tortura en su forma de cibertortura y tortura sin rasgos desde Noviembre 2017 y de malos tratos desde el año 2015.*
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
