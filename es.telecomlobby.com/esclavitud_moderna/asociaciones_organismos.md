@@ -162,7 +162,7 @@ Participan varias organizaciones mundiales, entra las cuales en suelo Europeo:
 - **Freedom from torture, Londres** [[34]](https://www.freedomfromtorture.org/)
 - **Asociación médica mundial, Ferney-Voltaire** [[35]](https://www.wma.net/es/)
 
-Lamentablemente, no hay ni una asociación Española como tampoco Italiana. Ni siquiera un representante en ninguna de ellas. Absurdo y abrumador, indica como los dos países uno por la Corona el otro por el Vaticano no sean interesados en erradicar la tortura. Lo que hay que subrayar es que ambos obligadamente han sellado los varios tratados y convenciones internacionales para la lucha a la tortura pero no hay ningún tipo de actuación sería por parte de los organismos internacionales acerca de la cibertortura, instrumento de la tecnocracia un estado terrorista basado en la aristocracia.
+Lamentablemente, no hay ni una asociación Española como tampoco Italiana. Ni siquiera un representante en ninguna de ellas. Absurdo y abrumador, indica como los dos países uno por la Corona el otro por el Vaticano no sean interesados en erradicar la tortura. Lo que hay que subrayar es que ambos obligadamente han sellado los varios tratados y convenciones internacionales para la lucha a la tortura pero no hay ningún tipo de actuación sería por parte de los organismos internacionales acerca de la cibertortura,  instrumento de la tecnocracia un estado terrorista basado en la aristocracia.
 
 ###  External links 
 
