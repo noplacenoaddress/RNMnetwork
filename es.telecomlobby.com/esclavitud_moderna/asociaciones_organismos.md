@@ -137,9 +137,27 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 **Articulo 31**: Todo Estado podrá denunciar la presente mediante notificación hecho por escrito al Secretario General. Dicha denuncia no eximirá al Estado de las obligaciones que le impone la presente Convención con respecto a toda acción u omisión ocurrida antes de la fecha en que haya surtido efecto la denuncia, ni la denuncia entrañará tampoco la suspensión del examen de cualquier asunto que el Comité haya empezado a examinar antes de la fecha en que surta efecto la denuncia.
 
-#### Protocolo de Estambul, manual de Investigación y documentación efectiva sobre tortura
+Protocolo de Estambul, manual de Investigación y documentación efectiva sobre tortura
 
 ![protocolo de Estambul](https://telecomlobby.com/Images/protocolo_estambul.webp)
+
+**Estambul** [[21]](https://es.wikipedia.org/wiki/Estambul), *9 de Agosto de 1999*
+
+Participan varias organizaciones mundiales, entra las cuales en suelo Europeo:
+
+- CAT, Ginebra
+- HRFT, Ginebra
+- **Amnistía Internacional, Londres** [[22]](https://www.amnesty.org.uk/)
+- **Asociación para la prevención de la tortura, Ginebra** [[23]](https://www.apt.ch/es)
+- **Centro de tratamiento para víctimas de tortura, Berlín** [[24]](https://www.bfu-ulm.de/)
+- **Asociación médica británica, Londres** [[25]](https://www.bma.org.uk/)
+- **Centro Georges Devereux, París** [[26]](http://www.ethnopsychiatrie.net/)
+- **Asociación médica danés, Copenhagen** [[27]](https://www.laeger.dk/)
+- **Asociación médica alemán, Berlín** [[28]](https://www.bundesaerztekammer.de/) 
+- **Comité internacional de la cruz roja, Ginebra** [[29]](https://www.icrc.org/es)
+- **IFHHRO, Amsterdam** [[30]](https://www.ifhhro.org/)
+- **IRCT, Copenhagen** [[31]](https://irct.org/)
+- **Fundación Johannes Wier, Amsterdam** [[32]](https://www.johannes-wier.nl/english/) 
 
 ###  External links 
 
@@ -182,6 +200,30 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 19. https://www.un.org/es/icj/
 
 20. https://www.un.org/es/documents/icjstatute/
+
+21. https://es.wikipedia.org/wiki/Estambul
+
+22. https://www.amnesty.org.uk/
+
+23. https://www.apt.ch/es
+
+24. https://www.bfu-ulm.de/
+
+25. https://www.bma.org.uk/
+
+26. http://www.ethnopsychiatrie.net/
+
+27. https://www.laeger.dk/
+
+28. https://www.bundesaerztekammer.de/
+
+29. https://www.icrc.org/es
+
+30. https://www.ifhhro.org/
+
+31. https://irct.org/
+
+32. https://www.johannes-wier.nl/english/
 
     
 
