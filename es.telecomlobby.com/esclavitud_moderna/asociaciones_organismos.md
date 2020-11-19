@@ -137,7 +137,7 @@ Todo informe será examinado por el Comité, el cual podrá hacer los comentario
 
 **Articulo 31**: Todo Estado podrá denunciar la presente mediante notificación hecho por escrito al Secretario General. Dicha denuncia no eximirá al Estado de las obligaciones que le impone la presente Convención con respecto a toda acción u omisión ocurrida antes de la fecha en que haya surtido efecto la denuncia, ni la denuncia entrañará tampoco la suspensión del examen de cualquier asunto que el Comité haya empezado a examinar antes de la fecha en que surta efecto la denuncia.
 
-Protocolo de Estambul, manual de Investigación y documentación efectiva sobre tortura
+# Protocolo de Estambul, manual de Investigación y documentación efectiva sobre tortura y comentarios sobre la situación Catalana. 
 
 ![protocolo de Estambul](https://telecomlobby.com/Images/protocolo_estambul.webp)
 
