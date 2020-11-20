@@ -32,6 +32,18 @@ Como se puede apreciar la red de monitorio neuronal ha provocado en mi cabeza un
 
 Una prueba irrefutable en un juicio donde se evalúen crimines contra la humanidad. 
 
+#### Dentadura 
+
+![](https://telecomlobby.com/Images/dentadura_riccardo_giuntoli.webp)
+
+En fecha de Noviembre 2020 hace tres años que estoy bajo tortura electrónica, cibertortura, subiendo electrochoque en genitales, pies, manos, ojos, cabeza y dientes todos los días a toda hora.
+
+Seguramente antes también lo estaba pero no tenía inyección de vídeo y audio en la corteza visual y auditiva. Lo se porqué ya tenía visible heridas de armas electrónicas en el cuerpo y en la cara. También he tenido por bastante tiempo un pinchazo en el pulmón derecho provocado por las armas, solo sensaciones ya que no tengo ningún tipo de mal al mismo órgano. 
+
+Desde hace diez años las raíces de mis dientes son gravemente afectadas de la tortura electrónica como se puede apreciar de la radiografía y he tenido también gingivitis. Ambas afecciones pertenecen a la esfera de la tortura y son pruebas aplastante de ser un individuo objetivo si acompañadas de otros indicadores. 
+
+> Si de esta radiografía algún experto en torturas electrónicas puede sacar más conclusiones mi número de teléfono es +34660922890, ayuda. 
+
 #### Un presente por ti
 
 ![Banana](http://telecomlobby.com/Images/riccardo_giuntoli_phenotypic_traits_banana.webp)
