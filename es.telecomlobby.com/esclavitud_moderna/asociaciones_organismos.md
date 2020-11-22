@@ -218,6 +218,16 @@ Todo este marco legislativo internacional obliga a los Estados, *quiero subrayar
 - asegurarse que las victimas de torturas tienen el derecho de ser compensadas a través de una compensación adecuada.
 - asegurarse que todos los delincuentes acosados de tortura sean involucrados en procedimientos penales apropiados.
 
+**Mecanismos de naciones unidas**:
+
+- según el artículo 19 del CAT los Estados tienen que enviar al Comité contra la tortura compuesto por diez expertos a través del secretario general los informes sobre las medidas que han tomado para dar efecto a sus compromisos en virtud del convenio.
+- según el artículo 20 del CAT si el Comité recibe información fundada que la tortura es utilizada sistemáticamente en un territorio de un Estado participante, el Comité tiene que invitar el Estado a cooperar en el examen de la información con el fin de enviar las observaciones a cerca de la misma. El Comité puede asignar al territorio uno o mas expertos para que hagan una investigación confidencial que puede ser presencial. Después de haber examinado los resultados el Comité los transmite al Estado  junto a comentarios. Esta fase es secreta hasta que el Comité no publique en su reporte anual en la **Asamblea General** [[36]](https://www.un.org/es/ga/) de Naciones Unidas.  
+- según el artículo 22 un Estado participante podría reconocer la competencia del Comité de recibir y tomar en consideración las denuncias individuales de ciudadanos que afirmen de ser victimas de violaciones contra la tortura por parte de un Estado. 
+
+**El tiempo previsto de una investigación es de 15 meses.**
+
+> Yo, Riccardo Giuntoli con NIE X9770628K afirmo que en Catalunya se practica la tortura de forma sistemática en su formas de cibertortura y torturas sin rastros por parte de una banda de criminales. Las causas y los fines son múltiples y la banda toma forma de Mafia, de grupo de presión, de actores no estatales y grupo paramilitar terrorista. La banda toma ordenes de su jefe, de la aristocracia y de representantes de la Iglesia Católica. En mi caso es una persecución a un individuo objetivo planificada por dos décadas y ejecutada en Barcelona físicamente desde el año 2014. Todo mi trabajo en esta página web está hecho bajo tortura electrónica y quiere ser una denuncia exhaustiva de todo lo ocurrido. 
+
 
 
 ###  External links 
@@ -291,6 +301,8 @@ Todo este marco legislativo internacional obliga a los Estados, *quiero subrayar
 34. https://www.freedomfromtorture.org/
 
 35. https://www.wma.net/es/
+
+36. https://www.un.org/es/ga/
 
     
 
