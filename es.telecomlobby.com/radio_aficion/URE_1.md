@@ -300,6 +300,24 @@ La capacidad de un condensador depende de dos magnitudes:
 
 ![Tabla colores condesadores](https://telecomlobby.com/Images/tabla_colores_condensadores.webp)
 
+Los variables cambian su capacidad variando la superficie de sus placas. Se usan para sintonizar circuitos **oscilantes** [[69]](https://es.wikipedia.org/wiki/Oscilaci%C3%B3n). 
+
+Los ajustables o trimmer utilizados para ajustar la capacidad.
+
+Los fijos que pueden ser **polarizados** [[70]](https://es.wikipedia.org/wiki/Polarizaci%C3%B3n_el%C3%A9ctrica) o no. Los non polarizados se clasifican según el tipo de dieléctrico que utilizan como hemos visto. Los **electrolíticos** [[71]](https://es.wikipedia.org/wiki/Condensador_electrol%C3%ADtico) tienen dieléctrico líquido o en papel impregnado.
+
+Al ser pequeños los condensadores se emplean, generalmente, códigos de bandas de colores para indicar su capacidad expresada en picofaradios. Las bandas indican su capacidad, su tolerancia y su tensión máxima. 
+
+La forma de expresar la tolerancia depende de si tiene más o menos de 10 picofaradios de capacidad, si mayor se expresa un porcentaje de incremento o disminución de la misma o si es menor de dicho valor expresa la fracción di picofaradio a sumar o restar. Por ejemplo
+$$
+\begin{align*}
+marrón-verde-rojo-negro-rojo 
+\end{align*}
+$$
+1500 pF de capacidad, 20% de tolerancia, 250V de tensión máxima de trabajo.
+
+#### 1.3.3 Asociación de condensadores
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -437,6 +455,16 @@ La capacidad de un condensador depende de dos magnitudes:
 67. https://es.wikipedia.org/wiki/Rigidez_diel%C3%A9ctrica
 
 68. https://es.wikipedia.org/wiki/Coeficiente_de_temperatura
+
+69. https://es.wikipedia.org/wiki/Oscilaci%C3%B3n
+
+70. https://es.wikipedia.org/wiki/Polarizaci%C3%B3n_el%C3%A9ctrica
+
+71. https://es.wikipedia.org/wiki/Condensador_electrol%C3%ADtico
+
+    
+
+    
 
     
 
