@@ -221,7 +221,42 @@ Las leyes de **Kirchhoff** [[53]](https://es.wikipedia.org/wiki/Gustav_Kirchhoff
 1. La suma de las intensidades de corriente que llegan a un nudo de un circuito es igual a la suma de las intensidades que salen de él. 
 2. En un circuito cerrado o malla la suma de todas las caídas de tensión es igual a la suma de todas las subidas de tensión, la suma algebraica de las tensiones en todo circuito cerrado es cero.
 
+#### 1.2.10 Potencia eléctrica. Unidad de potencia: el vatio.
 
+La corriente eléctrica puede desarrollar un trabajo, la relación que hay entre un trabajo y tiempo de la **potencia** [[54]](https://es.wikipedia.org/wiki/Potencia_el%C3%A9ctrica) que es la expresión de la cantidad del trabajo producido en la unidad de tiempo. La unidad de potencia es el **vatio** [[55]](https://es.wikipedia.org/wiki/Vatio):
+$$
+\begin{align*}
+Potencia = tensiónxintensidad\\\\
+P=ExI
+\end{align*}
+$$
+
+
+Donde P es expresada en vatios, la tensión en voltios, y la intensidad en amperios. Aplicando la ley de Ohm sabemos que la tensión es igual a la intensidad por la resistencia. O sea obtenemos:
+$$
+\begin{align*}
+P = I^{2}xR
+\end{align*}
+$$
+Si por ejemplo en un circuito circulan 20 amperios y la resistencia es de 100 ohmios la potencia será:
+$$
+\begin{align*}
+P = 20^{2}x100=40000W=40kW
+\end{align*}
+$$
+Los múltiplos del vatio son el kilowatio y el **caballo de vapor** [[56]](https://es.wikipedia.org/wiki/Caballo_de_vapor) equivalente a 1kW o el horse power HP a 736 vatios. 
+
+La energía eléctrica se expresa como la potencia consumida durante una unidad de tiempo, como unidad se emplea el kilovatio-hora kWh que equivale a la energía eléctrica consumida por un aparato al ser atravesado por una corriente de 1 amperio, a una tensión de 1000 V y durante una hora, puede corresponder a cualquier otra combinación de los tres valores cuyo producto total sea 1kW:
+$$
+\begin{align*}
+Consumo=intensidadxvoltajextiempo\\\\
+Vatios-hora=ampreiosxvoltiosxhoras
+\end{align*}
+$$
+
+#### 1.3 Almacenamiento de cargas eléctricas: condensadores
+
+![Condensadores](https://telecomlobby.com/Images/condensadores.webp)
 
 ### External links
 
@@ -330,5 +365,11 @@ Las leyes de **Kirchhoff** [[53]](https://es.wikipedia.org/wiki/Gustav_Kirchhoff
 52. https://es.wikipedia.org/wiki/Potenci%C3%B3metro
 
 53. https://es.wikipedia.org/wiki/Gustav_Kirchhoff
+
+54. https://es.wikipedia.org/wiki/Potencia_el%C3%A9ctrica
+
+55. https://es.wikipedia.org/wiki/Vatio
+
+56. https://es.wikipedia.org/wiki/Caballo_de_vapor
 
     
