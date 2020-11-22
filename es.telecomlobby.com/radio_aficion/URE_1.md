@@ -212,7 +212,14 @@ Un **termistor** [[50]](https://es.wikipedia.org/wiki/Termistor) NTC es una resi
 
 #### 1.2.8 Otros tipos de resistencias.
 
-Una resistencia ajustable permite fijar su valor dentro de un rango mediante una abrazadera móvil en contacto con el elemento resistivo. Un **reóstato** [[51]]() es una resistencia variable que se usa en los circuitos de gran consumo, empleándose para regular la corriente en máquinas y motores. Un **potenciómetro** [[52]](https://es.wikipedia.org/wiki/Potenci%C3%B3metro) es una resistencia variable que puede ser variada por el usuario para realizar cualquier función.
+Una resistencia ajustable permite fijar su valor dentro de un rango mediante una abrazadera móvil en contacto con el elemento resistivo. Un **reóstato** [[51]]() es una resistencia variable que se usa en los circuitos de gran consumo, empleándose para regular la corriente en máquinas y motores. Un **potenciómetro** [[52]](https://es.wikipedia.org/wiki/Potenci%C3%B3metro) es una resistencia variable que puede ser variada por el usuario para realizar cualquier función. Es lineal cuando su resistencia es proporcional al desplazamiento del cursor ya que se desliza por una pista uniforme. En el no lineal al ser la pista de diferente grosor, la respuesta, la resistencia, no corresponde al desplazamiento del cursor. Estos últimos suelen tener una respuesta que se aproxima a la función logaritmo.
+
+#### 1.2.9 Leyes de Kirchhoff
+
+Las leyes de **Kirchhoff** [[53]](https://es.wikipedia.org/wiki/Gustav_Kirchhoff) son útiles al análisis de múltiples tipos de circuitos:
+
+1. La suma de las intensidades de corriente que llegan a un nudo de un circuito es igual a la suma de las intensidades que salen de él. 
+2. En un circuito cerrado o malla la suma de todas las caídas de tensión es igual a la suma de todas las subidas de tensión, la suma algebraica de las tensiones en todo circuito cerrado es cero.
 
 
 
@@ -321,5 +328,7 @@ Una resistencia ajustable permite fijar su valor dentro de un rango mediante una
 51. https://es.wikipedia.org/wiki/Reostato
 
 52. https://es.wikipedia.org/wiki/Potenci%C3%B3metro
+
+53. https://es.wikipedia.org/wiki/Gustav_Kirchhoff
 
     
