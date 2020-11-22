@@ -285,7 +285,11 @@ W = \mbox{1/2}CV^{2}
 $$
 O sea que depende de su capacidad y del voltaje aplicado.
 
-Se llama **constante dieléctrica** [[66]](https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica) 
+Se llama **constante dieléctrica** [[66]](https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica) a la relación que hay entre la capacidad de un condensador formado por un determinado dieléctrico y su capacidad de un condensador formado por un determinado dieléctrico y su capacidad en el vacío. Se denomina **rigidez dieléctrica** [[67]](https://es.wikipedia.org/wiki/Rigidez_diel%C3%A9ctrica) o tensión de trabajo de un condensador a aquella que puede soportar sin que se perfore su dieléctrico. La tensión de prueba es aquella a la que el fabricante somete al condensador sin que se haya producido la perforación y es siempre mayor que la tensión de trabajo.
+
+Los condensadores como otros componentes varían de valor con la temperatura, el parámetro se denomina **coeficiente de temperatura** [[68]](https://es.wikipedia.org/wiki/Coeficiente_de_temperatura) que puede ser positivo o negativo. Los cerámicos o de mica son muy estables en frente de la temperatura. 
+
+#### 1.3.1 Relación entre capacidad, dimensiones y dieléctrico
 
 ### External links
 
@@ -420,6 +424,10 @@ Se llama **constante dieléctrica** [[66]](https://es.wikipedia.org/wiki/Constan
 65. https://es.wikipedia.org/wiki/Faradio
 
 66. https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica
+
+67. https://es.wikipedia.org/wiki/Rigidez_diel%C3%A9ctrica
+
+68. https://es.wikipedia.org/wiki/Coeficiente_de_temperatura
 
     
 
