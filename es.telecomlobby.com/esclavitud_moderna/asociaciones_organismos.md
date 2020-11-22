@@ -208,6 +208,16 @@ Ha trabajado por décadas para el desarrollo de estándares para garantizar la p
 - Comisión de derechos humanos. 
 - Relator Especial.
 
+Todo este marco legislativo internacional obliga a los Estados, *quiero subrayar como también al estado Vaticano y a las coronas*:
+
+- tomar medidas legislativas, administrativas, judiciales para prevenir las torturas. Ninguna excepción ni siquiera la guerra puede ser justificación de tortura.
+- nunca expulsar, retornar o extraditar una persona cuando haya fundamentos substanciales de que haya sido o será torturado.
+- criminalización cada acto de tortura, incluido la complicidad o la participación. 
+- asegurarse que cada funcionario de Estado tenga la formación necesaria acerca de la prohibición inderogable sobre la tortura.
+- asegurarse que ningún tipo de declaración obtenida a través de tortura pueda ser utilizada como prueba en sede judicial **excepto contra de una persona acosada de tortura**.
+- asegurarse que las victimas de torturas tienen el derecho de ser compensadas a través de una compensación adecuada.
+- asegurarse que todos los delincuentes acosados de tortura sean involucrados en procedimientos penales apropiados.
+
 
 
 ###  External links 
