@@ -324,6 +324,8 @@ En serie la capacidad resultante se obtiene dividiendo la unidad por la suma de 
 
 En paralelo la capacidad total es la suma de las capacidades de todos ellos.
 
+
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
