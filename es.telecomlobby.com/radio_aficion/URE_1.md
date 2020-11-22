@@ -258,6 +258,8 @@ $$
 
 ![Condensadores](https://telecomlobby.com/Images/condensadores.webp)
 
+Constan de dos placas conductoras separadas por un cuerpo no conductor llamado **dieléctrico** [[57]](https://es.wikipedia.org/wiki/Diel%C3%A9ctrico)
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -371,5 +373,7 @@ $$
 55. https://es.wikipedia.org/wiki/Vatio
 
 56. https://es.wikipedia.org/wiki/Caballo_de_vapor
+
+57. https://es.wikipedia.org/wiki/Diel%C3%A9ctrico
 
     
