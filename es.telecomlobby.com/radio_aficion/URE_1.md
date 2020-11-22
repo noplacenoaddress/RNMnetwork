@@ -291,6 +291,15 @@ Los condensadores como otros componentes varían de valor con la temperatura, el
 
 #### 1.3.1 Relación entre capacidad, dimensiones y dieléctrico
 
+La capacidad de un condensador depende de dos magnitudes:
+
+- la distancia entre las placas inversamente proporcional a mayor superficie de las placas, mayor capacidad y a mayor distancia menor capacidad.
+- constante dieléctrica del material, directamente proporcional.
+
+#### 1.3.2 Condensadores: diversos tipos. Tabla de colores.
+
+![Tabla colores condesadores](https://telecomlobby.com/Images/tabla_colores_condensadores.webp)
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
