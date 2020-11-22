@@ -318,6 +318,12 @@ $$
 
 #### 1.3.3 Asociación de condensadores
 
+Los condensadores pueden agruparse en serie o en paralelo.
+
+En serie la capacidad resultante se obtiene dividiendo la unidad por la suma de las inversas de todas las capacidades; las armaduras externas actúan de terminales de conexión. Al quedare tan distanciadas estás, la capacidad total resulta mucho menor que la de uno de los condensadores.
+
+En paralelo la capacidad total es la suma de las capacidades de todos ellos.
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
