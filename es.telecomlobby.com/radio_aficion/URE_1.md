@@ -285,7 +285,7 @@ W = \mbox{1/2}CV^{2}
 $$
 O sea que depende de su capacidad y del voltaje aplicado.
 
-Se llama **constante dieléctrica** [[66]](https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica)
+Se llama **constante dieléctrica** [[66]](https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica) 
 
 ### External links
 
