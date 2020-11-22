@@ -275,7 +275,17 @@ Capacidad eléctrica=\frac{carga eléctrica}{voltaje}\\\\
 V=\frac{Q}{V}
 \end{align*}
 $$
-Un **faradio** [[65]](https://es.wikipedia.org/wiki/Faradio) es la capacidad de un condensador al que aplicada una fem de 1 voltio adquiere una carga de 1 culombio.
+Un **faradio** [[65]](https://es.wikipedia.org/wiki/Faradio) es la capacidad de un condensador al que aplicada una fem de 1 voltio adquiere una carga de 1 culombio. El microfaradio μF equivale a 10-6 F y el nanofaradio nF a 10-9F, el picofaradio a 10-12F.
+
+La energía almacenada en condensador se expresa por la fórmula:
+$$
+\begin{align*}
+W = \mbox{1/2}CV^{2}
+\end{align*}
+$$
+O sea que depende de su capacidad y del voltaje aplicado.
+
+Se llama **constante dieléctrica** [[66]](https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica)
 
 ### External links
 
@@ -408,6 +418,8 @@ Un **faradio** [[65]](https://es.wikipedia.org/wiki/Faradio) es la capacidad de 
 64. https://es.wikipedia.org/wiki/Funci%C3%B3n_exponencial
 
 65. https://es.wikipedia.org/wiki/Faradio
+
+66. https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica
 
     
 
