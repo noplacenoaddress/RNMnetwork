@@ -258,6 +258,39 @@ $$
 
 ![Condensadores](https://telecomlobby.com/Images/condensadores.webp)
 
+Constan de dos placas conductoras separadas por un cuerpo no conductor llamado **dieléctrico** [[57]](https://es.wikipedia.org/wiki/Diel%C3%A9ctrico):
+
+- aire
+- aceite
+- vidrio (por esto el jefe de la banda de actores no estatales de Barcelona lo he encontrado viviendo en una nave industrial abandonada ya que el techo y las paredes están lleno de **fibra de vidrio** [[58]](https://es.wikipedia.org/wiki/Fibra_de_vidrio))
+- **mica** [[59]](https://es.wikipedia.org/wiki/Mica)
+- **polietileno** [[60]](https://es.wikipedia.org/wiki/Polietileno)
+
+Las placas suelen ser láminas de **estaño** [[61]](https://es.wikipedia.org/wiki/Esta%C3%B1o) alternando con láminas del dieléctrico usado; los **condensadores** [[62]](https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico) tienen la capacidad de acumular una determinada carga eléctrica a un voltaje determinado, la acumula en carga y la restituye en descarga al resto del circuito. Al cerrarlo una placa queda asociada al polo positivo y otra al negativo de la pila o fuente que la alimente, la armadura conectada al polo positivo va cediendo electrones a éste, mientras que la otra armadura recoge electrones del polo negativo, se puede apreciar el flujo de corriente intercalando un **amperímetro** [[63]](https://es.wikipedia.org/wiki/Amper%C3%ADmetro). Se pueden recargar hasta que entre las placas de éstos se llega a alcanzar un voltaje igual al existente en los bornes de la batería o fuente que los alimente. Si se abre el interruptor desconectando la alimentación de las armaduras estas quedan cargadas el circuito queda abierto y se mantiene la diferencia de potencia entre las armaduras; aparece un campo eléctrico desde la placa positiva a la negativa en el que habrá más dispersión de líneas de fuerza cuanto más alejadas estén. El condensador se descarga  instantáneamente si se unen o cortocircuitan las placas del mismo pero si se añade una resistencia de un valor dado la descarga durará un tiempo determinado. 
+
+Tanto descarga como carga no son instantáneas y además tampoco tienen forma lineal sino **exponencial** [[64]](https://es.wikipedia.org/wiki/Funci%C3%B3n_exponencial), su capacidad eléctrica es:
+$$
+\begin{align*}
+Capacidad eléctrica=\frac{carga eléctrica}{voltaje}\\\\
+V=\frac{Q}{V}
+\end{align*}
+$$
+Un **faradio** [[65]](https://es.wikipedia.org/wiki/Faradio) es la capacidad de un condensador al que aplicada una fem de 1 voltio adquiere una carga de 1 culombio. El microfaradio μF equivale a 10-6 F y el nanofaradio nF a 10-9F, el picofaradio a 10-12F.
+
+La energía almacenada en condensador se expresa por la fórmula:
+$$
+\begin{align*}
+W = \mbox{1/2}CV^{2}
+\end{align*}
+$$
+O sea que depende de su capacidad y del voltaje aplicado.
+
+Se llama **constante dieléctrica** [[66]](https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica) a la relación que hay entre la capacidad de un condensador formado por un determinado dieléctrico y su capacidad de un condensador formado por un determinado dieléctrico y su capacidad en el vacío. Se denomina **rigidez dieléctrica** [[67]](https://es.wikipedia.org/wiki/Rigidez_diel%C3%A9ctrica) o tensión de trabajo de un condensador a aquella que puede soportar sin que se perfore su dieléctrico. La tensión de prueba es aquella a la que el fabricante somete al condensador sin que se haya producido la perforación y es siempre mayor que la tensión de trabajo.
+
+Los condensadores como otros componentes varían de valor con la temperatura, el parámetro se denomina **coeficiente de temperatura** [[68]](https://es.wikipedia.org/wiki/Coeficiente_de_temperatura) que puede ser positivo o negativo. Los cerámicos o de mica son muy estables en frente de la temperatura. 
+
+#### 1.3.1 Relación entre capacidad, dimensiones y dieléctrico
+
 ### External links
 
 1. https://es.wikipedia.org/wiki/Mol%C3%A9cula
@@ -371,5 +404,31 @@ $$
 55. https://es.wikipedia.org/wiki/Vatio
 
 56. https://es.wikipedia.org/wiki/Caballo_de_vapor
+
+57. https://es.wikipedia.org/wiki/Diel%C3%A9ctrico
+
+58. https://es.wikipedia.org/wiki/Fibra_de_vidrio
+
+59. https://es.wikipedia.org/wiki/Mica
+
+60. https://es.wikipedia.org/wiki/Polietileno
+
+61. https://es.wikipedia.org/wiki/Esta%C3%B1o
+
+62. https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico
+
+63. https://es.wikipedia.org/wiki/Amper%C3%ADmetro
+
+64. https://es.wikipedia.org/wiki/Funci%C3%B3n_exponencial
+
+65. https://es.wikipedia.org/wiki/Faradio
+
+66. https://es.wikipedia.org/wiki/Constante_diel%C3%A9ctrica
+
+67. https://es.wikipedia.org/wiki/Rigidez_diel%C3%A9ctrica
+
+68. https://es.wikipedia.org/wiki/Coeficiente_de_temperatura
+
+    
 
     
