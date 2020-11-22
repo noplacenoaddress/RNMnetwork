@@ -180,6 +180,34 @@ Este manual ha sido escrito para que los Estados protejan obligadamente los indi
 
 ![](https://telecomlobby.com/Images/enstandares_legales_internacionales.webp)
 
+El derecho de ser libre de torturas es establecido bajo el marco legislativo internacional y varios instrumentos regionales, en el sentido de los continentes, y nacionales.
+
+**Leyes humanitarias internacionales**:
+
+- Las cuatro convenciones de Ginebra de 1949.
+- Dos protocolos adicionales de 1977 siempre de Ginebra. 
+
+**Naciones Unidas**: 
+
+Ha trabajado por décadas para el desarrollo de estándares para garantizar la protección de todas las personas contra cada forma de tortura. Estos los instrumentos más importantes:
+
+- Declaración universal de los derechos humanos de 1948.
+- Convenio internacional de los derechos civiles y políticos de 1976.
+- Reglas mínimas estándar para el tratamiento de prisioneros de 1955.
+- Declaración de protección contra la tortura de 1975.
+- Código de conducta para el cumplimiento de la ley de 1975.
+- Principios de ética médica relevantes para el rol de personal de la salud en particular médicos, en la protección de prisioneros y detenidos contra la tortura o otro trato o castigo cruel, inhumano o degradante de 1982.
+- Convención contra la tortura de 1987.
+- Cuerpo de principios por la protección de cada persona bajo cualquier forma de detención o prisión de 1988.
+- Principios básicos sobre el tratamiento de prisioneros de 1990.
+
+**Oficinas y figuras de naciones unidas**:
+
+- Comité contra la tortura.
+- Comité de derechos humanos.
+- Comisión de derechos humanos. 
+- Relator Especial.
+
 
 
 ###  External links 
