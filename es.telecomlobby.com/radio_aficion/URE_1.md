@@ -258,7 +258,24 @@ $$
 
 ![Condensadores](https://telecomlobby.com/Images/condensadores.webp)
 
-Constan de dos placas conductoras separadas por un cuerpo no conductor llamado **dieléctrico** [[57]](https://es.wikipedia.org/wiki/Diel%C3%A9ctrico)
+Constan de dos placas conductoras separadas por un cuerpo no conductor llamado **dieléctrico** [[57]](https://es.wikipedia.org/wiki/Diel%C3%A9ctrico):
+
+- aire
+- aceite
+- vidrio (por esto el jefe de la banda de actores no estatales de Barcelona lo he encontrado viviendo en una nave industrial abandonada ya que el techo y las paredes están lleno de **fibra de vidrio** [[58]](https://es.wikipedia.org/wiki/Fibra_de_vidrio))
+- **mica** [[59]](https://es.wikipedia.org/wiki/Mica)
+- **polietileno** [[60]](https://es.wikipedia.org/wiki/Polietileno)
+
+Las placas suelen ser láminas de **estaño** [[61]](https://es.wikipedia.org/wiki/Esta%C3%B1o) alternando con láminas del dieléctrico usado; los **condensadores** [[62]](https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico) tienen la capacidad de acumular una determinada carga eléctrica a un voltaje determinado, la acumula en carga y la restituye en descarga al resto del circuito. Al cerrarlo una placa queda asociada al polo positivo y otra al negativo de la pila o fuente que la alimente, la armadura conectada al polo positivo va cediendo electrones a éste, mientras que la otra armadura recoge electrones del polo negativo, se puede apreciar el flujo de corriente intercalando un **amperímetro** [[63]](https://es.wikipedia.org/wiki/Amper%C3%ADmetro). Se pueden recargar hasta que entre las placas de éstos se llega a alcanzar un voltaje igual al existente en los bornes de la batería o fuente que los alimente. Si se abre el interruptor desconectando la alimentación de las armaduras estas quedan cargadas el circuito queda abierto y se mantiene la diferencia de potencia entre las armaduras; aparece un campo eléctrico desde la placa positiva a la negativa en el que habrá más dispersión de líneas de fuerza cuanto más alejadas estén. El condensador se descarga  instantáneamente si se unen o cortocircuitan las placas del mismo pero si se añade una resistencia de un valor dado la descarga durará un tiempo determinado. 
+
+Tanto descarga como carga no son instantáneas y además tampoco tienen forma lineal sino **exponencial** [[64]](https://es.wikipedia.org/wiki/Funci%C3%B3n_exponencial), su capacidad eléctrica es:
+$$
+\begin{align*}
+Capacidad eléctrica=\frac{carga eléctrica}{voltaje}\\\\
+V=\frac{Q}{V}
+\end{align*}
+$$
+Un **faradio** [[65]](https://es.wikipedia.org/wiki/Faradio) es la capacidad de un condensador al que aplicada una fem de 1 voltio adquiere una carga de 1 culombio.
 
 ### External links
 
@@ -375,5 +392,23 @@ Constan de dos placas conductoras separadas por un cuerpo no conductor llamado *
 56. https://es.wikipedia.org/wiki/Caballo_de_vapor
 
 57. https://es.wikipedia.org/wiki/Diel%C3%A9ctrico
+
+58. https://es.wikipedia.org/wiki/Fibra_de_vidrio
+
+59. https://es.wikipedia.org/wiki/Mica
+
+60. https://es.wikipedia.org/wiki/Polietileno
+
+61. https://es.wikipedia.org/wiki/Esta%C3%B1o
+
+62. https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico
+
+63. https://es.wikipedia.org/wiki/Amper%C3%ADmetro
+
+64. https://es.wikipedia.org/wiki/Funci%C3%B3n_exponencial
+
+65. https://es.wikipedia.org/wiki/Faradio
+
+    
 
     
