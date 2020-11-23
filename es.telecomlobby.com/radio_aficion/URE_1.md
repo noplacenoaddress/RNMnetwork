@@ -324,7 +324,23 @@ En serie la capacidad resultante se obtiene dividiendo la unidad por la suma de 
 
 En paralelo la capacidad total es la suma de las capacidades de todos ellos.
 
+#### 1.4 Campo magnético
 
+![Iman](https://telecomlobby.com/Images/iman.webp)
+
+Un **imán** [[72]](https://es.wikipedia.org/wiki/Im%C3%A1n) crea a su alrededor un campo de atracción de sustancias tales como el hierro y que se denomina **campo magnético** [[73]](https://es.wikipedia.org/wiki/Campo_magn%C3%A9tico) y es el espacio en que un imán ejerce su influencia.
+
+Se crea un campo magnético en los alrededores de un conductor recorrido por una corriente eléctrica, si no hay corriente no hay campo cosa que no ocurre con los imanes. 
+
+#### 1.4.1 magnetismo.
+
+Se llama **magnetismo** [[74]](https://es.wikipedia.org/wiki/Magnetismo) al conjunto de fenómenos originados por los campos magnéticos. Un imán puede ser **magnetita** [[75]](https://es.wikipedia.org/wiki/Magnetita), **acero** [[76]](https://es.wikipedia.org/wiki/Acero) o bien alguna aleación. Los extremos se llaman polos, norte y sur. Al centro la línea neutra. El magnetismo es formado por las líneas ovales de fuerza entra los dos polos.
+
+Una aguja imantada que gire libremente siempre se orientará en la dirección norte-sur. La tierra produce un campo magnético y llamamos a los dos polos **norte geográfico** [[77]](https://es.wikipedia.org/wiki/Polo_norte) y **sur geográfico** [[78]](https://es.wikipedia.org/wiki/Polo_sur). Polos de mismo nombre se repelen y los de nombre contrario se atraen. 
+
+#### 1.4.2 Características de un campo magnético.
+
+El total de las líneas de fuerza se denomina **flujo magnético** [[79]](https://es.wikipedia.org/wiki/Flujo_magn%C3%A9tico). El numero de líneas que salen es igual al que entran de la superficie. La unidad de flujo magnético es el **Weber** [[80]](https://bit.ly/36XehpI). Un Wb es el flujo magnético que al atravesar un circuito de una sola espira produce en ella una fuerza electromotriz de un voltio si se anula dicho flujo en un segundo por decrecimiento uniforme.
 
 ### External links
 
@@ -469,6 +485,24 @@ En paralelo la capacidad total es la suma de las capacidades de todos ellos.
 70. https://es.wikipedia.org/wiki/Polarizaci%C3%B3n_el%C3%A9ctrica
 
 71. https://es.wikipedia.org/wiki/Condensador_electrol%C3%ADtico
+
+72. https://es.wikipedia.org/wiki/Im%C3%A1n
+
+73. https://es.wikipedia.org/wiki/Campo_magn%C3%A9tico
+
+74. https://es.wikipedia.org/wiki/Magnetismo
+
+75. https://es.wikipedia.org/wiki/Magnetita
+
+76. https://es.wikipedia.org/wiki/Acero
+
+77. https://es.wikipedia.org/wiki/Polo_norte
+
+78. https://es.wikipedia.org/wiki/Polo_sur
+
+79. https://es.wikipedia.org/wiki/Flujo_magn%C3%A9tico
+
+80. https://bit.ly/36XehpI
 
     
 
