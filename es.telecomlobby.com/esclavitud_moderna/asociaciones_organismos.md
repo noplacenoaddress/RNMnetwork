@@ -271,7 +271,9 @@ También han contribuido al desarrollo de estándar de prevención a la tortura 
 
 *Corte Europea de derechos humanos*
 
+**Artículo 3**: nadie tendría que ser sujeto a torturas o trato o castigo inhumano y degradante. 
 
+**Artículo 4**: nadie estará sometido a esclavitud o **servidumbre** [[45]](https://bit.ly/2J2Lnwc)
 
 ###  External links 
 
@@ -362,6 +364,8 @@ También han contribuido al desarrollo de estándar de prevención a la tortura 
 43. https://www.echr.coe.int/Pages/home.aspx?p=applicants/spa&c
 
 44. https://www.coe.int/en/web/cpt
+
+45. https://bit.ly/2J2Lnwc
 
     
 
