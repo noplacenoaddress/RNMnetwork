@@ -271,9 +271,13 @@ También han contribuido al desarrollo de estándar de prevención a la tortura 
 
 *Corte Europea de derechos humanos*
 
-**Artículo 3**: nadie tendría que ser sujeto a torturas o trato o castigo inhumano y degradante. 
+Convención europea sobre los derechos humanos:
 
-**Artículo 4**: nadie estará sometido a esclavitud o **servidumbre** [[45]](https://bit.ly/2J2Lnwc)
+- nadie tendría que ser sujeto a torturas o trato o castigo inhumano y degradante. 
+
+- nadie estará sometido a esclavitud o **servidumbre** [[45]](https://bit.ly/2J2Lnwc)
+
+
 
 ###  External links 
 
