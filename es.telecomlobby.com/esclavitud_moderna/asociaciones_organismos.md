@@ -260,6 +260,10 @@ El fondo reparte las contribuciones voluntarias a organismos **NGO** que brindan
 -  **Irídia - Centro de Defensa de Derechos Humanos** [[41]](https://iridia.cat/es/)
 - **Exil** [[42]](http://www.centroexil.org/)
 
+#### Organizaciones continentales 
+
+![Continentes](https://telecomlobby.com/Images/continentes.webp)
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
