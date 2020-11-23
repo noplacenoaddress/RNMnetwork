@@ -283,6 +283,12 @@ En el caso se allegue a través de argumentación plausible se abusa también de
 
 No hace falta decir que el ambiente de tortura de la aplicación neuronal construida sobre un individuo objetivo es un total cachondeo. Funcionarios de todo tipo ven y son participes a torturas electrónicas infligidas diariamente a la victima, yo por ejemplo. Os quiero recordar que todo el DOMINT es un crimen contra la humanidad, y que únicamente la voz hacía el cerebro es, y siempre será, tortura.
 
+*Comisión Europea por la prevención de torturas*
+
+![CPT](https://telecomlobby.com/Images/comission_prevention_torture.webp)
+
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
