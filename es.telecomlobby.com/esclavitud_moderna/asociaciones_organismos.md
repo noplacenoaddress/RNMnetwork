@@ -279,6 +279,10 @@ Convención europea sobre los derechos humanos:
 
 Toda victima de crímenes que rompen estos dos artículos tienen **acceso directo a la Corte**. El artículo 13 garantiza ser atendidos antes de el marco legislativo nacional en caso se allegue presencia en tortura, como en mi caso de cibertortura en red de monitorio neuronal, de un funcionario de Estado, sea ello un médico, que es presente, un policía, que también es presente, o cualquier otro. Aquí hay varias casas nobles jugando a las apuestas mutuas remotas, algunos de ellos son funcionarios también de altísimo nivel tanto Español cuanto Italiano. El artículo 13 también obliga a los Estados investigar inmediatamente cualquier alegación de tortura, en mi caso denuncio públicamente tortura desde hace dos años y medio a fecha de 23 de Noviembre 2020.
 
+En el caso se allegue a través de argumentación plausible se abusa también del articulo 1 que detalla de asegurar cada ciudadano dentro de las jurisdicciones de Estado los derechos y las libertades definidos en la convención, exige que debe hacerse una investigación oficial que debe castigar a todos los responsables. Lamentablemente algún funcionario de Estado abusan de personas bajo su control siendo seguros de su **impunidad** [[46]](https://es.wikipedia.org/wiki/Impunidad). 
+
+No hace falta decir que el ambiente de tortura de la aplicación neuronal construida sobre un individuo objetivo es un total cachondeo. Funcionarios de todo tipo ven y son participes a torturas electrónicas infligidas diariamente a la victima, yo por ejemplo. Os quiero recordar que todo el DOMINT es un crimen contra la humanidad, y que únicamente la voz hacía el cerebro es, y siempre será, tortura.
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -370,6 +374,8 @@ Toda victima de crímenes que rompen estos dos artículos tienen **acceso direct
 44. https://www.coe.int/en/web/cpt
 
 45. https://bit.ly/2J2Lnwc
+
+46. https://es.wikipedia.org/wiki/Impunidad
 
     
 
