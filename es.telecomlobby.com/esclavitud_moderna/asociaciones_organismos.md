@@ -182,12 +182,12 @@ Este manual ha sido escrito para que los Estados protejan obligadamente los indi
 
 El derecho de ser libre de torturas es establecido bajo el marco legislativo internacional y varios instrumentos regionales, en el sentido de los continentes, y nacionales.
 
-**Leyes humanitarias internacionales**:
+#### Leyes humanitarias internacionales
 
 - Las cuatro convenciones de Ginebra de 1949.
 - Dos protocolos adicionales de 1977 siempre de Ginebra. 
 
-**Naciones Unidas**: 
+#### Naciones Unidas
 
 Ha trabajado por décadas para el desarrollo de estándares para garantizar la protección de todas las personas contra cada forma de tortura. Estos los instrumentos más importantes:
 
@@ -220,13 +220,15 @@ Todo este marco legislativo internacional obliga a los Estados, *quiero subrayar
 
 **Mecanismos de naciones unidas**:
 
+Yo, Riccardo Giuntoli con NIE X9770628K afirmo que en Catalunya se practica la tortura de forma sistemática en su formas de cibertortura y torturas sin rastros por parte de una banda de criminales. Las causas y los fines son múltiples y la banda toma forma de Mafia, de grupo de presión, de actores no estatales y grupo paramilitar. La banda toma ordenes de su jefe, de la aristocracia y de representantes de la Iglesia Católica. En mi caso es una persecución a un individuo objetivo planificada por dos décadas y ejecutada en Barcelona físicamente desde el año 2014 cuyo fin es la recaudación de dinero en economía sumergida para un negocio enorme donde juega toda la élite. Todo mi trabajo en esta página web está hecho bajo tortura electrónica y quiere ser una denuncia exhaustiva de todo lo ocurrido. 
+
+*Comité contra la tortura*
+
 - según el artículo 19 del CAT los Estados tienen que enviar al Comité contra la tortura compuesto por diez expertos a través del secretario general los informes sobre las medidas que han tomado para dar efecto a sus compromisos en virtud del convenio.
 - según el artículo 20 del CAT si el Comité recibe información fundada que la tortura es utilizada sistemáticamente en un territorio de un Estado participante, el Comité tiene que invitar el Estado a cooperar en el examen de la información con el fin de enviar las observaciones a cerca de la misma. El Comité puede asignar al territorio uno o mas expertos para que hagan una investigación confidencial que puede ser presencial. Después de haber examinado los resultados el Comité los transmite al Estado  junto a comentarios. Esta fase es secreta hasta que el Comité no publique en su reporte anual en la **Asamblea General** [[36]](https://www.un.org/es/ga/) de Naciones Unidas.  
-- según el artículo 22 un Estado participante podría reconocer la competencia del Comité de recibir y tomar en consideración las denuncias individuales de ciudadanos que afirmen de ser victimas de violaciones contra la tortura por parte de un Estado. 
+- según el artículo 22 un Estado participante podría reconocer la competencia del Comité de recibir y tomar en consideración las denuncias individuales de ciudadanos que afirmen de ser victimas de violaciones contra la tortura por parte de un Estado. El tiempo previsto de una investigación es de 15 meses.
 
-**El tiempo previsto de una investigación es de 15 meses.**
-
-> Yo, Riccardo Giuntoli con NIE X9770628K afirmo que en Catalunya se practica la tortura de forma sistemática en su formas de cibertortura y torturas sin rastros por parte de una banda de criminales. Las causas y los fines son múltiples y la banda toma forma de Mafia, de grupo de presión, de actores no estatales y grupo paramilitar. La banda toma ordenes de su jefe, de la aristocracia y de representantes de la Iglesia Católica. En mi caso es una persecución a un individuo objetivo planificada por dos décadas y ejecutada en Barcelona físicamente desde el año 2014 cuyo fin es la recaudación de dinero en economía sumergida para un negocio enorme donde juega toda la élite. Todo mi trabajo en esta página web está hecho bajo tortura electrónica y quiere ser una denuncia exhaustiva de todo lo ocurrido. 
+*Comité de derechos humanos*
 
 - Todo Estado participante al Comité de derechos humanos, compuesto por 18 expertos,  y al convenio sobre los derechos civiles y políticos tiene que enviar un reporte cada cinco años sobre sus avances en la lucha contra la tortura y el gozar de los derecho humanos. Según el artículo 7 del convenio nadie tiene que subir torturas o otro trato o castigo cruel, inhumano o degradante. Los Estados tienen que tener algún tipo de **maquinaria de control** [[37]](https://es.wikipedia.org/wiki/Sistema_de_control) que garantice una protección eficaz a los ciudadanos. Cada denuncia solo de malos tratos tiene que ser investigada de forma redonda por parte de las autoridades en cuanto podría ser parte de el mecanismo contrario, uno de tortura y corrupción. *Yo añado que el indicador de violencia machista es fundamental para encuadrar un Estado donde se practique la tortura de forma sistemática*. 
 - Un ciudadano puede enviar una comunicación al Comité denunciando que sus derechos bajo el Convenio han sido violados. En el caso Catalán el artículo 7, creo, es roto para toda la clase obrera. **Nadie será sometido sin su libre consentimiento a experimentos médicos o científicos**.
