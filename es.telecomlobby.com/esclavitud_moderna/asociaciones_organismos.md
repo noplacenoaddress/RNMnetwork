@@ -264,6 +264,15 @@ El fondo reparte las contribuciones voluntarias a organismos **NGO** que brindan
 
 ![Continentes](https://telecomlobby.com/Images/continentes.webp)
 
+También han contribuido al desarrollo de estándar de prevención a la tortura organizaciones continentales. En Europa tenemos:
+
+- **Corte Europea de derechos humanos** [[43]](https://www.echr.coe.int/Pages/home.aspx?p=applicants/spa&c)
+- **Comisión Europea por la prevención de torturas** [[44]](https://www.coe.int/en/web/cpt)
+
+*Corte Europea de derechos humanos*
+
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -349,6 +358,10 @@ El fondo reparte las contribuciones voluntarias a organismos **NGO** que brindan
 41. https://iridia.cat/es/
 
 42. http://www.centroexil.org/
+
+43. https://www.echr.coe.int/Pages/home.aspx?p=applicants/spa&c
+
+44. https://www.coe.int/en/web/cpt
 
     
 
