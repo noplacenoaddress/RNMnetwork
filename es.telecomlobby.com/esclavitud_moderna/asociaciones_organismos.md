@@ -239,6 +239,22 @@ La **comisión** [[38]](https://www.ohchr.org/en/hrbodies/chr/pages/commissionon
 
 *Relator Especial sobre la tortura*
 
+Recibe peticiones de acción urgente que lleva a la atención de los gobiernos de manera de garantizar la protección de los derechos de un individuo acerca de su integridad física y mental. Mantiene reuniones con representantes de gobiernos que quieren encontrarlo y hace visitas de zonas afectadas por tortura sistemática. 
+
+*Fondo voluntario de Naciones Unidas por victimas de tortura*
+
+1. promueve un enfoque centrado en las víctimas destinado a causar un cambio radical en el plano personal; 
+2.  es consciente de que ofrecer resarcimiento y recursos efectivos a las víctimas de la tortura es una obligación de los Estados de acuerdo con Derecho Internacional, principalmente el artículo 14 de la Convención Contra la Tortura de las Naciones Unidas y la correspondiente Observación General Nº 3;
+3.  apoya proyectos llevados a cabo por actores de la sociedad civil y por otros canales de asistencia. Estos proyectos son destinados a ofrecer rehabilitación, reparación y empoderamiento, así como acceso a recursos, a las víctimas de la tortura y a sus familiares a través de asistencia directa. Dicha asistencia puede incluir asistencia psicológica, médica, jurídica, humanitaria, social, profesional u otras formas de apoyo a la subsistencia independiente; 
+4. es una herramienta para promover y plantear la rendición de cuentas como un elemento fundamental en el proceso de curación de las víctimas de la tortura; 
+5. tiene un mandato imparcial y universal; 
+6. en virtud del mandato recibido por la **resolución 36/151** [[39]](https://telecomlobby.com/RNMnetwork/documents/A_RES_36_151_S.pdf) de la Asamblea General, el Fondo tiene como objetivo dar "prioridad a la ayuda a las víctimas de violaciones por parte de Estados en que la situación de los derechos humanos haya sido objeto de resoluciones o decisiones aprobadas por la Asamblea, el Consejo Económico Y Social o la [antigua] Comisión de Derechos Humanos"; 
+7. garantiza apoyo estratégico y limitado en el tiempo a los beneficiarios por medio de criterios competitivos, al mismo tiempo que responde a situaciones nuevas y de emergencia, dondequiera que se produzcan; 
+8. forma alianzas con iniciativas locales y con centros de rehabilitación reconocidos en el campo de la tortura; 
+9. asigna recursos para la evaluación de las actividades de los beneficiarios y su impacto en las víctimas;  
+10. aboga por lograr complementariedad y sinergias con programas de la Oficina del Alto Comisionado para los Derechos Humanos (**ACNUDH** [[40]](https://www.ohchr.org/sp/Pages/Home.aspx)) y otros programas y mecanismos de las Naciones Unidas relacionados con la tortura para mejorar la respuesta colectiva a la situación de las víctimas; 
+11. permite la recopilación y difusión de conocimientos y mejores prácticas, con el fin de crear capacidades a nivel nacional. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -316,6 +332,10 @@ La **comisión** [[38]](https://www.ohchr.org/en/hrbodies/chr/pages/commissionon
 37. https://es.wikipedia.org/wiki/Sistema_de_control
 
 38. https://www.ohchr.org/en/hrbodies/chr/pages/commissiononhumanrights.aspx
+
+39. https://telecomlobby.com/RNMnetwork/documents/A_RES_36_151_S.pdf
+
+40. https://www.ohchr.org/sp/Pages/Home.aspx
 
     
 
