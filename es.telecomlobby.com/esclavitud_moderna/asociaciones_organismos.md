@@ -277,7 +277,7 @@ Convención europea sobre los derechos humanos:
 
 - nadie estará sometido a esclavitud o **servidumbre** [[45]](https://bit.ly/2J2Lnwc)
 
-
+Toda victima de crímenes que rompen estos dos artículos tienen **acceso directo a la Corte**. El artículo 13 garantiza ser atendidos antes de el marco legislativo nacional en caso se allegue presencia en tortura, como en mi caso de cibertortura en red de monitorio neuronal, de un funcionario de Estado, sea ello un médico, que es presente, un policía, que también es presente, o cualquier otro. Aquí hay varias casas nobles jugando a las apuestas mutuas remotas, algunos de ellos son funcionarios también de altísimo nivel tanto Español cuanto Italiano. El artículo 13 también obliga a los Estados investigar inmediatamente cualquier alegación de tortura, en mi caso denuncio públicamente tortura desde hace dos años y medio a fecha de 23 de Noviembre 2020.
 
 ###  External links 
 
