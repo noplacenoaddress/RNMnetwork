@@ -241,7 +241,7 @@ La **comisión** [[38]](https://www.ohchr.org/en/hrbodies/chr/pages/commissionon
 
 Recibe peticiones de acción urgente que lleva a la atención de los gobiernos de manera de garantizar la protección de los derechos de un individuo acerca de su integridad física y mental. Mantiene reuniones con representantes de gobiernos que quieren encontrarlo y hace visitas de zonas afectadas por tortura sistemática. 
 
-*Fondo voluntario de Naciones Unidas por victimas de tortura*
+*Fondo voluntario de Naciones Unidas por victimas de tortura* 
 
 1. promueve un enfoque centrado en las víctimas destinado a causar un cambio radical en el plano personal; 
 2.  es consciente de que ofrecer resarcimiento y recursos efectivos a las víctimas de la tortura es una obligación de los Estados de acuerdo con Derecho Internacional, principalmente el artículo 14 de la Convención Contra la Tortura de las Naciones Unidas y la correspondiente Observación General Nº 3;
@@ -254,6 +254,11 @@ Recibe peticiones de acción urgente que lleva a la atención de los gobiernos d
 9. asigna recursos para la evaluación de las actividades de los beneficiarios y su impacto en las víctimas;  
 10. aboga por lograr complementariedad y sinergias con programas de la Oficina del Alto Comisionado para los Derechos Humanos (**ACNUDH** [[40]](https://www.ohchr.org/sp/Pages/Home.aspx)) y otros programas y mecanismos de las Naciones Unidas relacionados con la tortura para mejorar la respuesta colectiva a la situación de las víctimas; 
 11. permite la recopilación y difusión de conocimientos y mejores prácticas, con el fin de crear capacidades a nivel nacional. 
+
+El fondo reparte las contribuciones voluntarias a organismos **NGO** que brindan asistencia psicológica, médica, social, económica y legal a victimas de torturas y familias. En Catalunya las asociaciones beneficiarias son:
+
+-  **Irídia - Centro de Defensa de Derechos Humanos** [[41]](https://iridia.cat/es/)
+- **Exil** [[42]](http://www.centroexil.org/)
 
 ###  External links 
 
@@ -336,6 +341,10 @@ Recibe peticiones de acción urgente que lleva a la atención de los gobiernos d
 39. https://telecomlobby.com/RNMnetwork/documents/A_RES_36_151_S.pdf
 
 40. https://www.ohchr.org/sp/Pages/Home.aspx
+
+41. https://iridia.cat/es/
+
+42. http://www.centroexil.org/
 
     
 
