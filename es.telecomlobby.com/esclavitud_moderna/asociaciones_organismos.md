@@ -233,6 +233,12 @@ Yo, Riccardo Giuntoli con NIE X9770628K afirmo que en Catalunya se practica la t
 - Todo Estado participante al Comité de derechos humanos, compuesto por 18 expertos,  y al convenio sobre los derechos civiles y políticos tiene que enviar un reporte cada cinco años sobre sus avances en la lucha contra la tortura y el gozar de los derecho humanos. Según el artículo 7 del convenio nadie tiene que subir torturas o otro trato o castigo cruel, inhumano o degradante. Los Estados tienen que tener algún tipo de **maquinaria de control** [[37]](https://es.wikipedia.org/wiki/Sistema_de_control) que garantice una protección eficaz a los ciudadanos. Cada denuncia solo de malos tratos tiene que ser investigada de forma redonda por parte de las autoridades en cuanto podría ser parte de el mecanismo contrario, uno de tortura y corrupción. *Yo añado que el indicador de violencia machista es fundamental para encuadrar un Estado donde se practique la tortura de forma sistemática*. 
 - Un ciudadano puede enviar una comunicación al Comité denunciando que sus derechos bajo el Convenio han sido violados. En el caso Catalán el artículo 7, creo, es roto para toda la clase obrera. **Nadie será sometido sin su libre consentimiento a experimentos médicos o científicos**.
 
+*Comisión de derechos humanos* 
+
+La **comisión** [[38]](https://www.ohchr.org/en/hrbodies/chr/pages/commissiononhumanrights.aspx) se reúne por seis semanas al año y discute violaciones especificas de derechos humanos in sesiones publicas y privadas. En 1999 afirmó que cada alegación de tortura o trato o castigo cruel inhumano o degradante debe ser examinado prontamente y de forma imparcial por parte de la autoridad nacional competente. 
+
+*Relator Especial sobre la tortura*
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -308,6 +314,8 @@ Yo, Riccardo Giuntoli con NIE X9770628K afirmo que en Catalunya se practica la t
 36. https://www.un.org/es/ga/
 
 37. https://es.wikipedia.org/wiki/Sistema_de_control
+
+38. https://www.ohchr.org/en/hrbodies/chr/pages/commissiononhumanrights.aspx
 
     
 
