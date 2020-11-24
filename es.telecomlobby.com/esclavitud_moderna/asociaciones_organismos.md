@@ -334,6 +334,14 @@ Tienen que existir claras conexiones entra los conceptos de derechos humanos y l
 
 Este último organismo es seguramente objetivo de SPECTRAM ya que buena parte del negocio es el trafico de cunas para juegos de cartas, lo mismo que estoy subiendo yo. También en la red de esclavitud y explotación se pre asignan hijos a mujeres nobles, hijos nacidos en esclavitud destinado lo más probable al suicidio. Es el negocio de las cartas de la nobleza. Un negocio antiguo ahora gestionado y digitalizado en la red de esclavitud transmitida a través de neuroestimuladores inalámbricos en la torre de Collserola. Muy lamentablemente en mi aplicación de persecución hay presente una enfermera mujer de un conocido, ya ni considero su amistad, de Genova; podría ser una victima o podría tener muchas mas informaciones sobre esta Mafia horrible. Es una mujer muy bella, como Saray, probablemente violada hace tiempo y ahora participe de este infierno radiofónico. 
 
+En algún país el principio de confidencialidad doctor paciente es incorporado en el marco legislativo nacional.  Los médicos pueden ser juzgados de ser culpables de mala conducta se rompen los estándar profesionales.
+
+*Códigos relevantes de Naciones Unidas para los profesionales de la salud* 
+
+Naciones Unidas ha legislado las obligaciones éticas de médicos y otros profesionales de la salud en los **principios de ética médica relevantes al rol del personal médico en el rol de la protección de los prisioneros y los detenidos contra la tortura** [[55]](https://telecomlobby.com/RNMnetwork/documents/PrinciplesMedicalEthics.pdf). Indican que es una enorme contravención de la ética en el cuidado de la salud participar, activamente o pasivamente, en la tortura o condonarla de cualquier manera. 
+
+Participación en tortura incluye evaluar la capacidad de un individuo a resistir a torturas. Ser presente, y en la red de monitorio neuronal hay varios médicos con la pantalla de que transmite lo que veo y otra con el mapeo remoto de mi habitación o sea de todo el ambiente de tortura DOMINT, en actos de tortura. Intencionalmente denegar las evidencias, sellar falsos reportes médicos, como en mi caso hizo el primario de un importante hospital público Catalán afirmando que había trazas de drogas en mis análisis cosa totalmente falsa, también de defunciones o autopsia, cosa que probablemente se hace con ciudadanos extra europeos.
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -443,6 +451,8 @@ Este último organismo es seguramente objetivo de SPECTRAM ya que buena parte de
 53. https://telecomlobby.com/RNMnetwork/documents/BasicPrinciplesRoleLawyers.pdf
 
 54. https://www.icn.ch/es
+
+55. https://telecomlobby.com/RNMnetwork/documents/PrinciplesMedicalEthics.pdf
 
     
 
