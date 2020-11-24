@@ -301,7 +301,12 @@ El **Estatuto de Roma de 1998** [[47]](https://telecomlobby.com/RNMnetwork/docum
 
 *Primera cosa quisiera portar a la luz que en la tecnocracia, el Estado dentro el Estado de derecho Mafioso y terrorista de la nobleza, ningún código ético es respectado. Todos son rotos.*
 
- 
+ Los códigos **éticos** [[49]](https://es.wikipedia.org/wiki/%C3%89tica) son establecidos de dos maneras:
+
+- por parte de instrumentos internacionales como Naciones Unidas.
+- mediante códigos de principios escritos por las asociaciones de profesionales.
+
+Los códigos están formulados con el fin de mantener el honor de la profesión. 
 
 ###  External links 
 
@@ -400,6 +405,8 @@ El **Estatuto de Roma de 1998** [[47]](https://telecomlobby.com/RNMnetwork/docum
 47. https://telecomlobby.com/RNMnetwork/documents/rs-eng.pdf
 
 48. https://www.icc-cpi.int/
+
+49. https://es.wikipedia.org/wiki/%C3%89tica
 
     
 
