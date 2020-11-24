@@ -10,6 +10,10 @@ This Casino is very articulated. Its the result of a great **brainstorming** [[3
 
 ![SPECTRAM subsidiary](http://telecomlobby.com/Images/sagrada_familia_mafia_nonstate_actors_spectram.webp)
 
+Francesca in neural subliminal message service:
+
+**"Democracy doesn't exist with techno, this is how she calls the modern slavery network".**
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/Remote_viewing
