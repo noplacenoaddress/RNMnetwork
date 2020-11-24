@@ -287,7 +287,21 @@ No hace falta decir que el ambiente de tortura de la aplicación neuronal constr
 
 ![CPT](https://telecomlobby.com/Images/comission_prevention_torture.webp)
 
+Visita personas privadas de su libertad. Después de su investigación escribe un reporte comentando las condiciones encontradas y hace la consideraciones y recomendaciones debidas. El Estado contesta por escrito y establece un dialogo con el Comité. Los reportes y las respuestas son documentos confidenciales a menos que el Estado decida hacerlos públicos. 
 
+#### Corte criminal internacional 
+
+El **Estatuto de Roma de 1998** [[47]](https://telecomlobby.com/RNMnetwork/documents/rs-eng.pdf) establece una **corte criminal internacional** [[48]](https://www.icc-cpi.int/) para juzgar individuos responsables de genocidios, crímenes contra la humanidad si la tortura es cometida de forma sistemática. 
+
+*Yo, Riccardo Giuntoli, afirmo y anexo pruebas de que en Catalunya a través de la torre de Norman Foster instalada en la montaña de Collserola en Barcelona capital se transmite cibertortura, una forma de tortura muy compleja de demostrar, de forma sistemática.* 
+
+#### Capitulo 2, códigos éticos relevantes . 
+
+![código ético](https://telecomlobby.com/Images/estructuracodigoetico.webp)
+
+*Primera cosa quisiera portar a la luz que en la tecnocracia, el Estado dentro el Estado de derecho Mafioso y terrorista de la nobleza, ningún código ético es respectado. Todos son rotos.*
+
+ 
 
 ###  External links 
 
@@ -382,6 +396,10 @@ No hace falta decir que el ambiente de tortura de la aplicación neuronal constr
 45. https://bit.ly/2J2Lnwc
 
 46. https://es.wikipedia.org/wiki/Impunidad
+
+47. https://telecomlobby.com/RNMnetwork/documents/rs-eng.pdf
+
+48. https://www.icc-cpi.int/
 
     
 
