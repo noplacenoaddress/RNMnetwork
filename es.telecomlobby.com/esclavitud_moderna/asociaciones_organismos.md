@@ -322,6 +322,18 @@ Los **fiscales** [[51]](https://bit.ly/3kWYkEV) tienen un deber ético de invest
 
 Los estándar internacionales establecen también un deber por los letrados para promover y proteger los derechos humanos y las libertades fundamentales. El artículo 14 de los **principios básicos de Naciones Unidas sobre el rol de los letrados** [[53]](https://telecomlobby.com/RNMnetwork/documents/BasicPrinciplesRoleLawyers.pdf) enuncia que:
 
+«Los letrados protegiendo los derechos de sus clientes y promoviendo la causa de la justicia, buscaran sostener los derechos humanos y las libertades fundamentales reconocidas de las leyes nacionales y internacionales y tendrían que actuar cada vez de forma libre y diligente en acuerdo con la ley y los estándar reconocidos y éticos de su profesión.»
+
+#### Ética en el cuidado de la salud
+
+Tienen que existir claras conexiones entra los conceptos de derechos humanos y los principios en el cuidado de la salud. La ética fundamental de la salud es articulada en tres niveles y son reflejados en la documentación de Naciones Unidas. También es embebida en las declaraciones de organizaciones internacionales:
+
+- Asociación médica mundial.
+- Asociación psiquiátrica mundial. 
+- **Consejo internacional de enfermeras** [[54]](https://www.icn.ch/es)
+
+Este último organismo es seguramente objetivo de SPECTRAM ya que buena parte del negocio es el trafico de cunas para juegos de cartas, lo mismo que estoy subiendo yo. También en la red de esclavitud y explotación se pre asignan hijos a mujeres nobles, hijos nacidos en esclavitud destinado lo más probable al suicidio. Es el negocio de las cartas de la nobleza. Un negocio antiguo ahora gestionado y digitalizado en la red de esclavitud transmitida a través de neuroestimuladores inalámbricos en la torre de Collserola. Muy lamentablemente en mi aplicación de persecución hay presente una enfermera mujer de un conocido, ya ni considero su amistad, de Genova; podría ser una victima o podría tener muchas mas informaciones sobre esta Mafia horrible. Es una mujer muy bella, como Saray, probablemente violada hace tiempo y ahora participe de este infierno radiofónico. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -429,6 +441,8 @@ Los estándar internacionales establecen también un deber por los letrados para
 52. https://telecomlobby.com/RNMnetwork/documents/prosecutors.pdf
 
 53. https://telecomlobby.com/RNMnetwork/documents/BasicPrinciplesRoleLawyers.pdf
+
+54. https://www.icn.ch/es
 
     
 
