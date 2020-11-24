@@ -320,6 +320,8 @@ Los **fiscales** [[51]](https://bit.ly/3kWYkEV) tienen un deber ético de invest
 
 *Yo, Riccardo Giuntoli, afirmo que en Catalunya debido al estado terrorista tecnocrata creado a través de la transmisión vía radio o mejor dicho armas electromagnéticas, y a la corrupción se ejecutan crímenes contra la humanidad de forma sistemática.* 
 
+Los estándar internacionales establecen también un deber por los letrados  
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
