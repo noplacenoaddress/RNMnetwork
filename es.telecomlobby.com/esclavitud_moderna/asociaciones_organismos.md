@@ -320,6 +320,8 @@ Los **fiscales** [[51]](https://bit.ly/3kWYkEV) tienen un deber ético de invest
 
 *Yo, Riccardo Giuntoli, afirmo que en Catalunya debido al estado terrorista tecnocrata creado a través de la transmisión vía radio o mejor dicho armas electromagnéticas, y a la corrupción se ejecutan crímenes contra la humanidad de forma sistemática.* 
 
+Los estándar internacionales establecen también un deber por los letrados para promover y proteger los derechos humanos y las libertades fundamentales. El artículo 14 de los **principios básicos de Naciones Unidas sobre el rol de los letrados** [[53]](https://telecomlobby.com/RNMnetwork/documents/BasicPrinciplesRoleLawyers.pdf) enuncia que:
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -425,6 +427,8 @@ Los **fiscales** [[51]](https://bit.ly/3kWYkEV) tienen un deber ético de invest
 51. https://bit.ly/3kWYkEV
 
 52. https://telecomlobby.com/RNMnetwork/documents/prosecutors.pdf
+
+53. https://telecomlobby.com/RNMnetwork/documents/BasicPrinciplesRoleLawyers.pdf
 
     
 
