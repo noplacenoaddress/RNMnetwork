@@ -308,6 +308,18 @@ El **Estatuto de Roma de 1998** [[47]](https://telecomlobby.com/RNMnetwork/docum
 
 Los códigos están formulados con el fin de mantener el honor de la profesión. 
 
+#### Ética en la profesión legal
+
+Los jueces juegan un rol especial en la protección de los ciudadanos. El artículo 6 de los **principios básicos de Naciones Unidas sobre la independencia del poder judicial** [[50]](https://telecomlobby.com/RNMnetwork/documents/BasicPrinciplesIndependenceJudiciary.pdf) enuncia que:
+
+«El principio de la independencia del poder judicial da derecho y requiere que el mismo poder asegure que todos los procedimientos judiciales sean conducidos de forma ecua y que los derechos de ambas partes sean respectados».
+
+Los **fiscales** [[51]](https://bit.ly/3kWYkEV) tienen un deber ético de investigar y perseguir un crimen de tortura cometido por funcionarios. El artículo 15 sobre las l**íneas de guía del rol de los fiscales de Naciones Unidas** [[52]](https://telecomlobby.com/RNMnetwork/documents/prosecutors.pdf) enuncia que:
+
+«Los fiscales tienen que dedicar sus atenciones a la persecución de crímenes cometidos por funcionarios en particular sobre corrupción, abuso de poder, violaciones graves de derechos humanos reconocidos por el marco internacional legislativo y donde las leyes los permitan las investigaciones de dichas ofensas».
+
+*Yo, Riccardo Giuntoli, afirmo que en Catalunya debido al estado terrorista tecnocrata creado a través de la transmisión vía radio o mejor dicho armas electromagnéticas, y a la corrupción se ejecutan crímenes contra la humanidad de forma sistemática.* 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -407,6 +419,14 @@ Los códigos están formulados con el fin de mantener el honor de la profesión.
 48. https://www.icc-cpi.int/
 
 49. https://es.wikipedia.org/wiki/%C3%89tica
+
+50. https://telecomlobby.com/RNMnetwork/documents/BasicPrinciplesIndependenceJudiciary.pdf
+
+51. https://bit.ly/3kWYkEV
+
+52. https://telecomlobby.com/RNMnetwork/documents/prosecutors.pdf
+
+    
 
     
 
