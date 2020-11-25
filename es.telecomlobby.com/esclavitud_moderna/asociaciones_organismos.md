@@ -370,6 +370,8 @@ Los médicos tienen la obligación moral de proveer cuidado de emergencia como u
 
 > Yo, Riccardo Giuntoli, estoy gritando ayuda tanto en Internet, cuanto en la red de monitorio neuronal donde están presentes en calidad de jugadores de un sistema de apuestas remoto y alguno también torturándome tanto sexualmente cuanto con mensajería subliminal hacía el cerebro. Nadie, absolutamente nadie, ni si quiera mis padres, me ha ayudado. Nadie habla directamente del infierno de la red de explotación y esclavitud moderna. Las personas tienen miedo a declarar de ser esclavos. Se enmascaran detrás de grupos, como la Iglesia, la Mafia o la nobleza y no entienden que son todos y todas torturados. Todos, aunque hayan jugado a las apuestas. Todos.
 
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
