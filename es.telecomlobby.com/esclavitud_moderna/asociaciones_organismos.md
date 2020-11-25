@@ -372,7 +372,7 @@ Los médicos tienen la obligación moral de proveer cuidado de emergencia como u
 
 Hay códigos de ética muy antiguos que indicaban que los  médicos tienen que esforzarse por el alivio de de los pacientes con todo su corazón y alma, entra ellos el **Caraka Samhita** [[60]](https://es.wikipedia.org/wiki/Charaka-samhita) del primer siglo después de Cristo. 
 
-Los valores de la medicina occidental han sido dominados por el **juramento hipocrático** [[61]](https://es.wikipedia.org/wiki/Juramento_hipocr%C3%A1tico)
+Los valores de la medicina occidental han sido dominados por el **juramento hipocrático** [[61]](https://es.wikipedia.org/wiki/Juramento_hipocr%C3%A1tico) y el **juramento de Maimonides** [[62]](https://en.wikipedia.org/wiki/Oath_of_Maimonides). Los valores de confidencialidad son especificados hasta en estos juramentos. Cosa que viene rota totalmente en la red de esclavitud moderna. Un «juego» de la élite, de lo tratos nazistas; un «juego» de razas, de persecución de individuos, los individuos objetivo conocidos en Inglés como target individuals. Un negocio basado sobre el sufrimiento y las lagrimas y el suicidio. La vergüenza de Europa. 
 
 ###  External links 
 
@@ -497,6 +497,8 @@ Los valores de la medicina occidental han sido dominados por el **juramento hipo
 60. https://es.wikipedia.org/wiki/Charaka-samhita
 
 61. https://es.wikipedia.org/wiki/Juramento_hipocr%C3%A1tico
+
+62. https://en.wikipedia.org/wiki/Oath_of_Maimonides
 
     
 
