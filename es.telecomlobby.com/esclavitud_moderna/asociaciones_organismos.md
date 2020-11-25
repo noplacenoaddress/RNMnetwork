@@ -342,6 +342,26 @@ Naciones Unidas ha legislado las obligaciones éticas de médicos y otros profes
 
 Participación en tortura incluye evaluar la capacidad de un individuo a resistir a torturas. Ser presente, y en la red de monitorio neuronal hay varios médicos con la pantalla de que transmite lo que veo y otra con el mapeo remoto de mi habitación o sea de todo el ambiente de tortura DOMINT, en actos de tortura. Intencionalmente denegar las evidencias, sellar falsos reportes médicos, como en mi caso hizo el primario de un importante hospital público Catalán afirmando que había trazas de drogas en mis análisis cosa totalmente falsa, también de defunciones o autopsia, cosa que probablemente se hace con ciudadanos extra europeos.
 
+*Declaraciones de cuerpos profesionales internacionales*
+
+Definen los deberes éticos los cuales tienen que llevar a cabo todos los médicos:
+
+- **La declaración de la asociación mundial de médicos** [[56]](https://en.wikipedia.org/wiki/Declaration_of_Tokyo) de 1975; todo médico tiene absoluta prohibición de brindar información o cualquier instrumento o substancia medicinal que pueda facilitar tortura o malos tratos.
+- **La declaración de la asociación mundial de psiquiatras** [[57]](https://telecomlobby.com/RNMnetwork/documents/declarationHawaii.pdf) de 1977; prohíbe el utilizo erróneo de habilidades psiquiátricas de violar los derechos humanos de cualquier individuo o grupo.    
+- La conferencia internacional sobre la medicina Islámica de 1981; veta a los doctores de hacer daño, destruir o infligir dolor al cuerpo, mente o espíritu de un paciente cualquier sea la razón política o militar.
+
+Los profesionales de la salud también tienen un deber de suportar colegas que hablan acerca de violaciones de derechos humanos. El no hacerlo es un riesgo de romper los derechos del paciente y de caer en mala fama. Toda asociación de médicos tiene que velar para que en la nación donde opera no haya ningún tipo de violación de derechos humanos y que ningún doctor abuse de su cargo. Brindar mecanismos para la investigación de actividades non éticas en la esfera de los derechos humanos. 
+
+**La declaración de Hamburgo** [[58]](https://telecomlobby.com/RNMnetwork/documents/wma-declaration-of-hamburg-concerning-support-for-medical-doctors-refusing-to-participate-in-or-to-condone-the-use-of-torture-or-other-forms-of-cruel-inhuman-or-degrading-treatment.pdf) de 1997 recomienda a los médicos resistir a cualquier forma de tortura o cualquier presión.
+
+*Códigos de medicina ética nacionales.*
+
+ El tercer nivel en lo cual los principios éticos del cuidado de la salud son articulados es a través de los códigos nacionales. En todo ellos los principios básicos son acerca del deber de evitar daños, ayudar los enfermos, proteger los vulnerables y non discriminar pacientes sobre cualquier otra base que no sea la urgencia de sus necesidades médicas. 
+
+#### Principios comunes a todos los códigos acerca la ética del cuidado de la salud
+
+![codigo ética](https://telecomlobby.com/Images/codigo_etica.webp)
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -453,6 +473,12 @@ Participación en tortura incluye evaluar la capacidad de un individuo a resisti
 54. https://www.icn.ch/es
 
 55. https://telecomlobby.com/RNMnetwork/documents/PrinciplesMedicalEthics.pdf
+
+56. https://en.wikipedia.org/wiki/Declaration_of_Tokyo
+
+57. https://telecomlobby.com/RNMnetwork/documents/declarationHawaii.pdf
+
+58. https://telecomlobby.com/RNMnetwork/documents/wma-declaration-of-hamburg-concerning-support-for-medical-doctors-refusing-to-participate-in-or-to-condone-the-use-of-torture-or-other-forms-of-cruel-inhuman-or-degrading-treatment.pdf
 
     
 
