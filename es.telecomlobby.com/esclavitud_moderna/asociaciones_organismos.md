@@ -362,6 +362,14 @@ Los profesionales de la salud también tienen un deber de suportar colegas que h
 
 ![codigo ética](https://telecomlobby.com/Images/codigo_etica.webp)
 
+Todo se centra en el núcleo de la medicina que es aliviar de sufrimientos y **angustia** [[59]](https://es.wikipedia.org/wiki/Angustia).
+
+El deber de brindar cuidado compasivo, atención médica a pacientes con enfermedades terminales, es expresado de muchas maneras en códigos nacionales y internacionales además que en declaraciones. 
+
+Los médicos tienen la obligación moral de proveer cuidado de emergencia como un deber humanitario; el deber de contestar a necesidades y sufrimientos es resonado en virtualmente todas las culturas del ser humano. 
+
+> Yo, Riccardo Giuntoli, estoy gritando ayuda tanto en Internet, cuanto en la red de monitorio neuronal donde están presentes en calidad de jugadores de un sistema de apuestas remoto y alguno también torturándome tanto sexualmente cuanto con mensajería subliminal hacía el cerebro. Nadie, absolutamente nadie, ni si quiera mis padres, me ha ayudado. Nadie habla directamente del infierno de la red de explotación y esclavitud moderna. Las personas tienen miedo a declarar de ser esclavos. Se enmascaran detrás de grupos, como la Iglesia, la Mafia o la nobleza y no entienden que son todos y todas torturados. Todos, aunque hayan jugado a las apuestas. Todos.
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -479,6 +487,8 @@ Los profesionales de la salud también tienen un deber de suportar colegas que h
 57. https://telecomlobby.com/RNMnetwork/documents/declarationHawaii.pdf
 
 58. https://telecomlobby.com/RNMnetwork/documents/wma-declaration-of-hamburg-concerning-support-for-medical-doctors-refusing-to-participate-in-or-to-condone-the-use-of-torture-or-other-forms-of-cruel-inhuman-or-degrading-treatment.pdf
+
+59. https://es.wikipedia.org/wiki/Angustia
 
     
 
