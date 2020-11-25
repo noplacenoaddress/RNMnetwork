@@ -374,6 +374,14 @@ Hay códigos de ética muy antiguos que indicaban que los  médicos tienen que e
 
 Los valores de la medicina occidental han sido dominados por el **juramento hipocrático** [[61]](https://es.wikipedia.org/wiki/Juramento_hipocr%C3%A1tico) y el **juramento de Maimonides** [[62]](https://en.wikipedia.org/wiki/Oath_of_Maimonides). Los valores de confidencialidad son especificados hasta en estos juramentos. Cosa que viene rota totalmente en la red de esclavitud moderna. Un «juego» de la élite, de lo tratos nazistas; un «juego» de razas, de persecución de individuos, los individuos objetivo conocidos en Inglés como target individuals. Un negocio basado sobre el sufrimiento y las lagrimas y el suicidio. La vergüenza de Europa. 
 
+Los médicos tienen que proveer los cuidados en total independencia moral y ética con compasión y respeto de la dignidad humana.
+
+**La declaración de Lisboa** [[63]](https://telecomlobby.com/RNMnetwork/documents/wma-declaration-of-lisbon-on-the-rights-of-the-patient.pdf) sobre de los derechos de los pacientes de 1981 reconoce que cada persona es titular sin discriminaciones de un adecuado cuidado médico y reitera que los doctores tienen que actuar siempre según el interés del paciente. Factores como la origen racial, las creencias políticas, la nacionalidad, el genero, la religión y el merito individual no tienen que ser motivo de mala conducta.
+
+Según los preceptos de la medicina moderna los pacientes mismos son los jueces mejores por el propio interés.  La voluntad de un paciente mayor de edad es de mayor importancia respecto a cualquier opinión de un funcionario o autoridad; cuando un paciente es non cociente o no capaz los profesionales médicos tienen que juzgar cual son los intereses dominantes para el mismo sujeto. 
+
+Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](https://es.wikipedia.org/wiki/Consentimiento_informado) de parte de pacientes mentalmente capaces por cualquier tipo de examen o procedimiento.    
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -499,6 +507,10 @@ Los valores de la medicina occidental han sido dominados por el **juramento hipo
 61. https://es.wikipedia.org/wiki/Juramento_hipocr%C3%A1tico
 
 62. https://en.wikipedia.org/wiki/Oath_of_Maimonides
+
+63. https://telecomlobby.com/RNMnetwork/documents/wma-declaration-of-lisbon-on-the-rights-of-the-patient.pdf
+
+64. https://es.wikipedia.org/wiki/Consentimiento_informado
 
     
 
