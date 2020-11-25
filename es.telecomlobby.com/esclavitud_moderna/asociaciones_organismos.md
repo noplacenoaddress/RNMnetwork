@@ -380,7 +380,7 @@ Los médicos tienen que proveer los cuidados en total independencia moral y éti
 
 Según los preceptos de la medicina moderna los pacientes mismos son los jueces mejores por el propio interés.  La voluntad de un paciente mayor de edad es de mayor importancia respecto a cualquier opinión de un funcionario o autoridad; cuando un paciente es non cociente o no capaz los profesionales médicos tienen que juzgar cual son los intereses dominantes para el mismo sujeto. 
 
-Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](https://es.wikipedia.org/wiki/Consentimiento_informado) de parte de pacientes mentalmente capaces por cualquier tipo de examen o procedimiento.    
+Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](https://es.wikipedia.org/wiki/Consentimiento_informado) de parte de pacientes mentalmente capaces por cualquier tipo de examen o procedimiento.  Los profesionales de la salud tienen siempre que explicar al paciente cual es el real motivo de un examen y de un tratamiento. 
 
 ###  External links 
 
