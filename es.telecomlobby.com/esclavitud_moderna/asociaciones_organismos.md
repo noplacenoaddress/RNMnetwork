@@ -413,6 +413,8 @@ Los Estados son obligados debajo del marco legislativo internacional de investig
 
 Yo, Riccardo Giuntoli con NIE X9770628K, reporto a varios organismos tantos nacionales cuanto internacionales, de ser victima de tortura en su forma de cibertortura en la comunidad autónoma de España Catalunya por parte de una Mafia de actores no estatales que toman ordenes de la aristocracia tanto Italiana cuanto de este país. Reporto desde hace más de dos años, hace tres años que soy victima de torturas y siete de malos tratos. 
 
+Donde las evidencias lo justifican, un Estado en el cuyo territorio haya una persona o mas personas, en mi caso hay muchísimos Italianos de los cuales conozco la identidad, que presuntamente han cometido o bien han participado, o sea están presentes como todos vosotros Genoveses que estáis en mi aplicación neuronal de tortura, a un hecho delictivo de torturas tiene obligadamente que **extraditar** [[70]](https://es.wikipedia.org/wiki/Extradici%C3%B3n) el o los presuntos criminales al Estado, en mi caso España, que tiene jurisdicción donde se haya cometido la violación de derechos humanos con el propósito de juzgarlos bajo el código penal nacional. Los principios fundamentales de cualquier investigación de accidentes de tortura son competencia, imparcialidad, independencia, prontitud y minuciosidad.  
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -552,6 +554,8 @@ Yo, Riccardo Giuntoli con NIE X9770628K, reporto a varios organismos tantos naci
 68. https://es.wikipedia.org/wiki/Dilema
 
 69. https://es.wikipedia.org/wiki/Medicina_forense
+
+70. https://es.wikipedia.org/wiki/Extradici%C3%B3n
 
     
 
