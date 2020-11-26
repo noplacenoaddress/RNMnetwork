@@ -409,6 +409,10 @@ Otros profesionales de la salud con roles complicados del punto de vista de las 
 
 ![](https://telecomlobby.com/Images/investigacion_legal_tortura.webp)
 
+Los Estados son obligados debajo del marco legislativo internacional de investigar los incidentes reportado de torturas rápidamente y imparcialmente. 
+
+Yo, Riccardo Giuntoli con NIE X9770628K, reporto a varios organismos tantos nacionales cuanto internacionales, de ser victima de tortura en su forma de cibertortura en la comunidad autónoma de España Catalunya por parte de una Mafia de actores no estatales que toman ordenes de la aristocracia tanto Italiana cuanto de este país. Reporto desde hace más de dos años, hace tres años que soy victima de torturas y siete de malos tratos. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
