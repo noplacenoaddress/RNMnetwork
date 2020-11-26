@@ -169,7 +169,7 @@ On 18 of November 2020 this is my father saying that I've got obsessions, obviou
 
 I want to specify that my father is totally guilty because he wants to blame an invented addiction to drugs on the result of three years of torture using electromagnetic weapons since I have obvious symptoms of attention deficit syndrome. It is a form of implementation agreed upon between him and the machinists, torturers, of my torture environment. The goal is not to make me receive even a pension for being tortured but well to sell me as a drug addict which is totally false.
 
-He's always talking about chemical drugs, drugs I've never used, and obsessions. This man is totally guilty.
+He's always talking about chemical  and obsessions. This man is totally guilty.
 
 ### Barcelona street art
 
