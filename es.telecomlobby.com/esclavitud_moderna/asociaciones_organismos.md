@@ -380,7 +380,7 @@ Los médicos tienen que proveer los cuidados en total independencia moral y éti
 
 Según los preceptos de la medicina moderna los pacientes mismos son los jueces mejores por el propio interés.  La voluntad de un paciente mayor de edad es de mayor importancia respecto a cualquier opinión de un funcionario o autoridad; cuando un paciente es non cociente o no capaz los profesionales médicos tienen que juzgar cual son los intereses dominantes para el mismo sujeto. 
 
-Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](https://es.wikipedia.org/wiki/Consentimiento_informado) de parte de pacientes mentalmente capaces por cualquier tipo de examen o procedimiento.  Los profesionales de la salud tienen siempre que explicar al paciente cual es el real motivo de un examen y de un tratamiento. 
+Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](https://es.wikipedia.org/wiki/Consentimiento_informado) de parte de pacientes mentalmente capaces por cualquier tipo de examen o procedimiento.  Los profesionales de la salud tienen siempre que explicar al paciente cual es el real motivo de un examen y de un tratamiento. Los consentimientos obtenidos bajo coacción, tortura o resultado de falsa información son inválidos y representan una grave rotura de la ética médica. Obviamente si en un ambiente de tortura, cuidado que en la red de explotación y esclavitud el ambiente es vía radio pero si que están presentes funcionarios y médicos corruptos, un doctor suministra medicamento para que la victima pueda soportar mas torturas es un grave crimen contra la humanidad. En la red de monitorio neuronal hay muchos consejos de tomar medicamento leves como **antiinflamatorios** [[65]](https://es.wikipedia.org/wiki/Antiinflamatorio). 
 
 ###  External links 
 
@@ -511,6 +511,10 @@ Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](h
 63. https://telecomlobby.com/RNMnetwork/documents/wma-declaration-of-lisbon-on-the-rights-of-the-patient.pdf
 
 64. https://es.wikipedia.org/wiki/Consentimiento_informado
+
+65. https://es.wikipedia.org/wiki/Antiinflamatorio
+
+    
 
     
 
