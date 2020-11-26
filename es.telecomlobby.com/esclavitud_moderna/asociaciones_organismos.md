@@ -380,7 +380,9 @@ Los médicos tienen que proveer los cuidados en total independencia moral y éti
 
 Según los preceptos de la medicina moderna los pacientes mismos son los jueces mejores por el propio interés.  La voluntad de un paciente mayor de edad es de mayor importancia respecto a cualquier opinión de un funcionario o autoridad; cuando un paciente es non cociente o no capaz los profesionales médicos tienen que juzgar cual son los intereses dominantes para el mismo sujeto. 
 
-Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](https://es.wikipedia.org/wiki/Consentimiento_informado) de parte de pacientes mentalmente capaces por cualquier tipo de examen o procedimiento.  Los profesionales de la salud tienen siempre que explicar al paciente cual es el real motivo de un examen y de un tratamiento. Los consentimientos obtenidos bajo coacción, tortura o resultado de falsa información son inválidos y representan una grave rotura de la ética médica. Obviamente si en un ambiente de tortura, cuidado que en la red de explotación y esclavitud el ambiente es vía radio pero si que están presentes funcionarios y médicos corruptos, un doctor suministra medicamento para que la victima pueda soportar mas torturas es un grave crimen contra la humanidad. En la red de monitorio neuronal hay muchos consejos de tomar medicamento leves como **antiinflamatorios** [[65]](https://es.wikipedia.org/wiki/Antiinflamatorio). 
+Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](https://es.wikipedia.org/wiki/Consentimiento_informado) de parte de pacientes mentalmente capaces por cualquier tipo de examen o procedimiento.  Los profesionales de la salud tienen siempre que explicar al paciente cual es el real motivo de un examen y de un tratamiento. Los consentimientos obtenidos bajo coacción, tortura o resultado de falsa información son inválidos y representan una grave rotura de la ética médica. Obviamente si en un ambiente de tortura, cuidado que en la red de explotación y esclavitud el ambiente es vía radio pero si que están presentes funcionarios y médicos corruptos, un doctor suministra medicamento para que la victima pueda soportar mas torturas es un grave crimen contra la humanidad. En la red de monitorio neuronal hay muchos consejos de tomar medicamento leves como **antiinflamatorios** [[65]](https://es.wikipedia.org/wiki/Antiinflamatorio).  Un médico nunca se tiene que ocupar de facilitar un castigo pero bien de la salud del paciente, que tiene a su vez que ser voluntario y no obligado. Se utilizan también en mi caso doctores de otras nacionalidades para hacer perder trazas siendo yo Italiano y siendo torturado por la aristocracia Española y Italiana. Además, quiero especificar, que mis datos médicos vitales como el latido y la temperatura aproximada son relevados de forma remota y son compartidos entra todos los participantes, otros individuos objetivos, maquinistas, doctores, funcionarios, jugadores a las apuestas remotas, aristocracia y mis padres. O sea que son datos sensibles hechos públicos. 
+
+Mi **derecho a la intimidad** [[66]](https://es.wikipedia.org/wiki/Derecho_a_la_intimidad) es totalmente roto desde que soy conectado al sistema DOMINT de la red de explotación y esclavitud transmitida por neuroestimuladores inalámbricos desde la torre de Norman Foster en Collserola, Barcelona. Hoy día 26 de Noviembre 2020 falta un día para que se cumplan tres años de torturas y roturas de prácticamente todos mis derechos fundamentales por parte de altos cargos del Estado Español. Ayuda.
 
 ###  External links 
 
@@ -513,6 +515,8 @@ Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](h
 64. https://es.wikipedia.org/wiki/Consentimiento_informado
 
 65. https://es.wikipedia.org/wiki/Antiinflamatorio
+
+66. https://es.wikipedia.org/wiki/Derecho_a_la_intimidad
 
     
 
