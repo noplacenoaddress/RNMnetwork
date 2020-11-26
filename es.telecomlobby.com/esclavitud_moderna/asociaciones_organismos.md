@@ -393,7 +393,11 @@ En el caso de los individuos objetivo de la red de explotación hay varios médi
 - un deber primario verso los intereses del paciente.
 - un deber general verso la sociedad para asegurarse que se haga justicia y que sean prevenidas violaciones de derechos humanos.
 
-Pueden surgir **dilemas** [[68]](https://es.wikipedia.org/wiki/Dilema) por profesionales de la salud que trabajan con la policía, los militares y otros servicios de seguridad en el sistema carcelario. Nunca deben ser obligados por contrato o de otra forma a comprometer su independencia profesional.  Cuando el paciente es un menor de edad o bien un individuo vulnerable los médicos tienen la obligación de actuar como abogados.  
+Pueden surgir **dilemas** [[68]](https://es.wikipedia.org/wiki/Dilema) por profesionales de la salud que trabajan con la policía, los militares y otros servicios de seguridad en el sistema carcelario. Nunca deben ser obligados por contrato o de otra forma a comprometer su independencia profesional.  Cuando el paciente es un menor de edad o bien un individuo vulnerable los médicos tienen la obligación de actuar como abogados.  En caso de torturas deben reportar el asunto a las apropiadas autoridades o agencias internacionales en manera de que puedan investigar sin exponer los pacientes y sus familias a un riesgo previsible de daño grave.
+
+Dilemas pueden surgir cuando ética y leyes son en contradicción. En algunos casos pueden haber leyes que obligan al médico de revelar información médica confidencial.
+
+Códigos internacionales y principios éticos obligan el reporte de información acerca de torturas o mal tratos a un cuerpo responsable. En algún país esto es también un deber legal. De todas formas pero algún paciente podría denegar de ser examinado por estos propósitos o bien de permitir que la información ganada sea divulgada a otros. Los profesionales de la salud tendrían que buscar soluciones que proveen justicia sin romper los derechos del paciente a la confidencialidad. A menos que el mismo, como en mi caso, quiera publicar expresamente todo resultado. 
 
 ###  External links 
 
