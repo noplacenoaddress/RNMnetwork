@@ -397,7 +397,17 @@ Pueden surgir **dilemas** [[68]](https://es.wikipedia.org/wiki/Dilema) por profe
 
 Dilemas pueden surgir cuando ética y leyes son en contradicción. En algunos casos pueden haber leyes que obligan al médico de revelar información médica confidencial.
 
-Códigos internacionales y principios éticos obligan el reporte de información acerca de torturas o mal tratos a un cuerpo responsable. En algún país esto es también un deber legal. De todas formas pero algún paciente podría denegar de ser examinado por estos propósitos o bien de permitir que la información ganada sea divulgada a otros. Los profesionales de la salud tendrían que buscar soluciones que proveen justicia sin romper los derechos del paciente a la confidencialidad. A menos que el mismo, como en mi caso, quiera publicar expresamente todo resultado. 
+Códigos internacionales y principios éticos obligan el reporte de información acerca de torturas o mal tratos a un cuerpo responsable. En algún país esto es también un deber legal. De todas formas pero algún paciente podría denegar de ser examinado por estos propósitos o bien de permitir que la información ganada sea divulgada a otros. Los profesionales de la salud tendrían que buscar soluciones que proveen justicia sin romper los derechos del paciente a la confidencialidad. A menos que el mismo, como en mi caso, quiera publicar expresamente todo resultado.  Cuando un doctor y un paciente están en una situación terapéutica, como en los cuidados de un hospital, hay una moral fuerte y imperativa por los doctores de preservar la regla de confidencialidad. 
+
+Reportar evidencias de torturas es totalmente apropiado siempre que el paciente de su consenso.
+
+**Doctores forenses** [[69]](https://es.wikipedia.org/wiki/Medicina_forense), que son aquellos que trabajan en paralelo con el sistema judicial, tienen la obligación de reportar sus observaciones objetivamente, los pacientes tienen menor poder de decisión, los doctores que pertenecen a esta rama de la profesión tienen que explicar claramente su rol al paciente y dejar muy claro que el principio de confidencialidad no es el mismo que en el contexto terapéutico. Obviamente los médicos forenses no tienen que falsificar bajo ningún tipo de orden sus reportes pero tienen que proveer evidencias imparciales, incluidas evidencias de mal tratos o torturas.
+
+Otros profesionales de la salud con roles complicados del punto de vista de las obligaciones son aquellos que trabajan en prisiones o comisarias. 
+
+#### Capitulo 3, investigación legal de tortura.
+
+![](https://telecomlobby.com/Images/investigacion_legal_tortura.webp)
 
 ###  External links 
 
@@ -536,6 +546,10 @@ Códigos internacionales y principios éticos obligan el reporte de información
 67. https://es.wikipedia.org/wiki/Confidencialidad
 
 68. https://es.wikipedia.org/wiki/Dilema
+
+69. https://es.wikipedia.org/wiki/Medicina_forense
+
+    
 
     
 
