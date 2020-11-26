@@ -384,6 +384,10 @@ Los doctores tienen el deber de obtener el **consentimiento informado** [[64]](h
 
 Mi **derecho a la intimidad** [[66]](https://es.wikipedia.org/wiki/Derecho_a_la_intimidad) es totalmente roto desde que soy conectado al sistema DOMINT de la red de explotación y esclavitud transmitida por neuroestimuladores inalámbricos desde la torre de Norman Foster en Collserola, Barcelona. Hoy día 26 de Noviembre 2020 falta un día para que se cumplan tres años de torturas y roturas de prácticamente todos mis derechos fundamentales por parte de altos cargos del Estado Español y el estado Italiano. Ayuda.
 
+Todos los códigos éticos de la medicina clásica y moderna prevén la **confidencialidad** [[67]](https://es.wikipedia.org/wiki/Confidencialidad). En muchos países es incluida en el marco legislativo nacional. La confidencialidad de datos que no identifican el paciente puede venir menos como por ejemplo en la colección de datos acerca de tortura y malos tratos con el fin de crear patrones de reconocimiento. 
+
+En el caso de los individuos objetivo de la red de explotación hay varios médicos corruptos que trabajan junto a la nobleza y a funcionarios de policía igualmente corruptos  que producen falsos reportes acerca de droga adicción de las victimas. Se juega mucho con este tema haciendo creer que reduzca los derechos de un torturado. Dentro del ambiente de tortura hay personas que inducen al utilizo de droga y para una persona que no sepa explicar la tecnología, que es monstruosa, caer en las drogas es del todo normal. De otra forma otra manera de coacción y presión son los hijos, Saray de esta manera es obligada a ser un premio de la máquina del «techno», quiere decir que es obligada a tener relaciones lampo con victimas. Su figura es conocida en la red de esclavitud como **la ben implantada**, chicas explotadas sexualmente y torturada psicologicamente por una serie de funcionarios corruptos.  Dependiendo de su carácter y aptitudes su mueven en diferentes clases sociales.
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -517,6 +521,8 @@ Mi **derecho a la intimidad** [[66]](https://es.wikipedia.org/wiki/Derecho_a_la_
 65. https://es.wikipedia.org/wiki/Antiinflamatorio
 
 66. https://es.wikipedia.org/wiki/Derecho_a_la_intimidad
+
+67. https://es.wikipedia.org/wiki/Confidencialidad
 
     
 
