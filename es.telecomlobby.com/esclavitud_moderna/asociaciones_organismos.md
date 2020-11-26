@@ -388,6 +388,13 @@ Todos los códigos éticos de la medicina clásica y moderna prevén la **confid
 
 En el caso de los individuos objetivo de la red de explotación hay varios médicos corruptos que trabajan junto a la nobleza y a funcionarios de policía igualmente corruptos  que producen falsos reportes acerca de droga adicción de las victimas. Se juega mucho con este tema haciendo creer que reduzca los derechos de un torturado. Dentro del ambiente de tortura hay personas que inducen al utilizo de droga y para una persona que no sepa explicar la tecnología, que es monstruosa, caer en las drogas es del todo normal. De otra forma otra manera de coacción y presión son los hijos, Saray de esta manera es obligada a ser un premio de la máquina del «techno», quiere decir que es obligada a tener relaciones lampo con victimas. Su figura es conocida en la red de esclavitud como **la ben implantada**, chicas explotadas sexualmente y torturada psicologicamente por una serie de funcionarios corruptos.  Dependiendo de su carácter y aptitudes su mueven en diferentes clases sociales.
 
+#### Profesionales de la salud con doble obligación
+
+- un deber primario verso los intereses del paciente.
+- un deber general verso la sociedad para asegurarse que se haga justicia y que sean prevenidas violaciones de derechos humanos.
+
+Pueden surgir **dilemas** [[68]](https://es.wikipedia.org/wiki/Dilema) por profesionales de la salud que trabajan con la policía, los militares y otros servicios de seguridad en el sistema carcelario. Nunca deben ser obligados por contrato o de otra forma a comprometer su independencia profesional.  Cuando el paciente es un menor de edad o bien un individuo vulnerable los médicos tienen la obligación de actuar como abogados.  
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -523,6 +530,8 @@ En el caso de los individuos objetivo de la red de explotación hay varios médi
 66. https://es.wikipedia.org/wiki/Derecho_a_la_intimidad
 
 67. https://es.wikipedia.org/wiki/Confidencialidad
+
+68. https://es.wikipedia.org/wiki/Dilema
 
     
 
