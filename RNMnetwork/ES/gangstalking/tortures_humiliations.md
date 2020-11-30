@@ -174,6 +174,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 27/11/2020 03:01 Alessandro, a person that I've known in Genoa from when I was an adolescent, wake up me with electroshock torture and in subliminal voice message service say to me "questo è il techno e nel techno si muore". Alessandro is a noble and is a owner of a dog, a Carlino. What he raffigurates with his dog is something about slavery, I'll explain it in another chapter. Alessandro is a professional poker player, in the slavery network people are considered play game card.
 - 29/11/2020 17:11 Francesca start to threat me about kidnapping. She virtually kidnap me from 1996. Francesca is from a extreme right and fascist family. She is a terrorist.
 - 29/11/2020 21:06 Francesca speaking with a friend of mine say that she will kill his son if he complaint with me.
+- 30/11/2020 04:59 Francesca threat me to kill all my family.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
