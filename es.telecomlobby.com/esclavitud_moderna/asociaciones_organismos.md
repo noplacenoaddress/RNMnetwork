@@ -429,6 +429,14 @@ Es necesario que hayan investigadores expertos sobre la tortura; en el caso de l
 
 Un experto en investigación de cibertortura tiene que tener optimas bases de informática, de radio, de investigación forense, de psicología, de psiquiatría y de medicina. Yo, Riccardo Giuntoli, siendo una víctima de cibertortura desde Noviembre 2017 y siendo conectado al sistema de neuroestimuladores inalámbricos de la torre de Barcelona desde el 1996, quiero ser uno de los máximos expertos de este sector para ayudar a luchar con esta forma oculta de esclavitud moderna. Un instrumento de la extrema derecha. 
 
+Estos los pasos principales:
+
+- Mesa en claro de los hechos y establecimiento y reconocimiento de las responsabilidades de individuos y Estado en frente de las victimas y sus familias.
+- Identificación de las medidas necesarias a prevenir la recurrencia.
+- Facilitar el enjuiciamiento o a las sanciones disciplinarias por aquellos indicados por la investigación de ser responsables y demostración de la necesidad de plena reparación y compensación por parte del Estado, incluida una justa y adecuada compensación económica y provisión de los medios por el cuidado médico y rehabilitación. 
+
+Los Estados tienen asegurar que las denuncias y los reportes de tortura sean prontamente investigados. Los investigadores tienen que ser independientes, competentes y imparciales. Tienen que tener acceso a médicos igualmente imparciales y expertos. Los métodos que suelen llevar a cabo estás investigaciones tienen que ser compatibles con los más altos estándar profesionales  y cada descubrimiento tiene que ser hecho público. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
