@@ -415,6 +415,20 @@ Yo, Riccardo Giuntoli con NIE X9770628K, reporto a varios organismos tantos naci
 
 Donde las evidencias lo justifican, un Estado en el cuyo territorio haya una persona o mas personas, en mi caso hay muchísimos Italianos de los cuales conozco la identidad, que presuntamente han cometido o bien han participado, o sea están presentes como todos vosotros Genoveses que estáis en mi aplicación neuronal de tortura, a un hecho delictivo de torturas tiene obligadamente que **extraditar** [[70]](https://es.wikipedia.org/wiki/Extradici%C3%B3n) el o los presuntos criminales al Estado, en mi caso España, que tiene jurisdicción donde se haya cometido la violación de derechos humanos con el propósito de juzgarlos bajo el código penal nacional. Los principios fundamentales de cualquier investigación de accidentes de tortura son competencia, imparcialidad, independencia, prontitud y minuciosidad.  
 
+Donde las investigaciones son inadecuadas los Estados tendrán que continuar las investigaciones a través de una comisión independiente de consulta externa. Los miembros de dicha comisión tienen que ser elegidos por su imparcialidad, competencia y independencia, en particular tienen que ser independientes de cualquier institución, agencia o persona que podría  ser sujeta a la investigación.
+
+#### Propósitos de una investigación de tortura
+
+Establecer los hechos relativos a los alegados incidentes de torturas, con particular atención en identificar los responsables y facilitar su enjuiciamiento o bien en otros procedimientos útiles a obtener la compensación por las victimas.
+
+Los investigadores tienen que buscar declaraciones de parte de las victimas  de las presuntas torturas; recuperar y preservar las pruebas, incluidas las **pruebas médicas** [[71]](https://es.wikipedia.org/wiki/Medicina_basada_en_hechos) relativas a la tortura para garantizar el enjuiciamiento de los responsables.
+
+#### Principios de investigación y documentación eficaz de torturas 
+
+Es necesario que hayan investigadores expertos sobre la tortura; en el caso de la cibertortura el trabajo es todavía más complejo siendo un tipo de tortura prácticamente no detectable. 
+
+Un experto en investigación de cibertortura tiene que tener optimas bases de informática, de radio, de investigación forense, de psicología, de psiquiatría y de medicina. Yo, Riccardo Giuntoli, siendo una víctima de cibertortura desde Noviembre 2017 y siendo conectado al sistema de neuroestimuladores inalámbricos de la torre de Barcelona desde el 1996, quiero ser uno de los máximos expertos de este sector para ayudar a luchar con esta forma oculta de esclavitud moderna. Un instrumento de la extrema derecha. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -556,6 +570,8 @@ Donde las evidencias lo justifican, un Estado en el cuyo territorio haya una per
 69. https://es.wikipedia.org/wiki/Medicina_forense
 
 70. https://es.wikipedia.org/wiki/Extradici%C3%B3n
+
+71. https://es.wikipedia.org/wiki/Medicina_basada_en_hechos
 
     
 
