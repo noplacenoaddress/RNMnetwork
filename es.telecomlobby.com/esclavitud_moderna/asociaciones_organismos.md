@@ -457,6 +457,10 @@ El reporte tiene que contener por lo menos lo siguientes puntos claves:
 - **Una opinión**. Sobre la posible relación entra las lesiones físicas y psicológicas y las torturas o malos tratos. Una recomendación de tratamiento tendría que ser dada.
 - **Un registro de autoría**. Para identificar quien ha hecho el examen y sus sellos o firmas. 
 
+El reporte tiene que ser confidencial y comunicado al sujeto o su representante legal. Su lectura tiene que ser registrada en el mismo reporte. Tiene que ser proporcionado por escrito a la autoridad responsable de la investigación de la presunta tortura o mal trato. Es responsabilidad del Estado de asegurarse que el reporte sea entregado de forma segura a estas personas, no tiene que ser disponible por cualquier otra excepto debajo el consentimiento del sujeto o cuando autorizado por un juzgado.
+
+> Yo Riccardo Giuntoli he decidido por la complejidad de mi caso de torturas y malos tratos de hacer un reporte yo mismo y de hacerlo público sin nombrar con exactitud los nombres y apellidos de los involucrados para evitar problemas legales. Yo Riccardo Giuntoli quiero que lo lean más personas posible debido a que mi caso es embebido también de un velo de corrupción excepcional por parte de altos cargos de la aristocracia Española y Italiana. 
+
  
 
 ###  External links 
