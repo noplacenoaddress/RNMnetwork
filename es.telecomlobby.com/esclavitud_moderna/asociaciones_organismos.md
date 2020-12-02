@@ -447,7 +447,15 @@ En el caso en lo cual los procedimientos de investigación establecidos son inad
 
 El reporte tiene que describir en detallo cada evento especifico que se haya rescontrado que haya sucedido, las pruebas sobre las cuales estos descubrimientos son basados y el listado de nombres de testigos excepto aquellos que han sido retenidos por su seguridad.
 
-Los médicos expertos que han sido involucrados en la investigación de torturas y malos tratos deben comportarse en todo momento en conformidad con las más altas normas ética y en particular tienen que obtener los consentimientos informados antes de cualquier examen.  
+Los médicos expertos que han sido involucrados en la investigación de torturas y malos tratos deben comportarse en todo momento en conformidad con las más altas normas ética y en particular tienen que obtener los consentimientos informados antes de cualquier examen. Este último tiene que ser conforme a las normas establecidas en particular tiene que ser conducido in privado debajo del control de los médicos y fuera de la presencia de agentes de seguridad o funcionarios del Estado. 
+
+El reporte tiene que contener por lo menos lo siguientes puntos claves:
+
+- *Las circunstancias*. El nombre del sujeto y la afiliación de los presentes en el examen; la fecha exacta, la hora, la ubicación, la naturaleza y la dirección de la institución donde los exámenes son conducidos y todo otro factor de relevancia.
+- *La historia de fondo*. Un registro detallado del historia del sujeto, incluidos los presuntos métodos de tortura y malos tratos, cuando presuntamente han pasado y todas las quejas de síntomas físicos y psicológicos.
+- *Un examen físico y psicológico*. 
+
+ 
 
 ###  External links 
 
