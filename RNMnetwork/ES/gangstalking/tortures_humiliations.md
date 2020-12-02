@@ -177,6 +177,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 30/11/2020 04:59 **Francesca** threat me to kill all my family.
 - 30/11/2020 10:36 **Francesca**: "you realize you had four motorcycles and two cars I destroyed your whole life"
 - 1/12/2020 16:57 Today is the birthday of **Saray**, in dream injection this night she has gave me an appointment. After 3000 km that I've done to search for her. Giving appointments is torture because of walking and parimutuel betting system. It's from July 2018 that she is playing with me like a bait the only and final goal is **torture**.
+- 2/12/2020 all night long sexual harassment by Francesca, Saray and another two girls from Genoa. Also death threat. In this suicide business the family of Francesca had put in remote parimutuel betting system a lot of people from my born city. They are all guilty.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
