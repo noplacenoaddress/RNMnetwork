@@ -451,9 +451,11 @@ Los médicos expertos que han sido involucrados en la investigación de torturas
 
 El reporte tiene que contener por lo menos lo siguientes puntos claves:
 
-- *Las circunstancias*. El nombre del sujeto y la afiliación de los presentes en el examen; la fecha exacta, la hora, la ubicación, la naturaleza y la dirección de la institución donde los exámenes son conducidos y todo otro factor de relevancia.
-- *La historia de fondo*. Un registro detallado del historia del sujeto, incluidos los presuntos métodos de tortura y malos tratos, cuando presuntamente han pasado y todas las quejas de síntomas físicos y psicológicos.
-- *Un examen físico y psicológico*. 
+- **Las circunstancias**. El nombre del sujeto y la afiliación de los presentes en el examen; la fecha exacta, la hora, la ubicación, la naturaleza y la dirección de la institución donde los exámenes son conducidos y todo otro factor de relevancia.
+- **La historia de fondo**. Un registro detallado del historia del sujeto, incluidos los presuntos métodos de tortura y malos tratos, cuando presuntamente han pasado y todas las quejas de síntomas físicos y psicológicos.
+- **Un examen físico y psicológico**. Un reporte de todos los descubrimientos físicos y psicológicos sobre exámenes clínicos incluidos apropiados test diagnósticos y donde fuera posible fotografías a colores de todas las lesiones.   
+- **Una opinión**. Sobre la posible relación entra las lesiones físicas y psicológicas y las torturas o malos tratos. Una recomendación de tratamiento tendría que ser dada.
+- **Un registro de autoría**. Para identificar quien ha hecho el examen y sus sellos o firmas. 
 
  
 
