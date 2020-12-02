@@ -461,7 +461,11 @@ El reporte tiene que ser confidencial y comunicado al sujeto o su representante 
 
 > Yo Riccardo Giuntoli he decidido por la complejidad de mi caso de torturas y malos tratos de hacer un reporte yo mismo y de hacerlo público sin nombrar con exactitud los nombres y apellidos de los involucrados para evitar problemas legales. Yo Riccardo Giuntoli quiero que lo lean más personas posible debido a que mi caso es embebido también de un velo de corrupción excepcional por parte de altos cargos de la aristocracia Española y Italiana. 
 
- 
+#### Procedimientos de investigación de una caso de torturas
+
+![](https://telecomlobby.com/Images/cartas_de_andre.webp)
+
+*cartas de fondo de un concierto de De André.* 
 
 ###  External links 
 
