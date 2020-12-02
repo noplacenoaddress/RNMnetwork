@@ -465,7 +465,13 @@ El reporte tiene que ser confidencial y comunicado al sujeto o su representante 
 
 ![](https://telecomlobby.com/Images/cartas_de_andre.webp)
 
-*cartas de fondo de un concierto de De André.* 
+cartas de fondo de un concierto de De André. 
+
+En el caso de supuesto enredo en tortura de un funcionario público, incluidos ordenes de torturas a una banda de actores no estatales, como en el caso Catalán, por parte de ministros, asistentes ministeriales, oficiales actuando bajo el conocimiento de ministros, jefes militares, como también es el caso en el caso Catalán en lo cual estoy como victima, o en el caso de tolerancia de torturas por parte de dichos individuos, una investigación objetiva y imparcial podrían o ser posible amenos que una comisión especial de consulta no sea establecida. 
+
+Y es exactamente mi caso.
+
+
 
 ###  External links 
 
