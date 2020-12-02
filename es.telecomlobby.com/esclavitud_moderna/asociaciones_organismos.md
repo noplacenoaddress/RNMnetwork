@@ -465,13 +465,21 @@ El reporte tiene que ser confidencial y comunicado al sujeto o su representante 
 
 ![](https://telecomlobby.com/Images/cartas_de_andre.webp)
 
-cartas de fondo de un concierto de De André. 
+> Cartas de fondo de un concierto de De André. 
 
 En el caso de supuesto enredo en tortura de un funcionario público, incluidos ordenes de torturas a una banda de actores no estatales, como en el caso Catalán, por parte de ministros, asistentes ministeriales, oficiales actuando bajo el conocimiento de ministros, jefes militares, como también es el caso en el caso Catalán en lo cual estoy como victima, o en el caso de tolerancia de torturas por parte de dichos individuos, una investigación objetiva y imparcial podrían o ser posible amenos que una comisión especial de consulta no sea establecida. 
 
 Y es exactamente mi caso.
 
+Los factores que soportan la creencia que el Estado es involucrado en la tortura deberían desencadenar un mecanismo imparcial de investigación; estos incluyen:
 
+- Donde las víctimas fueron vistas ilesas por última vez bajo custodia policial o detenidas.
+- Cuando el **modus operandi** [[76]](https://es.wikipedia.org/wiki/Modus_operandi) se puede atribuir a tortura patrocinada por el Estado.
+- Cuando personas del Estado o asociados han intentado obstruir o ralentizar la investigación de tortura.
+- Cuando el público interés  sería atendido por una investigación independiente.
+- Cuando las investigaciones por parte de una agencia de investigaciones regulares por falta de imparcialidad o otras razones, incluidas la importancia de la materia, la aparente existencia de un patrón de abusos, quejas de la persona o las deficiencias anteriores u otras razones sustanciales.
+
+Varias consideraciones tienen que ser tomadas cuando un Estado decide de establecer una comisión independiente de investigación. Primero de todo las personas sujetas a la investigación se deben garantizar las salvaguardias procesales mínimas protegidas por el derecho internacional en todas las etapas de la investigación. Segundo, los investigadores tienen que tener el adecuado soporte técnico. 
 
 ###  External links 
 
@@ -624,6 +632,8 @@ Y es exactamente mi caso.
 74. https://bit.ly/2JFolvK
 
 75. https://es.wikipedia.org/wiki/Sesgo
+
+76. https://es.wikipedia.org/wiki/Modus_operandi
 
     
 
