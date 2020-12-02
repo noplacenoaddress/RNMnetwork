@@ -445,7 +445,9 @@ En el caso en lo cual los procedimientos de investigación establecidos son inad
 
 > Yo, Riccardo Giuntoli, no teniendo experiencias pasadas sobre la investigación de torturas y malos tratos estoy estudiando el marco legislativo internacional y paso por paso voy publicando también los hechos relativos a los crímenes que se me han hecho de esta forma quiero obtener seguridad por mi persona que es bajo continua amenaza de muerte. Mi historia es una historia de cartas de alta nobleza Genovesa, muy probablemente soy victima de trata de personas y trafico de niños con fines lucrativos de explotación y esclavitud. Desde Noviembre 2017 sufro tortura electrónica y me he dado cuenta que mi vida ha sido pilotada desde la niñez. Estoy bajo control de armas electromagnéticas, el así dicho «móvil» Español, por parte de una familia de Marqueses Franceses que vive en Genova, mi ciudad natal. 
 
+El reporte tiene que describir en detallo cada evento especifico que se haya rescontrado que haya sucedido, las pruebas sobre las cuales estos descubrimientos son basados y el listado de nombres de testigos excepto aquellos que han sido retenidos por su seguridad.
 
+Los médicos expertos que han sido involucrados en la investigación de torturas y malos tratos deben comportarse en todo momento en conformidad con las más altas normas ética y en particular tienen que obtener los consentimientos informados antes de cualquier examen.  
 
 ###  External links 
 
