@@ -437,6 +437,10 @@ Estos los pasos principales:
 
 Los Estados tienen asegurar que las denuncias y los reportes de tortura sean prontamente investigados. Los investigadores tienen que ser independientes, competentes y imparciales. Tienen que tener acceso a médicos igualmente imparciales y expertos. Los métodos que suelen llevar a cabo estás investigaciones tienen que ser compatibles con los más altos estándar profesionales  y cada descubrimiento tiene que ser hecho público. 
 
+La autoridad investigadora tiene que tener el poder y la obligación de obtener toda la información necesaria para la investigación, las personas que se ocupan tienen que tener a su disposición el presupuesto necesario y los recursos técnicos para una investigación eficaz. Tienen que tener también la autoridad de obligar todos aquellos en calidad oficial presuntamente implicados en torturas o mal trato de comparecer y testificar. Tienen que tener el derecho a emitir citaciones para testificar incluido a cualquier funcionario de Estado presuntamente implicado y de demandar la producción de pruebas. La presuntas victimas de torturas y malos tratos, los **testigos** [[72]](https://es.wikipedia.org/wiki/Testigo), los investigadores y sus familias tienen que ser protegidos de la violencia, amenazas de violencia, *que yo recibo en red neuronal a diario en frente también de altísimos funcionarios de Estado*, o cualquier otra forma de **intimidación** [[73]](https://es.wikipedia.org/wiki/Intimidaci%C3%B3n) que pueda surgir de conformidad a la investigación. Todos aquellos presuntamente implicados en torturas y malos tratos tienen que ser removidos de cualquier posición de control o poder, ya sea directamente o indirectamente, sobre los denunciantes, los testigos o sus familias, como también sobre aquellos que estén conduciendo la investigación.
+
+Las presuntas victimas de torturas o malos tratos y sus representantes legales tienen que ser informados de, y tener acceso a, cualquier **audiencia** [[74]](https://bit.ly/2JFolvK)
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -580,6 +584,12 @@ Los Estados tienen asegurar que las denuncias y los reportes de tortura sean pro
 70. https://es.wikipedia.org/wiki/Extradici%C3%B3n
 
 71. https://es.wikipedia.org/wiki/Medicina_basada_en_hechos
+
+72. https://es.wikipedia.org/wiki/Testigo
+
+73. https://es.wikipedia.org/wiki/Intimidaci%C3%B3n
+
+74. https://bit.ly/2JFolvK
 
     
 
