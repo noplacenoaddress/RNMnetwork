@@ -432,14 +432,20 @@ Un experto en investigación de cibertortura tiene que tener optimas bases de in
 Estos los pasos principales:
 
 - Mesa en claro de los hechos y establecimiento y reconocimiento de las responsabilidades de individuos y Estado en frente de las victimas y sus familias.
-- Identificación de las medidas necesarias a prevenir la recurrencia.
+- Identificación de las medidas necesarias a prevenir que pase otra vez.
 - Facilitar el enjuiciamiento o a las sanciones disciplinarias por aquellos indicados por la investigación de ser responsables y demostración de la necesidad de plena reparación y compensación por parte del Estado, incluida una justa y adecuada compensación económica y provisión de los medios por el cuidado médico y rehabilitación. 
 
 Los Estados tienen asegurar que las denuncias y los reportes de tortura sean prontamente investigados. Los investigadores tienen que ser independientes, competentes y imparciales. Tienen que tener acceso a médicos igualmente imparciales y expertos. Los métodos que suelen llevar a cabo estás investigaciones tienen que ser compatibles con los más altos estándar profesionales  y cada descubrimiento tiene que ser hecho público. 
 
 La autoridad investigadora tiene que tener el poder y la obligación de obtener toda la información necesaria para la investigación, las personas que se ocupan tienen que tener a su disposición el presupuesto necesario y los recursos técnicos para una investigación eficaz. Tienen que tener también la autoridad de obligar todos aquellos en calidad oficial presuntamente implicados en torturas o mal trato de comparecer y testificar. Tienen que tener el derecho a emitir citaciones para testificar incluido a cualquier funcionario de Estado presuntamente implicado y de demandar la producción de pruebas. La presuntas victimas de torturas y malos tratos, los **testigos** [[72]](https://es.wikipedia.org/wiki/Testigo), los investigadores y sus familias tienen que ser protegidos de la violencia, amenazas de violencia, *que yo recibo en red neuronal a diario en frente también de altísimos funcionarios de Estado*, o cualquier otra forma de **intimidación** [[73]](https://es.wikipedia.org/wiki/Intimidaci%C3%B3n) que pueda surgir de conformidad a la investigación. Todos aquellos presuntamente implicados en torturas y malos tratos tienen que ser removidos de cualquier posición de control o poder, ya sea directamente o indirectamente, sobre los denunciantes, los testigos o sus familias, como también sobre aquellos que estén conduciendo la investigación.
 
-Las presuntas victimas de torturas o malos tratos y sus representantes legales tienen que ser informados de, y tener acceso a, cualquier **audiencia** [[74]](https://bit.ly/2JFolvK)
+Las presuntas victimas de torturas o malos tratos y sus representantes legales tienen que ser informados de, y tener acceso a, cualquier **audiencia** [[74]](https://bit.ly/2JFolvK) y a toda información importante para la investigación y debe tener derecho a presentar otras pruebas.
+
+En el caso en lo cual los procedimientos de investigación establecidos son inadecuados por inexperiencia o por sospecha de **sesgo** [[75]](https://es.wikipedia.org/wiki/Sesgo) o porqué hay una existencia aparente de un patrón de abuso, los Estados tienen que asegurarse que las investigaciones sean emprendidas a través de una comisión independiente de consulta. Los miembros de dicha comisión tienen que ser elegidos por su reconocida imparcialidad, competencia y independencia. La comisión tiene que tener la autoridad de obtener toda información necesaria a la consulta y tiene que conducir la investigación debajo de estos principios. Un reporte por escrito, hecho en tiempos razonables, tiene que incluir el alcance de la consulta, los procedimientos y los métodos utilizados para evaluar las pruebas como también las conclusiones y recomendaciones basadas sobre los descubrimientos de hechos y las leyes aplicables. En su cumplimiento, este reporte tiene que ser hecho público.
+
+> Yo, Riccardo Giuntoli, no teniendo experiencias pasadas sobre la investigación de torturas y malos tratos estoy estudiando el marco legislativo internacional y paso por paso voy publicando también los hechos relativos a los crímenes que se me han hecho de esta forma quiero obtener seguridad por mi persona que es bajo continua amenaza de muerte. Mi historia es una historia de cartas de alta nobleza Genovesa, muy probablemente soy victima de trata de personas y trafico de niños con fines lucrativos de explotación y esclavitud. Desde Noviembre 2017 sufro tortura electrónica y me he dado cuenta que mi vida ha sido pilotada desde la niñez. Estoy bajo control de armas electromagnéticas, el así dicho «móvil» Español, por parte de una familia de Marqueses Franceses que vive en Genova, mi ciudad natal. 
+
+
 
 ###  External links 
 
@@ -590,6 +596,8 @@ Las presuntas victimas de torturas o malos tratos y sus representantes legales t
 73. https://es.wikipedia.org/wiki/Intimidaci%C3%B3n
 
 74. https://bit.ly/2JFolvK
+
+75. https://es.wikipedia.org/wiki/Sesgo
 
     
 
