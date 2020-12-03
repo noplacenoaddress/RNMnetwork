@@ -505,7 +505,7 @@ Los investigadores tienen que tener los cuidados necesarios para no poner las v�
 
 ![open source BCI](https://telecomlobby.com/Images/open_source_bci.webp)
 
-Siendo al red de monitorio neuronal identificable como la cárcel del cerebro mi manera de publicar cada día mis consideraciones sobre mi estado de esclavitud y sobre aquello que vive Saray desde hace décadas la encuentro como la más eficaz para garantizar su seguridad. Estos criminales no suelen actuar de forma física pero bien utilizan las amenazas continuas en un medio de comunicación oculto y de compleja grabación para asustarnos continuamente. La única manera de registrarlo de forma eficaz es a través de una interfaz cerebro ordenador física.  
+Siendo la red de monitorio neuronal identificable como la cárcel del cerebro mi manera de publicar cada día mis consideraciones sobre mi estado de esclavitud y sobre aquello que vive Saray desde hace décadas la encuentro como la más eficaz para garantizar su seguridad. Estos criminales no suelen actuar de forma física pero bien utilizan las amenazas continuas en un medio de comunicación oculto y de compleja grabación para asustarnos continuamente. La única manera de registrarlo de forma eficaz es a través de una **interfaz cerebro ordenador física** [[79]](https://openbci.com/).  
 
 ###  External links 
 
@@ -664,6 +664,8 @@ Siendo al red de monitorio neuronal identificable como la cárcel del cerebro mi
 77. https://es.wikipedia.org/wiki/Trauma_ps%C3%ADquico
 
 78. https://es.wikipedia.org/wiki/Arresto
+
+79. https://openbci.com/
 
     
 
