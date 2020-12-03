@@ -501,6 +501,8 @@ Los investigadores tienen que tener en cuenta atentamente el contexto en lo cual
 
 > Por lo que concierne mi investigación sobre la red de esclavitud moderna, la red de monitorio neuronal, el contexto es muy complicado de encuadrar siendo transmitida a través de ondas electromagnéticas que hacen del ser humano un total esclavo. La explotación es minuciosamente diluida en el tiempo para hacer en manera que las victimas no consideren serlo. En realidad en su conciencia se crea como una especie de capa protectora, una cortina de humo algo parecido a lo que era la guerra fría pero en los cerebros de las victimas de cibertortura, que deniega a los demás la simple existencia de esta empresa del terror. A través de un silencio mafioso se ha conseguido crear esclavos subliminales capaces de tomar parte a unas tramas complejas sobre la destrucción de la vida de conocidos, amigos, amantes y amores. Dividi et impera su motín. Todo, absolutamente todo, es únicamente un negocio. Un negocio de la élite, un negocio de control, un negocio tecnológico, un negocio Mafioso de mercado negro. La ley del miedo es aquella que manda soberana. La Mafia del techno se encuentra nombrada en varias redes sociales y ningún organismo de policía internacional ha hecho luz sobre de ella. La Mafia digital. 
 
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
