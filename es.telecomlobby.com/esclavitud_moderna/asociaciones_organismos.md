@@ -481,6 +481,24 @@ Los factores que soportan la creencia que el Estado es involucrado en la tortura
 
 Varias consideraciones tienen que ser tomadas cuando un Estado decide de establecer una comisión independiente de investigación. Primero de todo las personas sujetas a la investigación se deben garantizar las salvaguardias procesales mínimas protegidas por el derecho internacional en todas las etapas de la investigación. Segundo, los investigadores tienen que tener el adecuado soporte técnico. 
 
+Dada la naturaleza de las torturas y los **traumas** [[77]](https://es.wikipedia.org/wiki/Trauma_ps%C3%ADquico) que cada individuo puede sufrir como resultado, muchas veces incluso un sentido devastador de impotencia (cosa muy buscada en la red de monitorio neuronal), es de particular importancia mostrar sensibilidad por las presuntas victimas de torturas y los testigos. El Estado los tiene que proteger junto a sus familias de violencias, amenazas de violencia y otra forma de intimidación que puedan surgir de conformidad con la investigación.
+
+> Saray y yo, acordaros que ella es mama, estamos bajo amenaza continua por parte del grupo de actores no estatales que trabajan por el jefe de esta banda que se dedica a la explotación y la esclavitud. Se trata de intimidación de ínfimo nivel que pero nos ha separado desde hace seis años. 
+
+Los investigadores tienen que informar a los testigos de las consecuencias de su enredo en la investigación y acerca de cualquier consecuente desarrollo en el caso que podrían afectarles.
+
+Desde el comienzo las presuntas victimas tendrían que ser informadas de la naturaleza del procedimiento, porque se busca su evidencia y si y como las pruebas ofrecidas por parte de las presuntas victimas puedan ser utilizadas o menos. Los investigadores tendrían que explicar a la persona que porciones de la investigación serán hechas públicas y cuales serán confidenciales. Una persona tiene el derecho de denegar su cooperación a todo o parte de la investigación. Las presuntas victimas tienen que ser informadas sobre el progreso de la investigación, tienen que ser notificadas de todas las audiencias claves de la investigación y sobre el enjuiciamiento del caso; los investigadores tienen que informarlas sobre el **arresto** [[78]](https://es.wikipedia.org/wiki/Arresto) de un presunto autor. Las victimas tienen que recibir los contactos de bufetes de abogados especialistas y de grupos de tratamientos que las pueden asistir en superar sus traumas derivados de la torturas o malos tratos. Los investigadores tienen que trabajar conjuntamente tanto con los bufetes cuanto con los grupos dentro de la jurisdicción territorial del caso para asegurarse que un cambio mutuo de información y aprendizaje acerca de las torturas.
+
+Las autoridades competentes el caso tienen que identificar una persona principalmente responsable de interrogar las presuntas victimas. Mientras que las victimas podrían tener  la necesitad de discutir sus casos también con profesionales legales y médicos, el grupo de investigación debería hacer todo el esfuerzo de minimizar las repeticiones innecesarias de la historia de la persona. En seleccionar una persona como el principal investigador por las presuntas victimas de torturas, especial consideración tiene que ser dada a la preferencia de las victimas por el genero del investigador, por su trasfondo cultural o su habilidad en comunicarse en la lengua nativa de la victima. El investigador principal tiene que tener experiencia previa en documentar casos de torturas y en trabajar con victimas de traumas, incluida la tortura. El investigador principal tiene que hacer todo el esfuerzo necesario para llegar a ser informado sobre torturas y sus físicas y psicológicas consecuencias. El bagaje cultural de un investigador consta en:
+
+- Estudio de manuales.
+- Estudio de publicaciones profesionales y de enseñanza.
+- Participación en cursos de formación.
+- Participación en conferencias profesionales.
+- Acceso a recursos internacionales y contactos con eminencias de alcance mundial.
+
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -634,6 +652,10 @@ Varias consideraciones tienen que ser tomadas cuando un Estado decide de estable
 75. https://es.wikipedia.org/wiki/Sesgo
 
 76. https://es.wikipedia.org/wiki/Modus_operandi
+
+77. https://es.wikipedia.org/wiki/Trauma_ps%C3%ADquico
+
+78. https://es.wikipedia.org/wiki/Arresto
 
     
 
