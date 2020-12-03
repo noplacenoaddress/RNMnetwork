@@ -505,7 +505,13 @@ Los investigadores tienen que tener los cuidados necesarios para no poner las v�
 
 ![open source BCI](https://telecomlobby.com/Images/open_source_bci.webp)
 
-Siendo al red de monitorio neuronal identificable como la cárcel del cerebro mi manera de publicar cada día mis consideraciones sobre mi estado de esclavitud y sobre aquello que vive Saray desde hace décadas la encuentro como la más eficaz para garantizar su seguridad. Estos criminales no suelen actuar de forma física pero bien utilizan las amenazas continuas en un medio de comunicación oculto y de compleja grabación para asustarnos continuamente. La única manera de registrarlo de forma eficaz es a través de una interfaz cerebro ordenador física.  
+Siendo la red de monitorio neuronal identificable como la cárcel del cerebro mi manera de publicar cada día mis consideraciones sobre mi estado de esclavitud y sobre aquello que vive Saray desde hace décadas la encuentro como la más eficaz para garantizar su seguridad. Estos criminales no suelen actuar de forma física pero bien utilizan las amenazas continuas en un medio de comunicación oculto y de compleja grabación para asustarnos continuamente. La única manera de registrarlo de forma eficaz es a través de una **interfaz cerebro ordenador física** [[79]](https://openbci.com/).  
+
+A veces, a causa del trauma infligidos a las victimas, un grupo de discusión, un programa comunitario, un lugar de reunión colectivo por victimas, un grupo de entrevistas donde todos los afectados se puedan desahogar es lo más indicado. En el caso de la cibertortura dado el número enorme de victimas creo que sea lo más indicado. Muchos se sienten culpables de haber apostados, traicionados, visto morir amigos, amantes y amores. Esto no tiene que ser una culpabilidad sois todos reclutados por parte de una empresa del terror. Todos, absolutamente todos, somos conejillos de India. Su «juego» es, como pasa con los hámsters, hacernos comer entra nosotros. Su «juego» es el **canibalismo** [[80]](https://es.wikipedia.org/wiki/Canibalismo) figurado. 
+
+![quwave defender](https://telecomlobby.com/Images/quwave_tabletop_defender.webp)
+
+Los resultados de una investigación cambiaran notablemente según el ambiente de entrevista, mas confortable y amigable es más las victimas estarán relajadas al contar su experiencia. Otro paso importante es proteger las victimas de la cárcel del cerebro eliminando la red de monitorio neuronal a través de un campo electromagnético que no permita la esclavitud neuronal. Ellas, las victimas, no estarán más debajo del control de sus carceleros virtuales. Un descanso prolongado y adecuado también después de años de ser torturados a través de la privación de sueño por el acecho electrónico  también es fundamental para que sus cerebros salgan de los mecanismos de esclavitud dentro los cuales viven. También que lean mis palabras para darse cuenta es fundamental.
 
 ###  External links 
 
@@ -664,6 +670,10 @@ Siendo al red de monitorio neuronal identificable como la cárcel del cerebro mi
 77. https://es.wikipedia.org/wiki/Trauma_ps%C3%ADquico
 
 78. https://es.wikipedia.org/wiki/Arresto
+
+79. https://openbci.com/
+
+80. https://es.wikipedia.org/wiki/Canibalismo
 
     
 
