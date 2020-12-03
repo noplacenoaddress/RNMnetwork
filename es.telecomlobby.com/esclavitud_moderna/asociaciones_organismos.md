@@ -513,6 +513,8 @@ A veces, a causa del trauma infligidos a las victimas, un grupo de discusión, u
 
 Los resultados de una investigación cambiaran notablemente según el ambiente de entrevista, mas confortable y amigable es más las victimas estarán relajadas al contar su experiencia. Otro paso importante es proteger las victimas de la cárcel del cerebro eliminando la red de monitorio neuronal a través de un campo electromagnético que no permita la esclavitud neuronal. Ellas, las victimas, no estarán más debajo del control de sus carceleros virtuales. Un descanso prolongado y adecuado también después de años de ser torturados a través de la privación de sueño por el acecho electrónico  también es fundamental para que sus cerebros salgan de los mecanismos de esclavitud dentro los cuales viven. También que lean mis palabras para darse cuenta es fundamental.
 
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
