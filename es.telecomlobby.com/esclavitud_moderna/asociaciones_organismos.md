@@ -507,6 +507,8 @@ Los investigadores tienen que tener los cuidados necesarios para no poner las v�
 
 Siendo la red de monitorio neuronal identificable como la cárcel del cerebro mi manera de publicar cada día mis consideraciones sobre mi estado de esclavitud y sobre aquello que vive Saray desde hace décadas la encuentro como la más eficaz para garantizar su seguridad. Estos criminales no suelen actuar de forma física pero bien utilizan las amenazas continuas en un medio de comunicación oculto y de compleja grabación para asustarnos continuamente. La única manera de registrarlo de forma eficaz es a través de una **interfaz cerebro ordenador física** [[79]](https://openbci.com/).  
 
+A veces, a causa del trauma infligidos a las victimas, un grupo de discusión, un programa comunitario, un lugar de reunión colectivo por victimas, un grupo de entrevistas donde todos los afectados se puedan desahogar es lo más indicado. En el caso de la cibertortura dado el número enorme de victimas creo que sea lo más indicado. Muchos se sienten culpables de haber apostados, traicionados, visto morir amigos, amantes y amores. Esto no tiene que ser una culpabilidad sois todos reclutados por parte de una empresa del terror. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
