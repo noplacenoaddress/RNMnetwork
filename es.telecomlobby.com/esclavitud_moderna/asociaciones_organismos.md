@@ -513,7 +513,16 @@ A veces, a causa del trauma infligidos a las victimas, un grupo de discusión, u
 
 Los resultados de una investigación cambiaran notablemente según el ambiente de entrevista, mas confortable y amigable es más las victimas estarán relajadas al contar su experiencia. Otro paso importante es proteger las victimas de la cárcel del cerebro eliminando la red de monitorio neuronal a través de un campo electromagnético que no permita la esclavitud neuronal. Ellas, las victimas, no estarán más debajo del control de sus carceleros virtuales. Un descanso prolongado y adecuado también después de años de ser torturados a través de la privación de sueño por el acecho electrónico  también es fundamental para que sus cerebros salgan de los mecanismos de esclavitud dentro los cuales viven. También que lean mis palabras para darse cuenta es fundamental.
 
+Volviendo a los varios contextos en los cuales se pueda hacer una entrevista a victimas de torturas pueden incluir:
 
+- Prisión o detección en el país natal de la victima.
+- Prisión o detección en un país extranjero. Por ejemplo yo soy Italiano y aunque la mía no se pueda llamar detección si que es correcto indicar que he sido esclavizado, explotado y perseguido en Catalunya, comunidad autónoma de España. 
+- En referencia al comentario que acabo de hacer el protocolo de Estambul hace referencia a una entrevista en un clima **hostil** [[81]](https://es.wikipedia.org/wiki/Hostilidad) y **opresivo** [[82]](https://es.wikipedia.org/wiki/Represi%C3%B3n_pol%C3%ADtica).   
+- En libertad en un país pacifico y seguro.
+- En un **campo de refugiados** [[83]](https://es.wikipedia.org/wiki/Campo_de_refugiados). 
+- En un tribunal de **crímenes de guerra** [[84]](https://es.wikipedia.org/wiki/Crimen_de_guerra) o en una **comisión de la verdad** [[85]](https://es.wikipedia.org/wiki/Comisi%C3%B3n_de_la_Verdad)
+
+Una comisión de la verdad tiene sentido en Catalunya siendo la torre de Norman Foster una arma en activo de una guerra no declarada hacía la población civil que tiene detrás el genio militar de extrema derecha. Se trata de **Terrorismo de Estado** [[86]](https://es.wikipedia.org/wiki/Terrorismo_de_Estado), algo parecido al **terrorismo tardofranquista** [[87]](https://es.wikipedia.org/wiki/Terrorismo_tardofranquista). 
 
 ###  External links 
 
@@ -676,6 +685,20 @@ Los resultados de una investigación cambiaran notablemente según el ambiente d
 79. https://openbci.com/
 
 80. https://es.wikipedia.org/wiki/Canibalismo
+
+81. https://es.wikipedia.org/wiki/Hostilidad
+
+82. https://es.wikipedia.org/wiki/Represi%C3%B3n_pol%C3%ADtica
+
+83. https://es.wikipedia.org/wiki/Campo_de_refugiados
+
+84. https://es.wikipedia.org/wiki/Crimen_de_guerra
+
+85. https://es.wikipedia.org/wiki/Comisi%C3%B3n_de_la_Verdad
+
+86. https://es.wikipedia.org/wiki/Terrorismo_de_Estado
+
+87. https://es.wikipedia.org/wiki/Terrorismo_tardofranquista
 
     
 
