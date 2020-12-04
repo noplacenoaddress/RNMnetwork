@@ -180,6 +180,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 2/12/2020 all night long sexual harassment by **Francesca** and another two girls from Genoa. Also death threat. In this suicide business the family of Francesca had put in remote parimutuel betting system a lot of people from my born city. They are all guilty.
 - 2/12/2020 **Francesca** continuously threat me about death. **She and a person that work for her**.
 - 3/12/2020 **Francesca** say to Andreu to kill me. She say that Andreu is from a noble family of Catalunya and that he will kill me. Say that this is a game that people have to see me commit suicide. She is a killer and three friends of mine have died.
+- 4/12/2020 11:00 **Francesca** say: "Andreu I will kill you if you don't kill Riccardo".
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
