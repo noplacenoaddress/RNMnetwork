@@ -530,6 +530,12 @@ Aunque hayan casos en los cuales las personas que aleguen presuntas torturas no 
 
 Personalmente no estoy siguiendo esta recomendación justamente por lo contrario. Siendo implicados altos funcionarios de gobierno en la red de monitorio neuronal es fundamental hacer leva en su cargo público y sus obligaciones en frente de la ciudadanía si no la parte más reaccionaria del grupo de actores de no estatales, a tratos terroristas mercenarios, podrían golpear, secuestrar y asesinar; cosa que **Francesca**, hija de Marqueses con pasado de extrema derecha, junto a algún ex militar remarca continuamente. Sigo encontrando imágenes de Saray subiendo acoso sexual en Internet. Esta mal nacida cuyo apellido erróneamente ha sido juntado a la palabra héroe la está explotando y todavía mas lamentablemente viendo este abuso contra de una mama Española hay altísimos cargos de Estado. Vergüenza.  Francesca tiene que ser extraditada a España por un procedimiento de crímenes contra la humanidad. Estos terroristas Estatales utilizan el mundo de las audiovisuales como cobertura.
 
+Los investigadores aun en un ambiente confortable no tienen que esperar de obtener la historia completa durante su primera entrevista. Las preguntas que toquen la esfera privada podrían ser traumáticas por las presuntas victimas. Los investigadores tienen que saber regular su tono de voz, el fraseo y la secuencia de las preguntas, dando testimonio del trauma de las presuntas victimas de torture. Los testigos, en mi caso todos aquellos que han participado a la aplicación de apuestas mutuas remotas, tienen que ser informado acerca sus derechos de interrumpir el interrogatorio cuando quieran, de poder tomar una pausa o decidir de no contestar a cualquiera de ellas.
+
+Consejeros psicológicos o aquellos entrenados en trabajar con victimas de torturas tendrían que ser accesibles por las presuntas victimas, testigos y miembros del grupo de investigaciones. Volver a contar los hechos de un caso de torturas podrían causar en la persona el volver a vivir la experiencia o sufrir otros síntomas relativos a traumas. El escuchar detalles de torturas podrían fluir en traumas secundarios por los mismos investigadores. Cuando fuera posible todo el procedimiento tendría que ser supervisado por un **facilitador** [[89]](https://es.wikipedia.org/wiki/Facilitador) experimentado, alguien que sepa indicar a un grupo los objetivos y el bien común. Quiero serlo yo aunque me falte el ser experimentado, espero ayudar todas las personas que como yo son victimas y testigos cada uno de los demás del hecho que somo todos victimas de cibertortura. A través del mio estudio continuo quiero llegar a ser experimentado, esperando de no tardar demasiado en salvar la psique de las otras victimas. Algunos de ellos sufre cibertortura desde una década de forma activa.
+
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -707,6 +713,8 @@ Personalmente no estoy siguiendo esta recomendación justamente por lo contrario
 87. https://es.wikipedia.org/wiki/Terrorismo_tardofranquista
 
 88. https://es.wikipedia.org/wiki/Asilo_humanitario
+
+89. https://es.wikipedia.org/wiki/Facilitador
 
     
 
