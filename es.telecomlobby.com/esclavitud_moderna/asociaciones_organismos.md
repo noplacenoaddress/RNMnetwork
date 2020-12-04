@@ -526,6 +526,8 @@ Una comisión de la verdad tiene sentido en Catalunya siendo la torre de Norman 
 
 En países donde solicitantes de **asilo** [[88]](https://es.wikipedia.org/wiki/Asilo_humanitario) son examinados en manera de establecer evidencias de torturas, la reluctancia de admitir reclamos de trauma y torturas podría ser motivada por motivos políticos aunque, a mi aviso, dichos motivos podrían ser productos a sus veces de manipulación tratándose por ejemplo en el caso Catalán de un evidente caso de terrorismo de Estado, ejecutado por una célula de extrema derecha cuyos participantes son en su mayoría reclutados, o bien dicho engañados. Obviamente el territorio Catalán está desde el siglo pasado bajo continuo ataque Franquista siendo el mismo históricamente un territorio republicano. El territorio Catalán refleja en parte mi condición de individuo objetivo, *la sociedad Catalana es una sociedad objetivo*. 
 
+Aunque hayan casos en los cuales las personas que aleguen presuntas torturas no sea en peligro inminente, los investigadores tendrían que tener mucho cuidado en contactar con ellas. Personalmente no estoy siguiendo esta recomendación justamente por lo contrario. Siendo implicados altos funcionarios de gobierno en la red de monitorio neuronal es fundamental hacer leva en su cargo público y sus obligaciones en frente de la ciudadanía si no la parte más reaccionaria del grupo de actores de no estatales, a tratos terroristas mercenarios, podrían golpear, secuestrar y asesinar; cosa que **Francesca**, hija de Marqueses con pasado de extrema derecha, junto a algún ex militar remarca continuamente. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
