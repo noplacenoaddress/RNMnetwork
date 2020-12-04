@@ -536,7 +536,11 @@ Consejeros psicológicos o aquellos entrenados en trabajar con victimas de tortu
 
 ![testigos](https://telecomlobby.com/Images/tacha-de-testigo.webp)
 
+El Estado es totalmente responsable de la protección de las victimas, los testigos y las respectivas familias de violencia, de amenazas de violencia, cosa que yo recibo a diario en la red de monitorio neuronal, y de cualquier otra forma de intimidación que pueda surgir de conformidad a la investigación. Todos aquellos potencialmente implicados en torturas tienen que ser removidos de cualquier posición de control o poder, ya sea directamente o indirectamente sobre los denunciantes, los testigos y las familias como también sobre quien está conduciendo la investigación. Lamentablemente hay personas que intentan manipular también este marco legislativo internacional implicando en torturas altos cargos que normalmente no lo estarían pero si son presentes siendo cibertortura, o sea de forma remota. Francesca es totalmente culpable de estar atacando tanto la región Liguria, cuanto el pueblo Catalán, cuanto altos cargos Españoles. ¿Porqué? Obviamente un negocio de poder.
 
+Hay todo un negocio enorme basado en los individuos objetivos. Si el individuo no cae en lo que se suele llamar «juego», que juego no es siendo el desgaste de la persona objetivo, todo se transforma en un juego de poder entra las partes implicadas en la tortura. Cosa absurda ya que todos, absolutamente todos ellos, son culpables de crímenes contra la humanidad. Quien aun no perteneciendo a la élite haya hecho un plan por sacar un resultado del sufrimiento en torturas del individuo tampoco se puede salvar de la cárcel de por vida.
+
+Una técnica sugerida para brindar una medida de seguridad a los entrevistados es de anotar en un lugar seguro la identidad de las personas visitadas haciendo en manera que los investigadores 
 
 ###  External links 
 
