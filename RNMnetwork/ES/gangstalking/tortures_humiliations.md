@@ -181,6 +181,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 2/12/2020 **Francesca** continuously threat me about death. **She and a person that work for her**.
 - 3/12/2020 **Francesca** say to Andreu to kill me. She say that Andreu is from a noble family of Catalunya and that he will kill me. Say that this is a game that people have to see me commit suicide. She is a killer and three friends of mine have died.
 - 4/12/2020 11:00 **Francesca** say: "Andreu I will kill you if you don't kill Riccardo".
+- 5/12/2020 Every time that I go out from my village to Barcelona capital **Saray** do stalk to me. She is very annoying every time she pretends to want to see me and gives me fictitious appointments to make me mistrust. It seems that Saray depends on the orders of a pyramid of scammers who work for Francesca and Andreu. The shop is always the same, that of suicide. At first I thought it was purely out of fear, but it's obvious after everything I've done and without receiving a single response to tons of emails or a call earns money in Bitcoin from this Mafia and terrorist company.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
