@@ -573,6 +573,8 @@ Importante meter en evidencia si el sujeto ha sido victima de acoso sexual o men
 
 Las victimas, y yo subrayo que también los torturadores son y han sido torturados, muchas veces negaran los hechos. De esta manera los dueños de esta infraestructura de explotación y esclavitud se aseguran su inmunidad en frente de la ley, junto a sus apellidos lujuriosos nadie ha hecho una denuncia sistemática de esto crimen terrible, la esclavitud moderna. Quiero ser el primero de una larga serie para cortar de cuajo su cabeza en una Europa que grita democracia! 
 
+La identidad de los testigos tiene que ser detallada en la investigación, el investigador pero tendría que preocuparse de su secreto cosa que en la ambiente de tortura neuronal es imposible ya que todos saben pero nadie dice nada, el porqué son bienes efímeros como bitcoin, vicios, errores, el hecho de haber sido presente en el suicidio de otros, suicidios que son sin duda ninguna asesinatos, coacción mafiosa, etcétera etcétera.  Los creadores de este ambiente han tenido la genialidad de transformar victimas en culpables. Cosa que tiene que ser tenido en alta consideración por parte de un juez.
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
