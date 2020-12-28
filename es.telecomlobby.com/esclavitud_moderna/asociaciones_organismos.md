@@ -563,6 +563,8 @@ En la investigación es muy importante describir correctamente los métodos de t
 
 *Toda la nobleza genovesa es totalmente culpable de no haber evitado la ruina para los hijos de su ciudad.*
 
+Importante meter en evidencia si el sujeto ha sido victima de acoso sexual o menos. En la red de monitorio neuronal la violencia sexual es al orden del día. Los carceleros desde el ojo central nos juntan a ex parejas que de una manera o de otra, normalmente con coacción o con sumas de dinero electrónico auto producido de las mismas maquinas que elaboran las imágenes derivadas da tomas de **magnetoencefaografía** [[96]](https://es.wikipedia.org/wiki/Magnetoencefalograf%C3%ADa) remota, nos violan continuamente. De esta manera resulta también muy complicado poderse rehacer una vida con otra persona a coste de rebajarse en la brutalización. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -754,6 +756,8 @@ En la investigación es muy importante describir correctamente los métodos de t
 94. https://telecomlobby.com/RNMnetwork/documents/Virilio_Paul_La_Maquina_de_Vision.pdf
 
 95. https://bit.ly/3hmAxOB
+
+96. https://es.wikipedia.org/wiki/Magnetoencefalograf%C3%ADa
 
     
 
