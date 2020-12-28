@@ -551,6 +551,10 @@ El sistema donde estoy encarcelado, y donde están encarcelados muchas personas 
 - **Evolución de la mirada panóptica** [[93]](https://telecomlobby.com/RNMnetwork/documents/TFM_EduardoVega.pdf)
 - **La maquina de visión** [[94]](https://telecomlobby.com/RNMnetwork/documents/Virilio_Paul_La_Maquina_de_Vision.pdf)
 
+Es conocido entra los reclusos como **Cárcelona**.  Su eje central, su torre, su ojo de Sauron es la torre de Norman Foster en Collserola. Desde su tercer tramo se transmite la esclavitud moderna. 
+
+![](https://telecomlobby.com/Images/torre_norman_foster_eje_carcel_panoptico_carcelona.webp)
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
