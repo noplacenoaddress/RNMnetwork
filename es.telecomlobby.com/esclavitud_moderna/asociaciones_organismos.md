@@ -557,7 +557,9 @@ Es conocido entra los reclusos como **Cárcelona**.  Su eje central, su torre, s
 
 En caso de investigación sobre un caso de torturas, como el mio, puede ocurrir que la cronología de los hechos puedan ser no exactas debido al estrés que el individuo haya y está pasando. Es sumamente importante tener un diario donde apuntar todos los hechos criminales correlativos para no perder el hilo conductor de la cadena de eventos por esto estoy escribiendo una página web en continua actualización para después resumir el todo en una denuncia penal única acompañada de diferentes sentencias. Es un trabajo muy laborioso y complicado debido a que estoy subyugado continuamente a cibertortura, soledad, violencia sexual y malos tratos por parte también de mis mismos familiares. 
 
-Juntar una experiencia a otras de personas que están pasando por el mismo problema, torturados, es muy útil con el fin de encarcelar todos los personajes que están detrás de esta infraestructura tecnológica totalitaria. Altos funcionarios, aristócratas y mafiosos.
+Juntar una experiencia a otras de personas que están pasando por el mismo problema, torturados, es muy útil con el fin de encarcelar todos los personajes que están detrás de esta infraestructura tecnológica totalitaria. Altos funcionarios, aristócratas y mafiosos. Es importante compilar un organigrama completo para poner fin al cárcel panóptico terrorista activo sobre los ciudadanos Catalanes que se ha construido utilizando ratones de laboratorio humanos. Yo soy un de ellos y he sido puesto en el desarrollo de este sistema terrorista de extrema derecha desde que era adolescente por parte de una familia noble Italiana de orígenes Franceses conectada con el Fascismo, con Mafias y con un grupo de actores no estatales que opera en Catalunya para destruir la clase social obrera y marginal de esta comunidad autónoma históricamente de las ambiciones republicanas contra  de una Monarquía totalitaria. 
+
+
 
 ###  External links 
 
