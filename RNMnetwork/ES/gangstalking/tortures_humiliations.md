@@ -185,6 +185,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 5/12/2020 By using the electronic weapons a high representative of the Spanish state does not allow me to study and read. Francesca in subliminal message service always speak to me about money not to be named in an absolutely inevitable torture trial even if her high-class surname makes her think she is untouchable, when we all know why it is legislated that the law is the same for everyone.
 - 5/12/2020 **Francesca** every minute repeat: your son will die. She continuously threat me about death. And about kidnap. 
 - 6/12/2020 Saray send me an email from his boyfriend where he told me to not try to contact her if I don't want to go to jail. After in remote neural monitoring network she say that he will hit me. So I've done an error because I think that she needs help but in reality she is involved in Mafia because she is a slave of this technology. But she doesn't want to complain.
+- 6/12/2020 Saray after the email from his boyfriend say to me that I will die. Francesca say that because she wants to take out from Genoa a family of Sicilian guys that got a surname connected with Cosa Nostra she has organized the systematic destruction of my life because one of the two guys she thinks that he will kill me.
+- 11/12/2020 sexual harassment in the night. Saray always touching me with others girls. It's forced masturbation that is torture.
+- From 11 to 28 of December 2020 always about sleep deprivation, sexual harassment and various death threats. In Spain it's very common that Andreu is part of the national secret service agency. 
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
