@@ -559,7 +559,9 @@ En caso de investigación sobre un caso de torturas, como el mio, puede ocurrir 
 
 Juntar una experiencia a otras de personas que están pasando por el mismo problema, torturados, es muy útil con el fin de encarcelar todos los personajes que están detrás de esta infraestructura tecnológica totalitaria. Altos funcionarios, aristócratas y mafiosos. Es importante compilar un organigrama completo para poner fin al cárcel panóptico terrorista activo sobre los ciudadanos Catalanes que se ha construido utilizando ratones de laboratorio humanos. Yo soy un de ellos y he sido puesto en el desarrollo de este sistema terrorista de extrema derecha desde que era adolescente por parte de una familia noble Italiana de orígenes Franceses conectada con el Fascismo, con Mafias y con un grupo de actores no estatales que opera en Catalunya para destruir la clase social obrera y marginal de esta comunidad autónoma históricamente de las ambiciones republicanas contra  de una Monarquía totalitaria. 
 
+En la investigación es muy importante describir correctamente los métodos de tortura, en el caso de la cibertortura es algo muy complicado pero a través de mi investigación quiero brindar un herramienta potente para su demostración tanto por personas que viven en Catalunya cuanto a otras que viven en Liguria, región de Italia muy golpeada por parte de la familia que me ha esclavizado y explotado porqué intrínsecamente de izquierdas. Aunque detrás haya un ridícula batalla de dominación de mercado negro de la nobleza siendo ellos de orígenes del departamento francés de los **Alpes Marítimos** [[95]](https://bit.ly/3hmAxOB). Batalla que ha costado al vida a muchos genoveses de mi generación, que ha costado la lucidez mental a muchos otros y que encerrado en el cárcel panóptico catalano a todos, absolutamente todos, sus hijos. 
 
+*Toda la nobleza genovesa es totalmente culpable de no haber evitado la ruina para los hijos de su ciudad.*
 
 ###  External links 
 
@@ -750,6 +752,8 @@ Juntar una experiencia a otras de personas que están pasando por el mismo probl
 93. https://telecomlobby.com/RNMnetwork/documents/TFM_EduardoVega.pdf
 
 94. https://telecomlobby.com/RNMnetwork/documents/Virilio_Paul_La_Maquina_de_Vision.pdf
+
+95. https://bit.ly/3hmAxOB
 
     
 
