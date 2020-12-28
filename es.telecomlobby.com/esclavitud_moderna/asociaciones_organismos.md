@@ -563,6 +563,16 @@ En la investigación es muy importante describir correctamente los métodos de t
 
 *Toda la nobleza genovesa es totalmente culpable de no haber evitado la ruina para los hijos de su ciudad.*
 
+Importante meter en evidencia si el sujeto ha sido victima de acoso sexual o menos. En la red de monitorio neuronal la violencia sexual es al orden del día. Los carceleros desde el ojo central nos juntan a ex parejas que de una manera o de otra, normalmente con coacción o con sumas de dinero electrónico auto producido de las mismas maquinas que elaboran las imágenes derivadas da tomas de **magnetoencefaografía** [[96]](https://es.wikipedia.org/wiki/Magnetoencefalograf%C3%ADa) remota, nos violan continuamente. De esta manera resulta también muy complicado poderse rehacer una vida con otra persona a coste de rebajarse en la brutalización. En el sentido de acoso sexual yo también he ligeramente caído enviando dos correos electrónicos a mi ex, mi torturadora sexual, de contenidos eróticos. Ha sido mi único error. Se tienen que considerar como acoso sexual también:
+
+- asalto verbal.
+- desvestirse.
+- sentir placer sexual en contra de la voluntad del torturado.
+- golpes durante el sexo. (algunas personas que conozco torturada lamentablemente sienten placer sexual por golpear o ser golpeados)
+- descargas eléctricas en los genitales (cosa hecha a diario en esta cárcel virtual).
+
+Las victimas, y yo subrayo que también los torturadores son y han sido torturados, muchas veces negaran los hechos. De esta manera los dueños de esta infraestructura de explotación y esclavitud se aseguran su inmunidad en frente de la ley, junto a sus apellidos lujuriosos nadie ha hecho una denuncia sistemática de esto crimen terrible, la esclavitud moderna. Quiero ser el primero de una larga serie para cortar de cuajo su cabeza en una Europa que grita democracia! 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -754,6 +764,8 @@ En la investigación es muy importante describir correctamente los métodos de t
 94. https://telecomlobby.com/RNMnetwork/documents/Virilio_Paul_La_Maquina_de_Vision.pdf
 
 95. https://bit.ly/3hmAxOB
+
+96. https://es.wikipedia.org/wiki/Magnetoencefalograf%C3%ADa
 
     
 
