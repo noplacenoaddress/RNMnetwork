@@ -188,6 +188,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 6/12/2020 Saray after the email from his boyfriend say to me that I will die. Francesca say that because she wants to take out from Genoa a family of Sicilian guys that got a surname connected with Cosa Nostra she has organized the systematic destruction of my life because one of the two guys she thinks that he will kill me.
 - 11/12/2020 sexual harassment in the night. Saray always touching me with others girls. It's forced masturbation that is torture.
 - From 11 to 28 of December 2020 always about sleep deprivation, sexual harassment and various death threats. In Spain it's very common that Andreu is part of the national secret service agency. 
+- 29/12/2020 I cannot sleep because of electronic torture.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
