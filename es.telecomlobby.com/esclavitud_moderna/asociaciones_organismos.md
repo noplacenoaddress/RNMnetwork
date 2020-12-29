@@ -575,6 +575,8 @@ Las victimas, y yo subrayo que también los torturadores son y han sido torturad
 
 La identidad de los testigos tiene que ser detallada en la investigación, el investigador pero tendría que preocuparse de su secreto cosa que en la ambiente de tortura neuronal es imposible ya que todos saben pero nadie dice nada, el porqué son bienes efímeros como bitcoin, vicios, errores, el hecho de haber sido presente en el suicidio de otros, suicidios que son sin duda ninguna asesinatos, coacción mafiosa, etcétera etcétera.  Los creadores de este ambiente han tenido la genialidad de transformar victimas en culpables. Cosa que tiene que ser tenido en alta consideración por parte de un juez.
 
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
