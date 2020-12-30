@@ -608,6 +608,13 @@ Consideremos que muchas de las personas, aunque hayan o estén jugando a las apu
 
 Cualquier articulo de cotidiano, grabación o documento inherente tiene que ser guardado para ser analizado y utilizado en juicio. 
 
+Una examen medico se tiene que hacer aunque sea pasado mucho tiempo desde la tortura, pero si ha sido reportado que hayan pasado mas de seis semanas dicho examen tendría que ser organizado urgentemente antes de que los signos agudos desvanezcan. El examen tendría que incluir una evaluación de las necesidades por el tratamiento de las lesiones, ayuda psicológica, asesoramiento y seguimiento. Una evaluación psicológica de las victimas de torturas es siempre necesaria y podría ser parte de un examen físico o bien donde no haya signos físicos puede ser realizada por si misma.
+
+Haciendo un perfil físico y psicológico de la persona torturada se tiene que contestar a seis preguntas claves:
+
+-  Hemos encontrado signos físicos y psicológicos consistentes con el presunto crimen de tortura? Acordar que en el caso de cibertortura la tortura en cuanto a interferencias a los cinco sentidos del ser humano y la lectura remota del cerebro es continua, todos los días a toda hora.
+- Qué condiciones físicas contribuyen al **cuadro clínico** [[99]](https://es.wikipedia.org/wiki/Caso_cl%C3%ADnico)? En el caso de cibertortura el cuadro clínico no es de mucha relevancia aunque si que hayan signos físicos en las victimas. Acordaros que la cibertortura pertenece a lo que se clasifica como tortura sin rastros. 
+
 
 
 ###  External links 
@@ -807,6 +814,8 @@ Cualquier articulo de cotidiano, grabación o documento inherente tiene que ser 
 97. https://es.wikipedia.org/wiki/Privaci%C3%B3n_sensorial
 
 98. https://es.wikipedia.org/wiki/Cadena_de_custodia
+
+99. https://es.wikipedia.org/wiki/Caso_cl%C3%ADnico
 
     
 
