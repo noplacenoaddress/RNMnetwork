@@ -602,7 +602,13 @@ En el caso de la cibertortura tratándose de datos en su gran mayoría lo obvio 
 
 ![esquema casa](https://telecomlobby.com/Images/esquema_casa.webp)
 
-En el caso de tortura física con o sin rastros cada muestra de fluidos como sangre o semen, de cabellos, fibras y hilos tendría que ser preservadas para su análisis. Todo tipo de huellas tiene que ser levantadas y preservadas. Un boceto etiquetado del local o la zona donde hayan pasado torturas tiene que ser hecho en escala, mostrando todos los particulares relevantes. 
+En el caso de tortura física con o sin rastros cada muestra de fluidos como sangre o semen, de cabellos, fibras y hilos tendría que ser preservadas para su análisis. Todo tipo de huellas tiene que ser levantadas y preservadas. Un boceto etiquetado del local o la zona donde hayan pasado torturas tiene que ser hecho en escala, mostrando todos los particulares relevantes. Una base datos de las identidades de todas las personas que hayan preso parte al ambiente de tortura tiene que ser disponible. Siendo la cibertortura una herramienta de un ambiente de explotación además que de apuestas remotas mutuas donde participan prácticamente toda persona que la victima, como yo, haya conocido en su vida junto a unas cuantas familias nobles y representantes de varias categorías empresariales tener una base de datos junto a todo participante es fundamental. Las acusaciones son del concurso en tortura hasta la participación mafiosa y la concurso en intento de asesinado. Algunos han sido y son engañados además que obligados a participar a estos crímenes horribles siendo ellos mismos encarcelados en la cárcel panóptica, aunque ellos mismos no hayan puesto denuncia y hayan visto en transmisión neuronal otras victimas quitarse la vida, o sea ser asesinados. Familia incluida. Otros tienen la libertad de salir de la cárcel, del ambiente de tortura; tratándose así de asesinos, mafiosos, torturadores y esclavistas.
+
+Consideremos que muchas de las personas, aunque hayan o estén jugando a las apuestas o que también hayan participado a la tortura o a la estafa previa, en mi caso, sean en realidad torturados. Algunos pero se esconden detrás de esta mascara y del poder y prefieren vestirse de mafiosos o traficantes en vez de portar a juicio esta infraestructura. Cosa que no es posible aceptar de ninguna manera siendo presentes hasta menores de edad. Algunos de sus padres visten estas mascaras ridículas y piensan que la vida sea un juego. Un juego inventado por los carceleros de sus mentes. Sus esclavistas.
+
+Cualquier articulo de cotidiano, grabación o documento inherente tiene que ser guardado para ser analizado y utilizado en juicio. 
+
+
 
 ###  External links 
 
