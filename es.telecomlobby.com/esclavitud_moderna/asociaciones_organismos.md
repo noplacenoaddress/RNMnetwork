@@ -614,6 +614,11 @@ Haciendo un perfil físico y psicológico de la persona torturada se tiene que c
 
 -  Hemos encontrado signos físicos y psicológicos consistentes con el presunto crimen de tortura? Acordar que en el caso de cibertortura la tortura en cuanto a interferencias a los cinco sentidos del ser humano y la lectura remota del cerebro es continua, todos los días a toda hora.
 - Qué condiciones físicas contribuyen al **cuadro clínico** [[99]](https://es.wikipedia.org/wiki/Caso_cl%C3%ADnico)? En el caso de cibertortura el cuadro clínico no es de mucha relevancia aunque si que hayan signos físicos en las victimas. Acordaros que la cibertortura pertenece a lo que se clasifica como tortura sin rastros. 
+- Son los descubrimiento bajo el aspecto psicológico los esperados o bien son reacciones típicas a condiciones de estrés extremo según la extracción cultural y social de la victima?
+- Dado el curso fluctuante de los trastornos mentales relacionados con el trauma a lo largo del tiempo, cual es el periodo de tiempo en relación con los eventos de tortura? Donde en lo trascurrido de recuperación del individuo? Acordar que en la tortura electrónica no hay recuperación plena porqué, aunque empiece con un nivel de estrés muy alto también cultivado por parte de operadores, *maquinistas*, de forma física y con un cambio repentino en el entorno, siempre nuestros cincos sentidos están interferidos. 
+- Que otros factores de estrés afectan el individuo? Entra ellos persecución continua, en mi caso utilizada antes de ser activado en la red de monitorio neuronal bajo la forma de acoso de pandillas, migración forzosa, en mi caso alto funcionarios de Estado me aconsejan bajo amenaza de regresar a Italia, **exilio** [[100]](https://es.wikipedia.org/wiki/Exilio), perdida de la familia, en mi caso porqué presentes a la tortura bien porqué torturados unos stalkers siguen copiando sus voces para fomentar el odio contra de ellos, y perdida de rol social, en mi caso creado por una estafa colosal que me ha destruido sistemáticamente la vida de empresario de telecomunicaciones.
+
+Tomas fotográficas son documentos importantes y tienen que inmortalizar cada particular de tortura de las victimas.   
 
 
 
@@ -817,13 +822,15 @@ Haciendo un perfil físico y psicológico de la persona torturada se tiene que c
 
 99. https://es.wikipedia.org/wiki/Caso_cl%C3%ADnico
 
-    
+100. https://es.wikipedia.org/wiki/Exilio
 
-    
+     
 
-    
+     
 
-    
+     
 
-    
+     
+
+     
 
