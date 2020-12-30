@@ -189,7 +189,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 11/12/2020 sexual harassment in the night. Saray always touching me with others girls. It's forced masturbation that is torture.
 - From 11 to 28 of December 2020 always about sleep deprivation, sexual harassment and various death threats. In Spain it's very common that Andreu is part of the national secret service agency. 
 - 29/12/2020 I cannot sleep because of electronic torture.
-- 30/12/2020 sleep deprivation from 4 am. Friends of mine playing in a casino, game addiction. Girls that I know doing sex with me, sexual harassment. They don't sleep. 
+- 30/12/2020 sleep deprivation from 4 am. Friends of mine playing in a casino, game addiction. Girls that I know doing sex with me, sexual harassment. They don't sleep. Francesca has built in the panoptic a casino very similar to the concept that we've seen in twin peaks from Davind Lynch. 
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
