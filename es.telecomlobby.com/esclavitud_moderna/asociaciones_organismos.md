@@ -575,6 +575,19 @@ Las victimas, y yo subrayo que también los torturadores son y han sido torturad
 
 La identidad de los testigos tiene que ser detallada en la investigación, el investigador pero tendría que preocuparse de su secreto cosa que en la ambiente de tortura neuronal es imposible ya que todos saben pero nadie dice nada, el porqué son bienes efímeros como bitcoin, vicios, errores, el hecho de haber sido presente en el suicidio de otros, suicidios que son sin duda ninguna asesinatos, coacción mafiosa, etcétera etcétera.  Los creadores de este ambiente han tenido la genialidad de transformar victimas en culpables. Cosa que tiene que ser tenido en alta consideración por parte de un juez.
 
+El investigador tiene que grabar cada entrevista de las victimas para después escribirlas sobre papel. La declaración debe basarse en respuestas dadas a preguntas no principales siguiendo estas pautas:
+
+- La pregunta no tiene que contener al respuesta.
+- La pregunta no tiene que contener un abanico de respuestas.
+- La pregunta no tiene que identificar a ninguna persona.
+- La pregunta no tiene que explicar en detalle el problema sobre lo cual la victima es entrevistada.
+
+Resumiendo preguntas "no principales" no hacen supuestos o conclusiones y permiten a la victima ofrecer el más completa y imparcial testimonial. También es importante como ya reflejado evitar preguntas con listas de respuestas porqué pueden forzar la victima en declarar respuestas incorrectas.
+
+De otro lado fomentar la persona en utilizar todos sus sentidos para describir lo que ha vivido. Preguntar que ha visto, olido, sentido y probado. Es muy importante en el caso pueda haber sido vendado o atacado en la oscuridad. 
+
+Tengo que precisar que en el caso de cibertortura es posible que la victima haya sido, como yo, atacado con armas electrónicas que le hayan provocado lo que se conoce como **privación sensorial** [[97]](https://es.wikipedia.org/wiki/Privaci%C3%B3n_sensorial), se trata de algo desarrollado en secreto sobre las victimas en el campo Catalán. Las victimas suelen pensar que es algo conectado a la droga, un mal viaje. Esto es totalmente falso se trata únicamente de electrónica. Describir exactamente la experiencia es fundamental para llevar a la cárcel a estos monstruos que están desarrollando con menores de edad en Catalunya. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -768,6 +781,8 @@ La identidad de los testigos tiene que ser detallada en la investigación, el in
 95. https://bit.ly/3hmAxOB
 
 96. https://es.wikipedia.org/wiki/Magnetoencefalograf%C3%ADa
+
+97. https://es.wikipedia.org/wiki/Privaci%C3%B3n_sensorial
 
     
 
