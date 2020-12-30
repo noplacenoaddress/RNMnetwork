@@ -588,6 +588,22 @@ De otro lado fomentar la persona en utilizar todos sus sentidos para describir l
 
 Tengo que precisar que en el caso de cibertortura es posible que la victima haya sido, como yo, atacado con armas electrónicas que le hayan provocado lo que se conoce como **privación sensorial** [[97]](https://es.wikipedia.org/wiki/Privaci%C3%B3n_sensorial), se trata de algo desarrollado en secreto sobre las victimas en el campo Catalán. Las victimas suelen pensar que es algo conectado a la droga, un mal viaje. Esto es totalmente falso se trata únicamente de electrónica. Describir exactamente la experiencia es fundamental para llevar a la cárcel a estos monstruos que están desarrollando con menores de edad en Catalunya. 
 
+El investigador tiene que recolectar todas las pruebas físicas posible para documentar el patrón de tortura. Uno de los aspectos más importante de una investigación es es la toma y análisis de pruebas. 
+
+En el caso de la cibertortura las pruebas suelen ser complicadas de obtener aunque haya un patrón reconducidle sin duda ninguna a este tipo de crimen. 
+
+Los investigadores tienen que documentar la **cadena de custodia** [[98]](https://es.wikipedia.org/wiki/Cadena_de_custodia) de los objetos o datos, en caso de cibertortura, para preservarlos para futuros juicios legales. La mayoría de los hechos criminales conectadles a tortura pasan en sitios donde las personas son retenidas de alguna manera bajo custodia donde preservar la integridad de las pruebas puede ser algo muy complicado o imposible. En el caso de cibertortura las victimas, como yo, somos bajo custodia virtual, somos secuestrados virtualmente. Estamos custodiados en la cárcel panóptica de nueva generación. De tal manera que para mantener la cadena de custodia de los datos útiles para la demostración de nuestra tortura tenemos que tener inmenso cuidado de ataques hackers. Hackers que sirven esta cárcel virtual, soldados. *Maquinistas*. 
+
+A los investigadores el Estado tiene que permitir acceso irrestricto  a cualquier sitio donde se haya cumplidos hechos de tortura, en el caso de la cibertortura seguramente a los sitios de donde se transmite la misma. El personal de investigación y otros investigadores tienen que coordinar sus esfuerzos para llevar a cabo una investigación completa. 
+
+Cualquier edificio, aunque sea del gobierno, o área bajo investigación tiene que ser cerrada de manera de perder ningún tipo de prueba. Únicamente los investigadores y su equipo tiene que tener el permiso de entrar dentro de la zona bajo sospecha. Todas las pruebas tienen que ser colectadas con propiedad, manipuladas, empaquetadas, etiquetadas, y puesta en seguridad con el fin de prevenir contaminación, manipulación o perdida. 
+
+En el caso de la cibertortura tratándose de datos en su gran mayoría lo obvio es utilizar medios redundados y cifrados. Al medio magnéticos se tendría que acoplar también la cinta grabadora y el medio óptico por seguridad. 
+
+![esquema casa](https://telecomlobby.com/Images/esquema_casa.webp)
+
+En el caso de tortura física con o sin rastros cada muestra de fluidos como sangre o semen, de cabellos, fibras y hilos tendría que ser preservadas para su análisis. Todo tipo de huellas tiene que ser levantadas y preservadas. Un boceto etiquetado del local o la zona donde hayan pasado torturas tiene que ser hecho en escala, mostrando todos los particulares relevantes. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -783,6 +799,8 @@ Tengo que precisar que en el caso de cibertortura es posible que la victima haya
 96. https://es.wikipedia.org/wiki/Magnetoencefalograf%C3%ADa
 
 97. https://es.wikipedia.org/wiki/Privaci%C3%B3n_sensorial
+
+98. https://es.wikipedia.org/wiki/Cadena_de_custodia
 
     
 
