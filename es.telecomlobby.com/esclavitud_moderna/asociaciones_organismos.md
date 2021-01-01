@@ -649,7 +649,15 @@ En mi caso, siendo un único investigador, efectivamente estoy teniendo muchas p
 
  Las comisiones de investigación tendrían que tener imparciales, abogados expertos. Cuando la comisión está investigando alegados de mala conducta por parte del Estado, tendría que ser aconsejable de nombrar abogacía fuera del Ministerio de Justicia. El jefe de abogacía debe ser aislado del poder político, aunque la tenencia de la función pública o como un miembro totalmente independiente de la barra. La investigación puede a menudo requerir asesoría experta. Expertos técnicos tendría que estar disponibles para la comisión en áreas como la patología, las ciencias forenses, la psiquiatría, la psicología, ginecología y pediatría. 
 
-Los Estados tendrían que proteger todos los denunciantes, los testigos y aquellos conduciendo la investigación y sus familias de la violencia, amenazas de violencia o cualquier 
+Los Estados tendrían que proteger todos los denunciantes, los testigos y aquellos conduciendo la investigación y sus familias de la violencia, amenazas de violencia o cualquier otra forma de intimidación.
+
+Yo vengo torturado eléctricamente desde Noviembre 2017, recibo amenazas hasta de secuestro por parte de personal al servicio de Francesca, y las voces de mi madre y mi padre vienen copiada en red neuronal haciendo una suplantación de identidad con el fin de hacerme odiar a mis mismos padres. Ellos si que están presentes pero por miedo o puede ser por interés no actúan legalmente contra de ella y de un servicio Español corrupto que junto a ella ha creado en Catalunya un campo de conejillos de India tanto en clase marginal cuanto obrera y inmigración. Avenenan la sociedad con todo el posible. Inmigrados Andaluces piensan que sea una familia Catalana, cuando es exactamente el revés. Es la continuación de la tortura Franquista. 
+
+Si la comisión cree que hay un razonable riesgo de persecución, cosa que yo he vivido todavía un año antes del comienzo de la tortura electrónica como acoso de pandillas organizadas, Mafia,   acoso o daño a cualquier testigo o testigo potencial, la comisión podría encontrarlo y grabar su testigo en cámara, mantener la identidad del informador o testigo confidencial, utilizar únicamente la prueba en manera que pueda no identificar el testigo y pillar otras medidas apropiadas. 
+
+Toda entrevista o procedimiento tendría que ser grabado y el resultado sellado y non publicado tendría que ser guardado en un sitio seguro.
+
+ 
 
 
 
