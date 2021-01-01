@@ -620,7 +620,17 @@ Haciendo un perfil físico y psicológico de la persona torturada se tiene que c
 
 Tomas fotográficas son documentos importantes y tienen que inmortalizar cada particular de tortura de las victimas y del ambiente de tortura. En mi caso personalmente he tomado ambas, tengo muchas imágenes de lesiones cutáneas debidas a armas electrónicas y otras de la tecnología relativa tanto a la maquina en radio frecuencia cuanto al sistema de terrorismo domestico llamado DOMINT. También tengo pruebas del sistema ECHELON activo sobre mi conexiones a Internet y de varios ataques hacker a mi dispositivos. Es importante documentar en relación al tiempo cada dato y cada imagen. 
 
+### Comisión de investigación
 
+![](https://telecomlobby.com/Images/congreso_comision_investigacion.webp)
+
+Estados y organizaciones establecen comisiones de investigación necesarias a definir el objetivo útil a definir el fin de la investigación incluyendo palabras de referencia en su autorización. Definir los términos de la comisión de referencia puede aumentar enormemente su éxito dando legitimidad a los procedimientos, asistir a los miembros de la comisión en llegar a un **consenso** [[101]](https://es.wikipedia.org/wiki/Consenso) sobre el alcance de la investigación y proporcionar una medida sobre la cual el reporte final de la comisión pueda ser juzgado. 
+
+Recomendaciones:
+
+- Las comisiones tienen que ser enmarcadas de manera neutral así que no puedan sugerir un resultado predeterminado. Siendo neutrales, los términos de referencia no deben limitar las investigaciones en áreas que puedan revelar la responsabilidad del Estado por la tortura.
+- Tienen que decir con precisión que eventos y problemas son de investigar y ser dirigidos en el reporte final de la comisión.
+- Tienen que brindar flexibilidad al fin de la investigación para asegurar que la minuciosa investigación no se ve obstaculizado por términos de referencia demasiado restrictivos o demasiado amplios. La necesaria flexibilidad puede ser garantizada permitiendo a la comisión modificar sus términos de referencia como necesario. Es importante por la comisión de mantener informes públicos y todo tipo de **enmiendas** [[102]](https://bit.ly/350BFSY) a su mandado.
 
 ###  External links 
 
@@ -823,6 +833,10 @@ Tomas fotográficas son documentos importantes y tienen que inmortalizar cada pa
 99. https://es.wikipedia.org/wiki/Caso_cl%C3%ADnico
 
 100. https://es.wikipedia.org/wiki/Exilio
+
+101. https://es.wikipedia.org/wiki/Consenso
+
+102. https://bit.ly/350BFSY
 
      
 
