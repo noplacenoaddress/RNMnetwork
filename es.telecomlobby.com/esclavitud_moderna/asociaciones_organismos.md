@@ -631,6 +631,25 @@ Recomendaciones:
 - Las comisiones tienen que ser enmarcadas de manera neutral así que no puedan sugerir un resultado predeterminado. Siendo neutrales, los términos de referencia no deben limitar las investigaciones en áreas que puedan revelar la responsabilidad del Estado por la tortura.
 - Tienen que decir con precisión que eventos y problemas son de investigar y ser dirigidos en el reporte final de la comisión.
 - Tienen que brindar flexibilidad al fin de la investigación para asegurar que la minuciosa investigación no se ve obstaculizado por términos de referencia demasiado restrictivos o demasiado amplios. La necesaria flexibilidad puede ser garantizada permitiendo a la comisión modificar sus términos de referencia como necesario. Es importante por la comisión de mantener informes públicos y todo tipo de **enmiendas** [[102]](https://bit.ly/350BFSY) a su mandado.
+- Autoridad de recibir evidencias de testigos y organizaciones alocadas fuera del país. 
+
+Los miembros de comisión tendrían que ser elegidos por su imparcialidad, competencia y independencia como individuos como sigue:
+
+- **Imparcialidad**. Miembros de la comisión no tienen que estar asociados con ningún individuo, entidades de Estado, partidos políticos u otras organizaciones potencialmente implicadas en torturas. No tienen que ser conectadas estrictamente a una organización o grupo de lo cual la victima es miembro, como que esto dañaría la credibilidad de la comisión. Esto no tendría que ser, igualmente, una escusa por una exclusión general de la comisión, por ejemplo, de miembros de grandes organizaciones de las cuales la victima también es miembro o de personas asociadas con organizaciones dedicadas al tratamiento o rehabilitación de las victimas de tortura.
+- **Competencia**. Los miembros de la comisión tienen que ser capaces de evaluar y sopesar las pruebas y ejercer un buen juicio. Si fuera posible, las comisiones de investigación tendría incluir individuos expertos en leyes, medicina y otros campos apropiados.
+- **Independencia**.  Miembros de la comisión tienen que haber una reputación en sus comunidades por honestad y justicia. 
+
+Los objetivos de la investigación y de lo que encuentra la comisión puede, entra más cosas, dependiendo de si tienen tres o más miembros más bien de uno o dos. Un único comisionista tendría en general no conducir investigación sobre torturas. 
+
+En mi caso no siendo yo un investigador certificado y asignado a una comisión parlamentaria es obvio que he podido y puedo conducir una investigación por mi cuenta.
+
+Igualmente un único investigador sería en general limitado en la profundidad y amplitud de la investigación para poderla ejecutar en un tiempos razonables, mejor dicho no perder diez años como lo que me he está pasando a mi mismo. Como añadido un único investigador contratado tendría que tener decisiones controversias y importantes sin poderlas discutir y sería particularmente vulnerable al Estado y a otras presiones.
+
+En mi caso, siendo un único investigador, efectivamente estoy teniendo muchas presiones por parte de un agente de Estado y muchas presiones externas también de personas conocidas de toda la vida a dedicarme al mercado negro. Actores no estatales de una mafia oculta muy radicada, SPECTRAM, así conocida en su mayoría torturados que son torturadores, el porqué es la política del miedo o por acecho de Estado o porqué efectivamente si no torturan, hacer acecho en red subliminal es tortura, pierden privilegios en el mercado negro. Otras, y pongo una letra femenina, ganan moneda electrónica auto producida por los mismos cluster de superordenadores donde se elaboran las imágenes neuronales de las victimas. 
+
+  
+
+
 
 ###  External links 
 
