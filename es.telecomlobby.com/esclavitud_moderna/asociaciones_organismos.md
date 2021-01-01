@@ -647,7 +647,7 @@ Igualmente un único investigador sería en general limitado en la profundidad y
 
 En mi caso, siendo un único investigador, efectivamente estoy teniendo muchas presiones por parte de un agente de Estado y muchas presiones externas también de personas conocidas de toda la vida a dedicarme al mercado negro. Actores no estatales de una mafia oculta muy radicada, SPECTRAM, así conocida en su mayoría torturados que son torturadores, el porqué es la política del miedo o por acecho de Estado o porqué efectivamente si no torturan, hacer acecho en red subliminal es tortura, pierden privilegios en el mercado negro. Otras, y pongo una letra femenina, ganan moneda electrónica auto producida por los mismos cluster de superordenadores donde se elaboran las imágenes neuronales de las victimas. 
 
-  
+ Las comisiones de investigación tendrían que tener imparciales, abogados expertos. Cuando la comisión está investigando alegados de mala conducta por parte del Estado, tendría que ser aconsejable de nombrar abogacía fuera del Ministerio de Justicia. El jefe de abogacía debe ser aislado del poder político. 
 
 
 
