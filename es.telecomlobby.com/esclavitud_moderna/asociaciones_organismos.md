@@ -657,7 +657,17 @@ Si la comisión cree que hay un razonable riesgo de persecución, cosa que yo he
 
 Toda entrevista o procedimiento tendría que ser grabado y el resultado sellado y non publicado tendría que ser guardado en un sitio seguro.
 
- 
+Vasta noticia del establecerse de una comisión y su asunto tiene que ser dado. El anuncio tiene que incluir una invitación para enviar información relevante y declaraciones escritas a la comisión y instrucciones a personas dispuestas a testificar. La noticia puede ser publicada a través de cotidianos, revistas, radio, televisión, folletos y publicidad. 
+
+La comisión de investigación tendría que tener el poder de obligar testimonio y producir documentos, además la autoridad imperativa de obligar testimonio a los funcionarios de Estado involucrados en torturas. Prácticamente, esta autoridad puede involucrar el poder de imponer multas o sentencias si oficiales de gobierno o otros individuos se deniegan aparecer en juicio.
+
+En Catalunya sería de gran utilidad y eficacia una comisión aprobada por el **parlamento Catalán** [[103]](https://es.wikipedia.org/wiki/Parlamento_de_Catalu%C3%B1a).
+
+La comisión tendría que invitar a las personas involucradas testificar o enviar documentos escritos como un primer paso in tomar evidencias. Escribir declaraciones podría llegar a ser un importante recurso si sus autores tienen miedo en testificar de forma presencial, no pueden viajar, o de igual manera no son disponibles. 
+
+Importante subrayar igualmente de que quien es acusado de presunta tortura es obligado con extradición a testificar y pasar juicio en el país donde se hayan hecho las torturas, obviamente también electrónicas. Francesca vive en Italia y me ha torturado en España. Muchos otros lo han hecho pero es muy cierto que están obligados o bien por ignorancia, o bien por miedo de perder su sitio de trabajo  o bien porqué amenazados con los mismos hijos.
+
+
 
 
 
@@ -866,6 +876,8 @@ Toda entrevista o procedimiento tendría que ser grabado y el resultado sellado 
 101. https://es.wikipedia.org/wiki/Consenso
 
 102. https://bit.ly/350BFSY
+
+103. https://es.wikipedia.org/wiki/Parlamento_de_Catalu%C3%B1a
 
      
 
