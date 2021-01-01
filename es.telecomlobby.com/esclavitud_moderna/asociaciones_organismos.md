@@ -667,7 +667,7 @@ La comisión tendría que invitar a las personas involucradas testificar o envia
 
 Importante subrayar igualmente de que quien es acusado de presunta tortura es obligado con extradición a testificar y pasar juicio en el país donde se hayan hecho las torturas, obviamente también electrónicas. Francesca vive en Italia y me ha torturado en España. Muchos otros lo han hecho pero es muy cierto que están obligados o bien por ignorancia, o bien por miedo de perder su sitio de trabajo  o bien porqué amenazados con los mismos hijos.
 
-
+Aquellos que aleguen que han sido torturados y sus representantes legales tienen que estar informados y tener acceso a cualquier escucha y a toda información del caso y debe tener derecho a presentar pruebas. Esta particular énfasis del rol del sobreviviente como parte del procedimiento refleja la especial importancia de su rol en el avance de la investigación. Igualmente toda otra parte tendría también de tener la posibilidad de ser escuchada. El cuerpo de investigación debe tener derecho a emitir citaciones a testigos, incluidos oficiales involucrados, y de demandar la producción de evidencias. A todos los testigos se le tendría que permitir asesoría legal si es probable que se vean perjudicados por la investigación.
 
 
 
