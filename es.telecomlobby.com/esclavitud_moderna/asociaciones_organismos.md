@@ -667,9 +667,22 @@ La comisión tendría que invitar a las personas involucradas testificar o envia
 
 Importante subrayar igualmente de que quien es acusado de presunta tortura es obligado con extradición a testificar y pasar juicio en el país donde se hayan hecho las torturas, obviamente también electrónicas. Francesca vive en Italia y me ha torturado en España. Muchos otros lo han hecho pero es muy cierto que están obligados o bien por ignorancia, o bien por miedo de perder su sitio de trabajo  o bien porqué amenazados con los mismos hijos.
 
-Aquellos que aleguen que han sido torturados y sus representantes legales tienen que estar informados y tener acceso a cualquier escucha y a toda información del caso y debe tener derecho a presentar pruebas. Esta particular énfasis del rol del sobreviviente como parte del procedimiento refleja la especial importancia de su rol en el avance de la investigación. Igualmente toda otra parte tendría también de tener la posibilidad de ser escuchada. El cuerpo de investigación debe tener derecho a emitir citaciones a testigos, incluidos oficiales involucrados, y de demandar la producción de evidencias. A todos los testigos se le tendría que permitir asesoría legal si es probable que se vean perjudicados por la investigación.
+Aquellos que aleguen que han sido torturados y sus representantes legales tienen que estar informados y tener acceso a cualquier escucha y a toda información del caso y debe tener derecho a presentar pruebas. Esta particular énfasis del rol del sobreviviente como parte del procedimiento refleja la especial importancia de su rol en el avance de la investigación. Igualmente toda otra parte tendría también de tener la posibilidad de ser escuchada. El cuerpo de investigación debe tener derecho a emitir citaciones a testigos, incluidos oficiales involucrados, y de demandar la producción de evidencias. A todos los testigos se le tendría que permitir asesoría legal si es probable que se vean perjudicados por la investigación por ejemplo cuando su declaración pueda exponerlos a cargos penales o a **responsabilidad civil** [[104]](https://es.wikipedia.org/wiki/Responsabilidad_civil). Los testigos no podrían ser obligados en testificar contra ellos mismos. Tendría que existir una oportunidad el interrogatorio efectivo de testigos de parte de la comisión. Las partes del grupo de investigación tendría que ser permitidas de enviar cuestionarios a la comisión.
 
+La comisión debería evaluar toda la información y pruebas que recibe para determinar confiabilidad y **probidad** [[105]](https://es.wikipedia.org/wiki/Principio_de_buena_fe). La comisión tendría que evaluar el testimonio oral, tener en cuenta el comportamiento y la credibilidad general del testigo. La comisión debería ser sensible a cuestiones relativas a el contesto socio cultural y de genero que puedan afectar al comportamiento. Corroborar las pruebas desde varias fuentes aumentará el valor provador de las mismas y su fiabilidad, también de todos los rumores acerca de ya que tienen considerados cuidadosamente antes de que la comisión acepte los hechos. Los testimonios no comprobados de más fuentes también tienen que ser evaluados con precaución. 
 
+La comisión tiene que producir un reporte público dentro de un tiempo razonable que como mínimo contenga:
+
+- El fin de la investigación y sus términos de referencia.
+- Los procedimientos y los métodos de evaluación de las pruebas. 
+- Un  listado de testigos que incluya edad y genero, quien haya testificado, excepto por aquellos las cuales identidades son retenidas por protección o quienes hayan testificado en cámara y exhibiciones recibidas como pruebas.
+- El tiempo y la locación de cada reunión como anexo del reporte.
+- Los antecedentes de la investigación, como la relevancia social, política y las condiciones económicas. 
+- Los hechos específicos que han ocurrido y las pruebas sobre la cual estas recomendaciones están basadas.
+- La ley sobre la cual la comisión confío.
+- Las conclusiones de la comisión basada su leyes aplicables sobre las pruebas y los hallazgos.
+
+Los estados tienen que contestar públicamente a los reportes de la comisión y, donde apropiado, indicar cuantos pasos pretende pillar en respuesta al reporte. 
 
 ###  External links 
 
@@ -878,6 +891,10 @@ Aquellos que aleguen que han sido torturados y sus representantes legales tienen
 102. https://bit.ly/350BFSY
 
 103. https://es.wikipedia.org/wiki/Parlamento_de_Catalu%C3%B1a
+
+104. https://es.wikipedia.org/wiki/Responsabilidad_civil
+
+105. https://es.wikipedia.org/wiki/Principio_de_buena_fe
 
      
 
