@@ -719,6 +719,8 @@ Los detenidos, o hablando de la cibertortura mejor dicho las victimas, tendrían
 
 Cada detenido o victima tiene que ser examinado en privado. Policías u otros funcionarios no tendrían que estar nunca presentes en el mismo local. A menos que los médicos no indiquen que haya una peligrosidad por su propia vida al examinar el sujeto. Debajo de estas circunstancias, el personal de seguridad del centro de salud, no funcionarios de policía u otros, tendría que ser disponibles a petición del médico. De todas formas también personal de seguridad del centro tendría fuera del alcance del oído pero bien dentro de contacto visual. 
 
+Es importante presionar para que la evaluación médica esté hecha fuera de la prisión, cuidado con el cárcel panóptico porqué siendo eso operativo en toda Catalunya, y probablemente mucho más debido a la inclinación en grados de las antenas de la torre de Collserola muchas mirando el cielo o sea que es muy probable que utilicen la **ionosfera** [[113]](https://es.wikipedia.org/wiki/Ionosfera) como medio de propagación fuera del territorio Español constituyendo un crimen muy grave en cuanto consideradas armas, y siendo acompañado de par paso con corrupción también en instituciones hospitalarias  
+
 
 
 ###  External links 
@@ -946,6 +948,8 @@ Cada detenido o victima tiene que ser examinado en privado. Policías u otros fu
 111. https://es.wikipedia.org/wiki/Macrodatos
 
 112. https://es.wikipedia.org/wiki/Medicina_alternativa
+
+113. https://es.wikipedia.org/wiki/Ionosfera
 
      
 
