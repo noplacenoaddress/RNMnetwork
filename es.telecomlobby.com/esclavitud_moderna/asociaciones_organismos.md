@@ -711,11 +711,7 @@ El examinador tiene que:
 - Interpretar los hallazgos de la **medicina legal** [[108]](https://es.wikipedia.org/wiki/Medicina_forense) y proveer opiniones expertas sobre las posibles causas de abusos en **audiencias de asilo** [[109]](https://es.wikipedia.org/wiki/Derecho_de_asilo), juicios criminales y procedimientos civiles.
 - Utilizar la información obtenida en manera apropiada para augmentar las investigación de los hechos y demás documentación de torturas.
 
-
-
-
-
-
+Las peticiones por evaluaciones medicas de parte de los funcionarios encargados de hacer cumplir la ley son de ser considerados inválidos a menos que  no son pedidas de ordenes por escrito por parte de **fiscales** [[110]](https://bit.ly/2MsY0lS).
 
 ###  External links 
 
@@ -936,6 +932,8 @@ El examinador tiene que:
 108. https://es.wikipedia.org/wiki/Medicina_forense
 
 109. https://es.wikipedia.org/wiki/Derecho_de_asilo
+
+110. https://bit.ly/2MsY0lS
 
      
 
