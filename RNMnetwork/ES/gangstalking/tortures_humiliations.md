@@ -191,7 +191,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 29/12/2020 I cannot sleep because of electronic torture.
 - 30/12/2020 sleep deprivation from 4 am. Friends of mine playing in a casino, game addiction. Girls that I know doing sex with me, sexual harassment. They don't sleep. Francesca has built in the panoptic a casino very similar to the concept that we've seen in twin peaks from David Lynch. 
 - 30/12/2020 I want to underline that all day longs all the people that are connected in my torture environment press me to be a drug dealer. Obviously to go in jail and follow up with the torture that is a industrial chain. A machine of death and suicide.
-- 1/1/2021 19:22 Andreu just say to me that he will kidnap me.
+- 1/1/2021 19:22 A man just say to me that he will kidnap me.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
