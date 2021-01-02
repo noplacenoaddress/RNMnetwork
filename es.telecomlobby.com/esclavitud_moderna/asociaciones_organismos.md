@@ -708,7 +708,10 @@ El examinador tiene que:
 - Documentar evidencias físicas y psicológicas de lesión y abusos.
 - Relacionar el grado de consistencia entra los resultados de los exámenes y especificas alegaciones de abuso por parte del paciente.
 - Relacionar el grado de consistencia entra los hallazgos de los exámenes con el conocimiento general de los métodos de tortura utilizados en una especifica región y sus secuelas conocidas.
-- Interpretar los hallazgos de la **medicina legal** [[108]](https://es.wikipedia.org/wiki/Medicina_forense) y proveer opiniones expertas sobre las posibles causas de abusos en **audiencias de asilo** [[109]](https://es.wikipedia.org/wiki/Derecho_de_asilo), 
+- Interpretar los hallazgos de la **medicina legal** [[108]](https://es.wikipedia.org/wiki/Medicina_forense) y proveer opiniones expertas sobre las posibles causas de abusos en **audiencias de asilo** [[109]](https://es.wikipedia.org/wiki/Derecho_de_asilo), juicios criminales y procedimientos civiles.
+- Utilizar la información obtenida en manera apropiada para augmentar las investigación de los hechos y demás documentación de torturas.
+
+
 
 
 
