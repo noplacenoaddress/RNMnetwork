@@ -711,7 +711,15 @@ El examinador tiene que:
 - Interpretar los hallazgos de la **medicina legal** [[108]](https://es.wikipedia.org/wiki/Medicina_forense) y proveer opiniones expertas sobre las posibles causas de abusos en **audiencias de asilo** [[109]](https://es.wikipedia.org/wiki/Derecho_de_asilo), juicios criminales y procedimientos civiles.
 - Utilizar la información obtenida en manera apropiada para augmentar las investigación de los hechos y demás documentación de torturas.
 
-Las peticiones por evaluaciones medicas de parte de los funcionarios encargados de hacer cumplir la ley son de ser considerados inválidos a menos que  no son pedidas de ordenes por escrito por parte de **fiscales** [[110]](https://bit.ly/2MsY0lS).
+Las peticiones por evaluaciones medicas de parte de los funcionarios encargados de hacer cumplir la ley son de ser considerados inválidos a menos que  no son pedidas de ordenes por escrito por parte de **fiscales** [[110]](https://bit.ly/2MsY0lS). Los propios detenidos, sus abogados o familiares, sin embargo, tienen derecho a solicitar una evaluación médica para evidenciar signos de torturas y humillaciones.
+
+En el cárcel panóptico los detenidos no lo están físicamente si que pero son torturados con torturas electrónicas, control mental y torturas sin rastros. La tortura electrónica puede ser detectada a través de heridas cutáneas en la piel de las victimas. Calvicie y problemas en los dientes. Cuidado porqué la tortura electrónica puede ser confundida con abusos de substancias cosa muy común ya que se torturan personas que han sido marginadas y a las cuales se le ha obligado al mercado negro. Todo es por enmascarar un negocio millonario de conejillos de India para el desarrollo de tecnología y el negocio de los **macrodatos** [[111]](https://es.wikipedia.org/wiki/Macrodatos). 
+
+Los detenidos, o hablando de la cibertortura mejor dicho las victimas, tendrían que ser llevados a un examen de medicina forense por parte de funcionarios que no sean soldados o policías dado que la tortura y los malos tratos pueden haber ocurrido debajo de su custodia y por este hecho podría poner una presión coercitiva non aceptable sobre la victima o bien el médico podría no documentar la tortura y los malos tratos con eficacia. Los funcionarios que supervisan el transporte del detenido, siempre en el caso que sea desde una cárcel física, tendrían que responder únicamente al fiscal  y no a otros funcionarios que hagan cumplir la ley. Los abogados del detenido tendrían que ser presentes durante la petición de examen médico y también durante los traslados. Los detenidos, y como no las victimas del panóptico, tienen el derecho de obtener una secunda evaluación médica y también de **medicina alternativa** [[112]](https://es.wikipedia.org/wiki/Medicina_alternativa)  antes y después del periodo de detención. 
+
+Cada detenido o victima tiene que ser examinado en privado. Policías u otros funcionarios no tendrían que estar nunca presentes en el mismo local. A menos que los médicos no indiquen que haya una peligrosidad por su propia vida al examinar el sujeto. Debajo de estas circunstancias, el personal de seguridad del centro de salud, no funcionarios de policía u otros, tendría que ser disponibles a petición del médico. De todas formas también personal de seguridad del centro tendría fuera del alcance del oído pero bien dentro de contacto visual. 
+
+
 
 ###  External links 
 
@@ -934,6 +942,12 @@ Las peticiones por evaluaciones medicas de parte de los funcionarios encargados 
 109. https://es.wikipedia.org/wiki/Derecho_de_asilo
 
 110. https://bit.ly/2MsY0lS
+
+111. https://es.wikipedia.org/wiki/Macrodatos
+
+112. https://es.wikipedia.org/wiki/Medicina_alternativa
+
+     
 
      
 
