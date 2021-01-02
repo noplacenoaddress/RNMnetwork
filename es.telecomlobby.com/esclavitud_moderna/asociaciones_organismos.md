@@ -697,7 +697,18 @@ Las investigaciones pueden ser útiles para:
 - Identificar los responsables de la tortura y llevarlos a justicia.
 - Soporte para aplicaciones de **asilo político** [[106]](https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico). 
 - Establecer condiciones bajo las cuales falsas confesiones podrían ser obtenidas pro parte de oficiales de Estado.
-- Establecer practicas regionales sobre las torturas. Las evaluaciones medicas podrían también ser utilizadas para identificar 
+
+Establecer practicas regionales sobre las torturas. Las evaluaciones medicas podrían también ser utilizadas para identificar las necesidades terapéuticas de los sobrevivientes y como testigos en las investigaciones de derechos humanos. 
+
+El objetivo de los testigos orales y escritos de los médicos es para proveer una opinión experta en el grado sobre lo cual los descubrimientos médicos relacionados con las presuntas alegaciones de abusos por parte del paciente y para comunicar eficazmente los hallazgos del médico y sus interpretaciones al sistema judicial y otras autoridades apropiadas. Adicionalmente los testigos de los médicos a menudo sirven para educar el **poder Judicial** [[107]](https://es.wikipedia.org/wiki/Poder_judicial), otros oficiales de gobierno, y la comunidad local y internacional sobre las secuelas físicas y psicológicas. 
+
+El examinador tiene que:
+
+- Evaluar posibles lesiones y abusos incluso alegaciones especificas de los individuos, de los funcionarios policiales o judiciales.
+- Documentar evidencias físicas y psicológicas de lesión y abusos.
+- Relacionar el grado de consistencia entra los resultados de los exámenes y especificas alegaciones de abuso por parte del paciente.
+- Relacionar el grado de consistencia entra los hallazgos de los exámenes con el conocimiento general de los métodos de tortura utilizados en una especifica región y sus secuelas conocidas.
+- Interpretar los hallazgos de la **medicina legal** [[108]](https://es.wikipedia.org/wiki/Medicina_forense) y proveer opiniones expertas sobre las posibles causas de abusos en **audiencias de asilo** [[109]](https://es.wikipedia.org/wiki/Derecho_de_asilo), 
 
 
 
@@ -916,6 +927,12 @@ Las investigaciones pueden ser útiles para:
 105. https://es.wikipedia.org/wiki/Principio_de_buena_fe
 
 106. https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico
+
+107. https://es.wikipedia.org/wiki/Poder_judicial
+
+108. https://es.wikipedia.org/wiki/Medicina_forense
+
+109. https://es.wikipedia.org/wiki/Derecho_de_asilo
 
      
 
