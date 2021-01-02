@@ -684,6 +684,12 @@ La comisión tiene que producir un reporte público dentro de un tiempo razonabl
 
 Los estados tienen que contestar públicamente a los reportes de la comisión y, donde apropiado, indicar cuantos pasos pretende pillar en respuesta al reporte. 
 
+### Recomendaciones generales para testimonios
+
+![](https://telecomlobby.com/Images/torturas_mentales_testimonios.webp)
+
+*Un libro. Una portada. Un servicio secreto. Lo mio es lo mismo. Pero los servicios son Españoles y Italianos.*
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
