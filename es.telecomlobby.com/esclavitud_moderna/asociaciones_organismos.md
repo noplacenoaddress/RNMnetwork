@@ -669,7 +669,7 @@ Importante subrayar igualmente de que quien es acusado de presunta tortura es ob
 
 Aquellos que aleguen que han sido torturados y sus representantes legales tienen que estar informados y tener acceso a cualquier escucha y a toda información del caso y debe tener derecho a presentar pruebas. Esta particular énfasis del rol del sobreviviente como parte del procedimiento refleja la especial importancia de su rol en el avance de la investigación. Igualmente toda otra parte tendría también de tener la posibilidad de ser escuchada. El cuerpo de investigación debe tener derecho a emitir citaciones a testigos, incluidos oficiales involucrados, y de demandar la producción de evidencias. A todos los testigos se le tendría que permitir asesoría legal si es probable que se vean perjudicados por la investigación por ejemplo cuando su declaración pueda exponerlos a cargos penales o a **responsabilidad civil** [[104]](https://es.wikipedia.org/wiki/Responsabilidad_civil). Los testigos no podrían ser obligados en testificar contra ellos mismos. Tendría que existir una oportunidad el interrogatorio efectivo de testigos de parte de la comisión. Las partes del grupo de investigación tendría que ser permitidas de enviar cuestionarios a la comisión.
 
-La comisión debería evaluar toda la información y pruebas que recibe para determinar confiabilidad y **probidad** [[105]](https://es.wikipedia.org/wiki/Principio_de_buena_fe). La comisión tendría que evaluar el testimonio oral, tener en cuenta el comportamiento y la credibilidad general del testigo. La comisión debería ser sensible a cuestiones relativas a el contesto socio cultural y de genero que puedan afectar al comportamiento. Corroborar las pruebas desde varias fuentes aumentará el valor provador de las mismas y su fiabilidad, también de todos los rumores acerca de ya que tienen considerados cuidadosamente antes de que la comisión acepte los hechos. Los testimonios no comprobados de más fuentes también tienen que ser evaluados con precaución. 
+La comisión debería evaluar toda la información y pruebas que recibe para determinar confiabilidad y **probidad** [[105]](https://es.wikipedia.org/wiki/Principio_de_buena_fe). La comisión tendría que evaluar el testimonio oral, tener en cuenta el comportamiento y la credibilidad general del testigo. La comisión debería ser sensible a cuestiones relativas a el contesto socio cultural y de genero que puedan afectar al comportamiento. Corroborar las pruebas desde varias fuentes aumentará el valor probador de las mismas y su fiabilidad, también de todos los rumores acerca de ya que tienen considerados cuidadosamente antes de que la comisión acepte los hechos. Los testimonios no comprobados de más fuentes también tienen que ser evaluados con precaución. 
 
 La comisión tiene que producir un reporte público dentro de un tiempo razonable que como mínimo contenga:
 
@@ -688,7 +688,20 @@ Los estados tienen que contestar públicamente a los reportes de la comisión y,
 
 ![](https://telecomlobby.com/Images/torturas_mentales_testimonios.webp)
 
-*Un libro. Una portada. Un servicio secreto. Lo mio es lo mismo. Pero los servicios son Españoles y Italianos.*
+*Un libro. Una portada. Un servicio secreto. Lo mio es lo mismo. Pero los servicios son Españoles y Italianos. Detrás familias estrechamente conectadas con los nacional socialismos.*
+
+Cuando una persona que añade de haber sido torturada es entrevistada, hay una serie de cuestiones y factores prácticos que han de ser pillados en consideración. Estas consideraciones se aplican a todas las personas realizando entrevistas, sean ellos abogados, psicólogos, psiquiatras, monitores de derechos humanos o miembros de cualquier otra profesión. 
+
+Las investigaciones pueden ser útiles para:
+
+- Identificar los responsables de la tortura y llevarlos a justicia.
+- Soporte para aplicaciones de **asilo político** [[106]](https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico). 
+- Establecer condiciones bajo las cuales falsas confesiones podrían ser obtenidas pro parte de oficiales de Estado.
+- Establecer practicas regionales sobre las torturas. Las evaluaciones medicas podrían también ser utilizadas para identificar 
+
+
+
+
 
 ###  External links 
 
@@ -901,6 +914,8 @@ Los estados tienen que contestar públicamente a los reportes de la comisión y,
 104. https://es.wikipedia.org/wiki/Responsabilidad_civil
 
 105. https://es.wikipedia.org/wiki/Principio_de_buena_fe
+
+106. https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico
 
      
 
