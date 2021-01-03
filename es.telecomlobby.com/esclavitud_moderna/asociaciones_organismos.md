@@ -729,6 +729,8 @@ La presencia, y en el caso del panóptico subrayaría la presencia en radio, de 
 
 ![](https://telecomlobby.com/Images/panoptico.webp)
 
+
+
 Cosa totalmente imposible siendo una victima del cárcel panóptico a menos que el ambiente de examen haya sido pensado para evitar cualquier tipo de transmisión electro magnética. Cosa prácticamente imposible ya que yo mismo he comprobado que dicha tecnología funciona a ocho plantas de profundidad de una línea de metro. Únicamente protegido por un detrás de una montaña prácticamente he conseguido la desconexión temporal de las armas electromagnéticas. 
 
 Es obligatorio que un detenido, una victima, se someta a un examen médico al momento de ser detenido y a otro después de ser librado. 
