@@ -719,7 +719,13 @@ Los detenidos, o hablando de la cibertortura mejor dicho las victimas, tendrían
 
 Cada detenido o victima tiene que ser examinado en privado. Policías u otros funcionarios no tendrían que estar nunca presentes en el mismo local. A menos que los médicos no indiquen que haya una peligrosidad por su propia vida al examinar el sujeto. Debajo de estas circunstancias, el personal de seguridad del centro de salud, no funcionarios de policía u otros, tendría que ser disponibles a petición del médico. De todas formas también personal de seguridad del centro tendría fuera del alcance del oído pero bien dentro de contacto visual. 
 
-Es importante presionar para que la evaluación médica esté hecha fuera de la prisión, cuidado con el cárcel panóptico porqué siendo eso operativo en toda Catalunya, y probablemente mucho más debido a la inclinación en grados de las antenas de la torre de Collserola muchas mirando el cielo o sea que es muy probable que utilicen la **ionosfera** [[113]](https://es.wikipedia.org/wiki/Ionosfera) como medio de propagación fuera del territorio Español constituyendo un crimen muy grave en cuanto consideradas armas, y siendo acompañado de par paso con corrupción también en instituciones hospitalarias  
+Es importante presionar para que la evaluación médica esté hecha fuera de la prisión, cuidado con el cárcel panóptico porqué siendo eso operativo en toda Catalunya, y probablemente mucho más debido a la inclinación en grados de las antenas de la torre de Collserola muchas mirando el cielo o sea que es muy probable que utilicen la **ionosfera** [[113]](https://es.wikipedia.org/wiki/Ionosfera) como medio de propagación fuera del territorio Español constituyendo un crimen muy grave en cuanto consideradas armas, y siendo acompañado de par paso con corrupción también en instituciones hospitalarias.
+
+En todo caso los investigadores tienen que asegurarse que los prisoneros o bien las victimas no son forzados en aceptar un sitio donde no son confortables. 
+
+La presencia, y en el caso del panóptico subrayaría la presencia en radio, de oficiales de policías, soldados oficiales de prisión u otros funcionarios tiene que ser apuntada por parte del personal médico. La identidad y los títulos de quien esté presente, o bien presente en la aplicación neuronal de la victima, en el ambiente donde se ejecute el examen médico tienen que ser indicadas en el reporte. Los reportes tienen que incluir un modelo de cuestionario medico, este manual de referencia incluye uno por las torturas físicas con o sin rastros pero no hay referencia acerca de la cibertortura que es una herramienta del cárcel panóptico. Espero poder ampliar dicho manual incluyendo lo que pienso sea útil para un reporte médico con el fin de detallar cibertortura.
+
+ 
 
 
 
