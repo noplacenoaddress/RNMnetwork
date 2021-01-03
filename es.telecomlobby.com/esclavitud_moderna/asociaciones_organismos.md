@@ -737,6 +737,10 @@ Es obligatorio que un detenido, una victima, se someta a un examen médico al mo
 
 En el panóptico es complicado, porqué yo por ejemplo he sido detenido, mejor dicho activado tanto en monitorio neuronal cuanto en DOMINT y ECHELON el 27 de Noviembre 2017. Antes había sido mal tratado, acosado, y perseguido tanto por parte de mi ex pareja cuanto por parte de una banda de actores no estatales. El fin era la enfermedad mental y la marginación social. Lo que puedo aportar por ejemplo es un **fotolog** [[116]](https://es.wikipedia.org/wiki/Fotolog), un cuaderno de torturas, una serie de sentencias sobre pequeños crímenes aparentemente sin conexión que pero denotan una trama de estampo Mafioso, y algún examen médico.  
 
+Acceso a abogados tendría que ser garantizado durante el examen. Una presencia externa en muchas situaciones carcelarias es permitida. Los médicos de la prisión trabajando con los prisioneros tendrían que respectar el código ético médico y tendrían que ser capaces de desempeñar sus deberes profesionales independientemente de cualquier influencia de terceras partes. Si los exámenes de medicina forense indican alegaciones de tortura, el detenido no tendría que ser devuelto en el mismo sitio de detención, sino que debe comparecer ante el fiscal o juez para determinar la disposición legal del detenido.
+
+Todas estas disposiciones no totalmente imposible de realizar en el cárcel panóptico moderno, el tecnológico. En **carcelona** todos los derechos humanos y los derechos constitucionales de cada uno de los detenidos, las victimas,  han sido y serán pisados brutalmente por parte de terrorismo de Estado.
+
 
 
 ###  External links 
