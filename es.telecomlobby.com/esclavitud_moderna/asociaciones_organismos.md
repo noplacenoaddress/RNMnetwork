@@ -731,6 +731,10 @@ La presencia, y en el caso del panóptico subrayaría la presencia en radio, de 
 
 Cosa totalmente imposible siendo una victima del cárcel panóptico a menos que el ambiente de examen haya sido pensado para evitar cualquier tipo de transmisión electro magnética. Cosa prácticamente imposible ya que yo mismo he comprobado que dicha tecnología funciona a ocho plantas de profundidad de una línea de metro. Únicamente protegido por un detrás de una montaña prácticamente he conseguido la desconexión temporal de las armas electromagnéticas. 
 
+Es obligatorio que un detenido, una victima, se someta a un examen médico al momento de ser detenido y a otro después de ser librado. 
+
+En el panóptico es complicado, porqué yo por ejemplo he sido detenido, mejor dicho activado tanto en monitorio neuronal cuanto en DOMINT y ECHELON el 27 de Noviembre 2017. Antes había sido mal tratado, acosado, y perseguido tanto por parte de mi ex pareja cuanto por parte de una banda de actores no estatales. El fin era la enfermedad mental y la marginación social. Lo que puedo aportar por ejemplo es un **fotolog** [[116]](https://es.wikipedia.org/wiki/Fotolog), un cuaderno de torturas, una serie de sentencias sobre pequeños crímenes aparentemente sin conexión que pero denotan una trama de estampo Mafioso, y algún examen médico.  
+
 
 
 ###  External links 
@@ -964,6 +968,8 @@ Cosa totalmente imposible siendo una victima del cárcel panóptico a menos que 
 114. https://en.wikipedia.org/wiki/Medical_examiner
 
 115. https://es.wikipedia.org/wiki/Auditor%C3%ADa
+
+116. https://es.wikipedia.org/wiki/Fotolog
 
      
 
