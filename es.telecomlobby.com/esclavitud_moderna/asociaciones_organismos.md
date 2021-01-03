@@ -725,7 +725,11 @@ En todo caso los investigadores tienen que asegurarse que los prisoneros o bien 
 
 La presencia, y en el caso del panóptico subrayaría la presencia en radio, de oficiales de policías, soldados oficiales de prisión u otros funcionarios tiene que ser apuntada por parte del personal médico. La identidad y los títulos de quien esté presente, o bien presente en la aplicación neuronal de la victima, en el ambiente donde se ejecute el examen médico tienen que ser indicadas en el reporte. Los reportes tienen que incluir un modelo de cuestionario medico, este manual de referencia incluye uno por las torturas físicas con o sin rastros pero no hay referencia acerca de la cibertortura que es una herramienta del cárcel panóptico. Espero poder ampliar dicho manual incluyendo lo que pienso sea útil para un reporte médico con el fin de detallar cibertortura.
 
- 
+ El informe original  completo tendría que ser transmitido directamente a la persona que lo ha requerido, normalmente el fiscal. Cuando una abogado lo pida tiene que ser disponible. Copias de todos los informes médicos tendría que ser retenidos por el **médico examinador** [[114]](https://en.wikipedia.org/wiki/Medical_examiner). Una asociación médica nacional o una comisión de investigación podría elegir de hacer **auditoría** [[115]](https://es.wikipedia.org/wiki/Auditor%C3%ADa) del mismo informe para asegurarse que adecuados procedimientos salvaguardas y documentos estándar han sido adheridos, en particular por parte de los médicos del Estado. Los reportes tendrían que ser enviados a una organización que se ocupe de que la independencia y la confidencialidad han sido respectadas. 
+
+![](https://telecomlobby.com/Images/panoptico.webp)
+
+Cosa totalmente imposible siendo una victima del cárcel panóptico a menos que el ambiente de examen haya sido pensado para evitar cualquier tipo de transmisión electro magnética. Cosa prácticamente imposible ya que yo mismo he comprobado que dicha tecnología funciona a ocho plantas de profundidad de una línea de metro. Únicamente protegido por un detrás de una montaña prácticamente he conseguido la desconexión temporal de las armas electromagnéticas. 
 
 
 
@@ -956,6 +960,12 @@ La presencia, y en el caso del panóptico subrayaría la presencia en radio, de 
 112. https://es.wikipedia.org/wiki/Medicina_alternativa
 
 113. https://es.wikipedia.org/wiki/Ionosfera
+
+114. https://en.wikipedia.org/wiki/Medical_examiner
+
+115. https://es.wikipedia.org/wiki/Auditor%C3%ADa
+
+     
 
      
 
