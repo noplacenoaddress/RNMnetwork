@@ -739,7 +739,13 @@ En el panóptico es complicado, porqué yo por ejemplo he sido detenido, mejor d
 
 Acceso a abogados tendría que ser garantizado durante el examen. Una presencia externa en muchas situaciones carcelarias es permitida. Los médicos de la prisión trabajando con los prisioneros tendrían que respectar el código ético médico y tendrían que ser capaces de desempeñar sus deberes profesionales independientemente de cualquier influencia de terceras partes. Si los exámenes de medicina forense indican alegaciones de tortura, el detenido no tendría que ser devuelto en el mismo sitio de detención, sino que debe comparecer ante el fiscal o juez para determinar la disposición legal del detenido.
 
-Todas estas disposiciones no totalmente imposible de realizar en el cárcel panóptico moderno, el tecnológico. En **carcelona** todos los derechos humanos y los derechos constitucionales de cada uno de los detenidos, las victimas,  han sido y serán pisados brutalmente por parte de terrorismo de Estado.
+Todas estas disposiciones son totalmente imposible de realizar en el cárcel panóptico moderno, el tecnológico. En **carcelona** todos los derechos humanos y los derechos constitucionales de cada uno de los detenidos, las victimas,  han sido y serán pisados brutalmente por parte de terrorismo de Estado.
+
+#### Visitas oficiales a centros de detención 
+
+![](https://telecomlobby.com/Images/lamodelo_barcelona_panoptico.webp)
+
+Cárcel **la modelo de Barcelona** [[117]](https://es.wikipedia.org/wiki/C%C3%A1rcel_Modelo_de_Barcelona). Panóptico antiguo el ojo del poder, la torre central, destaca en el medio de esta litografía. Se ha cerrado en 2017 y se ha transformado en **museo** [[118]](https://lamodel.barcelona/es/la-model/). Siempre de la esclavitud se saca arte. Este concepto es muy importante para entender la máquina de visión, el cárcel panóptico de tercera generación, el que *me tiene prisionero sin culpa ni juicio*. 
 
 
 
@@ -976,6 +982,12 @@ Todas estas disposiciones no totalmente imposible de realizar en el cárcel pan�
 115. https://es.wikipedia.org/wiki/Auditor%C3%ADa
 
 116. https://es.wikipedia.org/wiki/Fotolog
+
+117. https://es.wikipedia.org/wiki/C%C3%A1rcel_Modelo_de_Barcelona
+
+118. https://lamodel.barcelona/es/la-model/
+
+     
 
      
 
