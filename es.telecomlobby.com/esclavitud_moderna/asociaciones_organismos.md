@@ -747,7 +747,11 @@ Todas estas disposiciones son totalmente imposible de realizar en el cárcel pan
 
 Cárcel **la modelo de Barcelona** [[117]](https://es.wikipedia.org/wiki/C%C3%A1rcel_Modelo_de_Barcelona). Panóptico antiguo el ojo del poder, la torre central, destaca en el medio de esta litografía. Se ha cerrado en 2017 y se ha transformado en **museo** [[118]](https://lamodel.barcelona/es/la-model/). Siempre de la esclavitud se saca arte. Este concepto es muy importante para entender la máquina de visión, el cárcel panóptico de tercera generación, el que *me tiene prisionero sin culpa ni juicio*. 
 
+En los cárceles físicos hay que subrayar que obviamente en Europa la tortura no es permitida, cosa que en el cárcel panóptico de tercera generación es practicada al orden del día. La tortura en su forma de cibertortura y la tortura sin rastros practicada por alguno de los componentes del grupo de actores no estatales al servicio de lo que creo se pueda definir como un servicio de Estado Español, probablemente al **Centro Nacional de Inteligencia** [[119]](https://www.cni.es/), sirven a coaccionar y a dar miedo a las victimas, los presos virtuales. Entra ellos muchos menores de edad, normalmente hijos de otros presos. Tanto mi ex pareja, aunque Española, cuanto mi mejor amigo tienen sus hijos en calidad de presos de la cárcel panóptica.
 
+El manual de Estambul en este capitulo habla de la importancia de mantener en seguridad todo visitante de presos que sufren tortura en sus sitios de detención. Hablando de panóptico es muy importante subrayar que cualquier persona que tenga relaciones, tanto laborales cuanto de amistad o sexuales, con un preso, una victima, como yo, si no es a su vez preso del mismo sistema está sometido a un grave peligro de privacidad, ya que somos cámaras humanas, y es caso fuera por relaciones sexuales podría ser explotada su imagen en paginas de pornografía, cosa que me ha pasado con una turista Israelita en Barcelona en 2018. 
+
+.
 
 ###  External links 
 
@@ -986,6 +990,8 @@ Cárcel **la modelo de Barcelona** [[117]](https://es.wikipedia.org/wiki/C%C3%A1
 117. https://es.wikipedia.org/wiki/C%C3%A1rcel_Modelo_de_Barcelona
 
 118. https://lamodel.barcelona/es/la-model/
+
+119. https://www.cni.es/
 
      
 
