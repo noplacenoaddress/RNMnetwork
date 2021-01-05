@@ -751,6 +751,8 @@ En los cárceles físicos hay que subrayar que obviamente en Europa la tortura n
 
 El manual de Estambul en este capitulo habla de la importancia de mantener en seguridad todo visitante de presos que sufren tortura en sus sitios de detención. Hablando de panóptico es muy importante subrayar que cualquier persona que tenga relaciones, tanto laborales cuanto de amistad o sexuales, con un preso, una victima, como yo, si no es a su vez preso del mismo sistema está sometido a un grave peligro de privacidad, ya que somos cámaras humanas, y es caso fuera por relaciones sexuales podría ser explotada su imagen en paginas de pornografía, cosa que me ha pasado con una turista Israelita en Barcelona en 2018. 
 
+Las visitas a los detenidos no se tienen que considerar a la ligera. En algunos casos, pueden ser notoriamente difíciles de llevar a cabo de manera objetiva y profesional, en particular manera in Estados donde la tortura es todavía practicada. Como de mi reflexión está claro que en Europa todavía lo es aunque en su forma mas escondida, la cibertortura. Una única visita, sin seguimiento para garantizar la seguridad de los entrevistados después de la visita, podría ser peligrosa. 
+
 .
 
 ###  External links 
