@@ -763,6 +763,8 @@ A los detenidos que hayan sido torturados habría que preguntar que información
 
 Un gran **dilema** [[125]](https://es.wikipedia.org/wiki/Dilema) surge si es evidente que un gran numero de prisioneros hayan sido torturados en el mismo sitio, **carcelona** la cárcel virtual puede ser un magnifico ejemplo, pero todos se niegan de permitir a investigadores de utilizar sus historias porqué tienen miedo, donde la ley del miedo reina soberana. 
 
+![](https://telecomlobby.com/Images/pergamino.webp)
+
 Hace muchos años cuando era adolescente mi padre me hablaba de la **claustrofobia** [[126]](https://es.wikipedia.org/wiki/Claustrofobia) que había tenido al visitar las **pirámides de Egipto** [[127]](https://es.wikipedia.org/wiki/Pir%C3%A1mides_de_Egipto), ahora pienso en el cárcel panóptico de tercera generación las torturas electrónicas provocan justo las sensaciones de este tipo de fobia. *«La esclavitud hace esclavos que alimentan la esclavitud.»* 
 
 
