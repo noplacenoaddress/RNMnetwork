@@ -771,7 +771,7 @@ Las opciones son traicionar la confianza de los presos en el esfuerzo por detene
 
 > Yo mismo, Riccardo Giuntoli, me encuentro en esta bifurcación. Algunos de ellos, torturados a sus veces torturadores porqué obligados y engañados por el régimen terrorista que reina el cárcel panóptico de tercera generación, me han contado a tratos sus historias; son hombres que han sobrevivido a décadas de reclusión forzada sin sentido. Luchadores cansados, llenos de desilusión, poca esperanza y falta de confianza en el estado de derecho. Gente que chilla ayuda y que no tiene mas la esperanza de salir con vida a por la libertad. Han perdido muchas amistades y amores, probablemente suicidas como aquellos que he perdido yo. Son ciudadanos Europeos torturados en Catalunya, comunidad autónoma de España. Un país democrático. 
 
-.
+En el caso como en carcelona de que hayan un gran número de presos con evidentes signos de tortura, en este caso siendo cibertortura serán más que nada psicológicos, es útil organizar una inspección de salud. Un organismo interesante podría ser la **inspección general de sanidad de la defensa** [[128]](https://es.wikipedia.org/wiki/Inspecci%C3%B3n_General_de_Sanidad_de_la_Defensa) , siendo el espacio por analizar todo el que está al alcance de las armas electromagnéticas de la torre de Collserola. El tratado de Estambul nos recuerda que es importante que los prisioneros, las victimas en caso de carcelona, tengan fe por futuras visitas de un investigador, rol que estoy haciendo yo mismo aunque no tenga las titulaciones necesarias. 
 
 ###  External links 
 
@@ -1028,6 +1028,8 @@ Las opciones son traicionar la confianza de los presos en el esfuerzo por detene
 126. https://es.wikipedia.org/wiki/Claustrofobia
 
 127. https://es.wikipedia.org/wiki/Pir%C3%A1mides_de_Egipto
+
+128. https://es.wikipedia.org/wiki/Inspecci%C3%B3n_General_de_Sanidad_de_la_Defensa
 
      
 
