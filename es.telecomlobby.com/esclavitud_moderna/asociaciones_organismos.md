@@ -755,6 +755,14 @@ Las visitas a los detenidos no se tienen que considerar a la ligera. En algunos 
 
 Aquí me paro para reflexionar. En el caso de la cibertortura utilizada en el cárcel panóptico de tercera generación esto es exactamente lo que pasa si los detenidos, las victimas, no registran diariamente todo lo que pasa a su alrededores. En el cárcel panóptico todo el entorno de la victima es culpable. El detenido podría ser puesto en silencio, desconectado del sistema DOMINT y ECHELON y no tener los cinco sentidos interferidos pero únicamente registrados. De esta manera, el cárcel panóptico no es detectable. Además que la tortura, en su forma de cibertortura y torturas sin rastros, sigue una **trayectoria parabólica** [[121]](https://es.wikipedia.org/wiki/Trayectoria_parab%C3%B3lica) en función del tiempo en manera que la psique y el físico del torturado pierda los síntomas. 
 
+Las visitas tendrían que ser dejadas a investigadores que puedan llevarlas a fuera y seguirlas en manera profesional y que tengan ciertas **garantías procesales** [[122]](https://dpej.rae.es/lema/garant%C3%ADas-procesales) desgastadas para sus trabajos. Las visitas a centros de detenciones por parte de personas bien intencionadas representantes de instituciones oficiales y non gubernamentales puedes ser complicadas y a lo peor contraproducentes. Se tiene que hacer una distinción entra una visita de buena fe necesaria a la investigación, que no es cuestionable, y una visita no esencial que vaya mas allá de eso que cuando esté hecha por parte de non especialistas podría causar más daño que bien en un Estado donde se practica la tortura. Ahora yo, en calidad de victima, añado que también en países donde no sea de dominio publico que hayan hechos de torturas a través de la cibertortura estos la cumplen de manera prácticamente no detectable. Países Europeos como, muy lamentablemente, lo es mi querida España y mi tierra natal, Italia.
+
+Las entrevistas con personas que están todavía bajo custodia, cosa que repito pobre de mí no es detectable en la cárcel panóptica de tercera generación,  y posiblemente aún en las manos de los criminales que le hayan hecho tortura será obviamente muy diferente de las entrevistas donde se asegure **privacidad** [[123]](https://es.wikipedia.org/wiki/Privacidad), derecho totalmente denegado en la **detención ilegal** [[124]](https://es.wikipedia.org/wiki/Detenci%C3%B3n#Detenci%C3%B3n_ilegal) en el cárcel panóptico de tercera generación, y seguridad como unas instalaciones externas de centro de atención médica. Es muy complicado obtener la confianza de una persona detenida después de haber pasado torturas, como no es muy complicado que las personas detenidas en la cárcel panóptica empiecen a hablar de cibertortura, un crimen contra la humanidad, siendo escuchados cada momento por sus torturadores y carceleros. Sin embargo, **es aún más importante no traicionar esa confianza**. 
+
+A los detenidos que hayan sido torturados habría que preguntar que información se pueda utilizar y de que manera. Los investigadores, los clínicos y los interpretes están obligados a respectar lo que se ha prometido al detenido. 
+
+
+
 
 
 .
@@ -1002,6 +1010,12 @@ Aquí me paro para reflexionar. En el caso de la cibertortura utilizada en el c�
 120. https://es.wikipedia.org/wiki/Coartada
 
 121. https://es.wikipedia.org/wiki/Trayectoria_parab%C3%B3lica
+
+122. https://dpej.rae.es/lema/garant%C3%ADas-procesales
+
+123. https://es.wikipedia.org/wiki/Privacidad
+
+124. https://es.wikipedia.org/wiki/Detenci%C3%B3n#Detenci%C3%B3n_ilegal
 
      
 
