@@ -767,7 +767,9 @@ Un gran **dilema** [[125]](https://es.wikipedia.org/wiki/Dilema) surge si es evi
 
 Hace muchos años cuando era adolescente mi padre me hablaba de la **claustrofobia** [[126]](https://es.wikipedia.org/wiki/Claustrofobia) que había tenido al visitar las **pirámides de Egipto** [[127]](https://es.wikipedia.org/wiki/Pir%C3%A1mides_de_Egipto), ahora pienso en el cárcel panóptico de tercera generación las torturas electrónicas provocan justo las sensaciones de este tipo de fobia. *«La esclavitud hace esclavos que alimentan la esclavitud.»* 
 
+Las opciones son traicionar la confianza de los presos en el esfuerzo por detener la tortura o respectar la confianza y irse sin decir nada. 
 
+> Yo mismo, Riccardo Giuntoli, me encuentro en esta bifurcación. Algunos de ellos, torturados a sus veces torturadores porqué obligados y engañados por el régimen terrorista que reina el cárcel panóptico de tercera generación, me han contado a tratos sus historias; son hombres que han sobrevivido a décadas de reclusión forzada sin sentido. Luchadores cansados, llenos de desilusión, poca esperanza y falta de confianza en el estado de derecho. Gente que chilla ayuda y que no tiene mas la esperanza de salir con vida a por la libertad. Han perdido muchas amistades y amores, probablemente suicidas como aquellos que he perdido yo. Son ciudadanos Europeos torturados en Catalunya, comunidad autónoma de España. Un país democrático. 
 
 .
 
