@@ -751,7 +751,11 @@ En los cárceles físicos hay que subrayar que obviamente en Europa la tortura n
 
 El manual de Estambul en este capitulo habla de la importancia de mantener en seguridad todo visitante de presos que sufren tortura en sus sitios de detención. Hablando de panóptico es muy importante subrayar que cualquier persona que tenga relaciones, tanto laborales cuanto de amistad o sexuales, con un preso, una victima, como yo, si no es a su vez preso del mismo sistema está sometido a un grave peligro de privacidad, ya que somos cámaras humanas, y es caso fuera por relaciones sexuales podría ser explotada su imagen en paginas de pornografía, cosa que me ha pasado con una turista Israelita en Barcelona en 2018. 
 
-Las visitas a los detenidos no se tienen que considerar a la ligera. En algunos casos, pueden ser notoriamente difíciles de llevar a cabo de manera objetiva y profesional, en particular manera in Estados donde la tortura es todavía practicada. Como de mi reflexión está claro que en Europa todavía lo es aunque en su forma mas escondida, la cibertortura. Una única visita, sin seguimiento para garantizar la seguridad de los entrevistados después de la visita, podría ser peligrosa. 
+Las visitas a los detenidos no se tienen que considerar a la ligera. En algunos casos, pueden ser notoriamente difíciles de llevar a cabo de manera objetiva y profesional, en particular manera in Estados donde la tortura es todavía practicada. Como de mi reflexión está claro que en Europa todavía lo es aunque en su forma mas escondida, la cibertortura. Una única visita, sin seguimiento para garantizar la seguridad de los entrevistados después de la visita, podría ser peligrosa. En algún caso una visita sin repetir podría ser peor que ninguna. Investigadores bien intencionados podrían caer en la trampa de visitar una prisión o una comisaría sin saber exactamente que están haciendo. Podrían obtener una imagen de la realidad non completa o falsa. Podrían poner prisioneros que probablemente no visitarán nunca jamas en peligro. Podrían dar una **coartada** [[120]](https://es.wikipedia.org/wiki/Coartada) a los perpetradores de torturas que podrían aprovecharse del hecho que el forastero haya visitado el lugar del crimen y no haya visto nada. 
+
+Aquí me paro para reflexionar. En el caso de la cibertortura utilizada en el cárcel panóptico de tercera generación esto es exactamente lo que pasa si los detenidos, las victimas, no registran diariamente todo lo que pasa a su alrededores. En el cárcel panóptico todo el entorno de la victima es culpable. El detenido podría ser puesto en silencio, desconectado del sistema DOMINT y ECHELON y no tener los cinco sentidos interferidos pero únicamente registrados. De esta manera, el cárcel panóptico no es detectable. Además que la tortura, en su forma de cibertortura y torturas sin rastros, sigue una **trayectoria parabólica** [[121]](https://es.wikipedia.org/wiki/Trayectoria_parab%C3%B3lica) en función del tiempo en manera que la psique y el físico del torturado pierda los síntomas. 
+
+
 
 .
 
@@ -994,6 +998,10 @@ Las visitas a los detenidos no se tienen que considerar a la ligera. En algunos 
 118. https://lamodel.barcelona/es/la-model/
 
 119. https://www.cni.es/
+
+120. https://es.wikipedia.org/wiki/Coartada
+
+121. https://es.wikipedia.org/wiki/Trayectoria_parab%C3%B3lica
 
      
 
