@@ -781,6 +781,15 @@ Acerca de las circunstancias de detención un investigador tiene que tener en co
 - Quien estaba allí?
 - Describe la **apariencia física** [[129]](https://es.wikipedia.org/wiki/Apariencia_f%C3%ADsica) de quien te ha detenido. 
 - Eran militares o civiles, en uniforme o vestidos de paisanos? Acordaros que aunque vestidos de paisanos los agentes de policía, aunque fueran servicios secretos, en caso de detención se hubieran tenido que identificar con un **número de placa** [[130]](https://es.wikipedia.org/wiki/N%C3%BAmero_de_placa), o una **chapa de identificación** [[131]](https://es.wikipedia.org/wiki/Chapa_de_identificaci%C3%B3n) en el caso hubieran pertenecido a un cuerpo de **policía militar** [[132]](https://es.wikipedia.org/wiki/Polic%C3%ADa_militar) aunque dudo fuertemente que tenga el derecho de detener a un ciudadano. Mi detención ilegal en el cárcel panóptico de tercera generación fue el 27 de Noviembre 2017, detención inmediatamente acompañada de torturas y precedida por parte de acoso de pandillas organizado. Fue una detención virtual, donde pero estaba presente en mi aplicación neuronal recién encendida el jefe de la banda de actores no estatales y paso en zona **Atarazan Reales de Barcelona** [[133]](https://es.wikipedia.org/wiki/Atarazanas_Reales_de_Barcelona).
+- Que tipo de armas llevaban con ellos? 
+- Que fue dicho?
+- Fue una detención formal, una detención administrativa, o un secuestro? En mi caso fue un secuestro virtual. Seguramente las bases de todo este sistema de terrorismo post franquista tienen raíz en el movimiento ciberpunk. **A Rape in Cyberspace** [[134]](https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace) es un buen comienzo. Por esto que a este sistema pertenecen en calidad de centinelas muchas personas de estos movimientos, capturadas por parte de los servicios y a los cuales se permite una parte de mercado negro en cambio de ser cámaras humanas para el control masivo y capilar de los barrios obreros de la ciudad condal. 
+- Fue utilizada violencia, o amenazas de violencia? En mi caso fue utilizada tortura de forma masiva, el objetivo era hacerme creer de haber perdido la lucidez mental. Cosa que por unos días la puse en cuestión no sabiendo nada acerca de esta tecnología secreta que, querido estado Español, rompe el secreto democrático o sea que no representa ningún tipo de problema explicar pero bien representa un servicio fundamental que un ciudadano cumple para salvaguardar la democracia. 
+-  Ha habido alguna interacción con familiares? En mi caso en el momento de la detención no hubo pero el jefe hizo referencia tanto a la estafa que me destruyo sistemáticamente la vida cuanto a la presencia de mi padre en una reunión virtual junto a su gente.
+
+Importante anotar el uso de restricciones o ojos vendados, en mi caso este último pero de forma obligada a través de armas electromagnéticas y por un periodo de tiempo indeterminado aunque esto fue únicamente una sensación incomoda creada de forma artificial en mi cerebro, durante el transporte, el destino y los nombres de los oficiales, si conocidos. De estos últimos tengo la identidad completa, gracias a mi investigación que he portado a cabo desde el 2018 hasta hoy en día, 7 de Enero 2021.
+
+
 
 ###  External links 
 
@@ -1049,6 +1058,8 @@ Acerca de las circunstancias de detención un investigador tiene que tener en co
 132. https://es.wikipedia.org/wiki/Polic%C3%ADa_militar
 
 133. https://es.wikipedia.org/wiki/Atarazanas_Reales_de_Barcelona
+
+134. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
 
      
 
