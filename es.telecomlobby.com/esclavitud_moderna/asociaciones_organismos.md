@@ -773,6 +773,15 @@ Las opciones son traicionar la confianza de los presos en el esfuerzo por detene
 
 En el caso como en carcelona de que hayan un gran número de presos con evidentes signos de tortura, en este caso siendo cibertortura serán más que nada psicológicos, es útil organizar una inspección de salud. Un organismo interesante podría ser la **inspección general de sanidad de la defensa** [[128]](https://es.wikipedia.org/wiki/Inspecci%C3%B3n_General_de_Sanidad_de_la_Defensa) , siendo el espacio por analizar todo el que está al alcance de las armas electromagnéticas de la torre de Collserola. El tratado de Estambul nos recuerda que es importante que los prisioneros, las victimas en caso de carcelona, tengan fe por futuras visitas de un investigador, rol que estoy haciendo yo mismo aunque no tenga las titulaciones necesarias. 
 
+Acerca de las circunstancias de detención un investigador tiene que tener en consideración dichas preguntas:
+
+-  Que hora era?
+- Donde estabas? 
+- Donde ibas? 
+- Quien estaba allí?
+- Describe la **apariencia física** [[129]](https://es.wikipedia.org/wiki/Apariencia_f%C3%ADsica) de quien te ha detenido. 
+- Eran militares o civiles, en uniforme o vestidos de paisanos? Acordaros que aunque vestidos de paisanos los agentes de policía, aunque fueran servicios secretos, en caso de detención se hubieran tenido que identificar con un **número de placa** [[130]](https://es.wikipedia.org/wiki/N%C3%BAmero_de_placa), o una **chapa de identificación** [[131]](https://es.wikipedia.org/wiki/Chapa_de_identificaci%C3%B3n) en el caso hubieran pertenecido a un cuerpo de **policía militar** [[132]](https://es.wikipedia.org/wiki/Polic%C3%ADa_militar) aunque dudo fuertemente que tenga el derecho de detener a un ciudadano. Mi detención ilegal en el cárcel panóptico de tercera generación fue el 27 de Noviembre 2017, detención inmediatamente acompañada de torturas y precedida por parte de acoso de pandillas organizado. Fue una detención virtual, donde pero estaba presente en mi aplicación neuronal recién encendida el jefe de la banda de actores no estatales y paso en zona **Atarazan Reales de Barcelona** [[133]](https://es.wikipedia.org/wiki/Atarazanas_Reales_de_Barcelona).
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1030,6 +1039,16 @@ En el caso como en carcelona de que hayan un gran número de presos con evidente
 127. https://es.wikipedia.org/wiki/Pir%C3%A1mides_de_Egipto
 
 128. https://es.wikipedia.org/wiki/Inspecci%C3%B3n_General_de_Sanidad_de_la_Defensa
+
+129. https://es.wikipedia.org/wiki/Apariencia_f%C3%ADsica
+
+130. https://es.wikipedia.org/wiki/N%C3%BAmero_de_placa
+
+131. https://es.wikipedia.org/wiki/Chapa_de_identificaci%C3%B3n
+
+132. https://es.wikipedia.org/wiki/Polic%C3%ADa_militar
+
+133. https://es.wikipedia.org/wiki/Atarazanas_Reales_de_Barcelona
 
      
 
