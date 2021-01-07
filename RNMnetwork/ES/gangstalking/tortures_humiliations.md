@@ -193,6 +193,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 30/12/2020 I want to underline that all day longs all the people that are connected in my torture environment press me to be a drug dealer. Obviously to go in jail and follow up with the torture that is a industrial chain. A machine of death and suicide.
 - 1/1/2021 19:22 A man just say to me that he will kidnap me.
 - 5/1/2021 as usual all the day they stalk me and cybertorture me. They want to force me to sell drugs and because I don't do it they torture my genitals. 
+- 7/1/2021 Alla the day long the continuously stalk me because I want to put a complaint to the chief of the non state actor crew.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
