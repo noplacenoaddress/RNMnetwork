@@ -789,7 +789,22 @@ Acerca de las circunstancias de detención un investigador tiene que tener en co
 
 Importante anotar el uso de restricciones o ojos vendados, en mi caso este último pero de forma obligada a través de armas electromagnéticas y por un periodo de tiempo indeterminado aunque esto fue únicamente una sensación incomoda creada de forma artificial en mi cerebro, durante el transporte, el destino y los nombres de los oficiales, si conocidos. De estos últimos tengo la identidad completa, gracias a mi investigación que he portado a cabo desde el 2018 hasta hoy en día, 7 de Enero 2021.
 
+Acerca del sitio y de las condiciones de detención es importante detallar de la comida y la bebida, las instalaciones sanitarias, el alumbrado, la temperatura y la ventilación.
 
+Siendo carcelona un sistema digital lo único que puede cambiar a causa de «la maquina» es el alumbrado, la temperatura y la sensación de ventilación. Documentar también cualquier contacto con la familia, abogados o personal médico, las condiciones de superpoblación de la celda o bien de aislamiento, las dimensiones de la celda y si hayan personas que puedan corroborar la detención. En carcelona lo que está mas que cierto es que la familia es totalmente cociente de que el individuo es parte de un cárcel panóptico de tercera generación, aunque tengo que subrayar esto dependa en su gran manera de la cultura de los padres. En mi caso, siendo laureados, no hay duda ninguna. El aislamiento es obtenido a través de las humillaciones continuas, que hacen parte del proceso de tortura, por parte de todo el entorno del individuo objetivo tanto en mensajería subliminal cuanto en persona, en fin todos ellos son culpables de participar a la tortura de un condenado a explotación por parte de terrorismo de Estado algunos porqué victimas a sus veces, otros porqué participan a mercado negro y buscan protección por la aristocracia que garantiza corrupción,  otros porqué simplemente tienen miedo de enfrentarse al poder. Consideremos estas preguntas:
+
+- Que ha pasado por primero?
+- Donde te han pillado?
+- Ha habido una **acreditación de identidad** [[135]](https://es.wikipedia.org/wiki/Acreditaci%C3%B3n_de_identidad)?
+- La victima ha tenido que sellar algo?
+- Describe la celda de detención. Aunque parezca sin sentido cuando un individuo objetivo es victima del cárcel panóptico moderno la celda de detención, donde efectivamente además del sistema de monitorio neuronal remoto que funciona también en exteriores y en movimiento funcionan el sistema ECHELON y DOMINT, es la vivienda. Es totalmente el revés del concepto de casa, que es donde la persona se tendría que encontrar segura.
+- Describe lo que escuchaste, has visto y has olido. En carcelona todos los cincos sentidos son interferidos por parte de inteligencia artificial, importante describir absolutamente todo aunque parezca sin sentido.
+- Has tenido algún contacto con personas libres has tenido acceso a cuidados médicos?
+- Describe el exterior del sitio de detención. 
+
+![](https://telecomlobby.com/Images/metodos_tortura.webp)
+
+*Métodos de tortura y malos tratos. En mi vida hubiera pensado ser probablemente la persona mas torturada del mundo occidental. Y delante de toda persona que he conocido en mi vida, familiares incluidos.*
 
 ###  External links 
 
@@ -1060,6 +1075,8 @@ Importante anotar el uso de restricciones o ojos vendados, en mi caso este últi
 133. https://es.wikipedia.org/wiki/Atarazanas_Reales_de_Barcelona
 
 134. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
+
+135. https://es.wikipedia.org/wiki/Acreditaci%C3%B3n_de_identidad
 
      
 
