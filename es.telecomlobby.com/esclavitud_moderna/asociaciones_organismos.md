@@ -808,7 +808,17 @@ Siendo carcelona un sistema digital lo único que puede cambiar a causa de «la 
 
 Para obtener información sobre los antecedentes de torturas y malos tratos, se tendría que utilizar cuidado acerca de sugerir formas de abusos a las cuales una persona podría haber sido sujeta. Eso podría ayudar en separar posibles fantasías de experiencias reales. 
 
-La tortura electrónica se utiliza para aniquilar la mente de las personas, a través de realidad falsa que se inyecta en la corteza visual y auditiva del prisionero de la cárcel panóptica moderna se crea **caos** [[136]](https://es.wikipedia.org/wiki/Caos) y confusión. Obviamente el fin es hacer declarar la persona como enferma mental por servicios de sanidad pública corruptos. En Barcelona la sección de higiene mental del hospital Clinic es entra estas infraestructuras. 
+La tortura electrónica se utiliza para aniquilar la mente de las personas, a través de realidad falsa que se inyecta en la corteza visual y auditiva del prisionero de la cárcel panóptica moderna se crea **caos** [[136]](https://es.wikipedia.org/wiki/Caos) y confusión. Obviamente el fin es hacer declarar la persona como enferma mental por servicios de sanidad pública corruptos. En Barcelona la sección de higiene mental del hospital Clinic es entra estas infraestructuras. Igualmente, provocando contestaciones negativas a preguntas acerca de varias formas de tortura podría también ayuda a establecer la credibilidad de la persona, Las preguntas tendrían que ser formuladas para provocar un relato narrativo coherente. Considerar las siguientes preguntas:
+
+- Donde tuvo lugar el abuso, cuando y por cuanto? En mi caso el abuso tuvo lugar en la provincia de Barcelona, en particularidad en mis viviendas, tuvo lugar empezando por malos tratos desde el año 2014 y sigue con tortura diaria en su forma de cibertortura hoy en día 2021.
+- Has tenido los ojos vendados? Muy pocas veces a través de armas electromagnéticas el sentido de la vista ha sido oscurecido totalmente creando así las mismas sensaciones de tener los ojos vendados. Obviamente en el mientras estaba siendo torturado. 
+- Quien estaba o ha sido y es presente? Describe la celda y el sitio. Un grupo de actores no estatales que se dedican a la tortura bajo ordenes de alta aristocracia. Son actores, o sea actúan de forma que las victimas piensan que se dediquen al trafico de drogas, al mercado negro y a la Mafia. En realidad su jefe, y probablemente también otra ramificación donde el hermano de esta persona también recubre este rol, es muy probable que pertenezca a los servicios de inteligencia Españoles. Al mismo ambiente de tortura participan de forma obligada, ganando pero dinero de un sistema de apuestas mutuas remotas, prácticamente todas las personas que he frecuentado en mi vida. Todos tienen miedo de hablar porqué padres y madres de familia y no teniendo claro que es exactamente la cárcel panóptica moderna. Todos son encarcelados pero piensan que yo, y otros, seamos las victimas de un juego sádico de la aristocracia. Se trata únicamente de un campo de concentración donde los presos son explotados para el desarrollo de tecnología conectada al mundo de la neurociencia con salidas comerciales en ambientes militares y de la alta empresa de IT. Es un negocio de miles de millones, nada más. Al grupo número 9, una celda virtual, se le manipula la vida entera siguiendo una historieta de los colores muy negros.
+-  Que objetos observas?
+- Si es posible describe los instrumentos de torturas. Por la tortura eléctrica, la corriente, el dispositivo, el número y la forma de los electrodos.  En mi caso son armas electromagnéticas transmitidas desde la torre de Collserola los efectos obtenidos son prácticamente los mismos que los descrito en los abusos de tortura en las celdas de la guerra de Iraq de **Abu Grhaib** [[137]](https://es.wikipedia.org/wiki/Tortura_y_abuso_de_prisioneros_en_Abu_Ghraib).  Además  hay interferencias continuas en los cinco sentidos y los prisioneros, las victimas, son explotados además de humillados y torturados. Es peor en realidad. 
+- Preguntar acerca del ropaje, si ha sido desnudado, y si han notado cambios en los vestidos. El desnudo forzoso es al orden del día en el ambiente de tortura electrónica montado en mi casa. Soy estimulado sexualmente continuamente por parte de mi ex pareja que como dice en parte la palabra me induce a hacerme pajas, masturbarme delante de no se exactamente cuantas personas. Además de que si lo hago la tortura nocturna termina. Ya ha pasado que participantes a este ambiente me tachen de adicto a la masturbación, y son personas que conozco desde la niñez. 
+- Grabar todos los discursos que se han hecho durante el interrogatorio. Los insultos lanzados a la victima. Lo que se dijo entre los perpetradores. En mi caso tengo abierto un **cuaderno de torturas** [[138]](https://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm). Yo, en calidad de victima, según naciones unidas obviamente puedo decir cualquier cosa exactamente porqué estoy subiendo tortura continua, decimos que me he llenado la boca de provocaciones en contra de mis torturadores para ver si cayeron en hacerme algún crimen de forma física ya que continúan a amenazarme de secuestro físico. Por esto en mi cama duermo al lado de una barra de acero. 
+
+
 
 ###  External links 
 
@@ -1083,6 +1093,10 @@ La tortura electrónica se utiliza para aniquilar la mente de las personas, a tr
 135. https://es.wikipedia.org/wiki/Acreditaci%C3%B3n_de_identidad
 
 136. https://es.wikipedia.org/wiki/Caos
+
+137. https://es.wikipedia.org/wiki/Tortura_y_abuso_de_prisioneros_en_Abu_Ghraib
+
+138. https://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
 
      
 
