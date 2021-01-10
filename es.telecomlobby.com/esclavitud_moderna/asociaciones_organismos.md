@@ -818,6 +818,12 @@ La tortura electrónica se utiliza para aniquilar la mente de las personas, a tr
 - Preguntar acerca del ropaje, si ha sido desnudado, y si han notado cambios en los vestidos. El desnudo forzoso es al orden del día en el ambiente de tortura electrónica montado en mi casa. Soy estimulado sexualmente continuamente por parte de mi ex pareja que como dice en parte la palabra me induce a hacerme pajas, masturbarme delante de no se exactamente cuantas personas. Además de que si lo hago la tortura nocturna termina. Ya ha pasado que participantes a este ambiente me tachen de adicto a la masturbación, y son personas que conozco desde la niñez. 
 - Grabar todos los discursos que se han hecho durante el interrogatorio. Los insultos lanzados a la victima. Lo que se dijo entre los perpetradores. En mi caso tengo abierto un **cuaderno de torturas** [[138]](https://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm). Yo, en calidad de victima, según naciones unidas obviamente puedo decir cualquier cosa exactamente porqué estoy subiendo tortura continua, decimos que me he llenado la boca de provocaciones en contra de mis torturadores para ver si cayeron en hacerme algún crimen de forma física ya que continúan a amenazarme de secuestro físico. Por esto en mi cama duermo al lado de una barra de acero. 
 
+Por cada tipo de abuso anotar:
+
+- posición del cuerpo. En la tortura electrónica el cuerpo se encuentra siempre en posición natural. Normalmente cuando una persona quiere descansar en la cama la tortura sube exponencialmente. Por esto que muchas victimas llegan a ser drogadictos de utilizo diario, normalmente o bien cocaína o bien anfetamina. Por esto es muy complicado detectar el hecho que sean en realidad torturados, la sociedad los clasifica como adictos. Con migo también lo han intentado añadiendo una detención en un centro de higiene mental con fuerza porqué drogado, cosa totalmente falsa. 
+- contención. en la tortura electrónica obviamente no hay nada de físico. Pero si que he subido tortura con contención, **camisa de fuerza** [[139]](https://es.wikipedia.org/wiki/Camisa_de_fuerza), en la detención forzosa que he descrito anteriormente. 
+- naturaleza del contacto. Obviamente digital en mi caso. El sistema utiliza el pensamiento de los carceleros para ser replicado a través las armas en la aplicación neuronal, el ambiente de tortura y explotación que nada más es, de la victima. A mi tortura, cibertortura,  han participado una veinte de personas y a malos tratos otras tantas. A tortura físicas sin rastros pocos, menos de diez. 
+
 
 
 ###  External links 
@@ -1097,6 +1103,8 @@ La tortura electrónica se utiliza para aniquilar la mente de las personas, a tr
 137. https://es.wikipedia.org/wiki/Tortura_y_abuso_de_prisioneros_en_Abu_Ghraib
 
 138. https://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
+
+139. https://es.wikipedia.org/wiki/Camisa_de_fuerza
 
      
 
