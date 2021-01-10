@@ -823,9 +823,11 @@ Por cada tipo de abuso anotar:
 - posición del cuerpo. En la tortura electrónica el cuerpo se encuentra siempre en posición natural. Normalmente cuando una persona quiere descansar en la cama la tortura sube exponencialmente. Por esto que muchas victimas llegan a ser drogadictos de utilizo diario, normalmente o bien cocaína o bien anfetamina. Por esto es muy complicado detectar el hecho que sean en realidad torturados, la sociedad los clasifica como adictos. Con migo también lo han intentado añadiendo una detención en un centro de higiene mental con fuerza porqué drogado, cosa totalmente falsa. 
 - contención. en la tortura electrónica obviamente no hay nada de físico. Pero si que he subido tortura con contención, **camisa de fuerza** [[139]](https://es.wikipedia.org/wiki/Camisa_de_fuerza), en la detención forzosa que he descrito anteriormente. 
 - naturaleza del contacto. Obviamente digital en mi caso. El sistema utiliza el pensamiento de los carceleros para ser replicado a través las armas en la aplicación neuronal, el ambiente de tortura y explotación que nada más es, de la victima. A mi tortura, cibertortura,  han participado una veinte de personas y a malos tratos otras tantas. A tortura físicas sin rastros pocos, menos de diez. El problema es que a la cibertortura han participado altísimos cargos de aristocracia. 
-- Duración de la tortura. Esto parece ya increíble. Pero en la cárcel panóptica la tortura es continua. Personalmente vengo torturado con armas electromagnéticas desde el 27 de Noviembre 2017. Hay muchos otros presos en carcelona, muchos pero deciden vivir como okupas, creo que de alguna forma el Estado no los torture tanto si viven así. 
-
-
+- Duración de la tortura. Esto parece ya increíble. Pero en la cárcel panóptica la tortura es continua. Personalmente vengo torturado con armas electromagnéticas desde el 27 de Noviembre 2017. Hay muchos otros presos en carcelona.
+- Frecuencia. Las 24 horas del día. De noche de manera mucho más pronunciada, mis neuronas vienen electro estimuladas de forma remota para provocar cansancio, rabia, síndrome de estrés postraumático, falta de concentración, etcétera etcétera. 
+- Posición anatómica y área del cuerpo afectadas. Extremidad, cabeza, ojos, labios, lengua, dientes, oídos, órganos internos, genitales.  
+- Han habido desangrados, **traumatismo craneoencefálico** [[140]](https://es.wikipedia.org/wiki/Traumatismo_craneoencef%C3%A1lico), o **síncope** [[141]](https://bit.ly/39eLUo6). Desangrados en mi caso han habido del oído derecho, de encías y del ano. El traumatismo me ha sido provocado con un intento de asesinado en un accidente de carretera el día 28 de Noviembre de 2015. Síncope también en el mismo hecho y a través de armas electromagnéticas otra vez. 
+- Como se ha encontrado la victima al final de la sesión. Sesión de tortura. Sesión de un dj, sesión techno. De aquí el hecho de que lo llaman "techno", y otras cosas más. Mi tortura es diaria desde el 27 de Noviembre 2017, pero es verdad que cada tres años, creo, hay sesiones más intensivas por parte de exponentes de servicios o rangos militares. Después de una sesión el cansancio, la tristeza por el hecho que todas las personas que te ven son personas que pertenecen a tu esfera emotiva, y algo de rabia reflejada en los insultos a los torturadores y a la aristocracia son normales. 
 
 ###  External links 
 
@@ -1106,6 +1108,10 @@ Por cada tipo de abuso anotar:
 138. https://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
 
 139. https://es.wikipedia.org/wiki/Camisa_de_fuerza
+
+140. https://es.wikipedia.org/wiki/Traumatismo_craneoencef%C3%A1lico
+
+141. https://bit.ly/39eLUo6
 
      
 
