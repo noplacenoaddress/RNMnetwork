@@ -806,6 +806,10 @@ Siendo carcelona un sistema digital lo único que puede cambiar a causa de «la 
 
 *Métodos de tortura y malos tratos. En mi vida hubiera pensado ser probablemente la persona mas torturada del mundo occidental. Y delante de toda persona que he conocido en mi vida, familiares incluidos.*
 
+Para obtener información sobre los antecedentes de torturas y malos tratos, se tendría que utilizar cuidado acerca de sugerir formas de abusos a las cuales una persona podría haber sido sujeta. Eso podría ayudar en separar posibles fantasías de experiencias reales. 
+
+La tortura electrónica se utiliza para aniquilar la mente de las personas, a través de realidad falsa que se inyecta en la corteza visual y auditiva del prisionero de la cárcel panóptica moderna se crea **caos** [[136]](https://es.wikipedia.org/wiki/Caos) y confusión. Obviamente el fin es hacer declarar la persona como enferma mental por servicios de sanidad pública corruptos. En Barcelona la sección de higiene mental del hospital Clinic es entra estas infraestructuras. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1077,6 +1081,8 @@ Siendo carcelona un sistema digital lo único que puede cambiar a causa de «la 
 134. https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
 
 135. https://es.wikipedia.org/wiki/Acreditaci%C3%B3n_de_identidad
+
+136. https://es.wikipedia.org/wiki/Caos
 
      
 
