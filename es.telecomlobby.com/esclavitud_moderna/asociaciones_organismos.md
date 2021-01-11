@@ -829,6 +829,10 @@ Por cada tipo de abuso anotar:
 - Han habido desangrados, **traumatismo craneoencefálico** [[140]](https://es.wikipedia.org/wiki/Traumatismo_craneoencef%C3%A1lico), o **síncope** [[141]](https://bit.ly/39eLUo6). Desangrados en mi caso han habido del oído derecho, de encías y del ano. El traumatismo me ha sido provocado con un intento de asesinado en un accidente de carretera el día 28 de Noviembre de 2015. Síncope también en el mismo hecho y a través de armas electromagnéticas otra vez. 
 - Como se ha encontrado la victima al final de la sesión. Sesión de tortura. Sesión de un dj, sesión techno. De aquí el hecho de que lo llaman "techno", y otras cosas más. Mi tortura es diaria desde el 27 de Noviembre 2017, pero es verdad que cada tres años, creo, hay sesiones más intensivas por parte de exponentes de servicios o rangos militares. Después de una sesión el cansancio, la tristeza por el hecho que todas las personas que te ven son personas que pertenecen a tu esfera emotiva, y algo de rabia reflejada en los insultos a los torturadores y a la aristocracia son normales. 
 
+El reporte tienen que incluir la fecha, por cuantas veces o por cuantos días la tortura duró, el periodo de tiempo de cada episodio, el estilo de suspensión o posición (cosa que no tiene importancia en la cibertortura). En el caso de tortura de suspensión, que material fue utilizado. El investigador es importante que apunte el tiempo de durada de la sesión de tortura que podría no ser exacto dado que es normal que haya **delírium** [[142]](https://es.wikipedia.org/wiki/Del%C3%ADrium). 
+
+Fue la victima asaltada sexualmente de alguna manera? En mi experiencia en carcelona he sido intimidado de violación homosexual varias veces y por parte de personajes no exactamente recomendables. El jefe de la banda, cuando lo frecuenté sin saber obviamente quien fuera, me dejo inmediatamente claro que no le disgustaba tampoco la homosexualidad. El que no me pareció nada de enfermizo ya que soy una persona que no tiene ningún tipo de fobia o racismo contra las diferencias. Un día, cerca de **passeig de Maragall** [[143]](https://ca.wikipedia.org/wiki/Passeig_de_Maragall) en Barcelona, intento a través de una astuto juego de situaciones de la durada de más de 24 horas de concatenar una serie de situaciones que hubieron terminado en sexo homosexual sin real consentimiento por mi parte. Al darme cuenta de sus intenciones el paró inmediatamente y se puso reír. La violencia sexual a través de armas electromagnéticas de su parte, de parte de mi ex pareja, de parte de una mujer que conocí junto a el, y también por parte de animales es al orden del día. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1112,6 +1116,8 @@ Por cada tipo de abuso anotar:
 140. https://es.wikipedia.org/wiki/Traumatismo_craneoencef%C3%A1lico
 
 141. https://bit.ly/39eLUo6
+
+142. https://es.wikipedia.org/wiki/Del%C3%ADrium
 
      
 
