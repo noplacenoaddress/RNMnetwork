@@ -871,7 +871,14 @@ Es importante profundizar los métodos de tortura cuando:
 - Hay un caso de posible daño cerebral. 
 - Hay factores educativos y culturales atenuantes. Por ejemplo el pueblo Español es muy sumiso respecto a los monarcas. En Catalunya hay montado todo un negocio que esconde el hecho que la misma ciudad condal, capital de un fuego republicano sofocado por parte de la persecución franquista nunca terminada en realidad, es un campo de concentración. Pocos lo saben. 
 
+La distinción entra métodos físicos y psicológicos es artificial. Por ejemplo la tortura sexual, a la cual yo estoy sujeto continuamente desde Noviembre 2017, generalmente causa síntomas tanto físicos cuanto psicológicos, aun cuando no haya habido un asalto físico, exactamente lo que pasa con la cibertortura. La siguiente lista de métodos de tortura es dada para mostrar algunas de las categorías de abusos posibles. No ha sido pensada para ser utilizada por parte de los investigadores como una lista de verificación o como modelo para listar métodos de tortura en un reporte. Un enfoque de listado de métodos puede ser contraproducente como que la entero cuadro clínico producido por parte de la tortura es mucho más que la simple suma de lesiones producidas por lo métodos en la lista. En efecto, la experiencia ha demostrado que cuando metida a confronto con dicho embalaje de métodos de tortura, los criminales suelen enfocarse únicamente en uno de los métodos y discutir si ese método en particular es una forma de tortura. Los métodos son:
 
+- trauma contundente, como un puñetazo, una patada, una bofetada, una paliza, una paliza con cables o porras o una caída. Personalmente los he sufridos prácticamente todos desde que ha empezado la destrucción sistemática de mi vida, en 2014.
+- tortura posicional, uso de suspensión, estiramiento de extremidades separadas, restricción alargada de movimiento, posicionamiento forzado. He subido tortura posicional, restricción alargada de movimiento de forma limitada y posicionamiento forzado.
+- quemado con cigarros, instrumentos calientes, líquido hirviendo o substancias causticas. No he sufrido ninguna pero se me ha amenazado acerca de.
+- electrochoque. 
+
+   
 
 ###  External links 
 
