@@ -850,6 +850,29 @@ Los sobrevivientes a torturas, como yo, pueden haber dificultades en detallar lo
 - **Mecanismo protector de afrontamiento** [[151]](https://es.wikipedia.org/wiki/Estrategias_de_afrontamiento),  como negación y evitación.
 - Bloqueos mentales culturalmente prescritos que no permiten relevar las experiencias traumáticas, si no únicamente en situaciones de extrema privacidad, cosa totalmente denegada de la red de explotación porqué presentes por ejemplo también altos cargos de la Iglesia Católica. Es la cueva de Platon, sin duda ninguna útil a ocultar la verdad que es pintada en su pared y sus sombras de diferentes maneras pero nunca es el núcleo de cuestión. Somos esclavos y no hay nada mas que conversar.  Para salir de la esclavitud es necesario que los otros esclavos, aunque hayan participado a tu esclavitud, admitan de serlo y empiecen a hablar.
 
+Las inconsistencias en la historia de una persona pueden surgir de uno o todos estos factores. Si es posible el investigador tiene que preguntar por más explicaciones. Cuando no fuera posible, el investigador tendría que mirar por otras pruebas que suporten o denieguen la historia. Una red de detalles consistentes de soporte puede validar y explicar con más claridad la historia de la victima. 
+
+En mi caso la historia es muy compleja y es un concatenación de eventos negativos provocados por el entorno hasta el día que mis sentidos fueron interferidos de forma activa, el 27 de Noviembre 2017. El mero hecho de escribir, bajo cibertortura, me sirve para hacer claridad sobre todos los hechos, hasta el día de hoy 11 de Enero 2021 he transmitido varias denuncias por separado y entro el fin de este mismo año quiero probar delante de justicia pública la trama de estampo mafioso que me ha reducido a esclavo explotado en un sistema digital. La red de monitorio neuronal, la red de explotación.
+
+Aunque el individuo objetivo no pueda brindar los detalles deseados por parte del investigador, como las fechas, los tiempos, las frecuencias y la identidades exactas de los criminales un esquema amplio acerca los traumas y la tortura tendría que sobresalir siempre.
+
+#### Reseña de métodos de tortura
+
+![](https://telecomlobby.com/Images/lamirada_panoptica.webp)
+
+Después de obtener una historia detallada de los eventos, es recomendable revisar otros métodos de tortura posibles. Es esencial aprender acera de las practicas regionales de tortura y modificar las directrices locales en consecuencia.
+
+Mi experiencia de manipulación, malos tratos, intentos de asesinado, cibertortura, explotación y perdida de la privacidad en suelo Español es fundamental para Naciones Unidas con el fin de tener un manual útil a detectar la complicada y entrelazada forma de esclavitud moderna activa en la **monarquía de los Borbón** [[152]](https://es.wikipedia.org/wiki/Casa_de_Borb%C3%B3n). El eje central, como creo en cualquier tipo de esclavitud, es un negocio de miles de millones en mercado negro.
+
+Es importante profundizar los métodos de tortura cuando:
+
+- Los síntomas psicológicos nublan los recuerdos.
+- El trauma se asoció con capacidades sensoriales deterioradas.
+- Hay un caso de posible daño cerebral. 
+- Hay factores educativos y culturales atenuantes. Por ejemplo el pueblo Español es muy sumiso respecto a los monarcas. En Catalunya hay montado todo un negocio que esconde el hecho que la misma ciudad condal, capital de un fuego republicano sofocado por parte de la persecución franquista nunca terminada en realidad, es un campo de concentración. Pocos lo saben. 
+
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1153,6 +1176,8 @@ Los sobrevivientes a torturas, como yo, pueden haber dificultades en detallar lo
 150. https://es.wikipedia.org/wiki/Esquizofrenia
 
 151. https://es.wikipedia.org/wiki/Estrategias_de_afrontamiento
+
+152. https://es.wikipedia.org/wiki/Casa_de_Borb%C3%B3n
 
      
 
