@@ -171,6 +171,10 @@ I want to specify that my father is totally guilty because he wants to blame an 
 
 He's always talking about chemical  and obsessions. This man is totally guilty.
 
+![](https://telecomlobby.com/Images/mio_padre_vendido.webp)
+
+On January 10 of 2021 I was just speaking about torture in my social network because of public complaints about electronic weapons that a fascist family from Genoa is using to torture me. My father, a stupid, tell me to just shutdown my public complaint. This is the only true.
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
