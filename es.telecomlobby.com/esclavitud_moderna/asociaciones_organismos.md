@@ -876,7 +876,15 @@ La distinción entra métodos físicos y psicológicos es artificial. Por ejempl
 - trauma contundente, como un puñetazo, una patada, una bofetada, una paliza, una paliza con cables o porras o una caída. Personalmente los he sufridos prácticamente todos desde que ha empezado la destrucción sistemática de mi vida, en 2014.
 - tortura posicional, uso de suspensión, estiramiento de extremidades separadas, restricción alargada de movimiento, posicionamiento forzado. He subido tortura posicional, restricción alargada de movimiento de forma limitada y posicionamiento forzado.
 - quemado con cigarros, instrumentos calientes, líquido hirviendo o substancias causticas. No he sufrido ninguna pero se me ha amenazado acerca de.
-- electrochoque. 
+- electrochoque. Sufrido de forma remota por parte de armas electromagnéticas. 
+- asfixia, como métodos húmedos y secos, agua, asfixia, asfixia o uso de productos químicos. 
+- lesiones por aplastamiento, como aplastarse los dedos o usar un rodillo pesado para lesionar los muslos o la espalda.
+- heridas penetrantes, como heridas de arma blanca y de arma de fuego, cables debajo de uñas. He subido una pequeña herida por parte de una arma de fuego que era para hacerme creer que me habían implantado un chip bajo piel. 
+- exposición química a sal, ají, gasolina en heridas o cavidades corporales.
+- violencia sexual a los genitales, abuso sexual, instrumentación, violación. La vivo de forma electrónica cada día desde Noviembre 2017.
+- aplastamiento o extirpación traumática de dedos y extremidades.
+- amputación médica de dedos o extremidades extirpación quirúrgica de órganos. He vivido una operación quirúrgica debido a un accidente de trafico provocado. Un intento de asesinado. 
+- tortura farmacológica utilizando dosis tóxicas de sedantes, neurolépticos, paralíticos. Creo de haberlo vivido pero podría ser únicamente las sensaciones provocadas por parte de la tortura electrónica. Además de que he sido encerrado a la fuerza en un instituto de higiene mental donde se me quería suministrar fármacos de este tipo que he hábilmente evitado.  
 
    
 
