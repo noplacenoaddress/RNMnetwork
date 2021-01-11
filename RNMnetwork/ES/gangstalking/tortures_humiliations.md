@@ -196,6 +196,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 7/1/2021 All the day long the continuously stalk me because I want to put a complaint to the chief of the non state actor crew. Aurora say to Francesca if someone can kill me.
 - 8/1/2021 **Aurora** continously stalk to me all night long.
 - 9/1/2021 Like the day before continuous stalk, sleep deprivation, sexual harassment and electronic torture. This is because my work is good to put in jail all the non state actors crew. The option that they give me is to take amphetamine all the days and start to sell drug. The want to put me in a injected game where people loose them mind, the target individual program. All in front of high level aristocracy. The Catalan non state actors crew work for Francesca but I think that it depend on what target is opened now in the "game" of the slow assassination, the game of suicide. The first three years they have generated a lot of revenue with exploitation of a slave and now they start again heavy stalk to induct me to be a member of the crew. The result is a tortured that have to torture. Like one of the best persons that I've know in those years. A man from Italia. 
+- 10/1/2021 torture all night long. sleep deprivation and a very strong electric torture in my neck.
+- 11/1/2021 Andreu, the chief of the non state actor crew, probably a member of CNI, is sexual torture me continuously.  He tortures me from more than three years.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
