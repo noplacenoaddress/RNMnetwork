@@ -845,9 +845,10 @@ Los sobrevivientes a torturas, como yo, pueden haber dificultades en detallar lo
 - Factores durante la tortura misma, como ojos vendados, asunción forzosa de droga cortadas con químicos útiles al dominio mental, perdida de los sentidos.
 - Miedo a ponerse en riesgo y miedo de poner a otros en riesgo. Cosa que absolutamente no es aceptable. Por la **libertad** [[147]](https://es.wikipedia.org/wiki/Libertad), hay que luchar diariamente contra el miedo. Cueste lo que cueste; hasta la vida.
 - Falta de confianza en el médico o el interprete examinador.
-- 
-
-
+- El impacto psicológico de la tortura y los traumas, alta excitación emocional y **trastorno de la memoria** [[148]](https://es.wikipedia.org/wiki/Trastorno_de_la_memoria). Cosa inducida por armas electromagnéticas en el cerebro de las victimas. Traumas derivados en consecuencia de la tortura como la depresión y el **trastorno de estrés postraumático complejo** [[149]](https://es.wikipedia.org/wiki/Trastorno_de_Estr%C3%A9s_Postraum%C3%A1tico_Complejo).
+- Deterioro de la memoria neuropsiquiátrica creados por golpes en la cabeza, cosa que se intentó en 2015 en mi caso dos veces, con un accidente provocado y por una paliza brutal dentro de un coche a patadas en la cara que no llegue nunca a denunciar. Me han querido dejar enfermo de **esquizofrenia** [[150]](https://es.wikipedia.org/wiki/Esquizofrenia). 
+- **Mecanismo protector de afrontamiento** [[151]](https://es.wikipedia.org/wiki/Estrategias_de_afrontamiento),  como negación y evitación.
+- Bloqueos mentales culturalmente prescritos que no permiten relevar las experiencias traumáticas, si no únicamente en situaciones de extrema privacidad, cosa totalmente denegada de la red de explotación porqué presentes por ejemplo también altos cargos de la Iglesia Católica. Es la cueva de Platon, sin duda ninguna útil a ocultar la verdad que es pintada en su pared y sus sombras de diferentes maneras pero nunca es el núcleo de cuestión. Somos esclavos y no hay nada mas que conversar.  Para salir de la esclavitud es necesario que los otros esclavos, aunque hayan participado a tu esclavitud, admitan de serlo y empiecen a hablar.
 
 ###  External links 
 
@@ -1144,6 +1145,14 @@ Los sobrevivientes a torturas, como yo, pueden haber dificultades en detallar lo
 146. https://es.wikipedia.org/wiki/Televisi%C3%B3n_Espa%C3%B1ola
 
 147. https://es.wikipedia.org/wiki/Libertad
+
+148. https://es.wikipedia.org/wiki/Trastorno_de_la_memoria
+
+149. https://es.wikipedia.org/wiki/Trastorno_de_Estr%C3%A9s_Postraum%C3%A1tico_Complejo
+
+150. https://es.wikipedia.org/wiki/Esquizofrenia
+
+151. https://es.wikipedia.org/wiki/Estrategias_de_afrontamiento
 
      
 
