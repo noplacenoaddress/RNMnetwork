@@ -840,6 +840,13 @@ Otros puntos claves son:
 
 ![](https://telecomlobby.com/Images/cine_de_barrio.webp)
 
+Los sobrevivientes a torturas, como yo, pueden haber dificultades en detallar los particulares de la tortura por varios motivos:
+
+- Factores durante la tortura misma, como ojos vendados, asunción forzosa de droga cortadas con químicos útiles al dominio mental, perdida de los sentidos.
+- Miedo a ponerse en riesgo y miedo de poner a otros en riesgo. Cosa que absolutamente no es aceptable. Por la **libertad** [[147]](https://es.wikipedia.org/wiki/Libertad), hay que luchar diariamente contra el miedo. Cueste lo que cueste; hasta la vida.
+- Falta de confianza en el médico o el interprete examinador.
+- 
+
 
 
 ###  External links 
@@ -1135,6 +1142,8 @@ Otros puntos claves son:
 145. https://es.wikipedia.org/wiki/Cine_de_barrio
 
 146. https://es.wikipedia.org/wiki/Televisi%C3%B3n_Espa%C3%B1ola
+
+147. https://es.wikipedia.org/wiki/Libertad
 
      
 
