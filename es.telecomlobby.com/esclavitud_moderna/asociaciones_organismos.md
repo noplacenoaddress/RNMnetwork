@@ -874,17 +874,30 @@ Es importante profundizar los métodos de tortura cuando:
 La distinción entra métodos físicos y psicológicos es artificial. Por ejemplo la tortura sexual, a la cual yo estoy sujeto continuamente desde Noviembre 2017, generalmente causa síntomas tanto físicos cuanto psicológicos, aun cuando no haya habido un asalto físico, exactamente lo que pasa con la cibertortura. La siguiente lista de métodos de tortura es dada para mostrar algunas de las categorías de abusos posibles. No ha sido pensada para ser utilizada por parte de los investigadores como una lista de verificación o como modelo para listar métodos de tortura en un reporte. Un enfoque de listado de métodos puede ser contraproducente como que la entero cuadro clínico producido por parte de la tortura es mucho más que la simple suma de lesiones producidas por lo métodos en la lista. En efecto, la experiencia ha demostrado que cuando metida a confronto con dicho embalaje de métodos de tortura, los criminales suelen enfocarse únicamente en uno de los métodos y discutir si ese método en particular es una forma de tortura. Los métodos son:
 
 - trauma contundente, como un puñetazo, una patada, una bofetada, una paliza, una paliza con cables o porras o una caída. Personalmente los he sufridos prácticamente todos desde que ha empezado la destrucción sistemática de mi vida, en 2014.
+
 - tortura posicional, uso de suspensión, estiramiento de extremidades separadas, restricción alargada de movimiento, posicionamiento forzado. He subido tortura posicional, restricción alargada de movimiento de forma limitada y posicionamiento forzado.
+
 - quemado con cigarros, instrumentos calientes, líquido hirviendo o substancias causticas. No he sufrido ninguna pero se me ha amenazado acerca de.
+
 - electrochoque. Sufrido de forma remota por parte de armas electromagnéticas. 
+
 - asfixia, como métodos húmedos y secos, agua, asfixia, asfixia o uso de productos químicos. 
+
 - lesiones por aplastamiento, como aplastarse los dedos o usar un rodillo pesado para lesionar los muslos o la espalda.
+
 - heridas penetrantes, como heridas de arma blanca y de arma de fuego, cables debajo de uñas. He subido una pequeña herida por parte de una arma de fuego que era para hacerme creer que me habían implantado un chip bajo piel. 
+
 - exposición química a sal, ají, gasolina en heridas o cavidades corporales.
+
 - violencia sexual a los genitales, abuso sexual, instrumentación, violación. La vivo de forma electrónica cada día desde Noviembre 2017.
+
 - aplastamiento o extirpación traumática de dedos y extremidades.
+
 - amputación médica de dedos o extremidades extirpación quirúrgica de órganos. He vivido una operación quirúrgica debido a un accidente de trafico provocado. Un intento de asesinado. 
+
 - tortura farmacológica utilizando dosis tóxicas de sedantes, neurolépticos, paralíticos. Creo de haberlo vivido pero podría ser únicamente las sensaciones provocadas por parte de la tortura electrónica. Además de que he sido encerrado a la fuerza en un instituto de higiene mental donde se me quería suministrar fármacos de este tipo que he hábilmente evitado.  
+
+- condiciones de detención, como una celda pequeña o superpoblada, confinamiento solitario, condiciones antihigiénicas, sin acceso, sin instalaciones sanitarias, alimentos y agua irregulares o contaminados, exposición a temperaturas extremas, negación de la privacidad y desnudez forzada. En carcelona la celda virtual es superpoblada y los demás presos tienen varias funciones y también sacan provecho del preso explotado, yo, las condiciones pueden llegar a ser antihigiénicas por la depresión, cosa que también he pasado tanto después de los malos tratos recibidos por parte de mi ex pareja y en parte por mi mejor amigo cuanto después del primer año de dura cibertortura cuando vivía en la calle sant Ramon en sant pere de Ribes; allí también los alimentos eran irregulares por falta de dinero cosa a la cual han contribuido también mis mismos padres que aun viéndome desde las pantallas neuronales de este sistema de telecomunicaciones que construye una celda de explotación sobre un conejillo de India humano no hacían nada para remediar a mis condiciones de marginación. A alimentos contaminados he sido expuesto en casa de una persona cuya función dentro de la cárcel panóptica moderna toma el nombre de maquinista, un reclutado a través de probablemente el mismo sufrimiento que yo he vivido y estoy viviendo de la banda de actores no estatales que hacen un trabajo ilegal parecido a los de las policías secretas franquistas, personas cuya vida ha sido manipulada y supervisada por parte de un elemento de los servicios de inteligencia Españoles y probablemente por algún elemento de la Marina Militare Italiana debido al hecho que la familia de Francesca, una terrorista, tiene conexiones con este cuerpo militar. Por estos alimentos en mal estado y probablemente también ligeramente contaminados y sufrido una **intoxicación alimentaria** [[153]](https://es.wikipedia.org/wiki/Intoxicaci%C3%B3n_alimentaria) leve que ha desbocado en una diarrea aguda fulminante con consecuente humillación pública, en el sentido de mi aplicación neuronal.  Negación de privacidad y desnudez forzada son al orden del día en el ambiente de torturas de la red de explotación moderna.
 
    
 
