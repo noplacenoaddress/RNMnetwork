@@ -905,6 +905,12 @@ La distinción entra métodos físicos y psicológicos es artificial. Por ejempl
 
 - amenazas de muerte, daños a la familia, nuevas torturas, encarcelamiento, simulacros de ejecución. También absolutamente todos estas pautas de tortura las he vivido antes y después el inicio de la cibertortura, interferencia a los cinco sentidos, el 27 de Noviembre de 2017. Lo más impactante son los simulacros de ejecución, en la red de monitorio neuronal o bien red de esclavitud son inyectados en los cinco sentidos por parte de las armas electromagnéticas, el sujeto no visualiza la realidad pero su cerebro vive sumergido en un mundo digital perfectamente renderizado. He vivido este tipo de tortura, probablemente un alto secreto militar, dos veces en mi vida, la última en Diciembre 2020 en Barcelona donde he sido dejado solo en un asiento bajo la lluvia toda la noche y he vivido una lenta ejecución simulada. Otro intento de asesinado por parte de Francesca y ejecutado de forma remota por parte del jefe de la banda de actores no estatales que opera en Barcelona en calidad de terroristas post franquistas a sueldo por su familia. 
 
+- amenazas de ataque de animales, como perros, gatos, ratas o escorpiones. En la red de explotación he sido violado por un caballo.
+
+- Técnicas psicológicas para frenar al individuo, incluidas traiciones forzadas, acentuar sentimientos o desamparo, exposición a situaciones ambiguas o mensajes contradictorios. Personalmente he vivido absolutamente todas estas pautas de tortura a partir de 2014 por parte de mi ex pareja Saray torturadora de una persona que le ha dicho te amo porqué trabajadora, probablemente reclutada, en la banda de actores no estatales que opera en Barcelona. Hablando de traición no puedo no mencionar el hecho que los militares presentes y los servicios que me han y están torturando delante de muchos civiles lo que están haciendo es sin duda ninguna **alta traición** [[155]](https://es.wikipedia.org/wiki/Alta_traici%C3%B3n). 
+
+- Obligar a la víctima a presenciar torturas o atrocidades infligidas a otras personas. En mi aplicación neuronal hay muchísimos civiles obligados a ver atrocidades infligidas a otras personas, yo. Nadie, absolutamente nadie ha intervenido. Todos están aniquilados por el miedo. Hay civiles Italianos y Españoles. En este sistema tanto Saray, cuanto otras mujeres que conozco han sido obligadas, siempre por el miedo, a tener hijos por meter a la luz otras fichas de la maquina a vapor, donde las personas son conejillos de India para el desarrollo de tecnología militar y de alta empresa, torturadas y humilladas en historietas donde pierden el amor y lo buscan por miles de kilómetros. Los militares juegan a las apuestas los aristócratas también. Violan y torturan mujeres, las hacen follar en orgías horribles y tener hijos con representantes de cortes de nobleza para que sean utilizados como fichas, mercado negro y bastantes más asquerosidades. Los hijos se asignan a casas nobles en lo que se llama trata de ser humanos. 
+
    
 
 ###  External links 
@@ -1216,6 +1222,8 @@ La distinción entra métodos físicos y psicológicos es artificial. Por ejempl
 153. https://es.wikipedia.org/wiki/Intoxicaci%C3%B3n_alimentaria
 
 154. https://es.wikipedia.org/wiki/Neonazismo
+
+155. https://es.wikipedia.org/wiki/Alta_traici%C3%B3n
 
      
 
