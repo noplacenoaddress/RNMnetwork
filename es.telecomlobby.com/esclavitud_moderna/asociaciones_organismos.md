@@ -899,6 +899,14 @@ La distinción entra métodos físicos y psicológicos es artificial. Por ejempl
 
 Un trauma analizado a nivel cerebral. En la red de monitorio neuronal es creado también estimulando eléctricamente las partes interesadas como se hubiera pasado físicamente. Cosa que también lo es, o sea que es la suma de dos factores. 
 
+Tomando en consideraciones que las lesiones de diferentes tipos y niveles pueden ocurrir según los métodos de torturas utilizados, los datos adquiridos en consecuencia a un historial médico exhaustivo y los exámenes físicos tendrían que ser juntados con los apropiados resultados de laboratorio y radiológicos. Brindar las informaciones y los exámenes médicos y asegurarse un detallado conocimiento de los métodos de laboratorio juegan un rol importante. 
+
+La presencia de secuelas psicológica en los sobrevivientes de tortura, especialmente las varias manifestaciones de trastorno por estrés postraumático, pueden ser causa a los sobrevivientes de torturas de miedo acerca de la recreación de sus experiencias de tortura durante la entrevista, los exámenes físicos y los test de laboratorio. Ir explicando a los sobrevivientes de tortura que el o ella tendría que esperar antes del examen médico es un componente importante del procedimiento. Aquellos que han sobrevivido a torturas y se queden en sus países pueden ser sujetos a miedo intenso y sospecha de volver a ser encarcelados, y son muchas veces forzados a vivir en la marginación para evitar de ser encarcelados otra vez.
+
+Hablando de la situación Catalana al última frase es fundamental. Prácticamente todos los participes a la banda de actores de no estatales a las ordenes de Francesca y que tienen como cabecilla lo que se pueda definir probablemente como un servicio de Estado, de un Estado del terror post franquista en una región del espíritu republicano sufren exactamente de dichos complejos mentales. Miedo y sospecha han podido con sus sentimientos hasta hacerlos **copular** [[156]](https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual) entra ellos como animales, o ni si quiera esto porqué los animales no copulan de esta forma,  y torturar a una persona conocida, a una ex pareja y a un amigo.
+
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1210,6 +1218,8 @@ Un trauma analizado a nivel cerebral. En la red de monitorio neuronal es creado 
 154. https://es.wikipedia.org/wiki/Neonazismo
 
 155. https://es.wikipedia.org/wiki/Alta_traici%C3%B3n
+
+156. https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual
 
      
 
