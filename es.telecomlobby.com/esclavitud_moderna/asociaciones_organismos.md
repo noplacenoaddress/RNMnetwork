@@ -945,7 +945,11 @@ Cuando la victima es un hombre la situación es todavía más complicada porqué
 
 #### Interpretación de los resultados y las conclusiones
 
-Las manifestaciones físicas de tortura pueden variar según la intensidad, duración del abuso y de la capacidad del sobreviviente a torturas de protegerse de ellas. Yo por ejemplo he pasado un periodo de deterioro físico y mental en 2018 y 2019. Ahora, también porqué mis torturadores han bajado astutamente la intensidad de la tortura con el fin de no hacer encontrar a un eventual comisión de investigación las secuelas normales de tortura, en este caso cibertortura, me encuentro en óptimas condiciones en parte porqué he decidido aclarar mi historia de abusos con un relato escrito, algo muy útil a clarificar las ideas en el cerebro de una victima y cosa que aconsejo a todos los torturados de carcelona. 
+Las manifestaciones físicas de tortura pueden variar según la intensidad, duración del abuso y de la capacidad del sobreviviente a torturas de protegerse de ellas. 
+
+Yo por ejemplo he pasado un periodo de deterioro físico y mental en 2018 y 2019. Ahora, también porqué mis torturadores han bajado astutamente la intensidad de la tortura con el fin de no hacer encontrar a un eventual comisión de investigación las secuelas normales de tortura, en este caso cibertortura, me encuentro en óptimas condiciones en parte porqué he decidido aclarar mi historia de abusos con un relato escrito, algo muy útil a clarificar las ideas en el cerebro de una victima y cosa que aconsejo a todos los torturados de carcelona. 
+
+Otras formas de tortura podrían no producir secuelas físicas, pero podrían ser asociadas con otras condiciones. Por ejemplo un traumatismo de la cabeza que resulte en una perdida de consciencia puede generar epilepsia postraumática y una **disfunción orgánica del cerebro** [[164]](https://es.wikipedia.org/wiki/S%C3%ADndrome_org%C3%A1nico_cerebral). Una alimentación pobre y falta higiene en la celda de detención podrían ser causa de una deficiencia de **vitaminas** [[165]](https://es.wikipedia.org/wiki/Vitamina). 
 
 ###  External links 
 
@@ -1274,6 +1278,10 @@ Las manifestaciones físicas de tortura pueden variar según la intensidad, dura
 162. https://es.wikipedia.org/wiki/Kin%C3%A9sica
 
 163. https://es.wikipedia.org/wiki/Fisioterapeuta
+
+164. https://es.wikipedia.org/wiki/S%C3%ADndrome_org%C3%A1nico_cerebral
+
+165. https://es.wikipedia.org/wiki/Vitamina
 
      
 
