@@ -200,6 +200,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 11/1/2021 **Andreu**, the chief of the non state actor crew, probably a member of CNI, is sexual torture me continuously.  He tortures me from more than three years.
 - 12/1/2021 **Francesca** say that she will torture me continuously because I call her terrorist. She is one of the most important figure in **neo-nazism**.
 - 12/1/2021 **Saray**, who has been sold in human trade like a bitch to Francesca from Spain services, to break a strong friendship with me and two brothers from Genoa that have been recruited in neo-nazism (I'll explain later who they work in the society) is heavy sexual torture me and put in my visual cortex orgies videos. Saray was my ex girlfriend. Neo-nazism is terrorism. Francesca is a terrorist. But she is a noble and she is very connected to high levels church in Rome and no one say nothing. She is recrutied also with heavy cocaine traffic. 
+- 13/1/2021 I couldn't drink a cup of coffee that **Saray** torture me with electronic weapons. 
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
