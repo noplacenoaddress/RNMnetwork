@@ -913,9 +913,17 @@ Los exámenes físicos y psicológicos por su propia naturaleza podría volver a
 
 #### Uso de interpretes 
 
-![](https://telecomlobby.com/Images/entrevista_tortura.webp)
+![](https://telecomlobby.com/Images/darmashakra.webp)
 
+**Dharmachakra** [[159]](https://es.wikipedia.org/wiki/Rueda_del_dharma), una palabra muy relacionada con la tortura. El **timón** [[160]](https://es.wikipedia.org/wiki/Volante_de_direcci%C3%B3n) de la **maquina a vapor** [[161]](https://bit.ly/3oSkH0U). Quien conduce ha sido torturado, los demás piensan que sea normal porqué acostumbrados a la tortura. Algo muy triste. 
 
+Es necesario utilizar un interprete para permitir al entrevistado de entender lo que se ha dicho en caso haya una barrera de idioma entra el investigador y la victima. 
+
+Personalmente puedo utilizar cuatro idiomas para far frente a dichas diferencias, todos menos el inglés son de raíces latina. Importante en suelo Español para profundizar el grave tema de las torturas en la península ibérica es seguramente el idioma vasco. En Catalunya todo es relacionado con la Iglesia Católica. En el país Vasco con el independentismo y con la persecución del Estado contra los presos de ETA. Con la diferencia racial. 
+
+A los interpretes se tiene que explicar que todo lo que oigan y interpreten en las entrevistas es estrictamente confidencial. 
+
+En casos extremos, podría ser hasta necesario por los investigadores abstenerse de pillar notas durante las entrevistas y llevar a cabo la entrevista en varias sesiones de tiempo limitado. Los investigadores para transmitir seguridad y mantener el contacto visual. Es esencial por los investigadores observar no solo las palabras, pero también el **lenguaje del cuerpo** [[162]](https://es.wikipedia.org/wiki/Kin%C3%A9sica), las expresiones de la cara, la tonalidad de la voz y los gestos de la victima para obtener un cuadro completo. Los investigadores tendrían que hacerse familiares con las palabras relativa a la tortura en el lenguaje de la victima para demostrar que saben acerca del tema.
 
 ###  External links 
 
@@ -1234,6 +1242,14 @@ Los exámenes físicos y psicológicos por su propia naturaleza podría volver a
 157. https://es.wikipedia.org/wiki/Prejuicio
 
 158. https://es.wikipedia.org/wiki/Tab%C3%BA
+
+159. https://es.wikipedia.org/wiki/Rueda_del_dharma
+
+160. https://es.wikipedia.org/wiki/Volante_de_direcci%C3%B3n
+
+161. https://bit.ly/3oSkH0U
+
+162. https://es.wikipedia.org/wiki/Kin%C3%A9sica
 
      
 
