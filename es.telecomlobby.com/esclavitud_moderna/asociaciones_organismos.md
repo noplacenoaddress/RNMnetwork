@@ -929,7 +929,15 @@ En casos extremos, podría ser hasta necesario por los investigadores abstenerse
 
 ![](https://telecomlobby.com/Images/violencia_sexual.webp)
 
-Es correcto que un grupo de investigación hayan miembros de ambos los sexos. Esto es particularmente importante 
+Es correcto que un grupo de investigación hayan miembros de ambos los sexos. Esto es particularmente importante cuando una mujer haya sido detenida en una situación donde ha habido violación, aunque ella no haya todavía hecho una denuncia. 
+
+> Muy lamentablemente en la red de explotación de lo servicios donde juegan aristocracia, iglesia y élite hay personas que traman de manera que bella mujeres, como mi ex pareja, pasen varios episodios de violación, por las cuales seguramente cobran, para después eliminar todo quien les he gestionado el mercado del trafico. Ellos no tocan y así haciendo limpian el campo de juego. Aunque cobren hay que especificar que son mujeres en situaciones de explotación, el hecho de cobrar es efímero ya que aquí juegan las personas más ricas del mundo.
+
+
+
+
+
+ 
 
 ###  External links 
 
