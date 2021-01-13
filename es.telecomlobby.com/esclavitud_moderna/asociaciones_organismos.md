@@ -931,9 +931,13 @@ En casos extremos, podría ser hasta necesario por los investigadores abstenerse
 
 Es correcto que un grupo de investigación hayan miembros de ambos los sexos. Esto es particularmente importante cuando una mujer haya sido detenida en una situación donde ha habido violación, aunque ella no haya todavía hecho una denuncia. 
 
-> Muy lamentablemente en la red de explotación de lo servicios donde juegan aristocracia, iglesia y élite hay personas que traman de manera que bella mujeres, como mi ex pareja, pasen varios episodios de violación, por las cuales seguramente cobran, para después eliminar todo quien les he gestionado el mercado del trafico. Ellos no tocan y así haciendo limpian el campo de juego. Aunque cobren hay que especificar que son mujeres en situaciones de explotación, el hecho de cobrar es efímero ya que aquí juegan las personas más ricas del mundo.
+> Muy lamentablemente en la red de explotación de lo servicios donde juegan aristocracia, iglesia y élite hay personas que traman de manera que bella mujeres, como mi ex pareja, pasen varios episodios de violación, por las cuales seguramente cobran, para después eliminar todo quien le ha violado que corresponden a quien esté una pequeña parte de mercado negro. Ellos no tocan y así haciendo limpian el campo de juego. Aunque cobren hay que especificar que son mujeres en situaciones de explotación, el hecho de cobrar es efímero ya que aquí juegan las personas más ricas del mundo.
 
+Aunque no hay asalto sexual, muchas torturas tienen aspecto sexual. En la cibertortura es al orden del día y yo soy un hombre.
 
+Volver a vivir el trauma puede ser a veces peor si la victima siente que tiene que describir que ha pasado a una persona que es un hombre, el mismo genero de su torturador. 
+
+Cuando la victima es un hombre la situación es todavía más complicada porqué casi seguramente habrá sido violado por parte de hombres. En la red de monitorio neuronal, red de tortura y explotación, transmitidas por armas electromagnéticas, yo soy asaltado sexualmente por mi ex pareja la cual seguramente ha vivido violencia sexual sistemática, o sea tortura, por parte de quienes administran la red de explotación, utilizada por torturar y hacer suicidar. Ellos, la banda de actores no estatales, encabezados por quien es seguramente un servicio se ocupan de la cibertortura y de la tortura sin rastros. Ella me ha hecho recurrir más de 3.000 km de pies por Barcelona. Macrodatos, esta es la única verdad. Un negocio organizado.
 
 
 
