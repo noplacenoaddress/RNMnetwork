@@ -931,13 +931,21 @@ En casos extremos, podría ser hasta necesario por los investigadores abstenerse
 
 Es correcto que un grupo de investigación hayan miembros de ambos los sexos. Esto es particularmente importante cuando una mujer haya sido detenida en una situación donde ha habido violación, aunque ella no haya todavía hecho una denuncia. 
 
-> Muy lamentablemente en la red de explotación de lo servicios donde juegan aristocracia, iglesia y élite hay personas que traman de manera que bella mujeres, como mi ex pareja, pasen varios episodios de violación, por las cuales seguramente cobran, para después eliminar todo quien les he gestionado el mercado del trafico. Ellos no tocan y así haciendo limpian el campo de juego. Aunque cobren hay que especificar que son mujeres en situaciones de explotación, el hecho de cobrar es efímero ya que aquí juegan las personas más ricas del mundo.
+> Muy lamentablemente en la red de explotación de lo servicios donde juegan aristocracia, iglesia y élite hay personas que traman de manera que bella mujeres, como mi ex pareja, pasen varios episodios de violación, por las cuales seguramente cobran, para después eliminar todo quien le ha violado que corresponden a quien esté una pequeña parte de mercado negro. Ellos no tocan y así haciendo limpian el campo de juego. Aunque cobren hay que especificar que son mujeres en situaciones de explotación, el hecho de cobrar es efímero ya que aquí juegan las personas más ricas del mundo.
 
+Aunque no hay asalto sexual, muchas torturas tienen aspecto sexual. En la cibertortura es al orden del día y yo soy un hombre.
 
+Volver a vivir el trauma puede ser a veces peor si la victima siente que tiene que describir que ha pasado a una persona que es un hombre, el mismo genero de su torturador. 
 
+Cuando la victima es un hombre la situación es todavía más complicada porqué casi seguramente habrá sido violado por parte de hombres. En la red de monitorio neuronal, red de tortura y explotación, transmitidas por armas electromagnéticas, yo soy asaltado sexualmente por mi ex pareja la cual seguramente ha vivido violencia sexual sistemática, o sea tortura, por parte de quienes administran la red de explotación, utilizada por torturar y hacer suicidar. Ellos, la banda de actores no estatales, encabezados por quien es seguramente un servicio se ocupan de la cibertortura y de la tortura sin rastros. Ella me ha hecho recurrir más de 3.000 km de pies por Barcelona. Macrodatos, esta es la única verdad. Un negocio organizado.
 
+#### Indicaciones de derivación
 
- 
+ Cuando posible, examinar los documentos de tortura por razones médico legales tendrían que ser combinadas con una evaluación por otras necesidades, como la derivación a otros especialistas como médicos, psicólogos, **fisioterapeutas** [[163]](https://es.wikipedia.org/wiki/Fisioterapeuta), o aquellos que puedan ofrecer ayuda social y soporte. Los investigadores tendrían que ser conscientes de sitios locales de rehabilitación y servicios de ayuda. Los médicos no tendría que tener dudas de insistir sobre cualquier consulta o examen que la victima considere necesaria para una evaluación médica. En el curso de documentar las pruebas médicas de tortura y malos tratos, los físicos no son absueltos sobre sus obligaciones éticas. Aquellos que aparezcan de ser necesitados de más cuidado médico y psicológico tendrían de ser trasladados a la infraestructura de servicios adecuada.
+
+#### Interpretación de los resultados y las conclusiones
+
+Las manifestaciones físicas de tortura pueden variar según la intensidad, duración del abuso y de la capacidad del sobreviviente a torturas de protegerse de ellas. Yo por ejemplo he pasado un periodo de deterioro físico y mental en 2018 y 2019. Ahora, también porqué mis torturadores han bajado astutamente la intensidad de la tortura con el fin de no hacer encontrar a un eventual comisión de investigación las secuelas normales de tortura, en este caso cibertortura, me encuentro en óptimas condiciones en parte porqué he decidido aclarar mi historia de abusos con un relato escrito, algo muy útil a clarificar las ideas en el cerebro de una victima y cosa que aconsejo a todos los torturados de carcelona. 
 
 ###  External links 
 
@@ -1264,6 +1272,8 @@ Es correcto que un grupo de investigación hayan miembros de ambos los sexos. Es
 161. https://bit.ly/3oSkH0U
 
 162. https://es.wikipedia.org/wiki/Kin%C3%A9sica
+
+163. https://es.wikipedia.org/wiki/Fisioterapeuta
 
      
 
