@@ -923,7 +923,7 @@ Personalmente puedo utilizar cuatro idiomas para far frente a dichas diferencias
 
 A los interpretes se tiene que explicar que todo lo que oigan y interpreten en las entrevistas es estrictamente confidencial. 
 
-En casos extremos, podría ser hasta necesario por los investigadores abstenerse de pillar notas durante las entrevistas y llevar a cabo la entrevista en varias sesiones de tiempo limitado. Los investigadores para transmitir seguridad y mantener el contacto visual. Es esencial por los investigadores observar no solo las palabras, pero también el **lenguaje del cuerpo** [[162]](https://es.wikipedia.org/wiki/Kin%C3%A9sica), las expresiones de la cara, la tonalidad de la voz y los gestos de la victima para obtener un cuadro completo. Los investigadores tendrían que hacerse familiares con las palabras relativa a la tortura en el lenguaje de la victima para demostrar que saben acerca del tema.
+En casos extremos, podría ser hasta necesario por los investigadores abstenerse de pillar notas durante las entrevistas y llevar a cabo la entrevista en varias sesiones de tiempo limitado. Los investigadores para transmitir seguridad y mantener el contacto visual. Es esencial por los investigadores observar no solo las palabras, pero también el **lenguaje del cuerpo** [[162]](https://es.wikipedia.org/wiki/Kin%C3%A9sica), las expresiones de la cara, la tonalidad de la voz y los gestos de la victima para obtener un cuadro completo. Los investigadores tendrían que hacerse familiares con las palabras relativa a la tortura en el lenguaje de la victima para demostrar que saben acerca del tema. 
 
 ###  External links 
 
