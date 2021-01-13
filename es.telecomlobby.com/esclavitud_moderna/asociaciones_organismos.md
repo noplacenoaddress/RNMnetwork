@@ -905,6 +905,16 @@ La presencia de secuelas psicológica en los sobrevivientes de tortura, especial
 
 Hablando de la situación Catalana al última frase es fundamental. Prácticamente todos los participes a la banda de actores de no estatales a las ordenes de Francesca y que tienen como cabecilla lo que se pueda definir probablemente como un servicio de Estado, de un Estado del terror post franquista en una región del espíritu republicano sufren exactamente de dichos complejos mentales. Miedo y sospecha han podido con sus sentimientos hasta hacerlos **copular** [[156]](https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual) entra ellos como animales, o ni si quiera esto porqué los animales no copulan de esta forma,  y torturar a una persona conocida, a una ex pareja y a un amigo.
 
+Aquellos que han sido exiliados o los refugiados podrían dejar detrás sus idiomas nativos, su cultura, su familia, sus amigos, su trabajo y todo lo que es familiar para ellos.
+
+Las reacciones personales de los sobrevivientes a tortura, como yo, a quien les entrevista y a su interprete si necesario pueden dejar marca en el proceso de la entrevista y, a su vez, el desenlace de la investigación. Igualmente, las reacciones personales del investigador hacía una victima puede afectar también al proceso de la entrevista y al desenlace de la investigación. Es importante analizar las barreras culturales, como el idioma, que puedan afectar la comunicación entra las partes y entender que estas reacciones personales pueden imponerse a la misma investigación. El investigador tendría que mantener un examen sobre el camino de la entrevista y sobre el proceso de la investigación a través de consultas y discusiones con colegas familiares con el campo de la psicología y el tratamiento de los sobrevivientes a torturas. Este tipo de supervisión colaborativa puede ser una manera eficaz en el sentido de tener bajo control la entrevista y el proceso de investigación de **prejuicios** [[157]](https://es.wikipedia.org/wiki/Prejuicio) y barreras para una comunicación eficaz para obtener información exacta.
+
+Los exámenes físicos y psicológicos por su propia naturaleza podría volver a crear un trauma en el paciente provocando o exacerbando síntomas de estrés postraumático por revivir los efectos del dolor y la memoria de ellos. Las preguntas acerca del trastorno psicológico y especialmente acerca de asuntos sexuales son consideradas **tabú** [[158]](https://es.wikipedia.org/wiki/Tab%C3%BA) en las sociedades más tradicionales, y las preguntas acerca de estás cuestiones son consideradas como irreverentes y ofensivas.
+
+#### Uso de interpretes 
+
+![](https://telecomlobby.com/Images/entrevista_tortura.webp)
+
 
 
 ###  External links 
@@ -1220,6 +1230,10 @@ Hablando de la situación Catalana al última frase es fundamental. Prácticamen
 155. https://es.wikipedia.org/wiki/Alta_traici%C3%B3n
 
 156. https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual
+
+157. https://es.wikipedia.org/wiki/Prejuicio
+
+158. https://es.wikipedia.org/wiki/Tab%C3%BA
 
      
 
