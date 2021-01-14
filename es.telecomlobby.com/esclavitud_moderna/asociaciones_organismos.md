@@ -959,6 +959,14 @@ Otras formas de tortura podrían no producir secuelas físicas, pero podrían se
 
 Las testigos y los sobrevivientes a tortura son fundamentales para documentar las torturas. En la medida de que hayan evidencias físicas de que la tortura exista, brinda importante prueba de confirmación de que una persona efectivamente haya sido torturada.
 
+Una evaluación médica por propósitos legales tendría que ser conducta con objetividad y imparcialidad. La obligación ética de beneficencia exige que no se comprometa la exactitud y la imparcialidad de manera de establecer  y mantener una credibilidad profesional. Los médicos que hagan las evaluaciones de detenidos tendrían que tener formación especifica esencial en la documentación forense de torturas y otras formas de abusos físicos y psicológicos. 
+
+Los hallazgos que indiquen que haya habido tortura u otras formas de malos tratos tienen que no ser excluidos de un reporte médico legal debajo de ningún tipo de circunstancias.
+
+#### Estructura de la entrevista
+
+Una entrevista de dos a cuatro horas podría ser insuficiente para ejercer una evaluación física o psicológica que prueben la existencia de tortura.
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
