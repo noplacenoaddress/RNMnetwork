@@ -965,7 +965,7 @@ Los hallazgos que indiquen que haya habido tortura u otras formas de malos trato
 
 #### Estructura de la entrevista
 
-Una entrevista de dos a cuatro horas podría ser insuficiente para ejercer una evaluación física o psicológica que prueben la existencia de tortura.
+Una entrevista de dos a cuatro horas podría ser insuficiente para ejercer una evaluación física o psicológica que prueben la existencia de tortura. La cara de una victima que sufra de impotencia de haber su intimidad entrometida, el miedo de persecuciones futuras, vergüenza por lo sucedido y el sentido de culpa del sobreviviente podrían simular las circunstancias 
 
 ###  External links 
 
