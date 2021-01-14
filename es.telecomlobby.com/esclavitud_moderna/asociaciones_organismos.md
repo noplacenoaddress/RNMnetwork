@@ -951,6 +951,14 @@ Yo por ejemplo he pasado un periodo de deterioro físico y mental en 2018 y 2019
 
 Otras formas de tortura podrían no producir secuelas físicas, pero podrían ser asociadas con otras condiciones. Por ejemplo un traumatismo de la cabeza que resulte en una perdida de consciencia puede generar epilepsia postraumática y una **disfunción orgánica del cerebro** [[164]](https://es.wikipedia.org/wiki/S%C3%ADndrome_org%C3%A1nico_cerebral). Una alimentación pobre y falta higiene en la celda de detención podrían ser causa de una deficiencia de **vitaminas** [[165]](https://es.wikipedia.org/wiki/Vitamina). 
 
+### Pruebas físicas de tortura
+
+![](https://telecomlobby.com/Images/hotel_resplendor.webp)
+
+**El resplandor** [[166]](https://bit.ly/39vof2Q) una película de Hollywood. Porqué la utilizo como imagen hablando de torturas?
+
+Las testigos y los sobrevivientes a tortura son fundamentales para documentar las torturas. En la medida de que hayan evidencias físicas de que la tortura exista, brinda importante prueba de confirmación de que una persona efectivamente haya sido torturada.
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1282,6 +1290,8 @@ Otras formas de tortura podrían no producir secuelas físicas, pero podrían se
 164. https://es.wikipedia.org/wiki/S%C3%ADndrome_org%C3%A1nico_cerebral
 
 165. https://es.wikipedia.org/wiki/Vitamina
+
+166. https://bit.ly/39vof2Q
 
      
 
