@@ -175,6 +175,10 @@ He's always talking about chemical  and obsessions. This man is totally guilty.
 
 On January 10 of 2021 I was just speaking about torture in my social network because of public complaints about electronic weapons that a fascist family from Genoa is using to torture me. My father, a stupid, tell me to just shutdown my public complaint. This is the only true.
 
+![](https://telecomlobby.com/Images/mipadre_secuestradore_virtual.webp)
+
+I'm doing a complaint to denunciate a mobile thief from the head of the non state actor Mafia and my father promptly send me this shit. He's totally guilty to see her son to be tortured.
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)

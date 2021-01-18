@@ -205,6 +205,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 15/1/2021 **Francesca** just say that she model my face with electronic weapons to change my aspect.
 - 17/1/2021 **Andreu** because I'm doing a complaint against him and some fellow from his non state actors crew is heavy torture me in front of high level aristocracy of this country and no one do or say nothing. This is absurd and a total scandal. Andreu is very common to be a secret agent from CNI of Spain. But I don't even know exactly perhaps he is only a soldier from Spanish Navy.
 - 17/1/2021 **Francesca** just say to me that she want to kill me.
+- 17/1/2021 I'm writing a complaint and **Andreu** is torturing me with electronic weapons.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
