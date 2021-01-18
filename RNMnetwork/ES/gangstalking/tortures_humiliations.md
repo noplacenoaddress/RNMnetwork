@@ -206,6 +206,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 17/1/2021 **Andreu** because I'm doing a complaint against him and some fellow from his non state actors crew is heavy torture me in front of high level aristocracy of this country and no one do or say nothing. This is absurd and a total scandal. Andreu is very common to be a secret agent from CNI of Spain. But I don't even know exactly perhaps he is only a soldier from Spanish Navy.
 - 17/1/2021 **Francesca** just say to me that she want to kill me.
 - 17/1/2021 I'm writing a complaint and **Andreu** is torturing me with electronic weapons.
+- 18/1/2021 Same as usual. Torture, torture and more torture.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
@@ -245,6 +246,14 @@ Here I am in November 2018 one year after my electronic torture started. I was s
 - Military development of neural application.
 - Big Data sold to third parties.
 - Torture. Sleep deprivation, extreme stress and something similar to the **foot whipping** [[13]](https://en.wikipedia.org/wiki/Foot_whipping) torture. A torture that was used by soldiers in Iraq and in the **Greek junta** [[14]](https://en.wikipedia.org/wiki/Greek_junta). Remember that Sofia of Greece is from that country, she was the queen of Spain.
+
+Those are some results about this indirected inflicted torture, remember that this torture was planned, executed perfectly and in a indirected mode, and was full of pain and suffering also about my ex girlfriend. A woman destroyed by the slavery network. A woman utilized like a bitch from soldiers, secret services and Mafia:
+
+![](https://telecomlobby.com/Images/1_foot.webp)
+
+![](https://telecomlobby.com/Images/2_foot.webp)
+
+![](https://telecomlobby.com/Images/3_foot.webp)
 
 ### Videos about electronic violations
 
