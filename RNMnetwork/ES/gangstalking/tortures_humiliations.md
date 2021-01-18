@@ -247,6 +247,14 @@ Here I am in November 2018 one year after my electronic torture started. I was s
 - Big Data sold to third parties.
 - Torture. Sleep deprivation, extreme stress and something similar to the **foot whipping** [[13]](https://en.wikipedia.org/wiki/Foot_whipping) torture. A torture that was used by soldiers in Iraq and in the **Greek junta** [[14]](https://en.wikipedia.org/wiki/Greek_junta). Remember that Sofia of Greece is from that country, she was the queen of Spain.
 
+Those are some results about this indirected inflicted torture, remember that this torture was planned, executed perfectly and in a indirected mode, and was full of pain and suffering also about my ex girlfriend. A woman destroyed by the slavery network. A woman utilized like a bitch from soldiers, secret services and Mafia:
+
+![](https://telecomlobby.com/Images/1_foot.webp)
+
+![](https://telecomlobby.com/Images/2_foot.webp)
+
+![](https://telecomlobby.com/Images/3_foot.webp)
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
