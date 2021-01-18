@@ -237,6 +237,15 @@ Here it was **19 of October of 2017**, one month and eight days after I was been
 
 Here was **2 of November 2017**, twenty five days after I was inserted into daily tortures and humiliations. I always have been a very good man with all. I don't really know why I'm suffering this hell in front of many persons that I've known in my life. Here I found evidences of the identity of the Catalan head of this facility. A facility that take money to suicide businessman from foreign countries that work in Catalunya. This is the only true but the worst think is that also my parents have participated to the systematic destruction of my life. Full stop.  Has you can see here my hairs I was losing my hair, I had already suffered various attacks of gang stalking and gaslight. More than a hundred people had closed and threatened me in a club. A hell was about to unveil before my eyes, the hell of a sect dedicated to suicide under commission by Catalan entrepreneurs and under the super vision of Catalan, Spanish and Italian aristocrats. **Francesca** is the instigator of my tragedy and the suicide and murder of several of my friends.
 
+![](https://telecomlobby.com/Images/riccardo_giuntoli_25102018.webp)
+
+Here I am in November 2018 one year after my electronic torture started. I was searching for Saray because in the vision machine she always say to me that they violate her. I walk for three thousand kilometers. This was done for:
+
+- Remote parimutuel betting system, people that I've known in my life in my neural application bet over whatever I'm doing.
+- Military development of neural application.
+- Big Data sold to third parties.
+- Torture. Sleep deprivation, extreme stress and something similar to the **foot whipping** [[13]](https://en.wikipedia.org/wiki/Foot_whipping) torture. A torture that was used by soldiers in Iraq and in the **Greek junta** [[14]](https://en.wikipedia.org/wiki/Greek_junta). Remember that Sofia of Greece is from that country, she was the queen of Spain.
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
@@ -257,5 +266,7 @@ On 27 of June of 2020 I was violated by the wireless brain machine interface, a 
 10. https://en.wikipedia.org/wiki/Sleep_deprivation
 11. https://en.wikipedia.org/wiki/Diarrhea
 12. https://en.wikipedia.org/wiki/Eardrum
-13. http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm
-14. https://www.flickr.com/photos/shadowcaster57/2211381013
+13. https://en.wikipedia.org/wiki/Foot_whipping
+14. https://en.wikipedia.org/wiki/Greek_junta
+15. http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm
+16. https://www.flickr.com/photos/shadowcaster57/2211381013
