@@ -308,6 +308,14 @@ Has you can appreciate in Viladecans signal is very high, -48 dBm is very strong
 
 ![Scam numbers](http://telecomlobby.com/Images/amenazas_telefonicas.webp)
 
+### Timeline
+
+![](https://telecomlobby.com/Images/timeline.webp)
+
+From 2013 I was inserted into a chain of systematic destruction of my life until in 27 of November 2017 I start suffering of electronic torture all day long. 
+
+The most interesting think is that in my chain of destruction have take part who I considered my love, my  best friends and my family. 
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
