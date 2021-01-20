@@ -316,6 +316,12 @@ From 2013 I was inserted into a chain of systematic destruction of my life until
 
 The most interesting think is that in my chain of destruction have take part who I considered my love, my  best friends and my family. 
 
+### Electromagnetic weapons wounds
+
+![](https://telecomlobby.com/Images/heridas_armas_electronicas.webp)
+
+![](https://telecomlobby.com/Images/heridas_armas_electronicas_2.webp)
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
