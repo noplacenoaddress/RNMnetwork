@@ -1009,6 +1009,47 @@ En mi caso detallar la cronología de los echos antecedentes la cibertortura, y 
 
 Informaciones vitales incluyen los sistemas de torturas, la posición del cuerpo, los métodos de restricción, descripción de heridas agudas o crónicas  y de las discapacidades además de identificar informaciones acerca de los perpetradores y los sitios de detención. Mientras de que es esencial obtener información exacta acerca de la experiencia de los supervivientes a torturas, las entrevistas con métodos de final abierto requieren que los pacientes tienen que revelar estas experiencias con sus propias palabras también utilizando un técnica llamada «**free recall** [[168]](https://en.wikipedia.org/wiki/Free_recall)».
 
+Un individuo que ha sobrevivido a torturas podrían haber problemas en expresarse con palabras adecuadas sus experiencias y síntomas. En algún caso, podría ser útil utilizar listas de chequeo o cuestionarios acerca de traumas y síntomas. Si el entrevistado cree que pueda ser útil, hay muchos cuestionarios disponibles; aunque, ninguno es especifico por victimas de torturas. Todas las denuncias hechas por parte de un sobreviviente de torturas, como yo, son importantes. A pesar de que podría no haber relación con las evidencias físicas, tienen que ser detallados. Los síntomas y las discapacidades agudas y crónicas asociadas con una forma especifica de abuso y el consecuente proceso de curación tendrían que ser documentados.
+
+A la victima se tendría que preguntar de describir cualquier herida que puede haber sido resultada de un método especifico de supuesto abuso. Puede ser por ejemplo de:
+
+- Desangrado. Por armas electromagnéticas he tenido desangrado del oído y del ano. 
+- Moretones. Por palizas.
+- Hinchazón. Por palizas
+- Heridas abiertas. Por un disparo de una escopeta. 
+- Laceraciones. Por el accidente.
+- Fracturas dislocadas. Por el accidente.
+- Estrés articular. Por los kilómetros recurridos buscando a mi ex pareja.
+- **Hemoptisis** [[169]](https://es.wikipedia.org/wiki/Hemoptisis)
+- **Perforación de la membrana timpánica** [[170]](https://es.wikipedia.org/wiki/Rotura_del_t%C3%ADmpano) por neumotórax. Por armas electromagnéticas, creo que pero únicamente una inflamación.
+- Lesiones del sistema genitourinario
+- Quemaduras. Por armas electromagnéticas.
+- Heridas por corriente eléctrica. Por armas electromagnéticas.
+- Heridas por agentes químicos. He sido amenazado de.
+- Dolor. Por armas electromagnéticas, sobre todo al cerebro. 
+- Entumecimiento
+- Estreñimiento
+- Vómitos. Por armas electromagnéticas y por una intoxicación hecha como tortura sin rastros por parte de maquinista, un torturado que tortura.
+
+La intensidad la frecuencia y duración de cada síntomas debe ser anotada. El desarrollo de cualquier lesión cutánea tendría que ser descrita indicando si dejaron cicatrices o no. Siempre preguntar acerca del estado de salud cuando  se termine; la victima ha podido irse caminando o ha sido confinada en la cama? Si ha sido obligada en la cama por cuanto ha sido? Cuanto han necesitado las heridas para curarse? Se han infectado? Que tratamiento ha sido recibido? Lo ha curado un médico o un curandero? Tener cuidado ya que la habilidad de la victima de hacer estas observaciones podría haber sido comprometida por parte de la misma tortura o sus secuelas y tendría que ser documentado.
+
+Obtener informaciones acerca de las dolencias físicas que la victima piensa que sean asociadas a la tortura o malos tratos. Anotar la severidad, la frecuencia y duración de cada síntoma y cualquier deficiencia asociada o la necesidad de ayuda médica o psicológica. Aun cuando las secuelas de las lesiones agudas no se puedan apreciar por meses o hasta por años después, algún descubrimiento físico podría ser posible de encontrar, como cicatrices por quemaduras eléctricas o térmicas, deformidades esqueléticas, fracturas curadas incorrectamente, lesiones dentales, perdida de pelo y miofibrosis. Quejas somáticas comunes incluyen:
+
+- Dolor de cabeza. Sufro de el a causa de la tortura electrónica a la cual estoy sujeto cada noche.
+- Dolor de espalda. Sufro de un dolor a la espalda derecha, como si fuera pulmonar, provocado siempre por las armas electromagnéticas. 
+- Síntomas gastrointestinales. Sufro a veces de ellos siempre a causa de las armas electromagnéticas.
+- Disfunción sexual. A veces sufro de ella siempre a causa de las armas electromagnéticas ya que mi torturadora, mi ex pareja, muchas veces me sobre estimula los genitales.
+- Dolor muscular. He tenido a veces calambres musculare tanto por la tortura inducida por los kilómetros recurridos cuanto por armas electromagnéticas. 
+
+Síntomas psicológicos comunes incluyen:
+
+- Depresión. Muchas veces, por el hecho de haber sido traicionado tanto por mi ex pareja, cuanto por muchas personas que he frecuentado en Barcelona y a las cuales tengo mucho cariño, lloro.
+- Ansiedad. 
+- Insomnio. Siempre debido a la tortura electrónica algunas noches no puedo descansar correctamente las horas debidas para descansar según mi edad.
+- Pesadillas. En la red de monitorio neuronal los sueños, porqué nos han robado hasta ellos, son inyectados de forma artificial en nuestro cerebro por parte de la maquina de visión.
+- **Analepsis** [[171]](https://es.wikipedia.org/wiki/Analepsis). Lo utilizan de forma artificial los acosadores de la banda de actores no estatales que opera en Barcelona para confundir la mente de las victimas. 
+- Dificultades en recordar. Personalmente tengo bastante dificultades en recordar pequeñas cosas momentos después de haberlas aprendidas. La capacidad de aprendizaje es enormemente afectada por parte de armas electromagnéticas. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1346,6 +1387,12 @@ Informaciones vitales incluyen los sistemas de torturas, la posición del cuerpo
 167. https://dle.rae.es/meticuloso
 
 168. https://en.wikipedia.org/wiki/Free_recall
+
+169. https://es.wikipedia.org/wiki/Hemoptisis
+
+170. https://es.wikipedia.org/wiki/Rotura_del_t%C3%ADmpano
+
+171. https://es.wikipedia.org/wiki/Analepsis
 
      
 
