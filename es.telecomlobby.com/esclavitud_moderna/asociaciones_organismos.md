@@ -973,9 +973,29 @@ En el campo de Barcelona se requiere sin duda ninguna de expertos para entender 
 
 Los médicos tendrían que ser conscientes de su tonalidad de voz, de la manera de parafrasear y secuenciar sus preguntas acerca de la tortura. Las preguntas intimas tienen que hacerse únicamente después se haya instaurado una cierta relación de confianza entra las victimas y el personal cualificado.
 
-Cada persona tendría que ser examinada individualmente en toda privacidad. Algo totalmente imposible si la victima, el individuo objetivo, la persona explotada y torturada es un preso del cárcel panóptico de Barcelona. El personal cualificado tendría antes de todo averiguar si la persona tienen sus neuronas sobre excitadas midiendo el campo electromagnéticos cercano a la cabeza de ellos.  Si así fuera tendría que desconectar la persona de la red de explotación, algo que todavía no he conseguido al cien por cien al día de 20 de Enero de 2021 después de casi tres años de investigaciones aunque me haya enfocado únicamente en la parte de derecho internacional y nacional acerca de tortura y explotación.
+Cada persona tendría que ser examinada individualmente en toda privacidad. 
 
+Totalmente imposible si la victima, el individuo objetivo, la persona explotada y torturada es un preso del cárcel panóptico de Barcelona. El personal cualificado tendría antes de todo averiguar si la persona tienen sus neuronas sobre excitadas midiendo el campo electromagnéticos cercano a la cabeza de ellos.  Si así fuera tendría que desconectar la persona de la red de explotación, algo que todavía no he conseguido al cien por cien al día de 20 de Enero de 2021 después de casi tres años de investigaciones aunque me haya enfocado únicamente en la parte de derecho internacional y nacional acerca de tortura y explotación.
 
+Cada persona tendría que ser informada sobre cualquier limite de la confidencialidad de la evaluación que podría ser imposta por el Estado o las autoridades judiciales. 
+
+Inútil subrayar que en el cárcel panóptico de tercera generación el Estado, tanto Español cuanto Italiano, es muy lamentablemente presente.
+
+Además de que si una persona es detenida, como lo es efectivamente en esta infraestructura transmitida por parte de armas electromagnéticas, el reporte tendría que ser sellado por parte de su abogado o bien por otro oficial de salud.
+
+Las victimas podrían tener miedo que la información desvelada en el contexto de cualquier evaluación podría no estar al seguro de gobiernos perseguidores. Miedo a la falta de confianza podría ser particularmente fuerte en el caso donde médicos u otros trabajadores de la salud han sido participes en las torturas. En muchas circunstancias, el evaluador podría ser un miembro de la cultura y etnia mayoritaria en el país mientras de que la victima podría ser de un grupo minoritario, cultura o yo añadiría política. 
+
+Empatía y contacto humano podrían ser las cosas más importantes que las personas detenidas reciban del investigador. 
+
+En mi caso yo soy tanto victima cuanto investigador cuanto persona que tener empatía con los otros presos del cárcel panóptico. Todavía a fecha de 20 de Enero de 2021 no he obtenido lo que he estado buscando, una abertura de sus partes admitiendo de ser también torturados y presos del panóptico. Únicamente un militar me ha echo entender aunque no con palabras exactas que sabía de lo que estaba hablando. 
+
+#### Historial médico 
+
+Obtener un historial médico completo es fundamental incluidas informaciones acerca de problemas médicos antecedentes, quirúrgicos o psiquiátricos.  
+
+En el campo de Barcelona, campo también de acoso de pandillas y de una Mafia que ha infectado hasta infraestructuras públicas de sanidad como he detectado yo mismo en el caso del hospital Clinic de Barcelona, hay que tener sumo cuidado sobre todo cuando se habla de historial de psiquiatría. Hay bastante personal médico que a través de la red de explotación gana dinero en bitcoin, rompe el secreto profesional y recepta drogas psicotropicas para siempre ampliar el ambiente de tortura y de silencio sobre esta triste realidad.
+
+  
 
 ###  External links 
 
