@@ -999,6 +999,16 @@ Estar seguro de documentar cualquier historial de injurias antes del periodo de 
 
 Personalmente antes de ser encarcelado en el panóptico moderno he pasado malos tratos, traiciones, inducción al colapso económico, un intento de asesinado, una operación quirúrgica y una detención para un crimen ridículo. Todo ha sido hábilmente orquestado a través de la red de monitorio neuronal, la misma red de explotación que tiene otro servicios además del cárcel. 
 
+Evitar las preguntas principales. Estructurar las consultas para obtener un final abierto, un relato cronológico de los eventos vividos durante la detención. 
+
+Las informaciones especificas cronológicas podrían ser útiles en relacionar prácticas de tortura de la zona con alegaciones individuales de abusos.
+
+En mi caso detallar la cronología de los echos antecedentes la cibertortura, y la tortura inducida como el haber recurrido más de 3.000 km a píes para buscar a mi ex pareja en la ciudad de Barcelona desde Julio 2018, han servido y servirán a encarcelar todas las personas que han tomado parte a mi explotación. Amigos, ex parejas, nobles y militares de la Armada y de la Marina Italiana. Es el así dicho juego del techno. El hecho de no haber encontrado a Saray el 11 de Noviembre 2020 día de los veteranos de Estados Unidos representa por mi una victoria contra los absolutismo derechistas. Mi hijo no será material de combustión de la maquina de vapor. La maquina de visión. La red de monitorio neuronal. Una de las tres tecnologías utilizadas para construir en cima de nuestro cerebro el cárcel panóptico de tercera generación. 
+
+![](https://telecomlobby.com/Images/free_recall.webp)
+
+Informaciones vitales incluyen los sistemas de torturas, la posición del cuerpo, los métodos de restricción, descripción de heridas agudas o crónicas  y de las discapacidades además de identificar informaciones acerca de los perpetradores y los sitios de detención. Mientras de que es esencial obtener información exacta acerca de la experiencia de los supervivientes a torturas, las entrevistas con métodos de final abierto requieren que los pacientes tienen que revelar estas experiencias con sus propias palabras también utilizando un técnica llamada «**free recall** [[168]](https://en.wikipedia.org/wiki/Free_recall)».
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1334,6 +1344,8 @@ Personalmente antes de ser encarcelado en el panóptico moderno he pasado malos 
 166. https://bit.ly/39vof2Q
 
 167. https://dle.rae.es/meticuloso
+
+168. https://en.wikipedia.org/wiki/Free_recall
 
      
 
