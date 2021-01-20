@@ -1056,6 +1056,8 @@ En el caso de la cibertortura un diario donde se apunte cada tipo de injuria por
 
 > La maquina de visión es un artilugio que ha sido pensado por parte de la élite para crear esclavos y torturados de una forma prácticamente no detectable por parte de naciones unidas. Algo que tiene que obligadamente salir a la luz, ya que detrás hay lo que era el Nazismo. Que todavía existe y es practicado en la nuestra Europa enmascarado con un juego de la aristocracia. 
 
+
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
