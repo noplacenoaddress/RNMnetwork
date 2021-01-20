@@ -1050,6 +1050,12 @@ Síntomas psicológicos comunes incluyen:
 - **Analepsis** [[171]](https://es.wikipedia.org/wiki/Analepsis). Lo utilizan de forma artificial los acosadores de la banda de actores no estatales que opera en Barcelona para confundir la mente de las victimas. 
 - Dificultades en recordar. Personalmente tengo bastante dificultades en recordar pequeñas cosas momentos después de haberlas aprendidas. La capacidad de aprendizaje es enormemente afectada por parte de armas electromagnéticas. 
 
+Aunque las lesiones agudas pueden ser especificas de las injurias alegadas, la mayoría de lesiones se curan dentro de las seis semanas después de la tortura, sin dejas signos o por lo menos signos no específicos. Esto muchas veces son los casos en los cuales los torturadores utilizan técnicas que evitan o limitan los signos detectables de injurias. Debajo de dichas circunstancias el examen físico tendría que ser hecho dentro de un tiempo razonable aunque de ninguna manera tienen que negar alegaciones de tortura. Un resumen detallado de las observaciones del paciente de lesiones agudas y el consecuente proceso de cura muchas veces representa un importante fuente de evidencia en corroborar alegaciones especificas de torturas o malos tratos. 
+
+En el caso de la cibertortura un diario donde se apunte cada tipo de injuria por parte de la victima es fundamental ya que las armas electromagnéticas dejan signos muy leves que se pueden atribuir a otras fuentes.
+
+> La maquina de visión es un artilugio que ha sido pensado por parte de la élite para crear esclavos y torturados de una forma prácticamente no detectable por parte de naciones unidas. Algo que tiene que obligadamente salir a la luz, ya que detrás hay lo que era el Nazismo. Que todavía existe y es practicado en la nuestra Europa enmascarado con un juego de la aristocracia. 
+
 ###  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
