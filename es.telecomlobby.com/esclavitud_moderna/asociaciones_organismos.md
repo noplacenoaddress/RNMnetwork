@@ -965,7 +965,17 @@ Los hallazgos que indiquen que haya habido tortura u otras formas de malos trato
 
 #### Estructura de la entrevista
 
-Una entrevista de dos a cuatro horas podría ser insuficiente para ejercer una evaluación física o psicológica que prueben la existencia de tortura. La cara de una victima que sufra de impotencia de haber su intimidad entrometida, el miedo de persecuciones futuras, vergüenza por lo sucedido y el sentido de culpa del sobreviviente podrían simular las circunstancias 
+Una entrevista de dos a cuatro horas podría ser insuficiente para ejercer una evaluación física o psicológica que prueben la existencia de tortura. La cara de una victima que sufra de impotencia de haber su intimidad entrometida, el miedo de persecuciones futuras, vergüenza por lo sucedido y el sentido de culpa del sobreviviente podrían simular las circunstancias de otra experiencia de tortura. Esto podría augmentar la ansiedad del paciente y resistencia en contar información relevante. 
+
+Ganar la confianza de alguien que ha pasado tortura u otras formas de abusos requiere por parte del entrevistador una escucha positiva, una método de comunicación **meticuloso** [[167]](https://dle.rae.es/meticuloso), córtese y una empatía  genuina y mucha honestad. Los médicos deben tener una capacidad tal de crear un clima de confianza en el cual el divulgar de echos cruciales, a través probablemente de algo muy doloroso o vergonzoso, podría pasar. Es importante tener en cuenta que dichos echos alguna vez son secretos íntimos que una persona podría relevar en aquel momento por primera vez.
+
+En el campo de Barcelona se requiere sin duda ninguna de expertos para entender el daño inmenso que la torre del cárcel panóptico de tercera generación ha hecho sobre la población civil. Junto a ella, siempre en la misma torre, pero en los tramos inferiores, los medio de audiovisuales, en especie las transmisiones del grupo de Silvio Berlusconi, no han hecho tampoco ningún tipo de favor. La población Catalana de clase baja y obrera tiene un muy serio problema de lavado de cerebro masivo. Algo impresionante. 
+
+Los médicos tendrían que ser conscientes de su tonalidad de voz, de la manera de parafrasear y secuenciar sus preguntas acerca de la tortura. Las preguntas intimas tienen que hacerse únicamente después se haya instaurado una cierta relación de confianza entra las victimas y el personal cualificado.
+
+Cada persona tendría que ser examinada individualmente en toda privacidad. Algo totalmente imposible si la victima, el individuo objetivo, la persona explotada y torturada es un preso del cárcel panóptico de Barcelona. El personal cualificado tendría antes de todo averiguar si la persona tienen sus neuronas sobre excitadas midiendo el campo electromagnéticos cercano a la cabeza de ellos.  Si así fuera tendría que desconectar la persona de la red de explotación, algo que todavía no he conseguido al cien por cien al día de 20 de Enero de 2021 después de casi tres años de investigaciones aunque me haya enfocado únicamente en la parte de derecho internacional y nacional acerca de tortura y explotación.
+
+
 
 ###  External links 
 
@@ -1300,6 +1310,8 @@ Una entrevista de dos a cuatro horas podría ser insuficiente para ejercer una e
 165. https://es.wikipedia.org/wiki/Vitamina
 
 166. https://bit.ly/39vof2Q
+
+167. https://dle.rae.es/meticuloso
 
      
 
