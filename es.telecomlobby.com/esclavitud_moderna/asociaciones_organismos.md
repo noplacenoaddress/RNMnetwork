@@ -995,7 +995,9 @@ Obtener un historial médico completo es fundamental incluidas informaciones ace
 
 En el campo de Barcelona, campo también de acoso de pandillas y de una Mafia que ha infectado hasta infraestructuras públicas de sanidad como he detectado yo mismo en el caso del hospital Clinic de Barcelona, hay que tener sumo cuidado sobre todo cuando se habla de historial de psiquiatría. Hay bastante personal médico que a través de la red de explotación gana dinero en bitcoin, rompe el secreto profesional y recepta drogas psicotropicas para siempre ampliar el ambiente de tortura y de silencio sobre esta triste realidad.
 
-  
+Estar seguro de documentar cualquier historial de injurias antes del periodo de detención y cualquier posible efecto consecuente.  
+
+Personalmente antes de ser encarcelado en el panóptico moderno he pasado malos tratos, traiciones, inducción al colapso económico, un intento de asesinado, una operación quirúrgica y una detención para un crimen ridículo. Todo ha sido hábilmente orquestado a través de la red de monitorio neuronal, la misma red de explotación que tiene otro servicios además del cárcel. 
 
 ###  External links 
 
