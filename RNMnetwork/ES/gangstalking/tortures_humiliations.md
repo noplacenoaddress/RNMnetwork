@@ -209,6 +209,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 18/1/2021 Same as usual. Torture, torture and more torture.
 - 19/1/2021 An exponent a Sicilian clan just say that a very good friend of mine is propierty of his family. This is because has happened what has happened. Behind this clan that is operating in Genoa and probably in Barcellona Francesca, a marquees, is who is protecting those guys. This woman play at suicide business and they have to play also because of protection. Massimo was a bartender and he had participated to the systematic destruction of my life. 
 - 20/1/2021 Sleep deprivation from 10 pm to 2 am cybertorture in my brain with electronic weapons and sexual harassment from my ex girlfriend.
+- 21/1/2021 sleep deprivation from 9 pm to 1 am cybertorture in my brain like electrocution.
+- 22/2/2021 wakeup with dream injection and strong electrocution at 7:30 am.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
