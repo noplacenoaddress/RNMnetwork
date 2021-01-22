@@ -322,6 +322,8 @@ The most interesting think is that in my chain of destruction have take part who
 
 ![](https://telecomlobby.com/Images/heridas_armas_electronicas_2.webp)
 
+![](https://telecomlobby.com/Images/heridas_cara_armas_electromagneticas.webp)
+
 ### Video collection that prove existence of electronic harassment
 
 ![STOP sexual violence in the RNMnetwork](http://telecomlobby.com/Images/remote_neural_monitoring_network_overwhelming_evidences.webp)
