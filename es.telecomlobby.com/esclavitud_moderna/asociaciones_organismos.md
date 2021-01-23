@@ -1076,6 +1076,10 @@ Las heridas debidas a la tortura tendrían que ser descritas según su locación
 
 En fin el examinador tendría que brindar una opinión de la origen de las lesiones; infligidas o infligidas por si mismos, accidentales o resultado de procesos patológicos.
 
+El tejido facial tendría que ser tocado para buscar evidencias de fracturas, crepitación, hinchazón o dolor. Los componentes motrices y sensoriales, incluido el olor de todos los nervios craneales tendrían que ser examinados. La **tomografía axial computarizada** [[173]](https://es.wikipedia.org/wiki/Tomograf%C3%ADa_axial_computarizada) es la modalidad para diagnosticar y detallar las fracturas faciales, determinar la alineación y diagnosticar heridas ligeras de tejido y complicaciones. Heridas intracraneales y al **nervio espinal cervical** [[174]](https://es.wikipedia.org/wiki/Nervio_espinal_cervical_1) son muchas veces asociadas con trauma facial. 
+
+Hay muchas formas de trauma a los ojos, incluidas hemorragias a la conjuntivitis, **dislocación del lente intraocular** [[175]](https://telecomlobby.com/RNMnetwork/documents/fact-sheet-24-span-iol_new.pdf)
+
 
 
 
@@ -1425,6 +1429,12 @@ En fin el examinador tendría que brindar una opinión de la origen de las lesio
 171. https://es.wikipedia.org/wiki/Analepsis
 
 172. https://es.wikipedia.org/wiki/Esquema_corporal
+
+173. https://es.wikipedia.org/wiki/Tomograf%C3%ADa_axial_computarizada
+
+174. https://es.wikipedia.org/wiki/Nervio_espinal_cervical_1
+
+175. https://telecomlobby.com/RNMnetwork/documents/fact-sheet-24-span-iol_new.pdf
 
      
 
