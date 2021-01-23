@@ -1064,7 +1064,23 @@ Después de adquirir informaciones de fondo y después de obtener un informe con
 
 Vamos detallando muchas referencias a la derivación a un especialista y una mayor investigación. Es importante para un médico de tener acceso a tratamientos físicos y psicológicos, así que las necesidades identificadas pueden ser seguidas. En muchas situaciones, algunas técnicas de diagnósticos podrían no ser disponibles aunque su ausencias no tendrían que invalidar el reporte. 
 
-En caso de alegados de torturas recientes y cuando la ropa usada durante la tortura son todavía puestas por parte de la victima, tendrían que ser tomadas para un examen sin ser lavadas, y obviamente un set de ropa nueva y limpia tendría que ser brindada. El cuarto de examen tendría que ser equipado con la luz suficiente y el equipamiento médico necesario. Cualquier deficiencia tendría que ser anotada en el reporte. El examinador tendría que anotar todos los hallazgos oportunos tanto positivos cuanto negativos, utilizando **esquemas corporales** [[172]](https://es.wikipedia.org/wiki/Esquema_corporal)
+En caso de alegados de torturas recientes y cuando la ropa usada durante la tortura son todavía puestas por parte de la victima, tendrían que ser tomadas para un examen sin ser lavadas, y obviamente un set de ropa nueva y limpia tendría que ser brindada. El cuarto de examen tendría que ser equipado con la luz suficiente y el equipamiento médico necesario. Cualquier deficiencia tendría que ser anotada en el reporte. El examinador tendría que anotar todos los hallazgos oportunos tanto positivos cuanto negativos, utilizando **esquemas corporales** [[172]](https://es.wikipedia.org/wiki/Esquema_corporal) para apuntar la posición y la naturaleza de las heridas. Alguna forma de tortura como el electrochoque o el traumatismo cerrado podría ser non detectable con un examen superficial, pero podría ser detectado con un examen mas concreto. 
+
+El tomar fotografías tendría que hacer parte de la rutina de examen. Si una camera es disponible siempre es mejor tomar fotografías de calidad inferior que no tomar ninguna. Tienen que ser acompañadas lo antes posible de fotografías profesionales.
+
+El examen tendría que incluir toda la piel del cuerpo para detectar trazas dolencias generales incluidas deficiencias de vitaminas A, B y C, lesiones infligidas anteriormente o durante la tortura, como abrasiones, contusiones, laceraciones, pinchazos, quemaduras de cigarros o instrumentos calientes, heridas eléctricas, alopecia o remoción de uñas.
+
+Personalmente sufro de alopecia debida a la continua tortura debida a armas electromagnéticas.  
+
+Las heridas debidas a la tortura tendrían que ser descritas según su locación, simetría, contorno, magnitud, color y exterior.
+
+En fin el examinador tendría que brindar una opinión de la origen de las lesiones; infligidas o infligidas por si mismos, accidentales o resultado de procesos patológicos.
+
+El tejido facial tendría que ser tocado para buscar evidencias de fracturas, crepitación, hinchazón o dolor. Los componentes motrices y sensoriales, incluido el olor de todos los nervios craneales tendrían que ser examinados. La **tomografía axial computarizada** [[173]](https://es.wikipedia.org/wiki/Tomograf%C3%ADa_axial_computarizada) es la modalidad para diagnosticar y detallar las fracturas faciales, determinar la alineación y diagnosticar heridas ligeras de tejido y complicaciones. Heridas intracraneales y al **nervio espinal cervical** [[174]](https://es.wikipedia.org/wiki/Nervio_espinal_cervical_1) son muchas veces asociadas con trauma facial. 
+
+Hay muchas formas de trauma a los ojos, incluidas hemorragias a la conjuntivitis, **dislocación del lente intraocular** [[175]](https://telecomlobby.com/RNMnetwork/documents/fact-sheet-24-span-iol_new.pdf)
+
+
 
 
 
@@ -1413,6 +1429,12 @@ En caso de alegados de torturas recientes y cuando la ropa usada durante la tort
 171. https://es.wikipedia.org/wiki/Analepsis
 
 172. https://es.wikipedia.org/wiki/Esquema_corporal
+
+173. https://es.wikipedia.org/wiki/Tomograf%C3%ADa_axial_computarizada
+
+174. https://es.wikipedia.org/wiki/Nervio_espinal_cervical_1
+
+175. https://telecomlobby.com/RNMnetwork/documents/fact-sheet-24-span-iol_new.pdf
 
      
 
