@@ -1056,6 +1056,16 @@ En el caso de la cibertortura un diario donde se apunte cada tipo de injuria por
 
 > La maquina de visión es un artilugio que ha sido pensado por parte de la élite para crear esclavos y torturados de una forma prácticamente no detectable por parte de naciones unidas. Algo que tiene que obligadamente salir a la luz, ya que detrás hay lo que era el Nazismo. Que todavía existe y es practicado en la nuestra Europa enmascarado con un juego de la aristocracia. 
 
+#### El examen físico 
+
+![](https://telecomlobby.com/Images/esquema_corporal.webp)
+
+Después de adquirir informaciones de fondo y después de obtener un informe consensual por parte de la victima, un examen completo físico por parte de un médico cualificado tendría que ser hecho. La victima tendría que ser capaz de elegir el genero del médico y cuando necesario el del interprete. La victima tiene que tener claro que tiene el poder y el derecho de limitar el examen o de parar en cualquier momento.
+
+Vamos detallando muchas referencias a la derivación a un especialista y una mayor investigación. Es importante para un médico de tener acceso a tratamientos físicos y psicológicos, así que las necesidades identificadas pueden ser seguidas. En muchas situaciones, algunas técnicas de diagnósticos podrían no ser disponibles aunque su ausencias no tendrían que invalidar el reporte. 
+
+En caso de alegados de torturas recientes y cuando la ropa usada durante la tortura son todavía puestas por parte de la victima, tendrían que ser tomadas para un examen sin ser lavadas, y obviamente un set de ropa nueva y limpia tendría que ser brindada. El cuarto de examen tendría que ser equipado con la luz suficiente y el equipamiento médico necesario. Cualquier deficiencia tendría que ser anotada en el reporte. El examinador tendría que anotar todos los hallazgos oportunos tanto positivos cuanto negativos, utilizando **esquemas corporales** [[172]](https://es.wikipedia.org/wiki/Esquema_corporal)
+
 
 
 ###  External links 
@@ -1401,6 +1411,8 @@ En el caso de la cibertortura un diario donde se apunte cada tipo de injuria por
 170. https://es.wikipedia.org/wiki/Rotura_del_t%C3%ADmpano
 
 171. https://es.wikipedia.org/wiki/Analepsis
+
+172. https://es.wikipedia.org/wiki/Esquema_corporal
 
      
 
