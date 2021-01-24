@@ -1104,7 +1104,11 @@ Un examen del **tronco** [[193]](https://bit.ly/2KNrx9s), ademas de anotar herid
 
 ![](https://telecomlobby.com/Images/sistema_nervioso_simpatico.webp)
 
-Quejas de dolores **músculos esqueléticos** [[197]](https://es.wikipedia.org/wiki/M%C3%BAsculo_esquel%C3%A9tico) son muy frecuentes en sobrevivientes de torturas. Pueden ser resultado de golpetazos en repetición, suspensión, otras torturas de posición o en general por el ambiente de tortura. Podrían ser también somático. Cuando no sean específicos también tendrían que ser apuntados. Estos tipos de dolores muchas veces no responden bien a la fisioterapia del **sistema nervioso simpático** [[198]](https://es.wikipedia.org/wiki/Sistema_nervioso_simp%C3%A1tico)
+Quejas de dolores **músculos esqueléticos** [[197]](https://es.wikipedia.org/wiki/M%C3%BAsculo_esquel%C3%A9tico) son muy frecuentes en sobrevivientes de torturas. Pueden ser resultado de golpetazos en repetición, suspensión, otras torturas de posición o en general por el ambiente de tortura. Podrían ser también somático. Cuando no sean específicos también tendrían que ser apuntados. Estos tipos de dolores muchas veces no responden bien a la fisioterapia del **sistema nervioso simpático** [[198]](https://es.wikipedia.org/wiki/Sistema_nervioso_simp%C3%A1tico). Dolor con el movimiento, contracturas, potencia, evidencias de **síndrome compartimental** [[199]](https://es.wikipedia.org/wiki/S%C3%ADndrome_compartimental_abdominal), fracturas con o sin deformación y dislocación tendrían que ser anotadas todas. Dislocaciones sospechadas, fracturas y **osteomielitis** [[200]](https://es.wikipedia.org/wiki/Osteomielitis) tendrían que ser evaluadas con radiografías. Por sospechadas osteomielitis, radiografías de rutina tendrían que ser tomadas, seguidas de una gammagrafía de huesos. Lesiones a los tendones, ligamentos y muslos son mejor evaluadas con una MRI, aunque una **artroscopia** [[201]](https://es.wikipedia.org/wiki/Artroscopia) pueda ser ejecutada. En el estadio agudo, esta pueda detectar una **hemorragia** [[202]](https://es.wikipedia.org/wiki/Hemorragia) y posiblemente un **desgarre muscular** [[203]](https://es.wikipedia.org/wiki/Desgarro_muscular). Los muslos normalmente se curan sin cicatrices; así que estudios tardíos serán negativos. Bajo MRI y CT muslos desnervados y síndrome del comportamiento crónico  será mostrada como fibrosos de muslos. Moretones en los huesos puede ser detectada a través de MRI o gammagrafía.
+
+Los exámenes a los genitales tienen que ser hechos únicamente con el consentimiento del paciente. Un **chaperón** [[204]](https://es.wikipedia.org/wiki/Chaper%C3%B3n) tiene que estar presente si el genero de quien hace el examen es diferente de el del paciente. Ecografía y gammagrafía dinámica pueden ser utilizadas para detectar traumas al sistema genital y urinario. 
+
+
 
 
 
@@ -1507,6 +1511,20 @@ Quejas de dolores **músculos esqueléticos** [[197]](https://es.wikipedia.org/w
 197. https://es.wikipedia.org/wiki/M%C3%BAsculo_esquel%C3%A9tico
 
 198. https://es.wikipedia.org/wiki/Sistema_nervioso_simp%C3%A1tico
+
+199. https://es.wikipedia.org/wiki/S%C3%ADndrome_compartimental_abdominal
+
+200. https://es.wikipedia.org/wiki/Osteomielitis
+
+201. https://es.wikipedia.org/wiki/Artroscopia
+
+202. https://es.wikipedia.org/wiki/Hemorragia
+
+203. https://es.wikipedia.org/wiki/Desgarro_muscular
+
+204. https://es.wikipedia.org/wiki/Chaper%C3%B3n
+
+     
 
      
 
