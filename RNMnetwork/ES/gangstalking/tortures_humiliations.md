@@ -211,6 +211,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 20/1/2021 Sleep deprivation from 10 pm to 2 am cybertorture in my brain with electronic weapons and sexual harassment from my ex girlfriend.
 - 21/1/2021 sleep deprivation from 9 pm to 1 am cybertorture in my brain like electrocution.
 - 22/2/2021 wakeup with dream injection and strong electrocution at 7:30 am.
+- 23/1/2021 from 9 pm to 1 am magnetic perturbations in DOMINT and heavy v2k torture. I've got some video. The technology is clearly military. They map all my bedroom with remote transmitted magnetic fields.
+- 24/1/2021 from 8 am to 10 am extreme electroshock torture in the left side part of my brain. Now at 10 am I cannot work, I've got big head cache and inside my brain I fell like vuoto. Who is torture me is Andreu, Saray is present doing me sexual harrassment and in my head they do also dream injection.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
