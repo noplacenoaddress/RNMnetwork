@@ -1080,7 +1080,17 @@ El tejido facial tendría que ser tocado para buscar evidencias de fracturas, cr
 
 Hay muchas formas de trauma a los ojos, incluidas hemorragias a la conjuntivitis, **dislocación del lente intraocular** [[175]](https://telecomlobby.com/RNMnetwork/documents/fact-sheet-24-span-iol_new.pdf) a la cual he sido atentado con una paliza brutal que me dieron en un coche en 2016, hemorragia subhialoidea y de retina, perdida de campo visual.
 
-La tomografía axial computarizada  es la mejor modalidad para diagnosticar fracturas orbitales y heridas del tejido molde al contenido bulbar y retrobulbar. La **imagen de resonancia magnética nuclear** [[176]](https://es.wikipedia.org/wiki/Imagen_por_resonancia_magn%C3%A9tica)
+La tomografía axial computarizada  es la mejor modalidad para diagnosticar fracturas orbitales y heridas del tejido molde al contenido bulbar y retrobulbar. La **imagen de resonancia magnética nuclear** [[176]](https://es.wikipedia.org/wiki/Imagen_por_resonancia_magn%C3%A9tica) puede ser un añadido para identificar heridas en el **tejido suave** [[177]](https://ca.wikipedia.org/wiki/Teixit_tou). Ultra sonido a alta resolución es una alternativa para evaluar trauma del globo ocular.
+
+Los traumas en los oídos, especialmente la ruptura del tímpano, es una consecuencia frecuente de golpes o palizas. 
+
+En el cárcel panóptico moderno tanto por una paliza brutal cuanto por armas electromagnéticas.
+
+El canal del oído y las membranas del tímpano tendrían que ser examinada con un **otoscopio** [[178]](https://es.wikipedia.org/wiki/Otoscopio) y las heridas que vengan descritas. Una forma muy común de tortura, llamada en latino América como «teléfono», hecha con un golpetazo de la palma de las manos del torturador contra uno o dos oídos, aumenta rápidamente la presión en el canal del oído, haciendo un manera que se rompa el tímpano. Un examen rápido es necesario para detectar rupturas de menos de dos milímetros de diámetro, que podría curarse dentro de diez días. Fluidos podrían ser observados en el medio o externo oído. Si se confirma presencia de **otorrea** [[179]](https://it.wikipedia.org/wiki/Otorrea) por parte de análisis de laboratorio, un examen MRI o CT tendría que ser hecho para determinar la posición de la fractura. La presencia de bajada del oído tendría que ser investigada, utilizando simples métodos de detección. Si necesario, test utilizando un **audímetro** [[180]](https://bit.ly/3iF3aY3) tienen que ser efectuados por parte de un técnico cualificado. La ruptura del hueso o de la **cadena osicular** [[181]](https://es.wikipedia.org/wiki/Huesecillos_del_o%C3%ADdo) es diagnosticada mejor por la CT, la **tomografía hipocicloidal** [[182]](https://es.wikipedia.org/wiki/Imagen_m%C3%A9dica) y por última la tomografía linear.
+
+La nariz tendría que ser evaluada por alineamiento, crepitación y desviación del **tabique nasal** [[183]](https://es.wikipedia.org/wiki/Tabique_nasal). Por facturas simple del tabique, radiografías estándar de la nariz tendrían que ser suficientes. Por facturas nasales complejas y cuando el cartílago es desplazado, una CT tendría que ser tomada. Si es presente **rinorrea** [[184]](https://es.wikipedia.org/wiki/Rinorrea), CT o MRI son recomendadas. 
+
+Las fracturas mandibulares o dislocaciones pueden ser resultado de golpetazos. El **trastorno de la articulación temporomandibular** [[185]](https://es.wikipedia.org/wiki/Trastornos_de_la_articulaci%C3%B3n_temporomandibular) es una consecuencia frecuente de haber golpeado la parte inferior de la cara y la **mandíbula** [[186]](https://es.wikipedia.org/wiki/Mand%C3%ADbula). La victima tiene que ser examinada para buscar pruebas de crepitación del hueso **hioides** [[187]](https://es.wikipedia.org/wiki/Hueso_hioides) y los **cartílagos láringeo** [[188]](https://es.wikipedia.org/wiki/Laringe) resultados de golpes al cuello. Hallazgos que conciernen la **orofaringe** [[189]](https://es.wikipedia.org/wiki/Orofaringe)
 
 
 
@@ -1439,6 +1449,32 @@ La tomografía axial computarizada  es la mejor modalidad para diagnosticar frac
 175. https://telecomlobby.com/RNMnetwork/documents/fact-sheet-24-span-iol_new.pdf
 
 176. https://es.wikipedia.org/wiki/Imagen_por_resonancia_magn%C3%A9tica
+
+177. https://ca.wikipedia.org/wiki/Teixit_tou
+
+178. https://es.wikipedia.org/wiki/Otoscopio
+
+179. https://it.wikipedia.org/wiki/Otorrea
+
+180. https://bit.ly/3iF3aY3
+
+181. https://es.wikipedia.org/wiki/Huesecillos_del_o%C3%ADdo
+
+182. https://es.wikipedia.org/wiki/Imagen_m%C3%A9dica
+
+183. https://es.wikipedia.org/wiki/Tabique_nasal
+
+184. https://es.wikipedia.org/wiki/Rinorrea
+
+185. https://es.wikipedia.org/wiki/Trastornos_de_la_articulaci%C3%B3n_temporomandibular
+
+186. https://es.wikipedia.org/wiki/Mand%C3%ADbula
+
+187. https://es.wikipedia.org/wiki/Hueso_hioides
+
+188. https://es.wikipedia.org/wiki/Laringe
+
+189. https://es.wikipedia.org/wiki/Orofaringe
 
      
 
