@@ -1098,9 +1098,13 @@ El cuidado de los dientes en caso de **torturas a largo plazo**, como lo son las
 
 Personalmente estoy bajo tortura de electrochoque dental desde hace décadas. Si que me doy cuenta de ello desde el 27 Noviembre 2017 cuando ha empezado la tortura electrónica de interferencia hacía mis cinco sentidos. Es un tortura continua, a través de corriente continua encanalada dentro de un campo magnético transmitido desde la torre de Collserola en Barcelona.
 
+Una baja calidad de la **dentina** [[192]](https://es.wikipedia.org/wiki/Dentina) podría ser debida a las condiciones de detención o podría ser precedente a la misma. La cavidad oral tiene que ser examinada escrupulosamente. Durante la aplicación de corriente eléctrica, la lengua, las encías o los labios pueden ser mordidos. Lesiones pueden ser producidas forzando objetos o materiales dentro de la boca, como también aplicando corriente eléctrica. Rayos X y MRI son capaces de determinar el grado de traumas en el tejido débil, mandibular y dental.
 
+Un examen del **tronco** [[193]](https://bit.ly/2KNrx9s), ademas de anotar heridas de la piel, tendría que ser dirigida a través la detección de regiones de dolor, de sensibilidad o malestar que podrían reflejar lesiones subcutáneas de los muslos, costillas o órganos internos. **Ecografía** [[194]](https://es.wikipedia.org/wiki/Ecograf%C3%ADa), CT y **gammagrafía ósea** [[195]](https://es.wikipedia.org/wiki/Gammagraf%C3%ADa_%C3%B3sea) tendrían que ser utilizadas para confirmar dichas lesiones. Examen de rutina del **sistema cardiovascular** [[196]](https://es.wikipedia.org/wiki/Aparato_circulatorio) pulmones y abdomen tendrían que ser llevado a cabo en la manera usual. Deficiencias respiratorias normalmente son agravadas en detención, y nuevas deficiencias pueden aparecer.
 
+Quejas de dolores **músculos esqueléticos** [[197]](https://es.wikipedia.org/wiki/M%C3%BAsculo_esquel%C3%A9tico) son muy frecuentes en sobrevivientes de torturas. Pueden ser resultado de golpetazos en repetición, suspensión, otras torturas de posición o en general por el ambiente de tortura. Podrían ser también somático. Cuando no sean específicos también tendrían que ser apuntados. Estos tipos de dolores muchas veces no responden bien a la fisioterapia del **sistema nervioso simpático** [[198]](https://es.wikipedia.org/wiki/Sistema_nervioso_simp%C3%A1tico)
 
+![](https://telecomlobby.com/Images/sistema_nervioso_simpatico.webp)
 
 
 
@@ -1487,6 +1491,20 @@ Personalmente estoy bajo tortura de electrochoque dental desde hace décadas. Si
 190. https://es.wikipedia.org/wiki/Gingivitis
 
 191. https://es.wikipedia.org/wiki/Flem%C3%B3n_dental
+
+192. https://es.wikipedia.org/wiki/Dentina
+
+193. https://bit.ly/2KNrx9s
+
+194. https://es.wikipedia.org/wiki/Ecograf%C3%ADa
+
+195. https://es.wikipedia.org/wiki/Gammagraf%C3%ADa_%C3%B3sea
+
+196. https://es.wikipedia.org/wiki/Aparato_circulatorio
+
+197. https://es.wikipedia.org/wiki/M%C3%BAsculo_esquel%C3%A9tico
+
+198. https://es.wikipedia.org/wiki/Sistema_nervioso_simp%C3%A1tico
 
      
 
