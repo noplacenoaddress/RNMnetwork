@@ -1102,9 +1102,11 @@ Una baja calidad de la **dentina** [[192]](https://es.wikipedia.org/wiki/Dentina
 
 Un examen del **tronco** [[193]](https://bit.ly/2KNrx9s), ademas de anotar heridas de la piel, tendría que ser dirigida a través la detección de regiones de dolor, de sensibilidad o malestar que podrían reflejar lesiones subcutáneas de los muslos, costillas o órganos internos. **Ecografía** [[194]](https://es.wikipedia.org/wiki/Ecograf%C3%ADa), CT y **gammagrafía ósea** [[195]](https://es.wikipedia.org/wiki/Gammagraf%C3%ADa_%C3%B3sea) tendrían que ser utilizadas para confirmar dichas lesiones. Examen de rutina del **sistema cardiovascular** [[196]](https://es.wikipedia.org/wiki/Aparato_circulatorio) pulmones y abdomen tendrían que ser llevado a cabo en la manera usual. Deficiencias respiratorias normalmente son agravadas en detención, y nuevas deficiencias pueden aparecer.
 
+![](https://telecomlobby.com/Images/sistema_nervioso_simpatico.webp)
+
 Quejas de dolores **músculos esqueléticos** [[197]](https://es.wikipedia.org/wiki/M%C3%BAsculo_esquel%C3%A9tico) son muy frecuentes en sobrevivientes de torturas. Pueden ser resultado de golpetazos en repetición, suspensión, otras torturas de posición o en general por el ambiente de tortura. Podrían ser también somático. Cuando no sean específicos también tendrían que ser apuntados. Estos tipos de dolores muchas veces no responden bien a la fisioterapia del **sistema nervioso simpático** [[198]](https://es.wikipedia.org/wiki/Sistema_nervioso_simp%C3%A1tico)
 
-![](https://telecomlobby.com/Images/sistema_nervioso_simpatico.webp)
+
 
 
 
