@@ -1108,7 +1108,7 @@ Quejas de dolores **músculos esqueléticos** [[197]](https://es.wikipedia.org/w
 
 Los exámenes a los genitales tienen que ser hechos únicamente con el consentimiento del paciente. Un **chaperón** [[204]](https://es.wikipedia.org/wiki/Chaper%C3%B3n) tiene que estar presente si el genero de quien hace el examen es diferente de el del paciente. Ecografía y gammagrafía dinámica pueden ser utilizadas para detectar traumas al sistema genital y urinario. 
 
-
+El examen neurológico tendría que evaluar los nervios craneales, los órganos sensoriales y el sistema periférico nervioso, hacer un chequeo de enfermedades neuronales tanto por el sistema motor y sensorial relacionadas con posibles traumas, deficiencias de vitaminas o molestias. Habilidad cognitiva y estado mental tendría también de ser evaluadas. 
 
 
 
