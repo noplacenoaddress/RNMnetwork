@@ -1090,7 +1090,15 @@ El canal del oído y las membranas del tímpano tendrían que ser examinada con 
 
 La nariz tendría que ser evaluada por alineamiento, crepitación y desviación del **tabique nasal** [[183]](https://es.wikipedia.org/wiki/Tabique_nasal). Por facturas simple del tabique, radiografías estándar de la nariz tendrían que ser suficientes. Por facturas nasales complejas y cuando el cartílago es desplazado, una CT tendría que ser tomada. Si es presente **rinorrea** [[184]](https://es.wikipedia.org/wiki/Rinorrea), CT o MRI son recomendadas. 
 
-Las fracturas mandibulares o dislocaciones pueden ser resultado de golpetazos. El **trastorno de la articulación temporomandibular** [[185]](https://es.wikipedia.org/wiki/Trastornos_de_la_articulaci%C3%B3n_temporomandibular) es una consecuencia frecuente de haber golpeado la parte inferior de la cara y la **mandíbula** [[186]](https://es.wikipedia.org/wiki/Mand%C3%ADbula). La victima tiene que ser examinada para buscar pruebas de crepitación del hueso **hioides** [[187]](https://es.wikipedia.org/wiki/Hueso_hioides) y los **cartílagos láringeo** [[188]](https://es.wikipedia.org/wiki/Laringe) resultados de golpes al cuello. Hallazgos que conciernen la **orofaringe** [[189]](https://es.wikipedia.org/wiki/Orofaringe)
+Las fracturas mandibulares o dislocaciones pueden ser resultado de golpetazos. El **trastorno de la articulación temporomandibular** [[185]](https://es.wikipedia.org/wiki/Trastornos_de_la_articulaci%C3%B3n_temporomandibular) es una consecuencia frecuente de haber golpeado la parte inferior de la cara y la **mandíbula** [[186]](https://es.wikipedia.org/wiki/Mand%C3%ADbula). La victima tiene que ser examinada para buscar pruebas de crepitación del hueso **hioides** [[187]](https://es.wikipedia.org/wiki/Hueso_hioides) y los **cartílagos láringeo** [[188]](https://es.wikipedia.org/wiki/Laringe) resultados de golpes al cuello. Hallazgos que conciernen la **orofaringe** [[189]](https://es.wikipedia.org/wiki/Orofaringe) tienen que ser detallados, incluidas lesiones con quemaduras por electrochoque u otros traumas. Hemorragias gingivales y las condiciones de las encías tendrían que ser apuntadas también.
+
+El cuidado de los dientes en caso de **torturas a largo plazo**, como lo son las de la red de explotación transmitida por armas electromagnéticas, podría que ser retenido a propósito para hacer en manera que se formen caries, **gingivitis** [[190]](https://es.wikipedia.org/wiki/Gingivitis) o **abscesos dentales** [[191]](https://es.wikipedia.org/wiki/Flem%C3%B3n_dental). Un historial dental detallado tendría que ser tomado, y, si existen registros dentales, se deben solicitar. Fracturas por avulsión de los dientes, obturaciones dislocadas y prótesis rotas pueden resultar de un traumatismo directo o bien por tortura de electrochoque. 
+
+![](https://telecomlobby.com/Images/dentadura_riccardo_giuntoli.webp)
+
+Personalmente estoy bajo tortura de electrochoque dental desde hace décadas. Si que me doy cuenta de ello desde el 27 Noviembre 2017 cuando ha empezado la tortura electrónica de interferencia hacía mis cinco sentidos. Es un tortura continua, a través de corriente continua encanalada dentro de un campo magnético transmitido desde la torre de Collserola en Barcelona.
+
+
 
 
 
@@ -1475,6 +1483,10 @@ Las fracturas mandibulares o dislocaciones pueden ser resultado de golpetazos. E
 188. https://es.wikipedia.org/wiki/Laringe
 
 189. https://es.wikipedia.org/wiki/Orofaringe
+
+190. https://es.wikipedia.org/wiki/Gingivitis
+
+191. https://es.wikipedia.org/wiki/Flem%C3%B3n_dental
 
      
 
