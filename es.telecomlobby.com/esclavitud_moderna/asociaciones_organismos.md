@@ -1110,7 +1110,7 @@ Los exámenes a los genitales tienen que ser hechos únicamente con el consentim
 
 El examen neurológico tendría que evaluar los nervios craneales, los órganos sensoriales y el sistema periférico nervioso, hacer un chequeo de enfermedades neuronales tanto por el sistema motor y sensorial relacionadas con posibles traumas, deficiencias de vitaminas o molestias. Habilidad cognitiva y estado mental tendría también de ser evaluadas. 
 
-
+Especial énfasis en el examen por el **plexo braquial** [[205]](https://es.wikipedia.org/wiki/Plexo_braquial) (potencia asimétrica de la mano, caída de muñeca, debilidad del brazo con reflejos sensoriales y tendinosos variables) es necesaria. **Radiculopatías** [[206]](https://es.wikipedia.org/wiki/Radiculopat%C3%ADa), otras **neuropatías** [[207]](https://es.wikipedia.org/wiki/Neuropat%C3%ADa), deficiencias del nervio craneal, hiperalgesia, **parestesias** [[208]](https://es.wikipedia.org/wiki/Parestesia), **hiperestesia** [[209]](https://es.wikipedia.org/wiki/Hiperestesia), cambio en posición, sensación de temperatura, función motriz, marcha y coordinación pueden ser asociados de traumas conectadles a la tortura. En pacientes con historial de mareo y vómitos, un examen del **sistema vestibular** [[210]](https://es.wikipedia.org/wiki/Sistema_vestibular)
 
 
 
@@ -1523,6 +1523,18 @@ El examen neurológico tendría que evaluar los nervios craneales, los órganos 
 203. https://es.wikipedia.org/wiki/Desgarro_muscular
 
 204. https://es.wikipedia.org/wiki/Chaper%C3%B3n
+
+205. https://es.wikipedia.org/wiki/Plexo_braquial
+
+206. https://es.wikipedia.org/wiki/Radiculopat%C3%ADa
+
+207. https://es.wikipedia.org/wiki/Neuropat%C3%ADa
+
+208. https://es.wikipedia.org/wiki/Parestesia
+
+209. https://es.wikipedia.org/wiki/Hiperestesia
+
+210. https://es.wikipedia.org/wiki/Sistema_vestibular
 
      
 
