@@ -1128,9 +1128,13 @@ Estos términos son usados generalmente:
 
 Por último hay una evaluación general de todas las lesiones y no la consistencia de cada lesión con una forma particular de tortura que es importante en la evaluación de la historia de tortura.
 
-Las lesiones agudas son muchas veces una característica de la tortura, porqué muestran un patrón de heridas infligidas que son diferentes de heridas no infligidas, su forma, repetición, distribución en el cuerpo. Desde el hecho que muchas lesiones se curan dentro de seis semanas desde la tortura, sin dejar cicatrices o cicatrices no especificas, una historia característica  de las lesiones agudas y su desarrollo hasta su curación podría ser el único soporte para la alegación de tortura. Cambios permanentes en la piel debido a objetos obtusos son poco frecuentes, no especificas y normalmente sin un significado diagnostico. Una secuela de violencia contundente, que es diagnostico de aplicaciones prolongadas de ligaduras apretadas, es una zona linear que se extiende en circulo sobre el brazo o la pierna, normalmente a la alteza de la muñeca o del tobillo. Esta zona contiene pocos pelos o **folículos pilosos** [[212]](https://es.wikipedia.org/wiki/Fol%C3%ADculo_piloso) y es probablemente una forma de alopecia cicatricial
+Las lesiones agudas son muchas veces una característica de la tortura, porqué muestran un patrón de heridas infligidas que son diferentes de heridas no infligidas, su forma, repetición, distribución en el cuerpo. Desde el hecho que muchas lesiones se curan dentro de seis semanas desde la tortura, sin dejar cicatrices o cicatrices no especificas, una historia característica  de las lesiones agudas y su desarrollo hasta su curación podría ser el único soporte para la alegación de tortura. Cambios permanentes en la piel debido a objetos obtusos son poco frecuentes, no especificas y normalmente sin un significado diagnostico. Una secuela de violencia contundente, que es diagnostico de aplicaciones prolongadas de ligaduras apretadas, es una zona linear que se extiende en circulo sobre el brazo o la pierna, normalmente a la alteza de la muñeca o del tobillo. Esta zona contiene pocos pelos o **folículos pilosos** [[212]](https://es.wikipedia.org/wiki/Fol%C3%ADculo_piloso) y es probablemente una forma de **alopecia cicatricial** [[213]](https://es.wikipedia.org/wiki/Alopecia_cicatricial). No existe un diagnóstico diferencial en forma de enfermedad cutánea espontánea, y es difícil imaginar un trauma de esta naturaleza que ocurra en la vida cotidiana.
 
+En cima de lesiones agudas, abrasiones que resulten de lesiones de raspado superficiales de la piel pueden aparecer como arañazos, tipo quemadura de cepillo o lesiones raspadas más grandes. Las abrasiones pueden mostrar un patrón que refleja el contorno del instrumento o la superficie que ha infligido la lesión. Abrasiones repetidas o profundas pueden crear una área de hipo o **hiperpigmentación** [[214]](https://es.wikipedia.org/wiki/Hiperpigmentaci%C3%B3n), dependiendo del tipo de piel. 
 
+Tengo bastantes áreas de hiperpigmentación en mi cuerpo, en mi pierna derecha y por debajo de mi ombligo. Me han aparecido antes de que la tortura incluyera las interferencias activas en los cinco sentidos a través de inyección de datos artificiales en el cerebro y han empeorado mucho después del 27 de Noviembre 2017. Tengo imágenes de hospital que las detallan creo que sean debida a quemaduras hechas de tortura por armas electromagnéticas. 
+
+Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a ruptura de **vasos sanguíneos** [[215]](https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo) debido a un trauma contundente. Las contusiones ocurren más pronto en áreas de piel fina que recubre huesos o en áreas grasas. Muchas deficiencias médicas, incluidas de vitaminas o de otros **valores nutricionales** [[216]](https://es.wikipedia.org/wiki/Nutrimento)
 
 ####  External links 
 
@@ -1557,6 +1561,16 @@ Las lesiones agudas son muchas veces una característica de la tortura, porqué 
 211. https://es.wikipedia.org/wiki/Nistagmo
 
 212. https://es.wikipedia.org/wiki/Fol%C3%ADculo_piloso
+
+213. https://es.wikipedia.org/wiki/Alopecia_cicatricial
+
+214. https://es.wikipedia.org/wiki/Hiperpigmentaci%C3%B3n
+
+215. https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo
+
+216. https://es.wikipedia.org/wiki/Nutrimento
+
+     
 
      
 
