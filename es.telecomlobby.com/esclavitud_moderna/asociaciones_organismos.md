@@ -1138,6 +1138,8 @@ Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a r
 
 
 
+
+
 ####  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
