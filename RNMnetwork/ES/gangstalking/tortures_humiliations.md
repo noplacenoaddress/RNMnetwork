@@ -363,6 +363,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 25/1/2021 from 8 am to 9:30 am dream injection. I wake up in the morning and **Saray** is humiliating me. **Andreu** also.
 
+- 25/1/2021 20:25 a Jewish woman married to a person I know from Genoa, whose family is connected with Ansaldo, has just been threatened by **Francesca**.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
