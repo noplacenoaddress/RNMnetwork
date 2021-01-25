@@ -1144,6 +1144,10 @@ Quemar es la forma de tortura que mas frecuentemente deja cambios permanentes en
 
 Cuando la matriz de la uña es quemada, el crecimiento consecuente produce uñas con estrías, sutiles, y deformes a veces se rompen en segmentos longitudinales. Si una uña ha sido sacada un crecimiento excesivo de tejido podrían haber sido producido desde un pliegue ungueal proximal, acabando en la formación de **pterigión** [[226]](https://es.wikipedia.org/wiki/Pterigi%C3%B3n). Cambios en las uñas causados por el **liquen plano** [[227]](https://es.wikipedia.org/wiki/Liquen_plano) constituye el único diagnosis diferencial, pero serán normalmente seguidos de una amplia inflamación de la piel. En la otra mano, infecciones por hongos están caracterizadas por parte de uñas engrosadas, amarillas y desmoronadas, diferentes de los cambios sobre escritos. 
 
+![](https://telecomlobby.com/Images/curanderos_tradicionales.webp)
+
+Heridas agudas por traumatismos son producidas cuando la piel es cortada por parte de un objeto agudo, como un cuchillo, una **bayoneta** [[228]](https://es.wikipedia.org/wiki/Bayoneta), o un vidrio roto y incluye heridas de arma blanca, heridas incisas o cortes y heridas punzantes. La apariencia aguda normalmente es simple para ser distinguidas de la apariencia irregular y rasgadas de laceraciones y cicatrices encontradas después de un examen posterior que puede ser distinto. Patrones regulares de pequeñas cicatrices de incisiones podrían ser debidas a curanderos tradicionales
+
 
 
 
@@ -1603,6 +1607,8 @@ Cuando la matriz de la uña es quemada, el crecimiento consecuente produce uñas
 226. https://es.wikipedia.org/wiki/Pterigi%C3%B3n
 
 227. https://es.wikipedia.org/wiki/Liquen_plano
+
+228. https://es.wikipedia.org/wiki/Bayoneta
 
      
 
