@@ -1140,7 +1140,7 @@ Laceraciones, un desgarro o aplastamiento de la piel y tejido blando subyacente 
 
 Cicatrices que resulten de **azotes** [[221]](https://es.wikipedia.org/wiki/Azote) representan laceraciones curadas. Estas cicatrices son decoloradas y muchas veces **hipertróficas** [[222]](https://dle.rae.es/hipertrofia), rodeadas de rayas estrechas e hiperpigmentadas. La única diagnosis diferente es **dermatitis** [[223]](https://es.wikipedia.org/wiki/Dermatitis) vegetal, pero es dominada por hiperpigmentación y pequeñas cicatrices. Por contraste, simétricos, atróficos, decolorados, cambios lineares en el abdomen, axilas y piernas que algunas veces son reclamadas ser secuelas de torturas, representan **estrías** [[224]](https://es.wikipedia.org/wiki/Estr%C3%ADa) destensas y normalmente no son relativas a torturas.
 
-Quemar es la forma de tortura que mas frecuentemente deja cambios permanentes en la piel. 
+Quemar es la forma de tortura que mas frecuentemente deja cambios permanentes en la piel. A veces estos cambios pueden ser de valor diagnostico. Los quemados de cigarros dejan una cicatriz de cinco hasta diez milímetros de largo, circular o oval y macular con un hypo o hiperpigmentado  centro y un hiperpigmentada relativamente indistinta periferia. La quemadura de tatuajes con cigarros también ha sido reportado en conjunto con la tortura. El quemado con objetos calientes produce cicatrices atrofícas marcadas que reflejan el contorno del objeto y que son demarcadas pronunciadamente con con zonas marginales hipertróficas o hiperpigmentadas estrechas que corresponden a una zona inicial de inflamación. Esto por ejemplo puede ser visto después de un quemado por una barra de metal eléctrica o un mechero. Es complicado hacer un diagnosis si muchas cicatrices son presentes. Procesos inflamatorios espontáneos faltan de la característica zona margina y únicamente raramente muestran una pronunciada perdida de tejido. El quemado puede resultar en cicatrices hipertróficas o **queloides** [[225]](https://es.wikipedia.org/wiki/Queloide) como en el caso que siga un quemazón producido de goma quemada.
 
 
 
@@ -1593,6 +1593,8 @@ Quemar es la forma de tortura que mas frecuentemente deja cambios permanentes en
 223. https://es.wikipedia.org/wiki/Dermatitis
 
 224. https://es.wikipedia.org/wiki/Estr%C3%ADa
+
+225. https://es.wikipedia.org/wiki/Queloide
 
      
 
