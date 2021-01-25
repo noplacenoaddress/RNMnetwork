@@ -215,7 +215,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 24/1/2021 from 8 am to 10 am extreme electroshock torture in the left side part of my brain. Now at 10 am I cannot work, I've got big head cache and inside my brain I fell like empty inside of my head. Who is torture me is **Andreu**, **Saray** is present doing me sexual harassment and in my head they do also dream injection.
 - 24/1/2021 15:10 **Francesca** continuously speak about death thread, she speaks about Mafia connected surnames and people that work for her because of military grades in Marina Militare. **Francesca** is a terrorist and she is probably who is investigated by **Federico Cafiero de Raho** that had opened an investigation about masonry and Mafia and drug traffic.
 - 21/1/2021 15:35 **Francesca** just speak that no one have fought against her nor the father of **Gianmaria Vicenti Mattioli** a good boy that was friend of mine that had died in motorbike accident in Genova two decades ago. This man was hospitalized in coma, and after die. Because Francesca use this technology to develop neural application is very common that she have plotted this for Gianmaria to obtain data in a brain that had got a spilling of blood.
-- 25/1/2021 from 8 am to 9:30 am dream injection. I wake up in the morning and Saray is humiliating me.
+- 25/1/2021 from 8 am to 9:30 am dream injection. I wake up in the morning and **Saray** is humiliating me. **Andreu** also.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
