@@ -1136,7 +1136,11 @@ Tengo bastantes áreas de hiperpigmentación en mi cuerpo, en mi pierna derecha 
 
 Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a ruptura de **vasos sanguíneos** [[215]](https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo) debido a un trauma contundente. Las contusiones ocurren más pronto en áreas de piel fina que recubre huesos o en áreas grasas. Muchas deficiencias médicas, incluidas de vitaminas o de otros **valores nutricionales** [[216]](https://es.wikipedia.org/wiki/Nutrimento), pueden ser asociadas fácil aparición de hematomas o **púrpura** [[217]](https://es.wikipedia.org/wiki/S%C3%ADndrome_purp%C3%BArico). Contusiones o abrasiones indican que la fuerza contundente ha sido aplicada en una área particular. La ausencia de un hematoma o abrasión, igualmente, no indica que no haya habido aplicación de una fuerza contundente en aquella área. Las contusiones pueden ser modeladas, reflejando el contorno del instrumento utilizado. Por ejemplo, moretones en forma de carril pueden ocurrir cuando un instrumento, como una **cachiporra** [[218]](https://es.wikipedia.org/wiki/Cachiporra) o un bastón, ha sido utilizado. La forma del objeto puede ser deducida de la forma del hematoma. Como que las contusiones se van curando,  padecen de una serie de cambios de color. La mayoría de los hematomas inicialmente aparecen de un azul oscuro, lila o **carmesí** [[219]](https://es.wikipedia.org/wiki/Carmes%C3%AD). Como la **hemoglobina** [[220]](https://es.wikipedia.org/wiki/Hemoglobina) en el hematoma se descompone, el color gradualmente cambio a lila, verde, amarillo oscuro o amarillo pálido y después desaparece. Es muy complicado, igualmente, poner fecha exactamente a la ocurrencia de la contusión. En algún tipo de piel, esto puede llegar a ser hiperpigmentación, que puede durar muchas años. Contusiones que se desarrollen en profundidad de tejidos subcutáneos podrían no aparecer hasta después muchos días de la lesión, cuando el sangre salido de los vasos haya llegado a la superficie. En caso de alegación pero ausencia de contusiones, la víctima tendría que ser examinada otra vez después de varios días. Tiene que ser tomado en consideración que la posición final y el contorno de los moretones no tienen relación con el trauma original y algunas lesiones pueden haber desvanecido en el momento del reexamen.
 
+Laceraciones, un desgarro o aplastamiento de la piel y tejido blando subyacente por la presión de una fuerza contundente, se  desarrollan fácilmente en las partes sobresalientes del cuerpo, desde que la piel es comprimida entra el objeto contundente y la superficie del hueso por debajo de tejido subdérmico. Igualmente, con fuerza suficiente la piel puede romperse en cualquier parte del cuerpo. Igualmente, con suficiente fuerza la piel puede puede romperse en cualquier parte del cuerpo. Cicatrices asimétricas, cicatrices en zonas non usuales y una difusa propagación de de cicatrices todas sugieren golpes con intención.
 
+Cicatrices que resulten de **azotes** [[221]](https://es.wikipedia.org/wiki/Azote) representan laceraciones curadas. Estas cicatrices son decoloradas y muchas veces **hipertróficas** [[222]](https://dle.rae.es/hipertrofia), rodeadas de rayas estrechas e hiperpigmentadas. La única diagnosis diferente es **dermatitis** [[223]](https://es.wikipedia.org/wiki/Dermatitis) vegetal, pero es dominada por hiperpigmentación y pequeñas cicatrices. Por contraste, simétricos, atróficos, decolorados, cambios lineares en el abdomen, axilas y piernas que algunas veces son reclamadas ser secuelas de torturas, representan **estrías** [[224]](https://es.wikipedia.org/wiki/Estr%C3%ADa) destensas y normalmente no son relativas a torturas.
+
+Quemar es la forma de tortura que mas frecuentemente deja cambios permanentes en la piel. A veces estos cambios pueden ser de valor diagnostico. Los quemados de cigarros dejan una cicatriz de cinco hasta diez milímetros de largo, circular o oval y macular con un hypo o hiperpigmentado  centro y un hiperpigmentada relativamente indistinta periferia. La quemadura de tatuajes con cigarros también ha sido reportado en conjunto con la tortura. El quemado con objetos calientes produce cicatrices atrofícas marcadas que reflejan el contorno del objeto y que son demarcadas pronunciadamente con con zonas marginales hipertróficas o hiperpigmentadas estrechas que corresponden a una zona inicial de inflamación. Esto por ejemplo puede ser visto después de un quemado por una barra de metal eléctrica o un mechero. Es complicado hacer un diagnosis si muchas cicatrices son presentes. Procesos inflamatorios espontáneos faltan de la característica zona margina y únicamente raramente muestran una pronunciada perdida de tejido. El quemado puede resultar en cicatrices hipertróficas o **queloides** [[225]](https://es.wikipedia.org/wiki/Queloide) como en el caso que siga un quemazón producido de goma quemada.
 
 
 
@@ -1581,6 +1585,16 @@ Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a r
 219. https://es.wikipedia.org/wiki/Carmes%C3%AD
 
 220. https://es.wikipedia.org/wiki/Hemoglobina
+
+221. https://es.wikipedia.org/wiki/Azote
+
+222. https://dle.rae.es/hipertrofia
+
+223. https://es.wikipedia.org/wiki/Dermatitis
+
+224. https://es.wikipedia.org/wiki/Estr%C3%ADa
+
+225. https://es.wikipedia.org/wiki/Queloide
 
      
 
