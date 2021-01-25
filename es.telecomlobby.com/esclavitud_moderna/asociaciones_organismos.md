@@ -1134,7 +1134,7 @@ En cima de lesiones agudas, abrasiones que resulten de lesiones de raspado super
 
 Tengo bastantes áreas de hiperpigmentación en mi cuerpo, en mi pierna derecha y por debajo de mi ombligo. Me han aparecido antes de que la tortura incluyera las interferencias activas en los cinco sentidos a través de inyección de datos artificiales en el cerebro y han empeorado mucho después del 27 de Noviembre 2017. Tengo imágenes de hospital que las detallan creo que sean debida a quemaduras hechas de tortura por armas electromagnéticas. 
 
-Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a ruptura de **vasos sanguíneos** [[215]](https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo) debido a un trauma contundente. Las contusiones ocurren más pronto en áreas de piel fina que recubre huesos o en áreas grasas. Muchas deficiencias médicas, incluidas de vitaminas o de otros **valores nutricionales** [[216]](https://es.wikipedia.org/wiki/Nutrimento)
+Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a ruptura de **vasos sanguíneos** [[215]](https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo) debido a un trauma contundente. Las contusiones ocurren más pronto en áreas de piel fina que recubre huesos o en áreas grasas. Muchas deficiencias médicas, incluidas de vitaminas o de otros **valores nutricionales** [[216]](https://es.wikipedia.org/wiki/Nutrimento).
 
 ####  External links 
 
