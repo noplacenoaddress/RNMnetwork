@@ -1116,9 +1116,23 @@ Especial énfasis en el examen por el **plexo braquial** [[205]](https://es.wiki
 
 ![](https://telecomlobby.com/Images/ct_scan_mri.webp)
 
+El siguiente capitulo no es destinado a ser una discusión completa de todas las formas de tortura, pero es enfocada a describir mas en detalle cada aspecto médico de muchas de las formas de tortura comunes.
+
+Estos términos son usados generalmente:
+
+- **Non consistentes**: al lesión podría no haber sido causada por parte del trauma que se ha descrito.
+- **Consistente con**: la lesión podría haber sido hecha por parte del trauma descrito, pero no es especifico y pueden haber otras causas.
+- **Muy consistentes**: la lesión podría haber sido causada por parte del trauma descrito, y hay muy poca otras opciones.
+- **Típicamente de**: un aspecto típico que normalmente se encuentra con este tipo de trauma, pero existen muchas otras causas.
+- **Diagnostico de**: este aspecto podría no haber sido causa de ningún modo de otras cosas que la tortura.
+
+Por último hay una evaluación general de todas las lesiones y no la consistencia de cada lesión con una forma particular de tortura que es importante en la evaluación de la historia de tortura.
+
+Las lesiones agudas son muchas veces una característica de la tortura, porqué muestran un patrón de heridas infligidas que son diferentes de heridas no infligidas, su forma, repetición, distribución en el cuerpo. Desde el hecho que muchas lesiones se curan dentro de seis semanas desde la tortura, sin dejar cicatrices o cicatrices no especificas, una historia característica  de las lesiones agudas y su desarrollo hasta su curación podría ser el único soporte para la alegación de tortura. Cambios permanentes en la piel debido a objetos obtusos son poco frecuentes, no especificas y normalmente sin un significado diagnostico. Una secuela de violencia contundente, que es diagnostico de aplicaciones prolongadas de ligaduras apretadas, es una zona linear que se extiende en circulo sobre el brazo o la pierna, normalmente a la alteza de la muñeca o del tobillo. Esta zona contiene pocos pelos o **folículos pilosos** [[212]](https://es.wikipedia.org/wiki/Fol%C3%ADculo_piloso) y es probablemente una forma de alopecia cicatricial
 
 
-###  External links 
+
+####  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
 
@@ -1541,6 +1555,8 @@ Especial énfasis en el examen por el **plexo braquial** [[205]](https://es.wiki
 210. https://es.wikipedia.org/wiki/Sistema_vestibular
 
 211. https://es.wikipedia.org/wiki/Nistagmo
+
+212. https://es.wikipedia.org/wiki/Fol%C3%ADculo_piloso
 
      
 
