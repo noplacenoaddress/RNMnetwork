@@ -1150,7 +1150,9 @@ Heridas agudas por traumatismos son producidas cuando la piel es cortada por par
 
 Un patrón asimétrico y cicatrices de diferentes medidas son probablemente importantes en el diagnostico de tortura.
 
-Las fracturas producen una perdida de la integridad del hueso debido al efecto de una fuerza mecánica contundente en varios planos vectoriales. Una fractura directa ocurriría en el punto de impacto o donde la fuerza haya sido aplicada.  
+Las fracturas producen una perdida de la integridad del hueso debido al efecto de una fuerza mecánica contundente en varios planos vectoriales. Una fractura directa ocurriría en el punto de impacto o donde la fuerza haya sido aplicada. La posición, el contorno y otras características de una fractura reflejan la naturaleza y dirección de la fuerza aplicada. Es alguna vez posible distinguir fracturas infligidas por parte de accidente gracias a la apariencia radiológica de la fractura. Poner fecha gracias a imágenes obtenidas de rayos X a relativamente recientes fracturas debería estar hecho por un experto **radiólogo** [[229]](https://es.wikipedia.org/wiki/Radiolog%C3%ADa). Juicios especulativos deberían ser evitados en la evaluación de la naturaleza y la edad de lesiones traumáticas contusas, desde que la lesión puede variar según edad, sexo, características del tejido, la condición y la salud del paciente y la severidad del trauma.
+
+Trauma encefálico es una de las formas mas comunes de tortura. En el caso de trauma de cabeza recurrente, atrofia cortical y se puede esperar **daño axonal difuso** [[230]](https://es.wikipedia.org/wiki/Da%C3%B1o_axonal_difuso). En el caso de trauma causado por caídas, lesiones por contragolpe (situado en la locación opuesta al trauma) pueden ser observadas. 
 
 
 
@@ -1613,6 +1615,10 @@ Las fracturas producen una perdida de la integridad del hueso debido al efecto d
 227. https://es.wikipedia.org/wiki/Liquen_plano
 
 228. https://es.wikipedia.org/wiki/Bayoneta
+
+229. https://es.wikipedia.org/wiki/Radiolog%C3%ADa
+
+230. https://es.wikipedia.org/wiki/Da%C3%B1o_axonal_difuso
 
      
 
