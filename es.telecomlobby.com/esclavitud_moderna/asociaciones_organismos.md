@@ -1142,6 +1142,8 @@ Cicatrices que resulten de **azotes** [[221]](https://es.wikipedia.org/wiki/Azot
 
 Quemar es la forma de tortura que mas frecuentemente deja cambios permanentes en la piel. A veces estos cambios pueden ser de valor diagnostico. Los quemados de cigarros dejan una cicatriz de cinco hasta diez milímetros de largo, circular o oval y macular con un hypo o hiperpigmentado  centro y un hiperpigmentada relativamente indistinta periferia. La quemadura de tatuajes con cigarros también ha sido reportado en conjunto con la tortura. El quemado con objetos calientes produce cicatrices atrofícas marcadas que reflejan el contorno del objeto y que son demarcadas pronunciadamente con con zonas marginales hipertróficas o hiperpigmentadas estrechas que corresponden a una zona inicial de inflamación. Esto por ejemplo puede ser visto después de un quemado por una barra de metal eléctrica o un mechero. Es complicado hacer un diagnosis si muchas cicatrices son presentes. Procesos inflamatorios espontáneos faltan de la característica zona margina y únicamente raramente muestran una pronunciada perdida de tejido. El quemado puede resultar en cicatrices hipertróficas o **queloides** [[225]](https://es.wikipedia.org/wiki/Queloide) como en el caso que siga un quemazón producido de goma quemada.
 
+Cuando la matriz de la uña es quemada, el crecimiento consecuente produce uñas con estrías, sutiles, y deformes a veces se rompen en segmentos longitudinales. Si una uña ha sido sacada un crecimiento excesivo de tejido podrían haber sido producido desde un pliegue ungueal proximal, acabando en la formación de **pterigión** [[226]](https://es.wikipedia.org/wiki/Pterigi%C3%B3n).
+
 
 
 ####  External links 
@@ -1595,6 +1597,8 @@ Quemar es la forma de tortura que mas frecuentemente deja cambios permanentes en
 224. https://es.wikipedia.org/wiki/Estr%C3%ADa
 
 225. https://es.wikipedia.org/wiki/Queloide
+
+226. https://es.wikipedia.org/wiki/Pterigi%C3%B3n
 
      
 
