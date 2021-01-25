@@ -1134,7 +1134,9 @@ En cima de lesiones agudas, abrasiones que resulten de lesiones de raspado super
 
 Tengo bastantes áreas de hiperpigmentación en mi cuerpo, en mi pierna derecha y por debajo de mi ombligo. Me han aparecido antes de que la tortura incluyera las interferencias activas en los cinco sentidos a través de inyección de datos artificiales en el cerebro y han empeorado mucho después del 27 de Noviembre 2017. Tengo imágenes de hospital que las detallan creo que sean debida a quemaduras hechas de tortura por armas electromagnéticas. 
 
-Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a ruptura de **vasos sanguíneos** [[215]](https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo) debido a un trauma contundente. Las contusiones ocurren más pronto en áreas de piel fina que recubre huesos o en áreas grasas. Muchas deficiencias médicas, incluidas de vitaminas o de otros **valores nutricionales** [[216]](https://es.wikipedia.org/wiki/Nutrimento).
+Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a ruptura de **vasos sanguíneos** [[215]](https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo) debido a un trauma contundente. Las contusiones ocurren más pronto en áreas de piel fina que recubre huesos o en áreas grasas. Muchas deficiencias médicas, incluidas de vitaminas o de otros **valores nutricionales** [[216]](https://es.wikipedia.org/wiki/Nutrimento), pueden ser asociadas fácil aparición de hematomas o **púrpura** [[217]](https://es.wikipedia.org/wiki/S%C3%ADndrome_purp%C3%BArico). Contusiones o abrasiones indican que la fuerza contundente ha sido aplicada en una área particular. La ausencia de un hematoma o abrasión, igualmente, no indica que no haya habido aplicación de una fuerza contundente en aquella área. Las contusiones pueden ser modeladas, reflejando el contorno del instrumento utilizado. Por ejemplo, moretones en forma de carril pueden ocurrir cuando un instrumento, como una **cachiporra** [[218]](https://es.wikipedia.org/wiki/Cachiporra) o un bastón, ha sido utilizado. La forma del objeto puede ser deducida de la forma del hematoma. Como que las contusiones se van curando,  padecen de una serie de cambios de color. La mayoría de los hematomas inicialmente aparecen de un azul oscuro, lila o **carmesí** [[219]](https://es.wikipedia.org/wiki/Carmes%C3%AD). Como la **hemoglobina** [[220]](https://es.wikipedia.org/wiki/Hemoglobina) en el hematoma se descompone, el color gradualmente cambio a lila, verde, amarillo oscuro o amarillo pálido y después desaparece. Es muy complicado, igualmente, poner fecha exactamente a la ocurrencia de la contusión. En algún tipo de piel, esto puede llegar a ser hiperpigmentación, que puede durar muchas años. Contusiones que se desarrollen en profundidad de tejidos subcutáneos podrían no aparecer hasta después muchos días de la lesión, cuando el sangre salido de los vasos haya llegado a la superficie. En caso de alegación pero ausencia de contusiones, la víctima tendría que ser examinada otra vez después de varios días. Tiene que ser tomado en consideración que la posición final y el contorno de los moretones no tienen relación con el trauma original y algunas lesiones pueden haber desvanecido en el momento del reexamen.
+
+
 
 ####  External links 
 
@@ -1569,6 +1571,14 @@ Contusiones y moretones son áreas de hemorragia en el tejido débil debidas a r
 215. https://es.wikipedia.org/wiki/Vaso_sangu%C3%ADneo
 
 216. https://es.wikipedia.org/wiki/Nutrimento
+
+217. https://es.wikipedia.org/wiki/S%C3%ADndrome_purp%C3%BArico
+
+218. https://es.wikipedia.org/wiki/Cachiporra
+
+219. https://es.wikipedia.org/wiki/Carmes%C3%AD
+
+220. https://es.wikipedia.org/wiki/Hemoglobina
 
      
 
