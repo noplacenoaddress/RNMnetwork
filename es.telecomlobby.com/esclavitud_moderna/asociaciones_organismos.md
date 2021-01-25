@@ -1146,7 +1146,11 @@ Cuando la matriz de la uña es quemada, el crecimiento consecuente produce uñas
 
 ![](https://telecomlobby.com/Images/curanderos_tradicionales.webp)
 
-Heridas agudas por traumatismos son producidas cuando la piel es cortada por parte de un objeto agudo, como un cuchillo, una **bayoneta** [[228]](https://es.wikipedia.org/wiki/Bayoneta), o un vidrio roto y incluye heridas de arma blanca, heridas incisas o cortes y heridas punzantes. La apariencia aguda normalmente es simple para ser distinguidas de la apariencia irregular y rasgadas de laceraciones y cicatrices encontradas después de un examen posterior que puede ser distinto. Patrones regulares de pequeñas cicatrices de incisiones podrían ser debidas a curanderos tradicionales
+Heridas agudas por traumatismos son producidas cuando la piel es cortada por parte de un objeto agudo, como un cuchillo, una **bayoneta** [[228]](https://es.wikipedia.org/wiki/Bayoneta), o un vidrio roto y incluye heridas de arma blanca, heridas incisas o cortes y heridas punzantes. La apariencia aguda normalmente es simple para ser distinguidas de la apariencia irregular y rasgadas de laceraciones y cicatrices encontradas después de un examen posterior que puede ser distinto. Patrones regulares de pequeñas cicatrices de incisiones podrían ser debidas a curanderos tradicionales.
+
+Un patrón asimétrico y cicatrices de diferentes medidas son probablemente importantes en el diagnostico de tortura.
+
+Las fracturas producen una perdida de la integridad del hueso debido al efecto de una fuerza mecánica contundente en varios planos vectoriales. Una fractura directa ocurriría en el punto de impacto o donde la fuerza haya sido aplicada.  
 
 
 
