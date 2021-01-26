@@ -1156,7 +1156,13 @@ Trauma encefálico es una de las formas mas comunes de tortura. En el caso de tr
 
 Mientras que en el caso de trauma directo, contusiones al cerebro pueden ser observadas directamente debajo de la región en la cuales el trauma es infligido. Moretones en el **cuero cabelludo** [[231]](https://es.wikipedia.org/wiki/Cuero_cabelludo) frecuentemente son invisibles externamente a menos que no hay hinchazón. Los moretones pueden ser difíciles para ver en individuos de piel negra, pero serán blandos si palpados. 
 
-Habiendo sido expuestos a golpetazos en la cabeza un sobreviviente a torturas podría quejarse de continuos dolores de cabeza. Estos son muchas veces somáticos y pueden referirse desde el cuello. La victima puede afirmar de sufrir dolor cuando tocada en aquella región y se puede observar plenitud difusa y local o firmeza aumentada. Cicatrices se pueden observar en los casos donde han habido laceraciones en el cuero cabelludo.
+Habiendo sido expuestos a golpetazos en la cabeza un sobreviviente a torturas podría quejarse de continuos dolores de cabeza. Estos son muchas veces somáticos y pueden referirse desde el cuello. La victima puede afirmar de sufrir dolor cuando tocada en aquella región y se puede observar plenitud difusa y local o firmeza aumentada. Cicatrices se pueden observar en los casos donde han habido laceraciones en el cuero cabelludo. Las dolores de cabeza pueden ser síntoma inicial de un **hematoma subdural** [[232]](https://es.wikipedia.org/wiki/Hematoma_subdural) en expansión. Pueden ser asociados con inicio agudo del cambio de la **salud mental** [[233]](https://es.wikipedia.org/wiki/Salud_mental), y una CT debe ser hecha inmediatamente. Olor del tejido débil o hemorragia será detectada con CT o MRI. Puede ser también apropiado arreglar una evaluación psicológica o neurológica. 
+
+Sacudidos violetos como una forma de tortura puede producir injuria cerebral sin dejar ninguna marca, aunque puede haber hematomas en la parte superior del pecho o en el hombro donde la victima o sus vestidos han sido agarrados. Los sacudidos pueden producir injurias idénticas a aquellas vistas en el **síndrome del niño sacudido** [[234]](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_ni%C3%B1o_sacudido): **edema cerebral** [[235]](https://es.wikipedia.org/wiki/Edema_cerebral), hematoma subdural y hemorragias de la retina. Las victimas se quejan de dolor de cabeza recurrentes, desorientación o cambios de estado mental. Los episodios de sacudidos son normalmente breves, solo algún minuto o menos, pero pueden ser repetidos muchas veces sobre un periodo de días o semanas.
+
+Las fracturas de costillas son una consecuencia frecuente de los golpes en el pecho. Se desplazadas, pueden ser asociadas a laceraciones del pulmón y un posible neumotórax. Fracturas de **pediculos vertebrales** [[236]](https://es.wikipedia.org/wiki/Columna_vertebral) pueden ser resultado de uso directo de fuerza contundente.
+
+En los casos de trauma agudo abdominal, el examen físico debería buscar evidencias de injurias del órgano abdominal y del trato urinario. **Haematuria** [[237]](https://es.wikipedia.org/wiki/Hematuria) es el indicativo más significativo de **trauma del riñon** [[238]](https://en.wikipedia.org/wiki/Blunt_kidney_trauma). El lavado peritoneal diagnostico 
 
 ####  External links 
 
@@ -1621,6 +1627,24 @@ Habiendo sido expuestos a golpetazos en la cabeza un sobreviviente a torturas po
 230. https://es.wikipedia.org/wiki/Da%C3%B1o_axonal_difuso
 
 231. https://es.wikipedia.org/wiki/Cuero_cabelludo
+
+232. https://es.wikipedia.org/wiki/Hematoma_subdural
+
+233. https://es.wikipedia.org/wiki/Salud_mental
+
+234. https://es.wikipedia.org/wiki/S%C3%ADndrome_del_ni%C3%B1o_sacudido
+
+235. https://es.wikipedia.org/wiki/Edema_cerebral
+
+236. https://es.wikipedia.org/wiki/Columna_vertebral
+
+237. https://es.wikipedia.org/wiki/Hematuria
+
+238. https://en.wikipedia.org/wiki/Blunt_kidney_trauma
+
+     
+
+     
 
      
 
