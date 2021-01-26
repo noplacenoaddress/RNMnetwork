@@ -1170,6 +1170,7 @@ En la red de explotación transmitida por armas electromagnéticas que construye
 
 - **Tesla autopilot** [[244]](https://www.facebook.com/redeltaglio/videos/10225611874386247)
 - **New Horizon pilot system** [[245]](https://www.facebook.com/redeltaglio/videos/10225611594139241)
+- **Ejemplo de aplicación neuronal de un individuo objetivo** [[246]](https://www.facebook.com/redeltaglio/videos/10225194498272105). 
 
 *Ejemplos de tecnologías punteras obtenidas a través de la esclavitud moderna. Todo un escándalo.*
 
@@ -1666,6 +1667,8 @@ En la red de explotación transmitida por armas electromagnéticas que construye
 244. https://www.facebook.com/redeltaglio/videos/10225611874386247
 
 245. https://www.facebook.com/redeltaglio/videos/10225611594139241
+
+246. https://www.facebook.com/redeltaglio/videos/10225194498272105
 
      
 
