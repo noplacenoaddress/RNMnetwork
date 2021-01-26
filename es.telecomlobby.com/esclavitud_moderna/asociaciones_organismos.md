@@ -1172,9 +1172,11 @@ En la red de explotación transmitida por armas electromagnéticas que construye
 - **New Horizon pilot system** [[245]](https://www.facebook.com/redeltaglio/videos/10225611594139241)
 - **Ejemplo de aplicación neuronal de un individuo objetivo** [[246]](https://www.facebook.com/redeltaglio/videos/10225194498272105). 
 
-*Ejemplos de tecnologías punteras obtenidas a través de la esclavitud moderna. Todo un escándalo.*
+*Ejemplos de tecnologías punteras obtenidas a través de la esclavitud moderna. Todo un escándalo, acompañado de tortura inducida.*
 
-La complicación más grande de la falanga es el **síndrome de compartimento cerrado** [[247]](https://telecomlobby.com/RNMnetwork/documents/cg034l.pdf), que causa necrosis muscular, obstrucción vascular o **gangrena** [[248]](https://es.wikipedia.org/wiki/Gangrena) de la porción distal del pie o dedos 
+La complicación más grande de la falanga es el **síndrome de compartimento cerrado** [[247]](https://telecomlobby.com/RNMnetwork/documents/cg034l.pdf), que causa necrosis muscular, obstrucción vascular o **gangrena** [[248]](https://es.wikipedia.org/wiki/Gangrena) de la porción distal del pie o dedos. Deformaciones permanentes en los pies, cosa que yo seguramente tengo en mi pies izquierdo, no son comunes pero a veces pasan, como pasan fracturas de la mano, del **metacarpo** [[249]](https://es.wikipedia.org/wiki/Metacarpo) y de las **falanges** [[250]](https://bit.ly/3sZ8gTH).
+
+La CT y la MRI son lo métodos de preferencia para la documentación radiológica de las lesiones, pero tiene que ser subrayado que el examen físico en la fase aguda debería ser diagnosticada. La falanga podría provocar discapacidad crónica. Andar podría ser doloroso y difícil, lo que pasa exactamente con mi persona. Los **huesos tarso** [[251]](https://bit.ly/3aasgdg)  podrían ser **espásticos** [[252]](https://es.wikipedia.org/wiki/Espasticidad) o tener incapacidad de movimiento. 
 
 ####  External links 
 
@@ -1673,6 +1675,14 @@ La complicación más grande de la falanga es el **síndrome de compartimento ce
 247. https://telecomlobby.com/RNMnetwork/documents/cg034l.pdf
 
 248. https://es.wikipedia.org/wiki/Gangrena
+
+249. https://es.wikipedia.org/wiki/Metacarpo
+
+250. https://bit.ly/3sZ8gTH
+
+251. https://bit.ly/3aasgdg
+
+252. https://es.wikipedia.org/wiki/Espasticidad
 
      
 
