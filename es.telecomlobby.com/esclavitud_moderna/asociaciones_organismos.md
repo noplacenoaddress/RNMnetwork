@@ -1154,9 +1154,9 @@ Las fracturas producen una perdida de la integridad del hueso debido al efecto d
 
 Trauma encefálico es una de las formas mas comunes de tortura. En el caso de trauma de cabeza recurrente, atrofia cortical y se puede esperar **daño axonal difuso** [[230]](https://es.wikipedia.org/wiki/Da%C3%B1o_axonal_difuso). En el caso de trauma causado por caídas, lesiones por contragolpe (situado en la locación opuesta al trauma) pueden ser observadas. 
 
+Mientras que en el caso de trauma directo, contusiones al cerebro pueden ser observadas directamente debajo de la región en la cuales el trauma es infligido. Moretones en el **cuero cabelludo** [[231]](https://es.wikipedia.org/wiki/Cuero_cabelludo) frecuentemente son invisibles externamente a menos que no hay hinchazón. Los moretones pueden ser difíciles para ver en individuos de piel negra, pero serán blandos si palpados. 
 
-
-
+Habiendo sido expuestos a golpetazos en la cabeza un sobreviviente a torturas podría quejarse de continuos dolores de cabeza. Estos son muchas veces somáticos y pueden referirse desde el cuello. La victima puede afirmar de sufrir dolor cuando tocada en aquella región y se puede observar plenitud difusa y local o firmeza aumentada. Cicatrices se pueden observar en los casos donde han habido laceraciones en el cuero cabelludo.
 
 ####  External links 
 
@@ -1619,6 +1619,8 @@ Trauma encefálico es una de las formas mas comunes de tortura. En el caso de tr
 229. https://es.wikipedia.org/wiki/Radiolog%C3%ADa
 
 230. https://es.wikipedia.org/wiki/Da%C3%B1o_axonal_difuso
+
+231. https://es.wikipedia.org/wiki/Cuero_cabelludo
 
      
 
