@@ -369,6 +369,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 26/1/2021 8:30 am dream injection. My family also present. Electroshock to wake me.
 
+- 26/1/2021 20:57 it's the first time that I write about but **Andrea**, that I've known when I was young in Genoa, usually do stalk to me but not torture me. Obviously he plays in the virtual casino remote parimutuel betting system and probably he is an has got shares of Francesca's firm. Company engaged in the unauthorized sale of data for military purposes of targeted individuals enslaved by technology. He is from a rich family in Genoa connected to the Ansaldo company.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)

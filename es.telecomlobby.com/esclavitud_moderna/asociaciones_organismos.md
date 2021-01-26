@@ -1174,7 +1174,7 @@ En la red de explotación transmitida por armas electromagnéticas que construye
 
 *Ejemplos de tecnologías punteras obtenidas a través de la esclavitud moderna. Todo un escándalo.*
 
-  
+La complicación más grande de la falanga es el **síndrome de compartimento cerrado** [[247]](https://telecomlobby.com/RNMnetwork/documents/cg034l.pdf), que causa necrosis muscular, obstrucción vascular o **gangrena** [[248]](https://es.wikipedia.org/wiki/Gangrena) de la porción distal del pie o dedos 
 
 ####  External links 
 
@@ -1669,6 +1669,10 @@ En la red de explotación transmitida por armas electromagnéticas que construye
 245. https://www.facebook.com/redeltaglio/videos/10225611594139241
 
 246. https://www.facebook.com/redeltaglio/videos/10225194498272105
+
+247. https://telecomlobby.com/RNMnetwork/documents/cg034l.pdf
+
+248. https://es.wikipedia.org/wiki/Gangrena
 
      
 
