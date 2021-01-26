@@ -1162,7 +1162,11 @@ Sacudidos violetos como una forma de tortura puede producir injuria cerebral sin
 
 Las fracturas de costillas son una consecuencia frecuente de los golpes en el pecho. Se desplazadas, pueden ser asociadas a laceraciones del pulmón y un posible neumotórax. Fracturas de **pediculos vertebrales** [[236]](https://es.wikipedia.org/wiki/Columna_vertebral) pueden ser resultado de uso directo de fuerza contundente.
 
-En los casos de trauma agudo abdominal, el examen físico debería buscar evidencias de injurias del órgano abdominal y del trato urinario. **Haematuria** [[237]](https://es.wikipedia.org/wiki/Hematuria) es el indicativo más significativo de **trauma del riñon** [[238]](https://en.wikipedia.org/wiki/Blunt_kidney_trauma). El lavado peritoneal diagnostico 
+En los casos de trauma agudo abdominal, el examen físico debería buscar evidencias de injurias del órgano abdominal y del trato urinario. **Haematuria** [[237]](https://es.wikipedia.org/wiki/Hematuria) es el indicativo más significativo de **trauma del riñon** [[238]](https://en.wikipedia.org/wiki/Blunt_kidney_trauma). El lavado peritoneal diagnostico puede detectar hemorragias abdominal. Liquido abdominal libre detectado por parte de una CT después de un lavado peritoneal puede provenir del mismo lavado o bien de una hemorragia; esto invalidaría el hallazgo. En una CT, una hemorragia aguda abdominal es normalmente **isointenso** [[239]](https://www.cancer.gov/espanol/publicaciones/diccionario/def/isointenso) o bien revela densidad de agua diferente a una hemorragia aguda del **sistema nervioso central** [[240]](https://es.wikipedia.org/wiki/Sistema_nervioso_central), que es hiperintenso. Laceraciones de órganos pueden ser presentes a aire libre, fluido extralumido o áreas de atenuación leves, que pueden representar **edema** [[241]](https://es.wikipedia.org/wiki/Edema), contusiones, hemorragia o una laceración. Un edema peripancreático es uno de los signo de trauma agudo y pancreatitis [[242]](https://es.wikipedia.org/wiki/Pancreatitis) no aguda. Los ultrasonidos es particularmente útil en detectar hematomas subcapulares del bazo. Fallos de los riñones debido a un síndrome por impacto pueden ser agudos después muchos golpes. La hipertenisión renal puede ser una complicación sucesiva de lesiones renales.
+
+La **falanga** [[243]](https://es.wikipedia.org/wiki/Falanga) es el termino más común por repetidas aplicaciones de traumatismo contundente en los pies.
+
+> En la red de explotación transmitida por armas electromagnéticas que construyen el cárcel panóptico de tercera generación en Catalunya engañado por un juego en lo cual los fin de semanas desde Julio 2018 hasta el 11 de Noviembre 2020, contando pero una bajada importante de intensidad los últimos seis meses, he recurrido más de 3000 km a píes en Barcelona, Blanes y otras localidades Catalanas buscando a Saray, mi ex pareja. En máquina de visión, en transmisiones neuronales hacía mi corteza visual y auditiva, me se mostraban casi siempre imágenes de orgías y sexo brutal. Al empezar pensaba que era un juego porqué ella, en voz hacía el cerebro, en la semana me daba indicios de donde se podía encontrar. En realidad el fin del juego inventado ha sido únicamente tortura, la falanga para ser mas exactos. Mientras caminaba venia humillado continuamente por parte de personas que conozco, las cuales jugaban a apuestas remotas mutuas y sistemas de apuestas sobre todo lo que hacía. Más atrás todavía hay el desarrollo de aplicaciones neuronales militares bajo estrés y cansancio, explotación, inducción al suicidio, impotencia, tristeza y venta de macrodatos siempre con el fin de venderlos.
 
 ####  External links 
 
@@ -1641,6 +1645,16 @@ En los casos de trauma agudo abdominal, el examen físico debería buscar eviden
 237. https://es.wikipedia.org/wiki/Hematuria
 
 238. https://en.wikipedia.org/wiki/Blunt_kidney_trauma
+
+239. https://www.cancer.gov/espanol/publicaciones/diccionario/def/isointenso
+
+240. https://es.wikipedia.org/wiki/Sistema_nervioso_central
+
+241. https://es.wikipedia.org/wiki/Edema
+
+242. https://es.wikipedia.org/wiki/Pancreatitis
+
+243. https://es.wikipedia.org/wiki/Falanga
 
      
 
