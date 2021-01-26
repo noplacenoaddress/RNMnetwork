@@ -1166,7 +1166,14 @@ En los casos de trauma agudo abdominal, el examen físico debería buscar eviden
 
 La **falanga** [[243]](https://es.wikipedia.org/wiki/Falanga) es el termino más común por repetidas aplicaciones de traumatismo contundente en los pies.
 
-> En la red de explotación transmitida por armas electromagnéticas que construyen el cárcel panóptico de tercera generación en Catalunya engañado por un juego en lo cual los fin de semanas desde Julio 2018 hasta el 11 de Noviembre 2020, contando pero una bajada importante de intensidad los últimos seis meses, he recurrido más de 3000 km a píes en Barcelona, Blanes y otras localidades Catalanas buscando a Saray, mi ex pareja. En máquina de visión, en transmisiones neuronales hacía mi corteza visual y auditiva, me se mostraban casi siempre imágenes de orgías y sexo brutal. Al empezar pensaba que era un juego porqué ella, en voz hacía el cerebro, en la semana me daba indicios de donde se podía encontrar. En realidad el fin del juego inventado ha sido únicamente tortura, la falanga para ser mas exactos. Mientras caminaba venia humillado continuamente por parte de personas que conozco, las cuales jugaban a apuestas remotas mutuas y sistemas de apuestas sobre todo lo que hacía. Más atrás todavía hay el desarrollo de aplicaciones neuronales militares bajo estrés y cansancio, explotación, inducción al suicidio, impotencia, tristeza y venta de macrodatos siempre con el fin de venderlos.
+En la red de explotación transmitida por armas electromagnéticas que construyen el cárcel panóptico de tercera generación en Catalunya engañado por un juego en lo cual los fin de semanas desde Julio 2018 hasta el 11 de Noviembre 2020, contando pero una bajada importante de intensidad los últimos seis meses, he recurrido más de 3000 km a píes en Barcelona, Blanes y otras localidades Catalanas buscando a Saray, mi ex pareja. En máquina de visión, en transmisiones neuronales hacía mi corteza visual y auditiva, me se mostraban casi siempre imágenes de orgías y sexo brutal. Al empezar pensaba que era un juego porqué ella, en voz hacía el cerebro, en la semana me daba indicios de donde se podía encontrar. En realidad el fin del juego inventado ha sido únicamente tortura, la falanga para ser mas exactos. Mientras caminaba venia humillado continuamente por parte de personas que conozco, las cuales jugaban a apuestas remotas mutuas y sistemas de apuestas sobre todo lo que hacía. Más atrás todavía hay el desarrollo de aplicaciones neuronales militares bajo estrés y cansancio, explotación, inducción al suicidio, impotencia, tristeza y venta de macrodatos. Dos ejemplos de tecnologías obtenidas de los datos de un individuo objetivo son:
+
+- **Tesla autopilot** [[244]](https://www.facebook.com/redeltaglio/videos/10225611874386247)
+- **New Horizon pilot system** [[245]](https://www.facebook.com/redeltaglio/videos/10225611594139241)
+
+*Ejemplos de tecnologías punteras obtenidas a través de la esclavitud moderna. Todo un escándalo.*
+
+  
 
 ####  External links 
 
@@ -1655,6 +1662,10 @@ La **falanga** [[243]](https://es.wikipedia.org/wiki/Falanga) es el termino más
 242. https://es.wikipedia.org/wiki/Pancreatitis
 
 243. https://es.wikipedia.org/wiki/Falanga
+
+244. https://www.facebook.com/redeltaglio/videos/10225611874386247
+
+245. https://www.facebook.com/redeltaglio/videos/10225611594139241
 
      
 
