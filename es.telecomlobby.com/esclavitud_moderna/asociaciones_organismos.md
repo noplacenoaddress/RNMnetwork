@@ -1176,7 +1176,17 @@ En la red de explotación transmitida por armas electromagnéticas que construye
 
 La complicación más grande de la falanga es el **síndrome de compartimento cerrado** [[247]](https://telecomlobby.com/RNMnetwork/documents/cg034l.pdf), que causa necrosis muscular, obstrucción vascular o **gangrena** [[248]](https://es.wikipedia.org/wiki/Gangrena) de la porción distal del pie o dedos. Deformaciones permanentes en los pies, cosa que yo seguramente tengo en mi pies izquierdo, no son comunes pero a veces pasan, como pasan fracturas de la mano, del **metacarpo** [[249]](https://es.wikipedia.org/wiki/Metacarpo) y de las **falanges** [[250]](https://bit.ly/3sZ8gTH).
 
-La CT y la MRI son lo métodos de preferencia para la documentación radiológica de las lesiones, pero tiene que ser subrayado que el examen físico en la fase aguda debería ser diagnosticada. La falanga podría provocar discapacidad crónica. Andar podría ser doloroso y difícil, lo que pasa exactamente con mi persona. Los **huesos tarso** [[251]](https://bit.ly/3aasgdg)  podrían ser **espásticos** [[252]](https://es.wikipedia.org/wiki/Espasticidad) o tener incapacidad de movimiento. 
+La CT y la MRI son lo métodos de preferencia para la documentación radiológica de las lesiones, pero tiene que ser subrayado que el examen físico en la fase aguda debería ser diagnosticada. La falanga podría provocar discapacidad crónica. Andar podría ser doloroso y difícil, lo que pasa exactamente con mi persona. Los **huesos tarso** [[251]](https://bit.ly/3aasgdg)  podrían ser **espásticos** [[252]](https://es.wikipedia.org/wiki/Espasticidad) o tener incapacidad de movimiento. Un apreton de la planta del píe y una dorsiflexión del pulgar del píe puede producir dolor. A la palpeación, la entera longitud de la **aponeurosis plantar** [[253]](https://es.wikipedia.org/wiki/Aponeurosis_plantar) podría ser blanda y el apego **distal** [[254]](https://es.wikipedia.org/wiki/Distal) del aponeurosis podría ser torcida, parcialmente sobre la base de las proximas falánges particalmente sobre la píel. La aponeurosis podría no apretar normalmente, haciendo del andar algo difficil y fatigas muscolares podrían seguir. Una extensión pasiva del pulgar del píe podría revelar si la aponeurosis ha sido torcida. Si es intacta, el empezar de la tension en la aponeurosis podría ser sentida palpeando cuando el pulgar del píe es dorsiflexo de 20 grados; la extensión maxima es de 70 grados. Altos valores sugieren lesiones al punto de ataco de la aponeurosis. En otra mano, una dorsiflexion limitada y dolor sobre la hiperextensión del **dedo gordo** [[255]](https://es.wikipedia.org/wiki/Hallux) son pruebas de **Hallux rigidus** [[256]](https://es.wikipedia.org/wiki/Hallux_rigidus), que resultan del **osteofito** [[257]](https://es.wikipedia.org/wiki/Osteofito) dorsal en la cabeza del primer metatarsiano y la base de la falange proximal.
+
+Numerosas complicaciones y síndrome pueden occurir:
+
+- Síndrome del compartimento cerrado. Esta es la complicación más complicada. Un edema en compartimiento cerrado resulta en obstrucción vascular y necrosis muscular, que puede resultar en fibrosis, contractura o gangrena en el distal del píe o los dedos. Normalmente es diagnosticada midiendo la presión en el compartimiento. 
+- Talón aplastado y almohadillas anteriores. Las almohadillas elásticas debajo del calcáneo y las falanges proximales se aplastan durante la falanga, tanto sea directamente cuando como resultado de un edema asociado con el trauma. También, las bandas de tejido conectivo que se extienden a través del tejido adiposo y que conectan el hueso a la piel son torcidos. El tejido adiposo es privado de flujo sanguíneo y atrofias. Los efectos de amortiguación son perdidos y el píe no absorbe más el estrés producido por el caminar.
+- Estrías rígidas involucrando la piel y el tejido subcutáneos de los píes después de la aplicación de la falanga. En un píe normal, la **dermis** [[258]](https://es.wikipedia.org/wiki/Dermis)  es enganchada a la aponeurosis plantar por parte de unas bandas de tejido estrecho conectivo. Igualmente, estas bandas pueden ser parcialmente o totalmente destruidas debido al edema que rompe las bandas después la exposición a la falanga.
+- La rotura del aponeurosis plantar y los tendones del píe. El edema en el periodo siguiente la falanga puede romper estas estructuras. Cuando las funciones de soporte necesarias al arco del píe desaparecen, el acto de caminar se hace más complicado y los muslos del píe especialmente el **múscolo cuadrado plantar** [[259]](https://es.wikipedia.org/wiki/M%C3%BAsculo_cuadrado_plantar) son excesivamente forzados.
+- **Fascitis plantar** [[260]](https://es.wikipedia.org/wiki/Fascitis_plantar). Puede ocurrir una mayor complicación en esta lesión. En los casos de falanga, irritación es muchas veces presente a través de toda la aponeurosis, causando **fascitis** [[261]](https://es.wikipedia.org/wiki/Fascitis) crónica. 
+
+
 
 ####  External links 
 
@@ -1683,6 +1693,24 @@ La CT y la MRI son lo métodos de preferencia para la documentación radiológic
 251. https://bit.ly/3aasgdg
 
 252. https://es.wikipedia.org/wiki/Espasticidad
+
+253. https://es.wikipedia.org/wiki/Aponeurosis_plantar
+
+254. https://es.wikipedia.org/wiki/Distal
+
+255. https://es.wikipedia.org/wiki/Hallux
+
+256. https://es.wikipedia.org/wiki/Hallux_rigidus
+
+257. https://es.wikipedia.org/wiki/Osteofito
+
+258. https://es.wikipedia.org/wiki/Dermis
+
+259. https://es.wikipedia.org/wiki/M%C3%BAsculo_cuadrado_plantar
+
+260. https://es.wikipedia.org/wiki/Fascitis_plantar
+
+261. https://es.wikipedia.org/wiki/Fascitis
 
      
 
