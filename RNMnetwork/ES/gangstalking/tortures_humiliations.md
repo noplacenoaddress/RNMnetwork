@@ -371,6 +371,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 26/1/2021 20:57 it's the first time that I write about but **Andrea**, that I've known when I was young in Genoa, usually do stalk to me but not torture me. Obviously he plays in the virtual casino remote parimutuel betting system and probably he is an has got shares of Francesca's firm. Company engaged in the unauthorized sale of data for military purposes of targeted individuals enslaved by technology. He is from a rich family in Genoa connected to the Ansaldo company.
 
+- 27/1/2021 10:30 pm to 04:00 am continuous stalk. In all this chaos a person from a Sicilian family sold my machine to **Alessandro** for 15000 euros, a little noble from Genoa. He play with cards with **Andreu** in tribunal corruption, it seems to be that in the Barcelona Justice house there is people that are corrupted this will explain why **Massimo**, another person that I know but that I've already denunciate, never enter to jail. In the late night various death treat from a Marina Militare military that work for **Francesca** family, he also do threats to **Saray** to put me fear.
+
+- 28/1/2021 9:00 pm to 2:00 am because I want to work in the morning in Redama, calling a client and do some administration, Francesca doesn't stop to do stalk to me. I'm continuously tortured in front of a lot of people that I've known in my life and no one, absolutely no one, say nothing. I don't ever know why **Francesca** put me in this modern slavery network to exploit me, there's military from Italy from Marina Militare and also from Spain. This is absurd because in this network there is a lot of target individuals more. It's obvious that is something related with aristocracy. Perhaps I'm not son of my fathers and I'm victim of child trafficking from this family of black market human traders. They are fascist and they play with sons of leaf of nobility tree. They sold babies. Always the same military death treat me.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
