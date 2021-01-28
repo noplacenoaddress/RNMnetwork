@@ -1193,6 +1193,18 @@ La suspensión es una forma común de tortura que produce dolor extremo, pero qu
 
 En Barcelona, ciudad que alberga un monstruo tecnológico, un campo de explotación, un cárcel panóptico moderno, hay bastantes expertos en **bondage** [[263]](https://es.wikipedia.org/wiki/Bondage) y **Shibari** [[264]](https://es.wikipedia.org/wiki/Shibari), su versión Japones, tierra de monarquía constitucional, como España, que pero es gobernada por parte de una **familia Imperial** [[265]](https://es.wikipedia.org/wiki/Familia_imperial_japonesa). En la imagen se puede ver como las personas son el alimento de los albores. Alguien en Barcelona ha escondido entra cibertortura y esclavitud moderna un circuito de tortura física maquillado de arte, este individuo probablemente no se ha cortado en el indicar que de la esclavitud siempre se saca arte, en este centenario la mayoría es arte barata. 
 
+Una persona todavía reclusa puede ser reluctante en admitir de haber sido torturada, pero los hallazgos de deficiencias periféricas neurológicas, el diagnostico de **plexopatía branquial** [[266]](https://medlineplus.gov/spanish/ency/article/001418.htm), prueban virtualmente que la tortura por suspensión se ha realizado.
+
+Acerca del hecho de que si una persona es todavía reclusa es reluctante en admitir de haber sido torturada, en el caso de Carcelona os puedo asegurar que es total verdad. Pocos me han hecho únicamente solo asiente con la cabeza para entender de qué estaba hablando cuando sé perfectamente bien que muchos han participado en la destrucción sistemática de mi vida porque viven en continuos acechos y torturas. Otros, como mi ex pareja totalmente imputable por toda una serie de crímenes contra mi persona, ni siquiera me habla fuera de la red de explotación. Ella es un ángel, un ángel que violan desde hace décadas en Carcelona. Una mama que grita silenciosamente ayuda.
+
+La suspensión se puede hacer:
+
+- Suspensión cruz. Aplicada por abrir totalmente los brazos y atándolos a una barra horizontal. 
+- Suspensión de carnicería. Se obligan las manos hacía arriba, tanto una tras una cuanto juntas. Otro nombre de dicho individuo con lo cual se ha hecho reconocer por mi es «el carnicero».   
+- Suspensión de carnicería al revés. Como antes pero cabeza por abajo y píes para arriba. Siempre en la hipótesis muy plausible que fue un militar de la Armada seguramente sea muy practico en los nudos. Nudos para torturar.
+- Suspensión palestina. Aplicada poniendo en suspensión la victima con los antebrazos atados juntos detrás del cuerpo, los codos flexionados a noventa grados y los antebrazos atados a una barra horizontal. En alternativa, el prisionero es puesto en suspensión de una ligadura atada alrededor de los codos o muñecas con los brazos detrás de la espalda.
+- Suspensión de percha de loro. Se aplica suspendiendo a la víctima por las rodillas flexionadas de una barra que pasa por debajo de la **región poplítea** [[267]](https://es.wikipedia.org/wiki/Fosa_popl%C3%ADtea), normalmente cuando las muñecas están atadas a los tobillos.
+
 ####  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1724,6 +1736,10 @@ En Barcelona, ciudad que alberga un monstruo tecnológico, un campo de explotaci
 264. https://es.wikipedia.org/wiki/Shibari
 
 265. https://es.wikipedia.org/wiki/Familia_imperial_japonesa
+
+266. https://medlineplus.gov/spanish/ency/article/001418.htm
+
+267. https://es.wikipedia.org/wiki/Fosa_popl%C3%ADtea
 
      
 
