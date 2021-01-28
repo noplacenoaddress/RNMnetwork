@@ -375,6 +375,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/1/2021 9:00 pm to 2:00 am because I want to work in the morning in Redama, calling a client and do some administration, Francesca doesn't stop to do stalk to me. I'm continuously tortured in front of a lot of people that I've known in my life and no one, absolutely no one, say nothing. I don't ever know why **Francesca** put me in this modern slavery network to exploit me, there's military from Italy from Marina Militare and also from Spain. This is absurd because in this network there is a lot of target individuals more. It's obvious that is something related with aristocracy. Perhaps I'm not son of my fathers and I'm victim of child trafficking from this family of black market human traders. They are fascist and they play with sons of leaf of nobility tree. They sold babies. Always the same military death treat me.
 
+- 28/1/2021 07:00 am wakeup with electroshock torture. Heavy voice to skull from as usual, **Andreu** and **Francesca**. **Saray** also present and also some girls from Genoa, east Genoa.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
