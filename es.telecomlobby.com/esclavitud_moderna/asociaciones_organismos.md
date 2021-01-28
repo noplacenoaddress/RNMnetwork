@@ -1197,6 +1197,13 @@ Una persona todavía reclusa puede ser reluctante en admitir de haber sido tortu
 
 Acerca del hecho de que si una persona es todavía reclusa es reluctante en admitir de haber sido torturada, en el caso de Carcelona os puedo asegurar que es total verdad. Pocos me han hecho únicamente solo asiente con la cabeza para entender de qué estaba hablando cuando sé perfectamente bien que muchos han participado en la destrucción sistemática de mi vida porque viven en continuos acechos y torturas. Otros, como mi ex pareja totalmente imputable por toda una serie de crímenes contra mi persona, ni siquiera me habla fuera de la red de explotación. Ella es un ángel, un ángel que violan desde hace décadas en Carcelona. Una mama que grita silenciosamente ayuda.
 
+La suspensión se puede hacer:
+
+- Suspensión cruz. Aplicada por abrir totalmente los brazos y atándolos a una barra horizontal. 
+- Suspensión de carnicería. Se obligan las manos hacía arriba, tanto una tras una cuanto juntas. Otro nombre de dicho individuo con lo cual se ha hecho reconocer por mi es «el carnicero».   
+- Suspensión de carnicería al revés. Como antes pero cabeza por abajo y píes para arriba. Siempre en la hipótesis muy plausible que fue un militar de la Armada seguramente sea muy practico en los nudos. Nudos para torturar.
+- Suspensión palestina. Aplicada poniendo en suspensión la victima con los antebrazos atados juntos detrás del cuerpo, los codos flexionados a noventa grados y los antebrazos atados a una barra horizontal. En alternativa, el prisionero es puesto en suspensión de una ligadura atada alrededor de los codos o muñecas con los brazos detrás de la espalda.
+
 ####  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
