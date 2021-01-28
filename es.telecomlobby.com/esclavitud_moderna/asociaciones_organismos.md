@@ -1203,6 +1203,7 @@ La suspensión se puede hacer:
 - Suspensión de carnicería. Se obligan las manos hacía arriba, tanto una tras una cuanto juntas. Otro nombre de dicho individuo con lo cual se ha hecho reconocer por mi es «el carnicero».   
 - Suspensión de carnicería al revés. Como antes pero cabeza por abajo y píes para arriba. Siempre en la hipótesis muy plausible que fue un militar de la Armada seguramente sea muy practico en los nudos. Nudos para torturar.
 - Suspensión palestina. Aplicada poniendo en suspensión la victima con los antebrazos atados juntos detrás del cuerpo, los codos flexionados a noventa grados y los antebrazos atados a una barra horizontal. En alternativa, el prisionero es puesto en suspensión de una ligadura atada alrededor de los codos o muñecas con los brazos detrás de la espalda.
+- Suspensión de percha de loro. Se aplica suspendiendo a la víctima por las rodillas flexionadas de una barra que pasa por debajo de la **región poplítea** [[267]](https://es.wikipedia.org/wiki/Fosa_popl%C3%ADtea), normalmente cuando las muñecas están atadas a los tobillos.
 
 ####  External links 
 
@@ -1737,6 +1738,8 @@ La suspensión se puede hacer:
 265. https://es.wikipedia.org/wiki/Familia_imperial_japonesa
 
 266. https://medlineplus.gov/spanish/ency/article/001418.htm
+
+267. https://es.wikipedia.org/wiki/Fosa_popl%C3%ADtea
 
      
 
