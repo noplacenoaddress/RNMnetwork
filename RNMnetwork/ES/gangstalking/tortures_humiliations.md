@@ -301,7 +301,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 6/12/2020 **Saray** send me an email from his boyfriend where he told me to not try to contact her if I don't want to go to jail. After in remote neural monitoring network she say that he will hit me. So I've done an error because I think that she needs help but in reality she is involved in Mafia because she is a slave of this technology. But she doesn't want to complain.
 
-- 6/12/2020 **Saray** after the email from his boyfriend say to me that I will die. Francesca say that because she wants to take out from Genoa a family of Sicilian guys that got a surname connected with **Cosa Nostra** she has organized the systematic destruction of my life because one of the two guys she thinks that he will kill me.
+- 6/12/2020 **Saray** after the email from his boyfriend say to me that I will die. Francesca say that because she wants to take out from Genoa a family of Sicilian guys that got a surname connected with  a sicilian she has organized the systematic destruction of my life because one of the two guys she thinks that he will kill me.
 
 - 11/12/2020 sexual harassment in the night. **Saray** always touching me with others girls. It's forced masturbation that is torture.
 
