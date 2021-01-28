@@ -1205,6 +1205,12 @@ La suspensión se puede hacer:
 - Suspensión palestina. Aplicada poniendo en suspensión la victima con los antebrazos atados juntos detrás del cuerpo, los codos flexionados a noventa grados y los antebrazos atados a una barra horizontal. En alternativa, el prisionero es puesto en suspensión de una ligadura atada alrededor de los codos o muñecas con los brazos detrás de la espalda.
 - Suspensión de percha de loro. Se aplica suspendiendo a la víctima por las rodillas flexionadas de una barra que pasa por debajo de la **región poplítea** [[267]](https://es.wikipedia.org/wiki/Fosa_popl%C3%ADtea), normalmente cuando las muñecas están atadas a los tobillos.
 
+La suspensión puede durar de 15 a 20 minutos a muchas horas. La suspensión palestina puede producir una lesión permanente del plexo braquial en un período corto. La suspensión de percha de loro puede producir desgarros en los ligamentos cruzados de las rodillas. Las victimas pueden ser golpeadas mientras están en suspensión o de otras formas abusados. En la fase crónica, es usual por dolor y sensibilidad alrededor de las articulaciones del hombro para persistir tanto el levantamiento de peso y la rotación, especialmente interna, causará mucho dolor por muchos años mas. Complicaciones en la fase aguda que sigue la tortura de suspensión incluyes debilidad en los brazos y las manos, dolor y **parestesias** [[268]](https://es.wikipedia.org/wiki/Parestesia), entumecimiento, insensibilidad para tocar, dolor superficial y perdida de reflejos en el tendón. Un dolor intenso profundo podría enmascarar debilidad en los muslos. En la fase crónica, la debilidad puede continuar y progresar hacía el desgaste muscular. Entumecimiento y, más frecuentemente, parestesia son presentes. Levantar los brazos o levantar pesos puede causar dolor, debilidad y desgaste. Ademas a dolencias neurológicas, pueden haber desgarros de los ligamentos de las articulaciones del hombro, dislocación de la escapula y problemas a los muslos. Durante una inspección visual de la parte trasera, una escápula alada (borde prominente de una vertebra de la escapula) puede ser observada con injurias hacía el **nervio torácico largo** [[269]](https://es.wikipedia.org/wiki/Nervio_tor%C3%A1cico_largo) o dislocación de la escapula. 
+
+Injurias neurológicas son normalmente asimétricas en los brazos. Dolencias en el plexo braquial se muestran ellas mismas en disfunción motrices, sensoriales y en los reflejos. 
+
+Examen motor. Debilidad asimétrica de los muslos, más prominentes **distalmente** [[270]](https://dle.rae.es/distal), es el hallazgo más esperado. Dolor agudo puede hacer el examen de interpretación de la potencia muscular difícil de interpretar. Si la dolencia es severa, la atrofia muscular puede ser apreciada en fase crónica. Examen sensorial. Total perdida de las sensaciones o parestesia a lo largo del camino del nervio sensorial es común. La percepción de la posición, discriminación en dos puntos, evaluación de pinchazo, y percepción de calor y frío deberían ser testadas. Si por lo menos después de tres semanas después, deficiencias o perdidas de reflejos o disminución es presente, **estudios electrofisiológicos  EEF** [[271]](https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-electrofisiologicos/)
+
 ####  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1740,6 +1746,14 @@ La suspensión se puede hacer:
 266. https://medlineplus.gov/spanish/ency/article/001418.htm
 
 267. https://es.wikipedia.org/wiki/Fosa_popl%C3%ADtea
+
+268. https://es.wikipedia.org/wiki/Parestesia
+
+269. https://es.wikipedia.org/wiki/Nervio_tor%C3%A1cico_largo
+
+270. https://dle.rae.es/distal
+
+271. https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-electrofisiologicos/
 
      
 
