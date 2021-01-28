@@ -1185,8 +1185,13 @@ Numerosas complicaciones y síndrome pueden occurir:
 - Estrías rígidas involucrando la piel y el tejido subcutáneos de los píes después de la aplicación de la falanga. En un píe normal, la **dermis** [[258]](https://es.wikipedia.org/wiki/Dermis)  es enganchada a la aponeurosis plantar por parte de unas bandas de tejido estrecho conectivo. Igualmente, estas bandas pueden ser parcialmente o totalmente destruidas debido al edema que rompe las bandas después la exposición a la falanga.
 - La rotura del aponeurosis plantar y los tendones del píe. El edema en el periodo siguiente la falanga puede romper estas estructuras. Cuando las funciones de soporte necesarias al arco del píe desaparecen, el acto de caminar se hace más complicado y los muslos del píe especialmente el **múscolo cuadrado plantar** [[259]](https://es.wikipedia.org/wiki/M%C3%BAsculo_cuadrado_plantar) son excesivamente forzados.
 - **Fascitis plantar** [[260]](https://es.wikipedia.org/wiki/Fascitis_plantar). Puede ocurrir una mayor complicación en esta lesión. En los casos de falanga, irritación es muchas veces presente a través de toda la aponeurosis, causando **fascitis** [[261]](https://es.wikipedia.org/wiki/Fascitis) crónica. Estudios sobre el tema han demostrado que un prisionero dejado después de 15 años de reclusión y que afirma de haber sido sujeto a falanga cuando fue arrestado, gammagrafías óseas positivas de puntos de hiperactividad en los huesos  del calcáneo o metatarsiano han sido observadas. 
+- Métodos radiológicos como la MRI, la CT y los ultrasonidos pueden muchas veces confirmar causas de traumas que pasan como resultado de la aplicación de la falanga. Los hallazgos positivos radiológicos pueden ser también secundarios respecto a otras dolencias o traumas. Las radiografías de rutina son recomendadas para empezar el examen. El MRI es el examen radiológico de preferencia para detectar problemas en el tejido débil. El MRI o la gammagrafía puede detectar lesiones a huesos en la forma de **contusión** [[262]](https://es.wikipedia.org/wiki/Contusi%C3%B3n) que podría no ser detectable a través de radiografías de rutina o CT.
 
+![](https://telecomlobby.com/Images/bondage_shibari.webp)
 
+La suspensión es una forma común de tortura que produce dolor extremo, pero que deja pocos, si existen, signos de lesiones.
+
+En Barcelona, ciudad que alberga un monstruo tecnológico, un campo de explotación, un cárcel panóptico moderno, hay bastantes expertos en **bondage** [[263]](https://es.wikipedia.org/wiki/Bondage) y **Shibari** [[264]](https://es.wikipedia.org/wiki/Shibari), su versión Japones, tierra de monarquía constitucional, como España, que pero es gobernada por parte de una **familia Imperial** [[265]](https://es.wikipedia.org/wiki/Familia_imperial_japonesa). En la imagen se puede ver como las personas son el alimento de los albores. Alguien en Barcelona ha escondido entra cibertortura y esclavitud moderna un circuito de tortura física maquillado de arte, este individuo probablemente no se ha cortado en el indicar que de la esclavitud siempre se saca arte, en este centenario la mayoría es arte barata. 
 
 ####  External links 
 
@@ -1711,6 +1716,14 @@ Numerosas complicaciones y síndrome pueden occurir:
 260. https://es.wikipedia.org/wiki/Fascitis_plantar
 
 261. https://es.wikipedia.org/wiki/Fascitis
+
+262. https://es.wikipedia.org/wiki/Contusi%C3%B3n
+
+263. https://es.wikipedia.org/wiki/Bondage
+
+264. https://es.wikipedia.org/wiki/Shibari
+
+265. https://es.wikipedia.org/wiki/Familia_imperial_japonesa
 
      
 
