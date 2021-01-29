@@ -1209,7 +1209,17 @@ La suspensión puede durar de 15 a 20 minutos a muchas horas. La suspensión pal
 
 Injurias neurológicas son normalmente asimétricas en los brazos. Dolencias en el plexo braquial se muestran ellas mismas en disfunción motrices, sensoriales y en los reflejos. 
 
-Examen motor. Debilidad asimétrica de los muslos, más prominentes **distalmente** [[270]](https://dle.rae.es/distal), es el hallazgo más esperado. Dolor agudo puede hacer el examen de interpretación de la potencia muscular difícil de interpretar. Si la dolencia es severa, la atrofia muscular puede ser apreciada en fase crónica. Examen sensorial. Total perdida de las sensaciones o parestesia a lo largo del camino del nervio sensorial es común. La percepción de la posición, discriminación en dos puntos, evaluación de pinchazo, y percepción de calor y frío deberían ser testadas. Si por lo menos después de tres semanas después, deficiencias o perdidas de reflejos o disminución es presente, **estudios electrofisiológicos  EEF** [[271]](https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-electrofisiologicos/)
+Examen motor. Debilidad asimétrica de los muslos, más prominentes **distalmente** [[270]](https://dle.rae.es/distal), es el hallazgo más esperado. Dolor agudo puede hacer el examen de interpretación de la potencia muscular difícil de interpretar. Si la dolencia es severa, la atrofia muscular puede ser apreciada en fase crónica. Examen sensorial. Total perdida de las sensaciones o parestesia a lo largo del camino del nervio sensorial es común. La percepción de la posición, discriminación en dos puntos, evaluación de pinchazo, y percepción de calor y frío deberían ser testadas. Si por lo menos después de tres semanas después, deficiencias o perdidas de reflejos o disminución es presente, **estudios electrofisiológicos  EEF** [[271] ](https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-electrofisiologicos/)tendrían que ser llevados a cabo por parte de un **neurólogo** [[272]](https://es.wikipedia.org/wiki/Neurolog%C3%ADa) experimentado en el uso y interpretación de estos métodos.
+
+Examen de reflejos. Perdida de reflejos, una bajada en los reflejos o una diferencia entra las dos extremidades puede ser presente. En suspensión palestina, aunque ambos braquial plexos son sujetos a trauma, plexopatía asimétrica pude desarrollarse en relación con la manera en la cual la victima de tortura ha sido suspendida, dependiendo sobre cual brazo es sobrepuesto al otro o bien del método de atado. Aunque estudios sugieran que las plexopatías son normalmente unilaterales, que que difiere de la experiencia en el contexto de la tortura, donde una injuria de ambas partes es común.
+
+![](https://telecomlobby.com/Images/pronacion_suspinacion.webp)
+
+Entre el tejido de la región del hombro, el plexo braquial es la estructura más sensible a injuria por tracción. La suspensión palestina crea daño al plexo braquial debido a una extensión forzosa de los brazos. Como observado por parte del tipo clásico de suspensión palestina, cuando el cuerpo es suspendido con los brazos en hipertensión posterior, típicamente en el plexo más bajo y después en las fibras del plexo mediana y más altas, si la fuerza en el plexo es los suficientemente severa son dañadas respectivamente. Si la suspensión es del tipo a crucifixión, pero no incluye hipertensión, las fibras del plexo mediano son las que vienen dañadas por primeras debido a hiperabducción. Lesiones del plexo braquial puede ser caracterizadas como sigue:
+
+- Daño al plexo inferior. Los daños son localizados en los antebrazos y en los muslos de las manos. Deficiencias sensoriales pueden ser observadas en el antebrazo y a la alteza del dedo número cuatro o cinco de la del lado medial de la mano en una distribución del **nervio cubital** [[273]](https://es.wikipedia.org/wiki/Nervio_ulnar).
+- Daño en el plexo medio. Los antebrazos, el codo y los muslos extensores de los dedos son afectados. **Pronación** [[274]](https://es.wikipedia.org/wiki/Pronaci%C3%B3n) del antebrazo y flexión del radio de la mano pueden ser débiles. Deficiencia sensorial es encontrada en el antebrazo y en el aspecto dorsal del primero, del segundo y tercer dedo de la mano en una distribución del **nervio radial** [[275]](https://es.wikipedia.org/wiki/Nervio_radial). Reflejos de los **tríceps** [[276]](https://es.wikipedia.org/wiki/M%C3%BAsculo_tr%C3%ADceps_braquial) pueden ser perdidos.
+- Daños en el plexo superior. Los muslos del hombro son afectados de forma especial. La abducción del hombro, la rotación axial y la supinación,  pronación del antebrazo puede ser afectada. Daños sensoriales se notan en los **deltoides** [[277]](https://es.wikipedia.org/wiki/M%C3%BAsculo_deltoides) y se pueden extender al brazo y partes exteriores del antebrazo.
 
 ####  External links 
 
@@ -1754,6 +1764,18 @@ Examen motor. Debilidad asimétrica de los muslos, más prominentes **distalment
 270. https://dle.rae.es/distal
 
 271. https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-electrofisiologicos/
+
+272. https://es.wikipedia.org/wiki/Neurolog%C3%ADa
+
+273. https://es.wikipedia.org/wiki/Nervio_ulnar
+
+274. https://es.wikipedia.org/wiki/Pronaci%C3%B3n
+
+275. https://es.wikipedia.org/wiki/Nervio_radial
+
+276. https://es.wikipedia.org/wiki/M%C3%BAsculo_tr%C3%ADceps_braquial
+
+277. https://es.wikipedia.org/wiki/M%C3%BAsculo_deltoides
 
      
 
