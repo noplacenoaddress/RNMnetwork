@@ -1223,7 +1223,24 @@ Entre el tejido de la región del hombro, el plexo braquial es la estructura má
 
 Hay varias formas de tortura de posición, todos los cuales atan o restringen la victima en contorcidas, hiperextendidas u otras posiciones non naturales, las cuales dolor severo y pueden producir injurias a los ligamientos, tendones, nervios y vasos sanguíneos. Típicamente, estas formas de torturas dejan pocas, si algunas, marcas externas o hallazgos radiológicos, a pesar de consecuentes y frecuentes discapacidades severas y crónicas.  
 
-He vivido tortura de posición , en el circuito de tortura y manipulación a lo cual he sido sujeto en Barcelona desde 2014, en casa de un «maquinista», un torturado que tortura por cuenta de Francesca, marquesa de Genova. Un participe de la banda de actores no estatales cubiertos por la mascara de **Salvador Dalí** [[278]](https://es.wikipedia.org/wiki/Salvador_Dal%C3%AD), parecida a la de Anonymous. Mascaras utilizadas para cubrir franquistas, fascistas y nazistas. Lamentablemente también mi ex pareja viste la misma mascara. 
+He vivido tortura de posición , en el circuito de tortura y manipulación a lo cual he sido sujeto en Barcelona desde 2014, en casa de un «maquinista», un torturado que tortura por cuenta de Francesca, marquesa de Genova. Un participe de la banda de actores no estatales cubiertos por la mascara de **Salvador Dalí** [[278]](https://es.wikipedia.org/wiki/Salvador_Dal%C3%AD), parecida a la de Anonymous. Mascaras utilizadas para cubrir franquistas, fascistas y nazistas. Lamentablemente también mi ex pareja viste la misma mascara.
+
+![](https://telecomlobby.com/Images/tortura_de_posicion.webp) 
+
+Todas las torturas de posición es dirigida a través de tendones, articulaciones y muslos. Varios métodos:
+
+- suspensión del loro.
+- soporte de plátano.
+- corbata de plátano.
+- de pie forzado.
+- de pie forzado sobre solo una pierna.
+- de pie durante mucho tiempo con los brazos y las manos estirados en lo alto de una pared.
+- sentadillas forzadas prolongadas.
+- inmovilización forzada en una jaula pequeña.
+
+Decimos que debido a la forma de mi cara y de mi pene estos torturadores se han divertidos en hacerme vivir estos tipos de torturas franquistas en una Barcelona callada porqué, lamentablemente, muchas personas que conozco tienen la televisión neuronal de mis ojos o sea que han sido cocientes de que yo estaba siendo torturado, mis padres incluidos.  Las ordenes han sido dictadas por parte de este representante militar, probablemente de Centro Nacional de Inteligencia, y de una marquesa Italiana de orígenes Franceses. Ahora quien lo ha ejecutado es una persona que ha sido torturada por muchos años y, yo como victima y no porqué sufra de ningún síndrome, estoy seguro que tenga un buen fondo.  
+
+
 
 ####  External links 
 
