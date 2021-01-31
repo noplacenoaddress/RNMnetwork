@@ -377,6 +377,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 31/1/2021 from 4:00 am to 8:30 am dream injection to induct to me to do another cycle in the brain washing machine organized by **Andreu** and **Francesca** in Barcelona, to create slaves, zombies of the technology. They speak about a brother of him, probably another high level functionary that play in the Barcelona circus.
 
+- 31/01/2021 from 20:30 to 21:40 **Saray** sexual harass me continuous with electronic weapons. It does it means that she is thinking about my dick and her neural state is interpreted by artificial intelligence that resend the command to another electronic weapons that is given me genital torture. **Francesca** say that I'm an addicted to masturbation in front of a lot of people connected in my neural torture application. It's humiliation and is always torture. In this torture chamber there is also my family.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
