@@ -1221,6 +1221,10 @@ Entre el tejido de la región del hombro, el plexo braquial es la estructura má
 - Daño en el plexo medio. Los antebrazos, el codo y los muslos extensores de los dedos son afectados. **Pronación** [[274]](https://es.wikipedia.org/wiki/Pronaci%C3%B3n) del antebrazo y flexión del radio de la mano pueden ser débiles. Deficiencia sensorial es encontrada en el antebrazo y en el aspecto dorsal del primero, del segundo y tercer dedo de la mano en una distribución del **nervio radial** [[275]](https://es.wikipedia.org/wiki/Nervio_radial). Reflejos de los **tríceps** [[276]](https://es.wikipedia.org/wiki/M%C3%BAsculo_tr%C3%ADceps_braquial) pueden ser perdidos.
 - Daños en el plexo superior. Los muslos del hombro son afectados de forma especial. La abducción del hombro, la rotación axial y la supinación,  pronación del antebrazo puede ser afectada. Daños sensoriales se notan en los **deltoides** [[277]](https://es.wikipedia.org/wiki/M%C3%BAsculo_deltoides) y se pueden extender al brazo y partes exteriores del antebrazo.
 
+Hay varias formas de tortura de posición, todos los cuales atan o restringen la victima en contorcidas, hiperextendidas u otras posiciones non naturales, las cuales dolor severo y pueden producir injurias a los ligamientos, tendones, nervios y vasos sanguíneos. Típicamente, estas formas de torturas dejan pocas, si algunas, marcas externas o hallazgos radiológicos, a pesar de consecuentes y frecuentes discapacidades severas y crónicas.  
+
+He vivido tortura de posición , en el circuito de tortura y manipulación a lo cual he sido sujeto en Barcelona desde 2014, en casa de un «maquinista», un torturado que tortura por cuenta de Francesca, marquesa de Genova. Un participe de la banda de actores no estatales cubiertos por la mascara de **Salvador Dalí** [[278]](https://es.wikipedia.org/wiki/Salvador_Dal%C3%AD), parecida a la de Anonymous. Mascaras utilizadas para cubrir franquistas, fascistas y nazistas. Lamentablemente también mi ex pareja viste la misma mascara. 
+
 ####  External links 
 
 1. https://es.wikipedia.org/wiki/Aristocracia
@@ -1776,6 +1780,8 @@ Entre el tejido de la región del hombro, el plexo braquial es la estructura má
 276. https://es.wikipedia.org/wiki/M%C3%BAsculo_tr%C3%ADceps_braquial
 
 277. https://es.wikipedia.org/wiki/M%C3%BAsculo_deltoides
+
+278. https://es.wikipedia.org/wiki/Salvador_Dal%C3%AD
 
      
 
