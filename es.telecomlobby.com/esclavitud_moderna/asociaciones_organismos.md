@@ -1254,6 +1254,16 @@ La corriente eléctrica sigue la ruta más rápida entra dos electrodos. Si los 
 
 La asfixia en un método de tortura cada vez más común. Normalmente no deja marcas y su recuperación es rápida. Este método de tortura fue siempre utilizado en América Latina y pilla el nombre de **submarino** y ha preso parte del vocabulario de los derechos humanos. En la imagen podéis ver como un submarino se ha transformado en museo en el puerto de Genova (de la esclavitud se saca arte, siempre). **Submarino Nazario Sauro S518** [[287]](https://bit.ly/3oyqfNh).
 
+La respiración podría ser interferida con métodos como cubrir la cara con una bolsa de plástico, un cierre en la boca y en el naso, presión o legaduras al cuello o aspiración forzada de polvo, cemento o pimiento picante, lo cual es conocido como **submarino seco**. Muchas complicaciones podrían desarrollarse como **petequias** [[288]](https://es.wikipedia.org/wiki/Petequia) de la piel, hemorragias nasales, sangrando por los oídos, congestión de la cara, infecciones de la boca y problemas respiratorios agudos o crónicos. Inmersión forzada de la cabeza en agua, muchas veces contaminada con orina, feches, vómitos, o otras impuridades, puede resultar en casi ahogamiento o **ahogamiento** [[289]](https://es.wikipedia.org/wiki/Ahogamiento). En colgar o en otra ligadura, abrasiones modeladas u otras contusiones pueden ser encontradas en el cuello. El **hueso hioides** [[290]](https://es.wikipedia.org/wiki/Hueso_hioides) y el cartílago laríngeo puede ser fracturado por estrangulación parcial o por golpetazos en el cuello.
+
+Torturas sexuales empiezan con desnudez forzada.
+
+Es obligada en la red de explotación. Ya que nuestros ojos son transmitidos por parte de las armas electromagnéticas y el ambiente donde vivimos es visualizado de forma remota siempre gracias a radio frecuencia. Nuestro cuarto es transformado en un ambiente de tortura. Toda una serie de personajes nos humillan continuamente siendo individuo objetivo, que, siendo Italiano y Europeo, se traduce con el ser con toda seguridad un corte de pasadas generaciones de nobleza. Un nieto o un bisnieto de alguien que pertenecía a una familia noble. Así nos tratan como perros, y nuestro destino es gravemente interferido por parte de los nobles, de la Iglesia y de sus soldados. 
+
+*Personalmente me he querido dedicar siempre al mundo de la empresa y de la legalidad pero, por este motivo, siempre he sido bloqueado y invitado a participar a la criminalidad. Todo esto delante de los máximos representantes del Estado de derecho, un escándalo.* 
+
+  
+
 
 
 ####  External links 
@@ -1831,6 +1841,14 @@ La asfixia en un método de tortura cada vez más común. Normalmente no deja ma
 286. https://es.wikipedia.org/wiki/Subluxaci%C3%B3n
 
 287. https://bit.ly/3oyqfNh
+
+288. https://es.wikipedia.org/wiki/Petequia
+
+289. https://es.wikipedia.org/wiki/Ahogamiento
+
+290. https://es.wikipedia.org/wiki/Hueso_hioides
+
+     
 
      
 
