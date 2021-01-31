@@ -1274,6 +1274,16 @@ Hay algunas diferencias entra torturas sexuales de hombres y mujeres, pero vario
 
 En mi caso, debido al continuo acecho sexual por parte de mi ex pareja, las humillaciones también por parte de conocidos, y a la falta de una relación estable desde cuando ha empezado mi tortura electrónica el 27 de Noviembre 2017, se me continua a humillar por perdida de masculinidad, cosa absolutamente no real. Esto si, siendo torturado en frente también de muchas mujeres, me parece increíble que ninguna se haga viva también bajo el contesto de relación sexual esporádica. 
 
+Los presos pueden ser puestos desnudos en celdas con miembros de la misma familia, amigos o total desconocidos, rompiendo tabú culturales.
+
+En mi celda virtual en el cárcel panóptico moderno confirmo que hay exactamente todos los elementos sobre indicados. Por esto no tengo relaciones sexuales. He tenido una con una turista Israelí y la he encontrada en páginas de pornografía en Internet, aunque no era exactamente ella eran personas de los rasgos fenotípicos muy parecidos. Esta Mafia, utiliza personas parecidas también por traficar, por hacer estafas y acecho.
+
+Se denota la total ausencia de privacidad, también parte de la tortura y de la perdida de derechos civiles y básicos del ser humano, totalmente esclavizado por parte de la tecnología y por parte del terrorismo de Estado. Un individuo objetivo es un esclavo. Todos, intentan hacer de el un esclavo también en el mercado negro. Todos. 
+
+Además, los presos pueden ser forzados de abusar sexualmente entra ellos.
+
+Esto también pasa en Carcelona. Massimo, un amigo, ha tenido varias relaciones sexuales, también orgías, con mujeres que amo y he amado. Obviamente si yo lo defino, un amigo, algún motivo habrá. Ellas, esclavas de esta tecnología, solo han intentado en separarnos. El ha caído, yo no. He llegado a denunciar su participación en la destrucción sistemática de mi vida, solo con el único fin de poner las cosas en claro. Otras fuerzas, militares y mafias, lo tienen sujeto a ordenes horribles por hacernos daño. Muchas de estas personas no se dan cuenta que están dando de comer a la élite, lo hacen porqué a sus veces son esclavos. Esta red es sin duda ninguna la red de esclavitud moderna, tengo muchos amigos en varios niveles que son esclavos y tienen hijos. Nos han esclavizados. Francesca utiliza un servicio de Inteligencia española por organizar esta explotación y amenaza continua. Nosotros, Genoveses y también de otras regiones de Italia, somos victimas. También muchos españoles lo son, militares que después el servicio vienen obligados a participar a esta basura, que nada mas es.
+
 
 
 
