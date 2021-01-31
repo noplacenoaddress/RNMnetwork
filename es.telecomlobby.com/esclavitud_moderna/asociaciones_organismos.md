@@ -1240,6 +1240,14 @@ Todas las torturas de posición es dirigida a través de tendones, articulacione
 
 Decimos que debido a la forma de mi cara y de mi pene estos torturadores se han divertidos en hacerme vivir estos tipos de torturas franquistas en una Barcelona callada porqué, lamentablemente, muchas personas que conozco tienen la televisión neuronal de mis ojos o sea que han sido cocientes de que yo estaba siendo torturado, mis padres incluidos.  Las ordenes han sido dictadas por parte de este representante militar, probablemente de Centro Nacional de Inteligencia, y de una marquesa Italiana de orígenes Franceses. Ahora quien lo ha ejecutado es una persona que ha sido torturada por muchos años y, yo como victima y no porqué sufra de ningún síndrome, estoy seguro que tenga un buen fondo.  
 
+Las quejas son caracterizadas como dolores en una parte del cuerpo, limitaciones en el movimiento articular, dolores en la parte trasera, dolores en las manos, dolores en las **vértebras cervicales** [[279]](https://es.wikipedia.org/wiki/V%C3%A9rtebras_cervicales)  y hinchazón de la pierna. Los mismos principios de exámenes neurológicos y musculoesqueléticos se aplican a estas formas de torturas posiciónales al igual que la suspensión. La MRI es la modalidad radiológica preferida para evaluar las injurias asociadas con cualquier forma de tortura de posición.
+
+Corriente eléctrica es transmitida a través electrodos posicionados sobre cualquier parte del cuerpo. La partes más comunes  son las manos, los píes, los dedos, los oídos, los pezones, los labios y la área genital. El generador de potencia puede ser hecho a manos o un generador a combustión, fuente de pared, **pistola paralizante** [[280]](https://es.wikipedia.org/wiki/Arma_de_electrochoque), **picana** [[281]](https://es.wikipedia.org/wiki/Picana_el%C3%A9ctrica), u otro dispositivo eléctrico. 
+
+En el caso de la red de explotación transmitida por parte de armas electromagnéticas son las mismas armas a electrocutar la victima.  
+
+La corriente eléctrica sigue la ruta más rápida entra dos electrodos. Si los electrodos son posicionados entra un dedo del píe derecho y los genitales, habrá dolor, contracción de los muslos, y calambres en el muslo derecho y el músculo de la **pantorrilla** [[282]](https://es.wikipedia.org/wiki/Pantorrilla)
+
 
 
 ####  External links 
@@ -1799,6 +1807,14 @@ Decimos que debido a la forma de mi cara y de mi pene estos torturadores se han 
 277. https://es.wikipedia.org/wiki/M%C3%BAsculo_deltoides
 
 278. https://es.wikipedia.org/wiki/Salvador_Dal%C3%AD
+
+279. https://es.wikipedia.org/wiki/V%C3%A9rtebras_cervicales
+
+280. https://es.wikipedia.org/wiki/Arma_de_electrochoque
+
+281. https://es.wikipedia.org/wiki/Picana_el%C3%A9ctrica
+
+282. https://es.wikipedia.org/wiki/Pantorrilla
 
      
 
