@@ -377,7 +377,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/1/2021 07:00 am wakeup with electroshock torture. Heavy voice to skull from as usual, **Andreu** and **Francesca**. **Saray** also present and also some girls from Genoa, east Genoa.
 
-- 31/1/2021 from 4:00 am to 8:30 am dream injection to induct to me to do another cycle in the brain washing machine organized by **Andreu** and **Francesca** in Barcelona, to create slaves, zombies of the technology.
+- 31/1/2021 from 4:00 am to 8:30 am dream injection to induct to me to do another cycle in the brain washing machine organized by **Andreu** and **Francesca** in Barcelona, to create slaves, zombies of the technology. They speak about a brother of him, probably another high level functionary that play in the Barcelona circus.
 
   
 
