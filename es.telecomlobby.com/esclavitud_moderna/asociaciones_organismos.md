@@ -1260,7 +1260,7 @@ Torturas sexuales empiezan con desnudez forzada.
 
 Es obligada en la red de explotación. Ya que nuestros ojos son transmitidos por parte de las armas electromagnéticas y el ambiente donde vivimos es visualizado de forma remota siempre gracias a radio frecuencia. Nuestro cuarto es transformado en un ambiente de tortura. Toda una serie de personajes nos humillan continuamente siendo individuo objetivo, que, siendo Italiano y Europeo, se traduce con el ser con toda seguridad un corte de pasadas generaciones de nobleza. Un nieto o un bisnieto de alguien que pertenecía a una familia noble. Así nos tratan como perros, y nuestro destino es gravemente interferido por parte de los nobles, de la Iglesia y de sus soldados. 
 
-*Personalmente me he querido dedicar siempre al mundo de la empresa y de la legalidad pero, por este motivo, siempre he sido bloqueado y invitado a participar a la criminalidad. Todo esto delante de los máximos representantes del Estado de derecho, un escándalo.* 
+*Personalmente me he querido dedicar siempre al mundo de la empresa y de la legalidad pero, por este motivo, siempre he sido bloqueado y invitado a participar a otra actividad. Todo esto delante de los máximos representantes del Estado de derecho, un escándalo.* 
 
   
 
