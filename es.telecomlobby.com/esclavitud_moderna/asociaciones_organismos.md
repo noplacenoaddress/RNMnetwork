@@ -1280,11 +1280,19 @@ En mi celda virtual en el cárcel panóptico moderno confirmo que hay exactament
 
 Se denota la total ausencia de privacidad, también parte de la tortura y de la perdida de derechos civiles y básicos del ser humano, totalmente esclavizado por parte de la tecnología y por parte del terrorismo de Estado. Un individuo objetivo es un esclavo. Todos, intentan hacer de el un esclavo también en el mercado negro. Todos. 
 
-Además, los presos pueden ser forzados de abusar sexualmente entra ellos.
+Además, los presos pueden ser forzados de abusar sexualmente entra ellos que puede ser particularmente difícil de afrontar emocionalmente.
 
 Esto también pasa en Carcelona. Massimo, un amigo, ha tenido varias relaciones sexuales, también orgías, con mujeres que amo y he amado. Obviamente si yo lo defino, un amigo, algún motivo habrá. Ellas, esclavas de esta tecnología, solo han intentado en separarnos. El ha caído, yo no. He llegado a denunciar su participación en la destrucción sistemática de mi vida, solo con el único fin de poner las cosas en claro. Otras fuerzas, militares y mafias, lo tienen sujeto a ordenes horribles por hacernos daño. Muchas de estas personas no se dan cuenta que están dando de comer a la élite, lo hacen porqué a sus veces son esclavos. Esta red es sin duda ninguna la red de esclavitud moderna, tengo muchos amigos en varios niveles que son esclavos y tienen hijos. Nos han esclavizados. Francesca utiliza un servicio de Inteligencia española por organizar esta explotación y amenaza continua. Nosotros, Genoveses y también de otras regiones de Italia, somos victimas. También muchos españoles lo son, militares que después el servicio vienen obligados a participar a esta basura, que nada mas es.
 
+El miedo de potencial violencia sexual entre mujeres, dado un profundo estigma cultural asociado con la violación, puede añadirse al trauma. No hay que descuidar los traumas relativos a posibles embarazos, cosa que los hombres, obviamente, no pasan, el miedo a perder la virginidad y el miedo a no poder tener hijos. Cuidado porqué la violencia sexual puede ser ocultada de un marido por parte del resto de la sociedad.
 
+Personalmente vivo el trauma de no poder tener hijos porqué bajo acecho continuo y teniendo mi misma habitación transformada en ambiente de tortura. Cualquier otra persona se daría cuenta dado que la tecnología DOMINT se registra con una óptica convencional. Esto es un añadido a mi trauma de tortura continua desde el 27 de Noviembre de 2017.
+
+En caso de abusos sexuales las victimas podría no querer que el evento sea conocido públicamente debido a presiones socioculturales o razones personales, el profesional que se hace cargo del examen médico, agencias de investigaciones y los juzgados tienen la obligación en cooperar con la victima por mantener el secreto.
+
+![](https://telecomlobby.com/Images/absolutismos_fascismo.webp)
+
+Todo esto es totalmente imposible en la red de explotación. Muchas personas entra conocidos, amigos, familiares, mujeres, hombres, gente importante y nobles tienen mi pantalla neuronal. De allí toda una serie de humillaciones públicas a través de Internet, audiovisuales y otros tipos de medios publican material denigrante que hace referencia al caso. Se llama información basura, memes en Internet. Hace parte de un plan de absolutismo de derechas como se puede apreciar de la imagen sobra indicada.
 
 
 
