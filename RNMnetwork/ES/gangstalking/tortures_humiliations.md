@@ -229,7 +229,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 18/10/2020 11:22 today I wanted to start distributing advertising in the areas surrounding sant pere de ribes by bicycle but unfortunately I could not do it due to not having sufficiently swollen wheels and to being the petrol distributor without a suitable compressor. A person I have known for thirty years, **Alessio**, on returning home started to humiliate me because he had made a bet and obviously lost it. In the remote betting system there are practically all the people I have met in my life in Genoa, being **Francesca** resident in my hometown. These people, obviously not knowing the technology of neuronal control, participated in the game of suicide both for me and for **Cristian**, a boy who committed suicide by jumping out of the window of a psychiatric hospital in Nervi, a Genoese neighbourhood. They are accomplices of murdered and torture. This man now say that want to set my house on fire in Genoa.
 
-- 19/10/2020 Because today I've worked from 6AM to 16PM those pathetic ordered by this stupid little bitch of the Marquees do stalk to me in radio subliminal voice service. They are people that I personally know from Genoa, and this is an International complaint because of **tortures, crimes against humanity, Mafia, intent of murder, etc etc**. Those pathetic will go in jail for life. **Francesca** you too. 
+- 19/10/2020 Because today I've worked from 6AM to 16PM those pathetic ordered by this stupid little bitch of the Marquees do stalk to me in radio subliminal voice service. 
 
 - 21/10/2020 12:00 The torture never stop. I'm continuously electrocuted by electromagnetic weapons in Catalunya, Spain. The weapons are used by a Catalan Mafia man that follow Francesca orders. In subliminal message system he always death threat me.
 
@@ -299,9 +299,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 5/12/2020 **Francesca** every minute repeat: your son will die. She continuously threat me about death. And about kidnap. 
 
-- 6/12/2020 **Saray** send me an email from his boyfriend where he told me to not try to contact her if I don't want to go to jail. After in remote neural monitoring network she say that he will hit me. So I've done an error because I think that she needs help but in reality she is involved in Mafia because she is a slave of this technology. But she doesn't want to complain.
-
-- 6/12/2020 **Saray** after the email from his boyfriend say to me that I will die. Francesca say that because she wants to take out from Genoa a family of Sicilian guys that got a surname connected with  a sicilian she has organized the systematic destruction of my life because one of the two guys she thinks that he will kill me.
+- 6/12/2020 **Saray** send me an email from his boyfriend where he told me to not try to contact her if I don't want to go to jail. After in remote neural monitoring network she say that he will hit me.
 
 - 11/12/2020 sexual harassment in the night. **Saray** always touching me with others girls. It's forced masturbation that is torture.
 
@@ -357,7 +355,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 24/1/2021 from 8 am to 10 am extreme electroshock torture in the left side part of my brain. Now at 10 am I cannot work, I've got big head cache and inside my brain I fell like empty inside of my head. Who is torture me is **Andreu**, **Saray** is present doing me sexual harassment and in my head they do also dream injection.
 
-- 24/1/2021 15:10 **Francesca** continuously speak about death thread, she speaks about Mafia connected surnames and people that work for her because of military grades in Marina Militare. **Francesca** is a terrorist and she is probably who is investigated by **Federico Cafiero de Raho** that had opened an investigation about masonry and Mafia and drug traffic.
+- 24/1/2021 15:10 **Francesca** continuously speak about death thread, she speaks about people that work for her because of military grades in Marina Militare. **Francesca** is a terrorist and she is probably who is investigated by **Federico Cafiero de Raho** that had opened an investigation about masonry .
 
 - 21/1/2021 15:35 **Francesca** just speak that no one have fought against her nor the father of **Gianmaria** a good boy that was friend of mine that had died in motorbike accident in Genova two decades ago. This man was hospitalized in coma, and after die. Because Francesca use this technology to develop neural application is very common that she have plotted this for Gianmaria to obtain data in a brain that had got a spilling of blood.
 
@@ -420,7 +418,7 @@ Here I am in November 2018 one year after my electronic torture started. I was s
 - Big Data sold to third parties.
 - Torture. Sleep deprivation, extreme stress and something similar to the **foot whipping** [[13]](https://en.wikipedia.org/wiki/Foot_whipping) torture. A torture that was used by soldiers in Iraq and in the **Greek junta** [[14]](https://en.wikipedia.org/wiki/Greek_junta). Remember that Sofia of Greece is from that country, she was the queen of Spain.
 
-Those are some results about this indirected inflicted torture, remember that this torture was planned, executed perfectly and in a indirected mode, and was full of pain and suffering also about my ex girlfriend. A woman destroyed by the slavery network. A woman utilized like a bitch from soldiers, secret services and Mafia:
+Those are some results about this indirected inflicted torture, remember that this torture was planned, executed perfectly and in a indirected mode, and was full of pain and suffering also about my ex girlfriend. A woman destroyed by the slavery network. A woman utilized like a bitch from soldiers, secret services:
 
 ![](https://telecomlobby.com/Images/1_foot.webp)
 
