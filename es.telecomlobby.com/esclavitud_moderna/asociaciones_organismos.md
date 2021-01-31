@@ -1246,7 +1246,7 @@ Corriente eléctrica es transmitida a través electrodos posicionados sobre cual
 
 En el caso de la red de explotación transmitida por parte de armas electromagnéticas son las mismas armas a electrocutar la victima.  
 
-La corriente eléctrica sigue la ruta más rápida entra dos electrodos. Si los electrodos son posicionados entra un dedo del píe derecho y los genitales, habrá dolor, contracción de los muslos, y calambres en el muslo derecho y el músculo de la **pantorrilla** [[282]](https://es.wikipedia.org/wiki/Pantorrilla)
+La corriente eléctrica sigue la ruta más rápida entra dos electrodos. Si los electrodos son posicionados entra un dedo del píe derecho y los genitales, habrá dolor, contracción de los muslos, y calambres en el muslo derecho y el músculo de la **pantorrilla** [[282]](https://es.wikipedia.org/wiki/Pantorrilla). Se sentirá un dolor insoportable en la región genital. Desde que todos los muslos en el camino de la corriente eléctrica son contraídos, luxación del hombro, radiculopatías lumbares y cervicales pueden observarse cuando la corriente es moderadamente alta. Aunque el tipo, tiempo de aplicación, corriente y voltaje de la energía utilizada no puede ser determinada con exactitud después de un examen físico de la victima. Los torturadores muchas veces utilizan agua o geles de manera de augmentar la eficiencia de la tortura, expandir la entrada en el cuerpo de la corriente eléctrica y prevenir quemados detectables debidos a la corriente. Trazas de quemados eléctricos son normalmente lesiones rojizas y marrones de forma circular de 1 a 3 milímetros de diámetros, normalmente sin inflamación, que pueden llegar a ser cicatrices hiperpigmentadas. La superficie de la piel tiene que ser examinada cuidadosamente porqué las lesiones no son fácilmente perceptibles. La decisión de hacer **biopsia** [[283]](https://es.wikipedia.org/wiki/Biopsia) sobre lesiones recientes para probar sus orígenes es controvertida. Quemaduras eléctricas pueden producir cambios **histológicos** [[284]](https://es.wikipedia.org/wiki/Histolog%C3%ADa) específicos pero ellos no son siempre presentes y la ausencia de cambios de ninguna manera deniega el hecho que haya sido producido por parte de quemaduras eléctricas. La decisión tiene que ser tomada sobre una base de caso en caso 
 
 
 
@@ -1815,6 +1815,10 @@ La corriente eléctrica sigue la ruta más rápida entra dos electrodos. Si los 
 281. https://es.wikipedia.org/wiki/Picana_el%C3%A9ctrica
 
 282. https://es.wikipedia.org/wiki/Pantorrilla
+
+283. https://es.wikipedia.org/wiki/Biopsia
+
+284. https://es.wikipedia.org/wiki/Histolog%C3%ADa
 
      
 
