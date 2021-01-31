@@ -1270,7 +1270,11 @@ Asaltos sexuales de forma verbal abusos y burlas son también parte de la tortur
 
 Yo, Riccardo Giuntoli, soy manoseado cada momento en la red de explotación.
 
-Hay algunas diferencias entra torturas sexuales de hombres y mujeres, pero varios problemas se aplican a ambos. Las violencias sexuales son siempre asociadas con el riesgo de desarrollar enfermedades de contagio sexual, en particular manera el **SIDA** [[291]](https://es.wikipedia.org/wiki/VIH/sida). 
+Hay algunas diferencias entra torturas sexuales de hombres y mujeres, pero varios problemas se aplican a ambos. Las violencias sexuales son siempre asociadas con el riesgo de desarrollar enfermedades de contagio sexual, en particular manera el **SIDA** [[291]](https://es.wikipedia.org/wiki/VIH/sida).  Es importante acordar que en caso de contagio de SIDA la única solución eficaz es tomar **profilaxis contra el VIH** [[292]](https://www.cdc.gov/hiv/spanish/basics/pep.html) dentro de unas horas después del incidente. En la mayoría de los casos habrá un componente sexual lascivo y en otros casos la tortura se dirige a los genitales. Electricidad y golpes son generalmente objetivo de los genitales de los hombres, con o sin tortura anal adicional.  El trauma resultado  es aumentado del abuso verbal. Hay muchas veces amenazas de pérdida de masculinidad para los hombres y consecuente perdida de respeto en la sociedad.
+
+En mi caso, debido al continuo acecho sexual por parte de mi ex pareja, las humillaciones también por parte de conocidos, y a la falta de una relación estable desde cuando ha empezado mi tortura electrónica el 27 de Noviembre 2017, se me continua a humillar por perdida de masculinidad, cosa absolutamente no real. Esto si, siendo torturado en frente también de muchas mujeres, me parece increíble que ninguna se haga viva también bajo el contesto de relación sexual esporádica. 
+
+
 
 
 
@@ -1857,6 +1861,8 @@ Hay algunas diferencias entra torturas sexuales de hombres y mujeres, pero vario
 290. https://es.wikipedia.org/wiki/Hueso_hioides
 
 291. https://es.wikipedia.org/wiki/VIH/sida
+
+292. https://www.cdc.gov/hiv/spanish/basics/pep.html
 
      
 
