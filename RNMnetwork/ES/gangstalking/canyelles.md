@@ -68,6 +68,8 @@ But I've got **surge protectors** [[12]](https://en.wikipedia.org/wiki/Surge_pro
 
 And i was a **surrenderer** [[15]](https://en.wikipedia.org/wiki/Surrender_(law)) with a private contract, and the owner had no **insurance** [[16]](https://en.wikipedia.org/wiki/Insurance). And the house begin to decline.
 
+*PS: a friend of mine have passed in front of my lost house and see that there is three womans that live inside, as I've seen a couple of years ago. Today is 31 of January of 2021.*
+
 ### External Links
 
 1. https://en.wikipedia.org/wiki/Visionary
