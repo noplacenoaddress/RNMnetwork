@@ -1250,6 +1250,10 @@ La corriente eléctrica sigue la ruta más rápida entra dos electrodos. Si los 
 
  Tortura a los dientes se pueden hacer en forma de rotura o como extracción del dente o aplicado corriente eléctrica al diente. Puede resultar en una perdida o en una ruptura del diente, hinchazón de las encías, desangrado, dolor, gingivitis, estomatitis, fracturas mandibulares o perdidas o sensaciones desde el diente. Síndrome de la articulación temporomandibular producirá dolor en la **articulación temporomandibular** [[285]](https://es.wikipedia.org/wiki/Articulaci%C3%B3n_temporomandibular), limitaciones en el movimiento de la mandíbula y en algún caso **subluxación** [[286]](https://es.wikipedia.org/wiki/Subluxaci%C3%B3n) de esta articulación debido a espasmos musculares que ocurren como resultado de la corriente eléctrica o golpes en la cara.
 
+![](https://telecomlobby.com/Images/submarino_tortura_genova.webp)
+
+La asfixia en un método de tortura cada vez más común. Normalmente no deja marcas y su recuperación es rápida. Este método de tortura fue siempre utilizado en América Latina y pilla el nombre de **submarino** y ha preso parte del vocabulario de los derechos humanos. En la imagen podéis ver como un submarino se ha transformado en museo en el puerto de Genova (de la esclavitud se saca arte, siempre). **Submarino Nazario Sauro S518** [[287]](https://bit.ly/3oyqfNh).
+
 
 
 ####  External links 
@@ -1825,6 +1829,8 @@ La corriente eléctrica sigue la ruta más rápida entra dos electrodos. Si los 
 285. https://es.wikipedia.org/wiki/Articulaci%C3%B3n_temporomandibular
 
 286. https://es.wikipedia.org/wiki/Subluxaci%C3%B3n
+
+287. https://bit.ly/3oyqfNh
 
      
 
