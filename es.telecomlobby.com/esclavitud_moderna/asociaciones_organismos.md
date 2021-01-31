@@ -1262,7 +1262,15 @@ Es obligada en la red de explotación. Ya que nuestros ojos son transmitidos por
 
 *Personalmente me he querido dedicar siempre al mundo de la empresa y de la legalidad pero, por este motivo, siempre he sido bloqueado y invitado a participar a otra actividad. Todo esto delante de los máximos representantes del Estado de derecho, un escándalo.* 
 
-  
+Un individuo nunca es tan vulnerable cuando desnudo y sin ayuda. La desnudez aumenta el terror psicológico de cada aspecto de tortura, y siempre hay las bases de abuso potencial, violencia sexual o sodomía. 
+
+En la red de explotación la sodomía es escenificada cada día y en cada momento por parte de presiones al nivel del ano por parte de las armas electromagnéticas. Os recuerdo, queridos lectores, que al acto de sodomía corresponde el hecho de hacer un esclavo, tanto sexual al momento de la violencia, cuanto físico con el pasar del tiempo. Por esto he encontrado mucha pornografía de mi ex pareja, ella también victima de esta banda de actores no estatales, en actos violento de sodomía. La han esclavizado, por esto participa conjuntamente al hecho de que tiene un niña menor de edad, al acecho y tortura que me ve victima en este infierno tecnológico. 
+
+Asaltos sexuales de forma verbal abusos y burlas son también parte de la tortura sexual, como que aumentan la humillación y sus aspectos degradantes, todos partes y montón del procedimiento. El meter mano a mujeres es traumático en todos los casos y se considera una tortura.
+
+Yo, Riccardo Giuntoli, soy manoseado cada momento en la red de explotación.
+
+Hay algunas diferencias entra torturas sexuales de hombres y mujeres, pero varios problemas se aplican a ambos. Las violencias sexuales son siempre asociadas con el riesgo de desarrollar enfermedades de contagio sexual, en particular manera el **SIDA** [[291]](https://es.wikipedia.org/wiki/VIH/sida). 
 
 
 
@@ -1802,7 +1810,7 @@ Es obligada en la red de explotación. Ya que nuestros ojos son transmitidos por
 
 267. https://es.wikipedia.org/wiki/Fosa_popl%C3%ADtea
 
-268. https://es.wikipedia.org/wiki/Parestesia
+268. https://es.wikipedia.org/wiki/Parestesiahttps://dle.rae.es/tanteo
 
 269. https://es.wikipedia.org/wiki/Nervio_tor%C3%A1cico_largo
 
@@ -1847,6 +1855,8 @@ Es obligada en la red de explotación. Ya que nuestros ojos son transmitidos por
 289. https://es.wikipedia.org/wiki/Ahogamiento
 
 290. https://es.wikipedia.org/wiki/Hueso_hioides
+
+291. https://es.wikipedia.org/wiki/VIH/sida
 
      
 
