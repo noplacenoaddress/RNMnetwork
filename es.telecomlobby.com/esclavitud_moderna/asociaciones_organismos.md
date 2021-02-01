@@ -1310,6 +1310,18 @@ Idealmente, debería haber instalaciones físicas y técnicas adaguadas por un a
 
 Personalmente en la aplicación de acoso u tortura neuronal en la cual estoy viviendo desde el 27 de Noviembre 2017 tanto en mensajería subliminal, cuanto de persona por parte de mi mismo padre, muchos acosadores hacen referencia que no teniendo relaciones sexuales yo tendré problemas. Cosa totalmente absurda porqué tengo 39 años, nunca me ha faltado una pareja, y en estos últimos años tan difíciles a veces me regalo una señorita de pago. Hoy día 1 de Febrero 2021 quien tendría que ser mi padre, tal Mauro Giuntoli, me ha llegado a afirmar de buscar una mujer sobre unos 50 años para tener relaciones sexuales. Cuando en este ambiente de tortura mi ex pareja Saray es amenazada continuamente y obligada a torturarme sexualmente por parte de unos mal nacidos a las ordenes de Francesca.
 
+Es raro que una victima de violencia sexual mientras es torturado es dejado libre mientras que se puedan identificar agudos signos de asalto. En estos casos, hay varios problemas de los cuales tener cuidado que pueden impedir la evaluación médica. Las victimas asaltadas recientemente podrían haber problemas y estar confundidas acerca de buscar ayuda médica o legal debido a sus miedos, su entorno sociocultural o la naturaleza destructiva del abuso. Un doctor debería explicar a la víctima todas las posibles opciones médicas y judiciales y tendría que actuar de acuerdo con los deseos de la victima. Las obligaciones del médico incluye obtener un consenso voluntario por el examen, guardar todos los hallazgos médicos de abusos y obtener muestras para los exámenes forenses. El examen debería que ser hecho por parte de un experto en documentar asaltos sexuales. De otras maneras, el médico debería hablar a un experto o consultar un tratado tipo sobre medicina clínica forense. Dada la naturaleza sensible de una investigación de asaltos sexuales, no es aconsejable utilizar un familiar de la victima como interprete en caso fuera necesario tener uno. El paciente debería estar confortable y relajado antes del examen. Un minucioso examen físico debería ser hecho, incluidas meticulosas documentación de todos los hallazgos físicos, incluidas las medidas, posiciones y colores y, cuando fuera posible, estos hallazgos tendrían que ser fotografiados y sus pruebas recolectadas de muestras del examen.
+
+El examen físico debería no empezar por la parte genital. Cualquier deformidad tendría que ser anotada. Una particular atención debe ser dada para asegurarse un minucioso examen de la piel, mirando por lesiones cutáneas que podrían ser resultado de un asalto. Estas incluyen  contusiones, laceraciones, **equimosis** [[297]](https://es.wikipedia.org/wiki/Equimosis) y petequias por chupar o morder. Esto puede ayudar al paciente de ser mas relajado por un examen completo. Cuando las lesiones genitales son mínimas, las lesiones posicionadas en otras partes del cuerpo pueden ser las mas significativas pruebas de haber pasado una violencia. Aun mientra el examen de los genitales femeninos inmediatamente después de la violencia sexual, hay daño identificable en menos del 50 por ciento de los casos. Un examen del orificio anal en hombres y mujeres después de una violación anal muestra lesiones en menos del 30 por ciento de los casos. Cuando objetos bastante grandes han sido utilizados para penetrar la vagina o el ano la probabilidad de encontrar daño es mas grande.
+
+Cuando un laboratorio forense es disponible, las instalaciones tendrían que ser contactadas antes del examen para discutir que tipos de muestras tendrían que ser comprobadas, y, por eso, que tipo de muestras deberían ser tomadas y como. Muchos laboratorios brindan botiquines para permitir a los médicos de pillar todas las muestras necesarias de parte de individuos que estén alegando violencia sexual. 
+
+Estas muestras pueden ser utilizadas después por test de ADN. El esperma puede ser identificado por más de cinco días de muestras pilladas de un **hisopo** [[298]](https://bit.ly/2L9hH1P) vaginal profundo y hasta después de tres días utilizando una muestra del recto. Precauciones estrictas tienen que ser tomadas para prevenir alegaciones de contaminaciones cruzadas cuando las muestras hayan sido tomadas de varias victimas. en particular si tomadas de los presuntos autores del crimen. 
+
+Cuando las presuntas violaciones hayan ocurridos más de una semana antes y no hay signos de moretones o laceraciones, hay menos urgencia de hacer un examen de la **pelvis** [[299]](https://es.wikipedia.org/wiki/Pelvis). Tiempo puede ser tomado para intentar de encontrar la persona más cualificada para documentar los hallazgos y el mejor ambiente donde entrevistar la victima. Igualmente, podría ser de provecho fotografiar las heridas residuales propiamente, si fuera posible.
+
+En mujeres que hayan parido antes de la violencia, y de particular manera en aquellas que las han parido después, los hallazgos **patognomónicos** [[300]](https://es.wikipedia.org/wiki/Patognom%C3%B3nico) no son probables
+
 
 
 ####  External links 
@@ -1905,6 +1917,14 @@ Personalmente en la aplicación de acoso u tortura neuronal en la cual estoy viv
 295. https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual
 
 296. https://es.wikipedia.org/wiki/Estre%C3%B1imiento
+
+297. https://es.wikipedia.org/wiki/Equimosis
+
+298. https://bit.ly/2L9hH1P
+
+299. https://es.wikipedia.org/wiki/Pelvis
+
+300. https://es.wikipedia.org/wiki/Patognom%C3%B3nico
 
      
 
