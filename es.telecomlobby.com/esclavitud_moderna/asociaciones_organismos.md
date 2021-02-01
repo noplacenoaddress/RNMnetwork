@@ -1304,7 +1304,7 @@ En el caso de la cibertortura la tortura es continua. Yo la vivo todos los días
 
 Existen todavía alguna cuestiones especificas que son importantes únicamente por presunto abuso sexual. Estos buscan provocar síntomas actuales de un asalto reciente, por ejemplo signos de ataduras, secreción vaginal o anal y locación de dolor, moretones o llagas.
 
-En caso de asalto sexual en el pasado, las preguntas deben ser dirigidas sobre las consecuencias  como la frecuencia orinaría, incontinencia o **disuria** [[294]](https://es.wikipedia.org/wiki/Disuria), irregularidad en el menstruo, historial de maternidad, aborto o hemorragia vaginal, problemas con actividad sexual, incluyendo el **coito** [[295]](https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual) y el dolor anal
+En caso de asalto sexual en el pasado, las preguntas deben ser dirigidas sobre las consecuencias  como la frecuencia orinaría, incontinencia o **disuria** [[294]](https://es.wikipedia.org/wiki/Disuria), irregularidad en el menstruo, historial de maternidad, aborto o hemorragia vaginal, problemas con actividad sexual, incluyendo el **coito** [[295]](https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual) y el dolor anal, desangrado, **estreñimiento** [[296]](https://es.wikipedia.org/wiki/Estre%C3%B1imiento) o incontinencia. 
 
 
 
@@ -1899,6 +1899,8 @@ En caso de asalto sexual en el pasado, las preguntas deben ser dirigidas sobre l
 294. https://es.wikipedia.org/wiki/Disuria
 
 295. https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual
+
+296. https://es.wikipedia.org/wiki/Estre%C3%B1imiento
 
      
 
