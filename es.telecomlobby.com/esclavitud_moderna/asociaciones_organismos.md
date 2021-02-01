@@ -1298,6 +1298,14 @@ En caso de abusos sexuales las victimas podría no querer que el evento sea cono
 
 Todo esto es totalmente imposible en la red de explotación. Muchas personas entra conocidos, amigos, familiares, mujeres, hombres, gente importante y nobles tienen mi pantalla neuronal. De allí toda una serie de humillaciones públicas a través de Internet, audiovisuales y otros tipos de medios publican material denigrante que hace referencia al caso. Se llama información basura, memes en Internet. Hace parte de un plan de absolutismo de derechas como se puede apreciar de la imagen sobra indicada.
 
+Una historia completa de los presuntos episodios de tortura tendría que ser escrita como descrito antes en este manual.
+
+En el caso de la cibertortura la tortura es continua. Yo la vivo todos los días desde el 27 de Noviembre 2017 a día de 1 de Febrero 2021. Escribo un **diario de torturas** [[293]](https://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm) desde el 12 de Junio 2020.
+
+Existen todavía alguna cuestiones especificas que son importantes únicamente por presunto abuso sexual. Estos buscan provocar síntomas actuales de un asalto reciente, por ejemplo signos de ataduras, secreción vaginal o anal y locación de dolor, moretones o llagas.
+
+En caso de asalto sexual en el pasado, las preguntas deben ser dirigidas sobre las consecuencias  como la frecuencia orinaría, incontinencia o **disuria** [[294]](https://es.wikipedia.org/wiki/Disuria), irregularidad en el menstruo, historial de maternidad, aborto o hemorragia vaginal, problemas con actividad sexual, incluyendo el **coito** [[295]](https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual) y el dolor anal
+
 
 
 ####  External links 
@@ -1885,6 +1893,12 @@ Todo esto es totalmente imposible en la red de explotación. Muchas personas ent
 291. https://es.wikipedia.org/wiki/VIH/sida
 
 292. https://www.cdc.gov/hiv/spanish/basics/pep.html
+
+293. https://telecomlobby.com/RNMnetwork/ES/gangstalking/tortures_humiliations.htm
+
+294. https://es.wikipedia.org/wiki/Disuria
+
+295. https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual
 
      
 
