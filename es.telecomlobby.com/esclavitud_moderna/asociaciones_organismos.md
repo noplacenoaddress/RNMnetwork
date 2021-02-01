@@ -1306,6 +1306,10 @@ Existen todavía alguna cuestiones especificas que son importantes únicamente p
 
 En caso de asalto sexual en el pasado, las preguntas deben ser dirigidas sobre las consecuencias  como la frecuencia orinaría, incontinencia o **disuria** [[294]](https://es.wikipedia.org/wiki/Disuria), irregularidad en el menstruo, historial de maternidad, aborto o hemorragia vaginal, problemas con actividad sexual, incluyendo el **coito** [[295]](https://es.wikipedia.org/wiki/Relaci%C3%B3n_sexual) y el dolor anal, desangrado, **estreñimiento** [[296]](https://es.wikipedia.org/wiki/Estre%C3%B1imiento) o incontinencia. 
 
+Idealmente, debería haber instalaciones físicas y técnicas adaguadas por un apropiado examen de los sobrevivientes de violación sexual por parte de un grupo de expertos psiquiatras, psicólogos, ginecólogos y enfermeras que están capacitados en el tratamiento de sobrevivientes de tortura sexual. Tendrían que cubrir problemas como enfermedades transmitidas de forma sexual, VIH, embarazos, si la victima es mujer, y daños permanentes físicos, también porqué los torturadores muchas veces afirman que las victimas nunca tendrán una vida sexual normal, lo cual puede llegar a ser una profecía autocumplida.
+
+Personalmente en la aplicación de acoso u tortura neuronal en la cual estoy viviendo desde el 27 de Noviembre 2017 tanto en mensajería subliminal, cuanto de persona por parte de mi mismo padre, muchos acosadores hacen referencia que no teniendo relaciones sexuales yo tendré problemas. Cosa totalmente absurda porqué tengo 39 años, nunca me ha faltado una pareja, y en estos últimos años tan difíciles a veces me regalo una señorita de pago. Hoy día 1 de Febrero 2021 quien tendría que ser mi padre, tal Mauro Giuntoli, me ha llegado a afirmar de buscar una mujer sobre unos 50 años para tener relaciones sexuales. Cuando en este ambiente de tortura mi ex pareja Saray es amenazada continuamente y obligada a torturarme sexualmente por parte de unos mal nacidos a las ordenes de Francesca.
+
 
 
 ####  External links 
