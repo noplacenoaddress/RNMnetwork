@@ -381,6 +381,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 31/01/2021 to 1/2/2021 at 5:30 I wake up three times because of dream injection torture and electroshock torture. I cannot sleep to have a clean mind and do a good job. They have destroyed my career in front of those stupids of my parents. **Saray** never sleep also, I remember that when she was with me also she doesn't sleep in a good way. I think that she could be great but she does the waitress, in Catalunya this terrorist group does not allow guys, including children, to express themselves through their mind. They destroy the careers of brilliant young people, being themselves demented depraved scammers and mobsters. An Europe destroyed by three blood-sucking families and old parents who live off the destruction of their own children.
 
+- 1/2/2021 15:30 I was sleeping the afternoon nap because this night I cannot sleep and I wake up for electroshock torture, **Stefano** speaking in voice to skull.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
