@@ -379,7 +379,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 31/01/2021 from 20:30 to 21:40 **Saray** sexual harass me continuous with electronic weapons. It does it means that she is thinking about my dick and her neural state is interpreted by artificial intelligence that resend the command to another electronic weapons that is given me genital torture. **Francesca** say that I'm an addicted to masturbation in front of a lot of people connected in my neural torture application. It's humiliation and is always torture. In this torture chamber there is also my family.
 
-- 31/01/2021 to 1/2/2021 at 5:30 I wake up three times because of dream injection torture and electroshock torture. I cannot sleep to have a clean mind and do a good job. They have destroyed my career in front of those stupids of my parents.
+- 31/01/2021 to 1/2/2021 at 5:30 I wake up three times because of dream injection torture and electroshock torture. I cannot sleep to have a clean mind and do a good job. They have destroyed my career in front of those stupids of my parents. **Saray** never sleep also, I remember that when she was with me also she doesn't sleep in a good way. I think that she could be great but she does the waitress, in Catalunya this terrorist group does not allow guys, including children, to express themselves through their mind. They destroy the careers of brilliant young people, being themselves demented depraved scammers and mobsters. An Europe destroyed by three blood-sucking families and old parents who live off the destruction of their own children.
 
   
 
