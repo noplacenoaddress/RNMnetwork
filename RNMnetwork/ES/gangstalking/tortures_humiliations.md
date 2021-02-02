@@ -383,6 +383,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 1/2/2021 15:30 I was sleeping the afternoon nap because this night I cannot sleep and I wake up for electroshock torture, **Stefano** speaking in voice to skull.
 
+- 2/2/2021 08:30 Wake up and after a couple of minutes Francesca start to electroshock me. These are electromagnetic weapons that act directly over my nervous system. Look at my video on the footer "**Electroshock torture in the Catalan slavery network**".
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
