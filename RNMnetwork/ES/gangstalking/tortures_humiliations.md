@@ -387,6 +387,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 2/2/2021 21:27 **Francesca** just say to me that I've to commit suicide because she has destroyed my life and now that I've got all the material to do a great complaint against her for crimes against humanity and terrorism she doesn't accept it. "Riccardo you've got to commit suicide".
 
+- 3/2/2021 11:47 **Andreu** just say to me that he will kidnap me.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
