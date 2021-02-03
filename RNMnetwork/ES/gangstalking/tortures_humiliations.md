@@ -385,7 +385,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 2/2/2021 08:30 Wake up and after a couple of minutes Francesca start to electroshock me. These are electromagnetic weapons that act directly over my nervous system. Look at my video on the footer "**Electroshock torture in the Catalan slavery network**".
 
-- 2/2/2021 21:27 **Francesca** just say to me that I've to commit suicide because she has destroyed my life and now that I've got all the material to do a great complaint against her for crimes against humanity and terrorism she doesn't accept it.
+- 2/2/2021 21:27 **Francesca** just say to me that I've to commit suicide because she has destroyed my life and now that I've got all the material to do a great complaint against her for crimes against humanity and terrorism she doesn't accept it. "Riccardo you've got to commit suicide".
+
+- 3/2/2021 11:47 **Andreu** just say to me that he will kidnap me.
 
   
 
