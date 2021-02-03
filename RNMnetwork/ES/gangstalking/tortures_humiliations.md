@@ -389,6 +389,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 3/2/2021 11:47 **Andreu** just say to me that he will kidnap me.
 
+- 3/2/2021 14:38 as usual when I work in my profession, I'm a networking engineer, all the stalkers presents, and be careful because many stalker are people that I've known in my life but are also criminals, say that they are better than me. It's always about torture and humiliation. This is an enormous case of state terrorism. The only explication is that I'm not son of my family and I'm victim of child trafficking, a child that have been assigned to a family by the Church. This is the only reason why a **father** doesn't speak with his son about all his work of public complaint. Remember that torture is the worst crime against humanity. Slavery and exploitation also. In the meaning **Saray** and also a little bit **Andreu** rape me. Sexual harassment. **Saray** say in subliminal messages: "you're not a person that could live". She also affirm that I've got to sell drugs.
+
+- 3/2/2021 **Alessandro** just say to me that because I've got fear this have passed to me.
+
   
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
