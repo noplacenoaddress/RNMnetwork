@@ -235,6 +235,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 4/2/2021 in the afternoon stalkers are happy saying that they have blocked my career. In the morning I received death threat from a guy.
 - 4/2/2021 **Saray** just say to me that she works in the non state actor crew to suicide people. And she will kill me.
 - 6/2/2021 I wake up in the morning for subliminal voice in my head of two guys that I know. They say to me that I will die.
+- 7/2/2021 Because her guilty Saray say to me "you've got to be careful when you go in the street".
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
