@@ -236,6 +236,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 4/2/2021 **Saray** just say to me that she works in the non state actor crew to suicide people. And she will kill me.
 - 6/2/2021 I wake up in the morning for subliminal voice in my head of two guys that I know. They say to me that I will die.
 - 7/2/2021 Because her guilty Saray say to me "you've got to be careful when you go in the street".
+- 7/2/2021 Massimo just say to me that he has killed a lot of "card game" for the nobility. His master, or better saying the person that have enslaved him, his Andreu. Massimo is a tot that was drugged in the mind by this master of stalking. He is a serial killer in the same circuit that have seen Ayrton Senna death in a car accident. The method is the same, remote parimutuel betting system in multi billionaire player.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
