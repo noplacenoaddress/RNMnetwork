@@ -246,6 +246,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 11//2/2021 18:04 **Andreu** speak as usual that a lot of people are better than me. He is trying to change my person to force me to be a trafficker. He had been forced a lot of friend of mine. Massimo first of all.  It's something more than a Mafia. With technology they change your behavior. It is called **SPECTRAM**. Its purposes is human trafficking and explotation. 
 - 11/2/2021 19:10 Because I'm saying that Francesca with this slavery technology network have rebuild Fascism, Andrea just affirm: "Why you don't die?". Francesca always repeating: "I will kill you" and he says "You have to kill him because he speaks".
 - 11/2/2021 from 9 pm to 2 am. Sleep deprivation and heavy diarrhea inducted from electronic weapons. 
+- 12/2/2021 11:24 A guy just say to me that because they have player behind me because I wasn't conscious now I've got to commit suicide.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
