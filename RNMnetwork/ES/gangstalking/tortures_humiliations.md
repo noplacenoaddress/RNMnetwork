@@ -249,6 +249,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 12/2/2021 11:24 A guy just say to me that because they have player behind me because I wasn't conscious now I've got to commit suicide.
 - 13/2/2021 4 am weak up for electroshock torture. **Francesca** is stalking me continuously. At 10 am wake up another time with a dream about **Andreu** and **Stefano**. **Andreu** menace me to be poisoned with a parasite. Next some death threat. The most ridiculous think is that here in my neural application of torture are present the most important families from nobility of Spain and Italy. No one say nothing. Go ahead morons!  
 - 14/2/2021 7am in the night **Andreu** have tortured me. I wake up three times. In the morning **Saray** is sexual harass me, **Gabriele** is speaking about death threat because he says that he is a fascist. Alessandro, a good man that is also in this hell network, say that Andreu is trying to create a dysfunction in my hearth with electronic weapons. 
+- 14/2/2021 7:34 **Saray** say that this is a game. Torture for her is a game.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
