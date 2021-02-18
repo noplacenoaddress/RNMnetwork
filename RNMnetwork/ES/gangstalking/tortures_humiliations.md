@@ -260,6 +260,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 17/02/2021 07:00 am wakeup with electroshock torture.
 - 18/2/2021 19:30 **Francesca** just say to me that I've to commit suicide instead of tarnishing his surname. She thinks to be better that another human because she is noble.
 - 18/2/2021 20:32 **Francesca** rape me using electronic weapons.
+- 18/2/2021 21:03 **Saray** continuously humiliate me. 
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
