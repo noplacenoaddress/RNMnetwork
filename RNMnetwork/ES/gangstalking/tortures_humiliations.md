@@ -262,6 +262,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 18/2/2021 20:32 **Francesca** rape me using electronic weapons.
 - 18/2/2021 21:03 **Saray** continuously humiliate me. 
 - 19/2/2021 10:45 **Saray** continuously violate me using electronic weapons. She just say to me to be careful where I go. I've just done a question to her about why she rape me with electronic weapons. Her answer is that doing this she puts me nervous and I will scream. The final goal is to loose my house in Spain and to put me in the street. It's the degrade chain of suicide of neo Franquism. She is involved in.
+- 19/2/2021 17:54 **Saray** just say to me that if I go out from my town she will send me someone to beat me.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
