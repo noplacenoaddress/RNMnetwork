@@ -259,6 +259,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 16/2/2021 nobility just say to me that with sensory deprivation want to kill me exactly in the manner that they have done with **Ayrton Senna**. Sensory deprivation is exactly the same to be a puppet owned by the technology. In my life I've lived it four times, the last one in 25 of Dicember 2020 in front of a person that I've know in Barcelona that work in the non state actor mafia where **Andreu** is the chief. Those people are tortured, four friends of mine have die in this way. **Francesca** is who want to kill me.
 - 17/02/2021 07:00 am wakeup with electroshock torture.
 - 18/2/2021 19:30 **Francesca** just say to me that I've to commit suicide instead of tarnishing his surname. She thinks to be better that another human because she is noble.
+- 18/2/2021 20:32 **Francesca** rape me using electronic weapons.
+- 18/2/2021 21:03 **Saray** continuously humiliate me. 
+- 19/2/2021 10:45 **Saray** continuously violate me using electronic weapons.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
