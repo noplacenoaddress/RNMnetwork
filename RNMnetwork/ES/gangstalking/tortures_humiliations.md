@@ -264,7 +264,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 19/2/2021 10:45 **Saray** continuously violate me using electronic weapons. She just say to me to be careful where I go. I've just done a question to her about why she rape me with electronic weapons. Her answer is that doing this she puts me nervous and I will scream. The final goal is to loose my house in Spain and to put me in the street. It's the degrade chain of suicide of neo Franquism. She is involved in.
 - 19/2/2021 17:54 **Saray** just say to me that if I go out from my town she will send me someone to beat me.
 - 20/2/2021 06:20 weak up with electroshock torture.
-- 20/2/2021 21:25 A person that I've known in a little reunion of target individuals of Barcelona tell me that a girl that he knowns in dream injection torture have seen the terrorist attack in Barcelona two weeks before it happened. This means that the military behind this post Franco torture are who have plotted this horrible crime. Behind always Francesca.
+- 20/2/2021 21:25 A person that I've known in a little reunion of target individuals of Barcelona tell me that a girl that he knowns in dream injection torture have seen the terrorist attack in Barcelona two weeks before it happened. This means that the military behind this post Franco torture are who have plotted this horrible crime. Behind always **Francesca**.
+- 21/2/2021 08:00 wakeup with electroshock torture.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
