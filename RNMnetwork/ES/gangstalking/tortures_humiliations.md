@@ -266,6 +266,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 20/2/2021 06:20 weak up with electroshock torture.
 - 20/2/2021 21:25 A person that I've known in a little reunion of target individuals of Barcelona tell me that a girl that he knowns in dream injection torture have seen the terrorist attack in Barcelona two weeks before it happened. This means that the military behind this post Franco torture are who have plotted this horrible crime. Behind always **Francesca**.
 - 21/2/2021 08:00 wakeup with electroshock torture.
+- 21/2/2021 09:20 **Andreu** torture me putting direct current in the middle of the eyes. **Gerard**, a person that I've put a complaint, also speak but no t torture in voice to skull service. **Adam**, mt ex colleague, tell me that he has done this fraud to enter in the big data market. Big data in Barcelona is obtained by slavery upon marginal and low class society. With this terrorist and post franquism technology what people see is sold. 
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
