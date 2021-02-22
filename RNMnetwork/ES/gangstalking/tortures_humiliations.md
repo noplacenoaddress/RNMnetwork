@@ -269,6 +269,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 21/2/2021 09:20 **Andreu** torture me putting direct current in the middle of the eyes. **Gerard**, a person that I've put a complaint, also speak but no t torture in voice to skull service. **Adam**, mt ex colleague, tell me that he has done this fraud to enter in the big data market. Big data in Barcelona is obtained by slavery upon marginal and low class society. With this terrorist and post franquism technology what people see is sold. 
 - 21/2/2021 15:13 A good woman say to me that because this morning I weak up and I've think about Saray, the chief of the non state actor crew say to a man to call to demonstrate that he'll fuck her in front of all the neural cameras. Saray I think that she is opened, I mean without access to the slavery network but always under control of various criminals, like me. 
 - 22/2/2021 05 am **Francesca** wake me up with extreme electroshock torture I'm very tired that no one do nothing.
+- 22/2/2021 17:29 **Andreu** always says that is better than me. He is doing stalk to me because of suicide. His Mafia is a pressure Mafia, here there is also my ex colleague that probably pay him because he doesn't want competitors. He does to me continuous work mobbing.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
