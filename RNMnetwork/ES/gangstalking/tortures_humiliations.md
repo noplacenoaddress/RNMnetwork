@@ -271,6 +271,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 22/2/2021 05 am **Francesca** wake me up with extreme electroshock torture I'm very tired that no one do nothing.
 - 22/2/2021 17:29 **Andreu** always says that is better than me. He is doing stalk to me because of suicide. His Mafia is a pressure Mafia, here there is also my ex colleague that probably pay him because he doesn't want competitors. He does to me continuous work mobbing.
 - 23/2/2021 05:40 **Francesca** wake up with electroshock.
+- 23/2/2021 9:30 **Francesca** because I'm an IT engineer use Mafia to death treat me saying that I cannot work in my profession.
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
