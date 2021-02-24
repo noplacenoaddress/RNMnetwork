@@ -479,6 +479,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 24/2/2021 16:06 Speaking with my own father I've said to him that I'm victim of **Francesca** in the modern slavery network. He just says to me to go to the doctor. Because I'm torture ambient stalkers from Genoa listen to me, Andrea, a man that come from a rich family, just said to me that I'm crazy.
 
+- 24/2/2021 19:43 **Andrea** just say to me that I will die because of a murder.
+
   .
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
