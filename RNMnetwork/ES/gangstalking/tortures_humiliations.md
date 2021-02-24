@@ -477,6 +477,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 23/2/2021 09:53 **Andrea**, that I previously considered a friend of mine, that is the nephew of a chief of the Ansaldo fabric say to me that he will rape and kill me.
 
+- 24/2/2021 16:06 Speaking with my own father I've said to him that I'm victim of **Francesca** in the modern slavery network. He just says to me to go to the doctor.
+
   .
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
