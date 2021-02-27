@@ -483,6 +483,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 27/02/2021 06:30 wake up with dream injection. Three ex friends of mine speaking about a game that have prepared my father from the 77. A game where I would have passed a good time in Barcelona that they have broken for jealousy. **Francesca** is who have plotted this disaster in something similar have die **Cristian**. Another good man defrauded in his life by all his circle of friends. For gambling.
 
+- 27/2/2021 11:38 **Francesca** just say "you're a dead man". And that she works in the telecommunications Mafia. A lobby that sell neural data of slaves enslaved by technology. Big data sell is them principle market.
+
   .
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
