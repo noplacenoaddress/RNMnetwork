@@ -481,6 +481,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 24/2/2021 19:43 **Andrea** just say to me that I will die because of a murder.
 
+- 27/02/2021 06:30 wake up with dream injection. Three ex friends of mine speaking about a game that have prepared my father from the 77. A game where I would have passed a good time in Barcelona that they have broken for jealousy. **Francesca** is who have plotted this disaster in something similar have die **Cristian**. Another good man defrauded in his life by all his circle of friends. For gambling.
+
   .
 
 ![90KHz during stalking](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
