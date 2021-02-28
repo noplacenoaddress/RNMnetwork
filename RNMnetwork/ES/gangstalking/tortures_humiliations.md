@@ -280,6 +280,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 27/2/2021 11:41 A man fromMafia just say to Saray that she want to stay with me she will die.
 - 28/2/2021 10:36 **Andreu**, has my father told me when I was young, said to me that he can rape me. Physically. 
 - 28/2/2021 17:58 **Francesca** admit that is the owner of all the neural remote control network, the modern slavery, transmitted by the Collserola tower. In this facility she exploited people to sell neural data. People are slaves and who is active tortured is is obliged by the continuous torture to the black market or low level work.  
+- 28/2/2021 18:16 **Francesca** continuously press me because of gambling about that I've to return to Genoa. In this manner have conviced my mother to systematically destroy my life in Barcelona. I've lost all because this terrorist that play with Mafia, Mafia from all over south Italy. She is involved also in heavy cocaine traffic. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
