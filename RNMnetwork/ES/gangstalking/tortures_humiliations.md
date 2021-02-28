@@ -279,6 +279,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 27/2/2021 11:38 **Francesca** just say "you're a dead man". And that she works in the telecommunications Mafia. A lobby that sell neural data of slaves enslaved by technology. Big data sell is them principle market.
 - 27/2/2021 11:41 A man fromMafia just say to Saray that she want to stay with me she will die.
 - 28/2/2021 10:36 **Andreu**, has my father told me when I was young, said to me that he can rape me. Physically. 
+- 28/2/2021 17:58 **Francesca** admit that is the owner of all the neural remote control network, the modern slavery, transmitted by the Collserola tower. In this facility she exploited people to sell neural data. People are slaves and who is active tortured is is obliged by the continuous torture to the black market or low level work.  
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
