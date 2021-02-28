@@ -278,6 +278,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 27/02/2021 06:30 wake up with dream injection. Three ex friends of mine speaking about a game that have prepared my father from the 77. A game where I would have passed a good time in Barcelona that they have broken for jealousy. **Francesca** is who have plotted this disaster in something similar have die **Cristian**. Another good man defrauded in his life by all his circle of friends. For gambling.
 - 27/2/2021 11:38 **Francesca** just say "you're a dead man". And that she works in the telecommunications Mafia. A lobby that sell neural data of slaves enslaved by technology. Big data sell is them principle market.
 - 27/2/2021 11:41 A man from **Cosa Nostra** just say to Saray that she want to stay with me she will die.
+- 28/2/2021 10:36 **Andreu**, has my father told me when I was young, said to me that he can rape me. Physically. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
