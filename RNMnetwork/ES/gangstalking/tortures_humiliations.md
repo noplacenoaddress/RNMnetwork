@@ -284,7 +284,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 1/3/2021 09:01 **Andreu** always do me pain and dolor in my internal organs. For two days I've taken medicines and this morning he wants that I take more. I've just question him about why he does such think. His answer is that he is here to ruin my life.
 - 1/3/2021 19:52 stalkers in the slavery network say to me continuously that I've COVID. 
 - 1/3/2021 2012 **Francesca**, because I'm trying to go ahead with my work project, always rape and sexual harass me using this network. She doesn't want that I return to work. Victims of her "game" of suicide always end up begging. The game is inspired to the film "the holy mountain".
-- 1/3/2021 from 9pm to 1am extreme voice to skull with the goal of sleep deprivation. Sexual harassment also. **Francesca** is working actively with **Andreu** because they don't want that I open again my business. A presion group is one of the missions of the non state actors Mafia that they own. Many girls that I know work with them, they say that they are victims but I think that they pay them in bitcoin.
+- 1/3/2021 from 9pm to 1am extreme voice to skull with the goal of sleep deprivation. Sexual harassment also. **Francesca** is working actively with **Andreu** because they don't want that I open again my business. A presion group is one of the missions of the non state actors Mafia that they own. Many girls that I know work with them, they say that they are victims but I think that they pay them in bitcoin. Those girls speaks about drugs traffic also.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
