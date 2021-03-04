@@ -287,7 +287,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 1/3/2021 from 9pm to 1am extreme voice to skull with the goal of sleep deprivation. Sexual harassment also. **Francesca** is working actively with **Andreu** because they don't want that I open again my business. A presion group is one of the missions of the non state actors Mafia that they own. Many girls that I know work with them, they say that they are victims but I think that they pay them in bitcoin. Those girls speaks about drugs traffic also.
 - 2/3/2021 10:49 **Francesca** say that she will kidnap me.
 - 2/3/2021 on 9/2/2020 a military electronic fair weapons have attack me. I don't fell very well from that day. I suffer about hypothermia. I've registered my body temperature from 28/2/2021 and is below 36. Today is 35.3. In radio, **Saray** also, always stalkers speak about COVID, but with this military weapons they have provoked to me this body temperature. It's the result of weapons.
-- 3/3/2021 16:04 **Francesca**: "your house is Genoa because your're a slave of mine". "I''ve murder more than one hundred people for you"
+- 3/3/2021 16:04 **Francesca**: "your house is Genoa because your're a slave of mine". "I''ve murder more than one hundred people for you".
+- 3/3/2021 all night long. Extreme torture by an high representative of the Catholic Church and by Francesca. I cannot sleep because today I've done a great work in my business. They don't want that I'm a good business owner they want that I sell drugs.  
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
