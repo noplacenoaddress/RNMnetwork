@@ -290,6 +290,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 3/3/2021 16:04 **Francesca**: "your house is Genoa because your're a slave of mine". "I''ve murder more than one hundred people for you".
 - 3/3/2021 all night long. Extreme torture by an high representative of the Catholic Church and by Francesca. I cannot sleep because today I've done a great work in my business. They don't want that I'm a good business owner they want that I sell drugs.  
 - 4/3/2021 **Aurora** that is an employee of a large Italian state company connected with the navy, part of the Italian military forces where Francesca has a name due to her family, underlines how I am allowed to name **Francesca**'s family at the United Nations being one of the most important families in Italy . I add one of the most dangerous mafia families in Italy.
+- 4/3/2021 from 9 pm to 5 am extreme torture. The same of yesterday.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
