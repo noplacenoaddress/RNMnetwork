@@ -293,6 +293,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 4/3/2021 from 9 pm to 5 am extreme torture. The same of yesterday.
 - 7/3/2021 Wake up three times for dream injection and sleep deprivation. At 1 am, at 4 am and at 7 am. **Francesca** always present. 
 - 7/3/2021 **Andreu** just say to me to be careful because I'll go to the hospital because he puts me down in the marginalization class to suicide me.
+- 7/3/2021 A worker of **Francesca** says because she is here and she wants that when I will start to work I would be obliged to pay the lace. **Francesca** is actually a mafia who operates violently in Catalunya and Liguria.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
