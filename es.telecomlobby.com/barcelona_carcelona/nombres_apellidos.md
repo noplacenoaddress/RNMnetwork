@@ -21,6 +21,10 @@ Aquí se ve Prim y Topete junto a **Serrano Dominguez** [[5]](https://es.wikiped
 
 Por esto yo, Riccardo Giuntoli, he estado perseguido en las calles de Barcelona por acoso de pandillas, algo muy parecido a escuadrones fascistas de la segunda guerra Mundial. Algo terrible. He estado crucifijo por la sociedad Catalana con humillaciones masivas y cibertortura. Obviamente detrás está la alta nobleza, cosa que yo, que yo sepa, no soy. Es una manera de hacer girar dinero sucio a través de apuestas remotas. Una lavadora sobre el sufrimiento de una sola persona, todos, padres incluidos, son culpables. Todos.
 
+![](https://telecomlobby.com/Images/andreu_cofradia.webp)
+
+![](https://telecomlobby.com/Images/andreu_cofradia_2.webp)
+
 ### External links
 
 1. https://barcelonasecreta.com/7545/
