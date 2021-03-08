@@ -295,6 +295,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 7/3/2021 **Andreu** just say to me to be careful because I'll go to the hospital because he puts me down in the marginalization class to suicide me.
 - 7/3/2021 A worker of **Francesca** says because she is here and she wants that when I will start to work I would be obliged to pay the lace. **Francesca** is actually a mafia who operates violently in Catalunya and Liguria.
 - 7/3/2021 I want to go to Genoa to redo my driver license and **Andreu** affirm that he is my jailer and I couldn't do this. This is why in the remote parimutuel betting system nobles and mafias have bet about it.
+- 8/3/2021 I cannot sleep because of extreme voice to skull and heavy electroshock torture. **Francesca** and **Andreu** always presents. Others non state actors also.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
