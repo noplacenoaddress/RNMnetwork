@@ -296,6 +296,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 7/3/2021 A worker of **Francesca** says because she is here and she wants that when I will start to work I would be obliged to pay the lace. **Francesca** is actually a mafia who operates violently in Catalunya and Liguria.
 - 7/3/2021 I want to go to Genoa to redo my driver license and **Andreu** affirm that he is my jailer and I couldn't do this. This is why in the remote parimutuel betting system nobles and mafias have bet about it.
 - 8/3/2021 5 am I cannot sleep because of extreme voice to skull and heavy electroshock torture. **Francesca** and **Andreu** always presents. Others non state actors also. Andreu in voice to skull "prepare you to receive beatings". Andreu is a corrupted CNI or military intelligence that work for technocracy a state in state mafia and terrorism owned by aristocracy in Spain.
+- 8/3/2021 2:45 pm today my first client call me and a lot of people here say to me that they want that I die.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
