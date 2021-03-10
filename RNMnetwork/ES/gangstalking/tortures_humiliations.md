@@ -301,6 +301,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 9/3/2021 08:04 I just started working and **Saray**, that is part of this Mafia, do stalk to me.
 - 9/3/2021 stalkers continually say to me that my work couldn't work.
 - 10/3/2021 06:00 am wake up for electroshock torture. **Andreu** and **Francesca** presentes. I've found evidences that Andreu pertain to a brotherhood, he is the owner of a sect.
+- 10/3/2021 07:50 **Miriam** one of the head of the non state actors crew start doing stalk to me because I just want to restart my working life. This is a pressure group payed probably for my ex colleague and by others.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
