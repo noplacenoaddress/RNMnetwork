@@ -298,6 +298,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 8/3/2021 5 am I cannot sleep because of extreme voice to skull and heavy electroshock torture. **Francesca** and **Andreu** always presents. Others non state actors also. Andreu in voice to skull "prepare you to receive beatings". Andreu is a corrupted CNI or military intelligence that work for technocracy a state in state mafia and terrorism owned by aristocracy in Spain.
 - 8/3/2021 2:45 pm today my first client call me and a lot of people here say to me that they want that I die.
 - 9/3/2021 1am dream injection. 5:45 am sleep deprivation and heavy v2k and electroshock torture. **Electroshock can be appreciate with a coil hat and a oscilloscope charges of 2V DC arrive transported by a VLF and LF frequencies**. Exactly from the tower of Collserola they use ionosphere propagation and coil antennas. Charges are pulsed to the brain of the target individual periodically. Frequency is not fixed. One function is torture the other electrifying our synapses making in a way that our brain emits an electromagnetic field through which always using the weapons of the tower this Mafioso group, spectram, masons and brotherhoods have made the human being a slave. It is modern slavery. **Andreu** and **Francesca** always presents. 
+- 9/3/2021 08:04 I just started working and **Saray**, that is part of this Mafia, do stalk to me.
+- 9/3/2021 stalkers continually say to me that my work couldn't work.
+- 10/3/2021 06:00 am wake up for electroshock torture. **Andreu** and **Francesca** presentes. I've found evidences that Andreu pertain to a brotherhood, he is the owner of a sect.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
