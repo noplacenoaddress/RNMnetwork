@@ -305,7 +305,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 10/3/2021 21:17 **Saray**: "you will die soon". She got a problem with this non state actors band and she prefer to suicide people instead of denouncing.
 - 11/3/2021 05:30 sleep deprivation and electroshock torture as usual.
 - 11/3/2021 08:03 I've just started to work and Saray stalk me. She said that she is involved in the drug market.
-- 11/3/2021 17:14 **Andreu**, that is a masonry a criminal very connected with the Vatican that operate in Barcelona, just say to me that he will rape me a will do sexual violence to me. He also say that if I want to do money I've got to sell drug for him.
+- 11/3/2021 17:14 **Andreu**, that is a masonry a criminal very connected with the Vatican that operate in Barcelona, just say to me that he will rape me a will do sexual violence to me. He also say that if I want to do money I've got to sell drug for him. He say always to me: "I'm your assassin as I was for Cristian". He was a friend of mine, who has die committing suicide. Andreu with the post modern television obviously have tortured him for years. He was living also in Spain, like me and like me was a business man. We two are victims of this pressure group, this crew that torture victims. Others friends of mine are also, like Massimo and Stefano. They've got fear because they are tortured and they've got child. This man do violence also to the brain of childs. Behind an enormous business of sold of big data derived by target individuals eyes.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
