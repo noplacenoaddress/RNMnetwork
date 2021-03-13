@@ -25,7 +25,7 @@ Por esto yo, Riccardo Giuntoli, he estado perseguido en las calles de Barcelona 
 
 ![](https://telecomlobby.com/Images/andreu_cofradia_2.webp)
 
-Trece de marzo 2021: Andreu me acabo de decir en voz hacía el cerebro, debido al hecho que ha caído en una provocación de mi parte, que es el jefe de la Mafia Catalana y que no me tenía que permitir de provocarle de esta manera.
+Trece de marzo 2021: **Andreu** me acaba de decir en voz hacía el cerebro, debido al hecho que ha caído en una provocación de mi parte, que es el jefe de la Mafia Catalana y que no me tenía que permitir de provocarle de esta manera.
 
 ### External links
 
