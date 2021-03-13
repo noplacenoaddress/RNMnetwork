@@ -310,6 +310,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 12/3/2021 14:00 Aurora just say to me that or i'll work for Francesca or I will have mafia related problems.
 - 12/3/2021 18:00 as usual every time that I go to Barcelona Saray start to stalk and humiliate me.
 - 13/3/2021 06:30 am wake up with electroshock torture by Andreu.
+- 13/3/2021 21:49 Massimo speaking with a woman say that I've got to die.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
