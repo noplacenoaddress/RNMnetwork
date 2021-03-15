@@ -312,6 +312,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 13/3/2021 06:30 am wake up with electroshock torture by **Andreu**.
 - 13/3/2021 21:49 **Massimo** speaking with a woman say that I've got to die.
 - 13/3/2021 22:07 **Francesca** say that she is torturing my mother, a woman of more than 70 years.
+- 15/3/2021 04:48 electroshock, various people threat me. **Francesca** present.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
