@@ -314,6 +314,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 13/3/2021 22:07 **Francesca** say that she is torturing my mother, a woman of more than 70 years.
 - 15/3/2021 04:48 electroshock, various people threat me. **Francesca** present.
 - 15/3/2021 19:39 **Francesca** say that Catalunya work based upon corruption managed by the remote neural network transmitted by the electronic weapons mounted in the third part of the Collserola tower.
+- 15/3/2021 22:32 **Saray** stalk to me in voice to skull.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
