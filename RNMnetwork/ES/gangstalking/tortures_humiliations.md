@@ -314,6 +314,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 13/3/2021 22:07 **Francesca** say that she is torturing my mother, a woman of more than 70 years.
 - 15/3/2021 04:48 electroshock, various people threat me. **Francesca** present.
 - 15/3/2021 19:39 **Francesca** say that Catalunya work based upon corruption managed by the remote neural network transmitted by the electronic weapons mounted in the third part of the Collserola tower.
+- 15/3/2021 22:32 **Saray** stalk to me in voice to skull.
+- 16/3/2021 5:30 am dream injection, **Francesca** and **Andreu** present and also a person from the techno scene. 11:55 **Alessandro** do stalk to me, is a person that I've known in Genoa when I was young. No one want that I return to be a business man like I was until 2016 when all this middle mafias destroy systematically my life because of **Francesca** and her engineering **Aurora**. Alessandro say that I cannot redo my numbers in telecommunications because I'm a person that have to die, he also say that he is very secure about that because with this technology he thinks to be untouchable because it is difficult to demonstrate. But I've already done it.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
