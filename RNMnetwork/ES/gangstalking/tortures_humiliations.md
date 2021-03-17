@@ -317,6 +317,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 15/3/2021 22:32 **Saray** stalk to me in voice to skull.
 - 16/3/2021 5:30 am dream injection, **Francesca** and **Andreu** present and also a person from the techno scene. 11:55 **Alessandro** do stalk to me, is a person that I've known in Genoa when I was young. No one want that I return to be a business man like I was until 2016 when all this middle mafias destroy systematically my life because of **Francesca** and her engineering **Aurora**. Alessandro say that I cannot redo my numbers in telecommunications because I'm a person that have to die, he also say that he is very secure about that because with this technology he thinks to be untouchable because it is difficult to demonstrate. But I've already done it.
 - 17/3/2021 I CANNOT SLEEP FOR DREAM INJECTION: MASSIMO FRANCESCA AND ANOTHER PERSON THAT WANT TO RAPE ME!!!!! STOP!!!!!!!!!!!!!!!!!!!!! I DON'T PLAY IN NOBILITY!!!!!STOPPPPPPPPPPP!!!!!! STOP!!!!!!! STOP!!!!!!!
+- 17/3/2021 12:00 **Francesca** just say that she wants to pay a killer to kill me because I've understand all the business behind the European target individual program.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
