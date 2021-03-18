@@ -319,6 +319,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 17/3/2021 I CANNOT SLEEP FOR DREAM INJECTION: MASSIMO FRANCESCA AND ANOTHER PERSON THAT WANT TO RAPE ME!!!!! STOP!!!!!!!!!!!!!!!!!!!!! I DON'T PLAY IN NOBILITY!!!!!STOPPPPPPPPPPP!!!!!! STOP!!!!!!! STOP!!!!!!!
 - 17/3/2021 12:00 **Francesca** just say that she wants to pay a killer to kill me because I've understand all the business behind the European target individual program.
 - 17/3/2021 19:25 **Francesca** say that I always masturbate my self. This is humiliation and it is public humiliation because in my application of torture there are a lot of people that I've know and a couple of famous person of the jazzset and of the television. Francesca is torturing me in front of all of those persons from the 27 of November 2017 and no one, absolutely no one, say nothing. It is the suicide business, all of them got actions from this B-side business. They gain of lot of money if I commit suicide, neural states from a person that commit suicide are payed millions of Eur for robotics and cybernetic industries. This is why all of them don't speak about what is known as "techno", the modern slavery network.
+- 18/3/2021 17:22 **Massimo** say to me if I think that I will not die, if i don't commit suicide he says in this network that he will kill me. He doesn't understand that this is a democratic state where police put in jail people like him.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
