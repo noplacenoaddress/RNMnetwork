@@ -326,6 +326,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 25/3/2021 because I'm doing complaints with Catalan police and because this business is covered by high aristocracy, **Aurora** an engineer of **Francesca**, without any problems say to me that I will die asap and that the elite will put me in a psychiatric hospital. 
 - 26/3/2021 05:30 electroshock torture, always **Francesca**. At 6:42 **Andreu** "I'm goig to torture you a lot".
 - 26/3/2021 09:09 **Andreu** speak with a man and say to him to prepare to seize it. 
+- 26/3/2021 10:54 **Massimo**, who has participated in the systematic destruction of life since he licked the ass of **Francesca** a nobleman who has played my life, continues to rave that in life he will kill me. The reason why these shits of people have approached me and then rob me of everything I had done is obviously to seek protection for some of the nobles in their dirty business. I considered Massimo as a dear friend, I was deceived by him and by many others for this reason alone. Protection in the black market.
 
 ![//](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
