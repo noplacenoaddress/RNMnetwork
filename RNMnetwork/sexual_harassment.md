@@ -83,8 +83,6 @@ Who are behind those image boards?
 
 But the most important think is that i know personally like almost the **organization chart**  [[25]](https://en.wikipedia.org/wiki/Organizational_chart). They have to be put in jail from International Police like **Interpol** [[26]](https://en.wikipedia.org/wiki/Interpol). 
 
-*Saray need help, i wish you where here little baby. Kisses.*
-
 # External Links 
 
 1. https://en.wikipedia.org/wiki/Internet_fraud
