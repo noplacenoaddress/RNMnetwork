@@ -332,6 +332,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 27/3/2021 05:30 am as usual sleep deprivation from **Francesca**.
 - 27/3/2021 **Francesca** say that I've lost the opportunity to be silent about her family. Because she is one of the most important surname in Italy. This is true but because in Italy we've got problems with Fascism, her grandfather was a military involved with the fascist squadron "decima mas" and the State give to him a medal of honor. She is terribly involved in the Modern Slavery network, where people are tortured by the elite. I'm tortured because of for my roots, for racism. **She doesn't understand that slavery was abolished two centuries ago.**
 - 27/3/2021 13:13 **Francesca** call me "slave" and continually humiliates me.
+- 28/3/2021 from 00 to 08:00 extreme torture, dream injection, death threat in subliminal messages, etc etc. **Andreu**.
 
 ![//](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
