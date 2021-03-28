@@ -10,7 +10,7 @@ It's the Vatican mafia. It's the nobles mafia. They destroy life of people that 
 
 But this is a tragedy. Because I want that it's a tragedy. I'm who want it. I'm not a card. I'm not a slave. I'm not a stupid.
 
-I'm free. And I'm love with the city and with Saray. There is no limit to what I will do do annihilate this mafia. So yes, it's a tragedy.
+I'm free. There is no limit to what I will do do annihilate this mafia. So yes, it's a tragedy.
 
 ![Torn Mati](http://telecomlobby.com/Images/IMG_20180526_114441.jpg)
 
@@ -183,7 +183,7 @@ I'm doing a complaint to denunciate a mobile thief from the head of the non stat
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
 
-"Gruñon". This is how she calls me. I love you sweetie. For ever.
+"Gruñon". Sometimes Saray call me in this way. It's something more than curious don't you think so?
 
 This image was taken in the inside of a metro station in Barcelona, L1 line **Universitat** [[28]](https://www.tmb.cat/en/barcelona/metro/-/lineametro/estacion/125) red line. But this is not the only one that I've found. This word is not common and no one know how she calls me. How can be possible? The remote neural monitoring network. We were not alone.
 
@@ -191,7 +191,7 @@ This image was taken in the inside of a metro station in Barcelona, L1 line **Un
 
 This other was taken always in the entrance of a metro station, L3 line **Lesseps** [[29]](https://www.tmb.cat/ca/barcelona/metro/-/lineametro/estacion/330) green line.
 
-But her son call me with another nickname, "Titi". This was how she called me. And look at what I've found in those years searching for her mommy, victim the nobility mafia. Because of her surname probably. They have violated her, without any doubt.
+But her son call me with another nickname, "Titi". This was how she called me. And look at what I've found in those years searching for her mommy, victim the nobility mafia. Because of her surname probably. 
 
 ![Grunyi street](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon_grunyi.webp)
 
@@ -224,8 +224,6 @@ On 17 of August of 2020 in Barcelona someone have painted this in Barcelona:
 - Under you can see the shape of a serpent or a winding path in a mountain (Turro de Rovira could be there is one very similar).
 - Near the R it's seems to be that there is another capital letter V. Five, like what I've found in Rome. V like revenge, vendetta in Italian.
 - Next a crown that seems to be painted with two V. Vendetta for the twos.
-
-I love you Saray, don't waste more time please sweetie. I want to put, all, in jail. I love you.
 
 Other images in the street art scene of the city:
 
