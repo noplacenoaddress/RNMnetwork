@@ -337,6 +337,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 28/3/2021 **Francesca** affirm always that she is "the queen of techno". For techno she speaks about a exploitation virtual camp mounted in Catalunya and transmitted from the Collserola tower that sell neural data obtained from slavery, victims of the marginal and worker class.
 - 29/3/2021from 00 to 04 I cannot sleep because of extreme voice to skull torture. **Andreu**, **Francesca**, **Saray** presents. Saray induct to me to start a drug market career, saying that she is involved. It's in the target individual program, that is the same in all over the countries. See you in the justice palace. They copy also shape and voice of my father and mother saying that they are drug dealers, absurd.
 - 31/3/2021 today is my birthday, I suffered electroshock torture and dream injection two times this night. **Francesca** and **Andreu**. A friend of mine, victim of this aristocracy business, tell me a think about my father.
+- From **1 to 3 of April 2021** for the  Holy week in neural network they staged a further humiliation of my person in a procession. The images of the procession were translated in front of a three-dimensional space in front of my house, unfortunately, due to the power of this mafia, the mafia of the aristocracy, several South American citizens also participated in the stalking.
 
 ![//](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
