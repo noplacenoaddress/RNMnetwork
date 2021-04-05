@@ -614,6 +614,8 @@ From June 2020 I start to log every type of torture that I received in radio:
   **4 of Abril 2021 16:00** At 13:00 hours as I filmed in a youtube video that you can appreciate below a person that work for Francesca Durand have energized my synapses without my consent to obtain a remote semi full scan of my **brain connectivity map**. That illegal electronic weapon used at the high of my head had got a duration of three hours more or less. A lot. Than without warning anyone I was putted in full immersion, this is when the gangstalking machine owned by the technocracy terrorism in Spain, in the full immersion interactive streamed film with options read in remote by weapons I was seeing a very complex and articulated movie. There was presents people from high aristocracy and military normal forces from the army of Spain, aristocracy speak about neural war terrorism. Apart from thus obtaining a remote scan of my synapses these people laughed at the objective individual that he was a complete slave to the aristocracy. A totally terrorist aristocracy that mounts these slave sessions with the aim of exploding and obtaining data from the human guinea pig. Saray was also present and they boasted of having fucked her in three of her, Massimo, Gabriele and Stefano.
 
   The military person that say to me this want that I do a complaint against them. Help me.
+  
+- A person that work for Francesca, speak about kill my family.
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
