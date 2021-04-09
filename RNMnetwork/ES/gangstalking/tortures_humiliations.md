@@ -621,6 +621,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - Wake up with death treat from mafias that work for **Francesca** that is deeply involved also with criminality. **Saray** also present, this girl is used by those low level criminals that are enslaved by technology because of treats about her son.
 
+- 9/4/2021 14:46 **Francesca** always treat me about kidnap.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
