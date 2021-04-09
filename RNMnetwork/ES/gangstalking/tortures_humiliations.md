@@ -615,9 +615,11 @@ From June 2020 I start to log every type of torture that I received in radio:
 
   The military person that say to me this want that I do a complaint against them. Help me.
   
-- A person that work for Francesca, speak about kill my family.
+- A person that work for **Francesca**, speak about kill my family.
 
-- A guy that got roots in Mafia and is a slave of Francesca threat me saying that if I don't work in Mafia I will die. He speaks in this manner because he is enslaved by technology but he doesn't understand that he has to shut up.
+- A guy that got roots in Mafia and is a slave of **Francesca** threat me saying that if I don't work in Mafia I will die. He speaks in this manner because he is enslaved by technology but he doesn't understand that he has to shut up.
+
+- Wake up with death treat from mafias that work for **Francesca** that is deeply involved also with criminality.
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
