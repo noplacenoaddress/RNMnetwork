@@ -619,7 +619,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - A guy that got roots in Mafia and is a slave of **Francesca** threat me saying that if I don't work in Mafia I will die. He speaks in this manner because he is enslaved by technology but he doesn't understand that he has to shut up.
 
-- Wake up with death treat from mafias that work for **Francesca** that is deeply involved also with criminality. Saray also present, this girl is used by those low level criminals that are enslaved by technology because of treats about her son.
+- Wake up with death treat from mafias that work for **Francesca** that is deeply involved also with criminality. **Saray** also present, this girl is used by those low level criminals that are enslaved by technology because of treats about her son.
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
