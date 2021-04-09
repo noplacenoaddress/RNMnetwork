@@ -623,6 +623,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 9/4/2021 14:46 **Francesca** always treat me about kidnap.
 
+- 9/4/2021 16:43 As is like one week that stalkers talk to me about Saray, today, she is saying that I doesn't understand that I have to search for her. This is not a game Saray, this is a military family from Genoa that have sold myself to military electronic weapons industry. This is a family that is guilty about crime against humanity. Francesca have to be put in jail for life. This is the only true, life isn't a game I was deeply in love with you Saray six years ago. Now it's six years that you stalk to me.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
