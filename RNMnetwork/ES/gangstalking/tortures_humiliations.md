@@ -627,6 +627,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 11/4/2021 15:38 **Francesca** threatens to kill my family since I speak of the mafia of the nobility where through corrupt elements of the secret services they made me a target individual, a human guinea pig for the development of electronic weapons and evidence of neuro terrorism on the population, on a sample.
 
+- 11/4/2021 18:15 high aristocracy from Spain, very high, speak to worker class friends that I've here saying that I'm a bad person and a stalker. This is because I've explained what aristocracy do in this slavery network. They use them as slaves to obtain MRI remote images of them brains and they use them as human cameras. To control the environment. 
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
