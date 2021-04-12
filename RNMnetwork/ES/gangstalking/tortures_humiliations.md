@@ -637,6 +637,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 12/4/2021 12:59 **Andreu** in subliminal message saying to me why I don't commit suicide. He has put me in a shit of Mafia, Masonry and illegal military development. His game is to fuck the mind of the target individual summing above him a lot of different problems. It's from I was an adolescent that this military have utilized me to build this history. He's a slow assassin. 
 
+- 12/4/2021 14:38 **Francesca** speak about a man that will come to kill me in my house. She say that he is a man that have worked for her family.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
