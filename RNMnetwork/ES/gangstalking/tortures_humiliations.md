@@ -633,6 +633,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 11/4/2021 **Francesca** continuously stalk to me, threat me about death, sexual harass me, and speak about kidnap. It's incredible her surname is claimed to be important in Italy. She is a terrorist, a drug dealer and a slavery market involved person. **Please help United Nation.** 
 
+- 12/4/2021 08:03 **Massimo** speaking to **Andreu**: "go to fuck you assured me that he will going to die"
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
