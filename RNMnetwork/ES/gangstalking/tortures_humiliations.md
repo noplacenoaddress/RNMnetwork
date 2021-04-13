@@ -643,6 +643,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 31/4/2021 20:17 **Alessandro** speaking in the slavery network saying to Paolo, a man that have lost his father for suicide in Genoa in the ninty, that is he will accept me in his house for a week he will kill him also like he has done with his father.
 
+- 31/4/2021 20:40 Using this technology it's seems to be that they act like Mafia and they ask small traders for protection money.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
