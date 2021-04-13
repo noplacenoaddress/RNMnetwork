@@ -641,6 +641,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 13/4/2021 13:58 **Francesca** is totally addicted to torture. I cannot understand how a surname of that importance got a son dedicated to torture. It's incredible how her hierarchy have been corrupted by this technology. That girl is a totally stupid, all the day and all night long torture. I think that she is also totally addicted to cocaine, she is without any doubt a drug addicted. 
 
+- 31/4/2021 20:17 **Alessandro** speaking in the slavery network saying to Paolo, a man that have lost his father for suicide in Genoa in the ninty, that is he will accept me in his house for a week he will kill him also like he has done with his father.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
