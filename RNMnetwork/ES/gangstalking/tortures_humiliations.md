@@ -649,6 +649,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 14/4/2021 **Aurora** speak about Mafia, she is an engineering that work for Francesca. In Genoa she says that my father had worked with the father of Francesca, a man who has died. And this is strange. **Aurora** say that for the administration of the B side market, the black market, she has preferred a family from Naples, connected with **Camorra**. And because I'm the son of Mauro, I'm the victim. This is why people from Sicily in my life have beat me and treat me. I don't know if this is true or it is all a sadistic game from nobles. A game of suicide, like was the one for Cristian, a good man that have lost his life for those horrible game. People that are chosen to change black market influences. *But the real influences is always the same, nobles.*
 
+- 15/5/2021 **Francesca** and **Andreu** stalk to me for all the day. Those idiots have mounted an enormous theater where people think that the victim is me but all of them are exploited under electronic magnetic weapons to obtain neural data and control above them. They are all human guinea pigs. Those idiots think that people couldn't read what I'm writing about. Those idiots will be shot by a military court.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
