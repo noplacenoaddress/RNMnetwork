@@ -651,6 +651,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 15/5/2021 **Francesca** and **Andreu** stalk to me for all the day. Those idiots have mounted an enormous theater where people think that the victim is me but all of them are exploited under electronic magnetic weapons to obtain neural data and control above them. They are all human guinea pigs. Those idiots think that people couldn't read what I'm writing about. Those idiots will be shot by a military court.
 
+- 16/5/2021 **Francesca** and **Andreu** and others torture me all night long. Dream injection, electroshock torture in the stomach, in the head, in the penis. Saray is also present, Massimo and him brother also. Many others. Those are who I was thinking that where my friends, but someone, like Andreu and another man, have manipulated them life. Now I've got to choose if loose my life trying to help them or to put in jail them for many years. It's difficult those are ignorants that where manipulated. They have seen the suicide of others friends, for...protection. Protection that doesn't exist. *Brain jail*. This is what it is. A camp, like the ones in Nazism. 
+
+- 16/5/2021 **Francesca** all the day torture me. It's impossible, I cannot concentrate over my work. Speak always about death, drug, destruction. It's an absurdity that she is free to torture an European citizen.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
