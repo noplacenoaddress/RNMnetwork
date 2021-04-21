@@ -655,6 +655,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/5/2021 **Francesca** all the day torture me. It's impossible, I cannot concentrate over my work. Speak always about death, drug, destruction. It's an absurdity that she is free to torture an European citizen.
 
+- 21/5/2021 I've got extreme backache. Backache is inducted with electromagnetic weapons. It's torture. When I say it to my father, **Alessandro** and **Francesca** in the neural application environment transmitted by the Collserola tower start laughing.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
