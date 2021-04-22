@@ -649,13 +649,17 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 14/4/2021 **Aurora** speak about Mafia, she is an engineering that work for Francesca. In Genoa she says that my father had worked with the father of Francesca, a man who has died. And this is strange. **Aurora** say that for the administration of the B side market, the black market, she has preferred a family from Naples, connected with **Camorra**. And because I'm the son of Mauro, I'm the victim. This is why people from Sicily in my life have beat me and treat me. I don't know if this is true or it is all a sadistic game from nobles. A game of suicide, like was the one for Cristian, a good man that have lost his life for those horrible game. People that are chosen to change black market influences. *But the real influences is always the same, nobles.*
 
-- 15/5/2021 **Francesca** and **Andreu** stalk to me for all the day. Those idiots have mounted an enormous theater where people think that the victim is me but all of them are exploited under electronic magnetic weapons to obtain neural data and control above them. They are all human guinea pigs. Those idiots think that people couldn't read what I'm writing about. Those idiots will be shot by a military court.
+- 15/4/2021 **Francesca** and **Andreu** stalk to me for all the day. Those idiots have mounted an enormous theater where people think that the victim is me but all of them are exploited under electronic magnetic weapons to obtain neural data and control above them. They are all human guinea pigs. Those idiots think that people couldn't read what I'm writing about. Those idiots will be shot by a military court.
 
-- 16/5/2021 **Francesca** and **Andreu** and others torture me all night long. Dream injection, electroshock torture in the stomach, in the head, in the penis. Saray is also present, Massimo and him brother also. Many others. Those are who I was thinking that where my friends, but someone, like Andreu and another man, have manipulated them life. Now I've got to choose if loose my life trying to help them or to put in jail them for many years. It's difficult those are ignorants that where manipulated. They have seen the suicide of others friends, for...protection. Protection that doesn't exist. *Brain jail*. This is what it is. A camp, like the ones in Nazism. 
+- 16/4/2021 **Francesca** and **Andreu** and others torture me all night long. Dream injection, electroshock torture in the stomach, in the head, in the penis. Saray is also present, Massimo and him brother also. Many others. Those are who I was thinking that where my friends, but someone, like Andreu and another man, have manipulated them life. Now I've got to choose if loose my life trying to help them or to put in jail them for many years. It's difficult those are ignorants that where manipulated. They have seen the suicide of others friends, for...protection. Protection that doesn't exist. *Brain jail*. This is what it is. A camp, like the ones in Nazism. 
 
-- 16/5/2021 **Francesca** all the day torture me. It's impossible, I cannot concentrate over my work. Speak always about death, drug, destruction. It's an absurdity that she is free to torture an European citizen.
+- 16/4/2021 **Francesca** all the day torture me. It's impossible, I cannot concentrate over my work. Speak always about death, drug, destruction. It's an absurdity that she is free to torture an European citizen.
 
-- 21/5/2021 I've got extreme backache. Backache is inducted with electromagnetic weapons. It's torture. When I say it to my father, **Alessandro** and **Francesca** in the neural application environment transmitted by the Collserola tower start laughing.
+- 21/4/2021 I've got extreme backache. Backache is inducted with electromagnetic weapons. It's torture. When I say it to my father, **Alessandro** and **Francesca** in the neural application environment transmitted by the Collserola tower start laughing.
+
+- 21/4/2021 as usual continuous  humiliations that is a part of the process of torture.
+
+- 22/4/2021 all night long, dream injection and all the mafias that work for **Francesca** saying to me that they will kidnap me.
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
