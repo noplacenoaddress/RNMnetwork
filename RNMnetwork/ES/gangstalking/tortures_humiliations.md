@@ -661,6 +661,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 22/4/2021 all night long, dream injection and all the mafias that work for **Francesca** saying to me that they will kidnap me.
 
+- 22/4/2021 **Aurora** is speaking about that when I will die for a gun shoot that she together with **Francesca** will charge to one of the Mafia group that is playing about over my death here in my torture ambient, I will cry and saying that I'll have cold. 
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
