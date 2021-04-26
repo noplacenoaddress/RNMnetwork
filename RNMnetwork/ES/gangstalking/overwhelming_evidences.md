@@ -183,6 +183,8 @@ On 26 of April 2021 I've just posted a message of compliant in twitter and my fa
 
 ![](https://telecomlobby.com/Images/26042021_miopadre.jpg)
 
+The most strange think is that he says to me that he doesn't have twitter and I post on it. So why?
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
