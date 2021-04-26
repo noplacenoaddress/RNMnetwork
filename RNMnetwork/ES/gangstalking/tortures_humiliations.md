@@ -647,7 +647,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 14/4/2021 All night long I was threated by people that I've known in my life. I cannot sleep because of torture. My life was destroyed by people that I was thinking that were my friends. Nobility have destroyed friendship and my love. My work. My house. My pets. And now they speak about to return together as if nothing has happened. They want that I put in jail my friends. For money and sadistic game, also my parents are guilty. 
 
-- 14/4/2021 **Aurora** speak about Mafia, she is an engineering that work for Francesca. In Genoa she says that my father had worked with the father of Francesca, a man who has died. And this is strange. **Aurora** say that for the administration of the B side market, the black market, she has preferred a family from Naples, connected with **Camorra**. And because I'm the son of Mauro, I'm the victim. This is why people from Sicily in my life have beat me and treat me. I don't know if this is true or it is all a sadistic game from nobles. A game of suicide, like was the one for Cristian, a good man that have lost his life for those horrible game. People that are chosen to change black market influences. *But the real influences is always the same, nobles.*
+- 14/4/2021 **Aurora** speak about Mafia, she is an engineering that work for Francesca. In Genoa she says that my father had worked with the father of Francesca, a man who has died. And this is strange. 
 
 - 15/4/2021 **Francesca** and **Andreu** stalk to me for all the day. Those idiots have mounted an enormous theater where people think that the victim is me but all of them are exploited under electronic magnetic weapons to obtain neural data and control above them. They are all human guinea pigs. Those idiots think that people couldn't read what I'm writing about. Those idiots will be shot by a military court.
 
@@ -662,6 +662,14 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 22/4/2021 all night long, dream injection and all the mafias that work for **Francesca** saying to me that they will kidnap me.
 
 - 22/4/2021 **Aurora** is speaking about that when I will die for a gun shoot that she together with **Francesca** will charge to one of the Mafia group that is playing about over my death here in my torture ambient, I will cry and saying that I'll have cold. 
+
+- 22/4/2021 20:55 **Francesca** saying while she is torturing me that she  can't wait to see me die for murdered.
+
+- 23/4/2021 all night long I'm heavy tortured by **Francesca** and her crew. In the morning, today is the birthday of my mother, she is happy to have torture also a woman of 72 years old. Francesca is a woman that actively torture a lot of people in Genoa and in Barcelona. No one, for fear, for favor in the black market, for brainwashing, and I don't know what else, say nothing. This torture my friends, don't be afraid to public denunciate to be a tortured. Don't start to torture also. In this torture ambient people only about thinking in a part of your body activate torture. People doesn't understand that pass to be a tortured to be a torture is very simple. Francesca next start to pay with the money of the panoptic jail, bitcoin. Many of them are people reduced at the marginal class for this same system of torture.
+
+- 25/4/2021 19:43 **Francesca** knows that I want to contact directly with Europol because her "game" is hiding the reality. Francesca is using remote neural control technology to do European human traffic. Francesca got a surname appreciate from the elite but she is a terrorist, involved with human traffic. Francesca is torturing me every day and every night.
+
+- 26/4/2021 05:00 dream injection with another victim of the european human traffic network and his girlfriend. Nobles playing with our minds. They speak about a game when this is human trading, torture. Sleep deprivation, electroshock torture. STOP KING OF SPAIN, HELP ME. **Francesca** and **Alessandro** from Genoa. Probably also my family present. **Aurora** as an engineer of the Francesca's family.
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
