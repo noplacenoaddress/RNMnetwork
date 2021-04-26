@@ -673,6 +673,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 26/4/2021 10:41 **Massimo** because I've just said that I want to denunciate all in Genoa and in Barcelona say to me that he will kill me.
 
+- 26/4/2021 A lot of people that I know in this torture ambient say that also them sons are connected and they are minors.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
