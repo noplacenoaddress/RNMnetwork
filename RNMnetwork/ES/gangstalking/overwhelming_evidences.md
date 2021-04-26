@@ -179,6 +179,10 @@ On January 10 of 2021 I was just speaking about torture in my social network bec
 
 I'm doing a complaint to denunciate a mobile thief from the head of the non state actor Mafia and my father promptly send me this shit. He's totally guilty to see her son to be tortured.
 
+On 26 of April 2021 I've just posted a message of compliant in twitter and my father reply this shit:
+
+![](https://telecomlobby.com/Images/26042021_miopadre.jpg)
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
