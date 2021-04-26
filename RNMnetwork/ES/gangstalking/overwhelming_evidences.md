@@ -185,6 +185,8 @@ On 26 of April 2021 I've just posted a message of compliant in twitter and my fa
 
 The most strange think is that he says to me that he doesn't have twitter and I post on it. So why?
 
+Strange case my father had very marked dark circles at lunch today. In fact, the torture of the night caused my post on twitter, a social network that he does not own. So he immediately sent me the message about the psychologist afterwards. Unfortunately my father is an engineer of this fascist family and he betrayed his son all his life by telling him that he was a leftist. He always talks about drugs, obviously he is a consumer or a seller. Or simply how Cristian died accused of a drug addict is an excuse for him. In the corruption circle where I was locked up in a psychiatric, an analysis indicated consumption when I am not taking drugs. And I never took.
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
