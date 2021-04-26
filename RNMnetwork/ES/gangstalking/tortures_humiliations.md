@@ -671,6 +671,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 26/4/2021 05:00 dream injection with another victim of the european human traffic network and his girlfriend. Nobles playing with our minds. They speak about a game when this is human trading, torture. Sleep deprivation, electroshock torture. STOP KING OF SPAIN, HELP ME. **Francesca** and **Alessandro** from Genoa. Probably also my family present. **Aurora** as an engineer of the Francesca's family.
 
+- 26/4/2021 10:41 **Massimo** because I've just said that I want to denunciate all in Genoa and in Barcelona say to me that he will kill me.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
