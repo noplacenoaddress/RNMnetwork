@@ -675,6 +675,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 26/4/2021 A lot of people that I know in this torture ambient say that also them sons are connected and they are minors.
 
+- 28/5/2021 05:00 sleep deprivation and electroshock torture. **Francesca** use contacts of her family in the church saying that this torture is because of noble's tree cut. Many people in Genoa believe it and some catholic group like commun and liberation support it. Those criminals have destroyed the life of many friends of mine. This is ONLY a business, a business owned by a family extremely connected with fascism and the black market. I'm sorry my friends, this is the only truth.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
