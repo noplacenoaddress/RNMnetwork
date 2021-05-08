@@ -681,6 +681,14 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 29/4/2021 18:18 It's all the day that they torture me. They are people that I've known in my life connected with nobility in Genoa and with south Italian mafia. I'm victim of European human trade. They torture me because they don't want that I restart my job, they want that I start to sell drug for them. They use Mafias to oblige my to be a slave. Alessandro and Francesca.
 
+- 1/5/2021 23:40 One ex girlfriend of mine, just threatened me with death.
+
+- 7/5/2021 **Francesca** is underlining that because I don't open my ass in front of the noble cast that own the modern slavery network, I'll not work anymore. She is saying also that she is the owner of the cocaine traffic in the Mediterranean area. 
+
+- 8/5/2021 **Francesca** always speak about **Cosa Nostra**. She is working with this Mafia in the human traffic and trading network to oblige me to work for them. Francesca is underling every day that if I want to have sex or a girlfriend I've got to sell drug for her.
+
+- 8/5/2021 **Francesca** always is always cheers that she is always happy that she managed to leave me in the middle of the street and, for example, since now I'm working hard to denounce the whole network of trafficking where her family has reduced me to slavery together with the mafia as well as my new company, identical to the one they stole from me together with a Catalan entrepreneur, tortures me all day laughing about the fact that I have no money. 
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
