@@ -689,6 +689,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 8/5/2021 **Francesca** always is always cheers that she is always happy that she managed to leave me in the middle of the street and, for example, since now I'm working hard to denounce the whole network of trafficking where her family has reduced me to slavery together with the mafia as well as my new company, identical to the one they stole from me together with a Catalan entrepreneur, tortures me all day laughing about the fact that I have no money. 
 
+- 9/5/2021 As **Francesca** play parimutuel betting system with nobles she inject to my theta waves dream about my born city, Genoa. At 5 am she wakes me up with electroshock torture and loud voice to skull. Sleep deprivation is other form of torture.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
