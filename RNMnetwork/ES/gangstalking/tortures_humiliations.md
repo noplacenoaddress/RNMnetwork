@@ -691,6 +691,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 9/5/2021 As **Francesca** play parimutuel betting system with nobles she inject to my theta waves dream about my born city, Genoa. At 5 am she wakes me up with electroshock torture and loud voice to skull. Sleep deprivation is other form of torture.
 
+- 10/5/2021 6 am. Sleep deprivation. **Francesca** in voice to skull is trying to convince me to give up a life as an honest citizen to devote myself to drugs or, given my high computer skills, to the world of illegal hacking. One member of the non-state actors group continues to claim to be, which is totally false, since, as the name implies, they are actors. Actors in the shop of target individuals, tortured who torture. 
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
