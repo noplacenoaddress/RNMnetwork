@@ -685,7 +685,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 7/5/2021 **Francesca** is underlining that because I don't open my ass in front of the noble cast that own the modern slavery network, I'll not work anymore. She is saying also that she is the owner of the cocaine traffic in the Mediterranean area. 
 
-- 8/5/2021 **Francesca** always speak about **Cosa Nostra**. She is working with this Mafia in the human traffic and trading network to oblige me to work for them. Francesca is underling every day that if I want to have sex or a girlfriend I've got to sell drug for her.
+- 8/5/2021 **Francesca** always speak about Mafia, She is working with Mafia in the human traffic and trading network to oblige me to work for them. Francesca is underling every day that if I want to have sex or a girlfriend I've got to sell drug for her.
 
 - 8/5/2021 **Francesca** always is always cheers that she is always happy that she managed to leave me in the middle of the street and, for example, since now I'm working hard to denounce the whole network of trafficking where her family has reduced me to slavery together with the mafia as well as my new company, identical to the one they stole from me together with a Catalan entrepreneur, tortures me all day laughing about the fact that I have no money. 
 
@@ -694,6 +694,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 - 10/5/2021 6 am. Sleep deprivation. **Francesca** in voice to skull is trying to convince me to give up a life as an honest citizen to devote myself to drugs or, given my high computer skills, to the world of illegal hacking. One member of the non-state actors group continues to claim to be, which is totally false, since, as the name implies, they are actors. Actors in the shop of target individuals, tortured who torture. 
 
 - 11/5/2021 18:34 **Francesca** always speak about kidnap me. Say that she has got a group of experts about kidnapping in Barcelona. Those people are the crew of the non state actor that torture victims of the business of her family. Sold neural states under extreme stress situations. This business is based upon slavery, torture and scientific racism. **Because Francesca got roots near head of the Catholic Church people think that are because nobles tree cut.** 
+
+- 13/5/2021 Because of a publication in my facebook of a video where I speak about the human trade network, the modern slavery network, **Andreu**, that is very common that is a CNI or a military intelligence, say that he will come at my house take me with violence and kidnap me on the border with France.
+
+- 14/5/2021 4 am. **Francesca** is transmitting altering my theta waves a porn dream while I'm in REM phase. This terrorist has stole my dreams. While she does it she is also using the millimeter  precision electronic weapon to cause by acting on my prostate that little seminal fluid comes out of my penis. This morning the pain of the seminal duct is open. All this, according to this madwoman, is to make me ashamed of myself since, of course, since I am enslaved in the modern panoptic jail, **I have not had sexual relations as I am under torture**. Her band of non-state actors have also always stressed that they have them. It is a childish way of shaming a forty-year-old man when they are simply tortured torturing. **Francesca has been torturing me continuously for four days, obviously she must be a big user of drugs, amphetamines and cocaine for sure.**
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
