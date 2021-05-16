@@ -699,6 +699,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 14/5/2021 4 am. **Francesca** is transmitting altering my theta waves a porn dream while I'm in REM phase. This terrorist has stole my dreams. While she does it she is also using the millimeter  precision electronic weapon to cause by acting on my prostate that little seminal fluid comes out of my penis. This morning the pain of the seminal duct is open. All this, according to this madwoman, is to make me ashamed of myself since, of course, since I am enslaved in the modern panoptic jail, **I have not had sexual relations as I am under torture**. Her band of non-state actors have also always stressed that they have them. It is a childish way of shaming a forty-year-old man when they are simply tortured torturing. **Francesca has been torturing me continuously for four days, obviously she must be a big user of drugs, amphetamines and cocaine for sure.**
 
+- 16/5/2021 17:00 **Vincenzo**, a man that i've found over the network 4chan fucking with **Francesca**, is doing heavy stalk to me because I'm working on sunday. This moron is from Albaro a high class neighborhood in Genoa. He is working in a navy line and probably involved in traffic for Francesca. 
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
