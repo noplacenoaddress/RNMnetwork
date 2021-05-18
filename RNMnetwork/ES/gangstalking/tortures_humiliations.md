@@ -701,6 +701,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/5/2021 17:00 **Vincenzo**, a man that i've found over the network 4chan fucking with **Francesca**, is doing heavy stalk to me because I'm working on sunday. This moron is from Albaro a high class neighborhood in Genoa. He is working in a navy line and probably involved in traffic for Francesca. 
 
+- 18/5/2021 sleep deprivation from **Andreu** and **Saray**. **Francesca** also present.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
