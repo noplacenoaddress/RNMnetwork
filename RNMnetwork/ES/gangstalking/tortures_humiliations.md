@@ -703,6 +703,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 18/5/2021 sleep deprivation from **Andreu** and **Saray**. **Francesca** also present.
 
+- 19/5/2021 13:00 my father repeat to me continuously that I've got to remove a post where I speak about the surname of **Francesca**, that is the woman who has destroyed systematically my life and have exploited me in the **human trade network**. He says that is because he doesn't want any problem and say to me that if I don't do it he cannot help me. The only true is that I've lost my career where I was gaining from 3500 clients. In my post I speak about **torture**, this is not a game.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
