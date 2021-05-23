@@ -711,6 +711,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 21/5/2021 13:43 **Andreu**, a military that work in the human trade network, just say to me: **As Cristian, a man who commit suicide in Genoa in 2016, has die you will die**. Those shittish people that work for aristocracy play in the suicide business, business that see human trade victims used to be human guinea pig to take extreme stress condition neural states to develop military weapons.
 
+- 21/5/2021 14:37 **Francesca** always do sexual harassment to me using an electronic weapon. 
+
+- 23/5/2021 10:10 **Andreu** always is speaking about committing suicide. He wants that I suicide. He continually stresses due to torture that I will never be able to finish what I am doing for my company. I am a victim of trafficking in European people, **Andreu** is the one who manages the trafficking in Catalunya on behalf of the aristocracy and the church. Using electronic torture they try to provoke a sense of failure in me that leads to suicide. These people after using my person to develop electronic weapons and betting they want to eliminate me. The trafficking shop involves mafias, aristocracy, corrupt soldiers and ecclesiastical orders. **The Durand family** are church managers.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
