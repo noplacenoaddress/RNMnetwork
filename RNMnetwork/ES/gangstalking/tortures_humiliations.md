@@ -717,6 +717,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 24/5/2021 all night long sleep deprivation torture and dream injection. **Francesca** always torturing me.
 
+- 24/5/2021 **Andrea**. a guy that I've know previously in my life, just invite me to kill my self.
+
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
