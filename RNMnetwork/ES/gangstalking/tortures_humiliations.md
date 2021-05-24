@@ -719,7 +719,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 24/5/2021 **Andrea**. a guy that I've know previously in my life, just invite me to kill my self.
 
-- 24/5/2021 **Andreu** is all the day that torture me, this fucking neuro terrorist is payed in bitcoin by **Francesca Durand de la Penne** the woman that is torturing me from when I was a child, a marquees family. With **Francesca** also **Andrea** and his brother are sexual torturing me. Andrea speak about to call my father and say that I'm speaking alone because he sees my room in my house by what see my eyes. These family is deeply involved in human trading. **Andreu** is a military that work for aristocracy in Catalunya administrating the human trade network and slavery. 
+- 24/5/2021 **Andreu** is all the day that torture me, this fucking neuro terrorist is payed in bitcoin by **Francesca Durand de la Penne** the woman that is torturing me from when I was a child, a marquees family. With **Francesca** also **Andrea** and his brother are sexual torturing me. Andrea speak about to call my father and say that I'm speaking alone because he sees my room in my house by what see my eyes. These family is deeply involved in human trading. **Andreu** is a military that work for aristocracy in Catalunya administrating the human trade network and slavery. **Tommaso** also is present and this is a very bad felling for me because I was thinking he was one of my best friends.
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
