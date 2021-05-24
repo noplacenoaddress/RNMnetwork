@@ -713,7 +713,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 21/5/2021 14:37 **Francesca** always do sexual harassment to me using an electronic weapon. 
 
-- 23/5/2021 10:10 **Andreu** always is speaking about committing suicide. He wants that I suicide. He continually stresses due to torture that I will never be able to finish what I am doing for my company. I am a victim of trafficking in European people, **Andreu** is the one who manages the trafficking in Catalunya on behalf of the aristocracy and the church. Using electronic torture they try to provoke a sense of failure in me that leads to suicide. These people after using my person to develop electronic weapons and betting they want to eliminate me. The trafficking shop involves mafias, aristocracy, corrupt soldiers and ecclesiastical orders. **The Durand family** are church managers.
+- 23/5/2021 10:10 **Andreu** always is speaking about committing suicide. He wants that I suicide. He continually stresses due to torture that I will never be able to finish what I am doing for my company. I am a victim of trafficking in European people, **Andreu** is the one who manages the trafficking in Catalunya on behalf of the aristocracy and the church. Using electronic torture they try to provoke a sense of failure in me that leads to suicide. These people after using my person to develop electronic weapons and betting they want to eliminate me. The trafficking shop involves mafias, aristocracy, corrupt soldiers and ecclesiastical orders.
+
+- 24/5/2021 all night long sleep deprivation torture and dream injection. **Francesca** always torturing me.
 
 ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
