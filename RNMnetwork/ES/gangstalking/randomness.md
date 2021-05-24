@@ -147,6 +147,10 @@ I have found three or four totally masked in the organization chart and quickly 
 
 For me the fraud "Illuminati" that have induct to suicide an enormous number of victims and reduce to be a little narcos  or prostitute another enormous number is something that have been elaborated from this sept.
 
+#### The first time that I drive a car with license
+
+
+
 ### My father signs
 
 ![old sign](http://telecomlobby.com/Images/mgantica.jpg)
