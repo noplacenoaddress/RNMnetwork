@@ -729,7 +729,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 27/5/2021 dream injection with electronic weapons that alter my theta waves. An absurd dream where I see the chief of the non actor state crew, a human trade professional, that speak to me in a very strange manner. **Andreu**. With this technology they provoke REM state, it's an enormous crime against humanity.
 
-- 27/5/2021 22:20 **Francesca** always use this electronic weapon to violate myself. She always think about my asshole.
+- 27/5/2021 22:20 **Francesca** always use this electronic weapon to violate myself. She always think about my asshole. Francesca always saying that she is the queen of techno. With techno she is speaking about the European human trade network, where she develop for military facilities. 
+
+- 28/5/2021 00:17 **Francesca** speaking with someone threatens my life. All of this in front of a lot of people of Genoa of good family that I know. They all gain money from the human trade network. All of them with all their families connected to my torture application. **Francesca** continues to say that she is the queen of human trafficking in Europe.
 
   
 
