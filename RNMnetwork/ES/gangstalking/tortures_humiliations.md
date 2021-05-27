@@ -723,7 +723,15 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 24/5/2021 **Emilio**, a man that live in Albaro, is saying to me to go outside my house and start to kill people because of my torture.
 
-- 25/5/2021 **Francesca** continuously stalk to me. Saying that I masturbate myself every night think that is totally false and saying that I'm violating people connected to my torture application. Speaking about Maria.![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 25/5/2021 **Francesca** continuously stalk to me. Saying that I masturbate myself every night think that is totally false and saying that I'm violating people connected to my torture application. Speaking about Maria.
+
+- 25/5/2021 As I've got some money from room rent that I do stalkers continuously speak to me to start to use drugs.
+
+- 27/5/2021 dream injection with electronic weapons that alter my theta waves. An absurd dream where I see the chief of the non actor state crew, a human trade professional, that speak to me in a very strange manner. **Andreu**. With this technology they provoke REM state, it's an enormous crime against humanity.
+
+  
+
+- ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
