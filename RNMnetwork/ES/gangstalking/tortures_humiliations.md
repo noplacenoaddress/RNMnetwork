@@ -729,6 +729,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 27/5/2021 dream injection with electronic weapons that alter my theta waves. An absurd dream where I see the chief of the non actor state crew, a human trade professional, that speak to me in a very strange manner. **Andreu**. With this technology they provoke REM state, it's an enormous crime against humanity.
 
+- 27/5/2021 22:20 **Francesca** always use this electronic weapon to violate myself. She always think about my asshole.
+
   
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
