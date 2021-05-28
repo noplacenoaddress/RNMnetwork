@@ -737,7 +737,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/5/2021 I'm working on a automatic shell configuration for Ubiquiti devices and **Vincenzo** underline how I cannot do it. He is from a high class neighborhood from Genoa.
 
-- 25/5/2021 Because tomorrow I will install my first tower of telecommunication after that Francesca and a big group of high class society people from Genoa have scammed my old firm, she is doing heavy stalk to me. Many of them was my friends, and now they bet over my life. Remote parimutuel betting system. They are betting also over my suicide. And I know them from more than 25 years. I really don't know, it seems to be that in Genoa this is something common. The city live above cards from Vatican. Cards are sons of no one, or bastards.
+- 28/5/2021 Because tomorrow I will install my first tower of telecommunication after that **Francesca** and a big group of high class society people from Genoa have scammed my old firm, she is doing heavy stalk to me. Many of them was my friends, and now they bet over my life. Remote parimutuel betting system. They are betting also over my suicide. And I know them from more than 25 years. I really don't know, it seems to be that in Genoa this is something common. The city live above cards from Vatican. Cards are sons of no one, or bastards.
 
   
 
