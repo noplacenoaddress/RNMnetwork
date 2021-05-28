@@ -733,6 +733,12 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/5/2021 00:17 **Francesca** speaking with someone threatens my life. All of this in front of a lot of people of Genoa of good family that I know. They all gain money from the human trade network. All of them with all their families connected to my torture application. **Francesca** continues to say that she is the queen of human trafficking in Europe.
 
+- 28/5/2021 05:00 dream injection with my parents speaking about police and my motorbikes. I've lost all in the systematic destruction of my life, I was the owner of 4 fantastic motorbikes. In the dream I see guardia civil that put me in jail when I'm victim of the European human trade business. I'm victim of slavery. In reality I've sold two cars and it doesn't appear in the official register of Spain but I've sold it following the law. Aristocracy have got a lot of power with corruption. I've done a lot of complaints but no one reply. It's an enormous scandal. My parents are guilty, at least to know the truth. But most likely much more than that, of having lived off the coast of a child, even if he was adopted anyway he is. My mother speaks about to sell drug and that I'm a drugs addicted. All is totally false. This is why they electroshock torture my tooths. To seems as. **Francesca** and **Andreu** always present, and others peoples working for Francesca in the non state actors crew, a group of people that work in the suicide business of European human trade facility. The church in the form of a sect, Communion and Liberation, is also present. My mother speak about a girl friend of mine in Genoa.
+
+- 28/5/2021 I'm working on a automatic shell configuration for Ubiquiti devices and **Vincenzo** underline how I cannot do it. He is from a high class neighborhood from Genoa.
+
+- 25/5/2021 Because tomorrow I will install my first tower of telecommunication after that Francesca and a big group of high class society people from Genoa have scammed my old firm, she is doing heavy stalk to me. Many of them was my friends, and now they bet over my life. Remote parimutuel betting system. They are betting also over my suicide. And I know them from more than 25 years. I really don't know, it seems to be that in Genoa this is something common. The city live above cards from Vatican. Cards are sons of no one, or bastards.
+
   
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
