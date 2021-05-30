@@ -741,6 +741,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/5/2021 **Francesca** torture me continuously. 
 
+- 30/5/2021 Francesca, that without any doubt is an heavy cocaine abuser, never sleep. Always she is doing stalk to me.
+
   
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
