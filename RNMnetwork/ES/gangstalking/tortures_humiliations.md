@@ -749,7 +749,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 1/6/2021 06:00 Dream injection. A very good friend of mine say to me that his life was enslaved by this technology because of his surname that is the same of a high class family of Genoa. His brain is enslaved and if he does something that Francesca, the owner of a drug cartel, doesn't want he his immediately raped. In Genoa, nobles and high class families, got people assigned by the Church, the Jesuits, to be slaves. Sexual or drug slaves. Francesca administrated slavery of those targets individuals using this control and harass technology. What she call "techno". Go to fuck Francesca, life is one and I'm not your slave. Have a nice day. 
 
-  
+- 1/6/2021 **Andreu** and **Francesca** sexual harass me overexciting my penis and my tits with electronic weapons. Them goal is that I'll start to masturbate me, it's for public masturbation. A form of torture. Another goal is I lose the sense of the day's work.
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
