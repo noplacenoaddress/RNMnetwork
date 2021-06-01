@@ -747,6 +747,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 31/5/2021 18:00 as today police have stop me because a judgment about a crime provoked by her non actors state band, people who cheated my life with the purpose of exploding, remote betting and developing military electronic weapons, **Francesca** just says: Francesco have been enjailed, Cristian have been died and you will go to jail and will commit suicide. 
 
+- 1/6/2021 06:00 Dream injection. A very good friend of mine say to me that his life was enslaved by this technology because of his surname that is the same of a high class family of Genoa. His brain is enslaved and if he does something that Francesca, the owner of a drug cartel, doesn't want he his immediately raped. In Genoa, nobles and high class families, got people assigned by the Church, the Jesuits, to be slaves. Sexual or drug slaves. Francesca administrated slavery of those targets individuals using this control and harass technology. What she call "techno". Go to fuck Francesca, life is one and I'm not your slave. Have a nice day. 
+
   
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
