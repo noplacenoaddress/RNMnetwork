@@ -741,7 +741,11 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/5/2021 **Francesca** torture me continuously. 
 
-- 30/5/2021 Francesca, that without any doubt is an heavy cocaine abuser, never sleep. Always she is doing stalk to me.
+- 30/5/2021 **Francesca**, that without any doubt is an heavy cocaine abuser, never sleep. Always she is doing stalk to me. She is always speaking about sodomy and porn, because in the human trade network they sell girls.
+
+- 30/5/2021 18:27 **Francesca** saying: I'm your destruction. All the day she sexual harass me.
+
+- 31/5/2021 18:00 as today police have stop me because a judgment about a crime provoked by her non actors state band, people who cheated my life with the purpose of exploding, remote betting and developing military electronic weapons, **Francesca** just says: Francesco have been enjailed, Cristian have been died and you will go to jail and will commit suicide. 
 
   
 
