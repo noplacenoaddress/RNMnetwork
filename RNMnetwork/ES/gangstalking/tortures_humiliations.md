@@ -751,6 +751,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 1/6/2021 **Andreu** and **Francesca** sexual harass me overexciting my penis and my tits with electronic weapons. Them goal is that I'll start to masturbate me, it's for public masturbation. A form of torture. Another goal is I lose the sense of the day's work.
 
+- 1/6/2021 **Francesca** just say that she is guilty to pay a man to hit me on 2016.
+
+- 1/6/2021 sleep deprivation until 2 am.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
