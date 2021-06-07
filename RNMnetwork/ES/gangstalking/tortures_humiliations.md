@@ -767,6 +767,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 7/6/2021 **Francesca** in the torture application connected to my head always use the name "**Cosa Nostra**" to menace me. **Francesca** have also tortured me to let play those morons in parimutuel betting system about my suffering.  
 
+- 7/6/2021 21:02 A person that work for **Francesca**, say to me that have got a RAT installed in my phone. Inside my phone I've got certificates from the Spanish state that represent my persons. He underline that they have stole them a lot of time. And another that says that is from Cosa Nostra say that I will die.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
