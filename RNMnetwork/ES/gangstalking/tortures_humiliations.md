@@ -755,6 +755,16 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 1/6/2021 sleep deprivation until 2 am.
 
+- 3/6/2021 **Francesca** always saying that she is the queen of "techno". With techno she is speaking about the human trading network.
+
+- 3/6/2021 **Francesca**: your father had a son killed because he did not make him respect the nobility, you are the victim of the largest traffic cartel in Europe.
+
+- 5/6/2021 **Francesca** always is doing stalk to me. She speaks about mental illness because I hear voices. This moron doesn't understand that remote neural monitoring technology it's from late seventies. It's nothing new. Now it's used with artificial intelligence to reconstruct with very poor information about remote magnetic resonance images exact neural states. 
+
+- 7/6/2021 Dream injection all night long the result is however a person sleep 8 hours he wakes up tired.
+
+- 7/6/2021 just start to work over my Redama project. As I was the owner of MESWIFI and in the past my work go very well, **Andreu** is heavy stalking me saying that my work will not go well. They simply want that I commit suicide for parimutuel betting system, for scientific racism and because of neural application develop.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
