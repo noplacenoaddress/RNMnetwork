@@ -765,6 +765,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 7/6/2021 just start to work over my Redama project. As I was the owner of MESWIFI and in the past my work go very well, **Andreu** is heavy stalking me saying that my work will not go well. They simply want that I commit suicide for parimutuel betting system, for scientific racism and because of neural application develop.
 
+- 7/6/2021 **Francesca** in the torture application connected to my head always use the name "**Cosa Nostra**" to menace me. **Francesca** have also tortured me to let play those morons in parimutuel betting system about my suffering.  
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
