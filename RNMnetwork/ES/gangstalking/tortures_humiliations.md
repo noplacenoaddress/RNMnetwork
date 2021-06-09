@@ -783,6 +783,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 9/6/2021 17:55 **Francesca** say to me: Why do you don't take drugs? Doing this we will play with you torturing you.
 
+- 9/6/2021 18:28 **Francesca** speaking to who i have to think that is my mother that I've to go to the psychiatric, the brother of **Massimo**, **Stefano** the same that was involved in the motorbike accident with **Alessadro**, say: why not?
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
