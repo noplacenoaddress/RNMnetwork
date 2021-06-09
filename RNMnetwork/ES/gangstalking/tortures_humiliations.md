@@ -777,6 +777,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 9/6/2021 10:11 Heavy stalking all night long, I wasn't able to sleep for a punch of idiots that think that they could play with my mind and my ego. A couple of stupids that are involved with human trade network where thousands of girls were violated. There are some little representatives of what they think that they could call Mafia. They are involved in young womans violations something very similar to the brain washing methods used in televisions companies to destroy those victims.  
 
+- 9/6/2021 11:41 I'm tortured by **Saray**.
+
+- 9/6/2021 17:36 like this is the "Pluto tour" organized by Francesca to suicide or kill a person the final goal is to archieve that the victim think that he woulds be kidnapped to be used to impersonate the person of the murder brother of Francesca, Alessandro. Alessandro die for a motorbike accident where two others persons where presents, person that I know and one that is guilty of the thief of my business, Stefano. Francesca have probably organized the death of his brother, because he was also a play card game, a child traffic from another noble family to thief them Vatican bank account data. I don't even know why she thinks to recuperate those access killing a person that is probably only a child that him fathers doesn't want to have. A family obbly by Mafia or by nobles to have a child to play with.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
