@@ -785,6 +785,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 9/6/2021 18:28 **Francesca** speaking to who i have to think that is my mother that I've to go to the psychiatric, the brother of **Massimo**, **Stefano** the same that was involved in the motorbike accident with **Alessadro**, say: why not?
 
+- 9/6/2021 20:05 our final goal is that you commit suicide, **a man that say that is from Cosa Nostra**.
+
+- 10/6/2021 all night long people do extreme stalk to me and I cannot sleep and I cannot work in my business because Francesca pay them with bitcoin to destroy my life. They are people that this woman have destroyed with the modern slavery network, but they don't understand that I also have been destroyed for this millionaire family. Today in the morning one of the say to me that I've got to return to Genoa because of parimutuel betting system. Francesca use those people giving them a little bit of money to eat. And they torture me. It's normal, but not in front of all the aristocracy.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
