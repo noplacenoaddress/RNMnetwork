@@ -791,6 +791,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 10/6/2021 Andrea a man that live in Genoa just say: you're a victim of techno, remember that for techno he speaks about the modern slavery network and human trading network, you cannot work.
 
+- 10/6/2021 All the day stalking I cannot work. This non state actor group speak about price of sons of mine. Nobles are selling sons. In the human trade network people that are victims got absolutely all sold. Them dreams, them works, them loves, them power. They are used as prostitutes or drugs sellers obliged by the technocracy state in state dictatorship, by spectram the mafia that administrate Carcelona. Where Francesca kill play cards from nobility, where **Francesca** want to kill me after having sold all about me. Shittish engineer like Aurora work in the planning of the death by suicide of a victim, **Aurora** was a friend of mine and I know her from she was twelve. Simply one of the dirtiest and shittish person that I've encountered in my life. She is the girlfriend of another ex friend of mine, Tomaso. Tomaso is married with a woman that got roots in the high level military of the Italian state. This family without any doubt work also in the business of remote neural state selling divided by groups. Those groups represents scientific racism. A crime against humanity. Hey folks, morons. Those crimes are about more that a life of jail. Fucking morons. They have got fear of Mafia that menace them because of nobility. Fucking morons.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
