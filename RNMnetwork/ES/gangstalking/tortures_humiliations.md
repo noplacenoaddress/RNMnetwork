@@ -789,6 +789,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 10/6/2021 all night long people do extreme stalk to me and I cannot sleep and I cannot work in my business because Francesca pay them with bitcoin to destroy my life. They are people that this woman have destroyed with the modern slavery network, but they don't understand that I also have been destroyed for this millionaire family. Today in the morning one of the say to me that I've got to return to Genoa because of parimutuel betting system. Francesca use those people giving them a little bit of money to eat. And they torture me. It's normal, but not in front of all the aristocracy.
 
+- 10/6/2021 Andrea a man that live in Genoa just say: you're a victim of techno, remember that for techno he speaks about the modern slavery network and human trading network, you cannot work.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
