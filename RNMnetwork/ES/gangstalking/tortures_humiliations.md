@@ -765,7 +765,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 7/6/2021 just start to work over my Redama project. As I was the owner of MESWIFI and in the past my work go very well, **Andreu** is heavy stalking me saying that my work will not go well. They simply want that I commit suicide for parimutuel betting system, for scientific racism and because of neural application develop.
 
-- 7/6/2021 **Francesca** in the torture application connected to my head always use the name "**Cosa Nostra**" to menace me. **Francesca** have also tortured me to let play those morons in parimutuel betting system about my suffering.  
+- 7/6/2021 **Francesca** in the torture application connected to my head always use the name "**mafia**" to menace me. **Francesca** have also tortured me to let play those morons in parimutuel betting system about my suffering.  
 
 - 7/6/2021 21:02 A person that work for **Francesca**, say to me that have got a RAT installed in my phone. Inside my phone I've got certificates from the Spanish state that represent my persons. He underline that they have stole them a lot of time. And another that says that is from Cosa Nostra say that I will die. My line is Orange and obviously in that provider an shareholder have mounted ECHELON without declaring it to united nations. These ECHELON is an enormous crime against humanity. Remember that the family of Francesca is from Orange, France.
 
@@ -785,13 +785,19 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 9/6/2021 18:28 **Francesca** speaking to who i have to think that is my mother that I've to go to the psychiatric, the brother of **Massimo**, **Stefano** the same that was involved in the motorbike accident with **Alessadro**, say: why not?
 
-- 9/6/2021 20:05 our final goal is that you commit suicide, **a man that say that is from Cosa Nostra**.
+- 9/6/2021 20:05 our final goal is that you commit suicide, **a man that say that is from mafia**.
 
 - 10/6/2021 all night long people do extreme stalk to me and I cannot sleep and I cannot work in my business because Francesca pay them with bitcoin to destroy my life. They are people that this woman have destroyed with the modern slavery network, but they don't understand that I also have been destroyed for this millionaire family. Today in the morning one of the say to me that I've got to return to Genoa because of parimutuel betting system. Francesca use those people giving them a little bit of money to eat. And they torture me. It's normal, but not in front of all the aristocracy.
 
 - 10/6/2021 Andrea a man that live in Genoa just say: you're a victim of techno, remember that for techno he speaks about the modern slavery network and human trading network, you cannot work.
 
 - 10/6/2021 All the day stalking I cannot work. This non state actor group speak about price of sons of mine. Nobles are selling sons. In the human trade network people that are victims got absolutely all sold. Them dreams, them works, them loves, them power. They are used as prostitutes or drugs sellers obliged by the technocracy state in state dictatorship, by spectram the mafia that administrate Carcelona. Where Francesca kill play cards from nobility, where **Francesca** want to kill me after having sold all about me. Shittish engineer like Aurora work in the planning of the death by suicide of a victim, **Aurora** was a friend of mine and I know her from she was twelve. Simply one of the dirtiest and shittish person that I've encountered in my life. She is the girlfriend of another ex friend of mine, Tomaso. Tomaso is married with a woman that got roots in the high level military of the Italian state. This family without any doubt work also in the business of remote neural state selling divided by groups. Those groups represents scientific racism. A crime against humanity. Hey folks, morons. Those crimes are about more that a life of jail. Fucking morons. They have got fear of Mafia that menace them because of nobility. Fucking morons.
+
+- 10/6/2021 21:09 I've understand all about the masonry G. 
+
+- 10/6/2021 23:08 I cannot sleep another time because of stalking. **Francesca** is doing this using a man that work for her in this virtual place. Francesca it's four days that I cannot sleep because of electronic harassment. 
+
+- 11/6/2021 09:58 Finally I was able to sleep. But obviously when I wake up they start to stalk threaten me. One say: when you will come at my so I will torture you a little bit? Another think to understand that in this program of suicide of European human trade network victims that for what I've understood is always the same and got a range of possible causes of death, including death from cancer due to corruption in a hospital infrastructure, death by suicide, death by poisoning, death by accident and death by suicide. All these causes can hardly be traced back to what they really are: murdered provoked by the members of the group of non-state actors paid in bitcoin by **Francesca** and headed to Barcelona by **Andreu**. Unfortunately **Saray** is also part of it, but remember that they are tortured who torture, people who have ended up in the darkest sewers of the human being. In extreme sadism.
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
