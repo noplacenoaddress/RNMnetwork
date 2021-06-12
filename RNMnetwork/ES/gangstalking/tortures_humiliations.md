@@ -803,6 +803,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 12/6/2021 08:51 All night long I was tortured with extreme stalking and sleep deprivation. Present as usual this corrupted military called Andreu, people from the high level neighbor from Genoa, two brothers, and various death threat in dream injection. They ALWAYS speak about drugs, they are totally addicted. 
 
+- 12/6/2021 19:38 I was tortured all day longs, a good woman, probably enslaved by technology also have tortured and sexual harass me. Why she does it? Probably because she is a mommy. Also my love, Saray, got a baby and she is always touching my penis with this electronic weapons. Those monsters, Francesca and Andreu but also a lot of Mafias, threat her and abuse of her vagin.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
