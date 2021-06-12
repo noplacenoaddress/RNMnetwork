@@ -801,6 +801,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 11/6/2021 18:13 Andreu and its crew, a couple of experts in the masonry G business, experts in the suicide business, and in the parimutuel bettin system with all the people that the victim have known in his life that play like morons in remote over him use girls, suicide girls, to attract the victim in the houses where they play. But what they play exactly? Sodomy, violence, poisoning and so on. For what? To physically create a slave. Sodomy always is used to create slaves, mans and womans. But in womans and in homosexuality, they call it sex and pleasure. It's not, it's only sodomy. That is not sex, it's slavery. It's not fun and pleasure, it's pain. And remember that the victim is controlled by neural television transmitted over like two thousands of people, many from uncomfortable situations. In those neural televisions people is rotfl about the victim playing also in systems very similar to the one that we can see in greyhound races, horse races, cock fights, dog fights. But how not even in their projections in the human being, street boxing and lately in that competition of rhymes and singing in which many rappers have challenged each other, it takes the name of trap. Curiously, a kernel trap is an error in a machine that freezes the system.
 
+- 12/6/2021 08:51 All night long I was tortured with extreme stalking and sleep deprivation. Present as usual this corrupted military called Andreu, people from the high level neighbor from Genoa, two brothers, and various death threat in dream injection. They ALWAYS speak about drugs, they are totally addicted. 
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
