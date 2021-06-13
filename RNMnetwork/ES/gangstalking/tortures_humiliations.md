@@ -805,6 +805,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 12/6/2021 19:38 I was tortured all day longs, a good woman, probably enslaved by technology also have tortured and sexual harass me. Why she does it? Probably because she is a mommy. Also my love, **Saray**, got a baby and she is always touching my penis with this electronic weapons. Those monsters, **Francesca** and **Andreu** but also a lot of Mafias, threat her and abuse of her vagina.
 
+- 13/6/2021 10:42 Tonight I could sleep a little bit but when I wake up I've got a problem in the my little ISP that I have remounted after the thief of my old one that was organized by the same non state actors crew who's chief is **Andreu**. From 9 AM to 10 AM those morons have stalked me. Many are from Italy. But **Saray** also done it doing sexual harass to me.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
