@@ -809,6 +809,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 13/6/2021 16:26 **Francesca** and **Andreu** continuously sexual harass me.
 
+- 13/6/2021 17:25 **Elisa** an old friend of mine, is also present and with her voice, probably with a vocoder, **Francesca** let me think that she says: "you will die".
+
+- 13/6/2021 18:35 **Francesca**: you don't understand that you will die committing suicide. Aurora also speaking about death, she is the engineering behind my trade. 
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
