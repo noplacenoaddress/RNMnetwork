@@ -817,6 +817,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 14/6/2021 22:20 **Francesca**: with the electronic weapons I've provoked the baldness in the head of Riccardo, I want to kill you. 
 
+- 14/6/2021 23:01 **Francesca**: you will have fear of the death by violence.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
