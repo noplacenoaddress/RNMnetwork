@@ -813,6 +813,12 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 13/6/2021 18:35 **Francesca**: you don't understand that you will die committing suicide. **Aurora** also speaking about death, she is the engineering behind my trade. Those addicted to cocaine speak that I've drink two coffees and this is why they're torturing me acting over my nervous system with an electronic weapon. 
 
+- 13/6/2021 21:45 **Francesca**: at this point of the history you've got to go to the jail because this state terrorism that want to kill you.
+
+- 14/6/2021 22:20 **Francesca**: with the electronic weapons I've provoked the baldness in the head of Riccardo, I want to kill you. 
+
+- 14/6/2021 23:01 **Francesca**: you will have fear of the death by violence.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
