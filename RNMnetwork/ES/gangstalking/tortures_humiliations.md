@@ -819,7 +819,11 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 14/6/2021 23:01 **Francesca**: you will have fear of the death by violence.
 
-- 14/6/2021 07:40 **Stefano**: I'm rich because of the human trade network, that he calls it "techno".
+- 15/6/2021 07:40 **Stefano**: I'm rich because of the human trade network, that he calls it "techno".
+
+- 15/6/2021 08:54 **Saray**: all what are you doing it will not work. And I say: what does it change? That I will not go in jail.
+
+- 15/6/2021 12:14 **Stefano**: take care because I'm a Mafia.
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
