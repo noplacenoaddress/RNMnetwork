@@ -825,6 +825,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 15/6/2021 12:14 **Stefano**: take care because I'm a Mafia.
 
+- 15/6/2021 15:51 **Massimo** the brother of Stefano: stay tuned and prepare you to die because in this cartel people simply die.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
