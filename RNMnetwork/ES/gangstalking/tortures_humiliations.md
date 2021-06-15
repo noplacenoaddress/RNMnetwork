@@ -829,6 +829,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 15/6/2021 18:00 the brain is like a sponge. With electronic torture, part of the high aristocracy achieves that a person, considered as a dog, as a slave, cannot concentrate to produce something complex. They get prostitution and drug dealers or people who work at a very low level. The main reason is due to avoiding complex denunciations of the dictatorial system of technocracy. How do they get it? Through the electricity carried by the weapons they practically ruin the first layers of our main organ, the brain. Our volatile memory, our immediate memory, is severely affected, I notice a lot from the fact that I am working in a Unix machine that will warns the United Nations and I have serious problems in achieving the goals I set myself. Physical work is also severely damaged as even as a worker I find myself very tired after half a day.
 
+- 15/6/2021 **Alessandro**: you're victim of the aristocracy of Genoa and we played you in the Barcelona exploitation camp. He means the family of Francesca and others probably.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
