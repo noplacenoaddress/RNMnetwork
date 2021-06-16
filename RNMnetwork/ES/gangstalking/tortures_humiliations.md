@@ -831,6 +831,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 15/6/2021 **Alessandro**: you're victim of the aristocracy of Genoa and we played you in the Barcelona exploitation camp. He means the family of Francesca and others probably.
 
+- 16/6/2021 sleep deprivation until 3 am. Because today I want to visit business clients for my own little, very little, company: Redama.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
