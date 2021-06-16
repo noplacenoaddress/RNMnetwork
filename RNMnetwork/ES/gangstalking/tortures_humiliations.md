@@ -837,6 +837,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/6/2021 12:04 **Andreu** is always humiliating me saying to the others persons presents in my torture application that I continuously masturbate me. This is public humiliation better saying a form of torture.
 
+- 16/6/2021 14:14 Aristocracy in my neural application of torture just question me if I've got fear of a good man that I've known when I was searching for Saray in Barcelona and I was homeless. Because he is a strong man, they think that I've got to have fear of, he is also a tortured from those morons.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
