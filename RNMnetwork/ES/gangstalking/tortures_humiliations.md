@@ -839,6 +839,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/6/2021 14:14 Aristocracy in my neural application of torture just question me if I've got fear of a good man that I've known when I was searching for Saray in Barcelona and I was homeless. Because he is a strong man, they think that I've got to have fear of, he is also a tortured from those morons.
 
+- 16/6/2021 14:40 I'm speaking about doing a strong compliant against Stefano and his connection with the brother of Francesca. Stefano has probably organized the thief of my business. He is a man that work in the systematic destruction of life of people that a re victim of human trade. Human trade that **Francesca** own and **Andreu** administer in Catalunya. A voice, that is without any doubt the voice of **Elisa**, a woman that I've known in Genoa when I was an adolescent speak to me saying that this is not my program of "techno". Techno for those slavers is the human trade network  and the plot between Genoa and Barcelona, plot that I'm investigating under continuous threat by Mafia. 
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
