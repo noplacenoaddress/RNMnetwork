@@ -841,6 +841,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/6/2021 14:40 I'm speaking about doing a strong compliant against Stefano and his connection with the brother of Francesca. Stefano has probably organized the thief of my business. He is a man that work in the systematic destruction of life of people that a re victim of human trade. Human trade that **Francesca** own and **Andreu** administer in Catalunya. A voice, that is without any doubt the voice of **Elisa**, a woman that I've known in Genoa when I was an adolescent speak to me saying that this is not my program of "techno". Techno for those slavers is the human trade network  and the plot between Genoa and Barcelona, plot that I'm investigating under continuous threat by Mafia. 
 
+- 16/6/2021 20:56 an imperious voice: You cannot do nothing about university studies, like I've done when you start IT sciences. 
+
+- 16/6/2021 21:19 **Francesca** is doing stalk to me with this electronic weapon minutes after minutes. 
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
