@@ -835,6 +835,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/6/2021 I'm starting to connect to business physically because I want to sell my products but **Andreu**, **Francesca** and a lot of Mafias torture me every minutes. I feel very tired that in this country there is no police that can put them all in jail doing this I will not do a complaint against Mafia. That is a problem for the life of an European citizen that want ONLY to work and to conduct a normal life. Human trade us a thief, a thief were millionaires do a lot of money enslaving people. It's impossible that no one say nothing. STOP. 
 
+- 16/6/2021 12:04 **Andreu** is always humiliating me saying to the others persons presents in my torture application that I continuously masturbate me. This is public humiliation better saying a form of torture.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
