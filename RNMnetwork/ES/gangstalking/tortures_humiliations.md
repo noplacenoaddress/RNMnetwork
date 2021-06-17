@@ -845,7 +845,13 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/6/2021 21:19 **Francesca** is doing stalk to me with this electronic weapon minutes after minutes. 
 
-- 16/6/2021 05:00 wake up for dream injection and heavy stalking, as usual **Francesca** and she is death threat me. She only speaks about drugs it's obvious that she is an enormous addicted. Francesca if you search something about her doesn't appear over Internet. Something very strange but normal if she is an high level of Italian services. **SS**.
+- 16/6/2021 05:00 wake up for dream injection and heavy stalking, as usual **Francesca** and she is death threat me. She only speaks about drugs it's obvious that she is an enormous addicted. Francesca if you search something about her doesn't appear over Internet. Something very strange but normal if she is an high level of Italian services. **SS**. I want to underline like it's from two days that I've got an electric charge applied to my right eyeball.
+
+- 16/6/2021 07:31 **Francesca**: in the catholic church we torture.
+
+- 17/6/2021 13:33 **Saray**: we're going to see us in the court where I will say that I'm a girl stressed from an Italian moron. The reality is that this girl work for aristocracy rented by **Andreu**, better saying that she is a slave, to suicide people on the Genova - Barcellona human trade network circuit. **Andreu** is a masonry and have rented **Saray** to **Francesca**, who's family are slavers. **Saray** is used also to force people that loves her to sell drugs. Because people victim of the human trade network after that they was played by aristocracy in parimutuel betting system are forces to sell drug under the threat of **Italian Mafias**.  Like **Massimo** is. In human trade plays a lot of Mafias as you can read in wikipedia, *elementary Watson*. Those slaves are administrated by fair right ex spanish military and sold to Mafias. This is slaves market based upon threat, violence, sexual violence, poverty, failure, all of them provoked by machined systematical destructions of life. Many had die, I know five persons killed by this shit. The last but not least Cristian, who has committed suicide in Genoa in 2016, rest in peace good man.
+
+- 17/6/2021 21:27 Speaking about womans in my neural torture application **Francesca** underline that I have not to touch her **Mafia of womans** that operate in Genoa. They sold sons to **Andreu** that pay them a monthly fee until they do a "game". A game is a fucking persecution, slavery and what so ever they have done to me in my life!
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
