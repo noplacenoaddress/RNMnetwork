@@ -845,6 +845,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 16/6/2021 21:19 **Francesca** is doing stalk to me with this electronic weapon minutes after minutes. 
 
+- 16/6/2021 05:00 wake up for dream injection and heavy stalking, as usual **Francesca** and she is death threat me. She only speaks about drugs it's obvious that she is an enormous addicted. Francesca if you search something about her doesn't appear over Internet. Something very strange but normal if she is an high level of Italian services. **SS**.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
