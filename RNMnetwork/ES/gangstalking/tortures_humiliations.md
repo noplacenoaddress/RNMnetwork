@@ -853,6 +853,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 17/6/2021 21:27 Speaking about womans in my neural torture application **Francesca** underline that I have not to touch her **Mafia of womans** that operate in Genoa. They sold sons to **Andreu** that pay them a monthly fee until they do a "game". A game is a fucking persecution, slavery and what so ever they have done to me in my life!
 
+- 18/6/2021 04:00 Francesca is paying people that in Barcelona lives near the marginal class, but that in reality in their hometown have grown in a medium high class environment. Why? Those people threat and torture the victim to force him to join their invented group to start to sell drug and torture other victims. Why? To be enjailed first of all, to be violated secondly, to stop his life in heavy addiction like metamphetamine crack. To simply stop your life becoming a beggar. This is what they do with human trade network victims. To shut up their voices, but I'm here to put you in jail forever stupid moron. One of them is the chief, an ex military. What he does also? Extract neural state for weapons development under the command of the **Francesca** family. They wake up me by night because that I want to restart my life being a worker as I was always been in my life. I never sell one gram of drug. Stupid, i've known you and you know why. Stupid.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
