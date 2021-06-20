@@ -863,6 +863,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 19/6/2021 11:30 Wake up for v2k. I smoke a cigarette then I feel very tired and go to the bed another time, immediately with the electronic weapons they alter my theta wave and they force a REM state. I start to dream, but it is not a dream it's an unreal engine video streamed above my visual cortex and auditory cortex. The dream it's about something horrifying me. I cannot wake up because of sensory deprivation.  They say that in some cases they could induct victims to panic and they can provoke an heart attack. After I sleep until now, 8 AM. It's very common that they use this form of advanced coercion to menace womans with babies. Probably they dream about kidnapping of them babies.
 
+- 20/6/2021 10:30 I've just write a post in facebook explaining in public that I'll go in Italy to do a complaint about tortures over **Francesca**. A man just say to me that someone will kill me if I'll do it.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
