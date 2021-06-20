@@ -865,6 +865,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 20/6/2021 10:30 I've just write a post in facebook explaining in public that I'll go in Italy to do a complaint about tortures over **Francesca**. A man just say to me that someone will kill me if I'll do it.
 
+- 20/6/2021 13:47 A voice that I know, a man who live in Albaro with a surname that is connected to an old noble surname that take part of a hotel of the nobles created by another surname that **Andreu** speak about indirectly when I know him in 2016, do stalk to me and speak about kill me. He says also that I'm a drug abuser, something totally false.
+
+- 20/6/2021 15:18 **Francesca** always threat me about kidnap while she is sexual harass me.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
