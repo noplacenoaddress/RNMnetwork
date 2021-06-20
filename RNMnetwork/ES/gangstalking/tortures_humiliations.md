@@ -869,6 +869,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 20/6/2021 15:18 **Francesca** always threat me about kidnap while she is sexual harass me.
 
+- 20/6/2021 16:25 **Aurora**, the engineer that have wrote the systematic destruction of my life, speak with the voice of another friend of us. I'm programming and she is saying that I'm a shit. Humiliation is part of torture. 
+
+- 20/6/2021 18:41 **Aurora** clone the voice of my uncle Marzia saying that I've got to no take drugs. I don't take them but she is an addicted.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
