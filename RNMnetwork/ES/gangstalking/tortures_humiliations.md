@@ -875,6 +875,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 20/6/2021 21:30 The little brother of a person that I think he was my friend call my ex girlfriend like "prostitute". She is a fantastic woman victim of the Spanish human trade network.
 
+- 21/6/2021 22:08 **Francesca** due to her roots near the Jesuits order and the presence also of the highest pieces of the Augustinians has managed to make many good people believe, many southerners, that the network of trafficking and exploitation of innocents in the Mediterranean was the network of the Catholic Church. These people due to their origins have been deceived by this family of murderers.  
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
