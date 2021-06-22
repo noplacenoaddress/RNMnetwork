@@ -877,6 +877,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 21/6/2021 22:08 **Francesca** due to her roots near the Jesuits order and the presence also of the highest pieces of the Augustinians has managed to make many good people believe, many southerners, that the network of trafficking and exploitation of innocents in the Mediterranean was the network of the Catholic Church. These people due to their origins have been deceived by this family of murderers.  The principal goal of this concentration camp is the development of electromagnetic weapons based upon neural state sold of innocents. Other is control the Mediterranean area with terrorism.
 
+- 22/6/2021 04:20 Dream injection and next heavy stalking so that I cannot sleep. The result is sleep deprivation another torture. Always **Francesca** and **Andreu**. Those two terrorist are totally addicted to sadism, threats, and tortures. Them goal is my suicide like they have done to others, like Cristian. Also Mafia is present because this is human trade. 
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
