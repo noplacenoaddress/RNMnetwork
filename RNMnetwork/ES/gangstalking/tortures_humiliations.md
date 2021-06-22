@@ -879,6 +879,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 22/6/2021 04:20 Dream injection and next heavy stalking so that I cannot sleep. The result is sleep deprivation another torture. Always **Francesca** and **Andreu**. Those two terrorist are totally addicted to sadism, threats, and tortures. Them goal is my suicide like they have done to others, like Cristian. Also Mafia is present because this is human trade. 
 
+- 22/6/2021 20:25 Francesca doesn't stop a minute to do stalk to me. It's an addicted to torture.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
