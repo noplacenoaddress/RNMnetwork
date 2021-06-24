@@ -879,6 +879,20 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 22/6/2021 04:20 Dream injection and next heavy stalking so that I cannot sleep. The result is sleep deprivation another torture. Always **Francesca** and **Andreu**. Those two terrorist are totally addicted to sadism, threats, and tortures. Them goal is my suicide like they have done to others, like Cristian. Also Mafia is present because this is human trade. 
 
+- 22/6/2021 20:25 **Francesca** doesn't stop a minute to do stalk to me. It's an addicted to torture. **Aurora**: your destiny is to commit suicide like Cristian. We're the owners, speaking about her and her chief, of your torture application.
+
+- 23/6/2021 05:00 Wakeup for dream injection. **Andreu**: I'm nervous because you're a hunted by nobility and yours manners, writing and doing public compliant, are the rights to not die.  
+
+- 23/6/2021 08:52 **Francesca**, after have been destroyed my life, thinks that I will start "work", that is selling drugs and administrate human trade, in her facility. A terror facility. In this facility seems that work a lot of people from Genoa.
+
+- 23/6/2021 09:42 **Aurora**: why don't you commit suicide?
+
+- 24/6/2021 12:33 **Andreu**: *I've done all of this because in your life you have say "NO" to Mafia*. **Andreu** obviously is a masonry, a service and probably also a noble. He is the highest technocrat in Catalunya. Why? Because of the republican sentiment of this region of Spain.
+
+- 24/6/2021 16:00 Today is festive in Spain and I go to sleep the "siesta". They alter my theta wave and I enter in a forced REM state where they stream to my brain using the electromagnetic weapons a strange video where you can appreciate that technically also a audiovisual facility is connected to the cluster of computers used to elaborate the remote MRI images of the neural states of the victims. First of all I want to underline how MRI isn't good for the health of a person, and this ionizing radiation is 24 hours over 24. Secondly that without any doubt one Spanish facility of audiovisual professional elaboration is totally involved in the human trade network. Video are prepared following a military program of planification. Also people change them behavior following this program. The target individual program is the digitization of a very ancient slavery circuit. We found those circuit in ancient important treated. Exploitation with the final goal of shortening of life, coercion on other victims who in doing so follow the same program that enslaved themselves applied to a friend and in this case to a concentration camp comrade. I notice it over Stefano, a man who was enslaved here in Barcelona a couple of years before me. 
+
+- 24/6/2021 18:00 **Aurora** and **Francesca** doing heavy stalk to me. **Francesca** saying that she will kill me.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
