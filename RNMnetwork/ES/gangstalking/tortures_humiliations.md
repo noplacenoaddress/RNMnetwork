@@ -879,7 +879,15 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 22/6/2021 04:20 Dream injection and next heavy stalking so that I cannot sleep. The result is sleep deprivation another torture. Always **Francesca** and **Andreu**. Those two terrorist are totally addicted to sadism, threats, and tortures. Them goal is my suicide like they have done to others, like Cristian. Also Mafia is present because this is human trade. 
 
-- 22/6/2021 20:25 Francesca doesn't stop a minute to do stalk to me. It's an addicted to torture.
+- 22/6/2021 20:25 **Francesca** doesn't stop a minute to do stalk to me. It's an addicted to torture. **Aurora**: your destiny is to commit suicide like Cristian. We're the owners, speaking about her and her chief, of your torture application.
+
+- 23/6/2021 05:00 Wakeup for dream injection. **Andreu**: I'm nervous because you're a hunted by nobility and yours manners, writing and doing public compliant, are the rights to not die.  
+
+- 23/6/2021 08:52 **Francesca**, after have been destroyed my life, thinks that I will start "work", that is selling drugs and administrate human trade, in her facility. A terror facility. In this facility seems that work a lot of people from Genoa.
+
+- 23/6/2021 09:42 **Aurora**: why don't you commit suicide?
+
+- 24/6/2021 12:33 **Andreu**: *I've done all of this because in your life you have say "NO" to Mafia*. Andreu obviously is a masonry, a service and probably also a noble. He is the highest technocrat in Catalunya. Why? Because of the republican sentiment of this region of Spain.
 
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
