@@ -893,6 +893,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 24/6/2021 18:00 **Aurora** and **Francesca** doing heavy stalk to me. **Francesca** saying that she will kill me.
 
+- 24/6/2021 20:22 **Francesca**: I'm who administrate corruption in the Italian state using the human trade network transmitted by neural weapons from Catalunya. Uff...what a declaration Francesca. Fantastic!
+
+- 25/6/2021 12:22 **Francesca** always is torturing me using electromagnetic weapons and I say: What are you searching about in my interiors? Her reply is a clear sign that this woman has lost totally, and I repeat totally, her mind. Totally. Now I know that she is protected by the Jesuits order but in a canonical code point of view that could be called "possession". She is totally crazy, but I am no one to start an investigation inside the Catholic Church. She sometimes says that she thinks that I'm the devil. This is the most absurd think that I've listen in all over my life. Help United Nation.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
