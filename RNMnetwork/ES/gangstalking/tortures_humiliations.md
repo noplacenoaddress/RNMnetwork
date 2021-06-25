@@ -897,6 +897,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 25/6/2021 12:22 **Francesca** always is torturing me using electromagnetic weapons and I say: What are you searching about in my interiors? Her reply is a clear sign that this woman has lost totally, and I repeat totally, her mind. Totally. Now I know that she is protected by the Jesuits order but in a canonical code point of view that could be called "possession". She is totally crazy, but I am no one to start an investigation inside the Catholic Church. She sometimes says that she thinks that I'm the devil. This is the most absurd think that I've listen in all over my life. Help United Nation.
 
+- 25/6/2021 23:36 **Saray**: if you want to know I'm playing in your neural torture application combining situation where you'll be beaten to death by some professional in the city old town.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
