@@ -901,6 +901,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 26/6/2021 09:21 Yestarday I've done my covid vaccine. I've got some fever. This night Francesca and her crew has tortured me heavy. Because of putting fear upon me of bad diseases of vaccine. Remember that technocracy, or better saying SPECTRAM the Mafia of aristocracy, administrate corruption also in hospitals. If I could go hospitalized they could pay using the neural network some doctors to diagnose me something that I don't really have. Davide, another victim of SPECTRAM, killed by the same group that want to kill me have die because of cancer. False. They provoke your death, using corruption, car accidents, suicide, overdoses, and be a beggar. 
 
+- 26/6/2021 17:35 **Aurora**: we will kill Riccardo with Mafia. **Alessandro** is insulting me, I'm victim of human trade and they eat above a person that they have known in them life. This is the only true.
+
 - ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
