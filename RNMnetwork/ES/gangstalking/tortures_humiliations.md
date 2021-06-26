@@ -903,7 +903,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 26/6/2021 17:35 **Aurora**: we will kill Riccardo with Mafia. **Alessandro** is insulting me, I'm victim of human trade and they eat above a person that they have known in them life. This is the only true.
 
-- ![](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 26/6/2021 21:29 **Francesca**: I will shoot you.
+
+- ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
