@@ -907,6 +907,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 27/6/2021 06:00 A video streamed in a provoked REM phase showing experiments with children. Human cloning. In a school many of identical phenotype traits. Experiments derived from the technical evolution about the nazis experiments with twin. When I weak up immediately **Aurora** speaking and also as usual **Francesca** and Andreu. The two subjects where one similar to me to other to him. It seems that this nazi facility, SPECTRAM, think that our comportment is the opposite like the two possible electrical states, the two possible binary system states, the two possible logical states, false and true, zero and one, negative and positive. But I really don't think so, I think that he is a military that have done his service and than this state, Spain, have forced him to be someone that he wasn't. I think that this state have used one person to destroy the Catalan society at the base following them absolutist politic in the north states. Euskal Herria and Catalunya. He never done a complaint in opposite of technocracy, the name that took the absolutist form of dictatorship that destroy the society. He never done it because he had got and he has fear. Fear of SPECTRAM. A terrorist Mafia. *But now Andreu, though you've got torture me, you've got the possibility of destroy this shit that have killed thousands or maybe more good people. Think about.*
 
+- 27/6/2021 08:59 **Francesca**: I'm your worst nightmare.
+
+- 27/6/2021 09:39 **Francesca** doesn't stop to stalk me. She is totally addicted. "Why do you eat two sweeties this morning? You've got to eat one! I'm your master!" This woman have destroyed the life of a lot of friends of mine, she is totally addicted to torture. Torture seems to be that using this technology provoke addiction to persons with very low intellectual profile. The intelligence of this woman is without any doubt very very low.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
