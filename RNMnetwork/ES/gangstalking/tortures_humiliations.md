@@ -913,6 +913,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 27/6/2021 15:37 A man: the only think that can do Riccardo is do what he is doing a public compliant. **Aurora**: he can die.
 
+- 27/6/2021 19:43 **Aurora**: I was preparing your death here in the panopticon jail. 
+
+- 27/6/2021 20:42 **Francesca**: I'm I and **Aurora** to suicide you.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
