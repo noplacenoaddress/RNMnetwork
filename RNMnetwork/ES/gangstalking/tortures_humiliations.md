@@ -911,6 +911,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 27/6/2021 09:39 **Francesca** doesn't stop to stalk me. She is totally addicted. "Why do you eat two sweeties this morning? You've got to eat one! I'm your master!" This woman have destroyed the life of a lot of friends of mine, she is totally addicted to torture. Torture seems to be that using this technology provoke addiction to persons with very low intellectual profile. The intelligence of this woman is without any doubt very very low.
 
+- 27/6/2021 15:37 A man: the only think that can do Riccardo is do what he is doing a public compliant. **Aurora**: he can die.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
