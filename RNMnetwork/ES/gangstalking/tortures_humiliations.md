@@ -919,6 +919,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/6/2021 05:49 Yesterday night I've got a fast food. **Francesca** use bioscalar waves, the neural weapons, to move my stomach content because it's very uncommon that I eat for the night. Not I wake up and I've got to vomit. Yestarday I wrote about her connections with Cosa Nostra, and a couple of morons start to do dream injections to me. *Mafia threats*. 
 
+- 28/6/2021 16:15 someone saying that is a Mafia just threat me to hit me and put me in the wheel chair.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
