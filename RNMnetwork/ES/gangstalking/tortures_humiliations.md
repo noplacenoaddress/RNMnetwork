@@ -915,7 +915,9 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 27/6/2021 19:43 **Aurora**: I was preparing your death here in the panopticon jail. 
 
-- 27/6/2021 20:42 **Francesca**: I'm I and **Aurora** to suicide you.
+- 27/6/2021 20:42 **Francesca**: I and **Aurora** are here to suicide you.
+
+- 28/6/2021 05:49 Yesterday night I've got a fast food. **Francesca** use bioscalar waves, the neural weapons, to move my stomach content because it's very uncommon that I eat for the night. Not I wake up and I've got to vomit. Yestarday I wrote about her connections with Cosa Nostra, and a couple of morons start to do dream injections to me. *Mafia threats*. 
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
