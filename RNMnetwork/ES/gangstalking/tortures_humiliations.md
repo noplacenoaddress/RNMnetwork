@@ -923,6 +923,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 29/6/2021 06:31 Dream injection heavy stalking sleep deprivation electroshock. Torture for Francesca is an addiction, but in her mind because she is the chief she thinks to be judged but considered as a mental sick woman. I've lost all my hairs in front of who I was considered my friends when I was young in Genoa. I've lost them because of torture. NO ONE SAY NOTHING. Some of them, for them surnames, for the penrose, they have been used to do coercion. They are tortured who torture. 
 
+- 29/6/2021 06:52: Stefano: *I've done violence to Saray in the past*. A lot of. Do you know why Stefano? Because when the brother of Francesca have lost his life you was present in the accident. Because she have played with him and she wants that you're judged to be the conspirator of his death.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
