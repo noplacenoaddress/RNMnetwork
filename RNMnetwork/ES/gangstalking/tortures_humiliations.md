@@ -921,6 +921,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/6/2021 16:15 someone saying that is a Mafia just threat me to hit me and put me in the wheel chair.
 
+- 29/6/2021 06:31 Dream injection heavy stalking sleep deprivation. Torture for Francesca is an addiction. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
