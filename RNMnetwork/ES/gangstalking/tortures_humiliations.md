@@ -925,6 +925,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 29/6/2021 06:52: Stefano: *I've done violence to Saray in the past*. A lot of. Do you know why Stefano? Because when the brother of Francesca have lost his life you was present in the accident. Because she have played with him and she wants that you're judged to be the conspirator of his death.
 
+- 29/6/2021 14:29 The young brother of a friends of mine, a man that is very affected by the modern slavery, said that have paid a man that torture because of his social situation near the marginalization provoked by this facility, to do pain to be because of public humiliation. Torture.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
