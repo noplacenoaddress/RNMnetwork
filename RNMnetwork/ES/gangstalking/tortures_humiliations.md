@@ -927,6 +927,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 29/6/2021 14:29 The young brother of a friends of mine, a man that is very affected by the modern slavery, said that have paid a man that torture because of his social situation near the marginalization provoked by this facility, to do pain to be because of public humiliation. Torture.
 
+- 29/6/2021 17:38 Francesca doing sexual harass to me using this electronic weapon.
+
+- 30/6/2021 03:19 Dream injection, a woman that have lost her freedom in the exploitation camp transmitted by neural weapons in Barcelona. She had silenced womans sexual abuses and macism. Now she has understood what is the business behind or she is understanding. She know about Saray. After **Andreu** speaking and **Francesca** torturing.   
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
