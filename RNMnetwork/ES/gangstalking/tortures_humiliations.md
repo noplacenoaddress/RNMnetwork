@@ -935,6 +935,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 30/6/2021 08:16 Tomaso, who had the fortune to marry one of the most beautiful woman in Genoa, sister of one that I was falling in love to when I was young, now got a shittish relation with Aurora, an engineer of human trade. He just say to me: "I prefer that you cannot do a compliant to us and that Cosa Nostra kill you". Alessandro also is involved in the same statement. 
 
+- 30/6/2021 twenty five years ago I say no to Mafia, to Cosa Nostra. Never I've done a compliant because I'm Italian and I know that Mafia exist. But I say no. Now twenty five years after I listen to a member of saying: "infamous". Ok, I never done it but now I'm working hard after the systematic destruction of my life where you, your "boys", a lot of people that got fear, and masonry have tortured me and I've lost all my hair for example. You say to me infamous when in this facility, the human trade network where you, Cosa Nostra, could communicate inside jails for example using a state into the state terrorism that prefer Mafia to honorable, and not infamous, workers, have thief all my life, my brain to use it to develop neural electronic weapons and also is about child trade. You, Cosa Nostra, protect nobles from justice because of child trafficking. You, Cosa Nostra, are infamous not me. You.
+
+- 30/6/2021 21:31 I've just write in twitter an help to the pope because I'm victim of the human trade network administrated by **Francesca** and she and **Aurora** is doing heavy sexual violence to me using the electromagnetic weapons.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
