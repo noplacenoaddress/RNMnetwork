@@ -921,7 +921,15 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 28/6/2021 16:15 someone saying that is a Mafia just threat me to hit me and put me in the wheel chair.
 
-- 29/6/2021 06:31 Dream injection heavy stalking sleep deprivation. Torture for Francesca is an addiction. 
+- 29/6/2021 06:31 Dream injection heavy stalking sleep deprivation electroshock. Torture for Francesca is an addiction, but in her mind because she is the chief she thinks to be judged but considered as a mental sick woman. I've lost all my hairs in front of who I was considered my friends when I was young in Genoa. I've lost them because of torture. NO ONE SAY NOTHING. Some of them, for them surnames, for the penrose, they have been used to do coercion. They are tortured who torture. 
+
+- 29/6/2021 06:52: Stefano: *I've done violence to Saray in the past*. A lot of. Do you know why Stefano? Because when the brother of Francesca have lost his life you was present in the accident. Because she have played with him and she wants that you're judged to be the conspirator of his death.
+
+- 29/6/2021 14:29 The young brother of a friends of mine, a man that is very affected by the modern slavery, said that have paid a man that torture because of his social situation near the marginalization provoked by this facility, to do pain to be because of public humiliation. Torture.
+
+- 29/6/2021 17:38 Francesca doing sexual harass to me using this electronic weapon.
+
+- 30/6/2021 03:19 Dream injection, a woman that have lost her freedom in the exploitation camp transmitted by neural weapons in Barcelona. She had silenced womans sexual abuses and macism. Now she has understood what is the business behind or she is understanding. She know about Saray. After **Andreu** speaking and **Francesca** torturing.   
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
