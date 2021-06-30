@@ -931,6 +931,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 30/6/2021 03:19 Dream injection, a woman that have lost her freedom in the exploitation camp transmitted by neural weapons in Barcelona. She had silenced womans sexual abuses and macism. Now she has understood what is the business behind or she is understanding. She know about Saray. After **Andreu** speaking and **Francesca** torturing.   
 
+- 30/6/2021 05:14 Francesca is forcing me to don't sleep. She is totally addicted to torture. She is the most important problem to eradicate from Genoa and all the Mediterranean area. She is also totally guilty of narcotic traffic join together with Cosa Nostra.
+
+- 30/6/2021 08:16 Tomaso, who had the fortune to marry one of the most beautiful woman in Genoa, sister of one that I was falling in love to when I was young, now got a shittish relation with Aurora, an engineer of human trade. He just say to me: "I prefer that you cannot do a compliant to us and that Cosa Nostra kill you". Alessandro also is involved in the same statement. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
