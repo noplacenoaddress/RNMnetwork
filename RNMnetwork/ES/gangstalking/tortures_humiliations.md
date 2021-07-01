@@ -939,6 +939,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 30/6/2021 21:31 I've just write in twitter an help to the pope because I'm victim of the human trade network administrated by **Francesca** and she and **Aurora** is doing heavy sexual violence to me using the electromagnetic weapons.
 
+- 30/6/2021 22:06 Francesca: I'm going to do sexual violence to your parents..
+
+- 1/7/2021 When I was doing a work of maintenance in the tower of Celnex that I've got rented **Michele**, the brother of a friend of mine (or i was thinking about) is doing humiliation to me. That I cannot work, that I've got sell drugs, that I've to measure me with a man of Cosa Nostra that probably he knows.   
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
