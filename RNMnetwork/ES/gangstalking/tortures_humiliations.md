@@ -953,6 +953,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 4/7/2021 19:17 **Francesca** that works with all the Italians mafia use them to menace me about my work and saying that i'll have to pay bribes.
 
+- 4/7/2021 21:50 **Francesca**: i will stop to take your asshole totally fucked with this electronic weapon. Francesca violate me continuously. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
