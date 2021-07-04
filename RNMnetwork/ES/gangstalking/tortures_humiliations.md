@@ -951,6 +951,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 4/7/2021 16:00 it's just 30 minutes that I seat down in my office to start to work and **Francesca** doesn't stop to torture me. She says: "this is why you drink a coffee". This moron is a totally addicted. Help me.
 
+- 4/7/2021 19:17 **Francesca** that works with all the Italians mafia use them to menace me about my work and saying that i'll have to pay bribes.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
