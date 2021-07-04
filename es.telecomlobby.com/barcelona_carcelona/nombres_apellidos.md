@@ -27,6 +27,8 @@ Por esto yo, Riccardo Giuntoli, he estado perseguido en las calles de Barcelona 
 
 
 
+![una denuncia publica](https://pbs.twimg.com/media/E5cI96OXMAI9r9h?format=jpg&name=medium)
+
 ### External links
 
 1. https://barcelonasecreta.com/7545/

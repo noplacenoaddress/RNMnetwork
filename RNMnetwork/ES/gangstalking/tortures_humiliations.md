@@ -939,6 +939,16 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 30/6/2021 21:31 I've just write in twitter an help to the pope because I'm victim of the human trade network administrated by **Francesca** and she and **Aurora** is doing heavy sexual violence to me using the electromagnetic weapons.
 
+- 30/6/2021 22:06 Francesca: I'm going to do sexual violence to your parents..
+
+- 1/7/2021 When I was doing a work of maintenance in the tower of Celnex that I've got rented **Michele**, the brother of a friend of mine (or i was thinking about) is doing humiliation to me. That I cannot work, that I've got sell drugs, that I've to measure me with a man of Cosa Nostra that probably he knows.   
+
+- 1/7/2021 a man that I've know at university: You will not change nor being tortured. Incredible, he thinks that torture is a normal practice to change behavior of a person.
+
+- 1/7/2021 Francesca speak about cocaine every minute. is impossible, this addicted have destroyed life of good people.
+
+- 3/7/2021 21:46 Francesca as usual always speaking about drug abuse. It's incredible this woman doesn't sleep from four year for torture me I don't ever know what kind of substances does she takes. And I say: how much time do you think you continue to torture me? And she reply: the time necessary until you will suicide you. All of this shit is to hide the business of sold of neural state under extreme stress or murder to develop military weapons that consider differences for human species. The DNA is a fundamental explication for why they persecute target individuals. It's seems that brain act in different ways depending on the roots of the person. This is racism, scientific racism, used for a final goal to control human kind. Those morons have develop a system of mass stalking using the worker class and people that live on the street. Many have been reduced to be a beggar because of those organized thief that use Mafia to cover the real family behind.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
