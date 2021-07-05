@@ -955,6 +955,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 4/7/2021 21:50 **Francesca**: i will stop to take your asshole totally fucked with this electronic weapon. Francesca violate me continuously. 
 
+- 5/7/2021 05:37 Dream injection with heavy threats, death threats from Mafias. **Francesca**, obviously, present. She never sleeps. Never. What kind of drugs does she consumes? **Andreu** also, but I know that he is an addicted. They think, in them sick brain, that I will stop. They think that a court will send them to psychiatric. **They are terrorist.** They consume drug but they do it to be absolved for mental sickness in a judgment for massacre. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
