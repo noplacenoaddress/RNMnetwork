@@ -957,6 +957,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 5/7/2021 05:37 Dream injection with heavy threats, death threats from Mafias. **Francesca**, obviously, present. She never sleeps. Never. What kind of drugs does she consumes? **Andreu** also, but I know that he is an addicted. They think, in them sick brain, that I will stop. They think that a court will send them to psychiatric. **They are terrorist.** They consume drug but they do it to be absolved for mental sickness in a judgment for massacre. 
 
+- 6/7/2021 04:30 Dream injection and heavy stalking. Sleep deprivation torture. Always **Francesca** and **Andreu**.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
