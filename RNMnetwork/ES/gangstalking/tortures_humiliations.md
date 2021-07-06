@@ -959,6 +959,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 6/7/2021 04:30 Dream injection and heavy stalking. Sleep deprivation torture. Always **Francesca** and **Andreu**.
 
+- 6/7/2021 09:06 **Francesca**: are you sure to be protected from Mafia. It's seems to be that Francesca is the masonry or the service that administrate Mafia in Genoa.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
