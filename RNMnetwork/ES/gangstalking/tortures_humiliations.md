@@ -949,7 +949,15 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 3/7/2021 21:46 Francesca as usual always speaking about drug abuse. It's incredible this woman doesn't sleep from four year for torture me I don't ever know what kind of substances does she takes. And I say: how much time do you think you continue to torture me? And she reply: the time necessary until you will suicide you. All of this shit is to hide the business of sold of neural state under extreme stress or murder to develop military weapons that consider differences for human species. The DNA is a fundamental explication for why they persecute target individuals. It's seems that brain act in different ways depending on the roots of the person. This is racism, scientific racism, used for a final goal to control human kind. Those morons have develop a system of mass stalking using the worker class and people that live on the street. Many have been reduced to be a beggar because of those organized thief that use Mafia to cover the real family behind.
 
-- 4/7/2021 16:00 it's just 30 minutes that I seat down in my office to start to work and **Francesca** doesn't stop to torture me.
+- 4/7/2021 16:00 it's just 30 minutes that I seat down in my office to start to work and **Francesca** doesn't stop to torture me. She says: "this is why you drink a coffee". This moron is a totally addicted. Help me.
+
+- 4/7/2021 19:17 **Francesca** that works with all the Italians mafia use them to menace me about my work and saying that i'll have to pay bribes.
+
+- 4/7/2021 21:50 **Francesca**: i will stop to take your asshole totally fucked with this electronic weapon. Francesca violate me continuously. 
+
+- 5/7/2021 05:37 Dream injection with heavy threats, death threats from Mafias. **Francesca**, obviously, present. She never sleeps. Never. What kind of drugs does she consumes? **Andreu** also, but I know that he is an addicted. They think, in them sick brain, that I will stop. They think that a court will send them to psychiatric. **They are terrorist.** They consume drug but they do it to be absolved for mental sickness in a judgment for massacre. 
+
+- 6/7/2021 04:30 Dream injection and heavy stalking. Sleep deprivation torture. Always **Francesca** and **Andreu**.
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
