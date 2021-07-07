@@ -965,6 +965,10 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 7/7/2021 06:55 **Francesca** speaking about kidnap. It's four years that she threat me about kidnap. **Andreu** about masturbation in an humiliating way. Those idiots, use ex military, people who torture and mafias to create a danger false ambient. Those morons isolate victims to obtains deep changes in behavior always with the final goal of develop.  
 
+- 7/7/2021 09:54 **Alessandro** doing stalk to me because I'm working, they only speak about drugs.
+
+- 7/7/2021 13:54 **Francesca**, **Aurora** and **Saray** saying to me if I could masturbate myself instead of working. Public humiliation that is a form of torture, and the purposes to let my self loose my job and became a beggar. Like it was passed to a man of Naples that live in the street in raval, **Marco**. I remember how in 2016 I loose my house because a thief organized by **Andreu** where Saray act starting torture in form of bad treatments. Then I was living in the street for a short period of time, time in what **Massimo**, a man that I was thinking that was one of my best friend didn't open his house to me to let me sleep in. Those morons are part of a Mafia, of Spectram. A mafia that kill people that are victim from probably the born of human trading. A mafia that work for nobles killing people with all them "friendly" environment. *Another man, Stefano, is victim of this facility. Probably also another was but now he participates torturing.*
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
