@@ -971,6 +971,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 7/7/2021 18:57 because of parimutuel betting system, something that human trader play between nobles and Mafia over the life of victims of human trade, like me, as much **Francesca** as **Andreu** always say to me: "Riccardo you will return to Italy". Morons, my life is here in Spain. Go to hell. Those, she is noble and he is a masonry,give to eat to criminals, to Mafia using this facility. This is state terrorism, here Mafia are more important than citizens. 
 
+- 7/7/2021 20:26 **Francesca** is doing sexual harass to me using this electromagnetic weapon. All my nervous system is interfered. The summit of my penis is continuously electrified. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
