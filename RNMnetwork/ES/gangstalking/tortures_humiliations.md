@@ -963,7 +963,7 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 6/7/2021 12:17 **Saray**: do you think to survive to techno? She means the human trade network where addicted and narcos work because of state terrorism. Narcos that obviously do it because they are also enslaved by this technology. People that do narco traffic because they haven't reply to the human trade network human kind crimes. Nor they are narcos. They are abused that have terminated them freedom for people traffic.
 
-- 7/7/2021 06:55 **Francesca** speaking about kidnap. It's four years that she threat me about kidnap.
+- 7/7/2021 06:55 **Francesca** speaking about kidnap. It's four years that she threat me about kidnap. **Andreu** about masturbation in an humiliating way. Those idiots, use ex military, people who torture and mafias to create a danger false ambient. Those morons isolate victims to obtains deep changes in behavior always with the final goal of develop.  
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
