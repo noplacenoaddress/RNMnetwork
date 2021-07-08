@@ -975,6 +975,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 8/7/2021 08:18 **Saray**, that is an active component of the non state actor crew mafia and state terrorism, sexual harass me continuously. 
 
+- 8/7/2021 17:36 Because I was the owner of a WISP until mafia enslaved by Francesca and Andreu let me understand that or I will pay the lace or I will be kidnapped. All of this is totally true they use the modern slavery network transmitted by electromagnetic weapons from the Collserola tower to menace people that are victim of human trade. The result is they don't use clear words but let the person think about it. This is a sort of very strong slavery in front of the stalker. It's a slavery that obtain silence about. The Italian mafia pyramid its owned by Cosa Nostra under all the others. Every one got a role in that "game". The game is gain money like for ever from a victim of modern slavery. The aristocracy let mafias got the neural television of what the victim see. This is an extreme dangerous and an enormous disaster for a democratic state, this is wind of war. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
