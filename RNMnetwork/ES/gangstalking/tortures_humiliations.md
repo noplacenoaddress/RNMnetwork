@@ -973,6 +973,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 7/7/2021 20:26 **Francesca** is doing sexual harass to me using this electromagnetic weapon. All my nervous system is interfered. The summit of my penis is continuously electrified. 
 
+- 8/7/2021 08:18 **Saray**, that is an active component of the non state actor crew mafia and state terrorism, sexual harass me continuously. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
