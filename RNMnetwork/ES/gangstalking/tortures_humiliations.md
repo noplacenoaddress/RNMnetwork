@@ -981,6 +981,8 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 9/7/2021 10:33 Here play figures of the B side of the military forces. One, the Spanish one, the owl. A figure dedicated to the fair right persecutions in a region like Catalunya where the republican sentiment is active. A region where with Francisco Franco a lot of workers of the low class where deported. A region where many had died because of Franquism. The actual owl, Andreu Martin Mora, is a neuro terrorist that work for the aristocracy. Martin Mora has attacked Liguria and the city of Genoa together with Francesca Durand and her family. Also the Catholic Church with the figure of the pope Razzinguer have participated.  Fair right and persecutions very similar to the one created by Nazism against the Jews. This time are persecutions invented with a fraud against one single, in this case I'm and others have died. Persecutions are transmitted with electronic weapons. The weapons are mounted in the tower of Collserola and support by a constellation of military satellites. Also cocaine traffic is included in this persecution against Genova and his sons. 
 
+- 9/7/2021 17:53 Aurora saying to Francesca: "you've got to kill him".
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
