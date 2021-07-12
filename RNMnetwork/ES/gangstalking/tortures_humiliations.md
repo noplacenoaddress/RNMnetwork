@@ -989,7 +989,16 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 - 11/7/2021 22:33 Francesca always masturbate myself using electromagnetic weapons. Always violate me. She is the worst person that I could have found. Many years ago when I entered in her house, when I was going to the primary school, that invitation represent for her and her family of exploiter and terrorist the meaning that I would have been enslaved to be a human guinea pig. Human traffic is the stain that muddies the renowned surname of this fascist family that has reduced Genoa, my Genoa, to an undeclared civil war zone. Electronic warfare. Terrorism.
 
-- 12/7/2021 Until 3 am I cannot sleep, sleep deprivation as a torture. Francesca as usual in first line. Francesca have involved families of the Genoese bourgeoisie. Unfortunately they belong to my sphere of friendships and to my sphere of people frequented daily in school. Francesca is a military, doing so she has created a war clime. She is attacking those good family because in reality she is destroying my city and them citizens at various levels. Putting in this shittish business those families is only to destroy and divide. Because of her noble "level", those that are bourgeoisies of tradition, have respected her but doing an horrible crime. She is cunning. 
+- 12/7/2021 Until 3 am I cannot sleep, sleep deprivation as a torture. Francesca as usual in first line. Francesca have involved families of the Genoese bourgeoisie. Unfortunately they belong to my sphere of friendships and to my sphere of people frequented daily in school. Francesca is a military, doing so she has created a war clime. She is attacking those good family because in reality she is destroying my city and them citizens at various levels. Putting in this shittish business those families is only to destroy and divide. Because of her noble "level", those that are bourgeoisies of tradition, have respected her but doing an horrible crime. She is cunning. <u>Francesca is underling that she is the Mafia</u>.
+
+- 12/7/2021 13:32 **Francesca**: "when you will go out I will beat you in a strong manner". Francesca is doing to me sleep deprivation torture to obtain different purposes:
+
+  - That I cannot work normally.
+  - That I will consume drugs to fight against tiredness.
+  - That I will work in human trade network to create slaves, normally womans with familiar problems. Girls was sold in the slavery market.
+  - That I will do thief to people that I've known in my life.
+
+She is protected by some Vatican orders. Those are building about Vatican a systematic terrorist State.
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
