@@ -998,6 +998,8 @@ From June 2020 I start to log every type of torture that I received in radio:
   - That I will work in human trade network to create slaves, normally womans with familiar problems. Girls was sold in the slavery market.
   - That I will do thief to people that I've known in my life.
 
+She is protected by some Vatican orders. Those are building about Vatican a systematic terrorist State.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
