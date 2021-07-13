@@ -1000,6 +1000,11 @@ From June 2020 I start to log every type of torture that I received in radio:
 
 She is protected by some Vatican orders. Those are building about Vatican a systematic terrorist State.
 
+- 12/7/2021 16:28 People in the neural torture application of the human trade network torture the victim because of various purposes, noble use them to humiliate and torture the victim. Purposes are different, but inside "normally" there are criminals group dedicated to traffic. Many are mafia. Others are masonry, others bourgeois and others nobles. All gain money with exploitation of the victim and parimutuel betting system. After they try to create a slave, with pressures, mental domain, threats, beatings. All is controlled by experts inside, normally military. Controlled because of equilibrium between exploitation in slavery, prostitution and drug market, and the life of the prisoner. Prisoner of a electronic jail. A prisoner without a judgment. Everyone got goals obtained by a military planning software.
+- 12/7/2021 18:10 **Francesca**: "this is your death".
+- 12/7/2021 19:37 **Aurora**: "you and your father add to be arrested."
+- 12/7/2021 20:55 Francesca: "I'm doing stalking to you, torture better saying, to cause you shoot up in your house". Doing this she thinks that I'll loose my house and become a beggar. Like Marco, a person that live in the street in Raval, Barcelona. Another guy that was thief by his personal environment. A victim of the human trade network.
+- 13/7/2021 10:49 Francesca have tortured be all night long. I haven't sleep another time. Dream injection, my brain have worked like as I was awake. **STOP TORTURE NOW IN CATALUNYA FROM DURAND FAMILY AND MASONRY.** 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
