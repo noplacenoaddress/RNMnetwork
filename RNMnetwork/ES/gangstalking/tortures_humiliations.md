@@ -1005,6 +1005,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 12/7/2021 19:37 **Aurora**: "you and your father add to be arrested."
 - 12/7/2021 20:55 Francesca: "I'm doing stalking to you, torture better saying, to cause you shoot up in your house". Doing this she thinks that I'll loose my house and become a beggar. Like Marco, a person that live in the street in Raval, Barcelona. Another guy that was thief by his personal environment. A victim of the human trade network.
 - 13/7/2021 10:49 Francesca have tortured be all night long. I haven't sleep another time. Dream injection, my brain have worked like as I was awake. **STOP TORTURE NOW IN CATALUNYA FROM DURAND FAMILY AND MASONRY.** 
+- 13/7/2021 because in my torture environment there are also my parents, obviously because I'm victim of human trade from when I was a child, today my mother, or a voice copied, say "why you don't came to Altafulla". Altafulla is a second house of vacations that they have got rented in Spain. where did they take the money? From my exploitation and from the human trade network, obviously. 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
