@@ -1010,6 +1010,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 14/7/2021 10:47 Massimo speaking to me as he follows orders. Orders from paramilitaries and mafias that he thinks that they could give him orders. Next his brother speak that i have not to speak with him. Massimo have loose his mind in the human trade network and needs help.
 - 14/7/2021 19:53 A military that work for the family of **Francesca** in the electronic warfare masked under human trade, a silence war declared to the city of Genoa because of its political vision, left, always threat me about death. This military is the head of others that work in the destruction of democracy for this family. They are professionals, and she use them to kill with electronic weapons people for money purposes. They are terrorist.
 - 14/7/2021 20:43 "your life is torture, this is why your family have got a turtle for pet".
+- 15/7/2021 07:57 **Francesca** all night long is doing dream injection, that require production, and stalk to me. This woman simply doesn't sleep. It's a totally addicted. 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
