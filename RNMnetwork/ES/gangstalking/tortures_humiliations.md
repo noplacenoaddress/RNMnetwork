@@ -1013,6 +1013,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 15/7/2021 07:57 **Francesca** all night long is doing dream injection, that require production, and stalk to me. This woman simply doesn't sleep. It's a totally addicted. 
 - 16/7/2021 17:23 a woman that have married a friend of mine, that is present in my neural torture application transmitted by electromagnetic weapons from the tower of collserola, just say that she always denigrate the victim because a program. In this program, if the victim doesn't accept slavery, people always use denigration to obtain depression that has the final goal of suicide.
 - 16/7/2021 17:29 **Aurora**, an engineer that work for **Francesca**, just say the they administrate Mafia members that operate in Genoa, using this technology. This technology is reality a camp of exploitation all those persons are slaves of electromagnetic weapons. Francesca have enslaved the city of Genoa using a structure that is physically in Barcelona. 
+- 16/7/2021 20:27 Massimo doing death threats to me explaining that he is in a good point in the Mafia pyramid that is administrated by Francesca that use engineers and others professional figure to work into this technological mafia. This mafia is based upon histories of programmed deaths, people have died to generate millions in submerged economy in Andorra, Monaco and san Marino. Also in fiscal offshore paradises. **The name of the exploitations programs is "Masonry G"**.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
