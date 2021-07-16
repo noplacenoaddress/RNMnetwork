@@ -332,9 +332,9 @@ The most interesting think is that in my chain of destruction have take part who
 
 ### When you say to your father that you're victim of Cosa Nostra
 
-And he says to you to go to a professional. I'm victim of human trade slavery network and my parents are guilty.
+And he says to you to go to a professional. I'm victim of human trade slavery network and my parents are guilty. This is an enormous evidence that he is totally guilty.
 
-
+![https://github.com/redeltaglio/RNMnetwork/raw/master/Images/ciaociao.png](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/ciaociao.png)
 
 ### Video collection that prove existence of electronic harassment
 
