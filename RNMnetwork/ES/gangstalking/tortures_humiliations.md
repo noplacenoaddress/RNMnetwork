@@ -1017,6 +1017,11 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 17/7/2021 10:40 **Francesca** and **Aurora** always speak about drug abuse.
 - 17/7/2021 13:40 **Francesca** continuously use v2k to don't let me concentrate over my work, and after dinner to not sleep a little bit. In her stupid discourses she let people enter in a confusional state. For example she has enslaved Alessandro, a very good fiend of mine, because of him surname. Him surname is the same than a noble one but they have been deleted many centuries ago. She always say to me that he is guilty and he has got an accord with the Church to administrate them possessions.  After she repeats: "I'm the queen of techno". Techno is the human trading network. The Modern Slavery. They use the name of the music because it is a youth movement. And they don't like.
 - 17/7/2021 16:31 **Andreu**: you will die as Cristian have done.
+- 18/7/2021 04:00 dream injection and heavy v2k. Sleep deprivation. **Francesca** and **Andreu**.
+- 18/7/2021 20:40 As usual **Francesca** and her crew of slaves disturb my working day, doing always stalk to me. They are like insects.
+- 19/7/2021 04:40 Heavy stalk consequent sleep deprivation. **Francesca** and **Andreu** as usual. 
+- 19/7/2021 23:44 Tomaso: "people prefer that you die."
+- 21/7/2021 21:39 Andreu saying that he will pay someone to beat me.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
