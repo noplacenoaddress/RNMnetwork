@@ -1021,6 +1021,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 18/7/2021 20:40 As usual **Francesca** and her crew of slaves disturb my working day, doing always stalk to me. They are like insects.
 - 19/7/2021 04:40 Heavy stalk consequent sleep deprivation. **Francesca** and **Andreu** as usual. 
 - 19/7/2021 23:44 Tomaso: "people prefer that you die."
+- 21/7/2021 21:39 Andreu saying that he will pay someone to beat me.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
