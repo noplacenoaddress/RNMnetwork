@@ -1022,6 +1022,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 19/7/2021 04:40 Heavy stalk consequent sleep deprivation. **Francesca** and **Andreu** as usual. 
 - 19/7/2021 23:44 Tomaso: "people prefer that you die."
 - 21/7/2021 21:39 Andreu saying that he will pay someone to beat me.
+- 22/7/2021 17:11 **Andreu** just doesn't stop to stalk to me. This man is from I was a child, using **Cosa Nostra** fellow, that destroy my life. Andreu is a franquist I don't even known why he has done a work like this with me. Others have died, he is guilty for the death of Cristian, a friend of mine that was living in Genoa but also in Spain. In a photo Andreu is near a man that its phenotypes traits are similar to the one of a man of Genoa that is called "**piggi**". Also Cristian was used to be called as. It's a chain, three passages. Andreu is a killer, used by this business by the nobility behind to let suicide people because of human experiments. He is not a noble. His a franquist dedicated by high aristocracy in Europe to create a sort of occult nazism, persecution to one target that see all them friendly circle involved. In reality all are tortured. This is the only true.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
