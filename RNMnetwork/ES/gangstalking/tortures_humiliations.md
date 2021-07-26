@@ -1029,6 +1029,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 25/7/2021 **Aurora** confessing that the program of techno, the systematic destruction of my life, have been programmed by herself. This is why she is an engineer and this is why she is working for Marina Militare, because of Francesca contacts.  
 - 25/7/2021 **Francesca**: "i will go ahead torturing and humiliating you in front of all the people that you've known in your life until your parents will put you in a psychiatric."
 - 27/7/2021 Today I see a man that was a very good friend of mine in Genoa. He says to me that people speak about my madness in Genoa. Like what have passed to Cristian. All of them is covering the assassination of that man. A man that was victim of the human trade network transmitted by the Collserola tower. A man victim of the cartel of human trade of Francesca. Below her Cosa Nostra and others Mafias. A cartel that in Spain use Andreu a neuro terrorist to persecute and torture victim in a jail of the third generation panoptic infrastructure. A jail of exploit. A jail of torture. Aurora the engineering that work for Francesca writing the history of exploitation and death of victims is stalking me now that I'm writing those lines. 
+- 27/7/2021 01:38 sleep deprivation torture from Francesca and some morons that work for her. 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
