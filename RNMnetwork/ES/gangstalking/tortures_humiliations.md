@@ -1088,6 +1088,12 @@ Those are some results about this indirected inflicted torture, remember that th
 
 ![](https://telecomlobby.com/Images/prueba_tortura_pies.webp)
 
+And that is another result of a prolonged walk:
+
+![](https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/225464237_10227049201918537_3560557682398559300_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Rwfxu2OMxJcAX9xVkqI&tn=DW2K6PmP8GUsn1CU&_nc_ht=scontent-lcy1-1.xx&oh=7984722a10d2361c3e1b5a71e548b4b4&oe=61084762)
+
+Neural excitation. High brain temperature, and it's only for twenty minutes. Image in summer, for three days and with electromagnetic weapons torturing me. Baldness is the first result, the second could be permanent brain damage.
+
 ### Videos about electronic violations
 
 On 27 of June of 2020 I was violated by the wireless brain machine interface, a shell that someone has hacked in the military remote neural monitoring network in Barcelona by a crew without any doubt contracted by the Catalan big noble family to magnify the suicide business. The **security analysis** [[13]](http://telecomlobby.com/RNMnetwork/ES/catalan_technological_system.htm) is public and it's done by the Murcia university.
