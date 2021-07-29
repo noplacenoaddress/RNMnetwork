@@ -1035,6 +1035,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 28/7/2021 03:00 dream injection. **Francesca** is joking with professional figure that I reached in my career. Career where I'm a self-taught of an indisputable and undisputed professionalism throughout Europe.
 - 28/7/2021 06:52 A man from Genoa: "Riccardo prepare you to be slaughtered by a man of Cosa nostra". A man that work for the racket of Francesca.
 - 29/7/2021 all night long stalking and dream injection. Always **Francesca**.
+- 29/7/2021 18:20 **Francesca Durand** is stalking to me  and doing sexual harass to me. This only because I start to read and work again onto my study of international rights against torture. From February to now I've worked into a machine based upon OpenBSD for a mass disclosure of my public compliant to all the international organism. Durand and also others slaves that pertains to others families like **Tomaso**, a man that have married an important military rooted family in Genoa, think that I will commit suicide. Poor morons. 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
