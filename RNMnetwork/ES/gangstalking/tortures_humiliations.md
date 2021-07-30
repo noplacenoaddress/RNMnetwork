@@ -1037,7 +1037,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 29/7/2021 all night long stalking and dream injection. Always **Francesca**.
 - 29/7/2021 18:20 **Francesca** is stalking to me  and doing sexual harass to me. This only because I start to read and work again onto my study of international rights against torture. From February to now I've worked into a machine based upon OpenBSD for a mass disclosure of my public compliant to all the international organism. Durand and also others slaves that pertains to others families like **Tomaso**, a man that have married an important military rooted family in Genoa, think that I will commit suicide. Poor morons. 
 - 29/7/2021 20:58 **Francesca** is torturing me using electromagnetic weapons from 2017. She is sexual torturing me. She just says: "I'm your master who decide if you give a fuck or not". Obviously I don't give one because I'm a tortured victim of a cell of a exploitation camp. She has jailed me inside this facility to kill me.
-- 30/7/2021 04:37 dream injection all night long. Mafia, deportation and kidnapping. Always Francesca, an addicted. After I want to sleep but she continue. Sleep deprivation is a torture. Stop that woman and her Mafias now.
+- 30/7/2021 04:37 dream injection all night long. Mafia, deportation and kidnapping. Always **Francesca**, an addicted. After I want to sleep but she continue. Sleep deprivation is a torture. Stop that woman and her Mafias now.
+- 30/7/2021 06:00 **Aurora** doing death threat to me. A man from Cosa Nostra also. Aurora is a girl I've known since she was 12. For her career, she preferred to be the engineer of the trafficking connected to the racket where Francesca is one of the chief. She preferred to get where she arrives by using the death and torture of people she knew in her life.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
