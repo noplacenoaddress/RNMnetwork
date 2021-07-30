@@ -1040,6 +1040,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 30/7/2021 04:37 dream injection all night long. Mafia, deportation and kidnapping. Always **Francesca**, an addicted. After I want to sleep but she continue. Sleep deprivation is a torture. Stop that woman and her Mafias now.
 - 30/7/2021 06:00 **Aurora** doing death threat to me. A man from Cosa Nostra also. Aurora is a girl I've known since she was 12. For her career, she preferred to be the engineer of the trafficking connected to the racket where Francesca is one of the chief. She preferred to get where she arrives by using the death and torture of people she knew in her life.
 - 30/7/2021 06:23 **Francesca**: "idiot you're a slave of a racket you cannot come to Genoa and a complaint because I've give to Mafia access to your thought and what you see and your position".
+- 30/7/2021 10:58 **Aurora**: "I've write the death of Cristian for money."
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
