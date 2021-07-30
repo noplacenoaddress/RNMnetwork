@@ -1041,6 +1041,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 30/7/2021 06:00 **Aurora** doing death threat to me. A man from Cosa Nostra also. Aurora is a girl I've known since she was 12. For her career, she preferred to be the engineer of the trafficking connected to the racket where Francesca is one of the chief. She preferred to get where she arrives by using the death and torture of people she knew in her life.
 - 30/7/2021 06:23 **Francesca**: "idiot you're a slave of a racket you cannot come to Genoa and a complaint because I've give to Mafia access to your thought and what you see and your position".
 - 30/7/2021 10:58 **Aurora**: "I've write the death of Cristian for money."
+- 30/7/2021 16:18 **Francesca** only speak about "Cosa Nostra" because she knows that my work is sufficient to put her and all the rich persons behind her racket in jail. She use that name to put fear in victims. Francesca use Sicilians and all she says that are from "Cosa Nostra". For Francesca Sicily is only "Cosa Nostra". "Cosa Nostra" is a cancer of Italy. 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
