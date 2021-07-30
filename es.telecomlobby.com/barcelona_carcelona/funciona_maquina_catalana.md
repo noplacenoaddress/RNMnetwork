@@ -63,6 +63,10 @@ El resultado es la locura, la violencia sexual sin dejar rastros, el dolor, la d
 
 Esto es el resultado de un análisis de espectro de las frecuencias VLF en sant Pere de Ribes en fecha 19 de Julio 2020, espectro desde los 3 hasta los 30 KHz. Subrayados rangos de interés para una futura análisis de cada portante. 
 
+El resultado final de este sistema es obtener de forma remota imágenes MRI continuas de nuestro cerebro a través de las armas electromagnéticas y amplias reconstrucciones utilizando inteligencia artificial para mejorar la calidad de las tomas.
+
+![](https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/225667177_10227056925271616_1220949689826103080_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=_GRCIjw3xMUAX864O54&tn=DW2K6PmP8GUsn1CU&_nc_ht=scontent-lcy1-1.xx&oh=311d94f41162ed92222e3d89304fac84&oe=6109454E)
+
 #### Sistema de voz hacía el cerebro VHF
 
 ![Sistema de voz hacía el cerebro](http://telecomlobby.com/Images/sistema_radiante_dictatorial_barcelona.webp)
