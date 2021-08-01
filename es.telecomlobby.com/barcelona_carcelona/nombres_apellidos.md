@@ -29,6 +29,8 @@ Por esto yo, Riccardo Giuntoli, he estado perseguido en las calles de Barcelona 
 
 ![una denuncia publica](https://pbs.twimg.com/media/E5cI96OXMAI9r9h?format=jpg&name=medium)
 
+On 1 of Agust 2021 Andreu just say: "I'm the head of the Catalan racket".
+
 ### External links
 
 1. https://barcelonasecreta.com/7545/
