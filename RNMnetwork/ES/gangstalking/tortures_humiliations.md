@@ -1043,6 +1043,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 30/7/2021 10:58 **Aurora**: "I've write the death of Cristian for money."
 - 30/7/2021 16:18 **Francesca** only speak about "Cosa Nostra" because she knows that my work is sufficient to put her and all the rich persons behind her racket in jail. She use that name to put fear in victims. Francesca use Sicilians and all she says that are from "Cosa Nostra". For Francesca Sicily is only "Cosa Nostra". "Cosa Nostra" is a cancer of Italy. 
 - 3/8/2021 03:00 extreme stalk and dream injection. Because on friday I've got a sexual encounter with a girl in Barcelona, **Francesca** is streaming in my brain a semi porn movie where the actress is sick to put me feat about sex. Francesca is the most moron person that I've seen in my life. This stupid is covering herself with Catholic Church and tradition about the only true that she is a queen of drugs and humans traffic in the Mediterranean area. 
+- 3/8/2021 06:00 other dream, another menace. This time a man from Cosa Nostra menace to extortionate my family. Cosa Nostra is used by Francesca to mantain the fear in Genoa.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
