@@ -1046,6 +1046,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 3/8/2021 06:00 other dream, another menace. This time a man from Cosa Nostra menace to extortionate my family. Cosa Nostra is used by Francesca to mantain the fear in Genoa.
 - 4/8/2021 01:36 **Andreu** is waking up me with stupidity that fill my brain with foolishness. This moron got access to this weapon and change behavior of people that are victim from aristocracy and church. He is a neuro terrorist. Child traffic. This man thinks that if a people was trafficked have to die for this ridiculous parimutuel betting system. Go to hell Andreu. I'm a telecommunications business man and no one will stop my life to let eat a branch of millionaires. Stupid drug moron.  
 - 4/8/2021 04:00 classic humiliation via dream injection with **Saray**. Very tired of. REM phase altered by electronic weapons, my brain is working like I'm wake up, and always Saray, victim of this racket, doing torture to me. Also she is passing sleep deprivation, a torture. Francesca is the director.
+- 4/8/2021 09:17 I say: "What do you need Andreu?" and him : "I need that you commit suicide"
+- 4/8/2021 16:37 A man from Cosa Nostra, a facility that work for Francesca Durand: "I hope to leave you invalid for life".
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
