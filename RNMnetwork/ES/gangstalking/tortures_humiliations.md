@@ -1050,6 +1050,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 4/8/2021 16:37 A man from Cosa Nostra, a facility that work for **Francesca**: "I hope to leave you invalid for life".
 - 5/8/2021 03:38 Cannot sleep. Always **Francesca**, that is using friends of mine that got children to stalk me during the night. Sorry my friends this bitch will go to jail for ever.
 - 5/8/2021 12:49 all the people that I've got enslaved with this technology fall into my method to change their behavior. I want that you commit suicide, for me is a race. That what she just said in the virtual jail where she has put me in November 2017. An instance of Carcelona, a concentration camp with exploitation purposes. Development. **Francesca** you've got to be enjailed for life, fucking terrorist. 
+- 5/8/2021 22:14 Francesca as usual torture me all the day and all the night long. This woman simply doesn't sleep. She is a totally drug addicted.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
