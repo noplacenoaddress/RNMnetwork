@@ -1061,6 +1061,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 8/8/2021 15:38 **Andreu**: "stop drinking coffee or you will have a nervous attack."
 - 8/8/2021 15:39 **Andreu**: "don't you think that be part of Mafia is a privilege?" No I think that is a fucking shit poor terrorist.
 - 8/8/2021 22:20  as usual those fucking stalkers say stupidity to let think a target that he cans be something that they say that they are. Like Aurora that work for military as engineering. Something that is only about references. Because the position of her father in physics and because she works has a human trade engineering under the command of the family of Francesca. This is why she occupy this working site. She kills people that she knows in her life for maintaining her working chair. Something very common in Italy, in those sites there aren't people for cleverness, there are people that lick ass of assholes. Sorry Aurora for you there is only the jail. Sorry, bye bye. Basically they want that I do hacking for technocracy, a sort of terrorism, like Al Queda but in Europe. Shot up your mouths morons. Thank you.
+- 8/8/2021 22:53 **Aurora**: "I thinks that torture is important to let people give up them fight to be free. Them fight for freedom."
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
