@@ -1057,6 +1057,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 8/8/2021 0904: a voice like my father: "You're going to death because in Italy you will connect the family of Francesca with Cosa Nostra".
 - 8/8/2021 11:24: **Andreu**: "you're victim of Cosa Nostra and you don't do nothing?"
 - 8/8/2021 12:43 **Andreu** and **Francesca** only speak about drug abuse. All the two are heavy drug dealers and speak about my father. I realize that those criminals use families to let people suicide. Remember that worst crimes pass inside the four wall of an house. They use this trick to let victims, target individuals, think that are the families who want to change the behavior of a victim. This is why a lot of the tortured who torture in the non actor state band got a parent death. They have kill them or put in the mind of the targets that are the parents who have destroyed them life. Remember that those two morons work with Cosa Nostra. Why they use target individuals? Probably behind there is a network of money laundering related to gambling.
+- 8/8/2021 **Francesca**: "or you stop to write and let you die or I will kill you"
+- 8/8/2021 15:38 **Andreu**: "stop drinking coffee or you will have a nervous attack."
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
