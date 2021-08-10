@@ -1138,7 +1138,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 2021 another year that I'm living under continuous electronic torture. Every days and every nights. In front of all the people that I've known in my life. My parents also
 
-![](https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/226011688_10227052244714605_1406608111579898251_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=BqWx1zGDczQAX_qZSEw&_nc_ht=scontent-lcy1-1.xx&oh=27c2aa74ee506c7375ce843b4af9a88f&oe=61077760)
+![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/226011688_10227052244714605_1406608111579898251_n.jpg)
 
 #### Photo log in function of time about tortures
 
