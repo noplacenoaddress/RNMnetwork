@@ -1,5 +1,7 @@
 # Reasons
 
+*8/2021: In my exploitation cell transmitted by electromagnetic weapons from the third part of the Collserola Tower they say that I've been sold from my same father because that I'm the most logical person in Europe nowadays. Because he gains money from big business man stopping my career. Also a man from Cosa Nostra say to me the same think. A beautiful mind... False! I'm totally normal person.*
+
 Why I'm under a magnetic bell in the remote neural control network in Spain? What I've done to the outside world to be damned with those electronic tortures? Why absolutely all the persons that I've known in my life are present in this network someone doing stalking, others playing in remote parimutuel betting system and others torturing me? What is this shit? Am I a bad person? No I'm not. Absolutely.
 
 Probably because I'm victim of masonry; a masonry that eat them sons. Something strictly connected with the Catholic Church. Something that destroy people generating a vast amount of money with slavery. Something that incredibly but true it's active in the democratic Europe of 2020. It's a scandal.
