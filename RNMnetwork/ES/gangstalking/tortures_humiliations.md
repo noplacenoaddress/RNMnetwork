@@ -1130,6 +1130,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/8/2021 16:38. In the morning I've connected a new client to Redama. As usual Andreu and Francesca humiliating me. A sleep a little after the dinner. Aurora now speak about covid19 that for sure I'm infected. Speak that I will dead. Fucking terrorist, engineer of human trade working in the racket of Francesca, shut out your stupidity morons you'll go to jail because you are the artificer behind the systematic destruction of my life an behind the death of various victims considered as play card in this racket. Being a play card, a coin, means that every think you do in your day is subject the remote parimutuel betting system in a physic and virtual betting and gambling systems. The volume of bet if very high and is a service to criminality from aristocracy. In that way criminality clean money. It is recycling.
 
+- 11/8/2021 05:00 sleep deprivation torture. Dream injection about racket state war. Every victim is used by racket states, group that are members of the racket, to create a "war" of power in the black market.
+
+- 12/8/2021 20:59 like usual **Francesca**, **Aurora** and **Andreu** all the day long are stalking and torturing me. Francesca say every moment that I will be assassinated. Normally, she says, people commit suicide. 
+
+- 12/8/2021 22:45 **Aurora** doesn't allow me to do some hamradio because she destroy my auditory cortex with this electromagnetic weapon. The only think that I want to do is to put her in jail for life. Fucking engineer of the human trade network. Fuck off.
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
