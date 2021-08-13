@@ -1138,7 +1138,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 13/8/2021 05:38 **Aurora** doing dream manipulation to me. The result is that she is doing heavy death treat to me using those arguments: Russian mafia, Cosa Nostra, treats of white. She says that she will take away the property in via Era was seriously threatening my family with death. 
 
-- 13/8/2021 11:41 **Aurora** saying to me: "Riccardo why don't you commit suicide?"
+- 13/8/2021 11:41 **Aurora** saying to me: "Riccardo why don't you commit suicide?" After a little bit: "For sure that I torture!"
 
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
