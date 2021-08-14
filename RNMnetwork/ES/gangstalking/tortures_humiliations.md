@@ -1134,7 +1134,13 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 12/8/2021 20:59 like usual **Francesca**, **Aurora** and **Andreu** all the day long are stalking and torturing me. Francesca say every moment that I will be assassinated. Normally, she says, people commit suicide. 
 
-- 12/8/2021 22:45 **Aurora** doesn't allow me to do some hamradio because she destroy my auditory cortex with this electromagnetic weapon. The only think that I want to do is to put her in jail for life. Fucking engineer of the human trade network. Fuck off.
+- 12/8/2021 22:45 **Aurora** doesn't allow me to do some hamradio because she destroy my auditory cortex with this electromagnetic weapon. The only think that I want to do is to put her in jail for life. Fucking engineer of the human trade network. Fuck off. "This is a game (for game she calls the European human trade application programmed upon the victim head) where the victim death, like all the others you will die". This moron is the person that program the systematic destruction of the life of the victims, she has killed people inside this. Why she does it? For money, for her work, for probably a lot of mental sickness that she has from she was a children.
+
+- 13/8/2021 05:38 **Aurora** doing dream manipulation to me. The result is that she is doing heavy death treat to me using those arguments: Russian mafia, Cosa Nostra, treats of white. She says that she will take away the property in via Era was seriously threatening my family with death. 
+
+- 13/8/2021 11:41 **Aurora** saying to me: "Riccardo why don't you commit suicide?" After a little bit: "For sure that I torture!"
+
+- 14/8/2021 23:49 as usual **Francesca** torturing, humiliating and using this electromagnetic weapon to do it. I'm very, extremely, tired of this horrible person. She is a marquees its totally impossible that she has lost her life because she cannot build nothing with the fortune that she has inherited. It's a joke of the nature give a so useless brain to a woman that could have created thousands of site of work. People that lost them life in the criminal side of the society that could had build empires. Stupid morons you will go in jail for life.
 
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
