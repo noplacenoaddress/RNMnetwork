@@ -1140,6 +1140,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 13/8/2021 11:41 **Aurora** saying to me: "Riccardo why don't you commit suicide?" After a little bit: "For sure that I torture!"
 
+- 14/8/2021 23:49 as usual **Francesca** torturing, humiliating and using this electromagnetic weapon to do it. I'm very, extremely, tired of this horrible person. She is a marquees its totally impossible that she has lost her life because she cannot build nothing with the fortune that she has inherited. It's a joke of the nature give a so useless brain to a woman that could have created thousands of site of work. People that lost them life in the criminal side of the society that could had build empires. Stupid morons you will go in jail for life.
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
