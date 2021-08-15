@@ -1146,7 +1146,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/8/2021 19:27 **Francesca**, theoretically a marquees, says here without any problem: "I'm who bind this service to Mafia putting them in a relevant position in front of citizens."
 
-- 15/8/2021 20:05 **Francesca**, obviously the queen of a state inside the racket that operate in the Mediterranean area, say to me continuously to start to sell drug. **Her surname is Durand de la Penne.**
+- 15/8/2021 20:05 **Francesca**, obviously the queen of a state inside the racket that operate in the Mediterranean area, say to me continuously to start to sell drug. ****
 
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
