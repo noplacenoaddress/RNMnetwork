@@ -1150,6 +1150,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/8/2021 21:32 That moron think that I will not write that sometimes she says: "I'm deeply in love with you"... a Marquees, don't you understand reader? Because of parimutuel betting system she wants that I return to Italy. Nothing more.
 
+- 15/8/2021 23:26 **Francesca** is stalking me every minutes. She simply doesn't stop. This torturer, one of the worst person in Europe without any doubt, speaks only about **cocaine**, death treat and a lot of shit more. I'm very tired that she thinks to do not go to jail for life. Very tired.
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
