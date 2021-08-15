@@ -1144,6 +1144,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/8/2021 16:47 a paramilitary that work for the family of Francesca and others people in Genoa just say to me that he will kill me, and this is very common because of him fortitude. This woman have killed many of my age. Using those exploitation cells in the carcelona environment, a virtual prison and camp transmitted by electromagnetic weapons from the third part of the Collserola tower, **a facility where recently the millionaire McAffee have been killed** using also corrupted justice and corrupted jail, the one called Brians.  All of this packet of services to the Bside and Mafia are a product, a service, of what I've called SPECTRAM. The Mafia behind human trading in the Mediterranean area. 
 
+- 15/8/2021 19:27 **Francesca**, theoretically a marquees, says here without any problem: "I'm who bind this service to Mafia putting them in a relevant position in front of citizens."
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
