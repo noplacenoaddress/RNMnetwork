@@ -1154,6 +1154,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 16/8/2021 **Andreu** is all the day long that he tortures me. This horrible military intelligence that work in the Bside of the Spanish military as expert of electronic warfare doesn't stop to elevate my body temperature with electromagnetic weapons. It's totally unbelievable this man its four years that torture me every day and every night. He is a totally addicted of amphetamines. 
 
+- 16/8/2021 **Francesca Durand** always torture me, she just says that she with **Andreu** are the owners of the exploitation camp transmitted by the third part of the Collserola tower above the heads of the citizens of Barcelona. In active mode they have got like one thousand of beggars, people of the human trade network in the Mediterranean area and people of "the game". As game they speak about European human trade, they use victims as coins in games of power dominated by the Catalan parimutuel betting system. 
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
