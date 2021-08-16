@@ -1152,6 +1152,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/8/2021 23:26 **Francesca** is stalking me every minutes. She simply doesn't stop. This torturer, one of the worst person in Europe without any doubt, speaks only about **cocaine**, death treat and a lot of shit more. I'm very tired that she thinks to do not go to jail for life. Very tired.
 
+- 16/8/2021 **Andreu** is all the day long that he tortures me. This horrible military intelligence that work in the Bside of the Spanish military as expert of electronic warfare doesn't stop to elevate my body temperature with electromagnetic weapons. It's totally unbelievable this man its four years that torture me every day and every night. He is a totally addicted of amphetamines. 
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
