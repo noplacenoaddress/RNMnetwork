@@ -1158,6 +1158,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 16/8/2021 22:05 Aurora: "Yes we sell everything here." Speaking about babies. 
 
+- 16/8/2021 22:46 A voice similar to my mother: "Riccardo are you feel content? You will stay with a region of south Italy here and you will pay the "pizzo". The only reality is that I'm victim of racket and in the racket, I think in the same "state" of Francesca, there are also my parents. This is the most craziest think that can pass to a person in him life. They have systematically destroy my life for money. Are they humans? No. Fucking criminals that use electronic weapons to enslave the only son that they have done.
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
