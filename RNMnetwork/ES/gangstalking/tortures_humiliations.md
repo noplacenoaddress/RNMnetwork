@@ -1160,6 +1160,16 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 16/8/2021 22:46 A voice similar to my mother: "Riccardo are you feel content? You will stay with a region of south Italy here and you will pay the "pizzo". The only reality is that I'm victim of racket and in the racket, I think in the same "state" of Francesca, there are also my parents. This is the most craziest think that can pass to a person in him life. They have systematically destroy my life for money. Are they humans? No. Fucking criminals that use electronic weapons to enslave the only son that they have done.
 
+- 17/8/2021 15:38 A woman that I've known when I was young in Genoa: "Why you torture me in this network? Because we are all together and what we want is that you die." Why they do this? Because of betting system. All are playing in a racket.
+
+- 17/8/2021 16:40 **Francesca **: "put your soul in peace I and a person that work with me we will kill you."
+
+- 17/8/2021 17:46 **Francesca ** and her gang of stalkers and tortures don't stop to stalk me while I'm working. As I sit down in my chair in my office, at the time in my house, they never stop to torture. Those are criminals, Mafias, people that work in the racket owned by Francesca, that hide themselves into the social low class. They want to pass as tortured who torture like United Nation explain. They are killer. Subliminal killer. That use this facility to suicide people because of parimutuel betting system and neural weapons develop. By the way I'm alive and in good mental state to put them all, I repeat all also who hide themselves behind Cosa Nostra, in jail forever.
+
+- 17/8/2021 19:23 **Francesca** is always referring to a famous kidnapping of Italy saying that I will be kidnap as him: **Farouk Kassam**.  
+
+- 17/8/2021 22:11 **Francesca**: "you've got to know that your life is mine and I've give it to Cosa Nostra".
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
