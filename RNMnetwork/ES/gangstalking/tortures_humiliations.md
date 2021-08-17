@@ -1166,6 +1166,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 17/8/2021 17:46 **Francesca Durand** and her gang of stalkers and tortures don't stop to stalk me while I'm working. As I sit down in my chair in my office, at the time in my house, they never stop to torture. Those are criminals, Mafias, people that work in the racket owned by Francesca, that hide themselves into the social low class. They want to pass as tortured who torture like United Nation explain. They are killer. Subliminal killer. That use this facility to suicide people because of parimutuel betting system and neural weapons develop. By the way I'm alive and in good mental state to put them all, I repeat all also who hide themselves behind Cosa Nostra, in jail forever.
 
+- 17/8/2021 19:23 Francesca is always referring to a famous kidnapping of Italy saying that I will be kidnap as him: **Farouk Kassam**.  
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
