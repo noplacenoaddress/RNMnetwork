@@ -1170,6 +1170,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 17/8/2021 22:11 **Francesca**: "you've got to know that your life is mine and I've give it to Cosa Nostra".
 
+- 18/8/2021 05:15 I cannot sleep all night long. **Francesca** stop the torture.
+
+- 18/8/2021 09:31 **Francesca Durand is threatening me about doing sexual harassment to the son of Saray.**
+
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
