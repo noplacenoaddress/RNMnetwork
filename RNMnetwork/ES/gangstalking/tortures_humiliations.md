@@ -1172,7 +1172,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/8/2021 05:15 I cannot sleep all night long. **Francesca** stop the torture.
 
-- 18/8/2021 09:31 **Francesca Durand is threatening me about doing sexual harassment to the son of Saray.**
+- 18/8/2021 09:31 **Francesca is threatening me about doing sexual harassment to the son of Saray.**
+
+- 18/8/2021 11:55 **Aurora** is torturing me with electronic weapons that act directly over my brain inducting my physic to elaborate a sickness state, while this she uses the voice of my mother saying to me madnesses.
 
   ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
