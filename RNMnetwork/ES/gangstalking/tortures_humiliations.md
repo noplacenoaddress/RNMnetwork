@@ -1091,7 +1091,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 19/8/2021 all night long stalking and dream manipulation. 
 - 19/8/2021 19:02 **Andreu**: "If you want to feel good you've got to suicide." Andreu is stalking me from when I was young, when I was fifteen exactly using a Cosa Nostra guy. Andreu is a human traffic mafia that have play with my life from when I was young working for the family of Francesca. Why he does it? To create those stupid histories of persecutions in all my generation of genoese mans and womans. Andreu is strictly connected to the paramilitary world and the traffic one. With this kind of electronic warfare have attached a lot of good people in Genoa in a cold war way.
 - 20/8/2021 19:21 Because I've done the surname of Francesca and a Cosa Nostra family public over the Internet, **Andreu**, that is very common that  is a legal military secret service of this country, every time that a car pass under my home try to put me fear using electromagnetic weapons a let Mafia menace me.
-- ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 20/8/2021 21:03 Because of death treats I've deleted my tweet with surnames of Cosa Nostra and Francesca. All together they work in the human trade network transmitted by electromagnetic weapons from the Collserola tower. ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
