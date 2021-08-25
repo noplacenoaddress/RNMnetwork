@@ -1224,6 +1224,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 25/8/2021 17:18 **Francesca** repeat: "I've got to kill you".
 
+- 25/8/2021 18:40 **Francesca**: "I'm torturing you from four years all the day to let you suicide."
+
+- 25/8/2021 19:48 **Francesca**: "you've got to sell cocaine for me." This moron thinks that using the target individual program for military purposes can also be a queen of cocaine traffic.
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
