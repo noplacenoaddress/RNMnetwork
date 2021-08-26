@@ -1230,6 +1230,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 25/8/2021 20:15 **Andreu** and **Francesca** doing heavy stalk to me.
 
+- 26/8/2021 08:31 As I've written that phrase speaking about pedophiles and **Cosa Nostra**, in the meaning that they live upon people some of them chosen when child, **Andreu** and **Francesca** are saying that I'll die for that words but that they are the principals. 
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
