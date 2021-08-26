@@ -1234,6 +1234,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 26/8/2021 11:24 **Francesca**: "I've eaten all your dreams".
 
+- 26/8/2021 20:50 **Miriam**, the woman that I've already denunciate because of a thief but in reality is because she is a chief of human trade in Barcelona, say to me continuously that she will kill my family. Miriam work for the European human trade network for **Francesca Durand**. **Andreu** had put her in my face and she is dangerous. 
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
