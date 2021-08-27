@@ -1238,7 +1238,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 26/8/2021 22:06 a voice similar to my father : "I'm not your father and you're victim of human trade. It's very common that you will by killed by the crew of Francesca Durand."
 
-- 27/8/2021 12:26 **Andreu** is torturing me using electromagnetic weapons. Is kind of torture is sexual harassment.
+- 27/8/2021 12:26 **Andreu** is torturing me using electromagnetic weapons. Is kind of torture is sexual harassment. And he is just saying "i'll kidnap you and let you be cripple".
 
    
 
