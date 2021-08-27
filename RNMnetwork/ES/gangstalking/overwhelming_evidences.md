@@ -187,6 +187,12 @@ The most strange think is that he says to me that he doesn't have twitter and I 
 
 Strange case my father had very marked dark circles at lunch today. In fact, the torture of the night caused my post on twitter, a social network that he does not own. So he immediately sent me the message about the psychologist afterwards. Unfortunately my father is an engineer of this fascist family and he betrayed his son all his life by telling him that he was a leftist. He always talks about drugs, obviously he is a consumer or a seller. Or simply how Cristian died accused of a drug addict is an excuse for him. In the corruption circle where I was locked up in a psychiatric, an analysis indicated consumption when I am not taking drugs. And I never took.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/associazione.png)
+
+27/08/2021. As you can see reader, my father follow to speak about drugs. It's very strange, but not so much, because I'm doing compliant against the fact that **I'm victim of racket**, the Ligurian racket where Francesca is the chief, **I'm victim of Cosa Nostra**, the mafia that work in human trade, so I**'m victim of human trade** and  cybertorture a form of torture that thousands of people in Spain are denunciating. He follow up with drugs...a friend of mine in 2016 was killed by the human trade network in Genoa but police speak about suicide. Others people here in my cell of exploitation transmitted by electromagnetic weapons say to me that him parents have done the same type of "work", saying that them son was a drug addicted. Remember that in hospital Clinic they have give to me results of analytics totally false and I've done a complaint but the court say to me that there isn't any crime behind. This is false. The chief of the hospital plant in the same doctor that my father speak about.
+
+> Readers, I'm victim of European human trade, and victims are killed by provoked suicide with electromagnetic weapons and parents just say that them son was a drug addicted. This is very very very sad.
+
 ### Barcelona street art
 
 ![Gruñon](http://telecomlobby.com/Images/spanish_remote_neural_monitoring_network_streetart_grunon.webp)
