@@ -1234,7 +1234,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 26/8/2021 11:24 **Francesca**: "I've eaten all your dreams".
 
-- 26/8/2021 20:50 A voice similar to the one of **Miriam**, the woman that I've already denunciate because of a thief, say to me continuously that she will kill my family. Miriam work for the European human trade network for **Francesca Durand**. **Andreu** had put her in my face and she is dangerous. She just say to me, I've killed eleven person with poisoning. 
+- 26/8/2021 20:50 A voice similar to the one of **Miriam**, the woman that I've already denunciate because of a thief, say to me continuously that she will kill my family. Miriam probably work for the European human trade network for **Francesca Durand**. **Andreu** had put her in my face and she is dangerous. She just say to me, I've killed eleven person with poisoning. 
+
+- 26/8/2021 22:06 a voice similar to my father : "I'm not your father and you're victim of human trade. It's very common that you will by killed by the crew of Francesca Durand."
 
    
 
