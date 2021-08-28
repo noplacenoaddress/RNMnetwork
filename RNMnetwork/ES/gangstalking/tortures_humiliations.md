@@ -1246,6 +1246,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 27/8/2021 As I'm under remote neural control from Mafia because aristocracy, in special the family of francesca have given to them my brain and my tought and my position because of remote parimutuel betting system and exploitation, I've do a question to Mafia because I know them very well as we have known when we was young in Genoa: "**As I will die shut can you stop to torture me and then someone will come and kill me?**" No one seems that can do nothing because it's a game where high level states participates. Its state terrorism. Remember that **Cosa Nostra is Bside of the state**, they are soldier of the Vatican city. A terrorist state inside our Europe.
 
+- 28/8/2021 20:48  **Francesca**: "we never stop to torture".
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
