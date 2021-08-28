@@ -1240,6 +1240,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 27/8/2021 12:26 **Andreu** is torturing me using electromagnetic weapons. Is kind of torture is sexual harassment. And he is just saying "i'll kidnap you and let you be cripple".
 
+- 27/8/2021 15:02 **Francesca** follow to say: "don't you feel ashamed not to use violence and speak about Mafia"? No Francesca, I'm an European citizen I don't like **Cosa Nostra** and human trade. Francesca follow up with sexual harass me, doing sexual violence to me, using those electromagnetic weapons.
+
+- 27/8/2021 16:21 probably my father, the voice is the same, speak always about drug abuse. The only true is that I'm victim of Francesca's family that have used me to provoke a war between cosa nostra and stidda after that they have invited a stidda family in Genoa and they have done a lot of money upon deaths of play cards. Like Cristian. And like me, but I'm not death.
+
+- 27/8/2021 As I'm under remote neural control from Mafia because aristocracy, in special the family of francesca have given to them my brain and my tought and my position because of remote parimutuel betting system and exploitation, I've do a question to Mafia because I know them very well as we have known when we was young in Genoa: "**As I will die shut can you stop to torture me and then someone will come and kill me?**" No one seems that can do nothing because it's a game where high level states participates. Its state terrorism. Remember that **Cosa Nostra is Bside of the state**, they are soldier of the Vatican city. A terrorist state inside our Europe.
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
