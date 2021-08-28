@@ -1242,6 +1242,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 27/8/2021 15:02 **Francesca** follow to say: "don't you feel ashamed not to use violence and speak about Mafia"? No Francesca, I'm an European citizen I don't like **Cosa Nostra** and human trade. Francesca follow up with sexual harass me, doing sexual violence to me, using those electromagnetic weapons.
 
+- 27/8/2021 16:21 probably my father, the voice is the same, speak always about drug abuse. The only true is that I'm victim of Francesca's family that have used me to provoke a war between cosa nostra and stidda after that they have invited a stidda family in Genoa and they have done a lot of money upon deaths of play cards. Like Cristian. And like me, but I'm not death.
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
