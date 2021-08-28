@@ -1240,7 +1240,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 27/8/2021 12:26 **Andreu** is torturing me using electromagnetic weapons. Is kind of torture is sexual harassment. And he is just saying "i'll kidnap you and let you be cripple".
 
-- 27/8/2021 15:02 **Francesca** follow to say: "don't you feel ashamed not to use violence and speak about Mafia"? No Francesca, I'm an European citizen I don't like **Cosa Nostra** and human trade.
+- 27/8/2021 15:02 **Francesca** follow to say: "don't you feel ashamed not to use violence and speak about Mafia"? No Francesca, I'm an European citizen I don't like **Cosa Nostra** and human trade. Francesca follow up with sexual harass me, doing sexual violence to me, using those electromagnetic weapons.
 
    
 
