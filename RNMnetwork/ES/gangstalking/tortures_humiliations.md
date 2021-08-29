@@ -1252,6 +1252,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 29/8/2021 17:08 as usual as I'm the victim of an exploitation cell inside the virtual concentration camp called Carcelona I provoke reactions of my tortures. Pertains at that group Aurora, engineer of human trade that work for Francesca writing the histories of death of victims used to generate money for Stidda startups, new affiliates. **Aurora** start to stalk me and humiliating me.  
 
+- 29/8/2021 18:27 **Aurora**: "my life couldn't be destroyed by a target. I will pay someone to kill you. "
+
+- 29/8/2021 20:55 At the end of my working day Mafia grow up and Aurora with them. Obviously Francesca also. For Aurora as I'm victim of human trade I've to not speak when the only think that could do a victim is doing a compliant. As I'm a great IT professional I prefer writing all in public to protect myself and have understood all behind because the story is very complicated and very difficult to explain correctly. Remember that this Mafia and racket use high technology to know what we're thinking about and there is a smoke curtain that protect them. **Explaining well Aurora is my first step to save my life from your systematic destruction.**
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
