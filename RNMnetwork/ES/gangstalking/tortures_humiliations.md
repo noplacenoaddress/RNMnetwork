@@ -1250,6 +1250,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 29/8/2021 02:30 this night, the boss of the Stidda family that have played my life in a sadistic way with torture and humiliation done by prefessionist dressed of poor of the Raval neighbor. This man, or probably could be **Andreu**, have say to me that as I speak about him surname in public in twitter he will without any doubt cut my penis. 
 
+- 29/8/2021 17:08 as usual as I'm the victim of an exploitation cell inside the virtual concentration camp called Carcelona I provoke reactions of my tortures. Pertains at that group Aurora, engineer of human trade that work for Francesca writing the histories of death of victims used to generate money for Stidda startups, new affiliates. **Aurora** start to stalk me and humiliating me.  
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
