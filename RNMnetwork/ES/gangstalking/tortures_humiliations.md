@@ -1248,6 +1248,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 28/8/2021 20:48  **Francesca**: "we never stop to torture".
 
+- 29/8/2021 02:30 this night, the boss of the Stidda family that have played my life in a sadistic way with torture and humiliation done by prefessionist dressed of poor of the Raval neighbor. This man, or probably could be **Andreu**, have say to me that as I speak about him surname in public in twitter he will without any doubt cut my penis. 
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
