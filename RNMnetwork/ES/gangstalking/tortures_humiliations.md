@@ -1262,6 +1262,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 30/8/2021 19:18 **Andreu** follow to humiliate me. Because I have not a woman. Normal Andreu I'm victim of Mafia, Aristocracy and Vatican. Son of a bitch you are a fucking service you cannot torture a citizens!
 
+- 30/8/2021 21:30 **Francesca** and **Aurora**: "How does you permit to speak about Mafia". Poor morons, Mafia is organized criminality, and I'm victim of. But now I know that behind nowadays and probably from decades, true father?, there are work by engineers and nobles. All of this nowadays is quoted in a fraudulent stock exchange. Incredible, a man loose is work and criminals got a lot of money all in front of...let me say, important people.
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
