@@ -1260,6 +1260,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 -  30/8/2021 torture all night long.
 
+- 30/8/2021 19:18 **Andreu** follow to humiliate me. Because I have not a woman. Normal Andreu I'm victim of Mafia, Aristocracy and Vatican. Son of a bitch you are a fucking service you cannot torture a citizens!
+
+- 30/8/2021 21:30 **Francesca** and **Aurora**: "How does you permit to speak about Mafia". Poor morons, Mafia is organized criminality, and I'm victim of. But now I know that behind nowadays and probably from decades, true father?, there are work by engineers and nobles. All of this nowadays is quoted in a fraudulent stock exchange. Incredible, a man loose is work and criminals got a lot of money all in front of...let me say, important people.
+
+- 30/8/2021 22:32. I go to sleep, as usual threats begins. What I've got to listen... Aurora, a woman that I've known from when she was a child (!!!!!!!) that repeat phrases that I've said to provoke here in my exploitation cell to obtain that someone came here to beat or worst to kill me. **Aurora, Cosa Nostra, is not a game or a joke.** It's not something where a person that has studied, like you have said here, could not gain money upon victims of human trade that you've known. You need to understand that for the guys of this organized criminal group it's horrible have play gambling machines of money laundry upon the systematic destruction of the life of man, or a woman, that they have known in their life. This system, Aurora, is terrorism at all levels. **Cosa Nostra, Aurora, is the most dangerous Mafia in the Mediterranean, and I'm victim of. Don't joke with my life, stupid.**
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
