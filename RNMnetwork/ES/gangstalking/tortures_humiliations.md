@@ -1260,6 +1260,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 -  30/8/2021 torture all night long.
 
+- 30/8/2021 19:18 **Andreu** follow to humiliate me. Because I have not a woman. Normal Andreu I'm victim of Mafia, Aristocracy and Vatican. Son of a bitch you are a fucking service you cannot torture a citizens!
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
