@@ -1272,6 +1272,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 31/8/2021 09:38 A girl that I've known in my past in Genoa in the Lido bathhouse, a site of upper class in born city where my mother take me every summer, is speaking. We aren't of upper class. Why? It's not a problem because people of upper class many are totally normal people, but the problem is other. She takes me here to let people know me for the future remote parimutuel betting game, for gambling. Because I'm a victim of human trade. At that time I really don't know, obviously. What does she says speak to a man of Cosa Nostra? "Why doesn't you kill him?" She doesn't want to go to a process and she has played. 
 
+- 31/8/2021 10:30 As usual **Francesca** doesn't stop to stalk me. I'm totally tired to listen and to be tortured by this drugs addicted. She simply doesn't sleep. It's impossible that that surname to be a senator have fallen into being a torturer. **This woman is a totally fail, people have die for her failure**.
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
