@@ -1276,6 +1276,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 31/8/2021 18:57 Francesca follow to menace me to kidnap myself. In her sick madness she thinks that I've got fear to live like a citizen because she has played myself in remote parimutuel betting system using a band of non state actors that are tortured who torture. In reality those guys aren't guilty because her family has put themselves in the street. The real purposes is a life scarified for a startup of Cosa Nostra, a startup of Cosa Nostra (or Stidda I don't know the exact name in this case) is a new franchisee that with the money gained into the recycling machine that works on the target's skin will start new business in the A side or B side. Francesca you're who administrate the IT of Jesuits, that order give to Cosa Nostra high technology crushing the rights of a citizen. **Francesca, you're a terrorist**.
 
+- 31/8/2021 20:19 Francesca follow to say foolishness, repeat that I'm a mental sick. **Durand you work with Cosa Nostra, and you are a terrorist.**
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
