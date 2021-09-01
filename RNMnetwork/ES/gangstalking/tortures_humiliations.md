@@ -1278,6 +1278,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 31/8/2021 20:19 Francesca follow to say foolishness, repeat that I'm a mental sick. **Francesca you work with Cosa Nostra, and you are a terrorist.**
 
+- 31/8/2021 22:35 **Francesca** when I go to sleep always but electromagnetic charges upon my stomach and inside my intestine. Result is an abdomen full of air, gastric fluids that move causing stomach pains and continuous aerophagia with the purpose of public humiliation, always talking about the general prospect of torture in an explosion cell. People of my own family, talking about management of the black market in Genoa, always talking about trafficking in human beings for the purpose of trafficking. A person I know, unfortunately seriously involved in my trafficking, had a bowel operation, I think that he too, even if with a known surname, was severely tortured by Francesca's family. Francesca using this technology makes people locked in this explosion prison believe that they have chronic pain in internal organs. The result is that the victims go to hospital entities where corrupt individuals are present, diagnosing false tumors. Another person I met in Barcelona, unfortunately another victim, died of cancer, an implanted tumor. In the tragedy of him the same group of mafia and stalkers. Even Massimo unfortunately. This group, the group that have tortured me, but that in his great majority I have known in Genoa like friends, I repeat friends that I don't even know that result that are Cosa Nostra implicated,   is group of the north Italy and Cataloña that kill play card, child trafficking, from Jesuits and aristocracy.
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
