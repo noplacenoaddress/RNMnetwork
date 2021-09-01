@@ -1284,6 +1284,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 1/9/2021 17:58 **Francesca** and **Aurora** follow to humiliate me speaking about cocaine every minutes. Those morons are totally addicted. 
 
+- 1/9/2021 19:24 **Aurora** is saying continuously if a person from Cosa Nostra could kill me. She is saying that she has studied so she cannot go in jail. She is totally crazy.
+
+- 1/9/2021 21:27 Aurora follow to threat me.
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
