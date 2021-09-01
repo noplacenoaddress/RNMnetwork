@@ -1282,6 +1282,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 1/9/2021 15:02 **Francesca** continue to threat me, she say that I could be one of the best business man of Genova but she will kill me, she speaks about aristocracy but this is only, and I repeat only, fair right. Better saying mental sickness that play with normal people.
 
+- 1/9/2021 17:58 **Francesca** and **Aurora** follow to humiliate me speaking about cocaine every minutes. Those morons are totally addicted. 
+
    
 
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
