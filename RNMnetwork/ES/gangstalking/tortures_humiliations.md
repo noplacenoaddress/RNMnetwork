@@ -1154,6 +1154,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 5/9/2021 07:00 After two hour of sleep because of torture a dream manipulation about two families of Cosa Nostra or stidda. One that I know personally. Threats, also sexual threats of domination. Style was like cartoon. They speak about the fact that citizens cannot do complaints to Cosa Nostra, incredible...
 - 5/9/2021 12:03 **Francesca**: "you've got to shut up, nobles have destroyed your life". She means that her family have put myself in the target individual program and thief my life with neural weapons development. Francesca, this is not the noble are you, that are a criminal connected with military, child traffic, human crimes and so on.
 - 5/9/2021 19:51 because I'm really in love with IT security and networking, the people from the non state actor crew sometimes remember to me that they are skilled hacker, that probably it could be. But not all of them. What it could be is that I'm victim of human trade and nowadays there are a lot of victims experts of IT because this market is in heavy competition.
+- 5/9/2021 20:12 Francesca follow to shut up "he has to die, he has to suicide". Bitch, my life is not your game. You will go in jail for ever.
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
