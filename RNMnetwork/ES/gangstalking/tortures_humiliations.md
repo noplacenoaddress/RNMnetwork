@@ -1176,6 +1176,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 11/9/2021 02:00 Francesca doesn't let me sleep, now she is putting electrical charges upon my nose and my ass and my penis. Francesca work writing systematical destruction of life of how is her family have decided with a punk group of Barcelona. it seems that she change torture with corruption in the catalan principal via where drug pass and people that have visual cortex redden in remote work as sentinel. This group seems that organize all of this torture payed by the marquees family of francesca.
 - 11/9/2021 10:59 Like she has done with my eardrum this night **Francesca Durand** has put electricity with the electromagnetic weapons into my nose and I wake up with blood in it. This woman, in front of a service of Spain, an official,  is mess up my internal organ as it appears in a lot of schemes about what is being a target individual.
 
+![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
