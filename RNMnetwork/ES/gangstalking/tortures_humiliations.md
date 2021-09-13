@@ -1187,6 +1187,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 13/11/2021 14:46 **Andreu** follow to stalk and sexual harass me. 
 - 13/11/2021 19:16 **Aurora** is threating me using the shape of people from Cosa Nostra.
 - 13/11/2021 19:40 **Andreu** speaking about me: "it's more that 20 years that I prepare your death."
+- 13/11/2021 21:12 I just prepare my bedroom to go to sleep and immediately **Francesca** and **Andreu** start to stalk using also holograms transmitted in my visual cortex. This is an absurdity that indicate the mental level of those idiots, Francesca I think that is two weeks that doesn't sleep I don't know exactly the quantity of drugs that this woman assume to be so sadistic. Andreu I know personally that is an addicted to amphetamine. 
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
