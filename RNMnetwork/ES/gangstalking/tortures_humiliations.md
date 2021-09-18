@@ -1197,6 +1197,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 17/9/2021 13:33 **Francesca** doesn't stop to threat me with Mafia. This idiot have manipulated my entire life for this stupidity of remote neural control network. Whit this shit she has killed many. They have destroy democracy and politic scene of the Mediterranean area with this tower. She is guilty of crimes against humanity. 
 - 17/9/2021 13:54 **Saray** follow to sexual harass me. Why? Francesca use her body and her shape, better saying the is doing sexual violence to her to let me interrupt my public complaint and work to stop her Mafia and to put her in jail for ever.
 - 17/9/2021 19:18 **Francesca** as I start to work for a good contract start to wander join to **Andreu** that they will use people of Mafia to oblige me to lace. 
+- 18/9/2021 22:47 just go to sleep. **Francesca** immediately apply using electromagnetic weapons direct current upon my stomach. This woman is totally, but totally, addicted to torture. And repeat: "this is not torture, you're death."
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
