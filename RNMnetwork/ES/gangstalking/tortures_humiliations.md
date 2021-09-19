@@ -1201,6 +1201,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 18/9/2021 01:13 It's impossible to live in Spain under torture by **Francesca** and a corrupted service, or probably a Catalan noble. Or it could be the two. Those idiots use electronic torture to obtain sleep deprivation and internal organs degradation like is explained in the image below. This kind of torture was developed by CIA, adopted in 1991 in Spain with construction of Collserola tower and hided by an electronic war defense program by military forces. In reality is torture. STOP TORTURE NOW, I'm an European citizen and this Europe.
 - 18/9/2021 10:56 **Francesca** follow to use various voices that speak with a man of Cosa Nostra saying: "you have to kill him."
 - 18/9/2021 17:36 **Francesca** follow as usual to treat me with criminals of various roots that she administrate with the Collserola tower. This woman has operate for more than twenty years in the Mediterranean area hide her behind this infrastructure. 
+- 18/9/2021 19:20 A stalker in the slavery network: "one day you'll understand that I'm your master and you are my dog." uao uao.
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
