@@ -1203,7 +1203,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 18/9/2021 17:36 **Francesca** follow as usual to treat me with criminals of various roots that she administrate with the Collserola tower. This woman has operate for more than twenty years in the Mediterranean area hide her behind this infrastructure. 
 - 18/9/2021 19:20 A stalker in the slavery network: "one day you'll understand that I'm your master and you are my dog." By the way in what they called "the program of techno" people, stalkers that work with Andreu and Francesca pass between them the function of stalking and torture. Why? Because them chief, **Andreu** and **Francesca**, sometimes demand that they do. Why? Because of black market traffic. Andreu and Francesca cover them.
 - 18/9/2021 21:55 **Francesca** struts calmly to command the traffic of people and drugs in Italy.
-- 20/9/2021 06:00 As usual wake up with torture, Andreu and Francesca also using Mafia threats and menace to be jailed for an injustice. I'm so tired of those idiots, those fascist, those terrorist.
+- 20/9/2021 06:00 As usual wake up with torture, **Andreu** and **Francesca** also using Mafia threats and menace to be jailed for an injustice. I'm so tired of those idiots, those fascist, those terrorist.
+- 20/9/2021 10:06 **Francesca** follow to brag herself to be protected by Camorra and Cosa Nostra.
+- 20/9/2021 23:43 **Francesca** use to treat me and usual she has done. Using people she start to speak about death by assassination. I'm so tired of this stupid that hasn't work one day in her life, this woman live destroying life of citizens. People that want to work in a legal way she forced them to be part of Mafia. She is a cancer in our Europe. A cancer to be annihilated. 
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
