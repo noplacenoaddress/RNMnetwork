@@ -1203,7 +1203,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 18/9/2021 17:36 **Francesca** follow as usual to treat me with criminals of various roots that she administrate with the Collserola tower. This woman has operate for more than twenty years in the Mediterranean area hide her behind this infrastructure. 
 - 18/9/2021 19:20 A stalker in the slavery network: "one day you'll understand that I'm your master and you are my dog." By the way in what they called "the program of techno" people, stalkers that work with Andreu and Francesca pass between them the function of stalking and torture. Why? Because them chief, **Andreu** and **Francesca**, sometimes demand that they do. Why? Because of black market traffic. Andreu and Francesca cover them.
 - 18/9/2021 21:55 **Francesca** struts calmly to command the traffic of people and drugs in Italy.
-- 20/9/2021 06:00 As usual wake up with torture, Andreu and Francesca also using Mafia threats and menace to be jailed for an injustice. I'm so tired of those idiots, those fascist, those terrorist.
+- 20/9/2021 06:00 As usual wake up with torture, **Andreu** and **Francesca** also using Mafia threats and menace to be jailed for an injustice. I'm so tired of those idiots, those fascist, those terrorist.
+- 20/9/2021 10:06 **Francesca** follow to brag herself to be protected by Camorra and Cosa Nostra.
+- 20/9/2021 23:43 **Francesca** use to treat me and usual she has done. Using people she start to speak about death by assassination. I'm so tired of this stupid that hasn't work one day in her life, this woman live destroying life of citizens. People that want to work in a legal way she forced them to be part of Mafia. She is a cancer in our Europe. A cancer to be annihilated. 
+- 21/9/2021 After a day of work, as usual, Francesca start to use Camorra to treat me about death. **Francesca** with **Andreu**, as I've said millions of times are the administrators of nowadays Mafia.
+- 21/9/2021 23:32  Francesca is obviously doing Mafia treats to me. I'm so tired.
+- 22/9/2021 07:21 I just wake up and **Andreu** and **Francesca** are doing electronic torture in my face and stomach. In my eyes, in my penis. It's absolutely incredible that no one, I repeat no one, say nothing about seeing a person that they have known from the youth about his torture. This is absolutely incredible. Someone is able to also threat me, like Massimo. Someone that have lost his mind in the panoptic jail, is able to threat a person under extreme torture from four years. He has got fear of jail, when he became a Mafia.
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
