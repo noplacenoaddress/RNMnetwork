@@ -1207,6 +1207,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 20/9/2021 10:06 **Francesca** follow to brag herself to be protected by Camorra and Cosa Nostra.
 - 20/9/2021 23:43 **Francesca** use to treat me and usual she has done. Using people she start to speak about death by assassination. I'm so tired of this stupid that hasn't work one day in her life, this woman live destroying life of citizens. People that want to work in a legal way she forced them to be part of Mafia. She is a cancer in our Europe. A cancer to be annihilated. 
 - 21/9/2021 After a day of work, as usual, Francesca start to use Camorra to treat me about death. **Francesca** with **Andreu**, as I've said millions of times are the administrators of nowadays Mafia.
+- 21/9/2021 23:32  Francesca is obviously doing Mafia treats to me. I'm so tired.
+- 22/9/2021 07:21 I just wake up and **Andreu** and **Francesca** are doing electronic torture in my face and stomach. In my eyes, in my penis. It's absolutely incredible that no one, I repeat no one, say nothing about seeing a person that they have known from the youth about his torture. This is absolutely incredible. Someone is able to also threat me, like Massimo. Someone that have lost his mind in the panoptic jail, is able to threat a person under extreme torture from four years. He has got fear of jail, when he became a Mafia.
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
