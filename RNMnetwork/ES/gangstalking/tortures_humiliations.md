@@ -1214,6 +1214,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 24/9/2021 18:13 Tomorrow I've got an important installation and **Andreu**, because to do it I've got to study a little bit about BGP, is doing sexual harass to me with **Francesca**. Andreu is service of Spain, he is the most corrupted person that I've seen in my life. With him mind he is thinking about my dick to put electric charge upon it.
 - 26/9/2021 22:59 Going to sleep and Francesca, that think to be untouchable because of her surname and nobility grade, because Jesuits protect herself and because in electronic warfare she has arruined life of an entire generation of people from Genoa says without thinking about nothing because using the remote neural network, the slavery network, the third type panoptic jail, think to be undetectable: "**if you want to stop the torture that I'm doing to you every day you've go to sell cocaine.**"
 - 27/9/2021 08:40 wake up in the morning as usual **Francesca** start to stalk, threat, humiliate, sexual harass me. I'm so tired that this idiot could torture in front of a lot of people and no one say nothing because was enslaved by her family.
+- 28/9/2021 04:22 francesca and Andreu wake me up with extreme electronic torture applied in my internals organs and brain. Francesca speak about that I've got to start sell cocaine for her drug cartel or I will die.
+- 28/9/2021 09:08 Francesca have created what is the current Mafia in Italy using the panoptic jail. All of them use sexual violence also with parents of victims.
+- 28/9/2021 14:23 **Aurora**: "in the cocaine market who doesn't sell die."
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
