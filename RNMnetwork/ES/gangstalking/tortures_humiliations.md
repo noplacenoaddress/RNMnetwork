@@ -1217,6 +1217,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 28/9/2021 04:22 francesca and Andreu wake me up with extreme electronic torture applied in my internals organs and brain. Francesca speak about that I've got to start sell cocaine for her drug cartel or I will die.
 - 28/9/2021 09:08 Francesca have created what is the current Mafia in Italy using the panoptic jail. All of them use sexual violence also with parents of victims.
 - 28/9/2021 14:23 **Aurora**: "in the cocaine market who doesn't sell die."
+- 29/9/2021 18:50 I'm working, as usual. Because I've done a very good day of work **Andreu** and Francesca start to sexual harass me. They stalk to me all the day and all night long with REM phase manipulation and theta wave injection. But in the late afternoon they always exaggerate. It's impossible, Andreu, that a military dedicated to electronic warfare use a civilian to attach others civilians. This civilian used, is tortured and raped. You are a military Andreu. You cannot follow with this horrible politic. Stop now.
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/233723836_10227116508921170_549967848909192707_n.jpg)
 
