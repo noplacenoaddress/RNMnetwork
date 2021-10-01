@@ -1228,7 +1228,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 1/10/2021 05:13 I cannot sleep, torture. Always torture. Francesca.
 - 1/10/2021 05:48 **Aurora** follow to copy the voice of saray,.
 - 1/10/2021 09:28 wake up with extreme electronic torture, obviously sleep deprivation. **Francesca** simply doesn't sleep.
-- 1/10/2021 22:11 **Francesca** start to torture without stop a moment. It's Friday night, like all the people that I've know when I was young in Genoa, who I was consider friend, are here. No one have thought to help a friend to do a complaint to the madness of a marquees with too much power.
+- 1/10/2021 22:11 **Francesca** start to torture without stop a moment. It's Friday night, like all the people that I've know when I was young in Genoa, who I was consider friend, are here. No one have thought to help a friend to do a complaint to the madness of a marquees with too much power. She speaks about to masturbate myself to don't go out my home because of danger and to go to sleep. This terrorist have applied the target individual program above myself from when I was an adolescent in Genoa. All know and have gain money over it. Have killed other friends of mine in front of a lot of people that I know.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
