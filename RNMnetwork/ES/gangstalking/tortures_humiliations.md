@@ -1237,6 +1237,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 2/10/2021 2025 Aurora follow to copy the voice of Saray. Remember that Saray is a target individual, a woman trafficked with end of forced prostitution from the drug and human traffic cartel administrated by Andreu and Francesca. **Saray** is a mommy and she has got a baby, it is normal that she has actuated in the systematic destruction of my life doing me psychological gender violence in 2015. Don't worry Saray I'm not a stupid, I know that you are in serious trouble because those idiots have enslaved you.
 - 3/10/2021 10:56 as I start to work **Andreu** connect me to electric torture using electromagnetic weapons. My stomach is heavy tortured giving me nausea. 
 - 3/10/2021 11:06 **Francesca**, as usual, speaks about cocaine. This idiot is one of the biggest drug traffic cartel of the Mediterranean area. Why she speaks about drug every moment? Simple she doesn't want that I work but she wants to force me to run drugs for his retarded cartel.
+- 3/10/2021 12:53 **Andreu** follow to stalk and speaking about drug abuse. Remember that I've know him and he is an heavy amphetamine addicted. Seriously? A military that work for protecting citizens? Yes, he is.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
