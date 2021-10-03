@@ -1239,7 +1239,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 3/10/2021 11:06 **Francesca**, as usual, speaks about cocaine. This idiot is one of the biggest drug traffic cartel of the Mediterranean area. Why she speaks about drug every moment? Simple she doesn't want that I work but she wants to force me to run drugs for his retarded cartel.
 - 3/10/2021 12:53 **Andreu** follow to stalk and speaking about drug abuse. Remember that I've know him and he is an heavy amphetamine addicted. Seriously? A military that work for protecting citizens? Yes, he is.
 - 3/10/2021 16:58 Andreu and Francesca do whatever they can do to let me loose my profession and job to start to sell cocaine. Those idiots are owner of the most important drug cartel in the Mediterranean area.
-- 3/10/2021 18:40 **Francesca** follow to apply to my body and my brain electric charges. I'm so tired of this **TERRORIST** that operate in the Mediterranean area.
+- 3/10/2021 18:40 **Francesca** follow to apply to my body and my brain electric charges. I'm so tired of this **TERRORIST** that operate in the Mediterranean area. She electro surcharge human brain because of complexity, people cannot work in complex problems and are reduced to little level work or to sell drug. As she is the owner of a drug cartel this is her best option with target individuals. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
