@@ -1245,7 +1245,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 4/10/2021 07:15 as usual wake with electroshock. Francesca start to treat with Cosa Nostra, this woman doesn't understand that I've written to Interpol with her surname saying the true about her administration of Mafias using the Collserola tower, electromagnetic weapons that hide the true. A service binded with different purposes, the target individual program that seen myself as victim, mafia administration is another, and administration of cocaine traffic another more. Have good day Francesca.
 - 4/10/2021 16:15 Speaking with **Francesca**: "what do you want from my life?" "I want that you'll commit suicide like Cristian done" "Why?" "Because of parimutuel betting system."
 - 4/10/2021 23:17 As I go to sleep, as usual because it is impossible in this country that that man could only speaks, **Andreu** start to stalk, speak about death treat, says that he has done me as a play card in the cocaine market and whatever his sick mind put in his hands. This is incredible. I only want to sleep fucking mafia! Has you understand me? No? Ok. 
-- 5/10/2021 21:12 **Aurora** start to stalk, speaking about Mafia and that she will pay someone to kill me when I will go to Italy.
+- 5/10/2021 21:12 **Aurora** start to stalk, speaking about Mafia and that she will pay someone to kill me when I will go to Italy. **Francesca** start to use electromagnetic weapons to do pain to my stomach.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
