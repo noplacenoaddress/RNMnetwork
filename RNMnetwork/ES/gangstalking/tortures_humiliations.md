@@ -1247,6 +1247,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 4/10/2021 23:17 As I go to sleep, as usual because it is impossible in this country that that man could only speaks, **Andreu** start to stalk, speak about death treat, says that he has done me as a play card in the cocaine market and whatever his sick mind put in his hands. This is incredible. I only want to sleep fucking mafia! Has you understand me? No? Ok. 
 - 5/10/2021 21:12 **Aurora** start to stalk, speaking about Mafia and that she will pay someone to kill me when I will go to Italy. **Francesca** start to use electromagnetic weapons to do pain to my stomach.
 - 5/10/2021 22:06 Aurora, that seems to follow orders from Andreu and Francesca, follow to stalk and saying stupidity. Say "Riccardo" because she treats me as if I were a small child who arrives at ten o'clock in the evening he has to go to sleep. It is part of the trafficking, the isolation and making a person believe he is not able to live even if under torture, always with the ultimate goal of suicide. Aurora, you are a human trafficking engineer and you have killed many of my friends.
+- 5/10/2021 **Aurora** speaking about my father, or my step father we will know, saying that is involved in traffic when I known perfectly that she works for the cocaine cartel owned by Francesca.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
