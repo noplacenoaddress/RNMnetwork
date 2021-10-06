@@ -1250,6 +1250,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 5/10/2021 **Aurora** speaking about my father, or my step father we will know, saying that is involved in traffic when I known perfectly that she works for the cocaine cartel owned by Francesca.
 - 6/10/2021 00:49 I go to sleep. immediately **Aurora** under the orders of Francesca use electromagnetic weapons from the Collserola tower to do me stomach pains, make me fart all the time and copy the shape and voice of my mother. This woman got an important role in a public company connected to Italian Navy. Why she works in "B-side" in the human trade network administrated by Francesca? It's very simple, for her carreer. This woman has killed and kill people for the Francesca surname only for her position. A position that derived only by favoritism, Francesca is also connected to Jesuits but she is also a noble, a marquees. 
 - 6/10/2021 03:22 **Francesca** follow to torture. Speaking about cocaine at 3 am. I'm tired Francesca i'm a little business man because you've got stolen to me three thousand customers in an accord with **Andreu**. Do you understand that I'm not a noble, I'm not catholic, and my life is working? no? Let see what united nation think about your electronic warfare.
+- 6/10/2021 08:04 just wake up with electroshock torture. **Andreu**: "all your life is a failure."
+- 6/10/2021 11:16 I've just send an email to a lawyer speaking about Ligurian racket and **Francesca** start to threat me.
+- 6/10/2021 14:22 **Francesca** only speaks about my death, that she will complain using electromagnetic weapons.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
