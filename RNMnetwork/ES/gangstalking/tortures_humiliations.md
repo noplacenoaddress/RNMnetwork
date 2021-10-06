@@ -1253,6 +1253,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 6/10/2021 08:04 just wake up with electroshock torture. **Andreu**: "all your life is a failure."
 - 6/10/2021 11:16 I've just send an email to a lawyer speaking about Ligurian racket and **Francesca** start to threat me.
 - 6/10/2021 14:22 **Francesca** only speaks about my death, that she will complain using electromagnetic weapons.
+- 6/10/2021 16:44 **Francesca** follow using a Cosa Nostra man to do death treat.
+- 6/10/2021 20:34 seeing a video of Amy Winehouse **Francesca** immediately say: "Riccardo why don't you commit suicide."
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
