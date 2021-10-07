@@ -1255,6 +1255,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 6/10/2021 14:22 **Francesca** only speaks about my death, that she will complain using electromagnetic weapons.
 - 6/10/2021 16:44 **Francesca** follow using a Cosa Nostra man to do death treat.
 - 6/10/2021 20:34 seeing a video of Amy Winehouse **Francesca** immediately say: "Riccardo why don't you commit suicide."
+- 7/10/2021 06:30 **Francesca** wake up in the morning and start to torture. Apply electroshock torture to all my body, she wants to create a slave. This is the new form of slavery, elite is using target individuals and persecutors to code automatic slavery. It's a soft type, in the next decades they will use electronic devices added to our nervous system and brain.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
