@@ -1261,6 +1261,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 7/10/2021 22:09 Francesca with Andreu start to speak about kidnapping, franquism, and sexual rape. Those idiots thinks that Europe is a joke. Let's see.
 - 7/10/2021 00:17 as usual I go to sleep and **Francesca** start to torture, to menace with Mafia, to speak about death, to manipulate, to do sexual harass to me and to say that if I don't sell cocaine I will die.
 - 8/10/2021 02:06 it's friday and Francesca as usual stalk to me because putting me tired. She want to isolate myself from society because of the target individual program. I don't go out because I'm working and I'm doing money because of complaints against her and her family. She is raping me also using electromagnetic weapons, she always speaks about masturbation because of torture and public humiliation. This woman is a marquees and have to be put in jail forever. 
+- 8/10/2021 08:30 good morning **Francesca**. As usual wake with electroshock torture.
+- 8/10/2021 09:10 As a wake up a man from Stidda, the fracture from Cosa Nostra provoked exactly by the Francesca family to create an extreme right division in the sicilian mafia, start to death treat me. I know him from when he was an adolescent. Incredible, but true.
+- 8/10/2021 11:42 Francesca speaking about Catalunya says that she is doing whatever she wants, she and her band of non state actors. Why? Because she doesn't live here and because republican sentiment of normal Catalan citizens. Those people are poisoning democracy here in Catalunya and in all Spain. Spain is one of the most important states for our united Europe. Francesca you're a terrorist.
+- 8/10/2021 15:17 idiots and morons are a lot in the slavery network, in carcelona, in the electromagnetic jail of torture administrated by Andreu and rented by Francesca. A site to model target individuals into mafia. I'm working. People here doesn't understand that who works, legally, doesn't want to loose time playing to video games that plays kids: mafia, GTA, hacking. Thank you guys.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
