@@ -1265,6 +1265,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 8/10/2021 09:10 As a wake up a man from Stidda, the fracture from Cosa Nostra provoked exactly by the Francesca family to create an extreme right division in the sicilian mafia, start to death treat me. I know him from when he was an adolescent. Incredible, but true.
 - 8/10/2021 11:42 Francesca speaking about Catalunya says that she is doing whatever she wants, she and her band of non state actors. Why? Because she doesn't live here and because republican sentiment of normal Catalan citizens. Those people are poisoning democracy here in Catalunya and in all Spain. Spain is one of the most important states for our united Europe. Francesca you're a terrorist.
 - 8/10/2021 15:17 idiots and morons are a lot in the slavery network, in carcelona, in the electromagnetic jail of torture administrated by Andreu and rented by Francesca. A site to model target individuals into mafia. I'm working. People here doesn't understand that who works, legally, doesn't want to loose time playing to video games that plays kids: mafia, GTA, hacking. Thank you guys.
+- 8/10/2021 16:09 **Francesca** follow to stalk me. With her group of non state actors they have killed, suiciding, IT professionals and DJ. Those are them victims. Why? Because of new technology in the first case and because the hate of youth groups in the seconds by Vatican and the elite in general. Francesca you will go in jail for ever I promise.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
