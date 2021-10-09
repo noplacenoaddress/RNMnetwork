@@ -1269,6 +1269,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 8/10/2021 21:19 **Francesca** follow to rape me with this weapon. This shit of woman is pervert, a sadist, a fascist, a terrorist, a drug dealer, a human dealer, work with Cosa Nostra in human traffic and with Camorra in drug traffic, has got contacts in military ambient of people totally corrupted that traffic from south America with cocaine, administrate fiscal paradises for high bourgeois of Genoa, is involved in forced prostitution and I don't know what ever. 
 - 9/10/2021 11:20 **Francesca** follow to underline that she wants that I die. "In Barcelona I've got my circuit of slavery."
 - 9/10/2021 13:49 **Francesca** in Barcelona got mounted a crew of people that play in human trade and in the virtual casino transmitted with the Collserola tower. It is a wash machine of mafia money, that have reflexion into construction business, IT and restoration.  Those all day long torture, not all of them, someone. It seems that they pass day by day like a token of threat and torture.
+- 9/10/2021 19:29 Francesca follow to speak about that my father was in word with her father, that has die in 2000, to let us married. Listen to me, human trader, Cristian had die, Gian Maria had die, Francesco has been putted in jail. Listen to me, cocaine trafficker, you'll go to jail for ever. I promise.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
