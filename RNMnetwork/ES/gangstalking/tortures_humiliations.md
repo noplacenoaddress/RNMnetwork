@@ -1272,6 +1272,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 9/10/2021 19:29 Francesca follow to speak about that my father was in word with her father, that has die in 2000, to let us married. Listen to me, human trader, Cristian had die, Gian Maria had die, Francesco has been putted in jail. Listen to me, cocaine trafficker, you'll go to jail for ever. I promise.
 - 9/10/2021 23:26 With this kind of torture many guys in united states have killed people shooting, because of simplicity of found a automatic gun. Francesca is saying: "why don't you buy a gun and come to search for me, you can go where my mother and shoot. Poor idiot, you're a marquees and you're involved in cocaine and human traffic."
 - 10/10/2021 03:00 **Francesca** and her band of idiot of the Ligurian racket and others mafias, follow to torture a citizens that only want to work because is victim of all the spanish penal code. Those morons think that utilizing electromagnetic weapons could induct him to suicide. **Good yacht mr.**
+- 10/10/2021 10:00 As usual wake with electroshock torture. Inside my body, always in the stomach and in the throat. As usual **Francesca** and **Andreu**. They never sleep. Drugs abuse have destroyed those people, from being, probably the twos, nobles now they are hangman.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
