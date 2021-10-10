@@ -1273,6 +1273,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 9/10/2021 23:26 With this kind of torture many guys in united states have killed people shooting, because of simplicity of found a automatic gun. Francesca is saying: "why don't you buy a gun and come to search for me, you can go where my mother and shoot. Poor idiot, you're a marquees and you're involved in cocaine and human traffic."
 - 10/10/2021 03:00 **Francesca** and her band of idiot of the Ligurian racket and others mafias, follow to torture a citizens that only want to work because is victim of all the spanish penal code. Those morons think that utilizing electromagnetic weapons could induct him to suicide. **Good yacht mr.**
 - 10/10/2021 10:00 As usual wake with electroshock torture. Inside my body, always in the stomach and in the throat. As usual **Francesca** and **Andreu**. They never sleep. Drugs abuse have destroyed those people, from being, probably the twos, nobles now they are hangman.
+- 10/10/2021 15:23 **Aurora** screaming in my cell of exploitation but in other neural modulation, probably the one above the head of **Andreu** (the chief), is saying that I cannot work in my passion because I've got to die. Because I'm victim of human trade. **Aurora** is the son of an important physic of Genoa, is very common that this man have worked in him career in the development of this Nazi technology. What I've called "modern slavery".
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
