@@ -1274,6 +1274,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 10/10/2021 03:00 **Francesca** and her band of idiot of the Ligurian racket and others mafias, follow to torture a citizens that only want to work because is victim of all the spanish penal code. Those morons think that utilizing electromagnetic weapons could induct him to suicide. **Good yacht mr.**
 - 10/10/2021 10:00 As usual wake with electroshock torture. Inside my body, always in the stomach and in the throat. As usual **Francesca** and **Andreu**. They never sleep. Drugs abuse have destroyed those people, from being, probably the twos, nobles now they are hangman.
 - 10/10/2021 15:23 **Aurora** screaming in my cell of exploitation but in other neural modulation, probably the one above the head of **Andreu** (the chief), is saying that I cannot work in my passion because I've got to die. Because I'm victim of human trade. **Aurora** is the son of an important physic of Genoa, is very common that this man have worked in him career in the development of this Nazi technology. What I've called "modern slavery".
+- 10/10/2021 21:40 **Andreu**: "Riccardo Giuntoli you have come to death".
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
