@@ -1271,6 +1271,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 9/10/2021 13:49 **Francesca** in Barcelona got mounted a crew of people that play in human trade and in the virtual casino transmitted with the Collserola tower. It is a wash machine of mafia money, that have reflexion into construction business, IT and restoration.  Those all day long torture, not all of them, someone. It seems that they pass day by day like a token of threat and torture.
 - 9/10/2021 19:29 Francesca follow to speak about that my father was in word with her father, that has die in 2000, to let us married. Listen to me, human trader, Cristian had die, Gian Maria had die, Francesco has been putted in jail. Listen to me, cocaine trafficker, you'll go to jail for ever. I promise.
 - 9/10/2021 23:26 With this kind of torture many guys in united states have killed people shooting, because of simplicity of found a automatic gun. Francesca is saying: "why don't you buy a gun and come to search for me, you can go where my mother and shoot. Poor idiot, you're a marquees and you're involved in cocaine and human traffic."
+- 10/10/2021 03:00 **Francesca** and her band of idiot of the Ligurian racket and others mafias, follow to torture a citizens that only want to work because is victim of all the spanish penal code. Those morons think that utilizing electromagnetic weapons could induct him to suicide. Good yacht mr.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
