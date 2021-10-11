@@ -1275,6 +1275,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 10/10/2021 10:00 As usual wake with electroshock torture. Inside my body, always in the stomach and in the throat. As usual **Francesca** and **Andreu**. They never sleep. Drugs abuse have destroyed those people, from being, probably the twos, nobles now they are hangman.
 - 10/10/2021 15:23 **Aurora** screaming in my cell of exploitation but in other neural modulation, probably the one above the head of **Andreu** (the chief), is saying that I cannot work in my passion because I've got to die. Because I'm victim of human trade. **Aurora** is the son of an important physic of Genoa, is very common that this man have worked in him career in the development of this Nazi technology. What I've called "modern slavery".
 - 10/10/2021 21:40 **Andreu**: "Riccardo Giuntoli you have come to death".
+- 10/10/2021 22:56 **Francesca**: "i've decided to torture you until your death."
+- 11/10/2021 07:17  Wake up with dream injection. As usual threats. The family of Francesca and another Naples renting space in the tower of Collserola have enslaved youth modeling new mafias. Youth reduced to diary drug abuse, entering in the drug market, have been putted in jail because of "infami", people that with police corruption organize arrests (in reality who will be them chief), enslaved by the panoptic jail for neural weapons development, they think that this is the new method of mafia telecommunication, something organized like a television format, it seems "big brother".  Do you know Gomorra, the serie? It's the same however of lower level. Incredible.
+- 11/10/2021 19:35 **Francesca** saying that she will call to a man of Cosa Nostra to kill me.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
