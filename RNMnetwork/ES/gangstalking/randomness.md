@@ -174,7 +174,7 @@ In Genoa in the last thirty years a couple of friends or known people have died 
 - Giovanni Tabacco, car accident near **Recco** [[40]](https://it.wikipedia.org/wiki/Recco), Genoa.
 - Emanuele, commit suicide in **Acquasola** [[41]](https://it.wikipedia.org/wiki/Spianata_dell%27Acquasola) district Genoa. Brother of the wife of a good friend. He is also in this network. 
 - A boy die for **ketamine** [[42]](https://psychonautwiki.org/wiki/Ketamine) overdose in a house in **Corso Aurelio Saffi** [[43]](https://www.google.com/maps/place/Corso+Aurelio+Saffi,+Genova+GE,+Italy/@44.3979061,8.9355303,17z/data=!3m1!4b1!4m5!3m4!1s0x12d343c5a4e06421:0x26cb8b4657199e8a!8m2!3d44.3979061!4d8.937719). Very strange in the nineties and fatal ketamine overdose are particularly rare,  but not unheard of. However, the exact toxic dosage is unknown. So it was something like what I've lived with LSD, this is almost surely not ketamine.  
-- **GianMaria Vincenti** [[44]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html) die for a motorbike accident at very low speed in an intersection in Albaro district, Genoa. We cry a lot, rest in peace my very good friend. He died at 22 years old on 19 of December 2004. 
+- **GianMaria Vincenti** [[44]](https://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/12/19/albaro-ventenne-si-schianta-in-moto.html) die for a motorbike accident at very low speed in an intersection in Albaro district, Genoa. We cry a lot, rest in peace my very good friend. He died at 22 years old on 19 of December 2004.  Him father was, because he has dead, lawyer of Silvio Berlusconi. The panopticon is covered by what they call postmodern television, a trick to hide the real purposes of the panopticon, an exploitation camp where people dead for development and gambling. Nobles play, military buy neural states of poor people tortured. Like me.
 - Cristian Sessarego commit suicide in a psychiatric hospital. **Clinica Maugeri** [[45\]](https://www.icsmaugeri.it/dove-siamo/ics-genova-nervi). An **article** [[46\]](http://www.genovatoday.it/cronaca/nervi-suicidio-ospedale.html) in a local newspaper say that he was mental sick. *But no he wasn't*. He was a great man. One victim of this criminal system. This is the true. 12 May of 2016 at 9:30.
 
 Now rest in peace of you, my friends.
@@ -312,6 +312,8 @@ Probably my father is affected by a terrible mental complex the one that **Franc
 On 2014 perhaps 2013 my father give me a present. A present that I've lost in **my house** [[71]](http://telecomlobby.com/RNMnetwork/ES/gangstalking/canyelles.htm) when the owner of the same change my keys and I've lost all what my possessions. 
 
 One pair of **cufflinks** [[72]](https://en.wikipedia.org/wiki/Cufflink). In Italian "gemelli".
+
+### Houses where my parents or supposedly friends have entered me in my youth.
 
 
 
