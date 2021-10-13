@@ -315,7 +315,19 @@ One pair of **cufflinks** [[72]](https://en.wikipedia.org/wiki/Cufflink). In Ita
 
 ### Houses where my parents or supposedly friends have entered me in my youth.
 
+![](https://raw.githubusercontent.com/noplacenoaddress/RNMnetwork/master/Images/nobili_genovesi.jpeg)
 
+
+
+As I'm victim of human trade by high class Genoese families my parents, or step parents better saying obviously, have taken me to a lot of houses of big surnames. They are not exactly noble but represents without any doubt who have gained money with my exploitation, thief and gambling. Who have systematically destroyed my life for economic purposes. 
+
+I public them because I'm under torture, they want to kill me because of gambling and exploitation. I'm victim of human trade, and I'm a play card of that sadistic game and I don't want to sell drug or to be a prostitute. I don't want to have a baby because I don't want to give them more money from slavery. I write them surnames because I know them, someone very well. They are assassins. And they have born in families that live upon human trading.
+
+1) **Durand de la Penne**, it's the contact with military world and Jesuits. I've know her when I was nine at the primary school. I went to her house whit Francesca, who is torturing me every day from 27 of November 2017.
+
+2) **Fasce**, a good boy when I was young. I know him also in the primary school.  He lives near Durand and him name is Matteo. I don't know if he is here, very common that yes he is. But I know also another of the same surname, and yes he is here. Giulio.
+
+3) 
 
 ### External Links
 
