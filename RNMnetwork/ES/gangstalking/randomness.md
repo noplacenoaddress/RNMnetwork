@@ -323,9 +323,9 @@ As I'm victim of human trade by high class Genoese families my parents, or step 
 
 I public them because I'm under torture, they want to kill me because of gambling and exploitation. I'm victim of human trade, and I'm a play card of that sadistic game and I don't want to sell drug or to be a prostitute. I don't want to have a baby because I don't want to give them more money from slavery. I write them surnames because I know them, someone very well. They are assassins. And they have born in families that live upon human trading.
 
-1) **Durand de la Penne**, it's the contact with military world and Jesuits. I've know her when I was nine at the primary school. I went to her house whit Francesca, who is torturing me every day from 27 of November 2017.
+1) **Dur.**, it's the contact with military world and Jesuits. I've know her when I was nine at the primary school. I went to her house whit Francesca, who is torturing me every day from 27 of November 2017. Probably her families use Jesuits to hide money from genoese B-side, that is commonly human trade and drug management. Good families that in reality are human trader. They maintain their status quo by hustling and not working. Playing kids for life and not building good feats. People who kill who have let into their house in front of the astonished face of their wives unaware of the carnage that hides behind the wealth.
 
-2) **Fasce**, a good boy when I was young. I know him also in the primary school.  He lives near Durand and him name is Matteo. I don't know if he is here, very common that yes he is. But I know also another of the same surname, and yes he is here. Giulio.
+2) **Fa.**, a good boy when I was young. I know him also in the primary school.  He lives near Durand and him name is Matteo. I don't know if he is here, very common that yes he is. But I know also another of the same surname, and yes he is here. Giulio.
 
 3) 
 
