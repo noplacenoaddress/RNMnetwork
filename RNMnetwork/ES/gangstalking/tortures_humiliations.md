@@ -1295,6 +1295,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 18/10/2021 2355, **Francesca** and her band as usual sleep deprivation. Why? Every time that I've got customers to install in my little business that I've reopened after an organized thief always from the same group they torture me. They want to reduce myself in the marginal society, as it was passed to a lot of people. Why? Because of neural weapons development. Nothing more.
 - 19/10/2021 01:02 Francesca and her band of idiots, follow to torture. Only because I work. seventy four pages of torture, some of them aren't bad guys. But totally idiots. **Crimes against humanity**. Sayonara freedom. 
 - 19/10/2021 02:20 Francesca follow to torture. Sleep deprivation, electroshock torture. It seems to be that with Andreu is playing at chess about drug and human traffic management above my head, as I'm the table of playing. Francesca as I'm writing is saying that someone of her band of idiots will shoot me down.
+- 21/10/2021 08:010 dream injection. sexual dream injection with this neural manipulation machine i wake up with my hand upon my penis. Those people think to attract myself to join them with sexual promises. Yesterday other dream injection with sexual rape by a man, one of the armed hand. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
