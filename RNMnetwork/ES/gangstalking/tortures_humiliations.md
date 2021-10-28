@@ -1311,6 +1311,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 28/10/2021 11:29 inside my exploitation and persecution cell mounted upon my neural modulation stalkers, mafias and paramilitaries say to me that I've got to pay one millon euro to got control of the brain machine interface and stop to be tortured. They say that I've got to pay to Cosa Nostra, the mafia that they use to protect themselves as it has been delegated by those idiots as the mafia that administrate human traffic. Now I know who them are, let's dance.
 - 28/10/2021 12:39 Francesca follow to stalk me. Saying that she has put all Mafia in front of me to avoid that I'll do a total compliant. This stupid use this method. Put fear and insecurity with torture to a target individual, doing so she thinks that a person will not put her in jail. Stupid idiot!
 - 28/10/2021 18:55 **Andreu**, a service, a military of electronic warfare, a criminal follow to say: "Riccardo don't smell cocaine or your father will let you suicide". This criminal, that is a legal service in Spain, have killed Cristian, a friend of us.
+- 28/10/2021 19:20 **Francesca** follow to sexual harass me. Also follow to threat me speaking about a Cosa Nostra member that she will send to me to beat me, this idiot think that I will not do a complaint against her, her family and all the people of Genoa that are present into my cell of exploitation because of fear about this Mafia.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
