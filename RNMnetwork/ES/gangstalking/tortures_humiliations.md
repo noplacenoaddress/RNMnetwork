@@ -1307,6 +1307,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 27/10/2021 21:28 I've just returned to put flayers into houses to promote my work. This idiot, **Francesca**, start to speak about cocaine, about **Cosa Nostra**, and as usual because she doesn't stop a moment to torture me with electroshock torture apply to almost all my internals organs. This stupid use this method to put insecurity into victims. Also use baby mafias to do the same. Not so baby because now they've got like 40 but for victims yes they are. Because use friendship to trick victims. 
 - 27/10/2021 23:30 **Aurora**, **Francesca** and **Andreu** when I go to the bed start to heavy torture me with electromagnetic charges apply in my stomach and ass. STOP TORTURE! 
 - 27/10/2021 23:46 **Francesca**: "if I torture to you, you've got to shut up!".
+- 28/10/2021 01:01 sleep deprivation again and again. **Francesca** is one of the sickness person that I've listen in my life. This crazy doesn't sleep. Doesn't stop to torture. Doesn't stop to smell cocaine.
+- 28/10/2021 11:29 inside my exploitation and persecution cell mounted upon my neural modulation stalkers, mafias and paramilitaries say to me that I've got to pay one millon euro to got control of the brain machine interface and stop to be tortured. They say that I've got to pay to Cosa Nostra, the mafia that they use to protect themselves as it has been delegated by those idiots as the mafia that administrate human traffic. Now I know who them are, let's dance.
+- 28/10/2021 12:39 Francesca follow to stalk me. Saying that she has put all Mafia in front of me to avoid that I'll do a total compliant. This stupid use this method. Put fear and insecurity with torture to a target individual, doing so she thinks that a person will not put her in jail. Stupid idiot!
+- 28/10/2021 18:55 **Andreu**, a service, a military of electronic warfare, a criminal follow to say: "Riccardo don't smell cocaine or your father will let you suicide". This criminal, that is a legal service in Spain, have killed Cristian, a friend of us.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
