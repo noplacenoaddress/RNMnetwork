@@ -1322,10 +1322,11 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 31/10/2021 15:05 **Francesca** doesn't stop to stalk. She is totally mind sick. 
 - 1/11/2021 10:11 as this night was Halloween Andreu and Francesca, drugs addicted, don't let me sleep. Now I'm working doing invoices and she follow to stalk. And she underline that she wants one millions of Eur to archive access to the remote BMI and to not being tortured or beated or shooted by Mafia. 
 - 1/11/2021 19:57 **Aurora**, engineering of human trade that work for Francesca family, start to threat me with Camorra and Cosa Nostra. 
-- 1/11/2021 21:38 I got to sleep and Francesca, as usual, start to electroshock myself with electromagnetic weapons. This torturer, a marquees, loose totally her mind behind drug addiction. It's totally impossible that a clear mind could continue to torture every day and every night from exactly four years! This is scandal this woman have to be jailed for life. Help.
+- 1/11/2021 21:38 I got to sleep and **Francesca**, as usual, start to electroshock myself with electromagnetic weapons. This torturer, a marquees, loose totally her mind behind drug addiction. It's totally impossible that a clear mind could continue to torture every day and every night from exactly four years! This is scandal this woman have to be jailed for life. Help.
 - 2/11/2021 03:37 dream injection, always Francesca. She doesn't stop. And she follow to sexual harass me every minutes of her life. She doesn't stop to think about my penis.
-- 2/11/2021 22:24 Francesca knows that I want to write to Church to let me go away from that confession because I'm victim of human trade from her family connected to Jesuits, and follow to say that this is a game. Yes a game, with Cosa Nostra, human trading and black market management. Yes Francesca yes.
-- 3/11/2021 05:08 sleep deprivation, Francesca is all week long that is awake. Electroshock torture.
+- 2/11/2021 22:24 **Francesca** knows that I want to write to Church to let me go away from that confession because I'm victim of human trade from her family connected to Jesuits, and follow to say that this is a game. Yes a game, with Cosa Nostra, human trading and black market management. Yes **Francesca** yes.
+- 3/11/2021 05:08 sleep deprivation, **Francesca** is all week long that is awake. Electroshock torture.
+- 3/11/2021 08:05 **Aurora** and a man from **center Italy mafia** follow to stalk. Follow to humiliate. Follow to saying that all what they have done is for my suicide. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
