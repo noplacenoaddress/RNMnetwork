@@ -1324,6 +1324,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 1/11/2021 19:57 **Aurora**, engineering of human trade that work for Francesca family, start to threat me with Camorra and Cosa Nostra. 
 - 1/11/2021 21:38 I got to sleep and Francesca, as usual, start to electroshock myself with electromagnetic weapons. This torturer, a marquees, loose totally her mind behind drug addiction. It's totally impossible that a clear mind could continue to torture every day and every night from exactly four years! This is scandal this woman have to be jailed for life. Help.
 - 2/11/2021 03:37 dream injection, always Francesca. She doesn't stop. And she follow to sexual harass me every minutes of her life. She doesn't stop to think about my penis.
+- 2/11/2021 22:24 Francesca knows that I want to write to Church to let me go away from that confession because I'm victim of human trade from her family connected to Jesuits, and follow to say that this is a game. Yes a game, with Cosa Nostra, human trading and black market management. Yes Francesca yes.
+- 3/11/2021 05:08 sleep deprivation, Francesca is all week long that is awake. Electroshock torture.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
