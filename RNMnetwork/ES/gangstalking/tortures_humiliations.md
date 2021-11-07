@@ -1327,6 +1327,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 2/11/2021 22:24 **Francesca** knows that I want to write to Church to let me go away from that confession because I'm victim of human trade from her family connected to Jesuits, and follow to say that this is a game. Yes a game, with Cosa Nostra, human trading and black market management. Yes **Francesca** yes.
 - 3/11/2021 05:08 sleep deprivation, **Francesca** is all week long that is awake. Electroshock torture.
 - 3/11/2021 08:05 **Aurora** and a man from **center Italy mafia** follow to stalk. Follow to humiliate. Follow to saying that all what they have done is for my suicide. 
+- 7/11/2021 09:30 It's like ten days that Francesca and Andreu doesn't sleep. Andreu, as I know, is totally addicted to amphetamine but also Francesca, that is a noble, is an addicted probably to psychotropic drugs and cocaine. As I wake up, today I've sleep because yesterday I've done a very physic heavy work, she starts to speak about Cosa Nostra, death threats and cocaine. This woman is an assassin, she is the chief Cosa Nostra in Genoa, many people have die.   
+- 7/11/2021 21:45 Francesca is the worst addicted woman that I've listen into my entire life. Her state of madness is enormous. I cannot do nothing, nothing at all, that she follow to torture, stalk, sexual harass me. This woman is totally mad. Help.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
