@@ -1330,6 +1330,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 7/11/2021 09:30 It's like ten days that **Francesca** and **Andreu** doesn't sleep. Andreu, as I know, is totally addicted to amphetamine but also Francesca, that is a noble, is an addicted probably to psychotropic drugs and cocaine. As I wake up, today I've sleep because yesterday I've done a very physic heavy work, she starts to speak about Cosa Nostra, death threats and cocaine. This woman is an assassin, she is the chief Cosa Nostra in Genoa, many people have die.   
 - 7/11/2021 21:45 **Francesca** is the worst addicted woman that I've listen into my entire life. Her state of madness is enormous. I cannot do nothing, nothing at all, that she follow to torture, stalk, sexual harass me. This woman is totally mad. Help.
 - 8/11/2021 07:28 dream injection and electroshock torture all night long. Francesca, Cosa Nostra and Andreu.
+- 8/11/2021 13:15 **Francesca** follow to torture me, I'm tired.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
