@@ -1331,7 +1331,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 7/11/2021 21:45 **Francesca** is the worst addicted woman that I've listen into my entire life. Her state of madness is enormous. I cannot do nothing, nothing at all, that she follow to torture, stalk, sexual harass me. This woman is totally mad. Help.
 - 8/11/2021 07:28 dream injection and electroshock torture all night long. Francesca, Cosa Nostra and Andreu.
 - 8/11/2021 13:15 **Francesca** follow to torture me, I'm tired.
-- 8/11/2021 23:12 It's four years that every day. Every. When I go to sleep Francesca start to heavy stalk me. Four years.
+- 8/11/2021 23:12 It's four years that every day. Every. When I go to sleep **Francesca** start to heavy stalk me. Four years. She is also sexual torturing me.
+- 9/11/2021 19:53 I go to sleep. Very soon because of torture of the last two weeks. Very heavy. I've wrote to the archbishop of Barcelona because of the madness of **Francesca**. The woman that have organized my human trade in the human trade network transmitted by electromagnetic weapons.  **Aurora** says, always using threats as a part of torture for sure: "your father got fear that your mom will die". Little mafia, better saying little slave, shut up your mouth, use only as the only think that you know to do. And you know what is.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
