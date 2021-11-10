@@ -1333,6 +1333,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 8/11/2021 13:15 **Francesca** follow to torture me, I'm tired.
 - 8/11/2021 23:12 It's four years that every day. Every. When I go to sleep **Francesca** start to heavy stalk me. Four years. She is also sexual torturing me.
 - 9/11/2021 19:53 I go to sleep. Very soon because of torture of the last two weeks. Very heavy. I've wrote to the archbishop of Barcelona because of the madness of **Francesca**. The woman that have organized my human trade in the human trade network transmitted by electromagnetic weapons.  **Aurora** says, always using threats as a part of torture for sure: "your father got fear that your mom will die". Little mafia, better saying little slave, shut up your mouth, use only as the only think that you know to do. And you know what is.
+- 10/11/2021 10:22 **Francesca** start to speak about cocaine every minutes. This moron, that is addicted and totally guilty about human trade administrated with electromagnetic weapons as torture and as a IT system, think that people fall into drug addiction. 
+- 10/11/2021 12:49 **Aurora** follow to say that why I'm speaking about my human trade. Why I'm doing it because we know when we was adolescents. Obviously Aurora one of the strongest point of the human trade organized with IT is the fact that your environment, included the family and friends, became your torture ambient. Is obvious, it is based over the betrayal that normally brings people the commit suicide. And all those criminals go ahead with another history of human trade. This is how it works stupid, horrible criminals mixed with technology and management military software.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
