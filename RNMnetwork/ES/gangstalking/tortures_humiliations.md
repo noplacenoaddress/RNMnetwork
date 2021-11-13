@@ -1340,6 +1340,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 10/11/2021 19:56 **Aurora** follow to speak about the guiltiness of my parents about what she calls "the game" about my suicide. She follow to say that I'm taking drugs when it's not true. This woman, that is the engineer of my human trade, play in parimutuel betting system about my life with nobles and high society families  of Genoa. 
 - 13/11/2021 10:24 **Francesca** and **Andreu** follow to torture my brain with electromagnetic weapons, my daily work is seriously affected by them terrorism that pertain to what is called cognitive war. A crime against humanity.
 - 13/11/2021 20:53 **Francesca** follow to sexual harass me. Is incredible how a marquees has lost her mind with electronic warfare. This system work with a remote brain machine interface for operators, better saying tortures. This woman think about my penis every minutes of the day. In the night she doesn't sleep obviously totally drugged. She is a cocaine and human trafficker and in her life she could has been whatever. A great woman with a lot of people working for her. But no. She is a torturer. They live gaining money from mafias traffic without moving an hand in a pyramid way. They live with slavery.
+- 13/11/2021 21:40 Francesca: "you're going to be killed from Mafia, speaking about Cosa Nostra and Sardinia mafia."
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
