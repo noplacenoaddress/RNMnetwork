@@ -1348,6 +1348,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 15/11/2021 23:40 Francesca follow to torture with electroshock, she has got fear of jail for life. This woman is more than three weeks that doesn't sleep a minute. I don't really know what kind and how much drugs she takes. She is the queen of human traffic in the Mediterranean area. 
 - 16/11/2021 08:57 Francesca and Andreu: "you will die for a shoot"
 - 16/11/2021 12:54 Obviously is from when Francesca have start to torture me that I don't have a normal sexual life. From 27 of November of 2017. This stupid think that I will loose faith in myself. Francesca you are torturing me like a prisoner of Abu Ghraib  doing a crime against humanity in front of certainly almost the people that I've known in my life and no one say nothing. You are in jail forever, I promise.
+- 16/11/2021 23:11 Francesca follow to use Mafia threats join together with Andreu, a man deeply involved in organized crime in Catalunya. Probably a service or a man with contact in services, and in nobility. Used to poison the Catalan immigrant by elite.  In Generalitat by the way always there was been persecution to immigrants. Generalitat elite speak fair right racism. 
+- 17/11/2021 09:48 I sleep in a very bad way, under torture. When i wake up after dream manipulation, Andreu seems to be more brave. Why? They use tiredness and torture to put fear inside victims. How? As usual Cosa Nostra.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
