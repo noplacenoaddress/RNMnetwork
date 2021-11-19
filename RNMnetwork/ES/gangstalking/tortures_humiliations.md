@@ -1350,6 +1350,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 16/11/2021 12:54 Obviously is from when Francesca have start to torture me that I don't have a normal sexual life. From 27 of November of 2017. This stupid think that I will loose faith in myself. Francesca you are torturing me like a prisoner of Abu Ghraib  doing a crime against humanity in front of certainly almost the people that I've known in my life and no one say nothing. You are in jail forever, I promise.
 - 16/11/2021 23:11 Francesca follow to use Mafia threats join together with Andreu, a man deeply involved in organized crime in Catalunya. Probably a service or a man with contact in services, and in nobility. Used to poison the Catalan immigrant by elite.  In Generalitat by the way always there was been persecution to immigrants. Generalitat elite speak fair right racism. 
 - 17/11/2021 09:48 I sleep in a very bad way, under torture. When i wake up after dream manipulation, Andreu seems to be more brave. Why? They use tiredness and torture to put fear inside victims. How? As usual Cosa Nostra.
+- 18/11/2021 00:30 Francesca doesn't stop a moment to torture. 
+- 19/11/2021 03:00 Dream manipulation, a man from Camorra. Francesca and Andreu use "play cards", victims of human trade that known every component of mafia operating in Genoa to put one family or another in jail. Why? Because in reality they are the same group, they share bank account. To confuse police. 
+- 19/11/2021 22:30 As usual I go to sleep and **Francesca** start to sexual harass and torture myself using electromagnetic weapons. STOP IT NOW. It's four years that this terrorist using her important surname is torturing my person in an exploitation cell transmitted by weapons. **It's impossible that people die because of ignorance and stupidity of others**. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
