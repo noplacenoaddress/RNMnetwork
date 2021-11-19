@@ -1352,7 +1352,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 17/11/2021 09:48 I sleep in a very bad way, under torture. When i wake up after dream manipulation, Andreu seems to be more brave. Why? They use tiredness and torture to put fear inside victims. How? As usual Cosa Nostra.
 - 18/11/2021 00:30 Francesca doesn't stop a moment to torture. 
 - 19/11/2021 03:00 Dream manipulation, a man from Camorra. Francesca and Andreu use "play cards", victims of human trade that known every component of mafia operating in Genoa to put one family or another in jail. Why? Because in reality they are the same group, they share bank account. To confuse police. 
-- 19/11/2021 22:30 As usual I go to sleep and **Francesca** start to sexual harass and torture myself using electromagnetic weapons. STOP IT NOW. It's four years that this terrorist using her important surname is torturing my person in an exploitation cell transmitted by weapons. **It's impossible that people die because of ignorance and stupidity of others**. 
+- 19/11/2021 22:30 As usual I go to sleep and **Francesca** start to sexual harass and torture myself using electromagnetic weapons. STOP IT NOW. It's four years that this terrorist using her important surname is torturing my person in an exploitation cell transmitted by weapons. **It's impossible that people die because of ignorance and stupidity of others**. Francesca say that if I'll join a Mafia she will stop to torture me. This is how she obtains to reduce people to black market. Black market where she gains a lot of money because without any doubt she has contacts directly in south America for cocaine traffic. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
