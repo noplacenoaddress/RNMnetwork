@@ -1355,6 +1355,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 19/11/2021 22:30 As usual I go to sleep and **Francesca** start to sexual harass and torture myself using electromagnetic weapons. STOP IT NOW. It's four years that this terrorist using her important surname is torturing my person in an exploitation cell transmitted by weapons. **It's impossible that people die because of ignorance and stupidity of others**. Francesca say that if I'll join a Mafia she will stop to torture me. This is how she obtains to reduce people to black market. Black market where she gains a lot of money because without any doubt she has contacts directly in south America for cocaine traffic. 
 - 20/11/2021 06:16 **Francesca** has passed all night long applying electrical streams on my prostate getting mild sperm output.
 - 20/11/2021 18;56 Today I've worked in a good way, every step that I've done Francesca speak about cocaine and Cosa Nostra threats. I'm tired of this addicted.
+- 21/11/2021 18:31 **Andreu** and **Francesca** follow to torture me all day long.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
