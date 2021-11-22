@@ -1356,6 +1356,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 20/11/2021 06:16 **Francesca** has passed all night long applying electrical streams on my prostate getting mild sperm output.
 - 20/11/2021 18;56 Today I've worked in a good way, every step that I've done Francesca speak about cocaine and Cosa Nostra threats. I'm tired of this addicted.
 - 21/11/2021 18:31 **Andreu** and **Francesca** follow to torture me all day long.
+- 22/11/2021 18:58 Francesca doing threats to me all day long as usual, and now a big phrase that I like to write: "you cannot do nothing with me, I'm who administrate all Mafia"
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
