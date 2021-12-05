@@ -1365,6 +1365,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 28/11/2021 22:27 **Aurora**, the engineering behind **Francesca**, start to speak with a loud volume positioning with modulation of neural weapons her voice inside my head.  Today a boss of Cosa Nostra had die in Genoa, doctors had diagnose him cognitive problems. They found him death after a strange walk in the train rails. Without any doubt was killed by Francesca and families that work for her, extreme right. 
 - 30/11/2021 06:00 I wake up, immediately **Francesca** start to threat me with Cosa Nostra. One of the goals of the target individual program applied to the catholic human trade in the Mediterranean area is to isolate the victim putting in him mind fear about foolishness like that I cannot go out in the night because of Mafia. Francesca Europe is of citizens not of Mafia stupid! 
 - 1/12/2021 23:08 **Francesca**: "until you will commit suicide I'll not stop to torture yourself."
+- 6/12/2021 it's some days that I don't write, **Francesca** as usual hasn't sleep a minute. She doesn't stop to torture. I'm so tired.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
