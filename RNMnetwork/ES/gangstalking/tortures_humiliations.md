@@ -1366,6 +1366,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 30/11/2021 06:00 I wake up, immediately **Francesca** start to threat me with Cosa Nostra. One of the goals of the target individual program applied to the catholic human trade in the Mediterranean area is to isolate the victim putting in him mind fear about foolishness like that I cannot go out in the night because of Mafia. Francesca Europe is of citizens not of Mafia stupid! 
 - 1/12/2021 23:08 **Francesca**: "until you will commit suicide I'll not stop to torture yourself."
 - 6/12/2021 it's some days that I don't write, **Francesca** as usual hasn't sleep a minute. She doesn't stop to torture. I'm so tired.
+- 6/12/2021 03:48 Francesca doesn't stop to torture.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
