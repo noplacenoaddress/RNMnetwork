@@ -1369,7 +1369,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 6/12/2021 03:48 Francesca doesn't stop to torture.
 - 12/12/2021 23:00 days have passed that I don't even write about Francesca and her terrorism madness, simply because it is always the same. Those crack addicted doesn't stop a minute to torture. It's not automatic torture, it's her. Is impossible that this woman is so mad, she is the most ridiculous terrorist that mankind could have been seen. 
 - 13/12/2021 01:44 **Francesca** in a delirium says: "I'm your master". No fucking marquees you are a terrorist.
-- 13/12/2021 20:32 Francesca is all day long that apply direct current into my stomach because "I've eaten pig". this is why in her fascist roots there is "plotone 10 mas and I maiali". This terrorist and pederast family is decades that torture people in the Mediterrean area in the name of the Church. In the name of Jesuits.
+- 13/12/2021 20:32 **Francesca** is all day long that apply direct current into my stomach because "I've eaten pig". this is why in her fascist roots there is "plotone 10 mas and I maiali". This terrorist and pederast family is decades that torture people in the Mediterrean area in the name of the Church. In the name of Jesuits.
+- 13/12/2021 23:43 As I've done a complaint against **Andreu** and his band of stalkers that are using electromagnetic weapons installed in the third part of the Collserola tower to torture me he is using them in heavy mode. It's time that he doesn't do this.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
