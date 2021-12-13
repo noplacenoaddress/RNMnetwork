@@ -1368,6 +1368,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 6/12/2021 it's some days that I don't write, **Francesca** as usual hasn't sleep a minute. She doesn't stop to torture. I'm so tired.
 - 6/12/2021 03:48 Francesca doesn't stop to torture.
 - 12/12/2021 23:00 days have passed that I don't even write about Francesca and her terrorism madness, simply because it is always the same. Those crack addicted doesn't stop a minute to torture. It's not automatic torture, it's her. Is impossible that this woman is so mad, she is the most ridiculous terrorist that mankind could have been seen. 
+- 13/12/2021 01:44 **Francesca** in a delirium says: "I'm your master". No fucking marquees you are a terrorist.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
