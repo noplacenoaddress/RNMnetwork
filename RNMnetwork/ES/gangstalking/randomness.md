@@ -101,7 +101,7 @@ The name of the fraction is **Bergolo** [[7]](https://it.wikipedia.org/wiki/Berg
 
 First of all look at the wikipedia article. This fraction has got only 68 residents but the article is translated in 29 languages! Next look at the "g" letter in the playbill, it's without any doubt a "9"; the "C" capital letter it's a crescent moon, the **herald** [[10]](https://en.wikipedia.org/wiki/Herald) from the important noble surname in Catalunya got the same symbol.
 
-Here something terrible happen to me and to one of the two brothers of Francesca, the owner of the "Illuminati" game, the pseudo dictatorship facility that is killing a lot of people in Catalunya nowadays in 2019. His name was Alessandro.
+Here something terrible happen to me and to one of the two brothers of Francesca, the owner of the "Illuminati" game, the pseudo dictatorship facility that is killing a lot of people in Catalunya nowadays in 2019. 
 
 *What happen to me?*
 
@@ -115,11 +115,7 @@ Remember what I'm saying about this hell network? I speak about virtual rape, so
 
 This is something related to MKUltra project, and I'm victim of, and I'm in perfect mental state. A friend of mine have try to kill me in that moment because he hides me from the ambulance. The name of " José Rodríguez Delgado" could be behind.
 
-Military technology evolved. Alessandro like Francesca are nephew of a second world war hero, Luigi. And I just survived, a friend of mine hid me from an ambulance that called another person and I have the exact memory. I could not move and he kept me on the ground with one foot instead of showing me to the medical staff.
-
-*What happen to Alessandro at Cortemilia on 10 of September 2001?*
-
-> Un lungo rettilineo affrontato a grande velocità e poi quel tornante improvviso, inaspettato, il ragazzo che perde il controllo della maximoto e vola oltre il guardrail: è morto così, all' una di sabato notte, sull' asfalto del paesino piemontese di Cortemilia, il venticinquenne genovese Alessandro [...]. Era il nipote dell' eroico ammiraglio, Luigi, che ad Alessandria d' Egitto nel dicembre del ' 41 con i mitici «maiali» della Marina Militare aveva affondato due navi inglesi (Queen Elisabeth, Vailant) ed una petroliera da sedicimila tonnellate. Alessandro, studente universitario, terzo di tre figli, poco meno di un anno fa aveva perduto il padre, Renzo, stroncato da una malattia improvvisa. Aveva deciso di trascorrere il sabato sera in compagnia di alcuni vecchi amici come Patrick Dinner, che con la fidanzata lo aveva accompagnato ad una sagra nell' entroterra, a poca distanza da Cairo Montenotte ma già in provincia di Cuneo. Secondo la ricostruzione fatta dai carabinieri della Compagnia di Alba, intervenuti sul luogo della tragedia, terminata la festa i due giovani _ entrambi in sella a moto di grossa cilindrata _ a grande velocità si sarebbero lasciati alle spalle il paese. Quasi una gara, terminata all' altezza di quella curva: entrambi sono volati a terra, ma mentre Patrick è uscito quasi illeso dall' incidente, Alessandro nonostante il casco integrale ha riportato un gravissimo trauma cranico ed è deceduto pochi minuti dopo. Ieri mattina è toccato ai militari rintracciare a Genova, nel quartiere di Sturla, la madre del ragazzo, per comunicarle la terribile notizia. Simpatico, estroverso, generoso ed amatissimo da tutti, grande appassionato di moto, Alessandro era uno dei nipoti preferiti dell' ammiraglio Luigi, medaglia d' oro e parlamentare, deceduto nel gennaio del ' 92 a 78 anni.   
+Military technology evolved. 
 
 A fatal motorbike accident tragedy. Near the same fraction. Three years later. An accident like what I've lived on 28 November of 2015, the start of my systematic disruption of my life in Barcelona. They say in radio frequency that they bet over my death. And I personally know all of them.
 
@@ -321,7 +317,7 @@ One pair of **cufflinks** [[72]](https://en.wikipedia.org/wiki/Cufflink). In Ita
 
 As I'm victim of human trade by high class Genoese families my parents, or step parents better saying obviously, have taken me to a lot of houses of big surnames. They are not exactly noble but represents without any doubt who have gained money with my exploitation, thief and gambling. Who have systematically destroyed my life for economic purposes. 
 
-I public them because I'm under torture, they want to kill me because of gambling and exploitation. I'm victim of human trade, and I'm a play card of that sadistic game and I don't want to sell drug or to be a prostitute. I don't want to have a baby because I don't want to give them more money from slavery. I write them surnames because I know them, someone very well. They are assassins. And they have born in families that live upon human trading.
+I public them because I'm under torture, they want to kill me because of gambling and exploitation. I'm victim of human trade, and I'm a play card of that sadistic game and I don't want to sell drug or to be a prostitute. I don't want to have a baby because I don't want to give them more money from slavery. I write them surnames because I know them, someone very well. And they have born in families that live upon human trading.
 
 1) **Dur.**, it's the contact with military world and Jesuits. I've know her when I was nine at the primary school. I went to her house whit Francesca, who is torturing me every day from 27 of November 2017. Probably her families use Jesuits to hide money from genoese B-side, that is commonly human trade and drug management. Good families that in reality are human trader. They maintain their status quo by hustling and not working. Playing kids for life and not building good feats. People who kill who have let into their house in front of the astonished face of their wives unaware of the carnage that hides behind the wealth.
 
