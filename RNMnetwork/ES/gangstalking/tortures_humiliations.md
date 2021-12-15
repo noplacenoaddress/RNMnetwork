@@ -1372,6 +1372,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 13/12/2021 20:32 **Francesca** is all day long that apply direct current into my stomach because "I've eaten pig". this is why in her fascist roots there is "plotone 10 mas and I maiali". This terrorist and pederast family is decades that torture people in the Mediterrean area in the name of the Church. In the name of Jesuits.
 - 13/12/2021 23:43 As I've done a complaint against **Andreu** and his band of stalkers that are using electromagnetic weapons installed in the third part of the Collserola tower to torture me he is using them in heavy mode. It's time that he doesn't do this.
 - 14/12/2021 16:38 **Francesca** singing: "to Mafia you cannot say no". Dear moron, to Mafia every European citizen have say no. 
+- 14/12/2021 01:09 **Francesca** is screaming while I'm trying to sleep. Someone will say how? Modulating her voice into my auditive cortex with electromagnetic weapons. Those weapons are a piece of the human trade network. Where are them? Are hidden behind a civilian installation, the important Collserola tower.
+- 16/12/2021 00:34 **Francesca** follow to torture, with her Mafia, her paramilitaries and a lot of components of Ligurian racket.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
