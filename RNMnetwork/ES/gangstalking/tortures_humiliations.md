@@ -1374,6 +1374,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 14/12/2021 16:38 **Francesca** singing: "to Mafia you cannot say no". Dear moron, to Mafia every European citizen have say no. 
 - 14/12/2021 01:09 **Francesca** is screaming while I'm trying to sleep. Someone will say how? Modulating her voice into my auditive cortex with electromagnetic weapons. Those weapons are a piece of the human trade network. Where are them? Are hidden behind a civilian installation, the important Collserola tower.
 - 16/12/2021 00:34 **Francesca** follow to torture, with her Mafia, her paramilitaries and a lot of components of Ligurian racket.
+- 16/12/2021 02:17 **Andreu** (**a neofranquist** hidden behind punk movement): "**I love torture**".
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
