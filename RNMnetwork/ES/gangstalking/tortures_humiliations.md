@@ -1375,6 +1375,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 14/12/2021 01:09 **Francesca** is screaming while I'm trying to sleep. Someone will say how? Modulating her voice into my auditive cortex with electromagnetic weapons. Those weapons are a piece of the human trade network. Where are them? Are hidden behind a civilian installation, the important Collserola tower.
 - 16/12/2021 00:34 **Francesca** follow to torture, with her Mafia, her paramilitaries and a lot of components of Ligurian racket.
 - 16/12/2021 02:17 **Andreu** (**a neofranquist** hidden behind punk movement): "**I love torture**".
+- 16/12/2021 14:30 I'm seeing a page about rom deportation in auschwitz camp. Francesca "do you think that they was living in a bad way"? Fucking nazi shut up.
+- 20/12/2021 0000 as usual Francesca and Andreu had tortured me every days but I'm tired to write about because the do always the same thinks. Torture my lungs, penis, and stomach; speak about that Cosa Nostra is untouchable and that I cannot do complaints against; speak about drug abuse always about cocaine because they want that I start to sell drug for them. This is the target individual program, Andreu is a little bit human, Francesca is the most terrific sadistic person that I would have known in my life.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
