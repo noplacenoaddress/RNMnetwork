@@ -1377,6 +1377,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 16/12/2021 02:17 **Andreu** (**a neofranquist** hidden behind punk movement): "**I love torture**".
 - 16/12/2021 14:30 I'm seeing a page about rom deportation in auschwitz camp. Francesca "do you think that they was living in a bad way"? Fucking nazi shut up.
 - 20/12/2021 0000 as usual Francesca and Andreu had tortured me every days but I'm tired to write about because the do always the same thinks. Torture my lungs, penis, and stomach; speak about that Cosa Nostra is untouchable and that I cannot do complaints against; speak about drug abuse always about cocaine because they want that I start to sell drug for them. This is the target individual program, Andreu is a little bit human, Francesca is the most terrific sadistic person that I would have known in my life.
+- 20/12/2021 08:30 as usual all night long Francesca torture me, rem phase alteration and internal organs torture with electromagnetic weapons. Wake up and start to speak about Mafia threats and death.
+- 20/12/2021 14:39 I'm just start cleaning my house because of noel. Kidding about Francesca i just say "when I'll record my brain activity (not so difficult with a lot of electrodes upon my head like 128) and translate EEG into words I will ask to church that she will be exorcised because she is a totally sick sadist" and two people here in my torture instances of the human trade network affirm that she does all what she can to protect them. Who do they are? operators of human trade, mafia, criminals. Good Francesca! GO AHEAD!
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
