@@ -1383,6 +1383,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 21/13/2021 01:40 **Francesca** follow to stalk and torture me while I want only to sleep, she follow with **Aurora** to speak about Cosa Nostra. STOP THOSE TERRORIST NOW.
 - 21/12/2021 05:28 those terrorist follow to torture all night long. With the stupidity of human trade persecution **Francesca** is torturing I don't know how many people from Genoa. Sleep deprivation. With her madness I'll put in jail people that she had formed as criminals, they were my friends. STOP THIS TERRORIST NOW. Why she does it? To delete traces of her criminal activity every ten or fifteen years she changes "Mafias".
 - 22/12/2021 17:46 I'm working as usual. This idiot of **Francesca**, a marquees, that doesn't has nothing to do all the day is heavy stalk me with her slavery administrator, **Andreu**. The twos is humiliating, sexual harass and torturing me all the day long.
+- 23/12/2021 00:50 as usual, always, always the same. I go to sleep, **Francesca** and **Aurora** start to torture me. It's some days that they make my head itch by applying very light electrical charges to the skin.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
