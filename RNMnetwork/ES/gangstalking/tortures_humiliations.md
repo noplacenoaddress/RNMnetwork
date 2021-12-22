@@ -1381,6 +1381,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 20/12/2021 14:39 I'm just start cleaning my house because of noel. Kidding about Francesca i just say "when I'll record my brain activity (not so difficult with a lot of electrodes upon my head like 128) and translate EEG into words I will ask to church that she will be exorcised because she is a totally sick sadist" and two people here in my torture instances of the human trade network affirm that she does all what she can to protect them. Who do they are? operators of human trade, mafia, criminals. Good **Francesca**! GO AHEAD!
 - 20/12/2021 22:38 **Francesca** trying to explain why I'm victim of human trade: "you don't pertain to the social class where is permitted being a business man."
 - 21/13/2021 01:40 **Francesca** follow to stalk and torture me while I want only to sleep, she follow with **Aurora** to speak about Cosa Nostra. STOP THOSE TERRORIST NOW.
+- 21/12/2021 05:28 those terrorist follow to torture all night long. With the stupidity of human trade persecution **Francesca** is torturing I don't know how many people from Genoa. Sleep deprivation. With her madness I'll put in jail people that she had formed as criminals, they were my friends. STOP THIS TERRORIST NOW. Why she does it? To delete traces of her criminal activity every ten or fifteen years she changes "Mafias".
+- 22/12/2021 17:46 I'm working as usual. This idiot of **Francesca**, a marquees, that doesn't has nothing to do all the day is heavy stalk me with her slavery administrator, **Andreu**. The twos is humiliating, sexual harass and torturing me all the day long.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
