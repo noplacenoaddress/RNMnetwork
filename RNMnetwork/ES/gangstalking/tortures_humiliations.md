@@ -1388,6 +1388,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 23/12/2021 13:20 I'm writing compliant against every component of the human trade criminal group that persecute myself from when I was a child in Genoa and then in Barcelona. Francesca follow to speak about that she will kidnap me. 
 - 25/12/2021 18;05 merry Christmas, those terrorist follow to torture and humiliating me. I'm tired about them impunity because of the surnames. 
 - 25/12/2021 19:46 "the delirium of Francesca". One woman that was born in a marquees and will terminate her life in a two meters square jail. Stupid moron stop torture. 
+- 26/12/2021 23:00 this monster of Francesca is the queen of massive human trade active nowadays in the Mediterrean area hided by the "secret" electromagnetic weapons transmitted slavery network. All is mounted in the third part of the Collserola tower. With that facility she administrate human trade and Mafia.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
