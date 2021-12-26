@@ -1389,6 +1389,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 25/12/2021 18;05 merry Christmas, those terrorist follow to torture and humiliating me. I'm tired about them impunity because of the surnames. 
 - 25/12/2021 19:46 "the delirium of Francesca". One woman that was born in a marquees and will terminate her life in a two meters square jail. Stupid moron stop torture. 
 - 26/12/2021 23:00 this monster of Francesca is the queen of massive human trade active nowadays in the Mediterrean area hided by the "secret" electromagnetic weapons transmitted slavery network. All is mounted in the third part of the Collserola tower. With that facility she administrate human trade and Mafia.
+- 27/12/2021 00:27 She follow to torture with her human trade engineer Aurora. She says I don't stop to torture because I want that you loose confidence in yourself. She doesn't stop to sexual harass me. This monster is guilty with her crew of morons of a chain of assassinations masked behind suicides, incidents, overdoses. They are guilty of massive human trade with the final goal of a business. Sold of neural state for weapons develop, a business connected with military and terrorism. Help Interpol.  
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
