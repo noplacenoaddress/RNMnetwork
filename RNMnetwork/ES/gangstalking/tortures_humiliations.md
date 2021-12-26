@@ -1384,6 +1384,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 21/12/2021 05:28 those terrorist follow to torture all night long. With the stupidity of human trade persecution **Francesca** is torturing I don't know how many people from Genoa. Sleep deprivation. With her madness I'll put in jail people that she had formed as criminals, they were my friends. STOP THIS TERRORIST NOW. Why she does it? To delete traces of her criminal activity every ten or fifteen years she changes "Mafias".
 - 22/12/2021 17:46 I'm working as usual. This idiot of **Francesca**, a marquees, that doesn't has nothing to do all the day is heavy stalk me with her slavery administrator, **Andreu**. The twos is humiliating, sexual harass and torturing me all the day long.
 - 23/12/2021 00:50 as usual, always, always the same. I go to sleep, **Francesca** and **Aurora** start to torture me. It's some days that they make my head itch by applying very light electrical charges to the skin.
+- 23/12/2021 09:00 wake up in the morning after as usual all night long of torture and my brain in heavy charged by electric direct current transmitted by weapons that **Francesca** is using to torture me.  
+- 23/12/2021 13:20 I'm writing compliant against every component of the human trade criminal group that persecute myself from when I was a child in Genoa and then in Barcelona. Francesca follow to speak about that she will kidnap me. 
+- 25/12/2021 18;05 merry Christmas, those terrorist follow to torture and humiliating me. I'm tired about them impunity because of the surnames. 
+- 25/12/2021 19:46 "the delirium of Francesca". One woman that was born in a marquees and will terminate her life in a two meters square jail. Stupid moron stop torture. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
