@@ -1394,6 +1394,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 27/12/2021 11:28 I'm working as I start to ISP is difficult and with a lot of problems, like was in Meswifi. One idiot, that I know from I was adolescent (incredible), start to stalk me if I'm sure if I want to go ahead or I don't what the hell he is saying. Stupid shut up and think about your life, crack addicted. 
 - 27/12/2021 18:30 I'm writing complaints to Mafia components administrated by **Francesca** using the network transmitted by electromagnetic weapons and she immediately start to torture me.
 - 28/12/2021 11:50 **Francesca** follow to death threat my parents saying that she will kill them.
+- 28/12/2021 12:23 **Aurora**, the engineer of human trade working in the Catalan territory for Francesca persecuting internal Spanish immigrant and also European and extra European ones, follow to stalk Saray. 
+- 28/12/2021 14:31 **Francesca** doesn't stop a minute to torture. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
