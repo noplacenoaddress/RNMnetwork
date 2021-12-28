@@ -1393,6 +1393,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 27/12/2021 06:00 dream manipulation with something of horrible quality, **Francesca**, as usual, is torturing me using her brain machine interface to operate the human trade network weapons upon my brain. Francesca is a marquees, what had destroyed her life? The church, others nobles and jealousy. She is terrible affected by torture. **Remember that doing torture dehumanize.** When I was young my father let me see something of that quality, an horror show transmitted in first night  schedule. I don't really say that he is guilty of my trade but without any doubt he was knowing that I'm. So yes he is guilty.
 - 27/12/2021 11:28 I'm working as I start to ISP is difficult and with a lot of problems, like was in Meswifi. One idiot, that I know from I was adolescent (incredible), start to stalk me if I'm sure if I want to go ahead or I don't what the hell he is saying. Stupid shut up and think about your life, crack addicted. 
 - 27/12/2021 18:30 I'm writing complaints to Mafia components administrated by **Francesca** using the network transmitted by electromagnetic weapons and she immediately start to torture me.
+- 28/12/2021 11:50 **Francesca** follow to death threat my parents saying that she will kill them.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
