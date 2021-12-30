@@ -1396,6 +1396,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 28/12/2021 11:50 **Francesca** follow to death threat my parents saying that she will kill them.
 - 28/12/2021 12:23 **Aurora**, the engineer of human trade working in the Catalan territory for Francesca persecuting internal Spanish immigrant and also European and extra European ones, follow to stalk Saray. 
 - 28/12/2021 14:31 **Francesca** doesn't stop a minute to torture. 
+- 28/12/2021 23:12 while doing compliant to Mafia components that work for Francesca, she has ordered without any doubt to a fellow of Cosa Nostra to write me in whatsup. And I've just send an email to my advocate about him and some Camorra components.
+- 29/12/2021 02:13 **Francesca** doesn't stop to copy voices of Mafia components that are present here but don't torture. **Andreu** is the only that torture. Francesca follow to say "you're death".
+- 29/12/2021 15:56 **Francesca**, **Nicola** and his family, **Aurora**, follow to death threat me with Cosa Nostra fellow that live in Genoa. It's all the day that they heavy torture me.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
