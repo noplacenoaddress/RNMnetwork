@@ -1401,7 +1401,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 29/12/2021 15:56 **Francesca**, **Nicola** and his family, **Aurora**, follow to death threat me with Cosa Nostra fellow that live in Genoa. It's all the day that they heavy torture me.
 - 29/12/2021 22:10 **Aurora** funny saying: "they kill him they kill him". Fucking perturbed don't smell cocaine.
 - 30/12/2021 06:00 wake up as usual for electroshock torture. Always **Francesca**. Always state terrorism, Vatican state terrorism. As I'm doing complaint against Mafia that is administrated by her using the Collserola tower she is heavy torturing me, it's not possible Italian state call her the nephew of a war hero. A war error I call them.
-- 30/12/2021 10:34 **Francesca** saying without any problem: "my obsession is to kill victims of human trade"
+- 30/12/2021 10:34 **Francesca** saying without any problem: "my obsession is to kill victims of human trade". And follow that say that I've got to have fear of Mafia. She doesn't want that I put her in jail, your impunity Francesca is impossible to archive your surname is stained forever you're involved in human trade and torture. FULL STOP.
+- 30/12/2021 18:30 I'm studying for [#radioham](https://twitter.com/hashtag/radioham?src=hashtag_click) Spanish course and Francesca is heavy stalk me with electromagnetic weapons. I'm victim of human trade and this marquees is torturing me every day. I'm studying to obtain a call sign to transmit in emergency frequencies help to NATO.
+- 30/12/2021 22:30 **Francesca** remarking that all the people that I've known are millionaire because of Mafia administrated silently with electromagnetic weapons. Next she shays that I'm a pedophile when her family live upon death of child that they have known in the past. Her family live of human trade.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
