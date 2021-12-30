@@ -1399,6 +1399,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 28/12/2021 23:12 while doing compliant to Mafia components that work for Francesca, she has ordered without any doubt to a fellow of Cosa Nostra to write me in whatsup. And I've just send an email to my advocate about him and some Camorra components.
 - 29/12/2021 02:13 **Francesca** doesn't stop to copy voices of Mafia components that are present here but don't torture. **Andreu** is the only that torture. Francesca follow to say "you're death".
 - 29/12/2021 15:56 **Francesca**, **Nicola** and his family, **Aurora**, follow to death threat me with Cosa Nostra fellow that live in Genoa. It's all the day that they heavy torture me.
+- 29/12/2021 22:10 **Aurora** funny saying: "they kill him they kill him". Fucking perturbed don't smell cocaine.
+- 30/12/2021 06:00 wake up as usual for electroshock torture. Always **Francesca**. Always state terrorism, Vatican state terrorism. As I'm doing complaint against Mafia that is administrated by her using the Collserola tower she is heavy torturing me, it's not possible Italian state call her the nephew of a war hero. A war error I call them.
+- 30/12/2021 10:34 **Francesca** saying without any problem: "my obsession is to kill victims of human trade"
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
