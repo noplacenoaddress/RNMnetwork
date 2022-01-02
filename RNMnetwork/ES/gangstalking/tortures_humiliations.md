@@ -1405,7 +1405,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 30/12/2021 18:30 I'm studying for [#radioham](https://twitter.com/hashtag/radioham?src=hashtag_click) Spanish course and Francesca is heavy stalk me with electromagnetic weapons. I'm victim of human trade and this marquees is torturing me every day. I'm studying to obtain a call sign to transmit in emergency frequencies help to NATO.
 - 30/12/2021 22:30 **Francesca** remarking that all the people that I've known are millionaire because of Mafia administrated silently with electromagnetic weapons. Next she shays that I'm a pedophile when her family live upon death of child that they have known in the past. Her family live of human trade.
 - 30/12/2021 01:27 **Francesca** and Aurora doesn't stop to electroshock me because tomorrow is the last day of the year, meanwhile a lot of people from Genoa also doesn't sleep. Sleep deprivation a form of torture.
-- 2/1/2021 11:42 **Francesca** as usual follow to torture and threats about Mafia. As usual all day long, it's impossible to don't put her in jail for life.
+- 2/1/2021 11:42 **Francesca** as usual follow to torture and threats about Mafia. As usual all day long, it's impossible to don't put her in jail for life. Those moron think that people depend of them.
+- 2/1/2021 20:05 **Andreu** follow to stalk me with him version because of corruption into psychiatric hospitals. In this country, Catalonia, Cosa Nostra and the family of Francesca that are nobles got power over it. Them corruption have take Cristian another victim to kill him self into an hospital in Genoa. Those terrorist have put me into one for a normal call of diseases like I've got denunciate already.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
