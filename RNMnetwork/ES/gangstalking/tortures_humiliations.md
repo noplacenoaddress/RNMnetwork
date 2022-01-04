@@ -1410,6 +1410,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 3/1/2021 01:00 extreme torture by **Andreu**, heavy rem phase manipulation.
 - 3/1/2021 07:30 wake up as usual Francesca with mafia threats. She says "you've got to do what I'm saying to you, dog." She has administrated a Cosa Nostra family for twenty years and now she wants to eliminate them.
 - 3/1/2021 23:15 **Francesca** as usual I go to sleep and start to stalk me. It's impossible how this woman isn't arrested by interpol.
+- 4/1/2021 02:50 **Francesca** as usual with **Aurora** and the gang of **Mafia** of Genoa that stalk and torture me.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
