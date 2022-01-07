@@ -1420,6 +1420,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 6/1/2022 This sick dog of **Andreu**, a dog that poison the Catalan society because them republican sentiment, follow to say stupidities about that I cannot do complaint against him and the human trade network transmitted upon the heads of the Catalans. 
 - 7/1/2022 Aurora speaking with **Francesca**: "do you think that he will commit suicide?"
 - 7/1/2022 05:25 heavy stalk by **Francesca** and **Aurora**. Wake up for electroshock torture.
+- 7/1/2022 09:51 **Francesca** follow to torture. Now she apply electroshock to my stomach using electromagnetic weapons. Follow to humiliate and stalk. I'm so tired.
 
 
 
