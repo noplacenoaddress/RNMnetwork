@@ -1418,6 +1418,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 4/1/2021 17:27 I've got to go out to install an antenna and **Francesca**, as usual, start to speak about cocaine.
 - 4/1/2021 00:00 I've just returned to running another client in Redama, my wireless internet service provider. As usual **Francesca** in my neural torture application saying that I'm a drugs addicted. I don't really know what she is saying like always. Every time that I install a new client she starts stalking that I'm doing it under drug effect. **Francesca**, dear sweetie, you've tortured me from yesterday night because of this installation. **Francesca**, how many substances are in your blood? Behind her way to act there is a program, something that was programmed to obtain a new type of slavery. Electronic slavery. An enormous attack to democracy. She acts always in the same manner, and yes. She is. Torturing for her, because of the gravity of the crime, engineers. Why do they do it? For them career. Do them gain money for that crime? No.
 - 6/1/2022 This sick dog of **Andreu**, a dog that poison the Catalan society because them republican sentiment, follow to say stupidities about that I cannot do complaint against him and the human trade network transmitted upon the heads of the Catalans. 
+- 7/1/2022 Aurora speaking with **Francesca**: "do you think that he will commit suicide?"
+- 7/1/2022 05:25 heavy stalk by **Francesca** and **Aurora**. Wake up for electroshock torture.
 
 
 
