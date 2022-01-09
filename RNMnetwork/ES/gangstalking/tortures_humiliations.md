@@ -1422,6 +1422,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 7/1/2022 05:25 heavy stalk by **Francesca** and **Aurora**. Wake up for electroshock torture.
 - 7/1/2022 09:51 **Francesca** follow to torture. Now she apply electroshock to my stomach using electromagnetic weapons. Follow to humiliate and stalk. I'm so tired.
 - 9/1/2022 00:40 as usual Francesca, Aurora and Andreu apply to my earth electric charges using electromagnetic weapons with millimeter precision. with this method earth beat flow a little bit i think that people that couldn't explain it have gone to hospital and here with corruption they have started to think to be sick. With this method the new mafia, te audiovisual one have killed a lot. Aurora in a night delirium "your parents are not able to see you die." Dear human trade engineer your parents will see them only son in jail for life. Good job sister! JA,JA. 
+- 9/1/2022 16:45 as usual **Francesca** doing stalking with all her band of mafia. **Andreu** the same. So tired of the Catholic terrorism. 
 
 
 
