@@ -34,19 +34,25 @@ More than this I've suffered:
 
 ![Operation](http://telecomlobby.com/Images/op.png)
 
-But the worst think is that the women that i love was sold in forced prostitution after be victim of a very heavy brainwashing technique and sadomasochist sexual slavery. 
+#### About the forced detention and medical abuses
 
-> *I love you sweetie, be careful. Don't accept drug from anyone. Take care my sun flower.* 
+First of all I want to underline that I'm a human traffic victim. European human trade. Next that I've done complain about in two forms, one doing a claim to the hospital the second doing a complain. The claim was answered attaching drug abuse but is totally, and I repeat totally, false. The second was rejected by the court.
+
+This is what occurred: 
+
+In May 2018 I called the medical emergency system to be attended by an ambulance, the state in which I was was a general malaise due to fatigue and heat. In the ambulance, the treatment was reasonable and the two nurses, a woman and a man, controlled my basic values and took me to the Hospital Clinic in Barcelona. Here they take me to the second floor, better saying as level number 3 of the official Spanish system of triage. 
+Here  i' ve suffered various abuse in a rapid escalation:  
+they held me with mechanical and pharmacological retention systems for 12 hours. When it was time to mechanically stop me, the staff, one nurse in particular, were very violent, dislocating my shoulder and bending my wrist where I have needles due to a surgical operation. I had no urine or faeces drainage systems applied and I had to hold my urine for twelve hours. After six hours, I was injected with a second dose of the drug retention system. The next day I was moved without my consent to a psychiatric hospital always mechanically detained. In the psychiatric hospital, Moises Broggi hospital of San Joan Despí, a kind of judge obliges me to receive treatment without being able to leave the hospital precinct. I was not expected by any lawyer. After a week, where every day they wanted to administer medicine that I skilfully did not ingest, I left due to a permit of release. Inside the hospital he also suffered an intent to rape another patient, which did not evolve into anything particularly serious. The main problem is that in hindsight I discovered that I have been a victim of human trafficking since adolescence. Various Italian, Catalan and Spanish mafias are involved in the trafficking, as well as a Spanish paramilitary operating on Catalan soil together with a trafficking group. Behind a noble Genoese family, the city in which I was born. Everything that happened to me corresponds exactly to the execution of a program of human trade.
+
+#### Final considerations
+
+But the worst think is that the women that was in love to is also victim of human trade, sold in forced prostitution after be victim of a very heavy brainwashing technique and sadomasochist sexual slavery. 
 
 ![ti amo](http://telecomlobby.com/Images/tiamo.png)
 
-So I realize that I'm under slavery by a radio technology network the remote neural monitoring network that nowadays is based on a TETRA system modified. My history is similar to what is explained here:
+My history is similar to what is explained here:
 
 - **The next terrorist assault, TETRA** [[20]](http://telecomlobby.com/RNMnetwork/documents/THE%20NEXT%20TERRORIST%20ASSAULT_%20TETRA.pdf).
-
-I'm totally in love with my ex girlfriend Saray and she is also a victim of this control system where our life is subjected to slavery, parimutuel betting system and to be humans guineas pigs to the development of technology by high tech firm. All directed by nobility in a corrupted Europe.
-
-*Please help Felipe VI, king of Spain. Help house of Bourbon.* 
 
 ### External links
 
