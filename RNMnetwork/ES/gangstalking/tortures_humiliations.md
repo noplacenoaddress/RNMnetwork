@@ -1434,6 +1434,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 13/1/2022 01:50 **Aurora** have you finished to torture me? No it's all my life that I want to kill you, because I and my family play in human trade and you've got to die. She is member of human trade cartel of Genoa. Above them **Francesca** that rent the service to that small criminal group, normal families with good surnames that got a B side: human trade. Service is transmitted by the Collserola tower hided behind civilian installation of FM broadcast.
 - 13/1/2022 16:01 **Francesca** pass as usual all, absolutely all, day long torturing me. It's an enormous crime against humanity the remote neural control and interference network, a new kind of slavery administrate from their comfort houses while they transform our home into a torture environment. She also affirm that, like is obvious, that all what have destroyed systematically my life, including interaction of people classified as Mafia by the state, she was who order them. She is basically the instigator of all the crimes that have happened to me in my life.
 - 13/1/2022 18:00 **Francesca** without any doubt says: "Cosa Nostra rule." Ok, I'm not a mafia I'm a citizen for me is not important your slavery market Francesca. Stop doing sexual violence to me. 
+- 13/1/2022 18:55 **Francesca** follow to death threat me and to say that she will order my kidnap. Another time Francesca?
+- 13/1/2022 22:56 **Francesca** in a delirium: "you don't understand that I've got all Mafia below my feet". Stupid what you have got is a service that you rent to Mafia and others like terrorist. Sweetie prepare yourself to live in two squares meters.
 
 
 
