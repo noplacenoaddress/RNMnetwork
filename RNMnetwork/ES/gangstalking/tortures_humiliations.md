@@ -1436,8 +1436,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 13/1/2022 18:00 **Francesca** without any doubt says: "Cosa Nostra rule." Ok, I'm not a mafia I'm a citizen for me is not important your slavery market Francesca. Stop doing sexual violence to me. 
 - 13/1/2022 18:55 **Francesca** follow to death threat me and to say that she will order my kidnap. Another time Francesca?
 - 13/1/2022 22:56 **Francesca** in a delirium: "you don't understand that I've got all Mafia below my feet". Stupid what you have got is a service that you rent to Mafia and others like terrorist. Sweetie prepare yourself to live in two squares meters.
-
-
+- 14/1/2022 03:52 It's one week that **Francesca** doesn't let me sleep. This night she is delirious about cocaine and drug abuse. What she takes to achieve don't sleep one day. I don't really know how much barbiturates and amphetamine she takes. 
+- 15/1/2022 **Francesca** doesn't stop a minute to torture. This monster totally, but totally, addicted to drug abuse follow to torture me every day and every night. Stop. She is totally but totally crazy, she is saying "Riccardo why you don't go to a doctor to stop drug abuse". Dear Francesca I don't even know what are you saying, remember that I'm victim of human trade and that your family have trafficked myself. I know all about your family, what Mafias are involved with you and what have you done in human traffic. I know that you've got assassinated various persons and that you're a terrorist. Go to sleep sometimes Francesca, sleep deprivation have totally destroyed yourself. Don't take drug Francesca. You're crazy.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
