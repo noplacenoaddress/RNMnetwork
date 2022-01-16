@@ -2,7 +2,7 @@
 
 ![Felipe VI URE](http://telecomlobby.com/Images/felipe_vi_ure_riccardo_giuntoli_radioham_notes.webp)
 
-Subiendo una **[montaña Genovesa](https://it.wikipedia.org/wiki/Monte_Fasce)**, allí fue la primera vez que cargaba con una radio en 27Mhz AM, FM y banda lateral en mi mochila, soñaba con conectarme con países lejanos y gente desconocida. Allí fue, cerca del 1992. Desde aquella fecha mucha vida ha pasado delante de mis ojos, felicidad, trabajos, amores y muertes. Ahora en el 2022, con la conciencia de ser victima de trata de pesonas, debajo de esta QSL donde se representa rey Felipe VI de España y su identificación en la radio afición empiezo a estudiar y apuntar mis notas en este apartado de mi pagina web. Pagina donde se subraya que estoy estudiando esta arte con el fin de salir del control neuronal vía radio que ha sido activado de forma continua sobre mi organismo en Noviembre 2017, que seguramente me ve como individuo obyectivo, como victima de trata, desde finales de los noventa, y que se encuentra físicamente en la ciudad donde vivo, Barcelona.
+Subiendo una **[montaña Genovesa](https://it.wikipedia.org/wiki/Monte_Fasce)**, allí fue la primera vez que cargaba con una radio en 27Mhz AM, FM y banda lateral en mi mochila, soñaba con conectarme con países lejanos y gente desconocida. Allí fue, cerca del 1992. Desde aquella fecha mucha vida ha pasado delante de mis ojos, felicidad, trabajos, amores y muertes. Ahora en el 2022, con la conciencia de ser victima de trata de personas, debajo de esta QSL donde se representa rey Felipe VI de España y su identificación en la radio afición empiezo a estudiar y apuntar mis notas en este apartado de mi pagina web. Pagina donde se subraya que estoy estudiando esta arte con el fin de salir del control neuronal vía radio que ha sido activado de forma continua sobre mi organismo en Noviembre 2017, que seguramente me ve como victima de trata, desde finales de los noventa, y que se encuentra físicamente en la ciudad donde vivo, Barcelona.
 
 #### 1.1 Estructura de la materia
 
@@ -279,7 +279,7 @@ Capacidad eléctrica=\frac{carga eléctrica}{voltaje}\\\\
 V=\frac{Q}{V}
 \end{align*}
 $$
-Un **[faradio](https://es.wikipedia.org/wiki/Faradio)** es la capacidad de un condensador al que aplicada una fem de 1 voltio adquiere una carga de 1 culombio. El microfaradio μF equivale a 10-6 F y el nanofaradio nF a 10-9F, el picofaradio a 10-12F.
+Un **[faradio](https://es.wikipedia.org/wiki/Faradio)** es la capacidad de un condensador al que aplicada una fem de 1 voltio adquiere una carga de 1 culombio. El microfaradio `μF` equivale a `10-6F` y el nanofaradio `nF` a `10-9F`, el picofaradio a `10-12F`.
 
 La energía almacenada en condensador se expresa por la fórmula:
 $$
@@ -373,4 +373,55 @@ Ya sabemos que es un componente electrónico que debido al fenómeno de la **[au
 
 #### 1.5.2 Inductancia. Unidad de inductancia: el henrio.
 
-La inductancia de una bobina se define como la propiedad que tiene de oponerse a los cambios de la corriente que pasa a través de ella. En corriente continua la intensidad de régimen se establece con un ligero retraso, tanto mayor cuanto mayor ser el coeficiente de autoinducción L debido a la extracorriente cierre.
+La inductancia de una bobina se define como la propiedad que tiene de oponerse a los cambios de la corriente que pasa a través de ella. En corriente continua la intensidad de régimen se establece con un ligero retraso, tanto mayor cuanto mayor ser el coeficiente de autoinducción `L` debido a la extracorriente de cierre. Al abrir el circuito aparece una extracorriente de ruptura que retrasa la desaparición de la intensidad de régimen. 
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/resistencia_descarga.png)
+
+Las chispas en los interruptores son los efectos indeseados de las extracorrientes de cierre y apertura y se aminoran con **[resistencias de descarga](https://lifasa.com/pdf/RESISTENCIAS_DE_DESCARGA.pdf)** u otro dispositivo.
+
+La **[Ley de Lenz](https://es.wikipedia.org/wiki/Ley_de_Lenz)** dice que la corriente inducida es de tal sentido que se opone al cambio que la produce, así que al cerrar el circuito en el inductor transcurre un tiempo hasta que la corriente generada en el inducido alcanza su valor normal y también se anula al abrirlo.
+
+La unidad de inductancia es el **[henrio](https://es.wikipedia.org/wiki/Henrio)** `H` corresponde a una inductancia que origina un voltaje inducido de `1V` al producirse una variación de `1A` en `1s` en la corriente que atraviesa una bobina. Se emplean submúltiplos como el milihnerio `mH` `10-3H` o el microhenrio `μH` `10-6H`.
+
+#### 1.5.3 Inducción mutua. Autoinducción. 
+
+La que ejercen dos bobinas colocadas próximas entre si, el flujo magnético pasa por las espiras de la otra. Si el devanado es el mismo sentido dicha inducción mutua será mayor que la suma de ambas inductancias `L1` y `L2`. Si es en el sentido contrario será la inducción mutua menor que dicha suma.
+
+Coeficiente de inducción mutua: interviene en el acoplamiento entre bobinas, fuerte si gran parte del flujo creado por una bobina atraviesa la otra débil al revés.
+
+Autoinducción es la inducción electromagnética generada en un circuito por las variaciones que experimente la corriente eléctrica que circula por él.
+
+#### 1.5.4 Efecto del número de espiras, diámetro, longitud y material del núcleo.
+
+La inductancia depende de:
+
+1. número de espiras de bobina.
+2. forma en que están debanadas.
+3. material de núcleo.
+
+Se calcula aproximadamente en una bobina de una sola capa, bobinada la aire, con esta fórmula simplificada:
+$$
+\begin{align*}
+L (en μH) =0,394\frac{d^2n^2}{18d+40l}\\\\
+\end{align*}
+$$
+Siendo `L` la inductancia en microhenrio, `d` el diámetro en cm, `l` la longitud siempre en cm y `n` el número de espiras. De esto entendemos:
+
+1. Mayor número de espiras mayor inductancia.
+2. A espiras más juntas mayor inductancia.
+3. A mayor diámetro mayor inductancia. 
+
+#### 1.5.5 Electroimanes y relés 
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Stator_eines_Universalmotor.JPG)
+
+Un **[electroimán](https://es.wikipedia.org/wiki/Electroim%C3%A1n)** es un solenoide alrededor de un núcleo de hierro dulce imantado artificialmente por la acción de una corriente que circula por él.
+
+Prácticamente un trozo de hierro con un conductor aislado arrollado sobre él, que tiene la propiedad de crear un campo magnético al paso de una corriente a su través. Cuando circula corriente la magnetización producida en el núcleo atrae a la armadura metálica. Si es de **[hierro forjado](https://es.wikipedia.org/wiki/Hierro_forjado)** (*dulce*) cuando cesa la corriente conserva algo de imantación llamada **[magnetismo remanente](https://es.wikipedia.org/wiki/Magnetismo_remanente)**, responsable de la **[histéresis](https://es.wikipedia.org/wiki/Hist%C3%A9resis)**.
+
+En un electroimán rigen las reglas de creación de campo magnético que determinan la polarización `N` y `S` de los extremos del núcleo. Al igual que entre imanes si acercamos un polo a otro igual se repelerán mutuamente y si son di signo contrario se atraerán
+
+## Bibliografía 
+
+- Libro de exámen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
+- [Curso de física interactivo su Internet](http://www.sc.ehu.es/sbweb/fisica_/elecmagnet/elecmagnet.html), Ángel Franco García, [Universidad del País Vasco](https://www.ehu.eus/eu/home)
