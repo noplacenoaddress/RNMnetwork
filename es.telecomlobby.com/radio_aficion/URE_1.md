@@ -419,7 +419,28 @@ Un **[electroimán](https://es.wikipedia.org/wiki/Electroim%C3%A1n)** es un sole
 
 Prácticamente un trozo de hierro con un conductor aislado arrollado sobre él, que tiene la propiedad de crear un campo magnético al paso de una corriente a su través. Cuando circula corriente la magnetización producida en el núcleo atrae a la armadura metálica. Si es de **[hierro forjado](https://es.wikipedia.org/wiki/Hierro_forjado)** (*dulce*) cuando cesa la corriente conserva algo de imantación llamada **[magnetismo remanente](https://es.wikipedia.org/wiki/Magnetismo_remanente)**, responsable de la **[histéresis](https://es.wikipedia.org/wiki/Hist%C3%A9resis)**.
 
-En un electroimán rigen las reglas de creación de campo magnético que determinan la polarización `N` y `S` de los extremos del núcleo. Al igual que entre imanes si acercamos un polo a otro igual se repelerán mutuamente y si son di signo contrario se atraerán
+En un electroimán rigen las reglas de creación de campo magnético que determinan la polarización `N` y `S` de los extremos del núcleo. Al igual que entre imanes si acercamos un polo a otro igual se repelerán mutuamente y si son di signo contrario se atraerán. La fuerza atractiva depende de:
+
+- la intensidad de la corriente.
+- el número de espiras en la bobina.
+- la sección de los núcleos.
+- la distancia entre los núcleos y la armadura.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/67/Relay_symbols.svg)
+
+Un **[relé](https://es.wikipedia.org/wiki/Rel%C3%A9)** es un dispositivo de interrupción o conmutación dentro de un circuito eléctrico, basado en el funcionamiento del electroimán.
+
+#### 1.5.6 Apantallamiento de campos magnéticos.
+
+![](http://www.canfortlab.com/pic/big/580_0.jpg)
+
+Es posible aislar un espacio dado de la influencia de un campo magnético, rodeándolo completamente con un material ferromagnético entra ellos:
+
+- [Hierro](https://es.wikipedia.org/wiki/Hierro)
+- [Cobalto](https://es.wikipedia.org/wiki/Cobalto)
+- [Níquel](https://es.wikipedia.org/wiki/N%C3%ADquel) 
+
+En la imagen laminas de níquel que pero puede ser toxico para el ser humano.
 
 ## Bibliografía 
 
