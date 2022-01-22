@@ -1447,6 +1447,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 19/1/2022 22:32 **Francesca** in a delirium follow to torture, follow to death treat my person, follow to protect mafia from compliant giving them access to my personal information and house with the technology of the human trade network. STOP THIS TERRORIST.
 - 20/1/2022 14:07 **Francesca** follow to torture. Every day, every night. This night she manipulate my REM phase transmitting as usual mafia threats. I'm so tired that this moron thinks that a technology that thousands of people are speaking about in all over the world is a secret. Francesca you use the Jesuit order to hide you behind and because slaves, victim of human trade, are of low social class and are impressionable with Catholicism. You're of a military family and you've adapted the CIA program of gangstalking, a new form of neo nazism, to the European history. People that you decide that are "victims" in reality are people that could let the others understand that all are victim of a concentration camp. Others hide themselves behind this fact, the more intelligent. They are terrorist. 
 - 20/1/2022 22:10 **Francesca** saying: "this night I'll torture you!" And saying this she is raising the level of electrocution.
+- 21/1/2022 00:32 **Aurora** and **Francesca**, bitches of Cosa Nostra, follow to torture me because tomorrow I've got a reunion with a lawyer to discuss about my complaints against Mafia. Francesca is an important surname of the Italian republic, Aurora an engineer of human trade.
+- 22/1/2022 17:40 **Francesca**, as usual, pass all the day long torturing me. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
