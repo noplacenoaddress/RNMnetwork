@@ -1449,6 +1449,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 20/1/2022 22:10 **Francesca** saying: "this night I'll torture you!" And saying this she is raising the level of electrocution.
 - 21/1/2022 00:32 **Aurora** and **Francesca**, bitches of Cosa Nostra, follow to torture me because tomorrow I've got a reunion with a lawyer to discuss about my complaints against Mafia. Francesca is an important surname of the Italian republic, Aurora an engineer of human trade.
 - 22/1/2022 17:40 **Francesca**, as usual, pass all the day long torturing me. 
+- 22/1/2022 22:34 **Francesca** is applying electroshock torture to my internal organs, stomach and intestine, provoking heavy intestinal gases and general diseases.  
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
