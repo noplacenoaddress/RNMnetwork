@@ -1450,6 +1450,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 21/1/2022 00:32 **Aurora** and **Francesca**, bitches of Cosa Nostra, follow to torture me because tomorrow I've got a reunion with a lawyer to discuss about my complaints against Mafia. Francesca is an important surname of the Italian republic, Aurora an engineer of human trade.
 - 22/1/2022 17:40 **Francesca**, as usual, pass all the day long torturing me. 
 - 22/1/2022 22:34 **Francesca** is applying electroshock torture to my internal organs, stomach and intestine, provoking heavy intestinal gases and general diseases.  
+- 23/1/2022 00:53 Francesca torture.
+- 24/1/2022 07:32 The idiot of Francesca, because tomorrow I've got a process that was provoked by Mafia because my program of human trade, follow to say that I will be put in jail. Stupid, with all my work, you will put in jail for ever. Bye bye terrorist.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
