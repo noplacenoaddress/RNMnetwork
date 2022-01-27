@@ -465,6 +465,8 @@ La corriente de cortocircuito es la máxima intensidad de corriente que se produ
 
 #### 1.6.2 Baterías, acumuladores.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/bat.jpg)
+
 
 
 ## Bibliografía 
