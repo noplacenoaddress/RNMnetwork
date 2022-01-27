@@ -442,6 +442,27 @@ Es posible aislar un espacio dado de la influencia de un campo magnético, rode�
 
 En la imagen laminas de níquel que pero puede ser toxico para el ser humano.
 
+#### 1.6 Fuentes de corriente continua. Pilas. Baterías. Fuerza electromotriz (fem).
+
+Hay seis formas de obtener electricidad, todas aplicación práctica de los conceptos sobre estructura de la materia que hemos visto:
+
+1. Por [frotamiento](https://es.wikipedia.org/wiki/Electrizaci%C3%B3n#Frotaci%C3%B3n).
+2. Por presión intermitente sobre [cristales](https://es.wikipedia.org/wiki/Cristal) de algunos materiales como el [cuarzo](https://es.wikipedia.org/wiki/Cuarzo).
+3. Por efecto [fotovoltaico](https://es.wikipedia.org/wiki/Conversi%C3%B3n_fotovoltaica), al inducir [luz solar](https://es.wikipedia.org/wiki/Fot%C3%B3n) sobre cristales de [silicio](https://es.wikipedia.org/wiki/Silicio) en forma de [células fotoeléctricas](https://es.wikipedia.org/wiki/C%C3%A9lula_fotoel%C3%A9ctrica).
+4. Por [calientamiente](https://es.wikipedia.org/wiki/Electrizaci%C3%B3n#Carga_por_efecto_termoel%C3%A9ctrico) de la unión entre dos metales distintos así dichos [termopares](https://es.wikipedia.org/wiki/Termopar). 
+5. Por magnetismo, algunos ejemplos pueden ser [dinamos](https://es.wikipedia.org/wiki/Dinamo_(generador_el%C3%A9ctrico)) o [alternadores](https://es.wikipedia.org/wiki/Alternador).
+6. Por [efecto químico](https://es.wikipedia.org/wiki/Electrizaci%C3%B3n#Carga_por_electr%C3%B3lisis), [pilas](https://es.wikipedia.org/wiki/Celda_galv%C3%A1nica) o [acumuladores](https://es.wikipedia.org/wiki/Bater%C3%ADa_(electricidad)).
+
+#### 1.6.1 Pilas.
+
+Convierten energía química en eléctrica, fuerza electromotriz. Generan corriente continua. Basan su funcionamiento en el fenómeno electroquímico, denominado electrolisis. No es reversible así que poco a poco se agota su `fem`.
+
+Las pilas tienen una resistencia interna `R`, la tensión aprovechable en sus [bornes](https://es.wikipedia.org/wiki/Borne_(electricidad)) es menor que la `fem` que hay entre los electrodos. `R` hace perder energía, mejor dicho hace disminuir el número de voltios aprovechables entre sus bornes. La fem útil se denomina voltaje en bornes. La carga disminuye debido al aumento gradual de resistencia, se tiende a usarse pilas de descarga uniforme, como son las de [mercurio](https://es.wikipedia.org/wiki/Mercurio_(elemento)) o [litio](https://es.wikipedia.org/wiki/Litio).
+
+La corriente de cortocircuito es la máxima intensidad de corriente que se produce cuando el voltaje en bornes es igual a cero, como consecuencia de la conexión directa entre ellas.
+
+#### 1.6.2 Baterías, acumuladores.
+
 ## Bibliografía 
 
 - Libro de exámen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
