@@ -455,6 +455,8 @@ Hay seis formas de obtener electricidad, todas aplicación práctica de los conc
 
 #### 1.6.1 Pilas.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/baterias.jpg)
+
 Convierten energía química en eléctrica, fuerza electromotriz. Generan corriente continua. Basan su funcionamiento en el fenómeno electroquímico, denominado electrolisis. No es reversible así que poco a poco se agota su `fem`.
 
 Las pilas tienen una resistencia interna `R`, la tensión aprovechable en sus [bornes](https://es.wikipedia.org/wiki/Borne_(electricidad)) es menor que la `fem` que hay entre los electrodos. `R` hace perder energía, mejor dicho hace disminuir el número de voltios aprovechables entre sus bornes. La fem útil se denomina voltaje en bornes. La carga disminuye debido al aumento gradual de resistencia, se tiende a usarse pilas de descarga uniforme, como son las de [mercurio](https://es.wikipedia.org/wiki/Mercurio_(elemento)) o [litio](https://es.wikipedia.org/wiki/Litio).
@@ -462,6 +464,8 @@ Las pilas tienen una resistencia interna `R`, la tensión aprovechable en sus [b
 La corriente de cortocircuito es la máxima intensidad de corriente que se produce cuando el voltaje en bornes es igual a cero, como consecuencia de la conexión directa entre ellas.
 
 #### 1.6.2 Baterías, acumuladores.
+
+
 
 ## Bibliografía 
 
