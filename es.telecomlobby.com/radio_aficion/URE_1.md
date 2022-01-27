@@ -467,9 +467,18 @@ La corriente de cortocircuito es la máxima intensidad de corriente que se produ
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/bat.jpg)
 
+A diferencias de las pilas son recargables. Las más usuales están formadas por unas planchas rectangulares planas de [plomo](https://es.wikipedia.org/wiki/Plomo) sumergidas en una solución de [ácido sulfúrico](https://es.wikipedia.org/wiki/%C3%81cido_sulf%C3%BArico). Para la operación de recarga se conectan sus bornes a los polos `+` y `-` de un generador de corriente continua. Las de tipo [alcalino](https://es.wikipedia.org/wiki/Alcalino) están formadas por electrodos de placas de hierro y níquel sumergidas en una solución de [sosa](https://es.wikipedia.org/wiki/Carbonato_de_sodio), o bien en sus modernas versiones que llevan [cadmio](https://es.wikipedia.org/wiki/Cadmio) con hierro y una solución de [potasa](https://es.wikipedia.org/wiki/Potasa_(mineral)) con [hidróxido de litio](https://es.wikipedia.org/wiki/Hidr%C3%B3xido_de_litio). A diferencia de las antiguas pueden ser descargadas a fondo y sufrir descargas rápidas.
+
+Existen también las de [níquel hidruro](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_n%C3%ADquel-metalhidruro), [litio ion](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_ion_de_litio) y [polímero de litio](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_pol%C3%ADmero_de_litio).
+
+La capacidad expresa la cantidad de electricidad que puede suministrar desde que empieza hasta que termina la descarga. La carga expresa el producto de intensidad que suministra por el tiempo que tarda en descargarse, tomando la intensidad media.
+$$
+\begin{align*}Carga (aH) =intensidad (a) * tiempo (h)\end{align*}
+$$
 
 
 ## Bibliografía 
 
 - Libro de exámen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Curso de física interactivo su Internet](http://www.sc.ehu.es/sbweb/fisica_/elecmagnet/elecmagnet.html), Ángel Franco García, [Universidad del País Vasco](https://www.ehu.eus/eu/home)
+- [G-QRP Club 2020 Convention: Bettery technology for QRP Portable use]()
