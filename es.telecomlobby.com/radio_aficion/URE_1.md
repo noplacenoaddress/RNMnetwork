@@ -558,6 +558,16 @@ Cuando tensión y intensidad son máximas se dice que ambas están en [fase](htt
 
 Cuando se conecta al circuito de CA una carga capacitiva como un condensador la sinusoide que representa la intensidad `I` de la corriente desfasará a la tensión o voltaje `V`. Si conectamos un carga inductiva como un [transformador](https://es.wikipedia.org/wiki/Transformador) ocurre lo contrario.
 
+#### 1.7.4 Tensión y corriente. Valor instantáneo, amplitud, valor eficaz `RMS` y valor medio.
+
+Una señal sinusoidal, bien sea una tensión o una corriente, se puede expresar matemáticamente como una [función](https://es.wikipedia.org/wiki/Funci%C3%B3n_(matem%C3%A1tica)) del tiempo por medio de la siguiente [ecuación](https://es.wikipedia.org/wiki/Ecuaci%C3%B3n):
+$$
+\begin{align*} a(t)= A_0 sen (\omega t + \beta)\end{align*}
+$$
+Siendo `A` la amplitud en voltios o amperios, `ω` la pulsación o [velocidad angular](https://es.wikipedia.org/wiki/Velocidad_angular) en [radianes](https://es.wikipedia.org/wiki/Radi%C3%A1n)/segundo y `β` el ángulo de fase inicial en radianes. 
+
+
+
 ## Bibliografía 
 
 - Libro de exámen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
