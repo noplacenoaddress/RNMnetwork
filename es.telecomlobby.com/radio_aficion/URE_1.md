@@ -475,7 +475,11 @@ La capacidad expresa la cantidad de electricidad que puede suministrar desde que
 $$
 \begin{align*}Carga (aH) =intensidad (a) * tiempo (h)\end{align*}
 $$
+El rendimiento es la relación que existe entre la energía aprovechable en la descarga y la empleada en la carga. 
 
+Como las pilas, las baterías tienen una resistencia interna `r` y la tensión aprovechable se llama voltaje en bornes; así mismo el concepto de corriente de cortocircuito es el mismo.
+
+Siempre como las pilas, pueden ser asociadas en serie o en paralelo; en serie deben tener la misma capacidad y en paralelo la misma tensión. Cada una de ellas, tanto pilas cuanto baterías, tienen una fem `e`, una resistencia interna `r`, una [intensidad](https://es.wikipedia.org/wiki/Intensidad_(f%C3%ADsica)) `I` y `n` es el numero empleado. 
 
 ## Bibliografía 
 
