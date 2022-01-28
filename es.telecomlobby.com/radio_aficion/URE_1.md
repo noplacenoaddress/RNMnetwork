@@ -496,6 +496,24 @@ Siempre como las pilas, pueden ser asociadas [en serie o en paralelo](https://es
   - serie: ![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/esquema_circuito_serie.jpg)
   - paralelo: ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/esquema_circuito_paralelo.jpg)
 
+#### 1.7 Corriente alterna
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sin.svg)
+
+Hemos visto la corriente continua, creada por un flujo de electrones que se mueven en una sola dirección.
+
+Analizemos la [corriente alterna](https://es.wikipedia.org/wiki/Corriente_alterna), en la cual el flujo de electrones se invierte periódicamente. Inversión que puede ser como la que occurre con la [red eléctrica](https://es.wikipedia.org/wiki/Sistema_de_suministro_el%C3%A9ctrico) de [nuestros domicilios](https://es.wikipedia.org/wiki/Electricidad_dom%C3%A9stica), 50 o 60 veces según el país,  hasta miles de millones de veces por segundo tal y como sucede con la transmisiones radioeléctricas de muy alta frecuencia. En la cual su sentido se invierte periódicamente y cuyo valor es distingo en instantes sucesivos. 
+
+La corriente alterna es la más empleada en los distintos dispositivos que intervienen e nla comunicación radioelectrica o [radiocomunicación](https://es.wikipedia.org/wiki/Radiocomunicaci%C3%B3n). 
+
+#### 1.7.1 Producción de corriente alterna. Alternadores.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/03/Alternador.svg)
+
+La corriente alterna presenta alternativamente valores positivos y negativos pasando por valores nulos. Se puede transportar a grandes distancias fácilmente y sin grande pérdidas, al tiempo que puede adoptar valores grandes o pequeños de voltaje, según convenga.
+
+Un alternador es una máquina que genera corriente alterna moviendo un conductor dentro de las líneas de fuerza de un campo magnético de forma alterna, como sugiere su mismo nombre. Tienen unos anillos, denominados colctores, donde hacen contacto por frotamiento los extremo de una espira mediante unas [escobillas](https://es.wikipedia.org/wiki/Escobilla_(electricidad)). Este mecanismo permite su giro manteniendo el contacto. La corriente inducida creada al girar la espira dentro del campo magnético norte-sur se recoge por las escobillas en los colectores conectados al aparato de medida. Para conocer la dirección del campo y el sentido de la corriente en función de la dirección del conductor se apica la llamada [regla de la mano derecha](https://es.wikipedia.org/wiki/Regla_de_la_mano_derecha)
+
 ## Bibliografía 
 
 - Libro de exámen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
