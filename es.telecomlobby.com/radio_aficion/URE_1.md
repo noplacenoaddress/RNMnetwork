@@ -566,7 +566,59 @@ $$
 $$
 Siendo `A` la amplitud en voltios o amperios, `ω` la pulsación o [velocidad angular](https://es.wikipedia.org/wiki/Velocidad_angular) en [radianes](https://es.wikipedia.org/wiki/Radi%C3%A1n)/segundo y `β` el ángulo de fase inicial en radianes. 
 
+Debido a que la velocidad angular está relacionada con la frecuencia según la expresión`ω=2πf ` es decir a mayor frecuencia mayor pulsación la fórmula anterior se suele expresar como:
+$$
+\begin{align*} a(t)= A_0 sen (2 π ft + \beta)\end{align*}
+$$
+siendo `f` la frecuencia en hercios.
 
+Se domina amplitud de una curva sinusoidal al valor máximo que alcanza la sinusoide. El valor instantáneo el valor que toma en cada instante:
+$$
+\begin{align*} e(t)= E_0 sen (2 π ft + \beta)\\
+i(t) = I_0sen(2 π ft + \beta)
+\end{align*}
+$$
+El máximo, conocido también como [valor de pico](https://es.wikipedia.org/wiki/Valor_de_pico), es el mayor de todos los instantáneos. En radio afición es importante conocer el valor de pico a pico que se define como la diferencia entre su pico máximo positivo y su pico negativo. 
+
+El valor eficaz `RMS`, [valor medio cuadrático](https://es.wikipedia.org/wiki/Media_cuadr%C3%A1tica), es el más significativo para trabajar con señales alternas, se define como el correspondiente a una `CA` que disiparía la misma cantidad de calor que la corriente considerada. Se relaciona con el máximo según las expresiones:
+$$
+\begin{align*} V_{rms} = 0,707V_{pico} \\
+V_{pico} = 1,414 V_{rms} \\
+U_{eff} =0,707U_{max} \\
+U_{max} = 1,414U_{eff} \end{align*}
+$$
+
+#### 1.7.5 Potencia de la corriente alterna.
+
+Hemos visto que la potencia en un circuito solo con resistencia viene dad por la expresión `P=EI`.
+
+En los circuitos de alterna en los cuales intervienen también capacidades y/o inductancias se producen debido a los desfasamientos que pudieran existir, unos efectos particulares por la variabilidad de la `CA`. Para expresar la potencia se aplica un factor de corrección denominada [factor de potencia](https://es.wikipedia.org/wiki/Factor_de_potencia) o [coseno](https://es.wikipedia.org/wiki/Coseno) de `φ`:
+$$
+\begin{align*} P = EIcosφ\end{align*}
+$$
+Si tensión y intensidad están en fase `φ` vale 0 y su coseno 1 o sea que `P=EI`
+
+Cuando tensión y intensidad están en fase, la potencia se denomina media o eficaz, en caso de desfase se llama real o activada. La primera se mide en voltiampierios y la segunda en vatios.
+
+## Resumen primer capitulo
+
+- **Electricidad**
+  - En el núcleo de los átomos hay neutrones y protones.
+  - En las órbitas hay electrones.
+  - Los neutrones no tienen carga, los protones son positivos y los electrones negativos.
+  - Los electrones son los responsables de la circulación eléctrico o electricidad.
+  - Si la temperatura aumenta, aumenta la resistencia.
+  - Un dieléctrico es un aislante.
+  - Tensión, voltaje y diferencia de potencial es lo mismo y se mide envoltios.
+  - Ley de Coulomb: la fuerza con la que se atraen o repelen dos cargas es directamente proporcional al producto de sus cargas e inversamente proporcional al cuadrado de la distancia que las separa.
+  - Si se reduce el diámetro o sección del conductor aumenta la resistencia.
+  - La intensidad de corriente eléctrica es la cantidad de flujo o paso de electrones y se mide en amperdios.
+  - La unidad de carga es el culombio.
+  - Ley de Ohm: `V=IR`
+  - La unidad de potencia es el vatio W
+  - La pila es un dispositivo que convierte energía química en energía eléctrica mediante la electrolisis.
+  - Las pilas de igual voltaje en paralelo tienen los bornes iguales unidos entre sí, y el voltaje conjunto es el mismo que el de una sola pila; la intensidad, la suma de todas ellas.
+  - Las pilas de igual voltaje en serie une sus polos contrarios y la tensión resultante es la suma de todas ellas; la corriente es la de una de ellas.
 
 ## Bibliografía 
 
@@ -575,3 +627,4 @@ Siendo `A` la amplitud en voltios o amperios, `ω` la pulsación o [velocidad an
 - [G-QRP Club 2020 Convention: Bettery technology for QRP Portable use]()
 - Proyecto 987, [corriente alterna](https://www.proyecto987.es/corriente_alterna_0.html).
 - Proyecto 987, [sistemas trifásicos](https://www.proyecto987.es/trifasica_0.html). 
+- [Temario simplificado del libro de examen de Radioficionado](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/89754710-Temario-Simplificado-Del-Libro-de-Examen-de-Radio-Aficionado.pdf), Juan Antonio Moran `EA4VJ`
