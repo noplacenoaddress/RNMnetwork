@@ -493,8 +493,8 @@ Siempre como las pilas, pueden ser asociadas [en serie o en paralelo](https://es
   - serie: `R = r x n`
   - paralelo: `R = r / n`
 - Esquema:
-  - serie: ![](https://upload.wikimedia.org/wikipedia/commons/4/4a/TE_Compon_05.svg)
-  - paralelo: ![](https://upload.wikimedia.org/wikipedia/commons/4/4a/TE_Compon_05.svg)
+  - serie: ![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/esquema_circuito_serie.jpg)
+  - paralelo: ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/esquema_circuito_paralelo.jpg)
 
 ## Bibliografía 
 
