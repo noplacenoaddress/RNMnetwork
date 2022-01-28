@@ -512,10 +512,56 @@ La corriente alterna es la más empleada en los distintos dispositivos que inter
 
 La corriente alterna presenta alternativamente valores positivos y negativos pasando por valores nulos. Se puede transportar a grandes distancias fácilmente y sin grande pérdidas, al tiempo que puede adoptar valores grandes o pequeños de voltaje, según convenga.
 
-Un alternador es una máquina que genera corriente alterna moviendo un conductor dentro de las líneas de fuerza de un campo magnético de forma alterna, como sugiere su mismo nombre. Tienen unos anillos, denominados colctores, donde hacen contacto por frotamiento los extremo de una espira mediante unas [escobillas](https://es.wikipedia.org/wiki/Escobilla_(electricidad)). Este mecanismo permite su giro manteniendo el contacto. La corriente inducida creada al girar la espira dentro del campo magnético norte-sur se recoge por las escobillas en los colectores conectados al aparato de medida. Para conocer la dirección del campo y el sentido de la corriente en función de la dirección del conductor se apica la llamada [regla de la mano derecha](https://es.wikipedia.org/wiki/Regla_de_la_mano_derecha)
+Un alternador es una máquina que genera corriente alterna moviendo un conductor dentro de las líneas de fuerza de un campo magnético de forma alterna, como sugiere su mismo nombre. Tienen unos anillos, denominados colctores, donde hacen contacto por frotamiento los extremo de una espira mediante unas [escobillas](https://es.wikipedia.org/wiki/Escobilla_(electricidad)). Este mecanismo permite su giro manteniendo el contacto. La corriente inducida creada al girar la espira dentro del campo magnético norte-sur se recoge por las escobillas en los colectores conectados al aparato de medida. Para conocer la dirección del campo y el sentido de la corriente en función de la dirección del conductor se apica la llamada [regla de la mano derecha](https://es.wikipedia.org/wiki/Regla_de_la_mano_derecha).
+
+![](https://i.pinimg.com/474x/cf/2d/4e/cf2d4e3aada7dc3716e2f4f72cd5bd24.jpg)
+
+De acuerdo con la posición de la espira respecto al campo, es decir si es atravesada por más o menos líneas de fuerza, la corriente inducida adquiere valores distintos: cero, máximo, cero, mínimo, cero, reanudándose el ciclo.
+
+Varía la corriente inducida en la espira según el número de líneas de fuerza del campo magnético que la atraviese. Si se trata de una sola espira que gira en un campo magnético diremos que la corriente débil; por ello se emplea un conjunto de espiras devanadas sobre un tampor de hierro. 
+
+Si gieramos rápidamente el inducido dentro del campo magnético del inductor y se conecta aquél a un circuito exterior tendremos en él corriente alterna. El elemento móvil puede ser el inductor o el inducido. Por ejemplo el inductor está formado por varios pares de polos magnéticos o [electroimanes](https://es.wikipedia.org/wiki/Electroim%C3%A1n) dispuestos circularmente, oponiéndose un Norte a un Sur y viceversa. El inducido es una bobina, conductor, que gira rápidamente entre dichas polaridades y donde se porduce la corriente alterna.
+
+La fem inducida `E` depende del campo `B`, de la longitud del conductor `I` y de la velocidad de giro `v`.
+$$
+\begin{align*}E =B*I*v\end{align*}
+$$
+De la velocidad de giro depende le ciclo, que es el resultado de que una bobina llegue a atravesar completamente el espacio contiguo que hay entre dos polos seguidos `N` y `S`:
+$$
+\begin{align*}F =\frac{N*R}{60}\end{align*}
+$$
+Luego a mayor número de pares de polos o más revoluciones por minuto, mayor frecuencia se alcanza. Si `R` son revoluciones por segundo tendremos:
+$$
+\begin{align*}F =N*R\end{align*}
+$$
+La `CA` puede ser [monofásica](https://es.wikipedia.org/wiki/Sistema_monof%C3%A1sico), [bifásica](https://es.wikipedia.org/wiki/Sistema_bif%C3%A1sico) y [trifásica](https://es.wikipedia.org/wiki/Sistema_trif%C3%A1sico), según que se emplee un grupo de devanados, dos o tres. Grupos desfasados entre si.
+
+#### 1.7.2 Periodo y duración del periodo. Frecuencia. El Hercio.
+
+La `CA` tiene dos semiciclos uno positivo y otro negativo. El periodo de una tensión o una intensidad alterna es el tiempo durante el cual la tensión o la intensidad toman todos los valores de una onda sinusoidal completa. El periodo es un tiempo `T` y se mide en segundos. La frecuencia es el número de ciclos por segundo. Se representa por `f` y es la inversa del periodo, se relacionan pues según la siguiente expresión:
+$$
+\begin{align*}f =\frac{1}{T}\end{align*}
+$$
+Al ciclo por segundo se llama [hercio](https://es.wikipedia.org/wiki/Hercio) `Hz`, sus múltiples se usan constantemente en radiocomunicación. Se denomina [amplitud](https://es.wikipedia.org/wiki/Amplitud_(f%C3%ADsica)), valor máximo o de pico de una corriente alterna al valor máximo que alcanza la [sinusoide](https://es.wikipedia.org/wiki/Sinusoide). Se conoce como valor instantáneo al valor que tiene la amplitud en un instante dado del ciclo.
+
+#### 1.7.3 Representación gráfica en función del tiempo. Diferencia de fase.
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f8/SquareWave.gif)
+
+En cuanto a la forma del diagrama de valores la CA pueden adoptar figuras sinusoidales, en [diente de sierra](https://es.wikipedia.org/wiki/Onda_de_sierra), [triangulares](https://es.wikipedia.org/wiki/Onda_triangular) o [cuadradas](https://es.wikipedia.org/wiki/Onda_cuadrada). 
+
+Se dice curva sinusoidal porque describe la variación del seno de un ángulo, magnitud que aumenta de 0° a 90°, disminuye de 90° a 180°, crece negativamente de 180° a 270° y tiende otra vez a cero de 270° a 360°. En el eje de ordenadas (vertical) está representada la amplitud y en el eje de abscisas (horizontal) los grados de giro o del tiempo. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Phase_shift.gif)
+
+Cuando tensión y intensidad son máximas se dice que ambas están en [fase](https://es.wikipedia.org/wiki/Fase_(onda)). Ocurre solamente en un [circuito](https://es.wikipedia.org/wiki/Circuito) puramente resistivo. En circuitos con inductancia o capacidad o cambas decimos que existe una [diferencia de fase](https://es.wikipedia.org/wiki/Desfase) que es el atraso o adelanto de un magnitud frente a la otra y se mide en grados.
+
+Cuando se conecta al circuito de CA una carga capacitiva como un condensador la sinusoide que representa la intensidad `I` de la corriente desfasará a la tensión o voltaje `V`. Si conectamos un carga inductiva como un [transformador](https://es.wikipedia.org/wiki/Transformador) ocurre lo contrario.
 
 ## Bibliografía 
 
 - Libro de exámen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Curso de física interactivo su Internet](http://www.sc.ehu.es/sbweb/fisica_/elecmagnet/elecmagnet.html), Ángel Franco García, [Universidad del País Vasco](https://www.ehu.eus/eu/home)
 - [G-QRP Club 2020 Convention: Bettery technology for QRP Portable use]()
+- Proyecto 987, [corriente alterna](https://www.proyecto987.es/corriente_alterna_0.html).
+- Proyecto 987, [sistemas trifásicos](https://www.proyecto987.es/trifasica_0.html). 
