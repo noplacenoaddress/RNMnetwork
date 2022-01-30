@@ -83,6 +83,8 @@ Los desfases dependen de los valores de `R`, `L` y `C` y son menores de 90°. Si
 
 #### 2.1.3.2 Circuitos en paralelo
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_bobina_paralelo.jpg)
+
 
 
 ## Bibliografía 
