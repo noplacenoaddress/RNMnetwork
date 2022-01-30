@@ -71,7 +71,7 @@ In un circuito con una resistencia y una bobina en [serie](https://es.wikipedia.
 
 Cuando hay condensadores, bobinas y resistencias en un circuito aparecen [tensiones combinadas](http://ingenieriaelectricafravedsa.blogspot.com/2014/11/tensiones-simples-y-compuestas.html) o de conjunto, intensidades combinadas o del conjunto e impedancias. 
 
-
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_condensador_serie.jpg)
 
 ## Bibliografía 
 
