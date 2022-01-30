@@ -85,6 +85,12 @@ Los desfases dependen de los valores de `R`, `L` y `C` y son menores de 90°. Si
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_bobina_paralelo.jpg)
 
+Las caídas de tensión en `R` y `L` son iguales dependiendo con la tensión aplicada. La intensidad de línea `I` tiene que ser mayor que la que circula por cada rama, equivaliendo a la [suma pitagórica](https://es.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras) de ambas.
+
+El desfase es también menor de 90° adelantándose `E` a `I`. Si la reactancia inductiva de la bobina es menor que la resistencia `R` la corriente va por la bobina: circuito inductivo.
+
+Si la reactancia inductiva es mayor que la resistencia `R` la corriente va por la resistencia: el circuito es resistivo.
+
 
 
 ## Bibliografía 
