@@ -1454,6 +1454,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 24/1/2022 07:32 The idiot of **Francesca**, because tomorrow I've got a process that was provoked by Mafia because my program of human trade, follow to say that I will be put in jail. Stupid, with all my work, you will put in jail for ever. Bye bye terrorist.
 - 25/1/2022 23:21 Yesterday **Andreu** and **Francesca** torture me a lot. Tonight I got sleep at 20:30 , at 23 they grown electroshock torture and I wake up. I'm tired about fair right terrorism, I'm tired about **Francesca**. I'm tired about the the Francoist enterprise based on the persecution and torture of **Andreu**, rented by the same to the marquise. I am tired of being tortured in the virtual Frachist concentration camp broadcast from the Collserola tower, which belongs to the trafficking network. Tired of carcelona.
 - 27/1/2022 23:37 Like usual as the day finish Francesca with Aurora start to speak about death threats and Mafia. They always use the same pattern of menace. I'm so tired of those terrorists.
+- 28/1/2022 01:32 francesca, andreu and them crew of Mafias follow to torture because tomorrow I've got a good day of work. STOP THOSE FRANCOISE TERRORIST.
+- 30/1/2022 09:20 The day start and as usual **Francesca** torture.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
