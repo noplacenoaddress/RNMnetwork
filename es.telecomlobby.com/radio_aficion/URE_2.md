@@ -91,6 +91,14 @@ El desfase es también menor de 90° adelantándose `E` a `I`. Si la reactancia 
 
 Si la reactancia inductiva es mayor que la resistencia `R` la corriente va por la resistencia: el circuito es resistivo.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_condesador_paralelo.jpg)
+
+Con la caída de tensión ocurre igual que en el caso anterior, pero referido a `R` y `C`, en el desfase, siempre menor de 90°, `C` hace que se adelante la intensidad `I` a la tensión `E`. 
+
+Si la reactancia capacitiva es menor que `R` la corriente va por `C`: circuito capacitivo.
+
+Si la reactancia capacitiva es mayor que `R` la corriente va por `R`: circuito resistivo.
+
 
 
 ## Bibliografía 
