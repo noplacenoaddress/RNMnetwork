@@ -54,6 +54,15 @@ Si intercalamos una resistencia en un circuito recurrido por CA la intensidad se
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_condensador.jpg)
 
+La oposición que opone C a la CA se llama reactancia capacitiva, presenta menor resistencia al paso de la corriente cuando:
+
+- su capacidad es alta.
+- aumenta la frecuencia de la corriente.
+
+Se produce un desfase en el que la intensidad `I` se adelanta a la tensión `E` en 90°.
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_bobina.jpg)
+
 
 
 ## Bibliografía 
