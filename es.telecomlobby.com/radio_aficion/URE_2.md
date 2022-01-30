@@ -54,7 +54,16 @@ Si intercalamos una resistencia en un circuito recurrido por CA la intensidad se
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_condensador.jpg)
 
+La oposición que opone `C` a la `CA` se llama reactancia capacitiva, presenta menor resistencia al paso de la corriente cuando:
 
+- su capacidad es alta.
+- aumenta la frecuencia de la corriente.
+
+Se produce un desfase en el que la intensidad `I` se adelanta a la tensión `E` en 90°.
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_bobina.jpg)
+
+La bobina `L` se opone al paso de `CA` a través de reactancia inductiva, proporcional al [coeficiente](https://es.wikipedia.org/wiki/Coeficiente_(matem%C3%A1tica)) de [autoinducción](https://es.wikipedia.org/wiki/Autoinducci%C3%B3n) `L` , a la [pulsación](https://es.wikipedia.org/wiki/Velocidad_angular) `ω` y por consiguiente a la frecuencia `f`.
 
 ## Bibliografía 
 
