@@ -99,7 +99,7 @@ Si la reactancia capacitiva es menor que `R` la corriente va por `C`: circuito c
 
 Si la reactancia capacitiva es mayor que `R` la corriente va por `R`: circuito resistivo.
 
-
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_bobina_condensador_paralelo.jpg)
 
 ## Bibliografía 
 
