@@ -77,6 +77,10 @@ En los circuitos `R-C` también hay caída de tensión menor de 90°. `R` aminor
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_bobina_condensador_serie.jpg)
 
+En serie `R-L-C` bobina y condensador ejercen efectos opuestos tanto en reactancia cuanto en caídas de tensión. La impedancia en este caso es la suma de la resistencia de `L` y `C`. La tensión total también es la suma de la caída de tensión en la `R` y la resultante en `L` y `C`. Los valores tensión aplicada se reparten en los distintos componentes `R`, `L` y `C` dependiendo del valor resistivo de cada una de ellas, en cada elemento `R`, `L` y `C` la tensión es el producto de intensidad por resistencia (o reactancia en los casos de `L` y `C`).
+
+Los desfases dependen de los valores de `R`, `L` y `C` y son menores de 90°. Si la reactancia del condensador es mayor que la de la bobina, nos encontramos ante un [circuito inductivo](https://www.fisicapractica.com/inductivos-alterna.php). Si predominan componentes capacitivas será un [circuito capacitivo](https://www.fisicapractica.com/capacitivos-alterna.php). Si se compensan el circuito será [resistivo puro](http://www.proyecto987.es/corriente_alterna_6.html#Circuito_resistivo_puro).
+
 
 
 ## Bibliografía 
@@ -84,3 +88,5 @@ En los circuitos `R-C` también hay caída de tensión menor de 90°. `R` aminor
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Símbolos eléctricos & electrónicos](https://www.simbologia-electronica.com/). 
 - [Xcircuit](http://opencircuitdesign.com/xcircuit/)
+- Física práctica - [Electricidad](https://www.fisicapractica.com/electricidad.php). 
+- Proyecto 987 - [Corriente alterna](http://www.proyecto987.es/corriente_alterna_0.html).
