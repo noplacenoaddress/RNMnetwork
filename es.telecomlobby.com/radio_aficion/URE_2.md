@@ -73,6 +73,12 @@ Cuando hay condensadores, bobinas y resistencias en un circuito aparecen [tensio
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_condensador_serie.jpg)
 
+En los circuitos `R-C` también hay caída de tensión menor de 90°. `R` aminora este desfase. La tensión del conjunto es la suma de la caídas en `R` y `C`.
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_bobina_condensador_serie.jpg)
+
+
+
 ## Bibliografía 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
