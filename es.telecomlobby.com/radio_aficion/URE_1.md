@@ -619,6 +619,20 @@ Cuando tensión y intensidad están en fase, la potencia se denomina media o efi
   - La pila es un dispositivo que convierte energía química en energía eléctrica mediante la electrolisis.
   - Las pilas de igual voltaje en paralelo tienen los bornes iguales unidos entre sí, y el voltaje conjunto es el mismo que el de una sola pila; la intensidad, la suma de todas ellas.
   - Las pilas de igual voltaje en serie une sus polos contrarios y la tensión resultante es la suma de todas ellas; la corriente es la de una de ellas.
+- **Magnetismo**
+  - Existen imanes naturales como la [magnetita](https://es.wikipedia.org/wiki/Magnetita), artificiales y permanentes o temporales.
+  - Las líneas que salen de un polo del imán hacia el otro componen el campo magnético. El conjunto de todas ellas es el flujo magnético.
+  - La fuerza de attracción o repulsión dentro del campo magnético se mide en [dinas](https://es.wikipedia.org/wiki/Dina_(unidad_de_medida)).
+  - La unidad de flujo magnético es el [maxwell](https://es.wikipedia.org/wiki/Maxwell_(unidad)).
+  - Se denomina [histéresis](https://es.wikipedia.org/wiki/Hist%C3%A9resis)  al fenómeno por el cual un imán dentro de un campo magnético deja de aumentar su fuerza de actracción o repulsión conforme aumenta el campo.
+  - Todo conductor por el quel circule una corriente elécrica genera un campo magnético a su alrededor.
+
+- **Inducción magnética** 
+  - Si le damos una vuelta o espira a un conductor rectilíneo, pasa a llamarse solenoide y aumenta el campo magnético.
+  - En la regla de la mano izquierda, los dedos cerrados indican las líneas del campo y el dedo pulgar el sentido de la corriente.
+  - Si ponemos un conductor dentro de un campo magnético y hacemos variar éste, se induce una corriente en el conductor a través de inducción.
+  - La ley de Lenz dice que la corriente inducida en un conductor es de tal sentido que se opone al cambio que la produce.
+
 
 ## Bibliografía 
 
