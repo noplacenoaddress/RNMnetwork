@@ -63,7 +63,7 @@ Se produce un desfase en el que la intensidad `I` se adelanta a la tensión `E` 
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_bobina.jpg)
 
-La bobina `L` se opone al paso de `CA` a través de reactancia inductiva, proporcional al [coeficiente](https://es.wikipedia.org/wiki/Coeficiente_(matem%C3%A1tica)) de [autoinducción](https://es.wikipedia.org/wiki/Autoinducci%C3%B3n) `L` , a la [pulsación](https://es.wikipedia.org/wiki/Velocidad_angular) `ω` y por consiguiente a la frecuencia `f`.
+La bobina `L` se opone al paso de `CA` a través de reactancia inductiva, proporcional al [coeficiente](https://es.wikipedia.org/wiki/Coeficiente_(matem%C3%A1tica)) de [autoinducción](https://es.wikipedia.org/wiki/Autoinducci%C3%B3n) `L` , a la [pulsación](https://es.wikipedia.org/wiki/Velocidad_angular) `ω` y por consiguiente a la frecuencia `f`. A mayor frecuencia de la `CA`, mayor reactancia inductiva. `L` se opone con más fuerza a los aumentos de la frecuencia se comporta de forma contraria al condensador, la tensión `E` se adelanta de 90° a la intensidad `I`.
 
 ## Bibliografía 
 
