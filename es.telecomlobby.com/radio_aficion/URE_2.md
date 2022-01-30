@@ -101,6 +101,14 @@ Si la reactancia capacitiva es mayor que `R` la corriente va por `R`: circuito r
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_bobina_condensador_paralelo.jpg)
 
+La tensión es la misma en cada rama. La intensidad es según la ley de Ohm la tensión dividida por la resistencia `R` o las reactancias `L` y `C`.
+
+Si la reactancia de C es mayor que la de L: circuito inductivo.
+
+Si predominan las componentes capacitivas: circuito capacitivo.
+
+Si los componentes son iguales: circuito resistivo puro.
+
 ## Bibliografía 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
