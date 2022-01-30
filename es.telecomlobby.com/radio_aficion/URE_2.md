@@ -65,6 +65,14 @@ Se produce un desfase en el que la intensidad `I` se adelanta a la tensión `E` 
 
 La bobina `L` se opone al paso de `CA` a través de reactancia inductiva, proporcional al [coeficiente](https://es.wikipedia.org/wiki/Coeficiente_(matem%C3%A1tica)) de [autoinducción](https://es.wikipedia.org/wiki/Autoinducci%C3%B3n) `L` , a la [pulsación](https://es.wikipedia.org/wiki/Velocidad_angular) `ω` y por consiguiente a la frecuencia `f`. A mayor frecuencia de la `CA`, mayor reactancia inductiva. `L` se opone con más fuerza a los aumentos de la frecuencia se comporta de forma contraria al condensador, la tensión `E` se adelanta de 90° a la intensidad `I`.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/circuito_resistencia_bobina_serie.jpg)
+
+In un circuito con una resistencia y una bobina en [serie](https://es.wikipedia.org/wiki/Circuito_en_serie) como la resistencia no desfasa y la bobina si que lo hace predomina el efecto de `L`. El desfase en este caso es menor de 90° porqué interviene `R`.
+
+Cuando hay condensadores, bobinas y resistencias en un circuito aparecen [tensiones combinadas](http://ingenieriaelectricafravedsa.blogspot.com/2014/11/tensiones-simples-y-compuestas.html) o de conjunto, intensidades combinadas o del conjunto e impedancias. 
+
+
+
 ## Bibliografía 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
