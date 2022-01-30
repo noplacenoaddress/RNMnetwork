@@ -50,7 +50,7 @@ La [impedancia](https://es.wikipedia.org/wiki/Impedancia) `Z` de un circuito es 
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/circuito_resistencia.jpg)
 
-
+Si intercalamos una resistencia en un circuito recurrido por CA la intensidad según la ley de Ohm es  `I = E/R` y la tensión estará en fase con la intensidad.
 
 ## Bibliografía 
 
