@@ -32,9 +32,25 @@ Es la oposición `XC` al paso de `CA` que presenta un condensador `C`. A mayor `
 
 Un condensador se opone al paso de corriente continua.
 
+#### 2.1.3 Combinación de componentes. Impedancia. 
+
+$$
+\begin{align*}
+Z\space=\space R+jX
+\end{align*}
+$$
+
+
+
+Se oponen al paso de CA en los circuitos tanto resistencias, cuanto condensadores y bobinas.
+
+La [impedancia](https://es.wikipedia.org/wiki/Impedancia) `Z` de un circuito es la suma de su resistencia `R` y su reactancia `X`. La letra `j` se trata da un [número imaginario](https://es.wikipedia.org/wiki/N%C3%BAmero_imaginario) ya que como hemos visto anteriormente para definir correctamente una reactancia, hay que tener en cuenta tanto su valor absoluto como el ángulo de desfase introducido por las bobinas y/o condensadores del circuito. Una impedancia, pues, debe definirse de tal forma que se conozca su magnitud y el desfasaje que produzca.
+
+#### 2.1.3.1 Circuitos serie.
+
 
 
 ## Bibliografía 
 
-- Libro de exámen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
+- Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Símbolos eléctricos & electrónicos](https://www.simbologia-electronica.com/). 
