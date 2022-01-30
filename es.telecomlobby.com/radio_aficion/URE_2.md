@@ -81,6 +81,8 @@ En serie `R-L-C` bobina y condensador ejercen efectos opuestos tanto en reactanc
 
 Los desfases dependen de los valores de `R`, `L` y `C` y son menores de 90°. Si la reactancia del condensador es mayor que la de la bobina, nos encontramos ante un [circuito inductivo](https://www.fisicapractica.com/inductivos-alterna.php). Si predominan componentes capacitivas será un [circuito capacitivo](https://www.fisicapractica.com/capacitivos-alterna.php). Si se compensan el circuito será [resistivo puro](http://www.proyecto987.es/corriente_alterna_6.html#Circuito_resistivo_puro).
 
+#### 2.1.3.2 Circuitos en paralelo
+
 
 
 ## Bibliografía 
