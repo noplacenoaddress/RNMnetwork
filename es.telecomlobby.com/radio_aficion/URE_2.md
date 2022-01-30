@@ -48,9 +48,12 @@ La [impedancia](https://es.wikipedia.org/wiki/Impedancia) `Z` de un circuito es 
 
 #### 2.1.3.1 Circuitos serie.
 
+![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/circuito_resistencia.jpg)
+
 
 
 ## Bibliografía 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Símbolos eléctricos & electrónicos](https://www.simbologia-electronica.com/). 
+- [Xcircuit](http://opencircuitdesign.com/xcircuit/)
