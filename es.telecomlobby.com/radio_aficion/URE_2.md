@@ -248,7 +248,11 @@ $$
 Q\space=\space\frac{2\pi fL}{R_s}\space=\space\frac{R_p}{2\pi fL}\space=\space\frac{frecuencia\space de\space resonancia}{Ancho\space de\space banda}
 \end{align*}
 $$
+La caída de voltaje sobre la bobina o el condensador es `Q` veces el voltaje aplicado, el valor de `Q` para un circuito resonante serie tiene su mayor importancia cuando se consideran circuitos de equipos de radio aficionado, donde es necesario que se lo más alto posible, pues de ese factor dependerá la sobre tensión que pueda obtenerse.
 
+#### 2.4.3 Respuesta en frecuencia.
+
+En cada filtro hay dos zonas principales llamadas banda de paso y banda de atenuación.
 
 ## Bibliografía
 
@@ -262,3 +266,4 @@ $$
 - [Rubén Sánchez - electrónica](http://rubensm.com/category/electronica/).
 - [ngspice](http://ngspice.sourceforge.net/) 
 - ngspice - [manual](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/ngspice-manual.pdf). 
+- [Rafael Domínguez Castro](http://www2.imse-cnm.csic.es/~rafael/), [SETI](http://www2.imse-cnm.csic.es/~rafael/SETI/).
