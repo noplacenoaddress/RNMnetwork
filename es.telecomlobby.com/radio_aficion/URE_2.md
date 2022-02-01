@@ -103,7 +103,7 @@ Si la reactancia capacitiva es mayor que `R` la corriente va por `R`: circuito r
 
 La tensión es la misma en cada rama. La intensidad es según la ley de Ohm la tensión dividida por la resistencia `R` o las reactancias `L` y `C`.
 
-Si la reactancia de C es mayor que la de L: circuito inductivo.
+Si la reactancia de `C` es mayor que la de `L`: circuito inductivo.
 
 Si predominan las componentes capacitivas: circuito capacitivo.
 
@@ -185,7 +185,7 @@ En los circuitos de radio y TV los circuitos serie son sistemas de resonancia co
 
 #### 2.3 Comportamiento de resistencias, condensadores y bobinas reales en altas frecuencias.
 
-Hay que tener en cuenta que R, C y L a altas frecuencias, mayor de  [1 MHz](https://es.wikipedia.org/wiki/Megahercio), no presentan un valor igual a su nominal, debido sobre todo a la aparición de capacidades e [inductancias parásitas](http://rubensm.com/el-inductancia-parasita-serie-de-un-condensador/).
+Hay que tener en cuenta que `R`, `C` y `L` a altas frecuencias, mayor de  [1 MHz](https://es.wikipedia.org/wiki/Megahercio), no presentan un valor igual a su nominal, debido sobre todo a la aparición de capacidades e [inductancias parásitas](http://rubensm.com/el-inductancia-parasita-serie-de-un-condensador/).
 
 En la utilización de estos elementos en [filtros](https://es.wikipedia.org/wiki/Filtro_paso_banda) para supresión de interferencias hay que tener bien en cuenta su comportamiento real ya que se pueden hasta comportar de forma opuesta a la deseada, hecho de tener bien en cuenta en el diseño de los circuitos.
 
@@ -201,7 +201,33 @@ Las bobinas presentan, además de la inductancia, una resistencia en serie y una
 
 En los sistemas de comunicación necesitamos acoplar diferentes circuitos bien sea para transferir una señal o bien para eliminar otras. Dos circuitos están acoplados cuando una tensión o corriente en una red produce otra tensión corriente en la otra. Puede ser deseado o indeseado como consecuencia de un error de diseño.
 
-## Bibliografía 
+Existen numerosas configuraciones para realizar el acoplamiento entre dos circuitos siendo desde le punto de vista de la radio afición las más interesantes los filtros y las llamadas redes en [escalera](https://es.wikipedia.org/wiki/Red_R-2R).
+
+Los filtros son redes que permiten o detienen el paso de una terminada frecuencia o grupo de frecuencias, banda de frecuencias. Un filtro es un circuito con al menos un elemento reactivo, `L` o `C`. Los que tienen solo un elemento toman el nombre de «filtro de primer orden» siguiendo así de par en par con el número de elementos. 
+
+La principal característica de un filtro es su frecuencia de corte, que delimita la banda de frecuencias que pasan o no por el filtro.
+
+Además de que lo podemos clasificar en pasivos o activos:
+
+- <u>pasivos</u>: formados por combinaciones serie o paralelo de elementos pasivos `R`, `L` o `C`.
+- <u>activos</u>: aquellos que emplean dispositivos activos como [transistores](https://es.wikipedia.org/wiki/Transistor) o [amplificadores operacionales](https://es.wikipedia.org/wiki/Amplificador_operacional) conjuntamente a `R`, `L` o `C`. 
+
+Según su uso se pueden clasificar en:
+
+- <u>paso alto</u>.
+- <u>paso bajo</u>.
+- <u>paso de banda</u>.
+- <u>supresión de banda</u>.
+
+#### 2.4.1 Filtros compuestos de elementos pasivos: paso alto, paso bajo, paso de banda, supresión de banda. Ancho de banda.
+
+![](https://musiki.org.ar/images/2/2f/Captura_de_pantalla_2016-10-09_a_la%28s%29_10.16.52_a.m..png)
+
+Paso alto el que permite paso de frecuencias desde una determinada hacia arriba; paso bajo es aquel que permite el paso de frecuencias bajas desde la frecuencia 0 o continua hasta una determinada.
+
+
+
+## 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Símbolos eléctricos & electrónicos](https://www.simbologia-electronica.com/). 
