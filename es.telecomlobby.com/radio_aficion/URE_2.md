@@ -276,6 +276,8 @@ El cuarzo es un mineral cristalino de sílice en el que se descubrieron hacia 19
 
 El cristal de cuarzo se usa como componente de control de la frecuencia de circuitos osciladores convirtiendo las vibraciones mecánicas en voltajes eléctricos a una frecuencia específica, dado que presenta un comportamiento resonante. Así como un [péndulo](https://es.wikipedia.org/wiki/P%C3%A9ndulo) oscila a una frecuencia propia si, tras darle impulso, se le deja moverse libremente, un cristal de cuarzo sometido a un estímulo eléctrico puede continuar vibrando a una cierta frecuencia. Si se mantiene el estímulo de manera periódica y sincronizada, tendremos una [señal](https://es.wikipedia.org/wiki/Se%C3%B1al_el%C3%A9ctrica) a una frecuencia extraordinariamente precisa. Es la contrapartida electrónica de un reloj de péndulo. 
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/equi_cristal.svg)
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
