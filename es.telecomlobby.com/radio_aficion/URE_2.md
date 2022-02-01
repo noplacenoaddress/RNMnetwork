@@ -160,6 +160,8 @@ En el interior del tanque la corriente es muy grande, aunque la de línea sea ce
 
 La anchura de banda `B`, banda de paso o [pasabanda](https://es.wikipedia.org/wiki/Pasabanda) de un circuito resonante es el número de ciclos a un lado y otro de la frecuencia de resonancia que prácticamente proporciona la misma corriente.
 
+
+
 ## Bibliografía 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
@@ -167,3 +169,4 @@ La anchura de banda `B`, banda de paso o [pasabanda](https://es.wikipedia.org/wi
 - [Xcircuit](http://opencircuitdesign.com/xcircuit/)
 - Física práctica - [Electricidad](https://www.fisicapractica.com/electricidad.php). 
 - Proyecto 987 - [Corriente alterna](http://www.proyecto987.es/corriente_alterna_0.html).
+- Tecnológico de Costa Rica, William Marin, «[sistemas de comunicaciones - conceptos básicos](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/conceptos_basicos_previos.pdf)». 
