@@ -158,9 +158,26 @@ En el interior del tanque la corriente es muy grande, aunque la de línea sea ce
 
 #### 2.2.1 Características de los circuitos resonantes.
 
-La anchura de banda `B`, banda de paso o [pasabanda](https://es.wikipedia.org/wiki/Pasabanda) de un circuito resonante es el número de ciclos a un lado y otro de la frecuencia de resonancia que prácticamente proporciona la misma corriente.
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/XC12548.svg)
+
+La anchura de banda `B`, banda de paso o [pasabanda](https://es.wikipedia.org/wiki/Pasabanda) de un circuito resonante es el número de ciclos a un lado y otro de la frecuencia de resonancia que prácticamente proporciona la misma corriente. Se define por convención como aquel margen en que la energía de la señal es igual o mayor a la mitad de energía máxima, esto es el margen comprendido entro los puntos donde el valor de la tensión o de la corriente está 6 `dB` por debajo del valor máximo.
+
+Concepto de factor de calidad delos circuitos resonantes: dado que `L` y `C` se eligen para que el conjunto resuene a determinada frecuencia y que esa [frecuencia de resonancia](https://es.wikipedia.org/wiki/Frecuencia_de_resonancia) puede conseguirse con distintos conjuntos los cuales tendrán mayor o menos dispersión en la curva de selectividad.
+$$
+\begin{align*}
+Q\space=\space\frac{F_{res}}{B}
+\end{align*}
+$$
 
 
+El [factor de calidad](https://es.wikipedia.org/wiki/Factor_de_calidad) `Q`  es la relación que hay entre la frecuencia de resonancia y su ancho de banda. Para los circuitos en serie y paralelo se convierte en:
+$$
+\begin{align*}
+Q\space=\space\frac{2\pi fL}{R_s}\\
+Q\space=\space\frac{R_p}{2\pi fL}
+\end{align*}
+$$
+`Q` es la facultad que tiene dicho circuito para seleccionar una frecuencia eliminando las demás. A mayor `Q` mayor agudeza en la curva de resonancia. La curva de un circuito de alta calidad, `Q` alto, será una curva muy estrecha; `Q` bajo corresponde a una cima más suave y baja, las variaciones de corriente serán más pequeñas y la curva será [chata](https://dle.rae.es/chato). A mayor `R` menor factor de calidad `Q`.
 
 ## Bibliografía 
 
@@ -170,3 +187,4 @@ La anchura de banda `B`, banda de paso o [pasabanda](https://es.wikipedia.org/wi
 - Física práctica - [Electricidad](https://www.fisicapractica.com/electricidad.php). 
 - Proyecto 987 - [Corriente alterna](http://www.proyecto987.es/corriente_alterna_0.html).
 - Tecnológico de Costa Rica, William Marin, «[sistemas de comunicaciones - conceptos básicos](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/conceptos_basicos_previos.pdf)». 
+- [Xcircuit tutorial](http://opencircuitdesign.com/xcircuit/tutorial/).
