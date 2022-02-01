@@ -278,6 +278,16 @@ El cristal de cuarzo se usa como componente de control de la frecuencia de circu
 
 ![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/equi_cristal.svg)
 
+La gama de frecuencias de resonancia va desde las [frecuencias audibles](https://es.wikipedia.org/wiki/Espectro_audible) hasta varios centenares de MHz y tiene un bajo [coeficiente de expansión](https://es.wikipedia.org/wiki/Coeficiente_de_dilataci%C3%B3n) por temperatura lo que permite construir dispositivos electrónicos muy estables dentro de un amplio rango de temperaturas. Para aplicaciones que demandan una extremada estabilidad, se colocan en los llamados «hornos de cristal» que son receptáculos calentados mantenidos a una temperatura constante.
+
+`C0` representa la capacidad dentro los electrodos del cristal más la capacidad de la carcasa y sus terminales. R1, C1 y L1 conforman la rama principal del cristal y se conocen como componentes o parámetros «de movimiento», siendo:
+
+-  `L1` la masa vibrante del cristal.
+- `C1` la classicidad del cuarzo.
+- `R1` las pérdidas producidas dentro del cristal.
+
+Los filtros de cristal de cuarzo tienen `Q` mucho más alto que los basados en `L`, `C` y `R`. Se construyen para ser utilizados como filtros de paso
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
