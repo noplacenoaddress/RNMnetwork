@@ -227,6 +227,10 @@ Paso alto el que permite paso de frecuencias desde una determinada hacia arriba;
 
 Un filtro pasa banda o supresión de banda es el que permite o impide el paso de componentes de frecuencia dentro de un determinado rango, comprendido entre una frecuencia de corte superior y otra inferior. Es una combinación de paso alto y paso bajo. Si se modifican estas frecuencias de corte, se modifica el rango de frecuencias, ampliando o disminuyendo las frecuencias que pueden pasar por él.
 
+Diremos pues que el ancho de banda de un filtro es la anchura, medida en hercios, del rango de frecuencias en el que se concentra la mayor parte de la potencia de la señal. Como veremos más adelante puede ser calculado a a partir de una señal temporal mediante el [análisis de Fourier](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_Fourier).
+
+#### 2.4.2 Redes en escalera. Factor de calidad de un circuito sintonizado.
+
 
 
 ## 
