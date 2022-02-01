@@ -268,7 +268,13 @@ Se llama filtro en T a lo que tiene uno de sus brazos en serie y otro en paralel
 
 #### 2.4.5 filtro de cristal de cuarzo.
 
-Basado en un circuito sintonizado
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/cristales-de-cuarzo.jpg)
+
+Basado en un circuito sintonizado, o resonante, de muy elevada selectividad que utiliza uno o más cristales de cuarzo.
+
+El cuarzo es un mineral cristalino de sílice en el que se descubrieron hacia 1930 [propiedades piezoelectricas](https://es.wikipedia.org/wiki/Piezoelectricidad), tales que el mineral cuando comprimido produce una separación de cargas eléctricas que genera a su vez una diferencia de potencial y reacciona mecánicamente cuando se somete a cun cierto voltaje.
+
+El cristal de cuarzo se usa como componente de control de la frecuencia de circuitos osciladores convirtiendo las vibraciones mecánicas en voltajes eléctricos a una frecuencia específica, dado que presenta un comportamiento resonante. Así como un [péndulo](https://es.wikipedia.org/wiki/P%C3%A9ndulo) oscila a una frecuencia propia si, tras darle impulso, se le deja moverse libremente, un cristal de cuarzo sometido a un estímulo eléctrico puede continuar vibrando a una cierta frecuencia. Si se mantiene el estímulo de manera periódica y sincronizada, tendremos una [señal](https://es.wikipedia.org/wiki/Se%C3%B1al_el%C3%A9ctrica) a una frecuencia extraordinariamente precisa. Es la contrapartida electrónica de un reloj de péndulo. 
 
 ## Bibliografía
 
