@@ -258,6 +258,12 @@ En cada filtro hay dos zonas principales llamadas [banda de paso y banda de aten
 
 #### 2.4.4 Filtro en PI y filtro en T.
 
+![](https://raw.githubusercontent.com/noplacenoaddress/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/filtro_PI.svg)
+
+Se llama [filtro en PI](https://es.wikipedia.org/wiki/Filtro_electr%C3%B3nico) a lo que tiene uno de sus brazos en serie y dos paralelos y cuya configuración se asemeja a la letra griega π.
+
+Se llama filtro en T a lo que tiene uno de sus brazos en serie y otro en paralelo y cuya configuración se asemeja a la letra T.
+
 
 
 ## Bibliografía
