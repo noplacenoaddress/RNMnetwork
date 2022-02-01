@@ -197,9 +197,9 @@ Las bobinas presentan, además de la inductancia, una resistencia en serie y una
 
 #### 2.4 Filtros.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/radio%20espa%C3%B1ola.jpg)
 
-
-En los sistemas de comunicación 
+En los sistemas de comunicación necesitamos acoplar diferentes circuitos bien sea para transferir una señal o bien para eliminar otras. Dos circuitos están acoplados cuando una tensión o corriente en una red produce otra tensión corriente en la otra. Puede ser deseado o indeseado como consecuencia de un error de diseño.
 
 ## Bibliografía 
 
