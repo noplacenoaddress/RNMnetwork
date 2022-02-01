@@ -181,7 +181,25 @@ $$
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/Radio%20Astor%20modelo%20PS.gif)
 
-En los circuitos de radio y TV los circuitos serie son sistemas de resonancia con un factor `Q` de valores entra `50` y `200`.
+En los circuitos de radio y TV los circuitos serie son sistemas de resonancia con un factor `Q` de valores entra `50` y `200`. Hay diferencias entre  de una bobina y el de un condensador, ambos tienen su `Q` propio; se eligen según la frecuencia a que deba resonar el conjunto, influyendo más `L`. `L` tiene un `Q` bajo y `C` alto; para altas frecuencias se requiere `Q` alto.
+
+#### 2.3 Comportamiento de resistencias, condensadores y bobinas reales en altas frecuencias.
+
+Hay que tener en cuenta que R, C y L a altas frecuencias, mayor de  [1 MHz](https://es.wikipedia.org/wiki/Megahercio), no presentan un valor igual a su nominal, debido sobre todo a la aparición de capacidades e [inductancias parásitas](http://rubensm.com/el-inductancia-parasita-serie-de-un-condensador/).
+
+En la utilización de estos elementos en [filtros](https://es.wikipedia.org/wiki/Filtro_paso_banda) para supresión de interferencias hay que tener bien en cuenta su comportamiento real ya que se pueden hasta comportar de forma opuesta a la deseada, hecho de tener bien en cuenta en el diseño de los circuitos.
+
+La resistencia en continua difiere de la resistencia en alterna, en esta última crece al aumentar la frecuencia debido al efecto pelicular.
+
+Los condensadores no presentan solo una capacidad sino que tienen asociadas una resistencia e inductancia, debidas a los terminales y a la estructura del componente. Al aumentar la frecuencia disminuye la reactancia de un condensador y viceversa.
+
+Las bobinas presentan, además de la inductancia, una resistencia en serie y una capacidad distribuida en el bobinado. Por ello a alta frecuencia la inductancia equivalente puede ser negativa es decir, el inductor se puede comportar como un condensador. Por lo tanto el factor de calidad real es siemrpe inferior al teórico.
+
+#### 2.4 Filtros.
+
+
+
+En los sistemas de comunicación 
 
 ## Bibliografía 
 
@@ -192,3 +210,4 @@ En los circuitos de radio y TV los circuitos serie son sistemas de resonancia co
 - Proyecto 987 - [Corriente alterna](http://www.proyecto987.es/corriente_alterna_0.html).
 - Tecnológico de Costa Rica, William Marin, «[sistemas de comunicaciones - conceptos básicos](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/conceptos_basicos_previos.pdf)». 
 - [Xcircuit tutorial](http://opencircuitdesign.com/xcircuit/tutorial/).
+- [Rubén Sánchez - electrónica](http://rubensm.com/category/electronica/).
