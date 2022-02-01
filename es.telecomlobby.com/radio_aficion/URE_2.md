@@ -252,7 +252,13 @@ La caída de voltaje sobre la bobina o el condensador es `Q` veces el voltaje ap
 
 #### 2.4.3 Respuesta en frecuencia.
 
-En cada filtro hay dos zonas principales llamadas banda de paso y banda de atenuación.
+![](http://www2.imse-cnm.csic.es/~rafael/SETI/escaRCact2.gif)
+
+En cada filtro hay dos zonas principales llamadas [banda de paso y banda de atenuación](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/SETI/tema2.pdf). En la banda de paso, es donde las frecuencias pasan con un máximo de su valor, o hasta un valor del `50%` con respecto a su original y con una atenuación de `6 dB`, a partir de aquí nos encontramos en la banda de atenuación.
+
+#### 2.4.4 Filtro en PI y filtro en T.
+
+
 
 ## Bibliografía
 
