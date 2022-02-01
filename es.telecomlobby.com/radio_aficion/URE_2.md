@@ -235,6 +235,19 @@ Diremos pues que el ancho de banda de un filtro es la anchura, medida en hercios
 
 ## 
 
+Las redes en escalera son redes formadas por combinaciones en serie y paralelo de inductancias y condensadores, en ocasiones hay también resistencias, además de las propias internas de los componentes. En caso no haya se dicen redes no disipativas, no consuman potencia.
+
+El funcionamiento de un filtro se basa en la combinación de dos principios:
+
+- Al aumentar f disminuye la reactancia de C y viceversa.
+- Al aumenta f aumenta la reactancia de L y viceversa.
+
+Recordemos que la reactancia capacitiva es negativa mientras que la inductiva es positiva. Su suma puede ser 0 aunque ninguna de las dos sean nulas.
+$$
+\begin{align*}
+Q\space=\space\frac{2\pi fL}{R_s}\space=\space\frac{R_p}{2\pi fL}\space=\space\frac{frecuencia\space de\space resonancia}{Ancho\space de\space banda}
+\end{align*}
+$$
 
 
 ## Bibliografía
