@@ -231,9 +231,13 @@ Diremos pues que el ancho de banda de un filtro es la anchura, medida en hercios
 
 #### 2.4.2 Redes en escalera. Factor de calidad de un circuito sintonizado.
 
-
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/red_escalera.svg)
 
 ## 
+
+
+
+## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Símbolos eléctricos & electrónicos](https://www.simbologia-electronica.com/). 
