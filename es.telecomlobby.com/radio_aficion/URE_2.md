@@ -225,6 +225,8 @@ Según su uso se pueden clasificar en:
 
 Paso alto el que permite paso de frecuencias desde una determinada hacia arriba; paso bajo es aquel que permite el paso de frecuencias bajas desde la frecuencia 0 o continua hasta una determinada.
 
+Un filtro pasa banda o supresión de banda es el que permite o impide el paso de componentes de frecuencia dentro de un determinado rango, comprendido entre una frecuencia de corte superior y otra inferior. Es una combinación de paso alto y paso bajo. Si se modifican estas frecuencias de corte, se modifica el rango de frecuencias, ampliando o disminuyendo las frecuencias que pueden pasar por él.
+
 
 
 ## 
@@ -237,3 +239,5 @@ Paso alto el que permite paso de frecuencias desde una determinada hacia arriba;
 - Tecnológico de Costa Rica, William Marin, «[sistemas de comunicaciones - conceptos básicos](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/conceptos_basicos_previos.pdf)». 
 - [Xcircuit tutorial](http://opencircuitdesign.com/xcircuit/tutorial/).
 - [Rubén Sánchez - electrónica](http://rubensm.com/category/electronica/).
+- [ngspice](http://ngspice.sourceforge.net/) 
+- ngspice - manual. 
