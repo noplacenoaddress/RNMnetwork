@@ -137,9 +137,28 @@ Si `f` es baja el condensador se opone más, habrá un efecto de reactancia capa
 
 Por encima de esta frecuencia la oposición al paso es de efecto inductivo ya que la bobina `L` presente siempre pegas al aumento de la frecuencia al contrario del condensador `C`. Al ejercer la bobina un efecto inductivo alto el circuito se comporta como capacitivo, discurre mayor corriente a toda ella por la capacidad o condensador.
 
-En condiciones de resonancia se compensan los desfases entra I y E, el condensador adelanta a la intensidad y en la bobina en cambio se adelante la tensión E, ambas de 90°. La curva que representa la intensidad es exactamente opuesta a la curva que representaría la impedancia. 
+En condiciones de resonancia se compensan los desfases entra `I` y `E`, el condensador adelanta a la intensidad y en la bobina en cambio se adelante la tensión `E`, ambas de 90°. La curva que representa la intensidad es exactamente opuesta a la curva que representaría la impedancia. 
 
 ##### Resonante paralelo
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1d/Tuned_circuit_animation_3.gif)
+
+La tensión de alimentación se origina fuera del circuito, no así en el resonante en serie. Toma el nombre de [circuito tanque](https://es.wikipedia.org/wiki/Circuito_LC) el que contiene una inducción `L` y una capacidad `C` sin fuente de alimentación por su facultad de almacenar energía perdiéndola y restituyéndola cíclicamente. 
+
+El circuito tanque ideal está formado por una combinación `LC` en paralelo con las reactancias `RL` y `RC` iguales. 
+
+La corriente de línea que entrega el generador es la intensidad en `L` menos la intensidad en `C`.
+
+La impedancia `Z` es el producto de las reactancias en `L` y `C` dividido por su suma, como que son iguales y de signo contrario resulta que:
+
+- El [denominador](https://es.wikipedia.org/wiki/Fracci%C3%B3n) se anula, por lo que Z tiende a infinito. 
+- La corriente de línea en resonancia en este circuito se hace cero.
+
+En el interior del tanque la corriente es muy grande, aunque la de línea sea cero.
+
+#### 2.2.1 Características de los circuitos resonantes.
+
+La anchura de banda `B`, banda de paso o [pasabanda](https://es.wikipedia.org/wiki/Pasabanda) de un circuito resonante es el número de ciclos a un lado y otro de la frecuencia de resonancia que prácticamente proporciona la misma corriente.
 
 ## Bibliografía 
 
