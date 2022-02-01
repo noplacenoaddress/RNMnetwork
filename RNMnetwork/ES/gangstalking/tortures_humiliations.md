@@ -1457,6 +1457,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 28/1/2022 01:32 francesca, andreu and them crew of Mafias follow to torture because tomorrow I've got a good day of work. STOP THOSE FRANCOISE TERRORIST.
 - 30/1/2022 09:20 The day start and as usual **Francesca** torture.
 - 1/2/2022 14:21 **Francesca**, **Andreu** and **Aurora** don't stop to torture. Every day and every night, I've stopped to log every torture acts from those morons. Those idiot follow the same pattern of torture very simple to explain in front of a judge. 
+- 1/2/2022 16:48 **Francesca** is violating me all the day all the nights from four years!!!! STOP THIS MONSTER.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 

@@ -266,7 +266,9 @@ Se llama filtro en T a lo que tiene uno de sus brazos en serie y otro en paralel
 
 ![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/filtro_T.svg)
 
+#### 2.4.5 filtro de cristal de cuarzo.
 
+Basado en un circuito sintonizado
 
 ## Bibliografía
 
