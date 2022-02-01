@@ -264,6 +264,8 @@ Se llama [filtro en PI](https://es.wikipedia.org/wiki/Filtro_electr%C3%B3nico) a
 
 Se llama filtro en T a lo que tiene uno de sus brazos en serie y otro en paralelo y cuya configuración se asemeja a la letra T.
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/filtro_T.svg)
+
 
 
 ## Bibliografía
