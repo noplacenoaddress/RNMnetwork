@@ -109,6 +109,38 @@ Si predominan las componentes capacitivas: circuito capacitivo.
 
 Si los componentes son iguales: circuito resistivo puro.
 
+#### 2.2 Circuitos resonantes. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f8/VariacionIZ.jpg)
+
+Circuitos donde se igualen las reactancias inductivas y capacitivas a una determinada frecuencia, llamada [frecuencia de resonancia](https://es.wikipedia.org/wiki/Resonancia_el%C3%A9ctrica):
+$$
+\begin{align*}
+f\space=\space\frac{1}{2\pi\sqrt{LC}}
+\end{align*}
+$$
+`L` es la autoinducción en henrios y `C` la capacidad en faradios. 
+
+Por debajo de la resonancia predomina el carácter inductivo porque la corriente pasará mejor por la bobina que por el condensador. Por encima el circuito será capacitivo porqu el condensador para estas frecuencias presenta menos dificultades al paso de la corriente.
+
+La intensidad será por la ley de Ohm la tensión dividida pro la impedancia del conjunto `I=E/Z`
+
+##### Resonante serie
+
+La tensión es la misma en los terminales de la autoinducción que en los terminales de la capacidad, se reduce al mínimo y la intensidad es máxima.
+
+Se pueden conseguir corrientes muy elevadas haciendo que la resistencia sea muy pequeña y puede el circuito entregar tensiones mucho mayores que las que recibe.
+
+La [curva de resonancia](https://es.wikipedia.org/wiki/Resonancia#Curva_de_resonancia_universal) nos dice que la corriente varía según sea la frecuencia. Al variar `R`, la frecuencia de resonancia no varía. Si aumenta `R` la intensidad disminuye pero si `R` es muy grande pierde el circuito la facultad de seleccionar tensiones y no habrá diferencias entre las corrientes que circulan a la frecuencia de resonancia y las que lo hacen a otras frecuencias. 
+
+Si `f` es baja el condensador se opone más, habrá un efecto de reactancia capacitiva. Si aumentamos la frecuencia llegan a igualarse la reactancia capacitiva y la inductiva, haciéndose la impedancia mínima; coincide entonces con la frecuencia de resonancia y el circuito resuena. La impedancia se reduce a `R` y entonces la intensidad es máxima.
+
+Por encima de esta frecuencia la oposición al paso es de efecto inductivo ya que la bobina `L` presente siempre pegas al aumento de la frecuencia al contrario del condensador `C`. Al ejercer la bobina un efecto inductivo alto el circuito se comporta como capacitivo, discurre mayor corriente a toda ella por la capacidad o condensador.
+
+En condiciones de resonancia se compensan los desfases entra I y E, el condensador adelanta a la intensidad y en la bobina en cambio se adelante la tensión E, ambas de 90°. La curva que representa la intensidad es exactamente opuesta a la curva que representaría la impedancia. 
+
+##### Resonante paralelo
+
 ## Bibliografía 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
