@@ -286,7 +286,51 @@ La gama de frecuencias de resonancia va desde las [frecuencias audibles](https:/
 - `C1` la classicidad del cuarzo.
 - `R1` las pérdidas producidas dentro del cristal.
 
-Los filtros de cristal de cuarzo tienen `Q` mucho más alto que los basados en `L`, `C` y `R`. Se construyen para ser utilizados como filtros de paso
+Los filtros de cristal de cuarzo tienen `Q` mucho más alto que los basados en `L`, `C` y `R`. Se construyen para ser utilizados como filtros de paso bajo, paso alto, paso banda o supresión de banda.
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/filtro_cristal.png)
+
+#### 2.4.6 Efectos debidos a componentes reales
+
+Los componentes no siempre se comportan según el modelo ideal de diseño. Fundamentalmente la presencia de capacidades parásitas, las variaciones del valor y comportamiento de los distintos componentes y las pérdidas de inserción, nos obligan a la realización de pruebas para evaluar su comportamiento y efectuar las correcciones pertinentes con el fin de cumplir con las especificaciones de diseño.
+
+#### 2.5 Aplicación y uso de los transformadores. Transformador ideal.
+
+$$
+\begin{align*}
+P_{prim}\space=\space P_{sec}
+\end{align*}
+$$
+
+Es un dispositivos compuesto por al menos dos bobinas acopladas una conectada a una fuente de energía eléctrica denominada primario y otra que recibe la energía inducida denominada secundario.
+
+Un transformador ideal es aquel que no tiene pérdidas.
+
+Se emplean para transferir energía eléctrica entre dos circuitos independientes, desde uno a otro, mediante inducción y en esa trasferencia es posible cambiar la tensión existente en el primario en otra más alta igual o menos en el secundario. 
+
+Se emplea un núcleo de material magnetizable para que al aumentar la inductancia de las bobinas puedan tener un menor número de espiras. El secundario comunica la corriente a un circuito de utilización. el primario conectado a un fuente de alimentación alterna e recurrido pro una corriente produciendo en su núcleo un flujo alterno de igual frecuencia; así induce en el secundario una fem alterna de la misma frecuencia que la aplicada en el primario. La potencia aplicada en el primario es igual a la obtenida en el secundario salvo las pérdidas en los devanados y el núcleo. Su rendimiento es:
+$$
+\begin{align*}
+RENDIMIENTO\space=\space \frac{Potencia\space útil}{Potendia\space útil\space+\space pérdidas}\space=\space\frac{Potencia\space útil}{Potencia\space real}
+\end{align*}
+$$
+Los devanados deben estar bien aislados para evitar cortocircuitos.
+
+#### 2.5.1 Relación entre número de espiras y tensión.
+
+$$
+\begin{align*}
+Relación\space de\space transformación\space = \space \frac{n_{sec}}{n_{prim}}
+\end{align*}
+$$
+
+Se llama [relación de transformación](https://es.wikipedia.org/wiki/Dise%C3%B1o_de_transformadores#Relaci%C3%B3n_de_transformaci%C3%B3n) a la relación que hay entre el número de espiras del primario y el número de espiras del secundario. Si se trata del trasformador ideal, esta relación es la misma que hay entre las tensiones del primario y del secundario. O sea que las tensiones en cada devanado son proporcionales al número de espiras que lleva:
+$$
+\begin{align*}
+\frac{E_{sec}}{E_{prim}}\space=\space\frac{n_{sec}}{n_{prim}}
+\end{align*}
+$$
+
 
 ## Bibliografía
 
