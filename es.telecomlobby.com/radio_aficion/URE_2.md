@@ -240,4 +240,4 @@ Un filtro pasa banda o supresión de banda es el que permite o impide el paso de
 - [Xcircuit tutorial](http://opencircuitdesign.com/xcircuit/tutorial/).
 - [Rubén Sánchez - electrónica](http://rubensm.com/category/electronica/).
 - [ngspice](http://ngspice.sourceforge.net/) 
-- ngspice - manual. 
+- ngspice - [manual](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/ngspice-manual.pdf). 
