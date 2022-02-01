@@ -179,6 +179,10 @@ Q\space=\space\frac{R_p}{2\pi fL}
 $$
 `Q` es la facultad que tiene dicho circuito para seleccionar una frecuencia eliminando las demás. A mayor `Q` mayor agudeza en la curva de resonancia. La curva de un circuito de alta calidad, `Q` alto, será una curva muy estrecha; `Q` bajo corresponde a una cima más suave y baja, las variaciones de corriente serán más pequeñas y la curva será [chata](https://dle.rae.es/chato). A mayor `R` menor factor de calidad `Q`.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/Radio%20Astor%20modelo%20PS.gif)
+
+En los circuitos de radio y TV los circuitos serie son sistemas de resonancia con un factor `Q` de valores entra `50` y `200`.
+
 ## Bibliografía 
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
