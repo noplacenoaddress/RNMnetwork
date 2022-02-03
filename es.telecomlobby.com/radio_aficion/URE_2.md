@@ -365,6 +365,25 @@ Generalmente llevan núcleo de hierro cuando se usan en bajas frecuencias y núc
 
 Los transformadores de núcleo de hierro se componen de un núcleo de [hierro dulce](https://es.wikipedia.org/wiki/Hierro_forjado) laminado a cuyo alrededor hay dos o más devanados o bobinas independientes entre sí llamados primario y secundario. Los encontramos en [fuentes de alimentación](https://es.wikipedia.org/wiki/Fuente_de_alimentaci%C3%B3n) y pasos de audio de equipos antiguos. Caso particular aquellos que toman el nombre de [autotransformadores](https://es.wikipedia.org/wiki/Autotransformador) que tienen solo un devanado del que derivan las conexiones del primario y del secundario.
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/transformador_RF.svg)
+
+Transformadores RF cuyas bobinas suelen estar devanadas sobre un soporte de [baquelita](https://es.wikipedia.org/wiki/Baquelita) o de cartón son de núcleo de aire o de ferrita para facilitar los ajustes entra etapas. En los acoplamientos por transformador el transformador hace variar la tensión manteniendo igual la potencia, adaptando además los valores de la corriente y tensión en cada circuito. Estos transformadores de acoplamiento deben calcularse para una frecuencia determinada de trabajo y ser ajustables para adaptar las impedancias, lo que se logra induciendo generalmente un núcleo de ferrita. 
+
+#### 2.6 Formas de onda no sinusoidales.
+
+Existen numerosos tipos de formas de onda eléctricas de CA que no son de forma sinusoidal:
+
+- Ciertas señales de audio.
+- Las ondas cuadradas y rectangulares.
+- Las ondas triangulares y en diente de sierra.
+- Los pulsos y flancos o escalones.
+
+#### 2.6.1 Señales de audio.
+
+![](https://w3.ual.es/~vruiz/Docencia/Apuntes/Transduction/Audio/amplificacion.png)
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
@@ -379,3 +398,4 @@ Los transformadores de núcleo de hierro se componen de un núcleo de [hierro du
 - ngspice - [manual](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/ngspice-manual.pdf). 
 - [Rafael Domínguez Castro](http://www2.imse-cnm.csic.es/~rafael/), [SETI](http://www2.imse-cnm.csic.es/~rafael/SETI/).
 - [Lessons in Electric Circuits](http://www.ibiblio.org/kuphaldt/electricCircuits/)
+- [Vicente González Ruiz](https://vicente-gonzalez-ruiz.github.io/), [Transducción de Señales de Audio](https://w3.ual.es/~vruiz/Docencia/Apuntes/Transduction/Audio/index.html)
