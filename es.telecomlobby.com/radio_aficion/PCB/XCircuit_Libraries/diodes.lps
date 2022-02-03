@@ -1,0 +1,126 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: diodes
+%  Author: R. Timothy Edwards <tim@stravinsky.jhuapl.edu>
+
+%  Modified by: Graham sheward (Jan 2006) <gsheward@xtra.co.nz>
+%  The geometry, scale and pin labelling position are correct
+%  The infolabel and Spice information has not been addressed
+
+% Dependencies
+%	COMPONENT	Depends on	Library
+% 	led	 	arrowshort	terminals.lps
+
+
+% XCircuitLib library built-in objects
+
+
+/diode {
+begingate
+248 1.5 -18 -16 0 16 18 -16 3 polygon
+0 1.5 -18 16 18 16 2 polygon
+0 -48 0 -16 wire
+0 48 0 16 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+/diode2 {
+begingate
+0 1.5 -18 -16 0 16 18 -16 3 polygon
+0 1.5 -18 16 18 16 2 polygon
+0 -48 0 -16 wire
+0 48 0 16 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+/zener {
+begingate
+248 1.5 -18 -16 0 16 18 -16 3 polygon
+1 1.5 -18 8 -14 16 14 16 18 24 4 polygon
+0 -48 0 -16 wire
+0 48 0 16 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+/zener2 {
+begingate
+0 1.5 -18 -16 0 16 18 -16 3 polygon
+1 1.5 -18 8 -14 16 14 16 18 24 4 polygon
+0 -48 0 -16 wire
+0 48 0 16 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+/schottky {
+begingate
+248 1.5 -18 -16 0 16 18 -16 3 polygon
+1 1.5 -14 8 -18 8 -18 16 18 16 18 24 14 24 6 polygon
+0 -48 0 -16 wire
+0 48 0 16 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+/varactor {
+begingate
+248 1.5 -18 -16 0 16 18 -16 3 polygon
+1 1.5 -18 16 18 16 2 polygon
+1 1.5 -18 22 18 22 2 polygon
+1.0 -45 0 19 arrowshort
+0 -48 0 -16 wire
+0 48 0 22 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+/tunnel {
+begingate
+248 1.5 -18 -16 0 16 18 -16 3 polygon
+1 1.5 -14 8 -18 8 -18 16 18 16 18 8 14 8 6 polygon
+0 -48 0 -16 wire
+0 48 0 16 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+/led {
+begingate
+248 1.5 -18 -16 0 16 18 -16 3 polygon
+0 1.5 -18 16 18 16 2 polygon
+0.5 -135 32 -8 arrowshort
+0.5 -135 16 -32 arrowshort
+0 -48 0 -16 wire
+0 48 0 16 wire
+1 0 0 scb
+(d.m) {/Times-Roman cf} 2 9 0 1.0 0 48 pinlabel
+(d.p) {/Times-Roman cf} 2 13 0 1.0 0 -48 pinlabel
+sce
+endgate
+} def
+
+% EndLib

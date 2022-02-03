@@ -1,0 +1,491 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.0
+%  Library name is: chemie_tools1
+%
+%
+
+% XCircuitLib library built-in objects
+/Reagenzglas {
+% -32 -192 64 384 bbox
+begingate
+1  3.00 0 -160 32 180.00 360.00 xcarc
+1  3.00 32 -160 32 192 2 polygon
+1  3.00 -32 -160 -32 192 2 polygon
+endgate
+} def
+
+/Stopfen {
+% -32 -24 64 48 bbox
+begingate
+0.400 0.400 0.400 scb
+241  1.00 -24 -24 -32 24 32 24 24 -24 -24 -24 5 polygon
+sce
+endgate
+} def
+
+/Erlenmeyerkolben {
+% -97 -128 194 264 bbox
+begingate
+1  3.00 32 64 96 -96 2 polygon
+1  3.00 80 -128 104 -128 96 -96 64 -128 spline
+1  3.00 -32 64 -96 -96 2 polygon
+1  3.00 -80 -128 -104 -128 -96 -96 -64 -128 spline
+1  3.00 -64 -128 64 -128 2 polygon
+1  3.00 -32 64 -32 128 -40 136 40 136 32 128 32 64 6 polygon
+endgate
+} def
+
+/Trichter {
+% -176 -192 352 384 bbox
+begingate
+1  3.00 -16 -160 -16 32 -176 192 3 polygon
+1  3.00 16 -160 16 32 176 192 3 polygon
+1  3.00 -176 192 176 192 2 polygon
+1  3.00 -16 -160 16 -192 16 -160 3 polygon
+endgate
+} def
+
+/Abdampfschale {
+% -112 -24 224 56 bbox
+begingate
+1  3.00 -80 -16 -112 32 112 32 80 -16 -80 -16 -80 -24 80 -24 80 -16 8 polygon
+endgate
+} def
+
+/Brenner {
+% -248 -192 376 552 bbox
+begingate
+240  1.00 -32 192 -32 32 32 32 32 192 4 polygon
+241  1.00 -32 32 -64 -64 64 -64 32 32 -32 32 5 polygon
+240  1.00 -32 -64 -32 -160 32 -160 32 -64 4 polygon
+241  1.00 -32 -160 -128 -192 96 -192 128 -192 32 -160 -32 -160 6 polygon
+241  1.00 32 -96 64 -96 64 -80 80 -80 80 -144 64 -144 64 -128 32 -128 32 -96 
+9 polygon
+1.00 0 -216 168 Reagenzglas
+endgate
+} def
+
+/Gelbe_Flamme {
+% -18 -77 33 157 bbox
+begingate
+1.000 0.647 0.000 scb
+241  1.00 46 -238 -68 12 8 80 8 80 spline
+sce
+endgate
+} def
+
+/Blaue_Flamme {
+% -18 -77 33 157 bbox
+begingate
+0.000 1.000 1.000 scb
+241  1.00 46 -238 -68 12 8 80 8 80 spline
+sce
+endgate
+} def
+
+/Thermometer {
+% -32 -296 64 592 bbox
+begingate
+1  3.00 0 264 32 0.00 180.00 xcarc
+1  3.00 -32 264 -32 -216 2 polygon
+1  3.00 32 264 32 -216 2 polygon
+1  3.00 -16 -216 16 180.00 270.00 xcarc
+1  3.00 16 -216 16 270.00 360.00 xcarc
+0.000 0.000 1.000 scb
+240  3.00 0 -280 16 180.00 360.00 xcarc
+sce
+241  3.00 -16 -232 -16 -280 2 polygon
+241  3.00 16 -232 16 -280 2 polygon
+0.000 0.000 1.000 scb
+1  2.00 0 -280 0 280 2 polygon
+sce
+1  1.00 0 -216 32 -216 2 polygon
+1  1.00 16 -208 32 -208 2 polygon
+1  1.00 16 -200 32 -200 2 polygon
+1  1.00 16 -192 32 -192 2 polygon
+1  1.00 32 -184 8 -184 2 polygon
+1  1.00 16 -176 32 -176 2 polygon
+1  1.00 16 -168 32 -168 2 polygon
+1  1.00 16 -160 32 -160 2 polygon
+1  1.00 0 -152 32 -152 2 polygon
+1  1.00 16 -144 32 -144 2 polygon
+1  1.00 16 -136 32 -136 2 polygon
+1  1.00 16 -128 32 -128 2 polygon
+1  1.00 32 -120 8 -120 2 polygon
+1  1.00 16 -112 32 -112 2 polygon
+1  1.00 16 -104 32 -104 2 polygon
+1  1.00 16 -96 32 -96 2 polygon
+1  1.00 0 -88 32 -88 2 polygon
+1  1.00 16 -80 32 -80 2 polygon
+1  1.00 16 -72 32 -72 2 polygon
+1  1.00 16 -64 32 -64 2 polygon
+1  1.00 32 -56 8 -56 2 polygon
+1  1.00 16 -48 32 -48 2 polygon
+1  1.00 16 -40 32 -40 2 polygon
+1  1.00 16 -32 32 -32 2 polygon
+1  1.00 0 -24 32 -24 2 polygon
+1  1.00 16 -16 32 -16 2 polygon
+1  1.00 16 -8 32 -8 2 polygon
+1  1.00 16 0 32 0 2 polygon
+1  1.00 32 8 8 8 2 polygon
+1  1.00 16 16 32 16 2 polygon
+1  1.00 16 24 32 24 2 polygon
+1  1.00 16 32 32 32 2 polygon
+1  1.00 0 40 32 40 2 polygon
+1  1.00 16 48 32 48 2 polygon
+1  1.00 16 56 32 56 2 polygon
+1  1.00 16 64 32 64 2 polygon
+1  1.00 32 72 8 72 2 polygon
+1  1.00 16 80 32 80 2 polygon
+1  1.00 16 88 32 88 2 polygon
+1  1.00 16 96 32 96 2 polygon
+1  1.00 0 104 32 104 2 polygon
+1  1.00 16 112 32 112 2 polygon
+1  1.00 16 120 32 120 2 polygon
+1  1.00 16 128 32 128 2 polygon
+1  1.00 32 136 8 136 2 polygon
+1  1.00 16 144 32 144 2 polygon
+1  1.00 16 152 32 152 2 polygon
+1  1.00 16 160 32 160 2 polygon
+1  1.00 0 168 32 168 2 polygon
+1  1.00 16 176 32 176 2 polygon
+1  1.00 16 184 32 184 2 polygon
+1  1.00 16 192 32 192 2 polygon
+1  1.00 32 200 8 200 2 polygon
+1  1.00 16 208 32 208 2 polygon
+1  1.00 16 216 32 216 2 polygon
+1  1.00 16 224 32 224 2 polygon
+1  1.00 0 232 32 232 2 polygon
+1  1.00 16 240 32 240 2 polygon
+1  1.00 16 248 32 248 2 polygon
+1  1.00 16 256 32 256 2 polygon
+endgate
+} def
+
+/Rohrstueck_1 {
+% -16 -16 32 32 bbox
+begingate
+1  2.00 16 -16 17 90.00 180.00 xcarc
+1  2.00 16 -16 32 90.00 180.00 xcarc
+endgate
+} def
+
+/Rohrstueck_2 {
+% -16 -16 32 32 bbox
+begingate
+1  2.00 -16 -16 17 0.00 90.00 xcarc
+1  2.00 -16 -16 32 0.00 90.00 xcarc
+endgate
+} def
+
+/Rohrstueck_4 {
+% -16 -16 32 32 bbox
+begingate
+1  2.00 -16 16 17 270.00 360.00 xcarc
+1  2.00 -16 16 32 270.00 360.00 xcarc
+endgate
+} def
+
+/Rohrstueck_3 {
+% -16 -16 32 32 bbox
+begingate
+1  2.00 16 16 17 180.00 270.00 xcarc
+1  2.00 16 16 32 180.00 270.00 xcarc
+endgate
+} def
+
+/Reibschale {
+% -88 -64 176 128 bbox
+begingate
+1  3.00 40 -32 32 270.00 360.00 xcarc
+1  3.00 -56 -32 32 180.00 270.00 xcarc
+1  3.00 40 -64 -56 -64 2 polygon
+1  3.00 72 -32 72 48 2 polygon
+1  3.00 -88 -32 -88 48 2 polygon
+1  3.00 72 48 88 64 -88 64 -88 48 4 polygon
+endgate
+} def
+
+/Pistill {
+% -22 -102 44 198 bbox
+begingate
+0.800 0.800 0.800 scb
+240  3.00 -16 96 -16 -64 16 -64 16 96 4 polygon
+241  3.00 0 -80 22 0.00 360.00 xcarc
+sce
+endgate
+} def
+
+/Glasflasche {
+% -64 -96 128 192 bbox
+begingate
+0  3.00 -64 0 -64 -96 64 -96 64 0 4 polygon
+1  3.00 -64 0 -32 32 2 polygon
+1  3.00 64 0 32 32 2 polygon
+0  3.00 -32 64 -32 32 32 32 32 64 4 polygon
+240  3.00 -48 96 -48 64 48 64 48 96 4 polygon
+0.824 0.706 0.549 scb
+240  1.00 -32 -28 -32 -68 32 -68 32 -28 4 polygon
+sce
+endgate
+} def
+
+/Glasbehaelter_zylindrisch {
+% -216 -160 288 272 bbox
+begingate
+1  3.00 40 -144 16 270.00 360.00 xcarc
+1  3.00 40 -160 -184 -160 2 polygon
+1  3.00 -184 -144 16 180.00 270.00 xcarc
+1  3.00 -200 -144 -200 96 2 polygon
+1  3.00 56 -144 56 96 2 polygon
+1  3.00 -216 96 16 0.00 90.00 xcarc
+1  3.00 72 96 16 90.00 180.00 xcarc
+1  3.00 -200 96 56 96 2 polygon
+endgate
+} def
+
+/Stopfen_gross {
+% -128 -32 256 48 bbox
+begingate
+0.400 0.400 0.400 scb
+241  3.00 -120 -32 -128 16 128 16 120 -32 -120 -32 5 polygon
+sce
+endgate
+} def
+
+/Doppel-Reagenzglas {
+% -160 -256 320 512 bbox
+begingate
+1  3.00 -96 -96 -96 256 2 polygon
+1  3.00 -160 -96 -160 256 2 polygon
+1  3.00 160 -96 160 256 2 polygon
+1  3.00 96 -96 96 256 2 polygon
+1  3.00 0 -96 160 180.00 360.00 xcarc
+1  3.00 0 -96 96 180.00 360.00 xcarc
+endgate
+} def
+
+/Glaszylinder {
+% -192 -256 352 551 bbox
+begingate
+1  3.00 144 -224 144 126 2 polygon
+1  3.00 -176 -224 -176 126 2 polygon
+1  3.00 -16 112 160 0.00 180.00 xcarc
+240  1.00 -192 -224 -192 -256 160 -256 160 -224 4 polygon
+1  3.00 -88 304 48 304 -16 272 -24 272 spline
+endgate
+} def
+
+/Skala {
+% -16 -24 32 56 bbox
+begingate
+1  1.00 0 -24 -16 -24 2 polygon
+1  1.00 0 -16 -16 -16 2 polygon
+1  1.00 0 -8 -16 -8 2 polygon
+1  1.00 -16 0 8 0 2 polygon
+1  1.00 0 8 -16 8 2 polygon
+1  1.00 0 16 -16 16 2 polygon
+1  1.00 0 24 -16 24 2 polygon
+1  1.00 16 32 -16 32 2 polygon
+endgate
+} def
+
+/Magnet {
+% -64 -80 128 160 bbox
+begingate
+257  3.00 0 -16 64 180.00 360.00 xcarc
+257  3.00 0 -16 32 180.00 360.00 xcarc
+257  3.00 32 -16 32 80 64 80 64 -16 4 polygon
+257  3.00 -64 -16 -64 80 -32 80 -32 -16 4 polygon
+1.000 0.000 0.000 scb
+496  3.00 -64 80 -64 48 -32 48 -32 80 4 polygon
+sce
+0.000 1.000 0.000 scb
+496  3.00 32 80 32 48 64 48 64 80 4 polygon
+sce
+endgate
+} def
+
+/Standzylinder {
+% -112 -208 224 400 bbox
+begingate
+0  3.00 -112 -176 -112 -208 112 -208 112 -176 4 polygon
+1  3.00 -80 -176 -80 176 2 polygon
+1  3.00 80 -176 80 176 96 192 -96 192 -80 176 5 polygon
+endgate
+} def
+
+/Messzylinder {
+% -96 -192 224 400 bbox
+begingate
+0  3.00 -96 -160 -96 -192 128 -192 128 -160 4 polygon
+1  3.00 -64 -160 -64 192 2 polygon
+1  3.00 -64 192 -80 208 96 208 96 -160 4 polygon
+1  1.00 0 -80 32 -80 2 polygon
+1  1.00 8 -88 24 -88 2 polygon
+1  1.00 0 -96 32 -96 2 polygon
+1  1.00 8 -104 24 -104 2 polygon
+1  1.00 0 -112 32 -112 2 polygon
+1  1.00 8 -120 24 -120 2 polygon
+1  1.00 0 -128 32 -128 2 polygon
+1  1.00 8 -136 24 -136 2 polygon
+1  1.00 0 -144 32 -144 2 polygon
+1  1.00 8 -152 24 -152 2 polygon
+1  1.00 0 0 32 0 2 polygon
+1  1.00 8 -8 24 -8 2 polygon
+1  1.00 0 -16 32 -16 2 polygon
+1  1.00 8 -24 24 -24 2 polygon
+1  1.00 0 -32 32 -32 2 polygon
+1  1.00 8 -40 24 -40 2 polygon
+1  1.00 0 -48 32 -48 2 polygon
+1  1.00 8 -56 24 -56 2 polygon
+1  1.00 0 -64 32 -64 2 polygon
+1  1.00 8 -72 24 -72 2 polygon
+1  1.00 0 80 32 80 2 polygon
+1  1.00 8 72 24 72 2 polygon
+1  1.00 0 64 32 64 2 polygon
+1  1.00 8 56 24 56 2 polygon
+1  1.00 0 48 32 48 2 polygon
+1  1.00 8 40 24 40 2 polygon
+1  1.00 0 32 32 32 2 polygon
+1  1.00 8 24 24 24 2 polygon
+1  1.00 0 16 32 16 2 polygon
+1  1.00 8 8 24 8 2 polygon
+1  1.00 0 160 32 160 2 polygon
+1  1.00 8 152 24 152 2 polygon
+1  1.00 0 144 32 144 2 polygon
+1  1.00 8 136 24 136 2 polygon
+1  1.00 0 128 32 128 2 polygon
+1  1.00 8 120 24 120 2 polygon
+1  1.00 0 112 32 112 2 polygon
+1  1.00 8 104 24 104 2 polygon
+1  1.00 0 96 32 96 2 polygon
+1  1.00 8 88 24 88 2 polygon
+endgate
+} def
+
+/Rundkolben {
+% -86 -166 172 326 bbox
+begingate
+1  3.00 40 160 24 144 24 0 3 polygon
+1  3.00 -40 160 -24 144 -24 0 3 polygon
+1  3.00 0 -80 86 105.00 434.04 xcarc
+1  3.00 -40 160 40 160 2 polygon
+endgate
+} def
+
+/Stehkolben {
+% -97 -160 194 320 bbox
+begingate
+1  3.00 -48 -160 48 -160 2 polygon
+1  3.00 80 -152 152 -56 24 0 48 -160 spline
+1  3.00 -80 -152 -152 -56 -24 0 -48 -160 spline
+1  3.00 -24 0 -24 144 -40 160 3 polygon
+1  3.00 24 0 24 144 40 160 3 polygon
+1  3.00 40 160 -40 160 2 polygon
+endgate
+} def
+
+/Tropf-Pipette {
+% -32 -264 64 528 bbox
+begingate
+1  3.00 -16 -232 -16 120 2 polygon
+1  3.00 16 120 16 -232 2 polygon
+1  3.00 16 -232 8 -264 2 polygon
+1  3.00 -16 -232 -8 -264 2 polygon
+1  3.00 0 232 32 0.00 180.00 xcarc
+1  3.00 -32 232 -32 120 -24 104 -24 56 -24 64 5 polygon
+1  3.00 32 232 32 120 24 104 24 56 24 64 5 polygon
+endgate
+} def
+
+/Messpipette {
+% -16 -256 32 512 bbox
+begingate
+1  3.00 -16 -224 -8 -256 2 polygon
+1  3.00 -16 -224 -16 256 2 polygon
+1  3.00 16 -224 16 256 2 polygon
+1  3.00 16 -224 8 -256 2 polygon
+1  3.00 -16 256 16 256 2 polygon
+1  1.00 -8 224 8 224 2 polygon
+1  1.00 -8 192 8 192 2 polygon
+1  1.00 -8 160 8 160 2 polygon
+1  1.00 -8 128 8 128 2 polygon
+1  1.00 -8 96 8 96 2 polygon
+1  1.00 -8 64 8 64 2 polygon
+1  1.00 -8 32 8 32 2 polygon
+1  1.00 -8 0 8 0 2 polygon
+1  1.00 -8 -32 8 -32 2 polygon
+1  1.00 -8 -64 8 -64 2 polygon
+1  1.00 -8 -96 8 -96 2 polygon
+1  1.00 -8 -128 8 -128 2 polygon
+1  1.00 -8 -160 8 -160 2 polygon
+1  1.00 -8 -192 8 -192 2 polygon
+endgate
+} def
+
+/Uhrglas {
+% -64 -19 128 35 bbox
+begingate
+1  3.00 -32 -32 32 -32 64 16 -64 16 spline
+1  3.00 -64 16 64 16 2 polygon
+endgate
+} def
+
+/Verbrennungsloeffel {
+% -48 -255 96 503 bbox
+begingate
+1  3.00 -24 -264 24 -264 48 -232 -48 -232 spline
+1  3.00 -48 -232 -48 248 -32 248 -32 -232 48 -232 5 polygon
+endgate
+} def
+
+/Filtrierflasche {
+% -113 -225 226 449 bbox
+begingate
+1  3.00 96 -208 17 270.00 360.00 xcarc
+1  3.00 112 -208 112 96 2 polygon
+1  3.00 -96 -208 17 180.00 270.00 xcarc
+1  3.00 -112 -208 -112 96 2 polygon
+1  3.00 96 -224 -96 -224 2 polygon
+1  3.00 -48 224 -48 128 2 polygon
+1  3.00 -32 128 -88 128 -112 96 -48 128 spline
+1  3.00 48 224 48 192 80 192 80 176 48 176 48 128 6 polygon
+1  3.00 48 224 -48 224 2 polygon
+1  3.00 64 128 104 112 112 96 48 128 spline
+endgate
+} def
+
+/Filtriernutsche {
+% -112 -224 224 448 bbox
+begingate
+1  3.00 -112 224 -96 64 2 polygon
+1  3.00 112 224 96 64 2 polygon
+1  3.00 112 224 -112 224 2 polygon
+1  3.00 -16 0 -16 -200 16 -224 16 0 4 polygon
+1  3.00 32 0 96 40 96 64 16 0 spline
+1  3.00 -32 0 -96 40 -96 64 -16 0 spline
+endgate
+} def
+
+/Porzellanschiffchen {
+% -128 -16 256 40 bbox
+begingate
+1  3.00 -128 16 -96 -16 64 -16 96 16 128 16 128 24 -128 24 -128 16 8 polygon
+endgate
+} def
+
+/Messkolben {
+% -90 -240 180 480 bbox
+begingate
+1  3.00 -64 -240 64 -240 2 polygon
+1  3.00 120 -192 80 -48 16 -16 64 -240 spline
+1  3.00 -120 -192 -80 -48 -16 -16 -64 -240 spline
+1  3.00 -16 -16 -16 240 2 polygon
+1  3.00 16 -16 16 240 2 polygon
+1  3.00 -16 240 16 240 2 polygon
+endgate
+} def
+
+
+% EndLib

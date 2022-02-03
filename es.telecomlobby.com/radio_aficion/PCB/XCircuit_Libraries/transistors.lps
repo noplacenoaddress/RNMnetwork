@@ -1,0 +1,407 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: transistors
+%  Author: R. Timothy Edwards <tim@stravinsky.jhuapl.edu>
+
+%  Modified by: Graham sheward (Jan 2006) <gsheward@xtra.co.nz>
+%  The geometry, scale and pin labelling position are correct
+%  The infolabel and Spice information has not been addressed
+
+% Dependencies
+%	COMPONENT		Depends on				Library
+% 	ujt	 		arrowhead				terminals.lps
+% 	jfet_n		jfet, arrowhead			transistors.lps 
+% 	jfet_n2 		circletr, jfet, arrowhead	transistors.lps
+% 	jfet_p		jfet, arrowhead			transistors.lps
+% 	jfet_p2		circletr, jfet, arrowhead	transistors.lps
+%	mosfet_n		mosfet, arrowhead			transistors.lps
+%	mosfet_n2		circletr, mosfet, arrowhead	transistors.lps
+%	mosfet_p		mosfet, arrowhead			transistors.lps
+%	mosfet_p2		circletr, mosfet, arrowhead	transistors.lps
+%	tmos_n		tmos					transistors.lps
+%	tmos_n		diode					diodes.lps
+%	tmos_n		tap					terminals/lps
+%	tmos_p		tmos					transistors.lps
+%	tmos_p		diode					diodes.lps
+%	tmos_p		tap					terminals/lps
+%	phototransistor	arrowhead, arrowheadshort	terminals.lps
+%	npn and pnp		transistor, arrowhead		transistors.lps
+%	npn2 and pnp2	circltr, transistor, arrowhead
+%	darlington_n	darlington, tap			transistors.lps
+%	darlington_p	darlington, tap			transistors.lps
+
+% XCircuitLib library built-in objects
+
+/ruler {
+begingate
+0 0 192 0 wire
+0 0 0 12 wire
+48 0 48 6 wire
+96 0 96 12 wire
+144 0 144 6 wire
+192 0 192 12 wire
+1 0 0 scb
+endgate
+} def
+
+/circleTr {
+% hidden
+begingate
+1 1.0 0 0 44 0 360 xcarc
+endgate
+} def
+
+/jfet {
+% hidden
+begingate
+1 1.0 0 -64 0 -20  -24 -20 3 polygon
+1 2.0 -24 -24 -24 24 2 polygon
+1 1.0 -24 20 0 20 0 64 3 polygon
+-96 0 -24 0 wire
+} def
+
+/ujt {
+begingate
+1 1.0 0 -64 0 -20  -24 -20 3 polygon
+1 2.0 -24 -24 -24 24 2 polygon
+1 1.0 -24 20 0 20 0 64 3 polygon
+1 1.0 -96 16 -48 16 -24 0 3 polygon
+0.65 235 -24 0 arrowhead
+1 0 0 scb
+(E) {/Times-Roman cf} 2 7 0 1.0 -96 16 pinlabel
+(B.2) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(B.1) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/jfet_n {
+begingate
+1.0 0 0 0 jfet
+0.65 270 -32 0 arrowhead
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(S) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(D) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/jfet_n2 {
+begingate
+1.0 0 0 0 jfet
+0.65 270 -32 0 arrowhead
+1.0 0 -16 0 circleTr
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(S) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(D) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/jfet_p {
+begingate
+1.0 0 0 0 jfet
+0.65 90 -52 0 arrowhead
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(D) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(S) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS Vdd pmos) {/Times-Roman cf} 
+2 4 0 1.0 -196 -139 infolabel
+(sim:p %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -196 -187 infolabel
+endgate
+} def
+
+/jfet_p2 {
+begingate
+1.0 0 0 0 jfet
+0.65 90 -52 0 arrowhead
+1.0 0 -16 0 circleTr
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(D) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(S) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS Vdd pmos) {/Times-Roman cf} 
+2 4 0 1.0 -196 -139 infolabel
+(sim:p %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -196 -187 infolabel
+endgate
+} def
+
+/mosfet {
+% hidden
+begingate
+1 1.0 0 -64 0 -20  -24 -20 3 polygon
+1 2.0 -24 -24 -24 -16 2 polygon
+1 2.0 -24 -8 -24 8 2 polygon
+1 2.0 -24 16 -24 24 2 polygon
+1 1.0 -24 20 0 20 0 64 3 polygon
+1 1.0 -96 -16 -36 -16 -36 16 3 polygon
+1 1.0 -24 0 0 0 0 -20 3 polygon
+endgate
+} def
+
+/mosfet_n {
+begingate
+1.0 0 0 0 mosfet
+0.65 90 -24 0 arrowhead
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 -16 pinlabel
+(S) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(D) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/mosfet_n2 {
+begingate
+1.0 0 0 0 mosfet
+0.65 90 -24 0 arrowhead
+1.0 0 -16 0 circleTr
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 -16 pinlabel
+(S) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(D) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/mosfet_p {
+begingate
+1.0 0 0 0 mosfet
+0.65 270 0 0 arrowhead
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 -16 pinlabel
+(D) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(S) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/mosfet_p2 {
+begingate
+1.0 0 0 0 mosfet
+0.65 270 0 0 arrowhead
+1.0 0 -16 0 circleTr
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 -16 pinlabel
+(D) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(S) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/tmos {
+% hidden
+begingate
+1 1.0 0 -64 0 -24 2 polygon
+1 1.0 -18 -24 18 -24 2 polygon
+1 2.0 -18 -26 -18 -16 2 polygon
+1 2.0 -18 -8 -18 8 2 polygon
+1 2.0 -18 18 -18 26 2 polygon
+1 1.0 -18 24 18 24 2 polygon
+1 1.0 0 24 0 64 2 polygon
+1 1.0 -96 -16 -24 -16 -24 16 3 polygon
+1 1.0 -18 0 0 0 0 -24 3 polygon
+1.0 0 0 0 circleTr
+endgate
+} def
+
+/tmos_n {
+begingate
+1.0 0 0 0 tmos
+0.48 0 18 0 diode
+0.65 180 -8 0 tap
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 -16 pinlabel
+(S) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(D) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/tmos_p {
+begingate
+1.0 0 0 0 tmos
+0.48 180 18 0 diode
+0.65 0 -10 0 tap
+1 0 0 scb
+(G) {/Times-Roman cf} 2 7 0 1.0 -96 -16 pinlabel
+(D) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(S) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman cf} 
+2 4 0 1.0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman cf} 2 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/transistor {
+% hidden
+begingate
+1 2.0 -32 24 -32 -24 2 polygon
+0 32 -32 18 wire
+0 32 0 64 wire
+-32 0 -96 0 wire
+0 -32 -32 -18 wire
+0 -32 0 -64 wire
+endgate
+} def
+
+/phototransistor {
+begingate
+1 2.0 -32 24 -32 -24 2 polygon
+0 32 -32 18 wire
+0 32 0 64 wire
+0 -32 -32 -18 wire
+0 -32 0 -64 wire
+0.65 245 0 -32 arrowhead
+0.5 -135 -54 20 arrowshort
+0.5 -135 -54 4 arrowshort
+1 0 0 scb
+(C) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(E) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+(spice:Q%i %pC %pE npn) {/Times-Roman cf} 
+1 4 0 1.0 -244 -139 infolabel
+(sim:b %pE %pC) {/Times-Roman cf} 1 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/npn {
+begingate
+1.0 0 0 0 transistor
+0.65 245 0 -32 arrowhead
+1 0 0 scb
+(C) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(B) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(E) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE npn) {/Times-Roman cf} 
+1 4 0 1.0 -244 -139 infolabel
+(sim:b %pB %pE %pC) {/Times-Roman cf} 1 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/npn2 {
+begingate
+1.0 0 0 0 transistor
+0.65 245 0 -32 arrowhead
+1.0 0 -18 0 circleTr
+1 0 0 scb
+(C) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(B) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(E) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE npn) {/Times-Roman cf} 
+1 4 0 1.0 -244 -139 infolabel
+(sim:b %pB %pE %pC) {/Times-Roman cf} 1 4 0 1.0 -244 -187 infolabel
+endgate
+} def
+
+/pnp {
+begingate
+1.0 0 0 0 transistor
+0.65 115 -32 18 arrowhead
+1 0 0 scb
+(C) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(B) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(E) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE pnp) {/Times-Roman cf} 
+1 4 0 1.0 -244 -139 infolabel
+endgate
+} def
+
+/pnp2 {
+begingate
+1.0 0 0 0 transistor
+0.65 115 -32 18 arrowhead
+1.0 0 -18 0 circleTr
+1 0 0 scb
+(C) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(B) {/Times-Roman cf} 2 7 0 1.0 -96 0 pinlabel
+(E) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE pnp) {/Times-Roman cf} 
+1 4 0 1.0 -244 -139 infolabel
+endgate
+} def
+
+/darlington {
+% hidden
+begingate
+1 2.0 -24 10 -24 -26 2 polygon
+-24 6 0 16 wire
+-24 -22 0 -32 wire
+-48 40 0 40 wire
+-48 -8 -24 -8 wire
+-48 -8 -72 2 wire
+1 2.0 -72 -2 -72 34 2 polygon
+-72 30 -48 40 wire
+-72 2 -48 -8  wire
+0 16 0 64 wire
+-72 16 -96 16 wire
+0 -32 0 -64 wire
+1 1.0 -32 0 58 0 360 xcarc
+endgate
+} def
+
+/darlington_n {
+begingate
+1.0 0 0 0 darlington
+0.65 338 -10 -28 tap
+0.65 338 -58 -4 tap
+1 0 0 scb
+(C) {/Times-Roman cf} 2 13 0 1.0 0 64 pinlabel
+(B) {/Times-Roman cf} 2 7 0 1.0 -96 16 pinlabel
+(E) {/Times-Roman cf} 2 9 0 1.0 0 -64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE pnp) {/Times-Roman cf} 
+1 4 0 1.0 -244 -139 infolabel
+endgate
+} def
+
+/darlington_p {
+begingate
+1.0 0 0 0 darlington
+0.65 158 -10 -28 tap
+0.65 158 -58 -4 tap
+1 0 0 scb
+(E) {/Times-Roman cf} 2 13 0 1.0 0 64 pinlabel
+(B) {/Times-Roman cf} 2 7 0 1.0 -96 16 pinlabel
+(C) {/Times-Roman cf} 2 9 0 1.0 0 -64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE pnp) {/Times-Roman cf} 
+1 4 0 1.0 -244 -139 infolabel
+endgate
+} def
+
+% EndLib

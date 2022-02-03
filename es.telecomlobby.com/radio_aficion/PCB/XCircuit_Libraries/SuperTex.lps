@@ -1,0 +1,108 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: SuperTex
+%  Author: Bob Paddock <bpaddock@bob.csonline.net>
+%
+
+% XCircuitLib library objects
+/arrowhead {
+% -12 -32 24 36 bbox
+% trivial
+begingate
+8 -28 beginpath
+3 -18 3 -15 0 0 curveto
+-3 -15 -3 -18 -8 -28 curveto
+-2 -26 2 -26 8 -28 curveto
+249  1.00 endpath
+endgate
+} def
+
+/dot {
+% -10 -10 20 20 bbox
+% trivial
+begingate
+248  1.00 0 0 6 0.00 360.00 xcarc
+1.000 0.000 0.000 scb
+(x) {/Times-Roman cf} 2 29 0 1.00 0 0 pinlabel
+endgate
+} def
+
+/Diode {
+% -8 -48 36 96 bbox
+(?)  1 beginparm
+248  1.00 -18 -16 0 16 18 -16 3 polygon
+1  1.00 0 -48 0 -16 2 polygon
+1  1.00 0 48 0 16 2 polygon
+1  1.00 -18 16 18 16 2 polygon
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 9 0 1.00 0 48 pinlabel
+(2) {/Times-Roman cf} 2 13 0 1.00 0 -48 pinlabel
+sce
+mark v1 (pcb:D) {/Helvetica cf} ctmk 20 0 1.00 -64 -144 infolabel
+sce
+mark ( %p1 %p2 diode) v1 (spice:D) {/Times-Roman cf} ctmk 4 0 1.00 -64 -192 
+infolabel
+endgate
+} def
+
+/VN0550 {
+% -80 -112 208 224 bbox
+begingate
+1  0.75 16 0 48 0 2 polygon
+0.80 -271 0 0 arrowhead
+1  1.00 0 16 0 -16 2 polygon
+1  1.00 0 32 0 64 2 polygon
+1  1.00 0 -32 0 -64 2 polygon
+1  1.00 -16 64 -16 -64 2 polygon
+1  1.00 0 -48 48 -48 48 0 3 polygon
+1  1.00 48 -48 48 -80 2 polygon
+1  1.00 0 48 48 48 48 80 3 polygon
+1.00 0 48 -48 dot
+1  1.00 48 64 80 64 80 48 3 polygon
+1  1.00 80 -48 80 -64 2 polygon
+1  1.00 80 -64 48 -64 2 polygon
+1.00 0 48 64 dot
+1.00 0 48 -64 dot
+1  1.00 32 0 96 0.00 360.00 xcarc
+1  1.00 -16 0 -80 0 2 polygon
+1  1.00 48 80 48 112 2 polygon
+1  1.00 48 -80 48 -112 2 polygon
+1.00 0 80 0 Diode
+1.000 0.000 0.000 scb
+(D) {/Helvetica cf} 2 25 0 1.00 48 112 pinlabel
+(G) {/Helvetica cf} 2 23 0 1.00 -80 0 pinlabel
+(S) {/Helvetica cf} 2 29 0 1.00 48 -112 pinlabel
+endgate
+} def
+
+/LDN150 {
+% -80 -112 208 224 bbox
+0 beginparm
+1  0.75 16 0 48 0 2 polygon
+0.80 -271 0 0 arrowhead
+1  1.00 0 -48 48 -48 48 0 3 polygon
+1  1.00 48 -48 48 -80 2 polygon
+1  1.00 0 48 48 48 48 80 3 polygon
+1.00 0 48 -48 dot
+1  1.00 48 64 80 64 80 48 3 polygon
+1  1.00 80 -48 80 -64 2 polygon
+1  1.00 80 -64 48 -64 2 polygon
+1.00 0 48 64 dot
+1.00 0 48 -64 dot
+1  1.00 32 0 96 0.00 360.00 xcarc
+1  1.00 -16 0 -80 0 2 polygon
+1  1.00 48 80 48 112 2 polygon
+1  1.00 48 -80 48 -112 2 polygon
+1.00 0 80 0 Diode
+1.000 0.000 0.000 scb
+(D) {/Helvetica cf} 2 25 0 1.00 48 112 pinlabel
+(G) {/Helvetica cf} 2 23 0 1.00 -80 0 pinlabel
+(S) {/Helvetica cf} 2 29 0 1.00 48 -112 pinlabel
+sce
+1  1.00 0 48 0 -48 2 polygon
+1  1.00 -16 48 -16 -48 2 polygon
+endgate
+} def
+
+
+% EndLib

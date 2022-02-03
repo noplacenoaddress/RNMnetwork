@@ -1,0 +1,432 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Title: flow
+%%Creator: Xcircuit v1.7
+%%CreationDate: Mon Feb  2 17:01:02 1998
+%%Pages: 1
+%%BoundingBox: 68 68 571 754
+%%DocumentNeededResources: font AvantGarde-Demi font Helvetica 
+%%EndComments
+%%BeginProlog
+%
+%  PostScript prolog for output from xcircuit
+%  Version: 1.7
+%
+%  Electrical circuit (and otherwise general) drawing program
+%
+%  Written by Tim Edwards 8/5/93--8/8/97  (tim@bach.ece.jhu.edu)
+%  The Johns Hopkins University
+%
+%%BeginResource: procset XCIRCproc 1.7 1
+% supporting definitions --- these are the primary xcircuit types.
+
+/XCIRCsave save def
+/topmat matrix currentmatrix def
+
+/fontslant { /slant exch def [1 0 slant 1 0 0] 
+    exch findfont exch makefont dup length dict /ndict exch def
+    { 1 index /FID ne { ndict 3 1 roll put } { pop pop } ifelse } forall
+    ndict definefont pop} def
+/cf { dup type /realtype eq {40 mul /fscale exch def} if dup /xfont exch def
+   findfont fscale scalefont setfont } def
+/Ss { gsave 0.67 dup scale gsave mty neg rmoveto
+   glevel 1 add /glevel exch def } def
+/ss { gsave 0.67 dup scale gsave mty 0.5 mul rmoveto
+   glevel 1 add /glevel exch def } def
+/ns { currentpoint transform   % preserve x position!
+   glevel {grestore} repeat /glevel 0 def
+   itransform pop currentpoint pop sub 0 rmoveto } def
+/ul { showflag 1 eq { gsave 
+   currentpoint topmat setmatrix 0 0 moveto 2 index stringwidth pop (_)
+   false charpath flattenpath pathbbox grestore exch pop 1 index
+   sub setlinewidth exch pop currentpoint 3 -1 roll add moveto 0
+   rlineto stroke moveto } if } def
+/ol { showflag 1 eq { gsave gsave
+   currentpoint topmat setmatrix 2 index stringwidth pop 3 index
+   true charpath flattenpath pathbbox grestore exch pop
+   exch pop topmat setmatrix (_) true charpath pathbbox grestore
+   exch pop 1 index sub setlinewidth exch pop currentpoint
+   exch 4 1 roll exch sub add moveto pop 0 rlineto stroke
+   moveto } if } def
+/bs { gsave true charpath flattenpath pathbbox pop exch pop sub
+   grestore 0 rmoveto } def
+/textx { dup 2 mul 1 add copy 0 exch
+   { exch exec exch stringwidth pop add } repeat neg ns } def
+/mty { 0 topmat setmatrix (A) true charpath flattenpath pathbbox exch
+   pop exch sub exch pop neg grestore } def
+/texty { gsave 2 copy pop exec mty } def
+/tcenter { textx grestore 0.5 mul 0 rmoveto } def
+/tright  { textx grestore 0 rmoveto } def
+/tmiddle { texty 0.5 mul rmoveto } def
+/ttop    { texty rmoveto } def
+/tshow { { exec show } repeat ns } def
+
+/label { gsave translate 0 0 moveto rotate /just exch def
+      /glevel 0 def /showflag 0 def
+      just 1 and 0 gt {gsave just 2 and 0 gt {tright}{tcenter} ifelse} if
+      just 4 and 0 gt {just 8 and 0 gt {ttop}{tmiddle}   ifelse} if
+      /showflag 1 def tshow grestore } def
+
+/begingate { gsave translate 0 0 moveto dup 0 lt {neg 1 sub -1 1 scale} if
+        rotate dup scale } bind def
+/endgate { grestore } bind def
+
+/tmpa [1 0 0 1 0 0] def
+/gar {8 8 true tmpa {<c0 c0 00 00 0c 0c 00 00>} imagemask} bind
+{8 8 true tmpa {<30 70 60 02 03 07 06 20>} imagemask} bind
+{8 8 true tmpa {<0c 1e 1e 0c c0 e1 e1 c0>} imagemask} bind
+{8 8 true tmpa {<0f 0f 0f 0f f0 f0 f0 f0>} imagemask} bind
+{8 8 true tmpa {<3f f3 e1 e1 f3 3f 1e 1e>} imagemask} bind
+{8 8 true tmpa {<df cf 8f 9f fd fc f8 f9>} imagemask} bind
+{8 8 true tmpa {<ff 3f 3f ff ff f3 f3 ff>} imagemask} bind 7 array astore def
+/ppaint { gsave tmpa pathbbox clip transform neg exch neg 4 2 roll transform
+  neg 4 -1 roll 2 copy gt {exch} if 8 div ceiling 8 mul 4 2 roll neg 2 copy
+  gt {exch} if 8 div ceiling 8 mul 3 -1 roll -8 5 -1 roll
+  [1 0 0 1 0 0] setmatrix { 3 index exch 5 exch put dup -8 3 index { 3 index
+  exch 4 exch put 3 index exec } for } for pop pop pop pop grestore } bind def
+/setstyles {
+  currentlinewidth mul setlinewidth /style exch def
+  style 1 and 0 gt not {closepath} if
+  style 2 and 0 gt {currentlinewidth 4 mul dup 2 array astore 0 setdash} if 
+  style 4 and 0 gt {0.5 currentlinewidth 4 mul 2 array astore 0 setdash} if 
+  style dup 256 ge exch 480 lt and { gsave 1 setgray eofill grestore } if
+  style 16 and 0 gt { gsave style 224 and -5 bitshift dup 7 lt
+	{gar exch get ppaint} { pop eofill } ifelse grestore } if
+  style 8 and 0 gt { newpath } { stroke } ifelse grestore } def
+/scb { gsave setrgbcolor } bind def  /sce { grestore } bind def
+
+/polygon { gsave /num exch def moveto num 1 sub {lineto} repeat setstyles } def
+/xcarc   { gsave newpath arc setstyles } def
+/elb { matrix currentmatrix 7 -1 roll 7 -1 roll translate 5 1 roll 4 -1 roll
+	3 index div 1 scale } def
+/ele { 0 4 1 roll 0 4 1 roll } bind def
+/ellipse { gsave elb newpath ele arc setmatrix setstyles } def
+/pellip  { elb ele arc setmatrix } def
+/nellip  { elb ele arcn setmatrix } def
+/spline  { gsave moveto curveto setstyles } def
+/polyc   { {lineto} repeat } bind def
+/beginpath { gsave moveto } bind def
+/endpath { setstyles } bind def
+/bop	 { 1 setlinecap 0 setlinejoin 6 setmiterlimit 0 setgray } def
+/inchscale  {0.375 mul dup scale} def
+/cmscale    {0.35433071 mul dup scale} def
+
+%%EndResource
+%%EndProlog
+
+% XCircuit output starts here.
+
+/connector {
+% -48 -48 96 96 bbox
+begingate
+1  1.00 0 0 48 0.00 360.00 xcarc
+endgate
+} def
+
+/comm_link {
+% -16 -112 48 240 bbox
+begingate
+1  1.00 -16 -16 -16 128 2 polygon
+1  1.00 32 -112 32 32 2 polygon
+1  1.00 32 32 -16 -16 2 polygon
+endgate
+} def
+
+/I_O {
+% -144 -96 288 192 bbox
+begingate
+1  1.00 -144 -96 96 -96 2 polygon
+1  1.00 -96 96 144 96 2 polygon
+1  1.00 -96 96 -144 -96 2 polygon
+1  1.00 96 -96 144 96 2 polygon
+endgate
+} def
+
+/extract {
+% -96 -80 192 160 bbox
+begingate
+1  1.00 -96 -80 0 80 96 -80 -96 -80 4 polygon
+endgate
+} def
+
+/merge {
+% -96 -80 192 160 bbox
+begingate
+1  1.00 -96 80 0 -80 96 80 -96 80 4 polygon
+endgate
+} def
+
+/offpage_connector {
+% -48 -48 96 96 bbox
+begingate
+1  1.00 -48 48 48 48 2 polygon
+1  1.00 48 48 48 -16 2 polygon
+1  1.00 -48 48 -48 -16 2 polygon
+1  1.00 -48 -16 0 -48 48 -16 3 polygon
+endgate
+} def
+
+/process {
+% -144 -96 288 192 bbox
+begingate
+0  1.00 -144 -96 -144 96 144 96 144 -96 4 polygon
+endgate
+} def
+
+/sort {
+% -96 -160 192 320 bbox
+begingate
+1  1.00 0 160 -96 0 0 -160 96 0 0 160 5 polygon
+1  1.00 -96 0 96 0 2 polygon
+endgate
+} def
+
+/collate {
+% -96 -160 192 320 bbox
+begingate
+1  1.00 -96 160 0 0 96 160 -96 160 4 polygon
+1  1.00 -96 -160 0 0 96 -160 -96 -160 4 polygon
+endgate
+} def
+
+/core {
+% -96 -96 192 192 bbox
+begingate
+0  1.00 -96 -96 -96 96 96 96 96 -96 4 polygon
+1  1.00 -96 48 96 48 2 polygon
+1  1.00 -48 -96 -48 96 2 polygon
+endgate
+} def
+
+/mag_tape {
+% -96 -96 192 192 bbox
+begingate
+1  1.00 0 0 96 0.00 360.00 xcarc
+1  1.00 0 -96 96 -96 2 polygon
+endgate
+} def
+
+/predefined_process {
+% -144 -96 288 192 bbox
+begingate
+0  1.00 -96 -96 -96 96 96 96 96 -96 4 polygon
+1  1.00 96 96 144 96 144 -96 96 -96 4 polygon
+1  1.00 -96 96 -144 96 -144 -96 -96 -96 4 polygon
+endgate
+} def
+
+/comment {
+% -192 -96 384 192 bbox
+begingate
+3  1.00 -96 0 -192 0 2 polygon
+1  1.00 192 -96 -96 -96 -96 96 192 96 4 polygon
+endgate
+} def
+
+/auxillary_operation {
+% -96 -96 192 192 bbox
+begingate
+0  1.00 -96 96 -96 -96 96 -96 96 96 4 polygon
+endgate
+} def
+
+/decision {
+% -144 -96 288 192 bbox
+begingate
+1  1.00 0 96 -144 0 0 -96 144 0 0 96 5 polygon
+endgate
+} def
+
+/manual_input {
+% -144 -64 288 144 bbox
+begingate
+1  1.00 -144 -64 144 -64 144 80 -144 32 -144 -64 5 polygon
+endgate
+} def
+
+/punch_card {
+% -144 -64 288 144 bbox
+begingate
+1  1.00 144 80 144 -64 -144 -64 -144 48 -112 80 144 80 6 polygon
+endgate
+} def
+
+/disk_storage {
+% -96 -176 192 352 bbox
+begingate
+1  1.00 96 -144 96 144 2 polygon
+1  1.00 -96 -144 -96 144 2 polygon
+1  1.00 0 -144 96 32 180.00 360.00 ellipse
+1  1.00 0 96 96 32 180.00 360.00 ellipse
+1  1.00 0 48 96 32 180.00 360.00 ellipse
+1  1.00 0 144 96 32 -180.00 180.00 ellipse
+endgate
+} def
+
+/terminator {
+% -131 -48 262 96 bbox
+begingate
+-96 -48 beginpath
+-144 -32 -144 32 -96 48 curveto
+96 48 1 polyc
+144 32 144 -32 96 -48 curveto
+0  1.00 endpath
+endgate
+} def
+
+/display {
+% -144 -96 282 192 bbox
+begingate
+112 96 beginpath
+148 40 148 -44 112 -96 curveto
+-48 -96 1 polyc
+-96 -72 -128 -32 -144 0 curveto
+-128 32 -96 72 -48 96 curveto
+0  1.00 endpath
+endgate
+} def
+
+/offline_storage {
+% -96 -80 192 160 bbox
+begingate
+1  1.00 -96 80 0 -80 96 80 -96 80 4 polygon
+1  1.00 -38 -16 38 -16 2 polygon
+endgate
+} def
+
+/manual_operation {
+% -144 -96 288 192 bbox
+begingate
+1  1.00 144 96 -144 96 -72 -96 72 -96 144 96 5 polygon
+endgate
+} def
+
+/online_storage {
+% -170 -96 314 192 bbox
+begingate
+-144 96 beginpath
+-180 32 -180 -32 -144 -96 curveto
+144 -96 1 polyc
+108 -32 108 32 144 96 curveto
+0  1.00 endpath
+endgate
+} def
+
+/preparation {
+% -144 -96 288 192 bbox
+begingate
+0  1.00 -96 -96 -144 0 -96 96 96 96 144 0 96 -96 6 polygon
+endgate
+} def
+
+/document {
+% -144 -95 288 175 bbox
+begingate
+144 -48 beginpath
+0 16 0 -144 -144 -80 curveto
+-144 80 1 polyc
+144 80 1 polyc
+0  1.00 endpath
+endgate
+} def
+
+%%Page: 1 1
+/pgsave save def bop
+% 1072 912 offsets
+90 rotate 0 -639 translate
+1.0000 inchscale
+2.6000 setlinewidth
+
+(FLOWCHARTING FIGS) {/AvantGarde-Demi 2.000 cf} 1 0 0 240 1456 label
+(\(from the xfig examples; originally drawn by Tim Starrin.) 
+{/AvantGarde-Demi 1.000 cf} 1 0 0 224 1408 label
+(Re-drawn for xcircuit by Monte Bateman\)) {/AvantGarde-Demi 1.000 cf} 
+1 0 0 432 1360 label
+1.00 0 624 944 connector
+(PREPARATION) {/Helvetica 0.800 cf} 1 0 0 1504 1440 label
+(CONNECTOR) {/Helvetica 0.800 cf} 1 0 0 528 1008 label
+(LINK) {/Helvetica 0.800 cf} 1 0 0 896 480 label
+1.00 270 928 432 comm_link
+(COMMUNICATION) {/Helvetica 0.800 cf} 1 0 0 800 512 label
+(INPUT/OUTPUT) {/Helvetica 0.800 cf} 1 0 0 864 1296 label
+1.00 0 960 1184 I_O
+(TERMINATOR) {/Helvetica 0.800 cf} 1 0 0 224 1232 label
+(MERGE) {/Helvetica 0.800 cf} 1 0 0 576 768 label
+(CONNECTOR) {/Helvetica 0.800 cf} 1 0 0 528 1232 label
+(DISPLAY) {/Helvetica 0.800 cf} 1 0 0 1232 1312 label
+(STORAGE) {/Helvetica 0.800 cf} 1 0 0 1808 1152 label
+(OFFPAGE) {/Helvetica 0.800 cf} 1 0 0 560 1264 label
+(OFFLINE) {/Helvetica 0.800 cf} 1 0 0 1824 1184 label
+1.00 0 336 672 extract
+1.00 0 624 672 merge
+1.00 0 624 1168 offpage_connector
+(EXTRACT) {/Helvetica 0.800 cf} 1 0 0 272 768 label
+(SORT) {/Helvetica 0.800 cf} 1 0 0 576 528 label
+(COLLATE) {/Helvetica 0.800 cf} 1 0 0 272 528 label
+(CORE) {/Helvetica 0.800 cf} 1 0 0 1216 768 label
+(DOCUMENT) {/Helvetica 0.800 cf} 1 0 0 1520 1152 label
+1.00 0 944 912 process
+1.00 0 624 352 sort
+1.00 0 336 352 collate
+1.00 0 1264 640 core
+1.00 0 1904 768 mag_tape
+(PROCESS) {/Helvetica 0.800 cf} 1 0 0 864 1024 label
+(PREDEFINED) {/Helvetica 0.800 cf} 1 0 0 1184 1056 label
+(PROCESS) {/Helvetica 0.800 cf} 1 0 0 1216 1024 label
+(COMMENT,) {/Helvetica 0.800 cf} 1 0 0 864 672 label
+(ANNOTATION) {/Helvetica 0.800 cf} 1 0 0 832 624 label
+(ONLINE) {/Helvetica 0.800 cf} 1 0 0 1552 784 label
+(DECISION) {/Helvetica 0.800 cf} 1 0 0 256 960 label
+(AUXILLARY) {/Helvetica 0.800 cf} 1 0 0 1520 608 label
+(PUNCHED) {/Helvetica 0.800 cf} 1 0 0 1536 272 label
+(MAGNETIC) {/Helvetica 0.750 cf} 1 0 0 1824 368 label
+(DISK) {/Helvetica 0.800 cf} 1 0 0 1872 320 label
+(STORAGE) {/Helvetica 0.800 cf} 1 0 0 1536 752 label
+1.00 0 1296 912 predefined_process
+1.00 0 896 656 comment
+1.00 0 1616 464 auxillary_operation
+(OPERATION) {/Helvetica 0.800 cf} 1 0 0 1184 416 label
+(OPERATION) {/Helvetica 0.800 cf} 1 0 0 1520 576 label
+1.00 0 336 960 decision
+(MANUAL) {/Helvetica 0.800 cf} 1 0 0 1216 448 label
+(INPUT) {/Helvetica 0.800 cf} 1 0 0 864 256 label
+(MANUAL) {/Helvetica 0.800 cf} 1 0 0 848 288 label
+1.00 0 912 288 manual_input
+1.00 0 1616 256 punch_card
+(i.e., Initialization) {/Helvetica 0.500 cf} 1 0 0 1536 1328 label
+(i.e., Information display) {/Helvetica 0.500 cf} 1 0 0 1184 1248 label
+(by online indicators,) {/Helvetica 0.500 cf} 1 0 0 1200 1216 label
+(video devices,) {/Helvetica 0.500 cf} 1 0 0 1200 1184 label
+(console printers,) {/Helvetica 0.500 cf} 1 0 0 1216 1152 label
+(plotters, etc.) {/Helvetica 0.500 cf} 1 0 0 1264 1120 label
+(i.e., Storing) {/Helvetica 0.500 cf} 1 0 0 1824 1104 label
+(i.e., Defined by) {/Helvetica 0.500 cf} 1 0 0 1216 976 label
+(another flowchart,) {/Helvetica 0.500 cf} 1 0 0 1216 944 label
+(etc.) {/Helvetica 0.500 cf} 1 0 0 1264 912 label
+(i.e., Any offline process) {/Helvetica 0.500 cf} 1 0 0 1152 368 label
+(at "human speed") {/Helvetica 0.500 cf} 1 0 0 1184 336 label
+(a computer.) {/Helvetica 0.500 cf} 1 0 0 1216 272 label
+(i.e., Offline) {/Helvetica 0.500 cf} 1 0 0 1552 528 label
+(operation on) {/Helvetica 0.500 cf} 1 0 0 1552 496 label
+(equipment not) {/Helvetica 0.500 cf} 1 0 0 1552 464 label
+(directly controlled) {/Helvetica 0.500 cf} 1 0 0 1536 432 label
+(by CPU) {/Helvetica 0.500 cf} 1 0 0 1568 400 label
+(i.e., Start, Stop,) {/Helvetica 0.500 cf} 1 0 0 240 1184 label
+(delay, etc.) {/Helvetica 0.500 cf} 1 0 0 304 1152 label
+(offline) {/Helvetica 0.500 cf} 1 0 0 1856 1088 label
+(any media) {/Helvetica 0.500 cf} 1 0 0 1840 1072 label
+(without the aid of) {/Helvetica 0.500 cf} 1 0 0 1184 304 label
+(CARD) {/Helvetica 0.800 cf} 1 0 0 1568 240 label
+(MAG TAPE) {/Helvetica 0.800 cf} 1 0 0 1824 880 label
+1.00 0 1904 400 disk_storage
+1.00 0 336 1168 terminator
+1.00 0 1280 1200 display
+1.00 0 1888 1056 offline_storage
+1.00 0 1264 304 manual_operation
+1.00 0 1632 768 online_storage
+1.00 0 1616 1328 preparation
+1.00 0 1616 1056 document
+pgsave restore showpage
+
+%%Trailer
+XCIRCsave restore
+%%EOF

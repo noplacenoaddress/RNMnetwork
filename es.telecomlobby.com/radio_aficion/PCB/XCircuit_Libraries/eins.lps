@@ -1,0 +1,299 @@
+%! PostScript set of library objects for XCircuit
+%  Library name is: EINS
+%
+%
+
+% XCircuitLib library built-in objects
+/sym1 {
+% -48 -16 96 32 bbox
+begingate
+1  1.00 -48 0 48 0 2 polygon
+1  1.00 32 16 32 -16 -32 -16 -32 16 32 16 5 polygon
+241  1.00 0 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/symb2 {
+% -16 -16 32 32 bbox
+begingate
+1  1.00 0 0 16 0.00 360.00 xcarc
+endgate
+} def
+
+/symb3 {
+% -16 -16 32 32 bbox
+begingate
+1  1.00 0 0 16 0.00 360.00 xcarc
+241  1.00 0 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/symb4 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 0 -24 0 2 polygon
+1  1.00 -24 8 -24 -8 2 polygon
+1  1.00 -16 0 16 0 2 polygon
+1  1.00 -16 8 -16 -8 2 polygon
+1  1.00 24 0 48 0 2 polygon
+1  1.00 16 8 16 -8 2 polygon
+1  1.00 24 8 24 -8 2 polygon
+endgate
+} def
+
+/symb5 {
+% -48 -4 96 12 bbox
+begingate
+1  1.00 -48 -4 48 -4 44 -4 3 polygon
+1  1.00 -4 0 4 0 2 polygon
+1  1.00 -8 4 8 4 2 polygon
+1  1.00 -12 8 12 8 2 polygon
+endgate
+} def
+
+/symb6 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 0 -8 0 2 polygon
+1  1.00 8 0 48 0 2 polygon
+1  1.00 0 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/symb7 {
+% -48 -12 96 24 bbox
+begingate
+1  1.00 -48 -12 48 -12 2 polygon
+1  1.00 0 4 8 0.00 360.00 xcarc
+endgate
+} def
+
+/symb8 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 -8 48 -8 2 polygon
+1  1.00 -48 0 -48 8 -40 8 -40 0 4 polygon
+1  1.00 -40 8 -32 8 -32 0 3 polygon
+1  1.00 48 0 48 8 40 8 40 0 4 polygon
+1  1.00 40 8 32 8 32 0 3 polygon
+endgate
+} def
+
+/symb9 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 8 48 8 2 polygon
+1  1.00 -48 -8 -48 0 -40 0 -40 -8 4 polygon
+1  1.00 -32 -8 -32 0 -40 0 3 polygon
+1  1.00 32 -8 32 0 40 0 40 -8 4 polygon
+1  1.00 48 -8 48 0 40 0 3 polygon
+endgate
+} def
+
+/Symb10 {
+% -48 -12 96 24 bbox
+begingate
+1  1.00 -48 -12 48 -12 2 polygon
+1  1.00 -48 -4 -48 4 -40 4 -40 -4 4 polygon
+1  1.00 -40 4 -32 4 -32 -4 3 polygon
+1  1.00 40 4 8 0.00 360.00 xcarc
+endgate
+} def
+
+/symb11 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 0 48 0 2 polygon
+1  1.00 -4 8 -4 -8 2 polygon
+1  1.00 4 8 4 -8 2 polygon
+endgate
+} def
+
+/symb12 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 0 48 0 2 polygon
+1  1.00 0 8 0 -8 2 polygon
+endgate
+} def
+
+/symb13 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 0 48 0 2 polygon
+1  1.00 -4 -8 4 8 2 polygon
+1  1.00 4 -8 12 8 2 polygon
+1  1.00 -12 -8 -4 8 2 polygon
+endgate
+} def
+
+/symb14 {
+% -48 -8 96 16 bbox
+begingate
+1  1.00 -48 0 48 0 2 polygon
+1  1.00 4 8 -4 -8 2 polygon
+endgate
+} def
+
+/symb15 {
+% -8 -12 17 23 bbox
+begingate
+1  1.00 -8 -12 0 4 2 polygon
+() {ns} (3) {/Helvetica 0.250 cf} 2 0 0 4 4 label
+endgate
+} def
+
+/symb16 {
+% -8 -12 17 23 bbox
+begingate
+1  1.00 -8 -12 0 4 2 polygon
+() {ns} (4) {/Helvetica 0.250 cf} 2 0 0 4 4 label
+endgate
+} def
+
+/symb17 {
+% -8 -12 17 23 bbox
+begingate
+1  1.00 -8 -12 0 4 2 polygon
+(5) {/Helvetica 0.250 cf} 1 0 0 4 4 label
+endgate
+} def
+
+/symb18 {
+% -4 -8 8 16 bbox
+begingate
+1  1.00 4 8 -4 -8 2 polygon
+endgate
+} def
+
+/symb19 {
+% -8 -8 16 16 bbox
+begingate
+1  1.00 -8 -8 0 8 2 polygon
+1  1.00 0 -8 8 8 2 polygon
+endgate
+} def
+
+/symb20 {
+% -12 -48 24 96 bbox
+begingate
+1  1.00 12 48 12 24 2 polygon
+1  1.00 12 -16 -4 16 2 polygon
+241  1.00 -4 16 -12 12 -8 4 0 8 -4 16 5 polygon
+1  1.00 12 -16 12 -48 2 polygon
+endgate
+} def
+
+/symb21 {
+% -8 -8 16 16 bbox
+begingate
+1  1.00 -4 -8 8 4 2 polygon
+1  1.00 -8 -4 4 8 2 polygon
+endgate
+} def
+
+/symb22 {
+% -12 -8 21 19 bbox
+begingate
+1  1.00 -12 -8 0 4 2 polygon
+(3) {/Helvetica 0.250 cf} 1 0 0 4 4 label
+endgate
+} def
+
+/symb23 {
+% -12 -8 21 19 bbox
+begingate
+1  1.00 -12 -8 0 4 2 polygon
+(4) {/Helvetica 0.250 cf} 1 0 0 4 4 label
+endgate
+} def
+
+/symb24 {
+% -16 -24 32 48 bbox
+begingate
+1  1.00 0 -24 16 0.00 180.00 xcarc
+1  1.00 0 24 0 -8 2 polygon
+endgate
+} def
+
+/symb25 {
+% -16 -40 32 80 bbox
+begingate
+1.00 0 0 -16 symb24
+1.00 0 0 16 symb24
+endgate
+} def
+
+/symb26 {
+% -16 -24 32 48 bbox
+begingate
+1  1.00 0 -24 16 0.00 180.00 xcarc
+1  1.00 0 24 0 -8 2 polygon
+1  1.00 -16 -8 16 -8 2 polygon
+endgate
+} def
+
+/symb27 {
+% -16 -40 32 80 bbox
+begingate
+1.00 0 0 -16 symb26
+1.00 0 0 16 symb26
+endgate
+} def
+
+/symb28 {
+% -20 -24 40 48 bbox
+begingate
+1.00 0 0 0 symb26
+1  1.00 -20 -24 -16 -24 2 polygon
+1  1.00 16 -24 20 -24 2 polygon
+endgate
+} def
+
+/symb29 {
+% -20 -40 40 80 bbox
+begingate
+1.00 0 0 -16 symb28
+1.00 0 0 16 symb28
+endgate
+} def
+
+/symb30 {
+% -20 -24 40 48 bbox
+begingate
+1.00 0 -4 0 symb24
+241  1.00 0 -4 4 0.00 360.00 xcarc
+1  1.00 4 0 16 12 2 polygon
+1  1.00 16 12 20 8 2 polygon
+1  1.00 12 8 16 4 2 polygon
+endgate
+} def
+
+/symb31 {
+% -20 -24 40 48 bbox
+begingate
+1.00 0 -4 0 symb24
+1  1.00 -4 -8 16 12 2 polygon
+1  1.00 16 12 20 8 2 polygon
+1  1.00 12 8 16 4 2 polygon
+endgate
+} def
+
+/symb32 {
+% -8 -20 16 40 bbox
+begingate
+1  1.00 0 -12 8 0.00 360.00 xcarc
+1  1.00 0 -4 8 20 2 polygon
+endgate
+} def
+
+/symb33 {
+% -16 -37 32 77 bbox
+begingate
+1  1.00 0 40 0 8 2 polygon
+1  1.00 0 -8 16 5.00 365.00 xcarc
+1  1.00 0 -28 16 323.13 573.69 xcarc
+endgate
+} def
+
+% EndLib

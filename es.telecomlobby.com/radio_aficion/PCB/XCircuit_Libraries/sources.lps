@@ -1,0 +1,163 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: sources
+%  Author: R. Timothy Edwards <tim@stravinsky.jhuapl.edu>
+
+%  Modified by: Graham sheward (Jan 2006) <gsheward@xtra.co.nz>
+%  The geometry, scale and pin labelling position are correct
+%  The infolabel and Spice information has not been addressed
+
+% Dependencies
+%	COMPONENT	Depends on	Library
+% 	vsource 	source	sources.lps
+% 	isource	source	sources.lps 
+% 	acsource 	source	sources.lps
+% 	ind-vsource	ind-souce	source.lps
+% 	ind-isource	ind-source	sources.lps
+
+
+% XCircuitLib library built-in objects
+
+/vdd {
+% trivial
+begingate
+0 0 0 32 wire
+1 1.5 -64 32 64 32 2 polygon
+1.0 0 0 32 dot
+1 0 0 scb
+sce
+endgate
+} def
+
+/gnd {
+begingate
+0 0 0 -32 wire
+1 1.5 -32 -32 32 -32 2 polygon
+1 1.5 -18 -46 18 -46 2 polygon
+1 1.5 -4 -60 4 -60 2 polygon
+1 0 0 scb
+sce
+endgate
+} def
+
+/Battery {
+begingate
+1 1.5 -32 6 32 6 2 polygon
+1 1.5 -12 -6 12 -6 2 polygon
+0 -64 0 -6 wire
+0 64 0 6 wire
+(+) {/Symbol cf} 2 5 0 1.0 12 24 label
+(-) {/Symbol cf} 2 5 0 1.0 12 -24 label
+1 0 0 scb
+(b.1) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(b.2) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+(spice:C%i %pc.1 %pc.2 1.0P) {/Times-Roman cf} 2 0 0 1.0 -208 -160 infolabel
+(sim:c %pc.1 %pc.2) {/Times-Roman cf} 2 0 0 1.0 -208 -208 infolabel
+endgate
+} def
+
+/Battery2 {
+begingate
+0 64 0 24 wire
+1 1.5 -32 24 32 24 2 polygon
+1 1.5 -12 15 12 15 2 polygon
+0 15 0 6 wire
+0 -6 0 -15 wire
+1 1.5 -32 -15 32 -15 2 polygon
+1 1.5 -12 -24 12 -24 2 polygon
+0 -64 0 -24 wire
+(+) {/Symbol cf} 2 5 0 1.0 12 42 label
+(-) {/Symbol cf} 2 5 0 1.0 12 -42 label
+1 0 0 scb
+(b.1) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(b.2) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+(spice:C%i %pc.1 %pc.2 1.0P) {/Times-Roman cf} 2 0 0 1.0 -208 -160 infolabel
+(sim:c %pc.1 %pc.2) {/Times-Roman cf} 2 0 0 1.0 -208 -208 infolabel
+endgate
+} def
+
+/source {
+% hidden
+begingate
+1 1.50 0 0 44 0 360 xcarc
+0 36 0 64 wire
+0 -36 0 -64 wire
+endgate
+} def
+
+/vsource {
+begingate
+1.0 0 0 0 source
+(+) {/Symbol cf} 2 5 0 1.0 0 24 label
+(-) {/Symbol cf} 2 5 0 1.0 0 -24 label
+1 0 0 scb
+(v.p) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(v.m) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def 
+
+/isource {
+begingate
+1.0 0 0 0 source
+1 1.5 0 28 0 -28 2 polygon
+0.8 0 0 28 arrowhead
+1 0 0 scb
+(i.p) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(i.m) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def
+
+/acsource {
+begingate
+1.0 0 0 0 source
+1 0.8 0 -48 0 48 -16 0 16 0 spline
+1 0 0 scb
+(s.p) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(s.m) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def
+
+/ind_source {
+% hidden
+begingate
+1 1.50 0 -64 48 0 0 64 -48 0 0 -64 5 polygon
+1 0 0 scb
+(s.p) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(s.m) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def
+
+/ind_vsource {
+begingate
+1.0 0 0 0 ind_source
+(+) {/Symbol cf} 2 5 0 1.0 0 36 label
+(-) {/Symbol cf} 2 5 0 1.0 0 -36 label
+1 0 0 scb
+1 0 0 scb
+(s.p) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(s.m) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+sce
+endgate
+} def
+
+/ind_isource {
+begingate
+1.0 0 0 0 ind_source
+1 1.5 0 28 0 -28 2 polygon
+0.8 0 0 28 arrowhead
+1 0 0 scb
+1 0 0 scb
+(s.p) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(s.m) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+sce
+endgate
+} def
+% EndLib

@@ -1,0 +1,111 @@
+%! PostScript set of library objects for XCircuit
+%  Library name is: pcb
+%
+%
+
+% XCircuitLib library built-in objects
+/round {
+% -30 -30 60 60 bbox
+begingate
+1  2.00 0 0 30 0 360 xcarc
+endgate
+} def
+
+/square_pad {
+% -36 -36 72 72 bbox
+begingate
+504  1.00 -36 36 -36 -36 36 -36 36 36 4 polygon
+257  1.00 0 0 32 0 360 xcarc
+endgate
+} def
+
+/DIP_relay {
+% -132 -366 258 732 bbox
+begingate
+4  1.00 -96 366 -96 -366 96 -366 96 366 4 polygon
+1.00 0 -96 288 square_pad
+1.00 0 -96 192 round
+1.00 0 -96 -288 round
+1.00 0 -96 -192 round
+1.00 0 96 288 round
+1.00 0 96 192 round
+1.00 0 96 -192 round
+1.00 0 96 -288 round
+endgate
+} def
+
+/DIP40 {
+% -276 -960 546 1920 bbox
+begingate
+4  1.00 -240 960 -240 -960 240 -960 240 960 4 polygon
+1.00 0 -240 912 square_pad
+1.00 0 -240 816 round
+1.00 0 -240 720 round
+1.00 0 -240 624 round
+1.00 0 -240 528 round
+1.00 0 -240 432 round
+1.00 0 -240 336 round
+1.00 0 -240 240 round
+1.00 0 -240 144 round
+1.00 0 -240 48 round
+1.00 0 -240 -48 round
+1.00 0 -240 -144 round
+1.00 0 -240 -240 round
+1.00 0 -240 -336 round
+1.00 0 -240 -432 round
+1.00 0 -240 -528 round
+1.00 0 -240 -624 round
+1.00 0 -240 -720 round
+1.00 0 -240 -816 round
+1.00 0 -240 -912 round
+1.00 0 240 720 round
+1.00 0 240 624 round
+1.00 0 240 528 round
+1.00 0 240 432 round
+1.00 0 240 336 round
+1.00 0 240 240 round
+1.00 0 240 144 round
+1.00 0 240 48 round
+1.00 0 240 -48 round
+1.00 0 240 -144 round
+1.00 0 240 -240 round
+1.00 0 240 -336 round
+1.00 0 240 -432 round
+1.00 0 240 -528 round
+1.00 0 240 -624 round
+1.00 0 240 -720 round
+1.00 0 240 -816 round
+1.00 0 240 -912 round
+1.00 0 240 816 round
+1.00 0 240 912 round
+endgate
+} def
+
+/20pin_header {
+% -468 -78 930 162 bbox
+begingate
+1.00 0 -432 48 square_pad
+1.00 0 -336 -48 round
+1.00 0 -432 -48 round
+1.00 0 -336 48 round
+1.00 0 -240 48 round
+1.00 0 -240 -48 round
+1.00 0 -144 48 round
+1.00 0 -144 -48 round
+1.00 0 -48 48 round
+1.00 0 -48 -48 round
+1.00 0 48 48 round
+1.00 0 48 -48 round
+1.00 0 144 48 round
+1.00 0 144 -48 round
+1.00 0 240 48 round
+1.00 0 240 -48 round
+1.00 0 336 48 round
+1.00 0 336 -48 round
+1.00 0 432 48 round
+1.00 0 432 -48 round
+endgate
+} def
+
+
+% EndLib

@@ -1,0 +1,222 @@
+%! PostScript set of library objects for XCircuit
+%  Library name is: flowchart
+%
+%
+
+% XCircuitLib library built-in objects
+/offpage_connector {
+% -48 -48 96 96 bbox
+begingate
+1  1.00 -48 48 48 48 2 polygon
+1  1.00 48 48 48 -16 2 polygon
+1  1.00 -48 48 -48 -16 2 polygon
+1  1.00 -48 -16 0 -48 48 -16 3 polygon
+endgate
+} def
+
+/connector {
+% -48 -48 96 96 bbox
+begingate
+1  1.00 0 0 48 0.00 360.00 xcarc
+endgate
+} def
+
+/extract {
+% -96 -80 192 160 bbox
+begingate
+1  1.00 -96 -80 0 80 96 -80 -96 -80 4 polygon
+endgate
+} def
+
+/merge {
+% -96 -80 192 160 bbox
+begingate
+1  1.00 -96 80 0 -80 96 80 -96 80 4 polygon
+endgate
+} def
+
+/I_O {
+% -144 -96 288 192 bbox
+begingate
+1  1.00 -144 -96 96 -96 2 polygon
+1  1.00 -96 96 144 96 2 polygon
+1  1.00 -96 96 -144 -96 2 polygon
+1  1.00 96 -96 144 96 2 polygon
+endgate
+} def
+
+/preparation {
+% -144 -96 288 192 bbox
+begingate
+0  1.00 -96 -96 -144 0 -96 96 96 96 144 0 96 -96 6 polygon
+endgate
+} def
+
+/display {
+% -144 -96 282 192 bbox
+begingate
+112 96 beginpath
+148 40 148 -44 112 -96 curveto
+-48 -96 1 polyc
+-96 -72 -128 -32 -144 0 curveto
+-128 32 -96 72 -48 96 curveto
+0  1.00 endpath
+endgate
+} def
+
+/offline_storage {
+% -96 -80 192 160 bbox
+begingate
+1  1.00 -96 80 0 -80 96 80 -96 80 4 polygon
+1  1.00 -38 -16 38 -16 2 polygon
+endgate
+} def
+
+/process {
+% -144 -96 288 192 bbox
+begingate
+0  1.00 -144 -96 -144 96 144 96 144 -96 4 polygon
+endgate
+} def
+
+/core {
+% -96 -96 192 192 bbox
+begingate
+0  1.00 -96 -96 -96 96 96 96 96 -96 4 polygon
+1  1.00 -96 48 96 48 2 polygon
+1  1.00 -48 -96 -48 96 2 polygon
+endgate
+} def
+
+/document {
+% -144 -95 288 175 bbox
+begingate
+144 -48 beginpath
+0 16 0 -144 -144 -80 curveto
+-144 80 1 polyc
+144 80 1 polyc
+0  1.00 endpath
+endgate
+} def
+
+/mag_tape {
+% -96 -96 192 192 bbox
+begingate
+1  1.00 0 0 96 0.00 360.00 xcarc
+1  1.00 0 -96 96 -96 2 polygon
+endgate
+} def
+
+/predefined_process {
+% -144 -96 288 192 bbox
+begingate
+0  1.00 -96 -96 -96 96 96 96 96 -96 4 polygon
+1  1.00 96 96 144 96 144 -96 96 -96 4 polygon
+1  1.00 -96 96 -144 96 -144 -96 -96 -96 4 polygon
+endgate
+} def
+
+/comment {
+% -192 -96 384 192 bbox
+begingate
+3  1.00 -96 0 -192 0 2 polygon
+1  1.00 192 -96 -96 -96 -96 96 192 96 4 polygon
+endgate
+} def
+
+/manual_operation {
+% -144 -96 288 192 bbox
+begingate
+1  1.00 144 96 -144 96 -72 -96 72 -96 144 96 5 polygon
+endgate
+} def
+
+/online_storage {
+% -170 -96 314 192 bbox
+begingate
+-144 96 beginpath
+-180 32 -180 -32 -144 -96 curveto
+144 -96 1 polyc
+108 -32 108 32 144 96 curveto
+0  1.00 endpath
+endgate
+} def
+
+/auxillary_operation {
+% -96 -96 192 192 bbox
+begingate
+0  1.00 -96 96 -96 -96 96 -96 96 96 4 polygon
+endgate
+} def
+
+/decision {
+% -144 -96 288 192 bbox
+begingate
+1  1.00 0 96 -144 0 0 -96 144 0 0 96 5 polygon
+endgate
+} def
+
+/manual_input {
+% -144 -64 288 144 bbox
+begingate
+1  1.00 -144 -64 144 -64 144 80 -144 32 -144 -64 5 polygon
+endgate
+} def
+
+/punch_card {
+% -144 -64 288 144 bbox
+begingate
+1  1.00 144 80 144 -64 -144 -64 -144 48 -112 80 144 80 6 polygon
+endgate
+} def
+
+/terminator {
+% -131 -48 262 96 bbox
+begingate
+-96 -48 beginpath
+-144 -32 -144 32 -96 48 curveto
+96 48 1 polyc
+144 32 144 -32 96 -48 curveto
+0  1.00 endpath
+endgate
+} def
+
+/comm_link {
+% -16 -112 48 240 bbox
+begingate
+1  1.00 -16 -16 -16 128 2 polygon
+1  1.00 32 -112 32 32 2 polygon
+1  1.00 32 32 -16 -16 2 polygon
+endgate
+} def
+
+/sort {
+% -96 -160 192 320 bbox
+begingate
+1  1.00 0 160 -96 0 0 -160 96 0 0 160 5 polygon
+1  1.00 -96 0 96 0 2 polygon
+endgate
+} def
+
+/collate {
+% -96 -160 192 320 bbox
+begingate
+1  1.00 -96 160 0 0 96 160 -96 160 4 polygon
+1  1.00 -96 -160 0 0 96 -160 -96 -160 4 polygon
+endgate
+} def
+
+/disk_storage {
+% -96 -176 192 352 bbox
+begingate
+1  1.00 96 -144 96 144 2 polygon
+1  1.00 -96 -144 -96 144 2 polygon
+1  1.00 0 -144 96 32 180.00 360.00 ellipse
+1  1.00 0 96 96 32 180.00 360.00 ellipse
+1  1.00 0 48 96 32 180.00 360.00 ellipse
+1  1.00 0 144 96 32 -180.00 180.00 ellipse
+endgate
+} def
+
+
+% EndLib

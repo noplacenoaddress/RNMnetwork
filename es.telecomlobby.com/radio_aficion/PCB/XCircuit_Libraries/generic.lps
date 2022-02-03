@@ -1,0 +1,74 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: generic
+%  Author: R. Timothy Edwards <tim@stravinsky.jhuapl.edu>
+
+% XCircuitLib library of objects
+
+/arrowhead {
+% -12 -32 24 36 bbox
+% trivial
+begingate
+8 -28 beginpath
+3 -18 3 -15 0 0 curveto
+-3 -15 -3 -18 -8 -28 curveto
+-2 -26 2 -26 8 -28 curveto
+249  1.00 endpath
+endgate
+} def
+
+/arrowhead90 {
+% -20 -12 36 24 bbox
+% trivial
+begingate
+1.00 90 -16 0 arrowhead
+endgate
+} def
+
+/jumper {
+% -4 -14 18 28 bbox
+% trivial
+begingate
+1 1.0 0 0 10 -90 90 xcarc 
+0 10 0 16 wire
+0 -10 0 -16 wire
+1 0 0 scb
+(a) {/Times-Roman cf} 1 1 0 1.0 0 16 pinlabel
+(a) {/Times-Roman cf} 1 13 0 1.0 0 -16 pinlabel
+sce
+endgate
+} def
+
+/dot {
+% -10 -10 20 20 bbox
+% trivial
+begingate
+248 1.0 0 0 6 0 360 xcarc
+1 0 0 scb
+(x) {/Times-Roman cf} 2 29 0 1.0 0 0 pinlabel
+endgate  
+} def
+
+/circle {
+% -6 -12 28 24 bbox
+% trivial
+begingate
+1 1.0 16 0 6 0 360 xcarc
+0 0 10 0 wire
+1 0 0 scb
+(out) {/Times-Roman cf} 1 4 0 1.0 16 0 pinlabel
+(out) {/Times-Roman cf} 1 7 0 1.0 0 0 pinlabel
+sce
+endgate
+} def
+
+/arrow {
+% -12 -40 24 80 bbox
+% trivial
+begingate
+1 0.8 0 -40 0 20 2 polygon
+1.0 0 0 40 arrowhead
+endgate
+} def
+
+% EndLib

@@ -1,0 +1,926 @@
+%! PostScript set of library objects for XCircuit
+%  Library name is: lgf
+%
+%
+
+% XCircuitLib library built-in objects
+/source {
+% -32 -64 64 128 bbox
+begingate
+0 32 0 64 wire
+0 -32 0 -64 wire
+1  1.00 0 0 32 0 360 xcarc
+endgate
+} def
+
+/VDIFF {
+% -32 -64 64 128 bbox
+begingate
+1.00 0 0 0 source
+(+) {/Symbol 1.000 cf} 1 5 0 0 18 label
+(-) {/Symbol 1.000 cf} 1 5 0 0 -18 label
+endgate
+} def
+
+/arrowhead {
+% -12 -32 24 36 bbox
+begingate
+8 -28 beginpath
+3 -18 3 -15 0 0 curveto
+-3 -15 -3 -18 -8 -28 curveto
+-2 -26 2 -26 8 -28 curveto
+249  1.00 endpath
+endgate
+} def
+
+/IDIFF {
+% -32 -64 64 128 bbox
+begingate
+1  0.75 0 20 0 -8 2 polygon
+1.00 0 0 0 source
+0.80 180 0 -20 arrowhead
+endgate
+} def
+
+/STAIRS {
+% -32 -64 64 128 bbox
+begingate
+1.00 0 0 0 VDIFF
+(S) {/Helvetica-Bold 0.500 cf} 1 21 0 0 0 label
+endgate
+} def
+
+/NFET7T {
+% -64 -64 64 128 bbox
+begingate
+-36 -28 -36 28 wire
+-36 0 -64 0 wire
+1  1.00 0 -64 0 -28 -24 -28 -24 28 0 28 0 64 6 polygon
+1 0 0 scb
+(G) {/Helvetica 1.0 cf} 1 7 0 -64 0 pinlabel
+(S) {/Helvetica 1.0 cf} 1 13 0 0 -64 pinlabel
+(D) {/Helvetica 1.0 cf} 1 9 0 0 64 pinlabel
+sce
+(spice:M%i %pD %pG %pS GND nmos) {/Times-Roman 1.0 cf} 
+1 4 0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman 1.0 cf} 1 4 0 -244 -187 infolabel
+endgate
+} def
+
+/PFET7T {
+% -64 -64 64 128 bbox
+begingate
+-36 -28 -36 28 wire
+-52 0 -64 0 wire
+1  1.00 0 -64 0 -28 -24 -28 -24 28 0 28 0 64 6 polygon
+1  1.00 -44 0 8 0 360 xcarc
+1 0 0 scb
+(S) {/Helvetica 1.0 cf} 1 9 0 0 64 pinlabel
+(D) {/Helvetica 1.0 cf} 1 13 0 0 -64 pinlabel
+(G) {/Helvetica 1.0 cf} 1 7 0 -64 0 pinlabel
+sce
+(spice:M%i %pD %pG %pS Vdd pmos) {/Times-Roman 1.0 cf} 
+1 4 0 -196 -139 infolabel
+(sim:p %pG %pS %pD) {/Times-Roman 1.0 cf} 1 4 0 -196 -187 infolabel
+endgate
+} def
+
+/NFET7F {
+% -64 -64 64 128 bbox
+begingate
+-24 0 16 0 wire
+1.00 0 0 0 NFET7T
+1 0 0 scb
+(G) {/Helvetica 1.0 cf} 1 7 0 -64 0 pinlabel
+(S) {/Helvetica 1.0 cf} 1 13 0 0 -64 pinlabel
+(D) {/Helvetica 1.0 cf} 1 9 0 0 64 pinlabel
+(B) {/Helvetica 1.0 cf} 1 0 0 16 0 pinlabel
+sce
+(spice:M%i %pD %pG %pS %pB nmos) {/Times-Roman 1.0 cf} 
+1 4 0 -244 -139 infolabel
+(sim:n %pG %pS %pD) {/Times-Roman 1.0 cf} 1 4 0 -244 -187 infolabel
+endgate
+} def
+
+/PFET7F {
+% -64 -64 64 128 bbox
+begingate
+-24 0 16 0 wire
+1.00 0 0 0 PFET7T
+1 0 0 scb
+(S) {/Helvetica 1.0 cf} 1 9 0 0 64 pinlabel
+(D) {/Helvetica 1.0 cf} 1 13 0 0 -64 pinlabel
+(G) {/Helvetica 1.0 cf} 1 7 0 -64 0 pinlabel
+(B) {/Helvetica 1.0 cf} 1 0 0 16 0 pinlabel
+sce
+(spice:M%i %pD %pG %pS %pB pmos) {/Times-Roman 1.0 cf} 
+1 4 0 -196 -139 infolabel
+(sim:p %pG %pS %pD) {/Times-Roman 1.0 cf} 1 4 0 -196 -187 infolabel
+endgate
+} def
+
+/VDD {
+% -32 0 64 63 bbox
+begingate
+0 0 0 32 wire
+-32 32 32 32 wire
+(Vdd) {/Times-Roman 0.900 cf} 1 17 0 0 38 label
+1 0 0 scb
+(Vdd) {/Times-Roman 1.0 cf} 1 13 0 0 0 pinglobal
+sce
+endgate
+} def
+
+/GND {
+% -32 -60 64 60 bbox
+begingate
+0 0 0 -32 wire
+-32 -32 32 -32 wire
+-18 -46 18 -46 wire
+-4 -60 4 -60 wire
+1 0 0 scb
+(GND) {/Times-Roman 1.0 cf} 1 1 0 0 0 pinglobal
+sce
+endgate
+} def
+
+/NPN1 {
+% -32 -64 73 128 bbox
+begingate
+-16 0 -32 0 wire
+-16 48 -16 -48 wire
+32 48 -16 22 wire
+32 48 32 64 wire
+32 -48 -16 -22 wire
+32 -48 32 -64 wire
+1.00 240 32 -48 arrowhead
+1 0 0 scb
+(C) {/Times-Roman 1.000 cf} 1 9 0 32 64 pinlabel
+(B) {/Times-Roman 1.000 cf} 1 7 0 -32 0 pinlabel
+(E) {/Times-Roman 1.000 cf} 1 13 0 32 -64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE npn) {/Times-Roman 1.0 cf} 
+1 4 0 -244 -139 infolabel
+(sim:b %pB %pE %pC) {/Times-Roman 1.0 cf} 1 4 0 -244 -187 infolabel
+endgate
+} def
+
+/PNP1 {
+% -32 -64 64 128 bbox
+begingate
+-16 0 -32 0 wire
+-16 48 -16 -48 wire
+32 48 -16 22 wire
+32 48 32 64 wire
+32 -48 -16 -22 wire
+32 -48 32 -64 wire
+1.00 120 -16 22 arrowhead
+1 0 0 scb
+(C) {/Times-Roman 1.000 cf} 1 13 0 32 -64 pinlabel
+(B) {/Times-Roman 1.000 cf} 1 7 0 -32 0 pinlabel
+(E) {/Times-Roman 1.000 cf} 1 9 0 32 64 pinlabel
+sce
+(spice:Q%i %pC %pB %pE pnp) {/Times-Roman 1.0 cf} 
+1 4 0 -244 -139 infolabel
+endgate
+} def
+
+/RESFLOAT {
+% -12 -48 26 96 bbox
+begingate
+0 -48 0 -36 wire
+0 48 0 36 wire
+1  1.00 0 -36 -12 -30 14 -18 -12 -6 14 6 -12 18 12 30 0 36 8 polygon
+1 0 0 scb
+(r.1) {/Times-Roman 1.000 cf} 1 9 0 0 64 pinlabel
+(r.2) {/Times-Roman 1.000 cf} 1 13 0 0 -64 pinlabel
+sce
+(spice:R%i %pr.1 %pr.2 1.0K) {/Times-Roman 1.0 cf} 1 0 0 -208 -160 infolabel
+(sim:r %pr.1 %pr.2) {/Times-Roman 1.0 cf} 1 0 0 -208 -208 infolabel
+endgate
+} def
+
+/CAPFLOAT {
+% -32 -64 64 128 bbox
+begingate
+0 -64 0 -6 wire
+0 64 0 6 wire
+-32 -6 32 -6 wire
+-32 6 32 6 wire
+1 0 0 scb
+(c.1) {/Times-Roman 1.000 cf} 1 9 0 0 64 pinlabel
+(c.2) {/Times-Roman 1.000 cf} 1 13 0 0 -64 pinlabel
+sce
+(spice:C%i %pc.1 %pc.2 1.0P) {/Times-Roman 1.0 cf} 1 0 0 -208 -160 infolabel
+(sim:c %pc.1 %pc.2) {/Times-Roman 1.0 cf} 1 0 0 -208 -208 infolabel
+endgate
+} def
+
+/MOSCAP {
+% -64 -56 128 120 bbox
+begingate
+0 4 0 64 wire
+-64 4 64 4 wire
+-64 -4 -8 -4 wire
+8 -4 64 -4 wire
+-56 -36 -16 -36 wire
+36 -36 36 -4 wire
+16 -36 56 -36 wire
+-36 -36 -36 -4 wire
+-48 -44 -24 -44 wire
+-40 -52 -32 -52 wire
+(Vdd) {/Helvetica 0.600 cf} 1 29 0 36 -40 label
+endgate
+} def
+
+/DIODE {
+% -18 -48 36 96 bbox
+begingate
+0 -48 0 -16 wire
+0 48 0 16 wire
+-18 -16 18 -16 wire
+248  1.00 -18 16 0 -16 18 16 3 polygon
+endgate
+} def
+
+/OPAMP {
+% -80 -80 160 160 bbox
+begingate
+0 -40 0 -80 wire
+0  1.00 -80 -80 -80 80 80 0 3 polygon
+(-) {/Symbol 1.000 cf} 1 5 0 -64 46 label
+(+) {/Symbol 1.000 cf} 1 5 0 -64 -46 label
+endgate
+} def
+
+/WRAMP {
+% -80 -80 160 160 bbox
+begingate
+0 -80 0 -45 wire
+48 0 80 0 wire
+0  1.00 -80 -80 -80 80 48 24 48 -24 4 polygon
+(-) {/Symbol 1.000 cf} 1 5 0 -64 46 label
+(+) {/Symbol 1.000 cf} 1 5 0 -64 -46 label
+endgate
+} def
+
+/ARROW1 {
+% -12 -40 24 80 bbox
+begingate
+1  0.80 0 -40 0 20 2 polygon
+1.00 0 0 40 arrowhead
+endgate
+} def
+
+/ARROW2 {
+% -32 -32 75 75 bbox
+begingate
+1  0.80 -32 -32 16 16 2 polygon
+1.00 315 32 32 arrowhead
+endgate
+} def
+
+/MMETER {
+% -40 -40 48 48 bbox
+begingate
+-24 -24 -8 -8 wire
+0  1.00 -8 -8 -8 8 8 8 8 -8 4 polygon
+0.75 135 -32 -32 arrowhead
+endgate
+} def
+
+/ISCOPE {
+% -40 -40 88 72 bbox
+begingate
+1  1.00 8 8 32 32 48 32 3 polygon
+1.00 0 0 0 MMETER
+endgate
+} def
+
+/TO {
+% -80 -12 16 24 bbox
+begingate
+-80 0 -64 0 wire
+1  1.00 -76 -12 -64 0 -76 12 3 polygon
+1 0 0 scb
+(out) {/Times-Roman 1.0 cf} 1 4 0 -48 0 pinlabel
+(out) {/Times-Roman 1.0 cf} 1 7 0 -64 0 pinlabel
+sce
+
+endgate
+} def
+
+/FROM {
+% 64 -12 16 24 bbox
+begingate
+76 0 64 12 wire
+76 0 80 0 wire
+76 0 64 -12 wire
+1 0 0 scb
+(out) {/Times-Roman 1.0 cf} 1 4 0 80 0 pinlabel
+(out) {/Times-Roman 1.0 cf} 1 7 0 54 0 pinlabel
+sce
+endgate
+} def
+
+/CROSS5 {
+% -32 -32 64 64 bbox
+begingate
+32 32 -32 -32 wire
+32 -32 -32 32 wire
+endgate
+} def
+
+/CROSS3 {
+% -32 -16 48 48 bbox
+begingate
+16 32 -32 -16 wire
+-32 32 16 -16 wire
+endgate
+} def
+
+/CROSS2 {
+% -16 -16 32 32 bbox
+begingate
+16 16 -16 -16 wire
+-16 16 16 -16 wire
+endgate
+} def
+
+/GINST1 {
+% -32 -48 64 98 bbox 
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  0.60 16 36 16 16 2 polygon
+0.60 0 16 48 arrowhead
+endgate
+} def
+
+/SW2 {
+% -22 -36 42 56 bbox
+begingate
+0 -32 -16 16 wire
+257  1.00 0 -32 4 0 360 xcarc
+257  1.00 -16 16 4 0 360 xcarc
+257  1.00 16 16 4 0 360 xcarc
+0.60 -341 -15 12 arrowhead
+endgate
+} def
+
+/SW4 {
+% -54 -20 106 56 bbox
+begingate
+-16 -16 16 -16 wire
+32 32 16 -16 wire
+-32 32 -48 -16 wire
+3  1.00 -40 8 24 8 2 polygon
+257  1.00 16 -16 4 0 360 xcarc
+257  1.00 32 32 4 0 360 xcarc
+257  1.00 48 -16 4 0 360 xcarc
+257  1.00 -32 32 4 0 360 xcarc
+257  1.00 -16 -16 4 0 360 xcarc
+257  1.00 -48 -16 4 0 360 xcarc
+0.60 160 17 -12 arrowhead
+0.60 160 -47 -11 arrowhead
+endgate
+} def
+
+/NFET5 {
+% -64 -64 64 128 bbox
+begingate
+1.00 0 0 0 NFET7T
+endgate
+} def
+
+/PFET5 {
+% -64 -64 64 128 bbox
+begingate
+1.00 0 0 0 PFET7T
+endgate
+} def
+
+/PFET6 {
+% -64 -64 64 128 bbox
+begingate
+1.00 0 0 0 PFET7F
+endgate
+} def
+
+/NOR {
+% -64 -32 128 64 bbox
+begingate
+1  1.00 -40 32 -8 32 2 polygon
+1  1.00 -40 -32 -8 -32 2 polygon
+1  1.00 -24 -16 -24 16 -40 32 -40 -32 spline
+1  1.00 8 32 24 16 32 0 -8 32 spline
+1  1.00 40 0 8 0.00 360.00 xcarc
+1  1.00 48 0 64 0 2 polygon
+1  1.00 8 -32 24 -16 32 0 -8 -32 spline
+1  1.00 -32 16 -64 16 2 polygon
+1  1.00 -32 -16 -64 -16 2 polygon
+endgate
+} def
+
+/OR {
+% -64 -32 128 64 bbox
+begingate
+1  1.00 -40 32 -8 32 2 polygon
+1  1.00 -40 -32 -8 -32 2 polygon
+1  1.00 -24 -16 -24 16 -40 32 -40 -32 spline
+1  1.00 8 32 24 16 32 0 -8 32 spline
+1  1.00 32 0 64 0 2 polygon
+1  1.00 8 -32 24 -16 32 0 -8 -32 spline
+1  1.00 -32 16 -64 16 2 polygon
+1  1.00 -32 -16 -64 -16 2 polygon
+endgate
+} def
+
+/NAND {
+% -64 -32 128 64 bbox
+begingate
+1  1.00 24 -32 32 -16 32 0 8 -32 spline
+1  1.00 48 0 64 0 2 polygon
+1  1.00 -32 16 -64 16 2 polygon
+1  1.00 -32 -16 -64 -16 2 polygon
+1  1.00 24 32 32 16 32 0 8 32 spline
+1  1.00 8 32 -32 32 -32 -32 8 -32 4 polygon
+1  1.00 40 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/AND {
+% -64 -32 128 64 bbox
+begingate
+1  1.00 24 -32 32 -16 32 0 8 -32 spline
+1  1.00 32 0 64 0 2 polygon
+1  1.00 -32 16 -64 16 2 polygon
+1  1.00 -32 -16 -64 -16 2 polygon
+1  1.00 24 32 32 16 32 0 8 32 spline
+1  1.00 8 32 -32 32 -32 -32 8 -32 4 polygon
+endgate
+} def
+
+/INV {
+% -48 -32 96 64 bbox
+begingate
+1  1.00 -48 0 -24 0 2 polygon
+1  1.00 -24 32 -24 -32 2 polygon
+1  1.00 -24 32 16 0 -24 -32 3 polygon
+1  1.00 24 0 8 0.00 360.00 xcarc
+1  1.00 32 0 48 0 2 polygon
+endgate
+} def
+
+/LED {
+% -16 -16 32 32 bbox
+begingate
+0  1.00 -16 -16 -16 16 16 16 16 -16 4 polygon
+1.000 0.000 0.000 scb
+241  1.00 0 0 12 0.00 360.00 xcarc
+sce
+1  1.00 0 0 12 0.00 360.00 xcarc
+endgate
+} def
+
+/CLOCK {
+% -40 -40 104 80 bbox
+begingate
+0  1.00 -40 -40 -40 40 40 40 40 -40 4 polygon
+1  1.00 40 16 64 16 2 polygon
+1  1.00 40 -16 64 -16 2 polygon
+1  1.00 16 -16 12 0.00 360.00 xcarc
+1.000 0.000 0.000 scb
+241  1.00 16 16 12 0.00 360.00 xcarc
+sce
+1  1.00 16 16 12 0.00 360.00 xcarc
+endgate
+} def
+
+/SWITCH {
+% -16 -16 48 32 bbox
+begingate
+1  1.00 16 16 -16 16 -16 -16 16 -16 32 0 16 16 6 polygon
+1.000 0.000 0.000 scb
+241  1.00 0 0 12 0.00 360.00 xcarc
+sce
+1  1.00 0 0 12 0.00 360.00 xcarc
+endgate
+} def
+
+/PULSE {
+% -8 -16 56 32 bbox
+begingate
+1.00 0 8 0 SWITCH
+1  1.00 16 16 32 16 48 0 32 -16 16 -16 5 polygon
+endgate
+} def
+
+/XNOR {
+% -64 -32 128 64 bbox
+begingate
+1  1.00 -40 32 -8 32 2 polygon
+1  1.00 -40 -32 -8 -32 2 polygon
+1  1.00 -32 -16 -32 16 -48 32 -48 -32 spline
+1  1.00 8 32 24 16 32 0 -8 32 spline
+1  1.00 40 0 8 0.00 360.00 xcarc
+1  1.00 48 0 64 0 2 polygon
+1  1.00 8 -32 24 -16 32 0 -8 -32 spline
+1  1.00 -40 16 -64 16 2 polygon
+1  1.00 -40 -16 -64 -16 2 polygon
+1  1.00 -24 -16 -24 16 -40 32 -40 -32 spline
+endgate
+} def
+
+/XOR {
+% -64 -32 128 64 bbox
+begingate
+1  1.00 -40 32 -8 32 2 polygon
+1  1.00 -40 -32 -8 -32 2 polygon
+1  1.00 -32 -16 -32 16 -48 32 -48 -32 spline
+1  1.00 8 32 24 16 32 0 -8 32 spline
+1  1.00 32 0 64 0 2 polygon
+1  1.00 8 -32 24 -16 32 0 -8 -32 spline
+1  1.00 -40 16 -64 16 2 polygon
+1  1.00 -40 -16 -64 -16 2 polygon
+1  1.00 -24 -16 -24 16 -40 32 -40 -32 spline
+endgate
+} def
+
+/AND3 {
+% -64 -48 128 96 bbox
+begingate
+1  1.00 24 -48 32 -32 32 0 8 -48 spline
+1  1.00 -32 32 -64 32 2 polygon
+1  1.00 -32 -32 -64 -32 2 polygon
+1  1.00 24 48 32 32 32 0 8 48 spline
+1  1.00 8 48 -32 48 -32 -48 8 -48 4 polygon
+1  1.00 -32 0 -64 0 2 polygon
+1  1.00 32 0 64 0 2 polygon
+endgate
+} def
+
+/AND4 {
+% -64 -64 144 128 bbox
+begingate
+1  1.00 -64 -48 -32 -48 2 polygon
+1  1.00 24 -64 48 -32 48 0 8 -64 spline
+1  1.00 -32 48 -64 48 2 polygon
+1  1.00 -32 -16 -64 -16 2 polygon
+1  1.00 8 64 -32 64 -32 -64 8 -64 4 polygon
+1  1.00 -32 16 -64 16 2 polygon
+1  1.00 48 0 80 0 2 polygon
+1  1.00 24 64 48 32 48 0 8 64 spline
+endgate
+} def
+
+/AND8 {
+% -64 -80 144 136 bbox
+begingate
+1  1.00 -64 -64 -32 -64 2 polygon
+1  1.00 -32 32 -64 32 2 polygon
+1  1.00 -32 -32 -64 -32 2 polygon
+1  1.00 24 56 48 32 48 0 8 56 spline
+1  1.00 8 56 -32 56 -32 -80 8 -80 4 polygon
+1  1.00 -32 0 -64 0 2 polygon
+1  1.00 48 0 80 0 2 polygon
+1  1.00 -64 -48 -32 -48 2 polygon
+1  1.00 -64 -16 -32 -16 2 polygon
+1  1.00 -64 16 -32 16 2 polygon
+1  1.00 -64 48 -32 48 2 polygon
+1  1.00 32 -80 48 -48 48 0 8 -80 spline
+endgate
+} def
+
+/NAND3 {
+% -64 -48 128 96 bbox
+begingate
+1  1.00 24 -48 32 -32 32 0 8 -48 spline
+1  1.00 -32 32 -64 32 2 polygon
+1  1.00 -32 -32 -64 -32 2 polygon
+1  1.00 24 48 32 32 32 0 8 48 spline
+1  1.00 8 48 -32 48 -32 -48 8 -48 4 polygon
+1  1.00 -32 0 -64 0 2 polygon
+1  1.00 48 0 64 0 2 polygon
+1  1.00 40 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/NAND4 {
+% -64 -64 144 128 bbox
+begingate
+1  1.00 -64 -48 -32 -48 2 polygon
+1  1.00 -32 48 -64 48 2 polygon
+1  1.00 -32 -16 -64 -16 2 polygon
+1  1.00 8 64 -32 64 -32 -64 8 -64 4 polygon
+1  1.00 -32 16 -64 16 2 polygon
+1  1.00 64 0 80 0 2 polygon
+1  1.00 56 0 8 0.00 360.00 xcarc
+1  1.00 24 -64 48 -32 48 0 8 -64 spline
+1  1.00 24 64 48 32 48 0 8 64 spline
+endgate
+} def
+
+/NAND8 {
+% -64 -80 144 136 bbox
+begingate
+1  1.00 -64 -64 -32 -64 2 polygon
+1  1.00 32 56 48 32 48 0 8 56 spline
+1  1.00 -32 32 -64 32 2 polygon
+1  1.00 -32 -32 -64 -32 2 polygon
+1  1.00 32 -80 48 -56 48 0 8 -80 spline
+1  1.00 8 56 -32 56 -32 -80 8 -80 4 polygon
+1  1.00 -32 0 -64 0 2 polygon
+1  1.00 64 0 80 0 2 polygon
+1  1.00 -64 -48 -32 -48 2 polygon
+1  1.00 -64 -16 -32 -16 2 polygon
+1  1.00 -64 16 -32 16 2 polygon
+1  1.00 -64 48 -32 48 2 polygon
+1  1.00 56 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/OR3 {
+% -64 -48 128 96 bbox
+begingate
+1  1.00 -40 48 -8 48 2 polygon
+1  1.00 -40 -48 -8 -48 2 polygon
+1  1.00 -24 -32 -24 32 -40 48 -40 -48 spline
+1  1.00 8 -48 24 -32 32 0 -8 -48 spline
+1  1.00 32 0 64 0 2 polygon
+1  1.00 -32 32 -64 32 2 polygon
+1  1.00 -28 0 -64 0 2 polygon
+1  1.00 -64 -32 -32 -32 2 polygon
+1  1.00 8 48 24 32 32 0 -8 48 spline
+endgate
+} def
+
+/OR4 {
+% -64 -64 144 128 bbox
+begingate
+1  1.00 -40 64 -8 64 2 polygon
+1  1.00 -40 -64 -8 -64 2 polygon
+1  1.00 -24 -48 -24 48 -40 64 -40 -64 spline
+1  1.00 48 0 80 0 2 polygon
+1  1.00 -34 48 -64 48 2 polygon
+1  1.00 -29 16 -64 16 2 polygon
+1  1.00 -64 -16 -29 -16 2 polygon
+1  1.00 -64 -48 -34 -48 2 polygon
+1  1.00 8 -64 40 -40 48 0 -8 -64 spline
+1  1.00 8 64 40 40 48 0 -8 64 spline
+endgate
+} def
+
+/OR8 {
+% -64 -72 144 136 bbox
+begingate
+1  1.00 -40 64 -8 64 2 polygon
+1  1.00 -40 -72 -8 -72 2 polygon
+1  1.00 -24 -56 -24 48 -40 64 -40 -72 spline
+1  1.00 48 0 80 0 2 polygon
+1  1.00 -34 48 -64 48 2 polygon
+1  1.00 -29 16 -64 16 2 polygon
+1  1.00 -64 -16 -29 -16 2 polygon
+1  1.00 -64 -48 -32 -48 2 polygon
+1  1.00 8 -72 32 -48 48 0 -8 -72 spline
+1  1.00 -64 32 -30 32 2 polygon
+1  1.00 -64 0 -28 0 2 polygon
+1  1.00 -64 -32 -30 -32 2 polygon
+1  1.00 -64 -64 -36 -64 2 polygon
+1  1.00 8 64 32 48 48 0 -8 64 spline
+endgate
+} def
+
+/NOR3 {
+% -64 -48 128 96 bbox
+begingate
+1  1.00 -40 48 -8 48 2 polygon
+1  1.00 -40 -48 -8 -48 2 polygon
+1  1.00 -24 -32 -24 32 -40 48 -40 -48 spline
+1  1.00 8 -48 24 -32 32 0 -8 -48 spline
+1  1.00 48 0 64 0 2 polygon
+1  1.00 -32 32 -64 32 2 polygon
+1  1.00 -28 0 -64 0 2 polygon
+1  1.00 -64 -32 -32 -32 2 polygon
+1  1.00 8 48 24 32 32 0 -8 48 spline
+1  1.00 40 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/NOR4 {
+% -64 -64 144 128 bbox
+begingate
+1  1.00 -40 64 -8 64 2 polygon
+1  1.00 -40 -64 -8 -64 2 polygon
+1  1.00 -24 -48 -24 48 -40 64 -40 -64 spline
+1  1.00 64 0 80 0 2 polygon
+1  1.00 -34 48 -64 48 2 polygon
+1  1.00 -29 16 -64 16 2 polygon
+1  1.00 -64 -16 -29 -16 2 polygon
+1  1.00 -64 -48 -34 -48 2 polygon
+1  1.00 56 0 8 0.00 360.00 xcarc
+1  1.00 8 -64 40 -40 48 0 -8 -64 spline
+1  1.00 8 64 40 40 48 0 -8 64 spline
+endgate
+} def
+
+/NOR8 {
+% -64 -72 144 136 bbox
+begingate
+1  1.00 -40 64 -8 64 2 polygon
+1  1.00 -40 -72 -8 -72 2 polygon
+1  1.00 -24 -56 -24 48 -40 64 -40 -72 spline
+1  1.00 64 0 80 0 2 polygon
+1  1.00 -34 48 -64 48 2 polygon
+1  1.00 -29 16 -64 16 2 polygon
+1  1.00 -64 -16 -29 -16 2 polygon
+1  1.00 8 -72 40 -40 48 0 -8 -72 spline
+1  1.00 -64 -48 -32 -48 2 polygon
+1  1.00 8 64 32 48 48 0 -8 64 spline
+1  1.00 -64 32 -30 32 2 polygon
+1  1.00 -64 0 -28 0 2 polygon
+1  1.00 -64 -32 -30 -32 2 polygon
+1  1.00 -64 -64 -36 -64 2 polygon
+1  1.00 56 0 8 0.00 360.00 xcarc
+endgate
+} def
+
+/TPOS {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 -16 -32 -16 2 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -16 64 -16 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 0 -16 -16 -32 -32 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -16 label
+(T) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+endgate
+} def
+
+/TNEG {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 -16 -48 -16 2 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -16 64 -16 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 0 -16 -16 -32 -32 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -16 label
+(T) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+1  1.00 -40 -16 8 0.00 360.00 xcarc
+endgate
+} def
+
+/DPOS {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 -16 -32 -16 2 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -16 64 -16 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 0 -16 -16 -32 -32 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -16 label
+(D) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+endgate
+} def
+
+/DNEG {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 -16 -48 -16 2 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -16 64 -16 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 0 -16 -16 -32 -32 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -16 label
+(D) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+1  1.00 -40 -16 8 0.00 360.00 xcarc
+endgate
+} def
+
+/GDNEG {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 0 -48 0 2 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -16 64 -16 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 16 -16 0 -32 -16 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -16 label
+(G) {/Times-Roman 0.650 cf} 1 4 0 -24 -32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+1  1.00 -40 0 8 0.00 360.00 xcarc
+1  1.00 -64 -32 -32 -32 2 polygon
+(D) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+endgate
+} def
+
+/GDPOS {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 0 -32 0 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -16 64 -16 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 16 -16 0 -32 -16 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -16 label
+(G) {/Times-Roman 0.650 cf} 1 4 0 -24 -32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+1  1.00 -64 -32 -32 -32 2 polygon
+(D) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+1  1.00 -64 32 -32 32 2 polygon
+endgate
+} def
+
+/JKNEG {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 0 -48 0 2 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -32 64 -32 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 16 -16 0 -32 -16 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+1  1.00 -40 0 8 0.00 360.00 xcarc
+1  1.00 -64 -32 -32 -32 2 polygon
+(J) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+(K) {/Times-Roman 0.650 cf} 1 4 0 -24 -32 label
+endgate
+} def
+
+/JKPOS {
+% -64 -80 128 160 bbox
+begingate
+0  1.00 -32 -48 -32 48 32 48 32 -48 4 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -32 64 -32 2 polygon
+1  1.00 0 -56 8 0.00 360.00 xcarc
+1  1.00 0 -64 0 -80 2 polygon
+1  1.00 0 56 8 0.00 360.00 xcarc
+1  1.00 0 64 0 80 2 polygon
+1  1.00 -32 16 -16 0 -32 -16 3 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+1  1.00 -64 -32 -32 -32 2 polygon
+(J) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+(K) {/Times-Roman 0.650 cf} 1 4 0 -24 -32 label
+1  1.00 -32 0 -64 0 2 polygon
+endgate
+} def
+
+/LATCH {
+% -64 -56 128 112 bbox
+begingate
+0  1.00 -32 -56 -32 56 32 56 32 -56 4 polygon
+1  1.00 -64 32 -32 32 2 polygon
+1  1.00 32 32 64 32 2 polygon
+1  1.00 32 -32 64 -32 2 polygon
+(Q) {ol} () {/Times-Roman 0.650 cf} 2 7 0 24 -32 label
+(Q) {/Times-Roman 0.650 cf} 1 7 0 24 32 label
+1  1.00 -64 -32 -32 -32 2 polygon
+(D) {/Times-Roman 0.650 cf} 1 4 0 -24 32 label
+(L) {/Times-Roman 0.650 cf} 1 4 0 -24 -32 label
+endgate
+} def
+
+% EndLib
