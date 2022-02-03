@@ -67,6 +67,8 @@ I'm under continuous electronic tortures from November 2017, electronic tortures
 
 First of all I want to speak about that every time that I go to Barcelona and I stay alone Saray torture me. Every time. Sometimes also Massimo. The twos work for nobles houses. Massimo for one from Genoa and Saray from the most important of Catalunya. I think that in families with two brothers it's normal that one work for one family and the other for another. In this manner the two brothers doesn't have a good relationship. It's better for the parents probably they gain from more money. It's like have sons to create slaves but I don't think that is related to the parents, is because they are slave. It's a slavery chain hidden but not unknown.
 
+![](http://egiarizor.eus/files/posts/2019/thumbnails/horizontal-b23d136d802c53442392a8a1e3c9a573argazki300phpjpeg.jpeg)
+
 From June 2020 I start to log every type of torture that I received in radio:
 
 - **Sleep deprivation** [[10]](https://en.wikipedia.org/wiki/Sleep_deprivation) at 3:10 AM 12/06/2020.
