@@ -24,6 +24,12 @@ Si por ejemplo combinamos germanio con un donante queda polarizado negativamente
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Diode-closeup.jpg)
 
+Un [diodo](https://es.wikipedia.org/wiki/Diodo) es un dispositivo que bajo determinadas circunstancias permite le paso de la corriente eléctrica en una única dirección.
+
+Son uniones de dos materiales semiconductores `P` y `N` por lo que reciben la denominación de <u>unión pn</u>.
+
+Ninguno de los dos cristales por separado tiene carga eléctrica, ya que en cada cristal, el número de electrones y cargas positivas es el mismo, de lo que podemos decir que los dos cristales son neutros. Al unir ambos hay una difusión de electrones de `N` a `P` y aparece una barrera de separación neutra. Al establecerse estas corrientes aparecen cargas fijas en una zona a ambos lados de la unión, zona que recibe diferentes denominaciones como zona de carga espacial, de agotamiento, de deplexión.
+
 
 
 ## Bibliografía
