@@ -478,6 +478,28 @@ siendo `k` la constante dieléctrica del medio distinto al vacío.
 
 Se llama [polarización](https://es.wikipedia.org/wiki/Polarizaci%C3%B3n_electromagn%C3%A9tica) de una onda a la posición que ocupa el campo eléctrico de la misma con respecto a la superficie de la Tierra.
 
+## Resumen secundo capitulo 
+
+- **Ondas electromagnéticas**
+  - La ondas de radio son de naturaleza electromagnética.
+  - La velocidad de propagación de las ondas es de 300000 km/s.
+  - La ondas de radio están formadas por un campagnético y otro eléctrico perpendiculares entre sí.
+  - La longitud de onda es igual a 300 dividido la frecuencia en megaciclos. `L=300/F`
+  - La corriente que se genera para uso domestico es alterna.
+  - En la corriente alterna los polos cambian continuamente; en continua, los polos permanecen siendo siempre o positivo o negativo.
+  - Los alternadores o generadores tienen colectores.
+  - Un ciclo se completa cuando una onda toma todos sus valores positivos y negativos.
+  - Toda onda tienen un semiciclo positivo y otro negativo.
+  - Se llama cresta al valor máximo de una onda.
+  - Se llama seno al valor mínimo de una onda.
+  - Se llama nodo al punto en el que la onda vale cero.
+  - Longitud de onda en metros es el tamaño físico del ciclo.
+  - Periodo es el tiempo que tarda en completarse un ciclo.
+  - Elongación el valor que toma la onda en un momento concreto.
+  - Frecuencia es la cantidad de ciclos que se completan en un segundo.
+  - Se denomina hercio a un ciclo por segundo.
+  - Valor pico a pico de una onda es el valor entre su máximo y su mínimo.
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
@@ -493,3 +515,4 @@ Se llama [polarización](https://es.wikipedia.org/wiki/Polarizaci%C3%B3n_electro
 - [Rafael Domínguez Castro](http://www2.imse-cnm.csic.es/~rafael/), [SETI](http://www2.imse-cnm.csic.es/~rafael/SETI/).
 - [Lessons in Electric Circuits](http://www.ibiblio.org/kuphaldt/electricCircuits/)
 - [Vicente González Ruiz](https://vicente-gonzalez-ruiz.github.io/), [Transducción de Señales de Audio](https://w3.ual.es/~vruiz/Docencia/Apuntes/Transduction/Audio/index.html)
+- [Temario simplificado del libro de examen de Radioficionado](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/89754710-Temario-Simplificado-Del-Libro-de-Examen-de-Radio-Aficionado.pdf), Juan Antonio Moran `EA4VJ`
