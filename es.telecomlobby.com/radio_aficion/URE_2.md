@@ -384,6 +384,20 @@ Existen numerosos tipos de formas de onda eléctricas de CA que no son de forma 
 
 
 
+Una señal de audio es una señal electrónica que es una representación eléctrica exacta de una señal sonora. Está acotada dentro del rango de frecuencias audibles pro los seres humanos desde los 20 hasta los 20.000 hercios.
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/9b/Ondes_compression_2d_20_petit.gif)
+
+Dado que el sonido es una [onda de presión](https://es.wikipedia.org/wiki/Onda_de_presi%C3%B3n) se requiere un [transductor](https://es.wikipedia.org/wiki/Transductor) que convierte las ondas de presión de aire, [ondas sonoras](https://es.wikipedia.org/wiki/Onda_sonora), en señales eléctricas analógicas. La conversión contraria se realiza mediante un altavoz.
+
+Una señal de audio se caracteriza por su dinámica en cuanto a valor de pico, rango dinámico, potencia, [relación señal-ruido](https://es.wikipedia.org/wiki/Relaci%C3%B3n_se%C3%B1al/ruido) y por su espectro de potencia, ancho de banda, [frecuencia fundamental](https://es.wikipedia.org/wiki/Frecuencia_fundamental), [armónicos](https://es.wikipedia.org/wiki/Arm%C3%B3nico), [distorsión armónica](https://es.wikipedia.org/wiki/Distorsi%C3%B3n_arm%C3%B3nica).
+
+Por ejemplo una señal que representa voz humana, una señal vocal transformada de una [señal de voz](https://es.wikipedia.org/wiki/Se%C3%B1al_de_voz), no suele tener información relevante más allá de los 10000 hercios y de hecho en telecomunicaciones se toman solo primeros 3500 hercios; con unos 2000 hercios basta para que la voz sea comprensible pero no para reconocer al hablante.
+
+#### 2.6.2 Ondas cuadradas y rectangulares. Presentación gráfica en función del tiempo.
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
