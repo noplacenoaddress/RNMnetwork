@@ -450,6 +450,34 @@ $$
 
 ![](https://www.areatecnologia.com/imagenes/onda-electromagnetica.jpg)
 
+Las ondas radio son una forma de radiación electromagnética y gracias a esta característica, debidamente utilizada, es posible transmitir información de un punto a otro. 
+
+No precisas de un medio material para desplazarse, pasan a través de los materiales aislantes, del aire y del vacío.
+
+La velocidad de propagación de las ondas electromagnéticas en el vacío es la misma que la de la luz, es decir unos 300000 km/s. En otros medios es distinto.
+
+Las ondas de radio, como cualquier otra radiación electromagnética, tienen dos campos, uno eléctrico y otro magnético que son variables y se encuentran siempre perpendiculares entre sí y con la dirección de propagación de la onda.
+
+Si imaginamos los tres [ejes de coordenadas](https://es.wikipedia.org/wiki/Coordenadas_cartesianas) `X`, `Y` y `Z` que forman entre sí ángulos de 90°, si `X` es la dirección de propagación de la onda, el campo eléctrico seguirá el eje `Y` y el magnético `Z`.
+
+Se denomina [longitud de onda](https://es.wikipedia.org/wiki/Longitud_de_onda) el espacio que recorre la onda durante un periodo o ciclo.
+
+La relación entre longitud de onda, su velocidad de propagación en el vacío y su frecuencia viene dada por la conocida expresión:
+$$
+\begin{align*}
+\lambda\space=\space\frac{300000}{f}
+\end{align*}
+$$
+Para conocer la velocidad de propagación de una onda de una longitud determinada utilizaremos la expresión:
+$$
+\begin{align*}
+v\space=\space \lambda f k
+\end{align*}
+$$
+siendo `k` la constante dieléctrica del medio distinto al vacío. 
+
+Se llama [polarización](https://es.wikipedia.org/wiki/Polarizaci%C3%B3n_electromagn%C3%A9tica) de una onda a la posición que ocupa el campo eléctrico de la misma con respecto a la superficie de la Tierra.
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
