@@ -1,0 +1,168 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.0
+%  Library name is: tubeamp
+%  Author: meo@rru.com (Miles O'Neal)
+%
+%
+
+% XCircuitLib library built-in objects
+/triode-left {
+% -96 -144 208 288 bbox
+begingate
+0  1.00 32 64 32 48 96 48 96 64 4 polygon
+1  1.00 64 0 112 90.00 270.00 xcarc
+1  1.00 64 64 64 144 2 polygon
+1  1.00 112 0 96 0 2 polygon
+1  1.00 80 0 64 0 2 polygon
+1  1.00 48 0 32 0 2 polygon
+1  1.00 16 0 -96 0 2 polygon
+1  1.00 96 -80 96 -64 32 -64 32 -144 4 polygon
+endgate
+} def
+
+/tube-rect {
+% -112 -112 230 224 bbox
+begingate
+1  1.00 16 0 102 0.00 360.00 xcarc
+1  1.00 -16 16 0 16 0 -16 -112 -16 4 polygon
+1  1.00 16 48 80 48 80 32 16 32 16 48 5 polygon
+1  1.00 48 48 48 112 2 polygon
+1  1.00 16 -32 80 -32 80 -48 16 -48 16 -32 5 polygon
+1  1.00 48 -48 48 -112 2 polygon
+endgate
+} def
+
+/triode {
+% -128 -144 256 288 bbox
+begingate
+0  1.00 -48 64 -48 48 16 48 16 64 4 polygon
+1  1.00 -16 0 112 0.00 360.00 xcarc
+1  1.00 -16 64 -16 144 2 polygon
+1  1.00 32 0 128 0 2 polygon
+1  1.00 0 0 16 0 2 polygon
+1  1.00 -32 0 -16 0 2 polygon
+1  1.00 -64 0 -48 0 2 polygon
+1  1.00 -48 -64 -48 -48 16 -48 16 -144 4 polygon
+endgate
+} def
+
+/tube-pentode {
+% -128 -144 256 288 bbox
+begingate
+1.00 0 0 0 triode
+1  1.00 16 32 64 32 64 16 3 polygon
+1  1.00 68 0 16 -90.00 90.00 xcarc
+1  1.00 64 -16 64 -64 16 -64 3 polygon
+1  1.00 -32 32 -16 32 2 polygon
+1  1.00 0 32 16 32 2 polygon
+1  1.00 -64 32 -48 32 2 polygon
+1  1.00 -64 -32 -48 -32 2 polygon
+1  1.00 -32 -32 -16 -32 2 polygon
+1  1.00 0 -32 16 -32 2 polygon
+endgate
+} def
+
+/dot {
+% -10 -10 20 20 bbox
+begingate
+248  1.00 0 0 6 0.00 360.00 xcarc
+endgate
+} def
+
+/light-neon {
+% -35 -48 70 96 bbox
+begingate
+1  1.00 0 0 35 0.00 360.00 xcarc
+1  1.00 0 16 0 48 2 polygon
+1  1.00 0 -16 0 -48 2 polygon
+1.00 0 0 -16 dot
+1.00 0 0 16 dot
+endgate
+} def
+
+/circle {
+% -6 -12 28 24 bbox
+begingate
+1  1.00 16 0 6 0.00 360.00 xcarc
+1  1.00 0 0 10 0 2 polygon
+endgate
+} def
+
+/fuse {
+% -16 -54 34 108 bbox
+begingate
+1.00 270 0 48 circle
+1  1.00 0 16 16 90.00 270.00 xcarc
+1  1.00 2 -16 16 -90.00 90.00 xcarc
+1.00 -91 0 -48 circle
+endgate
+} def
+
+/speaker {
+% -48 -96 96 176 bbox
+begingate
+1  1.00 -16 16 48 80 48 -96 -16 -32 4 polygon
+1  1.00 -48 16 -48 -32 -16 -32 -16 16 -48 16 5 polygon
+endgate
+} def
+
+/xfmr-lg {
+% -80 -144 160 282 bbox
+begingate
+1  1.00 -32 112 -32 -112 32 -112 32 112 -32 112 5 polygon
+1  1.00 -32 80 -80 80 -80 -80 -32 -80 4 polygon
+1  1.00 0 106 35 32 0.00 180.00 ellipse
+1.00 0 0 128 dot
+1  1.00 32 -80 80 -80 80 80 32 80 4 polygon
+1  1.00 0 -112 35 32 180.00 360.00 ellipse
+1.00 0 0 -128 dot
+endgate
+} def
+
+/xfmr-sm {
+% -64 -48 128 96 bbox
+begingate
+1  1.00 -48 16 48 16 48 -16 -48 -16 -48 16 5 polygon
+1  1.00 -32 16 -32 48 32 48 32 16 4 polygon
+1  1.00 -48 16 -64 16 -64 -16 -48 -16 4 polygon
+1  1.00 -32 -16 -32 -48 32 -48 32 -16 4 polygon
+1  1.00 48 16 64 16 64 -16 32 -16 4 polygon
+endgate
+} def
+
+/ac_3prong {
+% -48 -32 96 64 bbox
+begingate
+0  1.00 -48 32 -48 0 48 0 48 32 4 polygon
+1  1.00 -32 0 -32 -32 2 polygon
+1  1.00 32 0 32 -32 2 polygon
+1  2.00 0 0 0 -32 0 -16 3 polygon
+endgate
+} def
+
+/triode-right {
+% -96 -144 208 288 bbox
+begingate
+1.00 -1 16 0 triode-left
+endgate
+} def
+
+/phone_jack {
+% -48 -32 80 64 bbox
+begingate
+0  1.00 16 32 16 -32 32 -32 32 32 4 polygon
+1  1.00 0 32 -16 16 -32 32 -48 32 4 polygon
+1  1.00 16 -32 -16 -32 2 polygon
+endgate
+} def
+
+/phjack_short {
+% -64 -32 112 64 bbox
+begingate
+1.00 0 16 0 phone_jack
+1  1.00 -16 16 -32 32 -48 16 -64 16 4 polygon
+endgate
+} def
+
+
+% EndLib

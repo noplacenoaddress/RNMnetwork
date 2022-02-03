@@ -1,0 +1,71 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: resistors
+%  Author: R. Timothy Edwards <tim@stravinsky.jhuapl.edu>
+
+%  Modified by: Graham sheward (Jan 2006) <gsheward@xtra.co.nz>
+%  The geometry, scale and pin labelling position are correct
+%  The infolabel and Spice information has not been addressed
+
+% Dependencies
+%	COMPONENT	Depends on	Library
+% 	thermister 	source	sources.lps
+
+% XCircuitLib library built-in objects
+
+/resistor {
+begingate
+0 64 0 36 wire
+0 -64 0 -36 wire
+1  1.5 0 -36 16 -30 -16 -18 16 -6 -16 6 16 18 -16 30 0 36 8 polygon
+1 0 0 scb
+(r.1) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(r.2) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+(spice:R%i %pr.1 %pr.2 1.0K) {/Times-Roman cf} 2 0 0 1.0 -208 -160 infolabel
+(sim:r %pr.1 %pr.2) {/Times-Roman cf} 2 0 0 1.0 -208 -208 infolabel
+endgate
+} def
+
+/impedance {
+begingate
+0 64 0 36 wire
+0 -64 0 -36 wire
+1  1.5 -16 -36 -16 36 16 36 16 -36 -16 -36 5 polygon
+1 0 0 scb
+(r.1) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(r.2) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def
+
+/pot {
+begingate
+0 64 0 36 wire
+0 -64 0 -36 wire
+1  1.5 0 -36 16 -30 -16 -18 16 -6 -16 6 16 18 -16 30 0 36 8 polygon
+1 1.0 16 0 32 0 2 polygon
+1 1.5 16 -12 16 12 2 polygon
+1 0 0 scb
+(r.1) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(r.2) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+(r.3) {/Times-Roman cf} 2 5 0 1.0 32 0 pinlabel
+sce
+endgate
+} def
+
+/thermistor {
+begingate
+1.0 0 0 0 source
+1.0 -45 0 0 arrow
+0 64 0 36 wire
+0 -64 0 -36 wire
+1  1.5 0 -36 16 -30 -16 -18 16 -6 -16 6 16 18 -16 30 0 36 8 polygon
+1 0 0 scb
+(r.1) {/Times-Roman cf} 2 9 0 1.0 0 64 pinlabel
+(r.2) {/Times-Roman cf} 2 13 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def
+
+% EndLib

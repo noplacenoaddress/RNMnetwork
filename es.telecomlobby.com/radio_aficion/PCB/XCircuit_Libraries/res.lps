@@ -1,0 +1,266 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: res
+%  Author: Bob Paddock <bpaddock@bob.csonline.net>
+%
+
+% XCircuitLib library objects
+/r0r0V {
+% -14 -64 104 128 bbox
+(0)  (?)  2 beginparm
+1  1.00 0 64 0 36 2 polygon
+1  1.00 0 -64 0 -36 2 polygon
+1  1.00 0 -36 14 -30 -14 -18 14 -6 -14 6 14 18 -14 30 0 36 8 polygon
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 9 0 1.00 0 64 pinlabel
+(2) {/Times-Roman cf} 2 13 0 1.00 0 -64 pinlabel
+sce
+mark v1 ( %p1 %p2 ) v2 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -176 -160 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -176 -208 infolabel
+mark (W) {/Symbol cf} v1 {/Times-Roman cf} ctmk 20 0 1.00 32 0 label
+sce
+mark v2 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -176 -256 infolabel
+endgate
+} def
+
+/r1k0V {
+% -14 -64 157 128 bbox
+(1.0)  (k)  (?)  3 beginparm
+1  1.00 0 64 0 36 2 polygon
+1  1.00 0 -64 0 -36 2 polygon
+1  1.00 0 -36 14 -30 -14 -18 14 -6 -14 6 14 18 -14 30 0 36 8 polygon
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 9 0 1.00 0 64 pinlabel
+(2) {/Times-Roman cf} 2 13 0 1.00 0 -64 pinlabel
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -160 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -208 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 {/Times-Roman cf} ctmk 20 0 1.00 32 0 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -256 infolabel
+endgate
+} def
+
+/r1M0V {
+% -14 -64 171 128 bbox
+(1.0)  (M)  (?)  3 beginparm
+1  1.00 0 64 0 36 2 polygon
+1  1.00 0 -64 0 -36 2 polygon
+1  1.00 0 -36 14 -30 -14 -18 14 -6 -14 6 14 18 -14 30 0 36 8 polygon
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 9 0 1.00 0 64 pinlabel
+(2) {/Times-Roman cf} 2 13 0 1.00 0 -64 pinlabel
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -160 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -208 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 {/Times-Roman cf} ctmk 20 0 1.00 32 0 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -256 infolabel
+endgate
+} def
+
+/r0r0Vq {
+% -14 -64 170 128 bbox
+(0)  (?)  2 beginparm
+1  1.00 0 64 0 36 2 polygon
+1  1.00 0 -64 0 -36 2 polygon
+1  1.00 0 -36 14 -30 -14 -18 14 -6 -14 6 14 18 -14 30 0 36 8 polygon
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 9 0 1.00 0 64 pinlabel
+(2) {/Times-Roman cf} 2 13 0 1.00 0 -64 pinlabel
+sce
+mark v1 ( %p1 %p2 ) v2 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -176 -160 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -176 -208 infolabel
+mark (W) {/Symbol cf} v1 (:) v2 (R) {/Times-Roman cf} ctmk 20 0 1.00 32 0 label
+sce
+mark v2 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -176 -256 infolabel
+endgate
+} def
+
+/r1M0Vq {
+% -14 -64 237 128 bbox
+(1.0)  (M)  (?)  3 beginparm
+1  1.00 0 64 0 36 2 polygon
+1  1.00 0 -64 0 -36 2 polygon
+1  1.00 0 -36 14 -30 -14 -18 14 -6 -14 6 14 18 -14 30 0 36 8 polygon
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 9 0 1.00 0 64 pinlabel
+(2) {/Times-Roman cf} 2 13 0 1.00 0 -64 pinlabel
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -160 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -208 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 (:) v3 (R) {/Times-Roman cf} ctmk 20 0 1.00 32 
+0 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -256 infolabel
+endgate
+} def
+
+/r1k0Vq {
+% -14 -64 223 128 bbox
+(1.0)  (k)  (?)  3 beginparm
+1  1.00 0 64 0 36 2 polygon
+1  1.00 0 -64 0 -36 2 polygon
+1  1.00 0 -36 14 -30 -14 -18 14 -6 -14 6 14 18 -14 30 0 36 8 polygon
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 9 0 1.00 0 64 pinlabel
+(2) {/Times-Roman cf} 2 13 0 1.00 0 -64 pinlabel
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -160 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -208 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 (:) v3 (R) {/Times-Roman cf} ctmk 20 0 1.00 32 
+0 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -256 infolabel
+endgate
+} def
+
+/r0r0H {
+% -64 -12 128 57 bbox
+(0)  (?)  2 beginparm
+1  1.00 32 1 26 12 15 -12 6 11 -6 -11 -15 12 -26 -12 -32 -1 8 polygon
+sce
+mark v1 ( %p1 %p2 ) v2 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -48 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -96 infolabel
+mark (W) {/Symbol cf} v1 {/Times-Roman cf} ctmk 20 0 1.00 -32 32 label
+sce
+mark v2 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -144 infolabel
+1  1.00 -32 0 -64 0 2 polygon
+1.000 0.000 0.000 scb
+(1) {/Helvetica cf} 2 23 0 1.00 -64 0 pinlabel
+sce
+1  1.00 32 0 64 0 2 polygon
+1.000 0.000 0.000 scb
+(2) {/Helvetica cf} 2 20 0 1.00 64 0 pinlabel
+endgate
+} def
+
+/r1k0H {
+% -64 -12 128 57 bbox
+(1.0)  (k)  (?)  3 beginparm
+1  1.00 32 1 26 12 15 -12 6 11 -6 -11 -15 12 -26 -12 -32 -1 8 polygon
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -48 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -96 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 {/Times-Roman cf} ctmk 20 0 1.00 -64 32 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -144 infolabel
+1  1.00 -32 0 -64 0 2 polygon
+1.000 0.000 0.000 scb
+(1) {/Helvetica cf} 2 23 0 1.00 -64 0 pinlabel
+sce
+1  1.00 32 0 64 0 2 polygon
+1.000 0.000 0.000 scb
+(2) {/Helvetica cf} 2 20 0 1.00 64 0 pinlabel
+endgate
+} def
+
+/r1M0H {
+% -64 -12 128 57 bbox
+(1.0)  (M)  (?)  3 beginparm
+1  1.00 32 1 26 12 15 -12 6 11 -6 -11 -15 12 -26 -12 -32 -1 8 polygon
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -48 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -96 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 {/Times-Roman cf} ctmk 20 0 1.00 -64 32 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -144 infolabel
+1  1.00 -32 0 -64 0 2 polygon
+1.000 0.000 0.000 scb
+(1) {/Helvetica cf} 2 23 0 1.00 -64 0 pinlabel
+sce
+1  1.00 32 0 64 0 2 polygon
+1.000 0.000 0.000 scb
+(2) {/Helvetica cf} 2 20 0 1.00 64 0 pinlabel
+endgate
+} def
+
+/r0r0Hq {
+% -64 -12 156 58 bbox
+(0)  (?)  2 beginparm
+1  1.00 32 1 26 12 15 -12 6 11 -6 -11 -15 12 -26 -12 -32 -1 8 polygon
+sce
+mark v1 ( %p1 %p2 ) v2 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -48 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -96 infolabel
+mark (W) {/Symbol cf} v1 (:) v2 (R) {/Times-Roman cf} ctmk 20 0 1.00 -32 32 
+label
+sce
+mark v2 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -144 infolabel
+1  1.00 -32 0 -64 0 2 polygon
+1.000 0.000 0.000 scb
+(1) {/Helvetica cf} 2 23 0 1.00 -64 0 pinlabel
+sce
+1  1.00 32 0 64 0 2 polygon
+1.000 0.000 0.000 scb
+(2) {/Helvetica cf} 2 20 0 1.00 64 0 pinlabel
+endgate
+} def
+
+/r1k0Hq {
+% -64 -12 177 58 bbox
+(1.0)  (k)  (?)  3 beginparm
+1  1.00 32 1 26 12 15 -12 6 11 -6 -11 -15 12 -26 -12 -32 -1 8 polygon
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -48 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -96 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 (:) v3 (R) {/Times-Roman cf} ctmk 20 0 1.00 
+-64 32 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -144 infolabel
+1  1.00 -32 0 -64 0 2 polygon
+1.000 0.000 0.000 scb
+(1) {/Helvetica cf} 2 23 0 1.00 -64 0 pinlabel
+sce
+1  1.00 32 0 64 0 2 polygon
+1.000 0.000 0.000 scb
+(2) {/Helvetica cf} 2 20 0 1.00 64 0 pinlabel
+endgate
+} def
+
+/r1M0Hq {
+% -64 -12 191 58 bbox
+(1.0)  (M)  (?)  3 beginparm
+1  1.00 32 1 26 12 15 -12 6 11 -6 -11 -15 12 -26 -12 -32 -1 8 polygon
+sce
+mark v2 v1 ( %p1 %p2 ) v3 (spice:R) {/Times-Roman cf} ctmk 4 0 1.00 -208 -48 
+infolabel
+sce
+(sim:R %p1 %p2) {/Times-Roman cf} 2 4 0 1.00 -208 -96 infolabel
+mark (W) {/Symbol cf} v2 {hS} v1 (:) v3 (R) {/Times-Roman cf} ctmk 20 0 1.00 
+-64 32 label
+sce
+mark v3 (pcb:R) {/Times-Roman cf} ctmk 20 0 1.00 -208 -144 infolabel
+1  1.00 -32 0 -64 0 2 polygon
+1.000 0.000 0.000 scb
+(1) {/Helvetica cf} 2 23 0 1.00 -64 0 pinlabel
+sce
+1  1.00 32 0 64 0 2 polygon
+1.000 0.000 0.000 scb
+(2) {/Helvetica cf} 2 20 0 1.00 64 0 pinlabel
+endgate
+} def
+
+
+% EndLib

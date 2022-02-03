@@ -1,0 +1,82 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: switches
+%  Author: R. Timothy Edwards <tim@stravinsky.jhuapl.edu>
+
+%  Modified by: Graham sheward (Jan 2006) <gsheward@xtra.co.nz>
+%  The geometry, scale and pin labelling position are correct
+%  The infolabel and Spice information has not been addressed
+
+% Dependencies
+%	COMPONENT	Depends on	Library
+% 	all	 	circle	terminals.lps
+
+% XCircuitLib library built-in objects
+
+/spst {
+begingate
+1.0 270 0 64 circle
+1.0 90 0 -64 circle
+2 -42 26 48 wire
+1 0 0 scb
+(sw.no) {/Times-Roman cf} 2 7 0 1.0 0 64 pinlabel
+(sw.c) {/Times-Roman cf} 2 7 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def
+
+/spdt {
+begingate
+1.0 270 -32 64 circle
+1.0 270 32 64 circle
+1.0 90 0 -64 circle
+2 -42 26 48 wire
+1 0 0 scb
+(sw.no) {/Times-Roman cf} 2 7 0 1.0 -32 64 pinlabel
+(sw.nc) {/Times-Roman cf} 2 7 0 1.0 32 64 pinlabel
+(sw.c) {/Times-Roman cf} 2 7 0 1.0 0 -64 pinlabel
+sce
+endgate
+} def
+
+/dpst {
+begingate
+1.0 270 -32 64 circle
+1.0 90 -32 -64 circle
+-30 -42 -6 48 wire
+1.0 270 32 64 circle
+1.0 90 32 -64 circle
+34 -42 58 48 wire
+2 1.0 -15 0 47 0 2 polygon
+1 0 0 scb
+(sw.no) {/Times-Roman cf} 2 7 0 1.0 -32 64 pinlabel
+(sw.c) {/Times-Roman cf} 2 7 0 1.0 -32 -64 pinlabel
+(sw.no) {/Times-Roman cf} 2 7 0 1.0 32 64 pinlabel
+(sw.c) {/Times-Roman cf} 2 7 0 1.0 32 -64 pinlabel
+sce
+endgate
+} def
+
+/dpdt {
+begingate
+1.0 270 -96 64 circle
+1.0 270 -32 64 circle
+1.0 90 -64 -64 circle
+-62 -42 -38 48 wire
+1.0 270 32 64 circle
+1.0 270 96 64 circle
+1.0 90 64 -64 circle
+66 -42 90 48 wire
+2 1.0 -50 0 78 0 2 polygon
+1 0 0 scb
+(sw.no) {/Times-Roman cf} 2 7 0 1.0 -96 64 pinlabel
+(sw.nc) {/Times-Roman cf} 2 7 0 1.0 -32 64 pinlabel
+(sw.c) {/Times-Roman cf} 2 7 0 1.0 -64 -64 pinlabel
+(sw.no) {/Times-Roman cf} 2 7 0 1.0 32 64 pinlabel
+(sw.nc) {/Times-Roman cf} 2 7 0 1.0 96 64 pinlabel
+(sw.c) {/Times-Roman cf} 2 7 0 1.0 64 -64 pinlabel
+sce
+endgate
+} def
+
+% EndLib

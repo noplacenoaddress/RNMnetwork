@@ -1,0 +1,122 @@
+%! PostScript set of library objects for XCircuit
+%  Version: 2.3
+%  Library name is: transformers
+%  Author: R. Timothy Edwards <tim@stravinsky.jhuapl.edu>
+
+%  Modified by: Graham sheward (Jan 2006) <gsheward@xtra.co.nz>
+%  The geometry, scale and pin labelling position are correct
+%  The infolabel and Spice information has not been addressed
+
+% Dependencies
+%	COMPONENT		Depends on	Library
+% 	Transformer 	inductor	inductors.lps
+% 	Transformer_1:1	transf	transformers.lps
+%	Transformer_1:1	dot		terminals.lps
+% 	Transformer_1:1_ni transf	transformers.lps
+% 	Transformer_1:1_ni dot		terminals.lps
+%	Transformer_1:2	transf	transformers.lps
+%	Transformer_1:2	dot		terminals.lps
+
+% XCircuitLib library built-in objects
+
+/Transformer {
+<< /idx (?) >> begingate
+1.00 0 -32 0 inductor
+1 1.00 -8 48 -8 -48 2 polygon
+1 1.00 8 48 8 -48 2 polygon
+1.00 180 32 0 inductor
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 25 0 1.00 -32 64 pinlabel
+(2) {/Times-Roman cf} 2 29 0 1.00 -32 -64 pinlabel
+(3) {/Times-Roman cf} 2 25 0 1.00 32 64 pinlabel
+(4) {/Times-Roman cf} 2 29 0 1.00 32 -64 pinlabel
+0.180 0.545 0.341 scb
+mark idx (pcb:T) {/Times-Roman cf} ctmk 20 0 1.00 -96 -160 infolabel
+endgate
+} def
+
+/transf {
+% hidden
+begingate
+1 1.50 20 32 20 16 0 16 0 32 spline
+1 1.50 20 16 20 0 0 0 0 16 spline
+1 1.50 20 0 20 -16 0 -16 0 0 spline
+1 1.50 20 -16 20 -32 0 -32 0 -16 spline
+endgate
+{ def
+
+/Transformer_1:1 {
+<< /idx (?) >> begingate
+1.00 0 -32 0 transf
+0.7 0 -40 24 dot
+1 1.00 -4 32 -4 -32 2 polygon
+1 1.00 4 32 4 -32 2 polygon
+1.00 180 32 0 transf
+0.7 0 40 -24 dot
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 25 0 1.00 -32 32 pinlabel
+(2) {/Times-Roman cf} 2 29 0 1.00 -32 -32 pinlabel
+(3) {/Times-Roman cf} 2 25 0 1.00 32 32 pinlabel
+(4) {/Times-Roman cf} 2 29 0 1.00 32 -32 pinlabel
+0.180 0.545 0.341 scb
+mark idx (pcb:T) {/Times-Roman cf} ctmk 20 0 1.00 -96 -160 infolabel
+endgate
+} def
+
+/Transformer_1:1_ni {
+<< /idx (?) >> begingate
+1.00 0 -32 0 transf
+0.7 0 -40 24 dot
+1 1.00 -4 32 -4 -32 2 polygon
+1 1.00 4 32 4 -32 2 polygon
+1.00 180 32 0 transf
+0.7 0 40 24 dot
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 25 0 1.00 -32 32 pinlabel
+(2) {/Times-Roman cf} 2 29 0 1.00 -32 -32 pinlabel
+(3) {/Times-Roman cf} 2 25 0 1.00 32 32 pinlabel
+(4) {/Times-Roman cf} 2 29 0 1.00 32 -32 pinlabel
+0.180 0.545 0.341 scb
+mark idx (pcb:T) {/Times-Roman cf} ctmk 20 0 1.00 -96 -160 infolabel
+endgate
+} def
+
+/Transformer_1:2 {
+<< /idx (?) >> begingate
+1.00 0 -32 0 transf
+0.7 0 -40 24 dot
+1 1.00 -4 64 -4 -64 2 polygon
+1 1.00 4 64 4 -64 2 polygon
+1.00 180 32 32 transf
+1.00 180 32 -32 transf
+0.7 0 40 -56 dot
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 25 0 1.00 -32 32 pinlabel
+(2) {/Times-Roman cf} 2 29 0 1.00 -32 -32 pinlabel
+(3) {/Times-Roman cf} 2 25 0 1.00 32 64 pinlabel
+(4) {/Times-Roman cf} 2 29 0 1.00 32 -64 pinlabel
+0.180 0.545 0.341 scb
+mark idx (pcb:T) {/Times-Roman cf} ctmk 20 0 1.00 -96 -160 infolabel
+endgate
+} def
+
+/Transformer_1:2_ni {
+<< /idx (?) >> begingate
+1.00 0 -32 0 transf
+0.7 0 -40 24 dot
+1 1.00 -4 64 -4 -64 2 polygon
+1 1.00 4 64 4 -64 2 polygon
+1.00 180 32 32 transf
+1.00 180 32 -32 transf
+0.7 0 40 56 dot
+1.000 0.000 0.000 scb
+(1) {/Times-Roman cf} 2 25 0 1.00 -32 32 pinlabel
+(2) {/Times-Roman cf} 2 29 0 1.00 -32 -32 pinlabel
+(3) {/Times-Roman cf} 2 25 0 1.00 32 64 pinlabel
+(4) {/Times-Roman cf} 2 29 0 1.00 32 -64 pinlabel
+0.180 0.545 0.341 scb
+mark idx (pcb:T) {/Times-Roman cf} ctmk 20 0 1.00 -96 -160 infolabel
+endgate
+} def
+
+% EndLib

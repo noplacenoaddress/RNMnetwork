@@ -1,0 +1,662 @@
+%! PostScript set of library objects for XCircuit
+%  Library name is: musiclib
+%
+%
+
+% XCircuitLib library built-in objects
+/lnt {
+% -4 -14 64 28 bbox
+begingate
+1  1.75 -4 0 60 0 2 polygon
+endgate
+} def
+
+/hd {
+% -31 -15 38 30 bbox
+begingate
+6 9 beginpath
+-2 25 -38 9 -30 -9 curveto
+-22 -25 14 -9 6 9 curveto
+241  1.00 endpath
+endgate
+} def
+
+/qn {
+% -38 1 38 127 bbox
+begingate
+1.00 0 -7 16 hd
+1  1.00 0 18 0 128 2 polygon
+endgate
+} def
+
+/qnd {
+% -40 -96 38 127 bbox
+begingate
+1.00 180 -40 32 qn
+endgate
+} def
+
+/qstem1 {
+% -52 -96 64 127 bbox
+begingate
+1.00 180 -40 32 qn
+1.00 0 -48 16 lnt
+endgate
+} def
+
+/qstem2 {
+% -55 -96 64 127 bbox
+begingate
+1.00 180 -40 32 qn
+1.00 0 -52 0 lnt
+endgate
+} def
+
+/qstem3 {
+% -52 1 64 127 bbox
+begingate
+1.00 0 0 0 qn
+1.00 0 -48 16 lnt
+endgate
+} def
+
+/qstem4 {
+% -49 1 64 127 bbox
+begingate
+1.00 0 0 0 qn
+1.00 0 -45 32 lnt
+endgate
+} def
+
+/hhd {
+% -39 -1 38 34 bbox
+begingate
+6 28 beginpath
+16 12 -20 -12 -30 4 curveto
+-24 -6 12 20 6 28 curveto
+-4 44 -40 20 -30 4 curveto
+-36 12 0 38 6 28 curveto
+241  1.00 endpath
+endgate
+} def
+
+/hn {
+% -39 -1 39 129 bbox
+begingate
+1  1.00 0 23 0 128 2 polygon
+1.00 0 -8 0 hhd
+endgate
+} def
+
+/hnd {
+% -40 -96 39 129 bbox
+begingate
+1.00 180 -40 32 hn
+endgate
+} def
+
+/hnd2 {
+% -52 -96 64 129 bbox
+begingate
+1.00 0 -48 0 lnt
+1.00 180 -40 32 hn
+endgate
+} def
+
+/hnd3 {
+% -52 -96 64 129 bbox
+begingate
+1.00 0 -48 16 lnt
+1.00 180 -40 32 hn
+endgate
+} def
+
+/hnt {
+% -52 -1 64 129 bbox
+begingate
+1.00 0 -48 16 lnt
+1.00 0 0 0 hn
+endgate
+} def
+
+/hnt2 {
+% -48 -1 64 129 bbox
+begingate
+1.00 0 0 0 hn
+1.00 0 -44 32 lnt
+endgate
+} def
+
+/wn {
+% -44 0 48 32 bbox
+begingate
+-28 32 beginpath
+-48 32 -28 0 -12 0 curveto
+-52 0 -52 32 -28 32 curveto
+12 32 12 0 -12 0 curveto
+8 0 -12 32 -28 32 curveto
+241  1.00 endpath
+endgate
+} def
+
+/wnt {
+% -53 0 64 32 bbox
+begingate
+1.00 0 -49 16 lnt
+1.00 0 0 0 wn
+endgate
+} def
+
+/flg {
+% 0 -52 40 128 bbox
+begingate
+0 76 beginpath
+0 32 68 8 28 -52 curveto
+64 0 0 32 0 32 curveto
+240  1.00 endpath
+endgate
+} def
+
+/en {
+% -38 1 78 153 bbox
+begingate
+1.00 0 0 0 qn
+1.00 0 0 78 flg
+endgate
+} def
+
+/en2 {
+% -40 -130 40 161 bbox
+begingate
+1.00 180 -40 32 qn
+1.00 -181 -40 -54 flg
+endgate
+} def
+
+/ent {
+% -52 -130 64 161 bbox
+begingate
+1.00 0 0 0 en2
+1.00 0 -48 16 lnt
+endgate
+} def
+
+/ent2 {
+% -52 1 92 153 bbox
+begingate
+1.00 0 0 0 en
+1.00 0 -44 16 lnt
+endgate
+} def
+
+/ent3 {
+% -48 1 88 153 bbox
+begingate
+1.00 0 0 0 en
+1.00 0 -44 32 lnt
+endgate
+} def
+
+/ent4 {
+% -56 -130 64 161 bbox
+begingate
+1.00 0 0 0 en2
+1.00 0 -52 0 lnt
+endgate
+} def
+
+/sn {
+% -38 1 78 187 bbox
+begingate
+1.00 0 0 0 qn
+0 188 beginpath
+0 144 56 120 36 72 curveto
+52 104 0 144 0 144 curveto
+240  1.00 endpath
+1.00 0 0 72 flg
+endgate
+} def
+
+/sn2 {
+% -40 -136 40 167 bbox
+begingate
+1.00 180 -40 32 qn
+-40 -136 beginpath
+-40 -92 16 -68 -4 -20 curveto
+12 -52 -40 -92 -40 -92 curveto
+240  1.00 endpath
+-40 -96 beginpath
+-40 -52 12 -36 -4 4 curveto
+8 -24 -40 -52 -40 -52 curveto
+240  1.00 endpath
+endgate
+} def
+
+/flt {
+% -8 -2 23 73 bbox
+begingate
+1  1.00 -8 71 -8 -1 2 polygon
+-8 -2 beginpath
+32 22 12 46 -8 30 curveto
+2 40 20 22 -8 -2 curveto
+241  1.00 endpath
+endgate
+} def
+
+/shp {
+% -16 -28 32 88 bbox
+begingate
+240  1.00 -16 24 16 32 16 40 -16 32 4 polygon
+240  1.00 -16 -8 16 0 16 8 -16 0 4 polygon
+1  1.00 -8 56 -8 -28 2 polygon
+1  1.00 8 -24 8 60 2 polygon
+endgate
+} def
+
+/nat {
+% -14 -32 22 94 bbox
+begingate
+240  1.00 -14 -8 8 0 8 8 -14 0 4 polygon
+240  1.00 -14 24 8 32 8 40 -14 32 4 polygon
+1  1.00 -14 62 -14 -8 2 polygon
+1  1.00 8 -32 8 40 2 polygon
+endgate
+} def
+
+/hr {
+% -24 0 44 16 bbox
+begingate
+240  1.00 -24 0 -24 16 20 16 20 0 4 polygon
+endgate
+} def
+
+/qr {
+% -15 -50 29 100 bbox
+begingate
+1  1.00 3 41 -1 49 2 polygon
+1  1.00 14 -34 -14 6 2 polygon
+8 -26 beginpath
+-2 -12 -30 -22 -6 -50 curveto
+-20 -36 -4 -24 14 -34 curveto
+241  1.00 endpath
+-14 6 beginpath
+-10 30 6 34 -2 50 curveto
+10 26 1 polyc
+-2 14 -6 -6 0 -14 curveto
+241  1.00 endpath
+endgate
+} def
+
+/er {
+% -30 -8 27 50 bbox
+begingate
+1  1.30 -3 39 -20 -8 2 polygon
+241  1.00 -24 36 6 0.00 360.00 xcarc
+1  1.00 -18 44 16 237.00 337.00 xcarc
+endgate
+} def
+
+/sr {
+% -40 -14 34 50 bbox
+begingate
+241  1.00 -34 12 6 0.00 360.00 xcarc
+1  1.00 -28 20 16 237.00 337.00 xcarc
+1.00 0 -3 -6 er
+endgate
+} def
+
+/fermata {
+% -32 -16 64 33 bbox
+begingate
+241  1.00 0 -12 4 0.00 360.00 xcarc
+-32 -12 beginpath
+-24 28 24 28 32 -12 curveto
+28 16 -28 16 -32 -12 curveto
+241  1.00 endpath
+endgate
+} def
+
+/br1 {
+% -33 -160 34 256 bbox
+begingate
+0 96 beginpath
+-76 52 60 -100 -32 -160 curveto
+44 -116 -92 36 0 96 curveto
+241  1.00 endpath
+endgate
+} def
+
+/tclef {
+% -44 -42 83 210 bbox
+begingate
+1  1.00 -2 -26 16 180.00 360.00 xcarc
+241  1.00 -8 -26 10 0.00 360.00 xcarc
+1  1.00 14 -26 -4 112 2 polygon
+-4 12 beginpath
+-20 20 -16 50 12 50 curveto
+42 50 36 0 4 0 curveto
+48 0 52 64 12 64 curveto
+-20 64 -28 20 -4 12 curveto
+241  1.00 endpath
+4 0 beginpath
+-24 0 -32 16 -32 32 curveto
+-32 80 30 84 30 140 curveto
+30 170 -10 140 -4 112 curveto
+-10 156 12 164 22 168 curveto
+28 158 30 152 30 140 curveto
+30 108 -44 92 -44 40 curveto
+-44 8 -16 0 4 0 curveto
+241  1.00 endpath
+endgate
+} def
+
+/bclef {
+% -28 -68 79 100 bbox
+begingate
+1  1.00 0 5 27 90.00 192.00 xcarc
+241  1.00 48 16 3 0.00 360.00 xcarc
+241  1.00 48 -15 3 0.00 360.00 xcarc
+241  1.00 -17 3 10 0.00 360.00 xcarc
+36 -4 beginpath
+36 -44 8 -60 -28 -68 curveto
+40 -52 32 32 0 32 curveto
+28 32 36 12 36 -4 curveto
+241  1.00 endpath
+endgate
+} def
+
+/keyEf {
+% -42 -35 88 137 bbox
+begingate
+1.00 0 -18 -17 flt
+1.00 0 14 31 flt
+1.00 0 46 -33 flt
+endgate
+} def
+
+/keyBf {
+% -42 -51 56 121 bbox
+begingate
+1.00 0 -18 -17 flt
+1.00 0 14 31 flt
+endgate
+} def
+
+/dot {
+% -10 -10 20 20 bbox
+begingate
+248  1.00 0 0 6 0.00 360.00 xcarc
+endgate
+} def
+
+/ddot {
+% -5 -21 10 42 bbox
+begingate
+241  1.00 0 16 5 0.00 360.00 xcarc
+241  1.00 0 -16 5 0.00 360.00 xcarc
+endgate
+} def
+
+/common {
+% -24 -31 48 63 bbox
+begingate
+241  1.00 14 18 -8 -8 -180.00 180.00 ellipse
+1  1.00 18 30 20 26 22 20 8 32 spline
+1  1.00 18 -26 22 -20 24 -14 14 -28 spline
+-24 0 beginpath
+-24 16 -16 36 8 32 curveto
+-20 38 -18 -48 14 -28 curveto
+4 -36 -24 -32 -24 0 curveto
+241  1.00 endpath
+endgate
+} def
+
+/cuttime {
+% -24 -46 48 92 bbox
+begingate
+1.00 0 0 0 common
+1  1.00 2 46 2 -46 2 polygon
+endgate
+} def
+
+/two {
+% -24 -32 50 64 bbox
+begingate
+241  1.00 -10 18 8 0.00 360.00 xcarc
+1  1.00 -14 30 -16 26 -18 20 -4 32 spline
+1  1.00 -18 -20 -18 -16 2 -6 -24 -32 spline
+26 -12 beginpath
+26 -50 -14 -20 -24 -32 curveto
+-8 0 26 -34 26 -12 curveto
+241  1.00 endpath
+-4 32 beginpath
+16 34 22 4 2 -6 curveto
+24 2 26 8 26 18 curveto
+26 24 20 36 -4 32 curveto
+241  1.00 endpath
+endgate
+} def
+
+/three {
+% -22 -32 44 64 bbox
+begingate
+241  1.00 -14 -18 8 0.00 360.00 xcarc
+1  1.00 -18 -30 -20 -26 -22 -20 -8 -32 spline
+241  1.00 -14 18 8 0.00 360.00 xcarc
+1  1.00 -18 30 -20 26 -22 20 -8 32 spline
+-6 0 beginpath
+16 0 22 6 22 18 curveto
+22 24 16 36 -8 32 curveto
+12 34 18 0 -6 0 curveto
+16 0 22 -6 22 -18 curveto
+22 -24 16 -34 -8 -32 curveto
+12 -34 18 0 -6 0 curveto
+241  1.00 endpath
+endgate
+} def
+
+/four {
+% -24 -32 48 64 bbox
+begingate
+1  1.00 -24 -10 24 -10 2 polygon
+12 -24 beginpath
+20 -24 8 180.00 270.00 arc
+-10 -32 1 polyc
+-10 -24 8 -90.00 0.00 arc
+12 -24 12 18 -2 2 3 polyc
+241  1.00 endpath
+-24 -10 beginpath
+-16 0 -6 20 -6 28 curveto
+-22 -10 14 32 2 polyc
+241  1.00 endpath
+endgate
+} def
+
+/six {
+% -24 -32 46 64 bbox
+begingate
+241  1.00 12 20 8 0.00 360.00 xcarc
+1  1.00 16 30 18 26 20 20 6 32 spline
+1  1.00 -6 4 -12 -4 -10 -14 0 4 spline
+0 4 beginpath
+14 5 12 -34 0 -32 curveto
+-26 -32 -24 -4 -24 0 curveto
+-24 8 -20 36 6 32 curveto
+-14 34 -16 -32 0 -32 curveto
+20 -32 22 -20 22 -12 curveto
+22 2 8 6 0 4 curveto
+241  1.00 endpath
+endgate
+} def
+
+/eight {
+% -22 -32 46 64 bbox
+begingate
+1  1.00 -6 -34 8 -34 14 -30 -12 -30 spline
+-10 30 beginpath
+-22 24 -30 4 0 -6 curveto
+20 -14 22 -24 14 -30 curveto
+26 -24 34 0 4 10 curveto
+-14 16 -18 24 -10 30 curveto
+241  1.00 endpath
+-12 -30 beginpath
+-18 -26 -22 -14 -14 0 curveto
+-24 -6 -28 -22 -12 -30 curveto
+241  1.00 endpath
+14 30 beginpath
+22 22 20 10 16 4 curveto
+22 8 30 22 14 30 curveto
+241  1.00 endpath
+1  1.00 -4 34 8 34 14 30 -10 30 spline
+endgate
+} def
+
+/nine {
+% -26 -32 50 64 bbox
+begingate
+241  1.00 -16 -18 8 0.00 360.00 xcarc
+1  1.00 -20 -30 -22 -26 -24 -20 -10 -32 spline
+1  1.00 4 -4 8 0 9 10 -4 -4 spline
+-4 -4 beginpath
+-18 -5 -16 34 -4 32 curveto
+15 32 16 -39 -10 -32 curveto
+26 -34 24 -6 24 0 curveto
+24 4 26 32 -4 32 curveto
+-24 32 -26 20 -26 12 curveto
+-26 -2 -13 -4 -4 -4 curveto
+241  1.00 endpath
+endgate
+} def
+
+/pedal {
+% -50 -32 110 64 bbox
+begingate
+1  1.00 -22 34 -32 32 -36 30 -12 30 spline
+4 -28 beginpath
+-8 -18 -30 -34 -32 -32 curveto
+-34 -30 -18 -24 -4 -32 curveto
+4 -28 1 polyc
+241  1.00 endpath
+-20 -28 beginpath
+-6 0 -32 12 -26 32 curveto
+-40 4 -14 -8 -20 -28 curveto
+241  1.00 endpath
+-18 18 beginpath
+-6 2 4 22 -12 30 curveto
+18 18 -8 -12 -18 18 curveto
+241  1.00 endpath
+-36 30 beginpath
+-60 18 -52 -10 -34 6 curveto
+-50 -4 -48 24 -36 30 curveto
+241  1.00 endpath
+1  1.00 22 -18 20 0 12 0 4 -28 spline
+44 -30 beginpath
+30 -36 24 -4 32 0 curveto
+20 -6 20 -40 44 -30 curveto
+62 -20 42 22 12 16 curveto
+36 24 52 -24 44 -30 curveto
+241  1.00 endpath
+12 0 beginpath
+-2 0 0 -44 26 -28 curveto
+8 -40 4 0 12 0 curveto
+241  1.00 endpath
+241  1.00 58 -30 2 0.00 360.00 xcarc
+endgate
+} def
+
+/ppin {
+% -6 -12 12 26 bbox
+% hidden
+begingate
+3 -12 beginpath
+3 -9 1 polyc
+-1 -8 0 1 2 2 curveto
+0 8 6 -63.43 243.43 arc
+0 1 1 -8 -3 -9 curveto
+-3 -12 1 polyc
+0 -15 4 135.00 45.00 arcn
+241  1.00 endpath
+endgate
+} def
+
+/blip {
+% -8 -16 16 32 bbox
+% hidden
+begingate
+0 -16 beginpath
+-24 8 12 4 0 16 curveto
+24 -8 -12 -4 0 -16 curveto
+241  1.00 endpath
+endgate
+} def
+
+/pedalstop {
+% -29 -29 58 58 bbox
+begingate
+1.00 -46 11 11 ppin
+1.00 0 0 15 ppin
+1.00 270 15 0 ppin
+1.00 -226 -11 -11 ppin
+1.00 -316 -11 11 ppin
+1.00 -271 -15 0 ppin
+1.00 -181 0 -15 ppin
+1.00 -136 11 -11 ppin
+endgate
+} def
+
+/rept {
+% -32 -256 53 512 bbox
+begingate
+240  1.00 -32 -256 -32 256 -16 256 -16 -256 4 polygon
+1  1.00 0 256 0 -256 2 polygon
+1.00 0 16 192 ddot
+1.00 0 16 -192 ddot
+endgate
+} def
+
+/gliss {
+% -8 -96 16 192 bbox
+begingate
+1.00 0 0 80 blip
+1.00 0 0 16 blip
+1.00 0 0 48 blip
+1.00 0 0 -16 blip
+1.00 0 0 -80 blip
+1.00 0 0 -48 blip
+endgate
+} def
+
+/bar {
+% 0 -256 0 512 bbox
+begingate
+1  1.50 0 256 0 -256 2 polygon
+endgate
+} def
+
+/lines {
+% 0 -64 3552 128 bbox
+begingate
+1  1.00 0 -32 3552 -32 2 polygon
+1  1.00 0 64 3552 64 2 polygon
+1  1.00 0 0 3552 0 2 polygon
+1  1.00 0 32 3552 32 2 polygon
+1  1.00 0 -64 3552 -64 2 polygon
+endgate
+} def
+
+/staff {
+% 15 -256 3601 552 bbox
+begingate
+1.00 0 64 -192 lines
+1.00 0 64 192 lines
+1.00 -181 48 -160 br1
+1.00 0 48 160 br1
+1.00 0 64 0 bar
+1.00 0 3616 0 bar
+1.00 0 144 128 tclef
+1.00 0 128 -160 bclef
+endgate
+} def
+
+
+% EndLib

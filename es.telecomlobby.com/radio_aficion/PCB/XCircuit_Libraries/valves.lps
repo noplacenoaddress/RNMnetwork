@@ -1,0 +1,90 @@
+%! PostScript set of library objects for XCircuit
+%  Library name is: valves.lps
+%  Version: 2.0
+%
+
+% XCircuitLib library built-in objects
+/pentode_tube {
+% -96 -112 192 224 bbox
+begingate
+1  1.00 0 48 48 0.00 180.00 xcarc
+1  1.00 0 -32 48 180.00 360.00 xcarc
+1  1.00 -48 48 -48 -32 2 polygon
+1  1.00 48 -32 48 48 2 polygon
+1  1.00 0 -52 16 0.00 180.00 xcarc
+1  1.00 -16 -48 -16 -96 -32 -104 -32 -112 4 polygon
+1  1.00 16 -48 16 -96 32 -104 32 -112 4 polygon
+1  1.00 24 -48 96 -48 2 polygon
+1  1.00 0 64 0 112 2 polygon
+3  1.00 -16 16 16 16 2 polygon
+3  1.00 -24 -8 24 -8 2 polygon
+3  1.00 -24 40 24 40 2 polygon
+1  2.00 0 -48 24 0.00 180.00 xcarc
+1  2.00 -16 64 16 64 2 polygon
+1  1.00 -24 24 -16 16 2 polygon
+1  1.00 16 16 24 24 2 polygon
+1  1.00 24 48 24 40 2 polygon
+1  1.00 -24 48 -24 40 2 polygon
+1  1.00 24 40 72 40 80 48 96 48 4 polygon
+1  1.00 -16 16 -96 16 2 polygon
+1  1.00 24 -8 72 -8 80 -16 96 -16 4 polygon
+endgate
+} def
+
+/tetrode_tube {
+% -96 -96 192 208 bbox
+begingate
+1  1.00 0 48 48 0.00 180.00 xcarc
+1  1.00 0 -16 48 180.00 360.00 xcarc
+1  1.00 0 -36 16 0.00 180.00 xcarc
+1  1.00 -16 -32 -16 -80 -32 -88 -32 -96 4 polygon
+1  1.00 16 -32 16 -80 32 -88 32 -96 4 polygon
+1  1.00 24 -32 96 -32 2 polygon
+1  1.00 0 64 0 112 2 polygon
+3  1.00 -16 32 16 32 2 polygon
+3  1.00 -24 8 24 8 2 polygon
+1  2.00 0 -32 24 0.00 180.00 xcarc
+1  2.00 -16 64 16 64 2 polygon
+1  1.00 -24 40 -16 32 2 polygon
+1  1.00 16 32 24 40 2 polygon
+1  1.00 -16 32 -96 32 2 polygon
+1  1.00 24 8 72 8 80 0 96 0 4 polygon
+1  1.00 -48 49 -48 -15 2 polygon
+1  1.00 48 -15 48 49 2 polygon
+endgate
+} def
+
+/triode_tube {
+% -80 -80 144 176 bbox
+begingate
+1  1.00 -32 16 48 0.00 180.00 xcarc
+1  1.00 -32 16 48 180.00 360.00 xcarc
+1  1.00 -32 -20 16 0.00 180.00 xcarc
+1  1.00 -48 -16 -48 -64 -64 -72 -64 -80 4 polygon
+1  1.00 -16 -16 -16 -64 0 -72 0 -80 4 polygon
+1  1.00 -8 -16 64 -16 2 polygon
+1  1.00 -32 48 -32 96 2 polygon
+3  1.00 -56 24 -8 24 2 polygon
+1  2.00 -32 -16 24 0.00 180.00 xcarc
+1  2.00 -48 48 -16 48 2 polygon
+1  1.00 -8 24 40 24 48 16 64 16 4 polygon
+endgate
+} def
+
+/diode_tube {
+% -80 -80 144 160 bbox
+begingate
+1  1.00 -32 16 48 0.00 180.00 xcarc
+1  1.00 -32 16 48 180.00 360.00 xcarc
+1  1.00 -32 -20 16 0.00 180.00 xcarc
+1  1.00 -48 -16 -48 -64 -64 -72 -64 -80 4 polygon
+1  1.00 -16 -16 -16 -64 0 -72 0 -80 4 polygon
+1  1.00 -8 -16 64 -16 2 polygon
+1  1.00 -32 32 -32 80 2 polygon
+1  2.00 -32 -16 24 0.00 180.00 xcarc
+1  2.00 -48 32 -16 32 2 polygon
+endgate
+} def
+
+
+% EndLib

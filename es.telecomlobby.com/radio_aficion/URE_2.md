@@ -331,6 +331,39 @@ $$
 \end{align*}
 $$
 
+#### 2.5.2 Relación entre número de espiras y corriente.
+
+$$
+\begin{align*}
+\frac{I_{sec}}{I_{prim}}\space=\space\frac{E_{prim}}{E_{sec}}\space=\space\frac{n_{prim}}{n_{sec}}
+\end{align*}
+$$
+
+Las intensidades son inversamente proporcionales a los devanados y tensiones propias. Es el único dato inversamente proporcional a los anteriores.
+
+Como las potencias son iguales en abos devanados, si es uno de ellos `I` es mayor `E` será menor para que la potencia `W` se mantenga constante `W=EI`.
+
+#### 2.5.3 Relación entre número de espiras e impedancia. 
+
+La impedanca es la propiedad que tiene un componente para limtar el paso de la corriente a través de un circuito.
+
+La transformación o cambio de impedancia del primario al secundario es proporcional al cuadrod de la realación de espiras entre primera y secundario.
+
+Siendo `N` realación de epsieras entre el bobinado primario y el secundario:
+$$
+\begin{align*}
+N\space=\space\frac{E_{sec}}{E_{prim}}\space=\space\frac{I_{sec}}{I_{prim}} \\
+N²\space=\space\frac{Z_{sec}}{Z_{prim}}
+\end{align*}
+$$
+
+#### 2.5.4 Tipos de transformadores.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/33/Transformer3d_col3_es.svg)
+
+Generalmente llevan núcleo de hierro cuando se usan en bajas frecuencias y núcleo de aire o de ferrita para las altas frecuencias.
+
+Los transformadores de núcleo de hierro se componen de un núcleo de [hierro dulce](https://es.wikipedia.org/wiki/Hierro_forjado) laminado a cuyo alrededor hay dos o más devanados o bobinas independientes entre sí llamados primario y secundario. Los encontramos en [fuentes de alimentación](https://es.wikipedia.org/wiki/Fuente_de_alimentaci%C3%B3n) y pasos de audio de equipos antiguos. Caso particular aquellos que toman el nombre de [autotransformadores](https://es.wikipedia.org/wiki/Autotransformador) que tienen solo un devanado del que derivan las conexiones del primario y del secundario.
 
 ## Bibliografía
 
@@ -345,3 +378,4 @@ $$
 - [ngspice](http://ngspice.sourceforge.net/) 
 - ngspice - [manual](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/Documentos/ngspice-manual.pdf). 
 - [Rafael Domínguez Castro](http://www2.imse-cnm.csic.es/~rafael/), [SETI](http://www2.imse-cnm.csic.es/~rafael/SETI/).
+- [Lessons in Electric Circuits](http://www.ibiblio.org/kuphaldt/electricCircuits/)

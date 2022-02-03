@@ -1,0 +1,70 @@
+%! PostScript set of library objects for XCircuit
+%  Library name is: signal
+%
+%
+
+% XCircuitLib library built-in objects
+
+/triangle {
+% -32 -36 64 72 bbox
+begingate
+0  1.35 -32 36 32 0 -32 -36 3 polygon
+endgate
+} def
+
+/square {
+% -32 -32 64 64 bbox
+begingate
+0  1.35 -32 -32 -32 32 32 32 32 -32 4 polygon
+endgate
+} def
+
+/circle2 {
+% -32 -32 64 64 bbox
+begingate
+1  1.35 0 0 32 0.00 360.00 xcarc
+endgate
+} def
+
+/sum {
+% -32 -32 64 64 bbox
+begingate
+(S) {/Symbol 1.300 cf} 1 21 0 0 0 label
+1.00 0 0 0 circle2
+endgate
+} def
+
+/times {
+% -32 -32 64 64 bbox
+begingate
+1.00 0 0 0 circle2
+(\264) {/Symbol 1.750 cf} 1 21 0 2 4 label
+endgate
+} def
+
+/delta {
+% -32 -32 64 64 bbox
+begingate
+1.00 0 0 0 square
+(D) {/Symbol 1.300 cf} 1 21 0 0 0 label
+endgate
+} def
+
+/integrate {
+% -32 -32 64 64 bbox
+begingate
+1.00 0 0 0 square
+(s) {/Symbol 1.300 cf} 1 21 0 0 0 label
+endgate
+} def
+
+/integ2 {
+% -32 -32 64 64 bbox
+begingate
+1.00 0 0 0 square
+(\362) {/Symbol 1.300 cf} 1 21 0 0 -2 label
+endgate
+} def
+
+
+% EndLib
