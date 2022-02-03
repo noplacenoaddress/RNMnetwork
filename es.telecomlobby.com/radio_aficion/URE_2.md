@@ -396,7 +396,23 @@ Por ejemplo una señal que representa voz humana, una señal vocal transformada 
 
 #### 2.6.2 Ondas cuadradas y rectangulares. Presentación gráfica en función del tiempo.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/tipos-ondas-blog.png)
 
+Las ondas cuadradas son las que pasan de un estado a otro de tensión, a intervalos regulares en un tiempo muy reducido. Son utilizadas usualmente para probar amplificadores debido a que este tipo de señales contienen en sí mismas todas las frecuencias. La televisión la radio y los ordenadores utilizan mucho este tipo de señales, fundamente como temporizadores.
+
+Las rectangulares se diferencian de las cuadradas en no tener iguales los intervalos en los que la tensión permanece a nivel alto y bajo. Importantes para analizar circuitos digitales.
+
+#### 2.6.3 Ondas triangulares y en diente de sierra. Pulsos y flancos o escalones.
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/82/Sawtooth-td_and_fd.png)
+
+Generadas por una serie de circuitos diseñados para controlar voltajes linealmente, como puede ser el barrido horizontal de un osciloscopio analógico o el barrido tanto horizontal cuanto vertical de una televisión. Las transiciones entre nivel mínimo y máximo de la señal cambian a un ritmo constante, se denominan rampas.
+
+La onda en [diente de sierra](https://es.wikipedia.org/wiki/Onda_de_sierra) es un caso especial de señal triangular con una rampa descendente de mucha más pendiente que la rampa ascendente. 
+
+Otras como los [flancos](https://es.wikipedia.org/wiki/Flanco_(electr%C3%B3nica)) o los pulsos se denominan señales [transitorias](https://es.wikipedia.org/wiki/R%C3%A9gimen_transitorio_(electr%C3%B3nica)). Un flanco indica un cambio repentino en el voltaje, por ejemplo cuando se conecta un interruptor de alimentación, el pulso en este caso indicaría que se ha conectado el interruptor y un determinado tiempo se ha desconectado. Se encuentran en ordenadores, equipos de rayos X y comunicaciones.
+
+#### 2.6.4 Onda fundamental y armónicos superiores.
 
 ## Bibliografía
 
