@@ -30,7 +30,17 @@ Son uniones de dos materiales semiconductores `P` y `N` por lo que reciben la de
 
 Ninguno de los dos cristales por separado tiene carga eléctrica, ya que en cada cristal, el número de electrones y cargas positivas es el mismo, de lo que podemos decir que los dos cristales son neutros. Al unir ambos hay una difusión de electrones de `N` a `P` y aparece una barrera de separación neutra. Al establecerse estas corrientes aparecen cargas fijas en una zona a ambos lados de la unión, zona que recibe diferentes denominaciones como zona de carga espacial, de agotamiento, de deplexión.
 
+A medida que progresa el proceso de difusión, la zona de carga espacial va incrementando su anchura profundizando en los cristales a ambos lados de la unión. La acumulación de iones positivos en la zona `N`  y de iones negativos en `P` crea un campo eléctrico que actuará sobre los electrones libres de `N` con una determinada fuerza de desplazamiento, que se opondrá a la corriente de electrones y terminará deteniéndolos.
 
+Este campo eléctrico es equivalente a decir que aparece una diferencia de tensión entre las zonas `P` y `N`. Esta diferencia de potencia es de `0,7 V` en el caso del silicio y de `0,3 V` si los cristales son de germanio. 
+
+La anchura de la zona de carga espacial una vez alcanzado el equilibrio, suele ser del orden de `0,5 micras` pero cuando uno de los cristales está mucho más dopado que el otro la zona de carga espacial es mucho mayor.
+
+Al dispositivo así obtenido se la denomina diodo, que ne un caso como el descrito, tal que no se encuentra sometido a un diferencia de potencial externa, se dice que no está polarizado. Al extremo `P`, se le denomina [ánodo](https://es.wikipedia.org/wiki/%C3%81nodo), representándose por la letra `A`, mientras que la zona `N`, el [cátodo](https://es.wikipedia.org/wiki/C%C3%A1todo), se representa por la letra `C` o `K`.
+
+Cuando se somete al diodo a una diferencia de tensión externa, se dice que el diodo está polarizado, pudiendo ser la polarización «directa» o «inversa».
+
+ 
 
 ## Bibliografía
 
