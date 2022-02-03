@@ -414,6 +414,42 @@ Otras como los [flancos](https://es.wikipedia.org/wiki/Flanco_(electr%C3%B3nica)
 
 #### 2.6.4 Onda fundamental y armónicos superiores.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/tumblr_inline_p9qoqj5U381t7xk4o_500.png)
+
+Una función periódica no sinusoidal puede ser descompuesta en la suma de una función sinusoidal de la frecuencia fundamental y de otras funciones sinusoidales, cuyas frecuencias son múltiplos enteros de la frecuencia fundamental. Estas adicionales son conocidas como componentes armónicas o armónicos.
+
+#### 2.6.5 Ruido; térmico del receptor, de banda, densidad de ruido, potencia de ruido en la anchura de banda del receptor.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/26/White_noise_image.png)
+
+El término ruido en radiocomunicación se utiliza para denominar las señales no deseadas que aparecen, sobre las que no tenemos ninguna capacidad de control y que limitan su capacidad de recepción. Puede ser natural o artificial.
+
+El ruido artificial aparece como consecuencia de actividades industriales; tracción de vehículos, transporte y distribución de energía eléctrica. El espectro del ruido artificial disminuye conforme aumenta la frecuencia. Un tipo de ruido artificial que existen en todas las bandas de frecuencia es el ruido impulsivo que se genera en fluorescentes, motores, pantallas de televisión y ordenador que se caracteriza por su elevada amplitud y corta duración.
+
+Las fuentes naturales de ruido se modelan con una densidad espectral de potencia plana. Las fuentes naturales se clasifican en externas e internas al sistema.
+
+Las externas se deben a la radiación producida por elementos naturales como la Tierra o el Sol y a los efectos del medio como lluvia, gases atmosféricos vegetación, sobre esta radiación.
+
+Las internas se encuentran en los propios circuitos pasivos de conexión de la antena al receptor y en el propio receptor. 
+
+El [ruido térmico](https://es.wikipedia.org/wiki/Ruido_de_Johnson-Nyquist) es una perturbación de carácter aleatorio que aparece de forma natural en los conductores por agitación de los electrones; aumenta su potencia conforme aumenta la temperatura. Se puede considerar con [densidad espectral](https://es.wikipedia.org/wiki/Densidad_espectral) uniforme en una gama particular de frecuencias de trabajo. 
+
+El [ruido de banda](https://es.wikipedia.org/wiki/Ruido_blanco) es aquel cuya densidad espectral de potencia es constante y no depende de la frecuencia.
+
+En un receptor, la señal, junto con el ruido suele pasar por filtros suficientemente selectivos para dejar pasar solo la señal. El tipo de filtro empleado suele ser un filtro de banda estrecha cuya frecuencia central es grande comparada con su ancho de banda. El ruido que puede aparecer después de este filtro se llama ruido de banda estrecha.
+
+La potencia media de ruido es la que se entrega al receptor visto como una carga, y su valor máximo se puede obtener en condiciones de adaptación de impedancias. Su expresión es:
+$$
+\begin{align*}
+P_M\space=\space kTB
+\end{align*}
+$$
+`k` es la [constante de Boltzmann](https://es.wikipedia.org/wiki/Constante_de_Boltzmann), `T` la temperatura absoluta en [Kelvin](https://es.wikipedia.org/wiki/Kelvin) y `B` el ancho de banda en hercios.
+
+#### 2.7 Las ondas de radio como ondas electromagnéticas. Velocidad de propagación y su relación con la frecuencia y la longitud de onda. Polarización.
+
+![](https://www.areatecnologia.com/imagenes/onda-electromagnetica.jpg)
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
