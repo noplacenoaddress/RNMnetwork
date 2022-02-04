@@ -66,7 +66,11 @@ Debido a las características expuestas de los diodos, tienen diversas aplicacio
 
 #### 3.3.1 Diodos rectificadores, diodos zener, diodos LED y diodos varicap.
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/retificador_mediaonda.svg)
 
+Una de las aplicaciones de los diodos es la de ser rectificadores de corriente alterna, es decir dispositivos capaces de convertir una corriente alterna en continua. El [rectificador de media onda](https://es.wikipedia.org/wiki/Rectificador_de_monof%C3%A1sico_de_media_onda) es un circuito empleado para eliminar la parte negativa de una señal de corriente alterna de entrada `Vi` convirtiéndola en corriente continua de salida `Vo`. Es el circuito de rectificación más sencillo que puede construirse con un diodo. En este circuito la señal de salida también se llama pulsante:
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Tensi%C3%B3n_rectificada_media_onda.png)
 
 ## Bibliografía
 
