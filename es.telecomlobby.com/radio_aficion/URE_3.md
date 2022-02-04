@@ -46,6 +46,8 @@ Se llama polarización directa cuando el cristal `P` va unido mediante un conduc
 
 En el caso de la polarización directa, la batería disminuye la barrera de potencial de la zona de carga espacial, permitiendo el paso de la corriente de electrones a través de la unión; es decir, el diodo polarizado directamente conduce la electricidad. 
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/diodo_polinversa.svg)
+
 
 
 ## Bibliografía
