@@ -64,6 +64,10 @@ De forma simplificada, la curva característica de un diodo (`I V`) consta de do
 
 Debido a las características expuestas de los diodos, tienen diversas aplicaciones, tales como: [rectificadores](https://es.wikipedia.org/wiki/Rectificador), [estabilizadores](https://es.wikipedia.org/wiki/Regulador_de_tensi%C3%B3n), [recortadores](https://es.wikipedia.org/wiki/Limitador), [multiplicadores](https://es.wikipedia.org/wiki/Multiplicador_de_tensi%C3%B3n), [mezcladores](https://es.wikipedia.org/wiki/Mezclador_de_frecuencias). Veamos seguidamente cuatro delas aplicaciones más usuales.
 
+#### 3.3.1 Diodos rectificadores, diodos zener, diodos LED y diodos varicap.
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
