@@ -1461,6 +1461,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 1/2/2022 14:21 **Francesca**, **Andreu** and **Aurora** don't stop to torture. Every day and every night, I've stopped to log every torture acts from those morons. Those idiot follow the same pattern of torture very simple to explain in front of a judge. 
 - 1/2/2022 16:48 **Francesca** is violating me all the day all the nights from four years!!!! STOP THIS MONSTER.
 - 3/2/2022 20:42 Francesca and Andreu doesn't stop a minute to torture, to stalk, to harass, to humiliate, to threat, to use the human trade network. Those two fellows are guilty of a lot of assassinations using programs of human trade. Are guilty of be owners and administrators of a virtual concentration camp, a part of the human trade network.
+- 4/2/2022 10:52 As the day start Francesca and Andreu follow to death treat using Mafia. They work with a lot of, Andreu more with Spanish one and Francesca with Sardinian, Napolitan and Sicilian. The form they work with them is absolutely slavery, because they have created fair right in these decades, Mafia have accepted be of fair right but they are leftist. This is because of corruption, those two nobles permit them to sell drugs in exchange to act in the human trade network as killers, as fair right, as hackers, and so on.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
