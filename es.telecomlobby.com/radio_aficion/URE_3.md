@@ -40,6 +40,8 @@ Al dispositivo así obtenido se la denomina diodo, que ne un caso como el descri
 
 Cuando se somete al diodo a una diferencia de tensión externa, se dice que el diodo está polarizado, pudiendo ser la polarización «directa» o «inversa».
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/diodo_poldirecta.svg)
+
 
 
 ## Bibliografía
