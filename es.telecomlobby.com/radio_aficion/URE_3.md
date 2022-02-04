@@ -48,7 +48,21 @@ En el caso de la polarización directa, la batería disminuye la barrera de pote
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/diodo_polinversa.svg)
 
+Se llama polarización inversa a aquélla en que le cristal `P` va unida al polo negativo de la pila o batería y el cristal `N` al positivo. En la polarización inversa los «huecos» del `P` son atraídos hacia el polo negativo de la batería y los electrones del `N` hacia el positivo de la batería; no hay corriente por el circuito. Una polarización inversa excesiva rompe la estructura del cristal. 
 
+La <u>unión PN</u> funciona, en cierto modo, como un conmutador; el germanio tipo `N` es el «emisor» y el tipo `P` el «colector». La polarización directa favorece el paso de la corriente y disminuye la barrera de potencial que hay entre los cristales. La polarización inversa dificulta la corriente y aumenta la barrera.
+
+SEn el caso de polarización inversa, el polo negativo de la batería se conecta a la zona `P` y el polo positivo a la zona `N`, lo que hace aumentar la zona de carga espacial, y la tensión en dicha zona hasta que se alcanza el valor de la tensión de la batería. El diodo no debería conducir la corriente; sin embargo, debido al efecto de la temperatura se formarán pares electrón-hueco a ambos la dos de la unión produciendo una pequeña corriente del orden de `1 µA` denominada corriente inversa de saturación.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/51/Diodo_-_curva_caracter%C3%ADstica_%28Sockley%29.png)
+
+En los semiconductores el desplazamiento de los electrones es en dirección hacía el polo positivo y nos referimos al movimiento en el interior del cristal, ya que la polarización directa vimos que hay un flujo externo de `P` a `N`. Los «huecos» en cambio se desplazan hacia el polo negativo en el cristal o se combinan con electrones según polarización.
+
+Esquemáticamente diremos que el tipo `N` los conductores son los electrones y en el tipo `P` los conductores son los «huecos».
+
+De forma simplificada, la curva característica de un diodo (`I V`) consta de dos regiones, por debajo de cierta diferencia de potencial, el diodo se comporta como un circuito abierto (no conduce), y por encima de ella como un circuito cerrado con muy pequeña resistencia eléctrica.
+
+Debido a las características expuestas de los diodos, tienen diversas aplicaciones, tales como: [rectificadores](https://es.wikipedia.org/wiki/Rectificador), [estabilizadores](https://es.wikipedia.org/wiki/Regulador_de_tensi%C3%B3n), [recortadores](https://es.wikipedia.org/wiki/Limitador), [multiplicadores](https://es.wikipedia.org/wiki/Multiplicador_de_tensi%C3%B3n), [mezcladores](https://es.wikipedia.org/wiki/Mezclador_de_frecuencias). Veamos seguidamente cuatro delas aplicaciones más usuales.
 
 ## Bibliografía
 
