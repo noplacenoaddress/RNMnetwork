@@ -42,6 +42,10 @@ Cuando se somete al diodo a una diferencia de tensión externa, se dice que el d
 
 ![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/diodo_poldirecta.svg)
 
+Se llama polarización directa cuando el cristal `P` va unido mediante un conductor al polo positivo de una batería o pila exterior y el cristal `N` al polo negativo. Por el exterior del sistema en la polarización directa hay flujo de electrones y van de `P` a `N`. Si se aumenta la polarización directa la corriente aumenta; si llega a ser excesiva se rompe la estructura cristalina. La tensión aplicada normalmente a esta clase de polarización es `1` a `1.5V`. 
+
+En el caso de la polarización directa, la batería disminuye la barrera de potencial de la zona de carga espacial, permitiendo el paso de la corriente de electrones a través de la unión; es decir, el diodo polarizado directamente conduce la electricidad. 
+
 
 
 ## Bibliografía
