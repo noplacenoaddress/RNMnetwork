@@ -106,7 +106,9 @@ Tal y como se ha dicho al hablar de la polarización inversa, la pequeña corrie
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1f/Thyristor_circuit_symbol_es.jpg)
 
-Un [tiristor](https://es.wikipedia.org/wiki/Tiristor) es un dispositivo semiconductor biestable de cuatro capas `P-N-P-N` con tres terminales ánodo, cátodo y [compuerta](https://es.wikipedia.org/wiki/Puerta_l%C3%B3gica). 
+Un [tiristor](https://es.wikipedia.org/wiki/Tiristor) es un dispositivo semiconductor biestable de cuatro capas `P-N-P-N` con tres terminales ánodo, cátodo y [compuerta](https://es.wikipedia.org/wiki/Puerta_l%C3%B3gica). El dispositivo puede conmutar de bloqueo a conducción o reduciendo la corriente que lo atraviesa por debajo del valor umbral o al revés. Existen múltiples tipos de tristores y se usan como interruptores electrónicos de potencia.
+
+
 
 
 
