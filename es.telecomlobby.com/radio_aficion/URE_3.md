@@ -74,6 +74,43 @@ Una de las aplicaciones de los diodos es la de ser rectificadores de corriente a
 
 
 
+Un [diodo zener](https://es.wikipedia.org/wiki/Diodo_Zener), es un diodo de silicio que se ha construido para que funcione la zonas de rupturas. Llamados a vece diodos de avalancha o de ruptura son la parte esencial de los reguladores de tensión casi constantes con independencia de que se presenten grandes variaciones de la tensión de red, de la resistencia de carga y de la temperatura.
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/81/Diode05.svg)
+
+Cuando están polarizados inversamente, mantienen la tensión entre sus terminales prácticamente constante en un amplio rango de intensidades y temperaturas; este tipo de diodos se emplean en circuitos estabilizadores o reguladores de tensíon.
+
+![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/diodo_zener.svg)
+
+Eligiendo `R` y las características del diodo, se puede lograr que la tensión en la carga `Rl` permanezca prácticamente constante dentro del rango de variación de la  tensión de entrada `Vs`.
+
+Es importante tener en cuenta que `Vs` tienen que ser mayor que `Vz` dado que el diodo zener trabaja en la [zona de avalancha](http://www.sc.ehu.es/sbweb/electronica/elec_basica/tema2/Paginas/Pagina10.htm#Efecto%20Avalancha). 
+
+Para elegir la resistencia limitadora `R` adecuada hay que calcular primero cual puede ser su valor máximo y mínimo, después elegiremos una `R` normalizada que se adecue a nuestros cálculos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/79/LEDES.jpg)
+
+Un diodo [LED](https://es.wikipedia.org/wiki/Led) es un dispositivo semiconductor que emite luz monocromática cuando se polariza directamente y es atravesado por una corriente eléctrica, su color depende del material semiconductor empleado en la construcción del diodo, pudiendo variar desde el [ultravioleta](https://es.wikipedia.org/wiki/Radiaci%C3%B3n_ultravioleta) hasta el [infrarrojo](https://es.wikipedia.org/wiki/Radiaci%C3%B3n_infrarroja); recibiendo estos últimos la denominación de [diodos IRED](https://es.wikipedia.org/wiki/Sensor_infrarrojo). Los LED suelen estar encapsulados en una cubierta de plástico coloreado.
+
+Para obtener una buena intensidad luminosa debe escogerse bien la corriente que atraviesa el LED; su voltaje de operación va desde `1,5` hasta `3,5 V`, y la gama de intensidades que debe circular por ellos va desde `10` hasta `20 mA` en los diodos de color rojo y de `20` a `40mA` para el resto.
+
+El [diodo varicap](https://es.wikipedia.org/wiki/Diodo_Varicap) o de capacidad variable es un tipo de diodo qe base su funcionamiento en el fenómeno, ya explicado, que hace que la anchura de la barrera de potencial en una unión `PN` varíe en función de la tensión inversa aplicada entre sus extremos. Al aumentar dicha tensión aumenta la anchura de esa barrera, disminuyendo así la capacidad del diodo.
+
+De esta forma tenemos un condensador variable controlado por tensión. Los valores de capacidad obtenidos va desde `1` a `500 pF`. La tensión inversa mínima tiene que ser de `1V`.
+
+#### 3.3.2 Tensión inversa y pérdidas de corriente.
+
+Tal y como se ha dicho al hablar de la polarización inversa, la pequeña corriente que circula por la superficie del diodo es función de la tensión aplicada al diodo, con l oque al aumentar la tensión aumenta la corriente superficial de fugas.
+
+#### 3.4 Tiristores.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1f/Thyristor_circuit_symbol_es.jpg)
+
+Un [tiristor](https://es.wikipedia.org/wiki/Tiristor) es un dispositivo semiconductor biestable de cuatro capas `P-N-P-N` con tres terminales ánodo, cátodo y [compuerta](https://es.wikipedia.org/wiki/Puerta_l%C3%B3gica). 
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
+- [Euskal Herriko Unibertsitatea](http://www.ehu.es/), Industri Ingeniaritza Teknikorako Unibertsitate Eskola, [Curso de Electrónica Básica en Internet](http://www.sc.ehu.es/sbweb/electronica/elec_basica/)
