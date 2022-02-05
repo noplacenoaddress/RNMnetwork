@@ -108,7 +108,11 @@ Tal y como se ha dicho al hablar de la polarización inversa, la pequeña corrie
 
 Un [tiristor](https://es.wikipedia.org/wiki/Tiristor) es un dispositivo semiconductor biestable de cuatro capas `P-N-P-N` con tres terminales ánodo, cátodo y [compuerta](https://es.wikipedia.org/wiki/Puerta_l%C3%B3gica). El dispositivo puede conmutar de bloqueo a conducción o reduciendo la corriente que lo atraviesa por debajo del valor umbral o al revés. Existen múltiples tipos de tristores y se usan como interruptores electrónicos de potencia.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/transistores_PNP_NPN.svg)
 
+Los transistores están formados por un «sandwich» de dos tipos de semiconductor `P` y `N` muy  delgados. pueden ser por tanto de tipo `PNP` o `NPN` siendo estos últimos los más utilizados. Al elemento de entrada se le llama emisor al central, base y al de salida colector.
+
+El dispositivo comúnmente llamado [transistor](https://es.wikipedia.org/wiki/Transistor) o más propiamente transistor bipolar o BJT fue llamado así por la propiedad que tiene de cambiar la resistencia al paso de la corriente eléctrica entre el emisor y el colector. El transistor tiene tres partes, una que emite portadores, <u>emisor</u>, otra que lo recibe o recolecta, <u>colector</u>, y la tercera, que está intercalada entre las dos primeras, modula el paso de dichos portadores, <u>base</u>.
 
 
 
