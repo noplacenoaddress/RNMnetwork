@@ -72,6 +72,8 @@ Una de las aplicaciones de los diodos es la de ser rectificadores de corriente a
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Tensi%C3%B3n_rectificada_media_onda.png)
 
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
