@@ -174,7 +174,9 @@ En el montaje en emisor común la entrada de la señal se aplica a la base y la 
 
 En base común la entrada es aplicada al emisor y la salida se obtiene en el colector. LA ganancia de tensíon es grande y la ganancia de corriente es aproximadamente 1.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/amplificador_colectorcomun.svg)
 
+En el colector común la entrada de la señal se aplica en la base y la salida se obtiene en el emisor. Tiene una alta ganancia de corriente y una ganancia de tensión ligeramente menor a 1.
 
 
 
