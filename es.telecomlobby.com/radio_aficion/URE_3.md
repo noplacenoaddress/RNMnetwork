@@ -135,7 +135,13 @@ Luego la ganancia de potencia en un transistor es igual a la ganancia de corrien
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/59/ATI_Radeon_X1650_Pro_-_Alpha_%26_Omega_Semiconductor_D414-4362.jpg)
 
-El funcionamiento del [transistor de efecto de campo](https://es.wikipedia.org/wiki/Transistor_de_efecto_campo) o FET
+El funcionamiento del [transistor de efecto de campo](https://es.wikipedia.org/wiki/Transistor_de_efecto_campo) o FET es distinto del bipolar ya descrito. La puerta no absorbe corriente en absoluto, frente a los bipolares donde la corriente que atraviesa la base nosiempre puede ser despreciada. Los [MOSFET](https://es.wikipedia.org/wiki/Transistor_de_efecto_de_campo_metal-%C3%B3xido-semiconductor), además, presentan un comportamiento capacitivo muy acusado que hay que tener en cuenta para el análisis y diseño de circuitos. Los más utilizados son:
+
+- [JFET](https://es.wikipedia.org/wiki/JFET)
+- MOSFET
+- MISFET
+
+Tienen tres terminales, denominadas puerta, drenador y fuente. La puerta es el terminal equivalente a la base del bipolar. El transistor de efecto de campo se comporta como un interruptor controlador por tensión
 
 ## Bibliografía
 
