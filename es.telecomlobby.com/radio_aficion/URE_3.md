@@ -264,6 +264,8 @@ Hoy en día la mayor parte de los equipos de radioaficionado emplea en los ampli
 
 Las válvulas presentan una alta impendancia interna que esta constituida por la combinación de resistencia y reactancia. Por ello y dado que la carga que presenta una antena es comparativamente muy baja entra 50 y 300 Ω es preciso el uso de circuitos o redes de adaptación que acoplen ambas de tal forma que se produzca el mínimo de pérdidas por desadaptación y la transferencia de energía sea máxima.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/711PFV3QiAL._AC_SL1500_.jpg)
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
