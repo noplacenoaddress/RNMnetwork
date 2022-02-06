@@ -214,6 +214,12 @@ Un `AO` ideal tiene una ganancia infinita, una impedancia de entrada infinita, u
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cd/5C3Ss.jpg)
 
+Actualmente las válvulas solo se usan en los amplificadores de gran potencia, describimos las de emisión [termoiónica](https://es.wikipedia.org/wiki/V%C3%A1lvula_termoi%C3%B3nica), los diodos y los [triodos](https://es.wikipedia.org/wiki/Triodo).
+
+Cuando a determinados cuerpos se les suministra energía por ejemplo calorífica la unión de los electrones al núcleo se debilita llegando al desprendimiento de electrones que quedan libres. A este fenómeno se llama [emisión termoiónica](https://es.wikipedia.org/wiki/Emisi%C3%B3n_termoi%C3%B3nica). En los cuerpos incandescentes los electrones forman una nube alrededor de los mismos llamada [carga espacial](https://en.wikipedia.org/wiki/Space_charge), volviendo nuevamente al cátodo si no son atraídos en otro lugar. En esta propiedad están basados los tubos o válvulas termoiónicas. Constan de una cápsula de vidrio donde se ha hecho el vacío, una placa metálica que se conecta al polo positivo y un filamento que al calentarse emite electrones. estos van a la placa o ánodo por el interior de la cápsula, recorren el circuito exterior y vuelven al cátodo. 
+
+La válvula o tubo electrónico más simple es el diodo, que está formado pro dos electrodos llamados placa o ánodo y filamento o cátodo. La placa es un buen conductor metálico. El cátodo puede ser de caldeo directo cuando se trata de un hilo metálico o filamento por el que puede pasar la corriente. También puede ser el cátodo de caldeo indirecto cuando es un tubito de níquel recubierto de una capa de [oxido de calcio](https://es.wikipedia.org/wiki/%C3%93xido_de_calcio) u otro elemento semejante, materiales que emiten electrones con mucha facilidad. Dentro del tubito va el filamento que lo calienta para que emita electrones. 
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
