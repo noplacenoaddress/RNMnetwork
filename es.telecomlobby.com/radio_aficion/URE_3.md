@@ -151,7 +151,18 @@ Así como los bipolares se dividen en NPN y PNP los de efecto de campo o FET son
 
 #### 3.5.2 Circuitos amplificadores con transistores bipolares.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/Curvas_caracteristicas.png)
 
+Para diseñar un circuito en que intervengan uno o más transistores es preciso consultar las [familias de curvas](https://es.wikipedia.org/wiki/Familia_de_curvas) características. En ellas la intensidad de corriente que circula por le colector `A` en función de la tensión existente entre colector y emisor `v` con una cierta intensidad de base constante `lb`. En el eje vertical en donde las corriente aumentan rápidamente se le da el nombre de zona de saturación. Donde en el eje horizontal no aparece ningún corriente en proximidad de lo cero se le da el nombre de zona de corte. Todo los demás toma el nombre de zona de funcionamiento activo.
+
+Un circuito amplificador que funciona utilizando una serie de transistores puede ser configurado en base a tres montajes típicos: emisor común, base común o colector común conocido también como seguidor de emisor.
+
+Los principales parámetros del transistores a considerar en estos tres circuitos son:
+
+- corriente de cortocircuito.
+- relación de transferencia.
+- frecuencia de corte.
+- impedancias de entrada y salida.
 
 ## Bibliografía
 
