@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="transistores_PNP_NPN" width="100%" height="100%"  viewBox="-6 -6 1224 571">
+<desc>
+XCircuit Version 3.9
+File "transistores_PNP_NPN" Page 1
+</desc>
+<g stroke="black">
+<path d="M160,53 L160,117 352,117 352,53 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M160,181 L160,245 352,245 352,181 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="32" cy="149" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M32,149 L160,149 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="384" cy="37" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M256,53 L256,37 384,37 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="384" cy="261" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M256,245 L256,261 384,261 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M160,117 L160,181 352,181 352,117 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix( 0.8    0   -0  0.8 304  21)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Colector</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 304 309)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Emisor</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8   0 117)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Base</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 240  85)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">P</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 240 149)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">N</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 240 213)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">P</tspan>
+</text></g>
+<path d="M896,53 L896,117 1088,117 1088,53 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M896,181 L896,245 1088,245 1088,181 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="768" cy="149" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M768,149 L896,149 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="1120" cy="37" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M992,53 L992,37 1120,37 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="1120" cy="261" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M992,245 L992,261 1120,261 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M896,117 L896,181 1088,181 1088,117 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix( 0.8    0   -0  0.8 1040  21)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Colector</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 1040 309)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Emisor</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 736 117)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Base</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 976  85)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">N</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 976 149)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">P</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 976 213)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">N</tspan>
+</text></g>
+<path d="M992,445 L992,493 " fill="none" stroke-width="4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M1024,437 L992,451 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M1024,437 L1024,405 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M992,469 L928,469 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M1024,501 L992,487 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M1024,501 L1024,533 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M1005,498 C1013,498 1014,499 1024,501 C1016,495 1014,494 1010,489 C1009,493 1008,495 1005,498 " fill="#000000" stroke="none" />
+<ellipse cx="1006" cy="469" rx="44" ry="44" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="1120" cy="405" rx="6" ry="6" fill="#000000" stroke="none" />
+<ellipse cx="1120" cy="533" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M1024,405 L1120,405 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M1024,533 L1120,533 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="832" cy="469" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M832,469 L928,469 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix( 0.8    0   -0  0.8 832 453)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">B</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 1120 389)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">C</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 1120 565)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">E</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 1152 469)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">NPN</tspan>
+</text></g>
+<path d="M224,445 L224,493 " fill="none" stroke-width="4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M256,437 L224,451 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M256,437 L256,405 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M224,469 L160,469 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M256,501 L224,487 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M256,501 L256,533 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M238,439 C234,444 232,445 224,451 C234,449 235,448 243,448 C240,445 239,443 238,439 " fill="#000000" stroke="none" />
+<ellipse cx="238" cy="469" rx="44" ry="44" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="352" cy="405" rx="6" ry="6" fill="#000000" stroke="none" />
+<ellipse cx="352" cy="533" rx="6" ry="6" fill="#000000" stroke="none" />
+<ellipse cx="64" cy="469" rx="6" ry="6" fill="#000000" stroke="none" />
+<path d="M256,405 L352,405 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M256,533 L352,533 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M64,469 L160,469 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix( 0.8    0   -0  0.8  64 453)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">B</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 352 389)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">C</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 352 565)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">E</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 368 469)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">PNP</tspan>
+</text></g>
+</g>
+</svg>
