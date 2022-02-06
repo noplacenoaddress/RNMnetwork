@@ -178,7 +178,27 @@ En base común la entrada es aplicada al emisor y la salida se obtiene en el col
 
 En el colector común la entrada de la señal se aplica en la base y la salida se obtiene en el emisor. Tiene una alta ganancia de corriente y una ganancia de tensión ligeramente menor a 1.
 
+#### 3.5.3 Impedancias de entrada y salida de los anteriores circuitos.
 
+El circuito de emisor común tiene la impedancia de entrada entre media y alta y la de salida es alta. Por sus características es el circuito más utilizados de los tres. La corriente de entrada y la de salida están en oposición de fase y realimentación a través de la resistencia de emisor es negativa, por ello, se trata de un amplificador muy estable.
+
+El circuito de base común tiene baja impedancia de entrada y alta impedancia de salida. La corriente de entrada y la de salida están en fase. El circuito de colector común tiene alta impedancia de entrada y baja impedancia de salida. La corriente de entrada y la de salida están en fase.
+
+#### 3.5.4 Métodos de polarización.
+
+La polarización usual en transistores es que la unión de entrada quede con polarización directa, mientras que la unión de salida queda en polarización inversa. El transistor tiene el inconveniente de que a altas frecuencias la ganancia de corriente disminuye. 
+
+Se produce [saturación](https://es.wikipedia.org/wiki/Amplificador_operacional#Saturaci%C3%B3n) cuando la corriente del colector deja de depender de la corriente de entrada y pasa a depender de la tensión del propio colector. Tensión máxima del colector es la tensión máxima continua que puede aplicarse al colector sin dañar el transistor. La tensión inmediatamente superior es la tensión de ruptura. 
+
+#### 3.6 Circuitos integrados lineales.
+
+![](https://www.ariston.es/Portals/0/img/productos/sg3524.jpg)
+
+Hay dos tipos de [circuitos integrados](https://es.wikipedia.org/wiki/Circuito_integrado), los lineales y los lógicos.
+
+Los lineales, también llamados microcircuitos, se componen básicamente de unos cientos de transistores bipolares y/o FET integrados en un único sustrato, una pastilla di silicio. También se integran diodos, condensadores y resistencias. Vienen a funcionar, básicamente, como hemos vista para los transistores y en la mayoría de las aplicaciones su funcionamiento es lineal. Los circuitos integrados analógicos pueden ser desde simples transistores encapsulados juntos hasta dispositivos completos como amplificadores, osciladores y otros y están diseñados para realizar funciones que de otras forma precisarían el empleo de multitud de componentes discretos. Ejemplos de sus aplicaciones pueden ser también los [mezcladores](https://es.wikipedia.org/wiki/Mezclador_electr%C3%B3nico) y los detectores.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/63/Mezclador_pasivo.jpg)
 
 ## Bibliografía
 
