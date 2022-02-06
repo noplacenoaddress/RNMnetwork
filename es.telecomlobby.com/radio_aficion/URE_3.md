@@ -164,6 +164,12 @@ Los principales parámetros del transistores a considerar en estos tres circuito
 - frecuencia de corte.
 - impedancias de entrada y salida.
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/amplificador_emisorcomun.svg)
+
+
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
