@@ -250,6 +250,14 @@ La curva característica de rejilla, que es el diagrama que se obtiene con los v
 
 El factor de amplificación `μ` que se define como el potencial que habría que variar en el ánodo para producir en su corriente el mismo efecto que se obtendría al variar una unidad el potencial de la rejilla. Así un factor de amplificación `μ=6`, significa que la variación de corriente de placa cuando variamos `1v` el potencial de rejilla, es la misma que produciría al variar 6 voltios la tensión de placa.
 
+La transconductancia o conductancia mutua es la pendiente de la curva característica de la rejilla y es la variación que experimenta la corriente de placa cuando variamos `1v` la polarización de la rejilla.
+
+El valor de la transconductancia depende del punto de la curva característica de la rejilla en el que la válvula esté trabajando. Una transconductancia alta significa que pequeñas modificaciones del potencial de rejilla se traducen en grandes variaciones de la corriente de placa.
+
+#### 3.7.1 Etapas de válvulas de potencia, adaptación de impendancias.
+
+
+
 
 
 ## Bibliografía
