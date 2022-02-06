@@ -234,6 +234,18 @@ En los diodos hay dos clases de corriente: la de la placa que es el resultado de
 
 Corriente place media es la corriente que puede conducir un tiempo sin calentarse excesivamente y la corriente placa máxima es la corriente máxima instantánea que puede adquirir la placa. 
 
+Tensión inversa de cresta es la máxima tensión negativa que puede existir en la placa sin que se produzca una descarga.
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/Va%CC%81lvulas-de-vacio-curvas-caracteristicas.jpg)
+
+La curva característica es una representación gráfica de los valores de tensión e intensidad. El punto de saturación es el punto a partir del cual un aumento de tensión no produce aumento de corriente apreciable. Polarización es el carácter positivo o negativo de la corriente que procede da una pila u otra fuente. Se observa como aumenta la corriente de placa al aumentar la tensión de placa con la temperatura del caldeo constante del cátodo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/14/Triode_tube_1906.jpg)
+
+Se denomina triodo a un dispositivo termoiónico de tres electrodos. Es como un diodo con un tercer electrodo, la rejilla que se sitúa entre el cátodo y el ánodo. La tensión aplicada a la rejilla hace que el flujo de electrones desde el cátodo al ánodo sea mayor y menor. Esto es muy interesante pues aplicando una señal de muy débil intensidad entre cátodo y rejilla podemos conseguir que la variación del flujo de electrones entre éste y el ánodo sea muy grande. Es decir, con una pequeña tensión controlamos una gran corriente, es decir amplifica la señal de entrada.
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
