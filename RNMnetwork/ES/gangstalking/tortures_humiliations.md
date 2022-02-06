@@ -1466,6 +1466,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 6/2/2022 02:07 It's four days that this terrorist doesn't let me sleep. Sleep deprivation, the only reason is that I've got a calendar full of activities and this monster wanted to let me be a beggar. Go to jail, terrorist. Your surname is not important in front of the law.
 - 6/2/2022 13:47 Francesca torture, only torture and torture a little bit more. This bitch cannot stop to torture me, I really need that someone stop this monster that have destroyed the life of a lot people that I've known in my life because the heavy use of the human trade network, the modern slavery network hidden behind civilian broadcast FM systems.  
 - 6/2/2022 18:31 I'm victim of human trade, because of that I don't finish my university but I'm a great IT technician and IT business man. I was sold from Francesca family to another noble in Catalunya to do a startup of an IT firm without knowing it. All had gain money, also my family. Because in human trade families are totally guilty. Now I'm studying laws about my work and about radioham to do a great complaint against those two people that pertain to nobility and Church orders. **Francesca** doesn't stop a minute to torture me, help.
+- 6/2/2022 23:35 **Francesca** and **Aurora** as I go to sleep stalk, torture, harass me. Help
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
