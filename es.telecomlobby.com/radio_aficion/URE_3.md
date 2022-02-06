@@ -220,6 +220,8 @@ Cuando a determinados cuerpos se les suministra energía por ejemplo calorífica
 
 La válvula o tubo electrónico más simple es el diodo, que está formado pro dos electrodos llamados placa o ánodo y filamento o cátodo. La placa es un buen conductor metálico. El cátodo puede ser de caldeo directo cuando se trata de un hilo metálico o filamento por el que puede pasar la corriente. También puede ser el cátodo de caldeo indirecto cuando es un tubito de níquel recubierto de una capa de [oxido de calcio](https://es.wikipedia.org/wiki/%C3%93xido_de_calcio) u otro elemento semejante, materiales que emiten electrones con mucha facilidad. Dentro del tubito va el filamento que lo calienta para que emita electrones. 
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/valvula_diodo.svg)
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
