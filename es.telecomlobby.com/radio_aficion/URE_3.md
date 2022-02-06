@@ -108,6 +108,8 @@ Tal y como se ha dicho al hablar de la polarización inversa, la pequeña corrie
 
 Un [tiristor](https://es.wikipedia.org/wiki/Tiristor) es un dispositivo semiconductor biestable de cuatro capas `P-N-P-N` con tres terminales ánodo, cátodo y [compuerta](https://es.wikipedia.org/wiki/Puerta_l%C3%B3gica). El dispositivo puede conmutar de bloqueo a conducción o reduciendo la corriente que lo atraviesa por debajo del valor umbral o al revés. Existen múltiples tipos de tristores y se usan como interruptores electrónicos de potencia.
 
+#### 3.5 Transistores. Tipos PNP y NPN. Factor de amplificación.
+
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/transistores_PNP_NPN.svg)
 
 Los transistores están formados por un «sandwich» de dos tipos de semiconductor `P` y `N` muy  delgados. pueden ser por tanto de tipo `PNP` o `NPN` siendo estos últimos los más utilizados. Al elemento de entrada se le llama emisor al central, base y al de salida colector.
@@ -141,7 +143,9 @@ El funcionamiento del [transistor de efecto de campo](https://es.wikipedia.org/w
 - MOSFET
 - MISFET
 
-Tienen tres terminales, denominadas puerta, drenador y fuente. La puerta es el terminal equivalente a la base del bipolar. El transistor de efecto de campo se comporta como un interruptor controlador por tensión
+Tienen tres terminales, denominadas puerta, drenador y fuente. La puerta es el terminal equivalente a la base del bipolar. El transistor de efecto de campo se comporta como un interruptor controlador por tensión donde el voltaje aplicado a la puerta permite hacer que fluya o no corriente entre drenador y fuente.
+
+
 
 ## Bibliografía
 

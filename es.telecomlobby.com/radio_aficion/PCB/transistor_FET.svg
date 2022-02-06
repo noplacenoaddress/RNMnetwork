@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="transistor_FET" width="100%" height="100%"  viewBox="-6 -6 1023 411">
+<desc>
+XCircuit Version 3.9
+File "transistor_FET" Page 1
+</desc>
+<g stroke="black">
+<path d="M192,213 L192,169 168,169 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M168,173 L168,125 " fill="none" stroke-width="4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M168,129 L192,129 192,85 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M96,149 L168,149 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M158,144 C152,147 150,147 140,149 C150,151 152,151 158,154 C157,150 157,148 158,144 " fill="#000000" stroke="none" />
+<ellipse cx="160" cy="149" rx="81" ry="81" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M192,101 L192,21 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M192,197 L192,277 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M128,149 L0,149 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M768,213 L768,169 744,169 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M744,173 L744,125 " fill="none" stroke-width="4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M744,129 L768,129 768,85 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M672,149 L744,149 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M718,154 C724,151 726,151 736,149 C726,147 724,147 718,144 C719,148 719,150 718,154 " fill="#000000" stroke="none" />
+<ellipse cx="736" cy="149" rx="101" ry="101" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M768,101 L768,21 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M768,197 L768,277 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M688,149 L544,149 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix( 0.8    0   -0  0.8 176  21)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">D</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8   0 181)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">G</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 192 309)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">S</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 528 149)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">G</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 784  21)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">D</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 768 309)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">S</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 256 213)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Tipo canal P</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 848 213)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Tipo canal N</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 128 405)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">G=Puerta D=Drenador S=Fuente</tspan>
+</text></g>
+</g>
+</svg>
