@@ -256,9 +256,13 @@ El valor de la transconductancia depende del punto de la curva característica d
 
 #### 3.7.1 Etapas de válvulas de potencia, adaptación de impendancias.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/valvulas_impedancias.svg)
 
 
 
+Hoy en día la mayor parte de los equipos de radioaficionado emplea en los amplificadores de alta potencia componentes de estado solido. No obstante algunos equipos pueden tener su amplificador final equipado con valvulas.
+
+Las válvulas presentan una alta impendancia interna que esta constituida por la combinación de resistencia y reactancia. Por ello y dado que la carga que presenta una antena es comparativamente muy baja entra 50 y 300 Ω es preciso el uso de circuitos o redes de adaptación que acoplen ambas de tal forma que se produzca el mínimo de pérdidas por desadaptación y la transferencia de energía sea máxima.
 
 ## Bibliografía
 
