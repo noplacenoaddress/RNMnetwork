@@ -200,6 +200,20 @@ Los lineales, también llamados microcircuitos, se componen básicamente de unos
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/63/Mezclador_pasivo.jpg)
 
+#### 3.6.1 Amplificadores operacionales.
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/amplificador_operacional.svg)
+
+Un amplificador operacional `AO` es un amplificador diferencial de elevada ganancia, con acoplo directo y cuyas características están determinadas fundamentalmente pro los componentes externos al `CI`.
+
+De manera sencilla diremos que es un tipo de amplificador que aumenta considerablemente las tensiones aplicadas a sus entradas, su salida es la diferencia entre sus dos entradas multiplicada por el factor de ganancia. 
+
+Un `AO` ideal tiene una ganancia infinita, una impedancia de entrada infinita, un ancho de banda también infinito, una impedancia de salida nula, un tiempo de respuesta nulo y ninguno ruido. Como la impedancia de entrada es infinita también se dice que las corrientes de entrada son cero. Aunque sus aplicaciones son numerosas, la más usuales son en circuitos de amplificadores, osciladores, mezcladores, filtros y pre amplificadores de audio y vídeo. 
+
+#### 3.7 Dispositivos termoiónicos simples (válvulas) (solo cualitativamente).
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/cd/5C3Ss.jpg)
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
