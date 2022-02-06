@@ -220,6 +220,20 @@ Cuando a determinados cuerpos se les suministra energía por ejemplo calorífica
 
 La válvula o tubo electrónico más simple es el diodo, que está formado pro dos electrodos llamados placa o ánodo y filamento o cátodo. La placa es un buen conductor metálico. El cátodo puede ser de caldeo directo cuando se trata de un hilo metálico o filamento por el que puede pasar la corriente. También puede ser el cátodo de caldeo indirecto cuando es un tubito de níquel recubierto de una capa de [oxido de calcio](https://es.wikipedia.org/wiki/%C3%93xido_de_calcio) u otro elemento semejante, materiales que emiten electrones con mucha facilidad. Dentro del tubito va el filamento que lo calienta para que emita electrones. 
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/valvula_diodo.svg)
+
+Vemos que cuando la placa tiene potencial negativo no circulan los electrones y queda abierto el circuito en el interior. Es posible también tener el caso contrario donde la placa tiene polaridad positiva y cátodo emisor negativo. 
+
+Por lo tanto un diodo es conductor cuando la placa es positiva respecto del emisor de electrones o cátodo. Hay dos circuitos: el del cátodo y el de la corriente creada. LA conducción de los electrones puede ser a través del vacío desde el emisor a la carga espacial y de esta a la placa, o a través de un gas, produciéndose la ionización de sus moléculas. Esta última tiene las ventajas de que produce mayor corriente, menor impedancia y menor caída de tensión en su interior.
+
+En los diodos hay un flujo de electrones en una sola dirección que constituye la corriente de placa. Van del cátodo a la placa por el interior y de la placa al cátodo por el exterior. Se llama resistencia de placa a la resistencia que ofrece la válvula al paso de las corriente en la placa.
+
+La tensión que hay entre los extremos del diodo depende de la tensión aplicada a los electrodos cuando conducen corriente. 
+
+En los diodos hay dos clases de corriente: la de la placa que es el resultado de la emisión de electrones por el cátodo y la de caldeo que es la que calienta el filamento. Si el diodo no está caliente no se pueden aplicar ambas al mismo tiempo por peligrar el cátodo.
+
+Corriente place media es la corriente que puede conducir un tiempo sin calentarse excesivamente y la corriente placa máxima es la corriente máxima instantánea que puede adquirir la placa. 
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
