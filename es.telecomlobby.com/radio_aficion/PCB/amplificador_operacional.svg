@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="amplificador_operacional" width="100%" height="100%"  viewBox="-6 -6 563 427">
+<desc>
+XCircuit Version 3.9
+File "amplificador_operacional" Page 1
+</desc>
+<g stroke="black">
+<path d="M256,313 L364,229 256,145 256,313 z" fill="none" stroke-width="3" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M256,293 L224,293 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M256,165 L224,165 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M364,229 L384,229 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix(   1    0   -0    1 272 177)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="-12" y="6">&#8722;</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 272 281)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="-11" y="10">+</tspan>
+</text></g>
+<path d="M224,165 L80,165 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M224,293 L80,293 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M368,229 L464,229 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M304,37 L304,181 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix( 0.8    0   -0  0.8   0 149)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Entrada</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8  16 277)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Entrada</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 320  21)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">+ Vss</tspan>
+</text></g>
+<path d="M304,277 L304,421 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix( 0.8    0   -0  0.8 336 421)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">- Vss</tspan>
+</text></g>
+<g transform="matrix( 0.8    0   -0  0.8 480 213)" fill="#000000" >
+<text stroke="none" font-family="Times" font-size="40" ><tspan x="0" y="0">Salida</tspan>
+</text></g>
+</g>
+</svg>
