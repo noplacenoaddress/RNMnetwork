@@ -244,6 +244,12 @@ La curva característica es una representación gráfica de los valores de tensi
 
 Se denomina triodo a un dispositivo termoiónico de tres electrodos. Es como un diodo con un tercer electrodo, la rejilla que se sitúa entre el cátodo y el ánodo. La tensión aplicada a la rejilla hace que el flujo de electrones desde el cátodo al ánodo sea mayor y menor. Esto es muy interesante pues aplicando una señal de muy débil intensidad entre cátodo y rejilla podemos conseguir que la variación del flujo de electrones entre éste y el ánodo sea muy grande. Es decir, con una pequeña tensión controlamos una gran corriente, es decir amplifica la señal de entrada.
 
+También puede utilizarse para más funciones, por ejemplo como oscilador, pero su función más importante es la de amplificar. Los parámetros importantes del triodo y en  general de todas las válvulas termoiónicas de tres o más electrodos son:
+
+La curva característica de rejilla, que es el diagrama que se obtiene con los valores de intensidad de corriente de placa o ánodo en función de los potenciales aplicados a la rejilla.
+
+El factor de amplificación `μ` que se define como el potencial que habría que variar en el ánodo para producir en su corriente el mismo efecto que se obtendría al variar una unidad el potencial de la rejilla. Así un factor de amplificación `μ=6`, significa que la variación de corriente de placa cuando variamos `1v` el potencial de rejilla, es la misma que produciría al variar 6 voltios la tensión de placa.
+
 
 
 ## Bibliografía
