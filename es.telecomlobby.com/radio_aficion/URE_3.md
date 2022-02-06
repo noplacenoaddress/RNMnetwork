@@ -145,6 +145,12 @@ El funcionamiento del [transistor de efecto de campo](https://es.wikipedia.org/w
 
 Tienen tres terminales, denominadas puerta, drenador y fuente. La puerta es el terminal equivalente a la base del bipolar. El transistor de efecto de campo se comporta como un interruptor controlador por tensión donde el voltaje aplicado a la puerta permite hacer que fluya o no corriente entre drenador y fuente.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/transistor_FET.svg)
+
+Así como los bipolares se dividen en NPN y PNP los de efecto de campo o FET son también de dos tipos: canal N y canal P, dependiendo de si la aplicación de una tensión positiva en la puerta pone al transistor en esta de conducción o no conducción, respectivamente. Los transistores de efecto de campo MOS se usan ampliamente en electrónica digital, y son el componente fundamental de los circuitos integrados o digitales. Los FET son unipolares y en ellos la conducción no la determina una corriente de entrada sino un campo eléctrico que opera sobre el cristal, permitiendo o impidiendo el paso de la corriente. No precisan base ni corriente de base.
+
+#### 3.5.2 Circuitos amplificadores con transistores bipolares.
+
 
 
 ## Bibliografía
