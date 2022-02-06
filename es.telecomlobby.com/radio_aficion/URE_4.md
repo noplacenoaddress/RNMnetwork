@@ -1,6 +1,6 @@
 # Elementos de radioelectricidad
 
-![](http://www.astrosurf.com/luxorion/Radio/rtx-yaesu-ft-1000mp-mark-v.jpg)
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/rtx-yaesu-ft-1000mp-mark-v.jpg)
 
 ## Bibliografía
 
