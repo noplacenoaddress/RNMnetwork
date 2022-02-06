@@ -168,6 +168,14 @@ Los principales parámetros del transistores a considerar en estos tres circuito
 
 
 
+En el montaje en emisor común la entrada de la señal se aplica a la base y la salida se obtiene en el colector. Las ganancias de tensión y corrientes son muy altas, obteniéndose una alta ganancia de potencia.
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/amplificador_basecomun.svg)
+
+En base común la entrada es aplicada al emisor y la salida se obtiene en el colector. LA ganancia de tensíon es grande y la ganancia de corriente es aproximadamente 1.
+
+
+
 
 
 ## Bibliografía
