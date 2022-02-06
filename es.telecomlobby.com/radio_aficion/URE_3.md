@@ -114,9 +114,37 @@ Los transistores están formados por un «sandwich» de dos tipos de semiconduct
 
 El dispositivo comúnmente llamado [transistor](https://es.wikipedia.org/wiki/Transistor) o más propiamente transistor bipolar o BJT fue llamado así por la propiedad que tiene de cambiar la resistencia al paso de la corriente eléctrica entre el emisor y el colector. El transistor tiene tres partes, una que emite portadores, <u>emisor</u>, otra que lo recibe o recolecta, <u>colector</u>, y la tercera, que está intercalada entre las dos primeras, modula el paso de dichos portadores, <u>base</u>.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/transistor_NPN.svg)
 
+El transistor requiere una polarización entre la base y el emisor en el sentido de la conducción.  En los bipolares, una pequeña señal eléctrica aplicada entre la base y emisor modula la corriente que circula entre emisor y colector. La señal base emisor puede ser muy pequeña en comparación con la emisor colector.
+
+La corriente emisor-colector tiene aproximadamente la misma forma que la base-emisor pero amplificada en un factor de amplificación denominado β. El transistor se utiliza, por lo tanto, como amplificador. Además como todo amplificador puede [oscilar](https://es.wikipedia.org/wiki/Oscilaci%C3%B3n), puede usarse como oscilador y también como rectificador y como conmutador on off.
+
+Al funcionar el transistor como interruptor electrónico, se aplica esta propiedad en el diseño de algunos tipos de memorias y de otros circuitos.
+
+El factor de amplificación β de un transistor es llamado ganancia de corriente:
+$$
+\begin{align*}
+factor\space amplificación\space=\space \frac{Variación\space de\space intensidad\space en\space el\space colector}{Variación\space de\space intensidad\space en\space la\space base} \\\\
+ganancia\space de\space tensión\space en \space transistor \space = \space \frac{Tensión\space de \space salida}{Tensión \space de \space entrada}
+\end{align*}
+$$
+Luego la ganancia de potencia en un transistor es igual a la ganancia de corriente o factor de amplificación multiplicada por la ganancia de tensión.
+
+#### 3.5.1 Transistor de efecto de  campo versus bipolar (voltaje versus corriente inducida).
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/59/ATI_Radeon_X1650_Pro_-_Alpha_%26_Omega_Semiconductor_D414-4362.jpg)
+
+El funcionamiento del [transistor de efecto de campo](https://es.wikipedia.org/wiki/Transistor_de_efecto_campo) o FET es distinto del bipolar ya descrito. La puerta no absorbe corriente en absoluto, frente a los bipolares donde la corriente que atraviesa la base nosiempre puede ser despreciada. Los [MOSFET](https://es.wikipedia.org/wiki/Transistor_de_efecto_de_campo_metal-%C3%B3xido-semiconductor), además, presentan un comportamiento capacitivo muy acusado que hay que tener en cuenta para el análisis y diseño de circuitos. Los más utilizados son:
+
+- [JFET](https://es.wikipedia.org/wiki/JFET)
+- MOSFET
+- MISFET
+
+Tienen tres terminales, denominadas puerta, drenador y fuente. La puerta es el terminal equivalente a la base del bipolar. El transistor de efecto de campo se comporta como un interruptor controlador por tensión
 
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Euskal Herriko Unibertsitatea](http://www.ehu.es/), Industri Ingeniaritza Teknikorako Unibertsitate Eskola, [Curso de Electrónica Básica en Internet](http://www.sc.ehu.es/sbweb/electronica/elec_basica/)
+
