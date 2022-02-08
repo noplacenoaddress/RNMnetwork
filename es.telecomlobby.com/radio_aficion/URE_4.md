@@ -37,6 +37,8 @@ La regulación se consigue con un componente disipativo regulable, con un conmut
 
 El filtro tiene por objeto convertir la `CC` pulsante en `CC` tan pura como sea posible.
 
+#### 4.1.1 Circuitos de rectificación de media onda, onda completa y rectificador en puente.
+
 
 
 ## Bibliografía
