@@ -1467,6 +1467,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 6/2/2022 13:47 Francesca torture, only torture and torture a little bit more. This bitch cannot stop to torture me, I really need that someone stop this monster that have destroyed the life of a lot people that I've known in my life because the heavy use of the human trade network, the modern slavery network hidden behind civilian broadcast FM systems.  
 - 6/2/2022 18:31 I'm victim of human trade, because of that I don't finish my university but I'm a great IT technician and IT business man. I was sold from Francesca family to another noble in Catalunya to do a startup of an IT firm without knowing it. All had gain money, also my family. Because in human trade families are totally guilty. Now I'm studying laws about my work and about radioham to do a great complaint against those two people that pertain to nobility and Church orders. **Francesca** doesn't stop a minute to torture me, help.
 - 6/2/2022 23:35 **Francesca** and **Aurora** as I go to sleep stalk, torture, harass me. Help
+- 7/2/2022 22:56 Aurora nad francesca follow to torture me. help.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
