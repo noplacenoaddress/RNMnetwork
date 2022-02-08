@@ -40,6 +40,8 @@ La carga eléctrica es un estado de desequilibrio entre el número de electrones
 
 #### 1.1.4 Conductores, semiconductores y aislantes.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/FLFZu0aXsAExduO.jpeg)
+
 Las capas más externas de la corteza del átomo si no están semillenas o sea a tener menos del 50% de su capacidad de electrones existe el peligro de abandono de estos en dichas capas; toman el nombre de electrones libres. Un cuerpo conductor de electricidad es una sustancia compuesta por átomos cuya capa más externa no llega a estar semillena de electrones asegurando así el paso de la **[corriente](https://es.wikipedia.org/wiki/Corriente_el%C3%A9ctrica)** que otra cosa no es que un flujo de electrones libres desde un cuerpo con carga negativa a otro con carga positiva.
 
 Los metales tienen una pequeña energía de ionización, tienden a tener un gran número de electrones libres y por ello son buenos conductores de la electricidad. Un aislador o aislante lo forma sustancias que presentan gran resistencia a que las cargas que las forman se desplacen y por tanto no conducen, en condiciones normales, la electricidad.
