@@ -17,11 +17,25 @@ Pueden ser de dos tipos según la tecnología empleada:
 - Lineales: trabajan en régimen lineal.
 - [Conmutadas](https://es.wikipedia.org/wiki/Fuente_conmutada): Trabajan en régimen de conmutación. 
 
-Todas ellas pueden tener sistemas de control analógicos o digitales. Todas ellas parten de CA para obtener una tensión continua con un bajo nivel de [rizado](https://es.wikipedia.org/wiki/Rizado).
+Todas ellas pueden tener sistemas de control analógicos o digitales. Todas ellas parten de `CA` para obtener una tensión continua con un bajo nivel de [rizado](https://es.wikipedia.org/wiki/Rizado).
 
 Las lineales brindan una mejor regulación, velocidad y mejores características de generación de interferencias. La conmutadas un mejor rendimiento, menor coste menor tamaño y peso.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/Bloques-fuente.png)
+
 Leas lineales constan de tres etapas:
+
+- Etapa de entrada: rectifica la tensión alterna y contiene elementos de protección.
+- Etapa de regulación: dedicada a mantener la salida en los valores deseados.
+- Etapa de salida: su misión es filtrar, controlar, limitar, proteger y adaptar la fuente a la carga a la que este conectada.
+
+El transformador adapta los niveles de tensión y proporciona [aislamiento galvánico](https://es.wikipedia.org/wiki/Aislamiento_galv%C3%A1nico), es decir separación eléctrica entre la red de entrada y el circuito que alimenta.
+
+El rectificador es el circuito que convierte la `CA` en `CC`. 
+
+La regulación se consigue con un componente disipativo regulable, con un conmutador del secundario del transformador mediate un circuito electrónico o mezclas de dos o más de estos métodos.
+
+El filtro tiene por objeto convertir la `CC` pulsante en `CC` tan pura como sea posible.
 
 
 
