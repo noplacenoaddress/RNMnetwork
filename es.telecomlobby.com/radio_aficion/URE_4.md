@@ -120,6 +120,8 @@ La salida puede ser también un filtro de condensador o uno de tipo `LC`.
 
 Por su forma de funcionamiento requieren que su diseño tenga en cuenta las necesidades de aislamiento y generación de señales espurias de RF.
 
+La entrada en vigor en 2001 de la [norma](https://es.wikipedia.org/wiki/Norma_UNE) ES 605555-2 sobre el factor corrector de potencia ha obligado a nuevos desarrollos. El principal motivo de esta normativa es que por la forma de trabajo de las fuentes de alimentación conmutadas, suelen generar distorsiones en la línea eléctrica pudiendo influir en el funcionamiento de otros equipos electrónicos conectados. Las fuentes de alimentación con PFC «Power Factor Correction» principalmente reducen los armónicos re inyectados a la red mediante un filtro activo que corrige la forma de la onda de la corriente de entrada haciéndola sinusoidal y en fase con la tensión. 
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
