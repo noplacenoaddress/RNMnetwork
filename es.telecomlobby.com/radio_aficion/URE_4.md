@@ -94,7 +94,31 @@ Para corregir este tipo de problemas se emplean dos técnicas distintas:
 
 #### 4.1.4 Fuentes de alimentación conmutadas, aislamiento y EMC (compatibilidad electromagnética).
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/c2ec4c96-compatibilidade_eletromagnetica_es.jpg)
 
+Las fuentes de alimentación conmutadas son las utilizadas en casi todos los tipos de sistemas diseñados y vendidos hoy en día. Reemplazan las antiguas fuentes de alimentación lineales que eran más grandes menos eficaces y más costosas.
+
+Las fuentes conmutadas son tan pequeñas y livianas porque utilizan transformadores mucho más pequeños, pero mucho más eficientes la hacerlos funcionar en vez de a `50Hz` a varias decenas de `kHz` de ahí su posibilidad de crear interferencias.
+
+Su tecnología es una de las razones por las que los equipos modernos son más pequeños, se calientan menos y son más económicos. Constan como mínimo de:
+
+- rectificador
+- conmutador
+- transformador
+- otro rectificador 
+- salida
+
+Son convertidores `CC-CC` por lo que la tensión de red debe ser previamente rectificada y filtrada con una amplitud de rizado aceptable, en un rectificador de entrada. 
+
+La regulación se obtiene con el conmutador, normalmente un [circuito PWM](https://es.wikipedia.org/wiki/Modulaci%C3%B3n_por_ancho_de_pulsos)  que cambia el ciclo de trabajo.
+
+Las funciones del transformador son las mismas que para fuentes lineales pero su posición es diferente. 
+
+El segundo rectificador convierte la señal alterna pulsante que llega del transformador en un valor continuo.
+
+La salida puede ser también un filtro de condensador o uno de tipo `LC`.
+
+Por su forma de funcionamiento requieren que su diseño tenga en cuenta las necesidades de aislamiento y generación de señales espurias de RF.
 
 ## Bibliografía
 
