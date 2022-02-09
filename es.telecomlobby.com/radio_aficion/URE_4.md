@@ -202,6 +202,36 @@ Belio\space=\space logaritmo\space de\space = \space \frac{Potencia\space de\spa
 \end{align*}
 $$
 
+El efecto amplificador se denomina ganancia. La ganancia de un transistor de puede referir a tensión o corriente. Cuando en lugar de aumento se produce una disminución de tensión o corriente se llamará atenuación. La ganancia de potencia expresará la relación entre la potencia de salida y la de entrada, midiéndose en [decibelios](https://es.wikipedia.org/wiki/Decibelio). 
+
+El belio `B` y su submúltiplo el decibelio son unidades logarítmicas utilizadas para expresar la razón o valor relativo entre dos magnitudes de la misma naturaleza como por ejemplo dos potencias.
+
+Por razones prácticas se usa generalmente el decibelio y el número de decibelios que corresponden a una determinada relación de potencia que se calcula con:
+$$
+\begin{align*}
+dB\space =\space 10log_{10}\frac{P_s}{P_e}
+\end{align*}
+$$
+siendo `Pe` la potencia de la señal en la entrada del dispositivo y `Ps`  la potencia de la señal a la salida del mismo. Si hay ganancia de señal, amplificación, la cifra en decibelios será positiva, mientras que si hay pérdida atenuación será negativa. 
+
+La eficacia de un circuito vendrá dada por la fórmula antes indicada. El objetivo es obtener potencia de alguna otra forma que no sea disipar calor. El circuito será tanto más eficaz, cuanto mayor sea su ganancia expresada en `dB`. En un circuito en el que intervienen varios amplificadores, las ganancias individuales expresadas en decibelios se suman.
+
+#### 4.2.2.1 Relación de potencia correspondiente a los siguientes valores en decibelios: 0DB, 3dB, 6dB, 10 dB y 20dB tanto en valores positivos como negativos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d9/10log_x_and_x.svg)
+
+- 0dB equivale a una relación de potencias de 1.
+- 3dB de 2.
+- 6dB de 4.
+- 10dB de 10.
+- 20 dB de 100.
+
+Cuando hablamos de amplificadores hablaremos de `dBW`, `dBm` o `dBu`.
+
+En términos de potencia utilizaremos el [dBW](https://es.wikipedia.org/wiki/DBW). Se toma como referencia 1 vatio. Al vatio corresponden 0 dBW y si el valor expresado es muy pequeño se usa el milivatio como referencia usando entonces la expresión [dBm](https://es.wikipedia.org/wiki/DBm).
+
+Cuando se toma como referencia la tensión, el dBu expresa el nivel de señal en decivelios y referido a 0,7746 V, tensión definida por [Comisión Electrotécnica Internacional](https://es.wikipedia.org/wiki/Comisi%C3%B3n_Electrot%C3%A9cnica_Internacional).
+
 
 
 ## Bibliografía
