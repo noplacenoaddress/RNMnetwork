@@ -184,6 +184,14 @@ Tienen niveles de distorsión similares a los de clase AB con un elevado rendimi
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/espectro.jpg)
 
+Para amplificar [bajas frecuencias](https://es.wikipedia.org/wiki/Baja_frecuencia)  o [audio frecuencias](https://es.wikipedia.org/wiki/Espectro_audible) entra 16 y 20000 hercios interesa que no aparezcan distorsiones, importa más la reproducción fil que el rendimiento de potencia.
+
+Parecería lógico usar preferente amplificadores de clase A pero en audio solo se usan en procesos de pequeña señal o equipos de muy alta gama. Actualmente la mayor parte de las [etapas de potencia](https://es.wikipedia.org/wiki/Etapa_de_potencia) son en clase D, donde con una gestión digital de la señal se obtienen valores de distorsión más bajos que en clase A. En los equipos de radioaficionado los amplificadores de audio suelen ser en clase AB.
+
+Los amplificadores para [altas frecuencias](https://es.wikipedia.org/wiki/Onda_corta) se caracterizan por estar diseñados de tal manera que tienen circuitos sintonizados resonantes en la entrada y la salida de la señal es decir los elementos del circuito deben resonar a la frecuencia que se quiere amplificar. Como la resonancia implica amplificación a una sola frecuencia ya no tienen tanta importancia la distorsión. Se eliminan las frecuencias indeseadas y por sintonía variable puede cambiarse la frecuencia de trabajo. Solo se pueden emplear amplificadores en clase C para [CW](https://es.wikipedia.org/wiki/Onda_continua) o [FM](https://es.wikipedia.org/wiki/Frecuencia_modulada), en [AM](https://es.wikipedia.org/wiki/Amplitud_modulada) y sus derivados es preceptiva la case AB o como mínimo la clase B, amplificadores lineales.
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
