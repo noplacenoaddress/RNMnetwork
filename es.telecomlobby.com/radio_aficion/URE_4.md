@@ -53,7 +53,20 @@ Durante el primer semiciclo o semiperiodo postivo la polaridad del ánodo es pos
 | ![](https://upload.wikimedia.org/wikipedia/commons/9/91/Tensi%C3%B3n_sinusoidal.png) | ![](https://github.com/redeltaglio/RNMnetwork/raw/master/es.telecomlobby.com/radio_aficion/PCB/rectificador_ondacompleta.png) | ![](https://upload.wikimedia.org/wikipedia/commons/3/37/Tensi%C3%B3n_rectificada_onda_completa.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+El rectificador de onda completa convierte la totalidad de la forma de onda de entrada en una polaridad constante en la salida mediante la inversión de las porciones negativas o positivas de la forma de onda de entrada. Las porciones positivas o negativas se combinan en las inversas para producir una forma de onda continua únicamente en un semiciclo. 
 
+La tensión es rectificada durante el primer semiciclo por el diodo `D1` y durante el segundo por el diodo `D2` de forma que a la carga `R` le llega una tensión continua pulsante muy impura ya que no está filtrada ni estabilizada. 
+
+En este circuito tomamos el valor de potencial cero en la toma intermedia del secundario del transformador.
+
+| ![](https://upload.wikimedia.org/wikipedia/commons/9/91/Tensi%C3%B3n_sinusoidal.png) | ![](https://upload.wikimedia.org/wikipedia/commons/3/34/Diodebridge-eng.gif) | ![](https://upload.wikimedia.org/wikipedia/commons/3/37/Tensi%C3%B3n_rectificada_onda_completa.png) | ![](https://upload.wikimedia.org/wikipedia/commons/8/8b/Diode_bridge.svg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+El [rectificador en puente](https://es.wikipedia.org/wiki/Puente_rectificador) es un rectificador de onda completa que pero no necesita de un transformador con toma central.
+
+Monta cuatro diodos `D1`, `D2`, `D3` y `D4`. Tenemos que durante el semiciclo en que el punto superior del secundario del transformador es positivo con respecto al inferior de dicho secundario, la corriente circula a través de `D1`, `R` y `D4` y en el punto inferior del secundario.  En el semiciclo siguiente, cuando el punto superior del secundario es negativo y el inferior positivo la corriente circula por `D2`, `R` y `D3` y el punto superior del secundario. En este caso circula corriente por la carga `R` y en el mismo sentido en el os dos semiciclos con lo que se aprovechan ambos y se obtiene una corriente rectificada más uniforme que en el caso del rectificador de media, donde durante un semiciclo se interrumpe la circulación de corriente por la carga. 
+
+En ambos tipos de rectificadores de onda completa, la forma de onda de la corriente rectificada de salida, será la de una corriente continua pulsatoria, pero con una frecuencia de pulso doble de la corriente alterna de alimentación. 
 
 ## Bibliografía
 
