@@ -254,7 +254,23 @@ No hay que confundir la distorsión por intermodulación con la distorsión por 
 
 #### 4.2.5 Acoplamientos en amplificación
 
-A veces se precisan varios pasos para la amplificación alimentados cada uno por el anterior
+![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/63d4ece5-70a0-4fb8-9d3b-ffbd2280a711.jpeg)
+
+A veces se precisan varios pasos para la amplificación alimentados cada uno por el anterior, formando un amplificador de varios pasos.
+
+El acoplamiento entre dos pasos permite la conexión de sus circuitos para la recíproca transferencia de su energía. El acoplamiento puede ser por inducción mutua, electromagnético, por capacidad, electrostático, o por impedancia común (resistencia, autoinducción, capacidad o circuito sintonizado).
+
+Se llama acoplamiento crítico al límite de acoplamiento entre dos circuitos sintonizados, rebasado el cual la curva de resonancia se desdobla. 
+
+Se llama acoplamiento de reacción o regenerativo al que permite transferir a los circuitos anteriores al que permite transferir a los circuitos anteriores parte de la energía de los siguientes.
+
+Se llama acoplamiento débil o flojo al acomplamiento cuyo coeficiente es inferior al de acomplamiento crítico. Acoplamiento fuerte es el que lo supera.
+
+En el acoplamiento directo se conecta la salida de un paso amplificadore directamente a la entrada del siguiente.
+
+
+
+Se llama acoplamient
 
 ## Bibliografía
 
