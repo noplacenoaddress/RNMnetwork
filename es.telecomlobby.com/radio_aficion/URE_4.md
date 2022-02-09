@@ -190,6 +190,18 @@ Parecería lógico usar preferente amplificadores de clase A pero en audio solo 
 
 Los amplificadores para [altas frecuencias](https://es.wikipedia.org/wiki/Onda_corta) se caracterizan por estar diseñados de tal manera que tienen circuitos sintonizados resonantes en la entrada y la salida de la señal es decir los elementos del circuito deben resonar a la frecuencia que se quiere amplificar. Como la resonancia implica amplificación a una sola frecuencia ya no tienen tanta importancia la distorsión. Se eliminan las frecuencias indeseadas y por sintonía variable puede cambiarse la frecuencia de trabajo. Solo se pueden emplear amplificadores en clase C para [CW](https://es.wikipedia.org/wiki/Onda_continua) o [FM](https://es.wikipedia.org/wiki/Frecuencia_modulada), en [AM](https://es.wikipedia.org/wiki/Amplitud_modulada) y sus derivados es preceptiva la case AB o como mínimo la clase B, amplificadores lineales.
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/push-pull-2-300x271-5218095.png)
+
+Un tipo de amplificador de potencia, útil para ambos casos, es el llamado en [contrafase](https://es.wikipedia.org/wiki/Salida_en_contrafase) o push-pull. Se compone de transistores colocados tras un inversor 
+
+#### 4.2.2 Ganancia. Relación entre potencia de entrada de salida y eficacia.
+
+$$
+\begin{align*}
+Belio\space=\space logaritmo\space de\space = \space \frac{Potencia\space de\space salida}{Potencia\space de\space entrada}
+\end{align*}
+$$
+
 
 
 ## Bibliografía
