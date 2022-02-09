@@ -264,13 +264,17 @@ Se llama acoplamiento crítico al límite de acoplamiento entre dos circuitos si
 
 Se llama acoplamiento de reacción o regenerativo al que permite transferir a los circuitos anteriores al que permite transferir a los circuitos anteriores parte de la energía de los siguientes.
 
-Se llama acoplamiento débil o flojo al acomplamiento cuyo coeficiente es inferior al de acomplamiento crítico. Acoplamiento fuerte es el que lo supera.
+Se llama acoplamiento débil o flojo al acoplamiento cuyo coeficiente es inferior al de acoplamiento crítico. Acoplamiento fuerte es el que lo supera.
 
-En el acoplamiento directo se conecta la salida de un paso amplificadore directamente a la entrada del siguiente.
+En el acoplamiento directo se conecta la salida de un paso amplificador directamente a la entrada del siguiente.
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/es.telecomlobby.com/radio_aficion/PCB/acomplamiento_sintonizado.svg)
 
+Se llama acoplamiento sintonizado al acoplamiento inductivo conseguido por circuitos resonantes o que llevan como carga uno de tales circuitos. Se ajustan para que resuenen a una frecuencia determinada  y la ganancia es grande. Para las demás frecuencias la ganancia es nula. Hay ganancia de tensión solamente a la frecuencia de resonancia.
 
-Se llama acoplamient
+Los acoplamientos inductivos se usan cuando se requiere una selectividad grande, como un amplificador de frecuencia intermedia de un receptor superheterodino o un amplificador de salida de un transmisor.
+
+Los amplificadores proyectados para amplificar una banda de frecuencia proporcionan una ganancia máxima para la frecuencia central.
 
 ## Bibliografía
 
