@@ -39,6 +39,10 @@ El filtro tiene por objeto convertir la `CC` pulsante en `CC` tan pura como sea 
 
 #### 4.1.1 Circuitos de rectificación de media onda, onda completa y rectificador en puente.
 
+Un [rectificador](https://es.wikipedia.org/wiki/Rectificador) es un circuito que permite convertir la `CA` en `CC`. Por ello se emplean diodos.
+
+Pueden ser de [media onda](https://es.wikipedia.org/wiki/Rectificador_de_monof%C3%A1sico_de_media_onda) cuando solo se utiliza uno de los semiciclos de la CA o de [onda completa](https://es.wikipedia.org/wiki/Rectificador_de_onda_completa) si se aprovechan ambos.
+
 
 
 ## Bibliografía
