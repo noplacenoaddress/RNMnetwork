@@ -122,6 +122,53 @@ Por su forma de funcionamiento requieren que su diseño tenga en cuenta las nece
 
 La entrada en vigor en 2001 de la [norma](https://es.wikipedia.org/wiki/Norma_UNE) ES 605555-2 sobre el factor corrector de potencia ha obligado a nuevos desarrollos. El principal motivo de esta normativa es que por la forma de trabajo de las fuentes de alimentación conmutadas, suelen generar distorsiones en la línea eléctrica pudiendo influir en el funcionamiento de otros equipos electrónicos conectados. Las fuentes de alimentación con PFC «Power Factor Correction» principalmente reducen los armónicos re inyectados a la red mediante un filtro activo que corrige la forma de la onda de la corriente de entrada haciéndola sinusoidal y en fase con la tensión. 
 
+#### 4.2 Amplificadores. Polarización. Clases A. AB, B y C.
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/49/MFR317_FM_amp.jpg)
+
+| ![]() | ![]() |
+| ----- | ----- |
+
+Un [amplificador](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico) es un dispositivo que entrega una señal de mayor amplitud que la que recibe sin modificar sensiblemente su forma de onda. Los transistores pueden funcionar como amplificadores dado que, pequeñas variaciones de energía en la entrada, son capaces de producir grandes cambios de corriente en el colector, desarrollando en el circuito de salida una energía mayor que la recibida.
+
+El circuito transfiere la energía procedente de una fuente de alimentación a la señal presente el la entrada que se ve así reproducida y aumentada en el circuito de salida. Aumenta la señal sin modificar la forma de la onda. 
+
+La resistencia de carga es mucho mayor que la resistencia interna y la amplitud de la señal de entrada es pequeña, en comparación con la de salida.
+
+Un [amplificador de tensión](https://es.wikipedia.org/wiki/Amplificador_operacional) se diseña para lograr que una pequeña variación presente en la tensión en la entrada, produzca una gran variación en la tensión en la salida. Esto supone un elevado valor de la impedancia de carga a a salida. Contrariamente un amplificador de corriente se diseña con una carga de baja impedancia para conseguir una corriente de slaida muy intensa.
+
+Un transistor amplifica `I`, `E` o `W`. Se entiende que cuando amplifica `I` o `E` también amplifica `W` por `W = EI`.
+
+Polarizar un amplificador significa fijar las tensiones e intensidades de señal en sus terminales de modo que el dispositivo opere, de acuerdo con sus características, en un punto de trabajo concreto que deseemos. 
+
+Corriente y tensión de reposo en amplificadores son la corriente y tensión en estado régimen cuando no existe señal de entrada. en estas condiciones solo circula la corriente de polarización.
+
+El punto de trabajo representa las condiciones de reposo. Podemos decir que polarización, corriente reposo y punto de trabajo representan lo mismo. En radiofrecuencia tratándose señales no moduladas en amplitud no importa demasiado la distorsión porque los circuitos resonantes del amplificador están sintonizados a la frecuencia de trabajo en una banda muy estrecha y solo dejan pasar la frecuencia que se quiere amplificar.
+
+Los condensadores a la entrada y salida de circuitos amplificadores sirven para obstaculizar la componente continua.
+
+Al polarizar un transistor es cuando se fija la forma de trabajo. La polarización de uno tipo `PNP` no es igual a un `NPN` y en general podemos decir que unión base - emisor se polariza directamente y la unión base - colector inversamente.
+
+Al polarizar un transistor podemos situarle dentro de una de sus tres zonas de trabajo: corte, saturación y activa.
+
+En la zona de corte no circula intensidad por la base luego la intensidad de colector y emisor también es nula. La tensión entre colector y emisor es la de la fuente usada y el transistor, entre colector y emisor, se comporta como un interruptor abierto.
+
+Se encuentra en la zona de saturación cuando por la base circula una intensidad y hay un incremento de la corriente de colector importante y en este caso el transistor, entre colector y emisor, se comporta como un interruptor cerrado. Cuando trabaja en la zona de corte y la de saturación se dice que trabaja en conmutación como si fuera un interruptor.
+
+En la zona activa actúa como amplificador. 
+
+Podemos considerar solo cuatro tipos de circuitos: clase A, clase B, clase AB y clase C:
+
+![![]()](https://upload.wikimedia.org/wikipedia/commons/9/9b/Electronic_Amplifier_Class_A.png)
+
+[Clase A](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_A): es el más lineal de todos pero su rendimiento es muy bajo oscilando entre el 20 y 30 % de la potencia de alimentación aplicada. Se pretende conseguir máxima ganancia de tensión. Para ello, la impendancia de carga, se hace tan alta como sea posible con lo cual mayor parte de la tensión generada aparecerá en la carga. La forma de onda a la salida es igual que a la de entrada. 
+
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/72/Electronic_Amplifier_Push-pull.png)
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
