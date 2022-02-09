@@ -182,7 +182,7 @@ Tienen niveles de distorsión similares a los de clase AB con un elevado rendimi
 
 #### 4.2.1 Amplificadores de LF y HF
 
-
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/espectro.jpg)
 
 ## Bibliografía
 
