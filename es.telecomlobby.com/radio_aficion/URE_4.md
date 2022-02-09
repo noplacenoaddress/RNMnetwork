@@ -68,6 +68,34 @@ Monta cuatro diodos `D1`, `D2`, `D3` y `D4`. Tenemos que durante el semiciclo en
 
 En ambos tipos de rectificadores de onda completa, la forma de onda de la corriente rectificada de salida, será la de una corriente continua pulsatoria, pero con una frecuencia de pulso doble de la corriente alterna de alimentación. 
 
+#### 4.1.2 Circuitos de filtrado
+
+La `CC` que se obtiene a la salida de los rectificadores es pulsante, resulta adecuada para la mayoría de las aplicaciones electrónicas ya que tiene un rizado. Para evitar este inconveniente se procede a un filtrado para eliminar al rizado. El filtrado consiste en la reducción del rizado a un valor mucho más pequeño que la señal de salida de la fuente y se realiza mediante circuitos de filtro, generalmente con configuración en «PI»  formada por un condensador, una bobina de alta inductancia y poca resistencia y otro condensador con lo que se consigue una salida de `CC` utilizable en los distintos circuitos que alimente.
+
+Los condensadores se cargan al valor máximo de tensión entregada por el rectificador y se descargan lentamente cunado la señal pulsante desaparece. Producen pues, junto con la bobina, una gran disminución del rizado.
+
+#### 4.1.3 Circuitos de estabilización y regulación en fuentes de bajo voltaje.
+
+La tensión continua disponible a la salida del rectificador puede que varía su valor ante un cierto tipo de perturbaciones, como variaciones de la tensión de entrada, de la carga o de la temperatura.
+
+En estos casos se necesitan circuitos de regulación o estabilización para conseguir que la tensión continua a utilizar sea lo más constante posible. 
+
+Lo ideal sería que la tensión de salida fuera constante para cualquier condición del circuito pero esto es imposible debido a que:
+
+- La tensión de red puede llegar a tener variaciones de hasta el 20% de su valor nominal.
+- El circuito de carga conectado al rectificador puede absorber más o menos corriente. Al aumentar la corriente por la carga, la tensión de salida disminuirá debido a la caída en la resistencia del transformador y la de los diodos.
+- En la salida aparece un cierto rizado.
+- Cuando se utilizan dispositivos semiconductores, la tensión de salida varia con la temperatura.
+
+Para corregir este tipo de problemas se emplean dos técnicas distintas:
+
+- <u>Fuentes estabilizadas</u>: consiguen la estabilización del valor de salida tensión o corriente utilizando directamente la característica de un dispositivo electrónico.
+- <u>Fuentes reguladas</u>: consiguen la estabilización de la magnitud de salida mediante un sistema de control o de realimentación negativa que corrige automáticamente le valor a la salida.
+
+#### 4.1.4 Fuentes de alimentación conmutadas, aislamiento y EMC (compatibilidad electromagnética).
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
