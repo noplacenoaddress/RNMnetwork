@@ -168,6 +168,22 @@ Podemos considerar solo cuatro tipos de circuitos: clase A, clase B, clase AB y 
 
 
 
+[Clase B](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_B): rinde entre el `60` y `65%` su linealidad es baja pero también es adecuando para nuestros equipos. En este tipo de amplificadores se persigue obtener la máxima potencia de salida posible. Se precisan altos valores de la corriente de colector, por lo que la impedancia de la carga será baja y la señal de entrada deberá ser mayor que su polarización durante una parte de su ciclo. Estos amplificadores, en radio frecuencia, se conocen también con el nombre de amplificadores lineales ya que se ajustan para que la potencia de salida sea proporcional al cuadrado de la tensión de entrada. En la amplificación de clase B la corriente de salida solo circula en los semiciclos positivos de la señal de entrada. Solo conduce si la polarización es directa. Hay una distorsión elevada y si no hay señal de entrada no hay salida.
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Electronic_Amplifier_Class_C.png)
+
+[Clase C](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_C): llega al alcanzar hasta un `85%` de rendimiento pero su linealidad es muy deficiente. La corriente de salida solo circula durante menos de medio ciclo de la señal de entrada lo que da lugar a gran distorsión, pero su rendimiento y potencia son elevados. En ellos la corriente de salida solo se establece por impulsos. Se utilizan en los transistores porque ofrecen gran rendimiento cuando están sintonizados a la frecuencia de la señal de entrada. No pueden usarse en audio o bajas frecuencias por su nula linealidad, aunque podrían utilizarse en aplicaciones que no la requieran. El diseño del circuito de entrada se realiza teniendo en cuenta que las adaptaciones entre la salida del paso anterior y la entrada del amplificador tengan las mínimas pérdidas posibles, es decir, que su impedancia sea la misma. Análogamente se hace con el circuito de salida.
+
+El rendimiento de un amplificador es el cociente entre la potencia que suministra el amplificador y la potencia que le aporta la fuente de alimentación.
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Pwm_amp_espa%C3%B1ol.svg)
+
+Tienen niveles de distorsión similares a los de clase AB con un elevado rendimiento energético, superior al `95%`, lo que reduce el tamaño de los disipadores de calor necesarios, y por tanto el tamaño y peso general del circuito. La razón de esto es que su funcionamiento se asa en la conmutación entre dos estados, con lo que los dispositivos de salida siempre se encuentran en zonas de corte o de saturación. Al igual que las fuentes de alimentación conmutadas exigen un riguroso blindaje para no generar interferencias.
+
+#### 4.2.1 Amplificadores de LF y HF
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
