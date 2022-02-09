@@ -216,7 +216,7 @@ siendo `Pe` la potencia de la señal en la entrada del dispositivo y `Ps`  la po
 
 La eficacia de un circuito vendrá dada por la fórmula antes indicada. El objetivo es obtener potencia de alguna otra forma que no sea disipar calor. El circuito será tanto más eficaz, cuanto mayor sea su ganancia expresada en `dB`. En un circuito en el que intervienen varios amplificadores, las ganancias individuales expresadas en decibelios se suman.
 
-#### 4.2.2.1 Relación de potencia correspondiente a los siguientes valores en decibelios: 0DB, 3dB, 6dB, 10 dB y 20dB tanto en valores positivos como negativos.
+#### 4.2.2.1 Relación de potencia correspondiente a los siguientes valores en decibelios: 0dB, 3dB, 6dB, 10 dB y 20dB tanto en valores positivos como negativos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d9/10log_x_and_x.svg)
 
@@ -230,9 +230,31 @@ Cuando hablamos de amplificadores hablaremos de `dBW`, `dBm` o `dBu`.
 
 En términos de potencia utilizaremos el [dBW](https://es.wikipedia.org/wiki/DBW). Se toma como referencia 1 vatio. Al vatio corresponden 0 dBW y si el valor expresado es muy pequeño se usa el milivatio como referencia usando entonces la expresión [dBm](https://es.wikipedia.org/wiki/DBm).
 
-Cuando se toma como referencia la tensión, el dBu expresa el nivel de señal en decivelios y referido a 0,7746 V, tensión definida por [Comisión Electrotécnica Internacional](https://es.wikipedia.org/wiki/Comisi%C3%B3n_Electrot%C3%A9cnica_Internacional).
+Cuando se toma como referencia la tensión, el dBu expresa el nivel de señal en decibelios y referido a 0,7746 V, tensión definida por [Comisión Electrotécnica Internacional](https://es.wikipedia.org/wiki/Comisi%C3%B3n_Electrot%C3%A9cnica_Internacional).
 
+#### 4.2.3 Características de amplitud / frecuencia y ancho de banda 
 
+Las características amplitud / frecuencia dependen de los modos de funcionamiento, ya se trata de clase A, clase B, clase AB o clase C.
+
+En un circuito amplificador la ganancia de señal es una variable dependiente de la frecuencia, osea que le factor de amplificación no es igual para cada una de las frecuencia de las señales de entrada.
+
+El ancho de banda del amplificador es solo el rango de frecuencias de señal dentro del cual la ganancia permanece relativamente constante. En un amplificador de banda ancha se amplificaran todas la frecuencias posibles dentro del paso banda permitido por el diseño mientras que en uno sintonizado solo serán amplificadas aquellas que correspondan a la frecuencia de resonancia del amplificador que es muy estrecha. 
+
+#### 4.2.4 Armónicos y distorsión de intermodulación, sobremodulación de las etapas del amplificador 
+
+Cuando una corriente o tensión experimenta una variación con el tiempo se produce un campo electromagnético.  Una onda senoidal produce un campo electromagnético de una sola frecuencia, cualquier deformación en la misma genera frecuencias armónicas de esa frecuencia y estas señales no deseadas pueden afectar el funcionamiento correcto del equipo y de otros equipos distintos del que las genera.
+
+Si un amplificador trabaja fuera delas condiciones que hacen que su respuesta sea lineal estaremos produciendo toda una serie de señales no deseadas.
+
+Los armónicos son producidos por circuitos no lineales, lo cual significa que se respuesta no es constante y pueden llegar a un punto de saturación a partir del cual se deforma la onda, lo que ya hemos visto trae consigo la generación de armónicos y se produce distorsión armónica. Si nos encontramos con señales de crecimiento y caídas rápidas nos indica la presencia de armónicos de alta frecuencia. Lo mismo ocurre con las señales producidas por sistemas de conmutación, puentes de diodos rectificadores, circuitos lógicos, etc. Se denomina [distorsión por intermodulación](https://es.wikipedia.org/wiki/Distorsi%C3%B3n_por_intermodulaci%C3%B3n_de_transistores) a la interferencia causada por la distorsión y que se produce cuando dos o más señales atraviesan simultáneamente un sistema no lineal, es decir, aparecen a la salida del sistema otras señales de entrada y de los armónicos que también se hayan podido generar por la falta de lienalidad del sistema.
+
+Ningún sistema es completamente linea, todos tienen un cierto nivel de distorsión por intermodulación. Niveles altos de distorsión en un sistema pueden llegar a hacer ininteligible una señal.
+
+No hay que confundir la distorsión por intermodulación con la distorsión por la emisión de armónicos. 
+
+#### 4.2.5 Acoplamientos en amplificación
+
+A veces se precisan varios pasos para la amplificación alimentados cada uno por el anterior
 
 ## Bibliografía
 
