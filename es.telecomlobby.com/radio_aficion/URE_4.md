@@ -126,9 +126,6 @@ La entrada en vigor en 2001 de la [norma](https://es.wikipedia.org/wiki/Norma_UN
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/MFR317_FM_amp.jpg)
 
-| ![]() | ![]() |
-| ----- | ----- |
-
 Un [amplificador](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico) es un dispositivo que entrega una señal de mayor amplitud que la que recibe sin modificar sensiblemente su forma de onda. Los transistores pueden funcionar como amplificadores dado que, pequeñas variaciones de energía en la entrada, son capaces de producir grandes cambios de corriente en el colector, desarrollando en el circuito de salida una energía mayor que la recibida.
 
 El circuito transfiere la energía procedente de una fuente de alimentación a la señal presente el la entrada que se ve así reproducida y aumentada en el circuito de salida. Aumenta la señal sin modificar la forma de la onda. 
@@ -161,9 +158,11 @@ Podemos considerar solo cuatro tipos de circuitos: clase A, clase B, clase AB y 
 
 ![![]()](https://upload.wikimedia.org/wikipedia/commons/9/9b/Electronic_Amplifier_Class_A.png)
 
-[Clase A](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_A): es el más lineal de todos pero su rendimiento es muy bajo oscilando entre el 20 y 30 % de la potencia de alimentación aplicada. Se pretende conseguir máxima ganancia de tensión. Para ello, la impendancia de carga, se hace tan alta como sea posible con lo cual mayor parte de la tensión generada aparecerá en la carga. La forma de onda a la salida es igual que a la de entrada. 
+[Clase A](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_A): es el más lineal de todos pero su rendimiento es muy bajo oscilando entre el `20` y `30%` de la potencia de alimentación aplicada. Se pretende conseguir máxima ganancia de tensión. Para ello, la impendancia de carga, se hace tan alta como sea posible con lo cual mayor parte de la tensión generada aparecerá en la carga. La forma de onda a la salida es igual que a la de entrada. 
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/Amplificador%20clase%20AB.jpg)
 
+[Clase AB](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_AB): una combinación de las `A` y `B`. La corriente de salida circula entre medio ciclo y el ciclo completo de la señal de entrada. Hay una pequeña distorsión. Su rendimiento es del orden del `50%`, un poco menos lineal que el `A` pero también utilizable.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/72/Electronic_Amplifier_Push-pull.png)
 
