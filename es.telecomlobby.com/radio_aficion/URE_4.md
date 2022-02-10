@@ -276,7 +276,12 @@ Los acoplamientos inductivos se usan cuando se requiere una selectividad grande,
 
 Los amplificadores proyectados para amplificar una banda de frecuencia proporcionan una ganancia máxima para la frecuencia central.
 
+
+
+
+
 ## Bibliografía
 
 - Libro de examen de radioaficionado, Luis Alarcón Palencia `EA4DXP`
 - [Luxorion](http://www.astrosurf.com/luxorion/menu-qsl.htm), `LX4SKY`
+- [Alta frecuencia y radiotecnia](https://books.google.es/books/about/Alta_frecuencia_y_radiotecnia.html), Hans Teuchert 1971
