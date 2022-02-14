@@ -1470,6 +1470,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 7/2/2022 22:56 **Aurora** and **Francesca** follow to torture me. help.
 - 8/2/2022 16:51 **Francesca** and **Aurora** as usual torture and humiliate me all day long. 
 - 8/2/2022 23:30 I go to sleep and as usual, **Andreu** use the Nazi method. Mount theater in my neural torture instance of the human trade network to archive misunderstand by the target about what he is really doing: torture. Sleep deprivation and internal organs electroshock. Very similar to what had passed prisoners in Abu Ghrai but for four years and a half.
+- 15/2/2022 00:04 I'm tired to write about all the days. Because program of torture from marquees **Francesca** is always the same. Torture, sleep deprivation, internal organs electroshock, humiliations. By the way I'm very secure that this years 2022 Interpol will stop the electronic administrated human trade network. I'm totally sure.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
