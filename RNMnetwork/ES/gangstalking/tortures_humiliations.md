@@ -1473,6 +1473,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 15/2/2022 00:04 I'm tired to write about all the days. Because program of torture from marquees **Francesca** is always the same. Torture, sleep deprivation, internal organs electroshock, humiliations. By the way I'm very secure that this years 2022 Interpol will stop the electronic administrated human trade network. I'm totally sure.
 - 19/2/2022 15:31 I remember to all my readers that **Francesca** and **Andreu** don't stop a minute to torture, humiliate and sexual harass me in the human trade network.
 - 21/2/2022 09:30 wake up in the morning, I start to work. **Francesca** and **Andreu** using a little component of Camorra start to threat me. It's impossible to archive working in this country destroyed by Franquism. 
+- 21/2/2022 18:46 Francesca doesn't stop a minute to torture and sexual harass me.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
