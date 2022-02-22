@@ -1474,6 +1474,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 19/2/2022 15:31 I remember to all my readers that **Francesca** and **Andreu** don't stop a minute to torture, humiliate and sexual harass me in the human trade network.
 - 21/2/2022 09:30 wake up in the morning, I start to work. **Francesca** and **Andreu** using a little component of Camorra start to threat me. It's impossible to archive working in this country destroyed by Franquism. 
 - 21/2/2022 18:46 Francesca doesn't stop a minute to torture and sexual harass me.
+- 22/2/2022 22:33 Francesca doesn't stop to torture me.
+- 22/2/2022 00:00 I go to sleep, and Francesca follow and follow and follow to torture me. STOP THIS MONSTER. This terrorist is sexual harass me every day, every minute, every second. STOP .
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
