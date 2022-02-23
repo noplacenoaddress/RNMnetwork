@@ -1477,6 +1477,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 22/2/2022 22:33 **Francesca** doesn't stop to torture me.
 - 22/2/2022 00:00 I go to sleep, and **Francesca** follow and follow and follow to torture me. STOP THIS MONSTER. This terrorist is sexual harass me every day, every minute, every second. STOP .
 - 23/2/2022 08:00 night full of torture. Theta wave alteration with the streaming of a sexual abuse and death threat by Mafia. Stop **Francesca** please.
+- 23/2/2022 22:19 as usual night come and I cannot work with calm because of torture. Always Francesca. I'm so tired to be tortured by this monster that thinks that because her surname could torture, could do crimes against humanity using a technology. Because this technology is difficult to prove she is permitting her self to torture me from 27 of November 2017. Please help. This is a message from a victim of the human trade business, administrated by electromagnetic weapons hided behind civilian broadcast FM systems used to enslave people. Help.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
