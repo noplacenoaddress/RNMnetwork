@@ -1483,7 +1483,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 25/2/2022 01:23 I cannot sleep as all the weekends. **Aurora** and **Francesca** put microvolts charges in my heart speaking about cocaine, Mafia, traffic, death treat, health diseases. STOP THIS CARTEL OF HUMAN TRADE BASED ON GENOA.
 - 25/2/2022 10:51 **Francesca** follow to torture, torture and torture after all night long she follows to interference my neural activity with this stupid technology. Analog brain wave modulated behind civilian broadcast FM system. Electronic torture. With this system she administrate the human trade network with her cartel composed by important families of Genoa like shareholders, business man from Swiss, Monaco and san Marino to hide benefits, a group of hacking lead by Sardinian mafia, mafia from Camorra, Cosa Nostra and Ligurian racket and a big mafia man from Catalonia deeply involved with Vaticano, Fraquism and fair right. They own the human trade cartel of the Mediterrean area.   
 - 26/2/2022 00:23 **Francesca** follow to torture. Like every weekend, the only reality is that this woman think that I couldn't work because of her Mafia threat. Insects that work for this cartel of torture. Insect, nothing more.
-- 27/2/2022 22:23 **Francesca** use this network also to apply micro charges directly to my heart. 
+- 27/2/2022 22:23 **Francesca** use this network also to apply micro charges directly to my heart. As usual follow to threat me with Cosa Nostra, probably Stidda, that work for her in human trade. I'm very tired that a surname considered like "heroes" for the Italian Republic are in reality a human trader, involved in Fascism, and a terrorist.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
