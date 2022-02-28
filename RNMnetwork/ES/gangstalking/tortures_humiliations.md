@@ -1485,6 +1485,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 26/2/2022 00:23 **Francesca** follow to torture. Like every weekend, the only reality is that this woman think that I couldn't work because of her Mafia threat. Insects that work for this cartel of torture. Insect, nothing more.
 - 27/2/2022 22:23 **Francesca** use this network also to apply micro charges directly to my heart. As usual follow to threat me with Cosa Nostra, probably Stidda, that work for her in human trade. I'm very tired that a surname considered like "heroes" for the Italian Republic are in reality a human trader, involved in Fascism, and a terrorist.
 - 28/2/2022 21:35 as night come **Francesca** follow her stupidity, the flowchart dictated by the human trade program that her family and her selves had inserted my person many years ago. This monster, this moron, doesn't understand that she will, with all her family, jailed for life. Bye bye stupid, bye bye. You and the modern slavery network, the human trade network rented as a service. Bye bye. 
+- 28/2/2022 22:57 And as I go to sleep she starts to think about my asshole and my dick. With her stupid remote brain machine interface she torture every night. She activates electromagnetic weapons pointing to different electromagnetic fields stimulated always by the same weapons. Doing so she sexual harass me every night. STOP THIS MONSTER. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
