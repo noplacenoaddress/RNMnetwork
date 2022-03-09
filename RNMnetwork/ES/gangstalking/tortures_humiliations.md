@@ -1501,6 +1501,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 8/3/2022 **Aurora** follow to humiliate me. She is copying continuously the voice of one ex girlfriend of mine. As I understand that this system is used also to administrate B side, mafia, corruption and I don't ever know what else she is acting as it was a joke from radio system. This system is hided behind FM broadcast big civilian installations. This stupid doesn't understand that this system how is used upon myself is human trade, is torture and all together represent for me a concentration camp where I was and I am exploited. 
 - 8/3/2022 21:42 **Francesca** follow to torture and to threat me with being beat by some Mafia that rent the service from her family. Service of what? Mafia management using electromagnetic weapons.
 - 9/3/2022 11:07 It's two days that **Francesca** have rise the level of torture. This idiot think that people lost confidence in themselves to commit suicide. This monster and her crew of assassins  call this "a work". They are operators in human trade, a service rented together with technology from the family of Francesca.
+- 9/3/2022 16:09 Francesca is heavy torturing me. Sexual harassment, voice to skull, electroshock and neural interference. This stupid after 90 pages of torture think that she, and all her family, doesn't will be put in jail for life. Nice job Francesca. Very nice to be a marquees. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
