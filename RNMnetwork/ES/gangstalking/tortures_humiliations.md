@@ -1515,6 +1515,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 16/3/2022 12:30 **Francesca** and **Andreu** follow to use the figure of some Italian Mafia to treat myself of be beaten. They have already order to those people to do this, they follow their orders because the terrorism of aristocracy. Aristocracy rent service transmitted from the electromagnetic weapons to Mafia, they cover them with corruption so they can do black market but they have to work in human trade for aristocracy. This is how it works. The reality is that they aren't able to do black market without serving those corrupted nobles. It's more simple, they don't like to work.
 - 17/3/2022 18:34 **Francesca** start to heavy sexual abuse of me.
 - 18/3/2022 06:00 **Francesca** wake up me with heavy electroshock torture. She is applying to my stomach micro charges from two days I've got a lot of problem of diarrhea.
+- 18/3/2022 21:43 Francesca as usual has tortured me all day long, mafia and hacking threat etcetera etcetera.
+- 20/3/2022 08:41 **Francesca** follow with her program about victims of European human trade that have survived to the first psychological and mafia attach headed in Catalunya by Andreu, a franquist that poison low and worker class with drugs and fair right. He dress as a Mafia but probably is a military service. Her program consist in continuous sexual harass,  putting doubts about all the environment of the victim and his capabilities, trouble a lot him work because of tiredness provoked by electronic torture. Her goal is extreme marginalization. Fucking terrorist you've got to be jailed for life.  
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
