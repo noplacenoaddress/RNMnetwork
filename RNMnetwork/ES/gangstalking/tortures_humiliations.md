@@ -1521,6 +1521,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 21/3/2022 Because in march is my birthday, **Francesca** and **Andreu** have organized for me, a citizen, a "techno" session. For techno they mean Mafia threats, using figures of relevance in them Mafia and terrorism group, torture and so on. Why they call techno, because they are poisoning also the techno music. They are extremist of the Catholic Church they poison society. With techno they add also hacking, but not hacking that is an art, they use cracking and ddos and as I'm little wireless internet service provider is tedious. They follow to threat with kidnap, beating and death. They doesn't understand that in Europe there is no place but jails for Mafia.
 - 21/3/2022 **Andreu**, one of the most stupid and ignorant person that I've seen in my life, follow to threat me that he will kill and beat me. This ignorant, a parasite that work in the black market and in human trade licking the ass of nobles, doesn't understand that there is no place in this country for franquism. 
 - 21/3/2022 **Francesca** follow to masturbate myself to try to disturb my work and to got exited. This terrorist use electromagnetic weapons to violate people without any senses. 
+- 21/3/2022 18:10 she follows to sexual harass me.
+- 22/3/2022 00:57 I go to sleep and after all day long that this monster is thinking about my dick with this weapon and its fucking brain machine interface used by Francesca to torture and this terrorist, this torture, this Mafia, this fair right extremist is following to think about my dick with her bands of torturer and little level Mafia. STOP THIS MONSTER.
+
+
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
