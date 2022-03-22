@@ -1522,7 +1522,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 21/3/2022 **Andreu**, one of the most stupid and ignorant person that I've seen in my life, follow to threat me that he will kill and beat me. This ignorant, a parasite that work in the black market and in human trade licking the ass of nobles, doesn't understand that there is no place in this country for franquism. 
 - 21/3/2022 **Francesca** follow to masturbate myself to try to disturb my work and to got exited. This terrorist use electromagnetic weapons to violate people without any senses. 
 - 21/3/2022 18:10 she follows to sexual harass me.
-- 22/3/2022 00:57 I go to sleep and after all day long that this monster is thinking about my dick with this weapon and its fucking brain machine interface used by Francesca to torture and this terrorist, this torture, this Mafia, this fair right extremist is following to think about my dick with her bands of torturer and little level Mafia. STOP THIS MONSTER.
+- 22/3/2022 00:57 I go to sleep and after all day long that this monster is thinking about my dick with this weapon and its fucking brain machine interface used by **Francesca** to torture and this terrorist, this torture, this Mafia, this fair right extremist is following to think about my dick with her bands of torturer and little level Mafia. STOP THIS MONSTER. And she saying "why don't you commit suicide". This monster pertains to Jesuits. This monster is abusing the figure of Christ. Below the protection of a lot of part of the Catholic Church because of money laundering and sexual abuses, also child abuse, those two monsters follow to torture, sexual harass and force to prostitution an enormous number of womans.  
 
 
 
