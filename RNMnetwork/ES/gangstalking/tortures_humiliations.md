@@ -1531,6 +1531,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 27/3/2022 12:06 As usual **Francesca** torture without any senses. 
 - 27/3/2022 22:25 The day is finishing. As usual I've worked very interfered all day long, as night come **Francesca** grow persecution up using Cosa Nostra, and who she is calling her general: one hacker from Sardinia. She is applying to my neck micro charges to put bad states into my mind. This family of pederast got to be stopped. Please HELP international police.
 - 28/3/2022 07:30 As the day start **Francesca** and her crew of torturer start to electroshock myself, next Mafia threats. All of those, use this basic radio service and they start to think to be criminals from then they was young. Only because they know how it works. What? Slavery build above broadcast FM civilian installation; all about money, simple money because they cannot work; poor stupid.
+- 28/3/2022 09:30 **Francesca** doesn't stop to electroshock my self applying a lot of micro charges to my face.
 
 
 
