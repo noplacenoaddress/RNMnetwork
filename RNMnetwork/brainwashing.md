@@ -44,6 +44,8 @@ Brainwashing has the first step to end in suicide, passing for sexual exploitati
 
 It refer to the act of "dissociate", remember that ketamine is a dissociative, in conjunction with "accept programming instructions." Recently someone have do it with myself, a man of 41 years. So amusing. 
 
+Is very interesting the fact that the figure of Walt Disney is connected from FBI and CIA to nazism, pedophilia, mind control and so on. Who was Walt Disney? I don't know what I can suppose that he was without any doubt an enormous business man. How it is possible that all these shit is what I was suffered? And from I was young? How can noble know what a man can do in power? Why nobles destroy with always the same shit life of people that could build something good in their environment? What the hell they think that they are? I really don't understand.  
+
 ### External links
 
 1. https://en.wikipedia.org/wiki/TV_format
