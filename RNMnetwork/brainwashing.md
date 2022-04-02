@@ -38,7 +38,11 @@ After a three years of brainwashing phase conducted in the remote neural monitor
 
 
 
-#### Brainwashing has the first step to end in suicide, passing for sexual exploitation
+Brainwashing has the first step to end in suicide, passing for sexual exploitation. I refer to one phrase that you can found in a [good article [8]](https://www.coreysdigs.com/trafficking/exposing-the-keys-to-disneys-operations-and-agenda/) about Walt Disney and the fact that part of him works was used by CIA in middle '70 in the mind control program, part of the cold war:
+
+"Films like Wizard of Oz and Alice in Wonderland were reportedly a staple in mind control programming, as the imagery optimized the traumatized victim’s ability *to dissociate and accept programming instructions*."
+
+It refer to the act of "dissociate", remember that ketamine is a dissociative, in conjunction with "accept programming instructions." Recently someone have do it with myself, a man of 41 years. So amusing. 
 
 ### External links
 
@@ -49,3 +53,4 @@ After a three years of brainwashing phase conducted in the remote neural monitor
 5. https://en.wikipedia.org/wiki/Conditional_(computer_programming)
 6. https://en.wikipedia.org/wiki/OCaml
 7. https://en.wikipedia.org/wiki/Malice_aforethought
+8. https://www.coreysdigs.com/trafficking/exposing-the-keys-to-disneys-operations-and-agenda/
