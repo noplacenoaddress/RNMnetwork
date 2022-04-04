@@ -2081,6 +2081,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 4/4/2022 07:00 **Francesca** apply to my stomach electrical charges all night long provoking gases and bad felling. Than she have waked up myself with electroshock.  
 
+- 4/4/2022 17:03 **Andreu** without any problems say: "This monster, **Francesca**, is your owner." Dear Andreu, slavery have been condemned by United Nation as a crime against humanity. You're very very misunderstood. 
+
   
 
 
