@@ -2083,6 +2083,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 4/4/2022 17:03 **Andreu** without any problems say: "This monster, **Francesca**, is your owner." Dear Andreu, slavery have been condemned by United Nation as a crime against humanity. You're very very misunderstood. 
 
+- 5/4/2022 07:30 Francesca and Andreu with this technology let the victim think that all people that they know are guilty. Pay attention many is true that are connected to the same instance of human trade, but in reality they are also victims. Others is true that are guilty because participate in state terrorism, Cosa Nostra in primis. In Catalunya almost all people immigrate here were "opened" in this network, but them persecution isn't like the mine. They are not tortured all the time. They don't speak exactly about. But yes they know what is it. They are not guilty at all. High class families of Genoa, gain money from this fascist persecution, so yes they are guilty. By the way, Francesca had wake me at 5:30 am, with electroshock. Now she torture me with a lot of voice to skull and impersonating people that I know. Why? Isolation and be less secure into themselves because of bad work performance and inducted drug addiction. 
+
+- 5/4/2022 10:40 Francesca follow to torture, to humiliate, and so on. STOP THIS MONSTER.
+
   
 
 
