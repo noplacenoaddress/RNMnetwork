@@ -2089,6 +2089,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 5/4/2022 13:08 **Francesca** doesn't stop a minute to think about my penis. Result is that i'm sexual tortured all day long. She while is thinking use DEW above it. I'm very, extremely tired, to be tortured in 2022 in what is have to be a democratic state. A state of Europe. Now, I'm European, it's absolutely impossible that #ModernSlavery, the result of the global human trade network, is active transmitted using modules added into FM broadcast civilian installation. It's cannot be possible.
 
+- 5/4/2022 23:11 **Andreu** use a method that works to put myself in a bad eye to others victims or not of the Carlcelona camp. The method is simple, he produces a neural interference to the normal state of mind of the victim with an image that you've previously seen in Internet for example. Brain after some time remember in some way like automatically the subject. Andreu do it in a perfect timing, as you're speaking about other think, sometimes speaking in a bad way like is normal because you're state of victim, you terminate speaking in a bad way of the subject that he inject in your visual cortex. This is how he thinks to put in trouble to the victim; physical trouble. I think that this method is the one used in killing crimes in US, where guns are so simple to find. Why he does it? Because in reality he is not a criminal or a gangster, here  he acts in this way. **I think that he is a military service that operate in Catalunya for political reason**. He always says here that him surname is one of the biggest nobles houses of this country. 
+
   
 
 
