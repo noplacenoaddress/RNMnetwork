@@ -2091,6 +2091,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 5/4/2022 23:11 **Andreu** use a method that works to put myself in a bad eye to others victims or not of the Carlcelona camp. The method is simple, he produces a neural interference to the normal state of mind of the victim with an image that you've previously seen in Internet for example. Brain after some time remember in some way like automatically the subject. Andreu do it in a perfect timing, as you're speaking about other think, sometimes speaking in a bad way like is normal because you're state of victim, you terminate speaking in a bad way of the subject that he inject in your visual cortex. This is how he thinks to put in trouble to the victim; physical trouble. I think that this method is the one used in killing crimes in US, where guns are so simple to find. Why he does it? Because in reality he is not a criminal or a gangster, here  he acts in this way. **I think that he is a military service that operate in Catalunya for political reason**. He always says here that him surname is one of the biggest nobles houses of this country. 
 
+- 6/4/2022 14:15 I just go to the bed to do a little "siesta", Francesca immediately sexual harass me, and use voice to skull torture to don't let me relax a little bit. I'm tremendously tired to be tortured from who the Italian state call "hero" . This is family of fair right and torturer not heroes.  
+
+- 6/4/2022 20:50 **Francesca** start to sexual harass me. This terrorist start thinking about the edge of my dick and weapons move upon it. Sensation are like micro charges and it is very noisy, I cannot concentrate clearly. It's five years that this monster rapes me. Help me.
+
   
 
 
