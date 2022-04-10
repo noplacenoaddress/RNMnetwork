@@ -2091,6 +2091,22 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 5/4/2022 23:11 **Andreu** use a method that works to put myself in a bad eye to others victims or not of the Carlcelona camp. The method is simple, he produces a neural interference to the normal state of mind of the victim with an image that you've previously seen in Internet for example. Brain after some time remember in some way like automatically the subject. Andreu do it in a perfect timing, as you're speaking about other think, sometimes speaking in a bad way like is normal because you're state of victim, you terminate speaking in a bad way of the subject that he inject in your visual cortex. This is how he thinks to put in trouble to the victim; physical trouble. I think that this method is the one used in killing crimes in US, where guns are so simple to find. Why he does it? Because in reality he is not a criminal or a gangster, here  he acts in this way. **I think that he is a military service that operate in Catalunya for political reason**. He always says here that him surname is one of the biggest nobles houses of this country. 
 
+- 6/4/2022 14:15 I just go to the bed to do a little "siesta", Francesca immediately sexual harass me, and use voice to skull torture to don't let me relax a little bit. I'm tremendously tired to be tortured from who the Italian state call "hero" . This is family of fair right and torturer not heroes.  
+
+- 6/4/2022 20:50 **Francesca** start to sexual harass me. This terrorist start thinking about the edge of my dick and weapons move upon it. Sensation are like micro charges and it is very noisy, I cannot concentrate clearly. It's five years that this monster rapes me. Help me. While she is raping me she is saying, I'm doing it because you cannot have babies. Francesca the only true is that you're doing it because you're totally mad. You're doing it because of parimutuel betting system at long term. You're totally crazy and a terrorist.
+
+- 7/4/2022 07:14 Francesca start to stalk, torture and humiliate my person in this instance of the human trade network where she play to kill a victim for betting and gambling. All the little Italian investigations and arrests about those subjects and Mafia, Cosa Nostra, are in reality administrated by her with the human trade network.
+
+- 7/4/2022 21:24 Francesca start as usual to stalk about my work, about the fact that after her enormous thief with Cosa Nostra, Camorra and a lot of families from Genoa I've got low money, in how I've got to fight every day to do new clients after that she and all her gang of Mafia had sell me and play over my head parimutuel betting system to let me commit suicide. In this mode her family and Cosa Nostra clean money, with gambling. I've lived also a flash kidnap only because those pedophiles clean money destroying victim of human trade. 
+
+- 8/4/2022 All night long dream injection because today I want to put flier of my business in a new site. They work actively using other torturer who torture to don't let me work in my passion. IT networking. Francesca is only the visible point of an iceberg of crimes against humanity. This is IMPOSSIBLE to accept in our Europe.
+
+- 9/4/2022 14:36 Like all the days Francesca follow to torture, stalk, death treat, speak about Cosa Nostra copying the shape of a fellow, speak about hacking, speak about cocaine. Now, in her madness, she is speaking about also the death of him brother. STOP THIS MONSTER.
+
+- 9/4/2022 Francesca start with Aurora, a stupid that work in high level engeneering because of favors from the corrupted military family of Francesca, to heavy torture, to speak about mafia, to speak about drug abuse, to speak about traffic to don't let me relax Saturday afternoon. Those two morons, one born in millions that with this machine of torture have develop or participate in develop to what is known as trans-humanism, better saying Nazism or terrorism, the other a stupid with an obsession of domination, are torturing me from 5 years all day long. 
+
+- 10/4/2022 It's weeks that my work, wireless internet service provider, is under DDOS in one of my internet access, in Interxion Madrid. **Francesca** in her crew of terrorism, got a couple of hackers. One from Sardinia is very known and expert and resell his ddos net to Francesca to attach my little work. 
+
   
 
 
