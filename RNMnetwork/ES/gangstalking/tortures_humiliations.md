@@ -2107,7 +2107,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/4/2022 It's weeks that my work, wireless internet service provider, is under DDOS in one of my internet access, in Interxion Madrid. **Francesca** in her crew of terrorism, got a couple of hackers. One from Sardinia is very known and expert and resell his ddos net to Francesca to attach my little work. 
 
-- 10/4/2022 14:30 Francesca affirm that she has got suicide a lot of people following her program of human trade. This program of human trade is the same that have seen death two mans from Genoa that I've known in my life. The same program is the one applied to myself, and is classified as number "9".
+- 10/4/2022 14:30 **Francesca** affirm that she has got suicide a lot of people following her program of human trade. This program of human trade is the same that have seen death two mans from Genoa that I've known in my life. The same program is the one applied to myself, and is classified as number "9".
+
+- 10/4/2022 19:24 **Aurora** follow to torture, speaking that if I take drugs, (when little drug addicted ?) my father will let me put in a psychiatric hospital, like as usual for victims of gas light and gangstalking where some doctors corrupted will receipt me heavy drugs, and then I will die for suicide. This bitch has killed Cristian, a good man that commit suicide, or better was killed, by those criminals that work for Francesca.
 
   
 
