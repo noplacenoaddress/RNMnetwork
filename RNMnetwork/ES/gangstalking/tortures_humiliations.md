@@ -1562,6 +1562,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 11/4/2022 21:30 **Francesca** just saying mean while she is torturing my penis: "my life is killing you".
 - 12/4/2022 08:36 **Francesca** is affirm while she is applying electroshock to my self that my life is destroyed by her family. Because this month I've got to pay more taxes and I've a little amount  of money she say that my father will let me suicide.
 - 12/4/2022 11:30 **Francesca** follow to sexual assault my person in the global human trade network using electromagnetic weapons DEW directly over my penis. She simply doesn't stop a minute to do it from years. This monster is using a remote wireless brain machine interface that work with remote interpretation of her neural state. To do this, this terrorist, is thinking about my penis. It's a great pleasure put in jail a marquees that thinks that for her social position could torture a citizens. You're not welcome in the democratic society. The only one that exist in front of the State. I'm the state and you're a terrorist. It doesn't matter your surname.
+- 12/4/2022 16:00 **Francesca** follow to rape me. She is while saying: "you don't pertain to my world, so you will die".
 
 
 
