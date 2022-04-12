@@ -2111,6 +2111,14 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/4/2022 19:24 **Aurora** follow to torture, speaking that if I take drugs, (when little drug addicted ?) my father will let me put in a psychiatric hospital, like as usual for victims of gas light and gangstalking where some doctors corrupted will receipt me heavy drugs, and then I will die for suicide. This bitch has killed Cristian, a good man that commit suicide, or better was killed, by those criminals that work for Francesca.
 
+- 11/4/2022 09:17 **Andreu**, an addicted to amphetamine, follow to torture me with **Francesca**. They speak about drug when they are who move drugs in Catalunya and Liguria. **Andreu** and Francesca are the head of a pyramid based on thief. Thief to life, life of youth.
+
+- 11/4/2022 14:44 **Andreu** follow to threat me about kidnap. He is using the shape of another person present in my application of exploitation where they supposed that I will have to work in slavery like a new man of Mafia. This is how they force people to criminality. 
+
+- 11/4/2022 21:30 **Francesca** just saying mean while she is torturing my penis: "my life is killing you".
+
+- 12/4/2022 08:36 **Francesca** is affirm while she is applying electroshock to my self that my life is destroyed by her family. Because this month I've got to pay more taxes and I've a little amount  of money she say that my father will let me suicide.
+
   
 
 
