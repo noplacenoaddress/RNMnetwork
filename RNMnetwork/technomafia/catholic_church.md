@@ -63,6 +63,14 @@ I call him a hunter. These sectarian serial assassins seek their prey in churche
 
 Europe have to know that nobility is destroying with the Catholic Church support our democracy. Remember that behind all of sectarian and masonic beliefs there is the Catholic Church. Remember that crowns are only puppets of the Church. Crown nowadays are only institutions, the only one that could be considered as strong is the one of Great Britain because they have got their own Church. The **Church of England** [[5]](https://en.wikipedia.org/wiki/Church_of_England). The problem of Europe, the real center of all our problems is the Rome Church. Nothing more. They have invented all about mental illness. All about drug abuse. All about womans abuses. They are Satan in earth but Satan doesn't exist. Satan is the man. Because of this I'm an atheist of left side political vision. Those sons of bitches play with human kind using the concept about the Marconi radio. The think to be important and use the grown ignorance with sexual violence, mass media and Internet manipulation, orgies and sectarian ideas. They create fascism and populism. They are ridiculous.
 
+#### The correct representation of what they have done with my person
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/278183099_10228613224578126_237415473293118025_n.jpg)
+
+Un povero diavolo, un bravo Cristo:
+
+*"Nella follia della guerra, si torna a crocifiggere Cristo. Sì, Cristo è ancora una volta inchiodato alla croce nelle madri che piangono la morte ingiusta dei mariti e dei figli."*
+
 ### External links
 
 1. https://www.wikiwand.com/it/Radio_Vaticana
