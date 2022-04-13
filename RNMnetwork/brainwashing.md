@@ -32,6 +32,16 @@ How they use remote neural monitoring network, different drugs and life manipula
 
 After a three years of brainwashing phase conducted in the remote neural monitoring network by operators stalking, brainwashing with drugs, and loose of principles victims are inserted, depending onto their ages and beauty, into audiovisual industry that is an options. In television programs, nowadays in format. Like the same suggest also those television shows are brainwashing. Young beautiful girls are use to aliment nobles in destructive orgies and extreme sex. 
 
+#### Drugs used to obtain slavery.
+
+Fair right and mental health diseases:
+
+![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/SR_BlitzedCover_Hitlerillustration_RealChangeNews.jpg)
+
+#### Methamphetamine
+
+
+
 #### Ketamine 
 
 ![Ketamine as brainwashing tool](http://telecomlobby.com/Images/brainwhashing_ketamine.webp)
