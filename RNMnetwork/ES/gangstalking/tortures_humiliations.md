@@ -1565,6 +1565,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 12/4/2022 16:00 **Francesca** follow to rape me. She is while saying: "you don't pertain to my world, so you will die".
 - 12/4/2022 19:12 **Andreu**, that when start the physical gang stalking induct people to take amphetamine which of them is totally addicted because they were used as a tool in Nazism and nowadays also in this Franquist facility, start to speak as usual about drug abuse and about the fact that I will die for suicide. This man had killed many people that I've known in my life doing this enormous crime: gaslight, gang stalking and brain washing. He is a mercenary payed by the family of Francesca and others high class and nobles from Genoa, to let kill victim of human trade. Food for those families.
 - 12/4/2022 20:32 Francesca follow to death threat, rape me, kidnap threat using some components of her fair right Mafia, and so on. I'm very tired about this terrorist, she is guilty of crimes against humanity. STOP THIS MONSTER.
+- 13/4/2022 12:29 Speaking with Francesca I simply question to her "why you are torturing me without stopping a minute?" She simply reply "because you've got to wait until I finish having fun".
 
 
 
