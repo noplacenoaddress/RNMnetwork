@@ -34,13 +34,15 @@ After a three years of brainwashing phase conducted in the remote neural monitor
 
 #### Drugs used to obtain slavery.
 
-Fair right and mental health diseases:
+Fair right and mental health diseases, those drugs are used by military involved nobles to create "tortured who torture", *tools* used to grow a lot up the global human trade network.
 
 ![](https://github.com/noplacenoaddress/RNMnetwork/raw/master/Images/SR_BlitzedCover_Hitlerillustration_RealChangeNews.jpg)
 
 #### Methamphetamine
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/download-37.jpg)
 
+Methamphetamine was synthesized in Germany in 1937 and commercially released in 1938. It became a popular stimulant for tired night workers and a recreational drug for young people until mid-1941 when it became a controlled substance. It was abused by the armed forces during World War II when it was distributed by some commanding officers (occasionally over the objections of the units' physicians) to prevent or treat the fatigue of exhausted troops and thus allow them to survive, despite the strict restrictions issued by the Army Inspectorate. There is no evidence for the claim that the use of Pervitin was encouraged by the Nazi government to create a "superman." In fact the Health Leader L. Conti strongly discouraged its use.
 
 #### Ketamine 
 
