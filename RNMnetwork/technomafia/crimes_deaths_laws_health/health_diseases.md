@@ -60,6 +60,10 @@ Acting over those internals organs I fall into dysfunctions that flow into disea
 
 I need help from International police and services. I'm a human not a Guinea pig. 
 
+This is a good list of electronic torture inducted diseases and health problems:
+
+
+
 ### Personals toughs 
 
 ![Personals toughs](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_riccardo_giuntoli.webp)
