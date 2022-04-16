@@ -1,12 +1,12 @@
 # The worldwide neural control network soap
 
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/278441875_10228636462839068_272529570553416678_n.jpg)
+
 From the end of the second world war and mostly in the cold war remote **neural control networks** [[1]](https://en.wikipedia.org/wiki/Electronic_harassment) was developed. 
 
 Nowadays it is a multi layer radio frequency networks which structure is similar to Internet tier division.
 
 It's a soap of different radio service, very complex to analyze because of a smoke curtain covering this type of networks. Why? Because in the past they was utilized by secret services and nowadays are utilized my a digital mafia that hack human brains. Manipulate masses. Change political views. Destroy families. Bet on suicides. The aristocratic cast, the Vatican, audiovisual monsters, big tech facilities and also public and private space companies "play" with this. 
-
-![ULF 342Hz serpent radio wave](http://telecomlobby.com/Images/remote_neural_monitoring_network_ulf_342hz_serpent.webp)
 
 *Something that is destroying the Europe Union and democracy*. *Here is a scheme from a **target individual** [[2]](https://www.youtube.com/channel/UC6tQ8RihaSENODcgjLHtrAg).*
 
