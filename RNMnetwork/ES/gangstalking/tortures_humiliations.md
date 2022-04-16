@@ -69,6 +69,8 @@ First of all I want to speak about that every time that I go to Barcelona and I 
 
 ![](http://egiarizor.eus/files/posts/2019/thumbnails/horizontal-b23d136d802c53442392a8a1e3c9a573argazki300phpjpeg.jpeg)
 
+On 16 of April 2022, Catholic final day of Holy Week known as Holy Saturday, Francesca, who surname is connected directly with Jesuits and considered as heroes by the Italian Republic, is just heavy torturing me saying "you don't understand that my game is try to let you suicide. Full stop. I only torture you to archive this." 
+
 From June 2020 I start to log every type of torture that I received in radio:
 
 - **Sleep deprivation** [[10]](https://en.wikipedia.org/wiki/Sleep_deprivation) at 3:10 AM 12/06/2020.
