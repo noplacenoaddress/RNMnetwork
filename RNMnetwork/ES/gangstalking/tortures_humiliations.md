@@ -2159,6 +2159,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 17/4/2022 15:10 Francesca saying "commit suicide so you will not suffer any more". 
 
+- 17/4/2022 17:45 Francesca: "you don't have to masturbate yourself, you don't have to eat, you don't have work". Francesca you don't have to live in the democratic society, you're a slaver, a sadist, a Mafia, a human trader. You've got to be jailed for life. The she says: "i also don't want that you got babies".
+
   
 
 
