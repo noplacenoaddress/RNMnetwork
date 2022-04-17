@@ -2155,6 +2155,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 17/4/2022 08:00 Wake up with electroshock, a lot of electromagnetic micro charges apply to me ass to provoke meteorism into my intestine. Why? This "program" of human trade that is apply to me is the same to obtain social marginalization, to being a beggar and to let you suicide. So why meteorism? People without a fix site where to live, living in the street, cannot clean them ass and genitals area every day. What pass? That this area, area that could smell a lot, it becomes infected. Then if it will be, Francesca and her gang of parasite of fair right will rages with more torture. Them goal is death. **The beauty of it is that these toxic amphetamine idiots don't get off the "schedule" track.**
 
+- 17/4/2022 13:54 **Francesca** follow obviously to torture, but the true is this night she has sleep. Good girl Francesca! After months! You could have drink something like it was easter and not psychotropic drugs. Good girl Francesca! Now her sick mind say: "Riccardo, why you don't like to live as slave?" Dear stupid military woman, slavery was abolished more than one century ago. Slavery doesn't exist, as you can see, stupid, I'm working in Internet where no one corrupted with state corruption administrated by this network could censor myself. Stupid, this absurd torture is the instrument that we will use to put in jail for life you, shit of nobility. Corrupted nobility, not all obviously are like you.
+
   
 
 
