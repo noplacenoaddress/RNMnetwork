@@ -2157,6 +2157,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 17/4/2022 13:54 **Francesca** follow obviously to torture, but the true is this night she has sleep. Good girl Francesca! After months! You could have drink something like it was easter and not psychotropic drugs. Good girl Francesca! Now her sick mind say: "Riccardo, why you don't like to live as slave?" Dear stupid military woman, slavery was abolished more than one century ago. Slavery doesn't exist, as you can see, stupid, I'm working in Internet where no one corrupted with state corruption administrated by this network could censor myself. Stupid, this absurd torture is the instrument that we will use to put in jail for life you, shit of nobility. Corrupted nobility, not all obviously are like you.
 
+- 17/4/2022 15:10 Francesca saying "commit suicide so you will not suffer any more". 
+
+- 17/4/2022 17:45 Francesca: "you don't have to masturbate yourself, you don't have to eat, you don't have work". Francesca you don't have to live in the democratic society, you're a slaver, a sadist, a Mafia, a human trader. You've got to be jailed for life. The she says: "i also don't want that you got babies".
+
   
 
 
