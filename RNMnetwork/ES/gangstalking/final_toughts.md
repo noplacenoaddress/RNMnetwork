@@ -6,7 +6,7 @@ The program is an enormous narcissistic abuse for fourty years! Your life is abu
 
 #### How to survive to a narcissist abuse?
 
-
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/FQioE3sXIAE2DWj.jpeg)
 
 
 
