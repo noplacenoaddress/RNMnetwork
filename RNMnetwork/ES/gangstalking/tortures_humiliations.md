@@ -2171,6 +2171,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 19/4/2022 16:20 **Francesca** affirm that she is torturing me like a test to join the drug and people traffic of the Genoa city. Francesca I don't sell drugs and obviously I don't sell people.
 
+- 19/4/2022 16:40 **Andreu**: "why you are not ashamed of sex?"
+
   
 
 
