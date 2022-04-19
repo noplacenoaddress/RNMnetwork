@@ -64,7 +64,11 @@ This is a good list of electronic torture inducted diseases and health problems:
 
 ![](https://raw.githubusercontent.com/noplacenoaddress/RNMnetwork/master/Images/FQdbbgmXMAQVAF1.jpeg)
 
-### Personals toughs 
+#### A diagnostic of DEW consequences to a target individual
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/neurocognitive_research_institute.jpg)
+
+#### Personals toughs 
 
 ![Personals toughs](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_riccardo_giuntoli.webp)
 
