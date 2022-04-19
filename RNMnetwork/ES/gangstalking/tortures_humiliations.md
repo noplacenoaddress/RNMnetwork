@@ -2165,7 +2165,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 19/4/2022 08:40 **Francesca** follow to kidnap threat my self using the figure of a sardine Mafia that have taken power after the "anonima sarda" destruction. He is probably a military mercenary that take orders from the Francesca family. People that are using some marina militare fellows to do human trade, mafia, and terrorism of fair right.
 
-- 19/4/2022 14:08 **Francesca** is torturing me, raping me, while **Andrea** is speaking about killing all my family.
+- 19/4/2022 14:08 **Francesca** is torturing me, raping me.
+
+- 19/4/2022 15:00 **Francesca** incite my self to beat or better to fight with Andrea from when I was entered in the modern slavery system. Andrea had act in torturing, humiliation, kidnapping , hacking and others crimes against my physic and probably juridic person. But I don't fall in this shit stupid noble. 
 
   
 
