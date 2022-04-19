@@ -2169,6 +2169,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 19/4/2022 15:00 **Francesca** incite my self to beat or better to fight with Andrea from when I was entered in the modern slavery system. Andrea had act in torturing, humiliation, kidnapping , hacking and others crimes against my physic and probably juridic person. But I don't fall in this shit stupid noble. 
 
+- 19/4/2022 16:20 **Francesca** affirm that she is torturing me like a test to join the drug and people traffic of the Genoa city. Francesca I don't sell drugs and obviously I don't sell people.
+
+- 19/4/2022 16:40 **Andreu**: "why you are not ashamed of sex?"
+
   
 
 
