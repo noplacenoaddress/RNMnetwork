@@ -2161,6 +2161,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 17/4/2022 17:45 Francesca: "you don't have to masturbate yourself, you don't have to eat, you don't have work". Francesca you don't have to live in the democratic society, you're a slaver, a sadist, a Mafia, a human trader. You've got to be jailed for life. The she says: "i also don't want that you got babies".
 
+- 18/4/2022 22:54 Francesca follow to torture all day long. All day with her Mafias, non state actors that are "experts" in hacking. Why? A service of human trade is killing people with good business idea. Killing and sold them in slavery market. Aurora mean while: "why you don't go to sleep." Shut up terrorist, thank you.
+
+- 19/4/2022 08:40 **Francesca** follow to kidnap threat my self using the figure of a sardine Mafia that have taken power after the "anonima sarda" destruction. He is probably a military mercenary that take orders from the Francesca family. People that are using some marina militare fellows to do human trade, mafia, and terrorism of fair right.
+
   
 
 
