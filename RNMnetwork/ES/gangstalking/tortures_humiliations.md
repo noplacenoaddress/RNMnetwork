@@ -2175,6 +2175,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 19/4/2022 23:27 I go to sleep, immediately Francesca rape me, stalk me, sexual harass me. STOP THIS MONSTER.
 
+- 20/4/2022 06:30 wake up for electroshock torture. Probably this marquees, this terrorist, think that I'm Catholic. This moron doesn't stop to electroshock myself and now is 10 am. People cannot work nor cannot think clearly. Listen to me terrorist, STOP using electromagnetic weapons upon my brain.
+
+- 20/4/2022 20:49 **Francesca** with her group of fair right terrorism, something like the B side of the Marina Militare military forces in Italy follow to torture myself. They work in human trade, electronic warfare, crimes against humanity, gang stalking and drug market. I'm so tired to be victim of terrorism by a marquees surname.
+
+- 20/4/2022 22:33 **Francesca** doesn't stop a minute to electroshock my self in front I don't even know how many people. A lot of them nor touch the state of human kind, they're pigs of Nazism. 
+
   
 
 
