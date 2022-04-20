@@ -2173,6 +2173,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 19/4/2022 16:40 **Andreu**: "why you are not ashamed of sex?"
 
+- 19/4/2022 23:27 I go to sleep, immediately Francesca rape me, stalk me, sexual harass me. STOP THIS MONSTER.
+
   
 
 
