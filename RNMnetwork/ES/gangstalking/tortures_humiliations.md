@@ -2181,6 +2181,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 20/4/2022 22:33 **Francesca** doesn't stop a minute to electroshock my self in front I don't even know how many people. A lot of them nor touch the state of human kind, they're pigs of Nazism. 
 
+- 21/4/2022 09:33 **Francesca** in a delirium of sadism because in all of this facility is totally sure that the life of a man with no mental problems and no slavery addictions, start to speak like a baby about my death. Francesca you're the most mental sick person that I've seen in my life. It's incredible how a person that would have lived in a beautiful way because of her position in society, a roulette that you've gained, has destroyed her mind doing the worst crimes against humanity. You've loose humanity. 
+
+- 21/4/2022 11:22 **Francesca** in the delirium that own her mind speaks about that she will let people that work for her beat me. This stupid, in the human trade network, is trying to let me isolate from others because of torture.
+
+- 21/4/2022 14:30 as I'm writing about **Francesca** and group of Mafia, corrupted military that enslave people to create mafia, use torture to compel others to criminality, work in human trade an so on she doesn't stop a minute to repeat to me to not go out and pass a good time. Francesca Mafia is not welcome in Europe. Stupid moron.
+
   
 
 
