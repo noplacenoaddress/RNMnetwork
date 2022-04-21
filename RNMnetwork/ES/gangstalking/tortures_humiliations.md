@@ -2187,6 +2187,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 21/4/2022 14:30 as I'm writing about **Francesca** and group of Mafia, corrupted military that enslave people to create mafia, use torture to compel others to criminality, work in human trade an so on she doesn't stop a minute to repeat to me to not go out and pass a good time. Francesca Mafia is not welcome in Europe. Stupid moron.
 
+- 21/4/2022 19:18 Francesca follow to rape me, follow to threat me speaking about Genoa old mafia. This woman, this monster, think about my penis every single minute of the day. The result is that my penis suffer little electrical charges inside it. Doing this Francesca let people victim of human trade think that they have got sexual problems. Together with the fact that she see with this system with the eyes of the target, that others people here play in parimutuel betting system for humiliations and suicide purposes and the fact that the victim got the brain read also by Mafia, Cosa Nostra and some para military fellows, and live in a menace state and torture, she obtains lack of emotional and sexual relationships that are underlined also by others physically not only in this terroristic system.
+
   
 
 
