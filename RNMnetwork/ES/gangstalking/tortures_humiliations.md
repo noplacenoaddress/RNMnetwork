@@ -2189,6 +2189,14 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 21/4/2022 19:18 Francesca follow to rape me, follow to threat me speaking about Genoa old mafia. This woman, this monster, think about my penis every single minute of the day. The result is that my penis suffer little electrical charges inside it. Doing this Francesca let people victim of human trade think that they have got sexual problems. Together with the fact that she see with this system with the eyes of the target, that others people here play in parimutuel betting system for humiliations and suicide purposes and the fact that the victim got the brain read also by Mafia, Cosa Nostra and some para military fellows, and live in a menace state and torture, she obtains lack of emotional and sexual relationships that are underlined also by others physically not only in this terroristic system.
 
+- 21/4/2022 23:33 Francesca rape me, rape me and rape me. Apply charges to my ass and to my penis. Start to use domination words. Aurora stalk me, she the engineer of the human trade network, better saying the instance of human trade network transmitted above my head like a torture environment. I don't even know how much persons does this woman kill using this technology. Kill working for Francesca and her family.
+
+- 22/4/2022 09:00 Francesca wake up me with electroshock torture at 7 am. Then as usual start to heavy torture me with her psychological methods using this absurd technology that they use to enslave people.
+
+- 22/4/2022 14:0 I've gained a little bit of money Francesca immediately start to speak about cocaine. Her method is start speaking about drug saying to not take them. Francesca I'm 41 years and I'm not addicted to nothing. Francesca you don't sleep from years, you're the more toxic person that I've seen in my life.
+
+- 23/4/2022 04:20 Today is the birthday of my mommy. REM phase manipulation with a man that I would have helped to go out from the human trade network, that was manipulated to criminality, to be a Camorra fellow, by nobility and with the woman that I was in love to many years ago that act in my systematic destruction of life because she is also a victim of human trade, a human trade purposes that no one speak about, to prostitution with last goal of homicide inducted, suicide business, something always nobility related. To form of cohaccion to obtain those "machines", are beating and fear of Cosa Nostra for him, sexual violence, fear for the health of her baby, impossibility to stay with her and other enormous abuses. Next sleep deprivation another kind of torture and a lot of v2k with the only goal to put sadness in me. But at 6:30 am my alarm will sound and I will go to install another client in my personal, own business. I'm not a slave fucking nobility. I'm not a slave old friends that was enslaved. I'm not a slave, fuck you.
+
   
 
 
