@@ -2201,6 +2201,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 23/4/2022 Aurora follow to underline that I'm always alone. saying that Europe is this way because a drug addicted, an idiot of 50 kg, had done to me a mini gas light here in sant pere. Aurora, son of a bitch, the Vatican Mafia, the mafia of human trade, the mafia administrated by some nobles where you work because of your professional, not so much, career, is like this. Europe is democracy. Fuck you. Francesca follow to say while she is raping me that this is a mode to enter in the adult stage of man. Francesca, monster, this is the human trade network with final goal of drug selling for you , nobles, mafia, suicide business and a lot of siht more, always for you fucking nobles. Go to work.
 
+- 23/4/2022 23:00 I go to sleep Francesca and Aurora rape me, doing sexual violence to me, start to speak about craziness to let people loose believe into themselves. They use a method that with voice injection let the victim start to think about strangeness that would explain this crime against humanity. The only reason that you're terrorist sons of terrorist. Full stop. Those people simply are professional to let people commit suicide, those instances in the human trade network after have been instances of exploitation for different s purposes become torture and death. those two bitches I don't even known how many young persons have killed here. Youth destroyed by nobility for exploitation, cold war, terrorism and autocrat dictatorship purposes. Those bitches are dogs of high level nobility, have transformed themselves into womans of fair right. Terrorism.
+
   
 
 
