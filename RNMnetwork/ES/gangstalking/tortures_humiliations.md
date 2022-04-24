@@ -2203,6 +2203,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 23/4/2022 23:00 I go to sleep Francesca and Aurora rape me, doing sexual violence to me, start to speak about craziness to let people loose believe into themselves. They use a method that with voice injection let the victim start to think about strangeness that would explain this crime against humanity. The only reason that you're terrorist sons of terrorist. Full stop. Those people simply are professional to let people commit suicide, those instances in the human trade network after have been instances of exploitation for different s purposes become torture and death. those two bitches I don't even known how many young persons have killed here. Youth destroyed by nobility for exploitation, cold war, terrorism and autocrat dictatorship purposes. Those bitches are dogs of high level nobility, have transformed themselves into womans of fair right. Terrorism.
 
+- 24/4/2022 09;07 Sunday after two weeks of work I would have sleep. But it is not possible because of electroshock torture. Andreu and Francesca start to stalk, because is weekend the argument is drugs, cocaine better saying. Ok guys, could some one put those stalkers, torturer,  paramilitary, terrorist in jail?. Thank you.
+
   
 
 
