@@ -70,6 +70,8 @@ This is a good list of electronic torture inducted diseases and health problems:
 
 Next we appreciate a severe dysfunction in the brain of a victim like me. Perennial dysfunction due to electromagnetic weapons.
 
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/FRFGHh-WUAEeXhC.jpeg)
+
 #### Personals toughs 
 
 ![Personals toughs](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_riccardo_giuntoli.webp)
