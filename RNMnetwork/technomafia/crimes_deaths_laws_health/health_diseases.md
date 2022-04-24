@@ -72,6 +72,10 @@ Next we appreciate a severe dysfunction in the brain of a victim like me. Perenn
 
 ![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/FRFGHh-WUAEeXhC.jpeg)
 
+Here you can see a diagnostic of a sever dysfunction  always produced with electromagnetic weapons to the utricle, that is part of the balancing system:
+
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/FRFUXoWX0AAUB8A.jpeg)
+
 #### Personals toughs 
 
 ![Personals toughs](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_riccardo_giuntoli.webp)
