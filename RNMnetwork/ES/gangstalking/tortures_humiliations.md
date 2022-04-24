@@ -2205,6 +2205,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 24/4/2022 09;07 Sunday after two weeks of work I would have sleep. But it is not possible because of electroshock torture. Andreu and Francesca start to stalk, because is weekend the argument is drugs, cocaine better saying. Ok guys, could some one put those stalkers, torturer,  paramilitary, terrorist in jail?. Thank you.
 
+- 24/4/2022 16:04 Just returned to home because a work intervention. **Francesca** follow to say "snort cocaine". JAJAJAJAJAJAJAJAJ
+
   
 
 
