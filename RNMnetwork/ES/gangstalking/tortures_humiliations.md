@@ -2209,6 +2209,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 24/4/2022 20:40 Aurora is forcing a girl that I've known in the house of a man in this period. This girl is from south Italy, a girl victim of human trade that was forced to human trade. Aurora is forcing her to think about my genitals.
 
+- 25/4/2022 08:10 Wake up with electroshock torture. This torture is always executed at morning. The real purposes of this torture is destroy synapses charging them. Basically as they are conductor of electricity charging them artificially with direct energy weapons means that they are overloading temperature in my brain and they are burning them. As it pass in electricity.
+
   
 
 
