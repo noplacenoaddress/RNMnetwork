@@ -2211,6 +2211,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 25/4/2022 08:10 Wake up with electroshock torture. This torture is always executed at morning. The real purposes of this torture is destroy synapses charging them. Basically as they are conductor of electricity charging them artificially with direct energy weapons means that they are overloading temperature in my brain and they are burning them. As it pass in electricity. Please help.
 
+- 26/4/2022 21:14 **Andreu** and **Francesca** in a domination delirium start to death threat myself. He says "I will kill you by torture, you will die of pain". Immediately Francesca using the wireless brain machine interface places his voice behind my head with a sadistic intonation. They are nervous because I know all about the, who they are, where they live, what is the terror business that they own, how does it work and what people they use to hide themselves. 
+
   
 
 
