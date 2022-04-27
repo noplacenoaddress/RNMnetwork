@@ -2213,6 +2213,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 26/4/2022 21:14 **Andreu** and **Francesca** in a domination delirium start to death threat myself. He says "I will kill you by torture, you will die of pain". Immediately Francesca using the wireless brain machine interface places his voice behind my head with a sadistic intonation. They are nervous because I know all about the, who they are, where they live, what is the terror business that they own, how does it work and what people they use to hide themselves. 
 
+- 27/4/2022 04:00 am. Francesca apply micro charges to my penis and prostate. I've got an ejaculation provoked by electromagnetic weapons. Meanwhile she altered my REM phase transmitting a porn video based upon humiliation. Why she does it? Obviously to force my mind to loose credibility in myself. Always for the same, searching to provoke a deep change into my behavior because of human trade with goal of creating tortured who torture. 
+
   
 
 
