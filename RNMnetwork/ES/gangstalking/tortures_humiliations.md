@@ -2217,6 +2217,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 28/4/2022 17:20: I'm working on a project for a client of my business, my work is very difficult because my synapses are totally overloaded with electromagnetic weapons. Something that is ruining my brain too. Francesca while torturing me is saying: "you don't understand that I'm torturing you because I will kill you".
 
+- 28/4/2022 21:40 **Francesca** follow to torture. She simply doesn't stop. **Andreu** also. Please put in jail those terrorist they are guilty of crimes against humanity.
+
   
 
 
