@@ -2215,6 +2215,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 27/4/2022 04:00 am. Francesca apply micro charges to my penis and prostate. I've got an ejaculation provoked by electromagnetic weapons. Meanwhile she altered my REM phase transmitting a porn video based upon humiliation. Why she does it? Obviously to force my mind to loose credibility in myself. Always for the same, searching to provoke a deep change into my behavior because of human trade with goal of creating tortured who torture. 
 
+- 28/4/2022 17:20: I'm working on a project for a client of my business, my work is very difficult because my synapses are totally overloaded with electromagnetic weapons. Something that is ruining my brain too. Francesca while torturing me is saying: "you don't understand that I'm torturing you because I will kill you".
+
   
 
 
