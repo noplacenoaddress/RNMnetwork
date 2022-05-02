@@ -2221,6 +2221,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 29/4/2022 09:30 Aurora, that as I've already underline, is the engineer of the cartel of human traffic, mafia and drug market management owned by Francesca and her family torture me doing stalking copying the voice of a girl of a good family of Genoa. This monster live with a man that got to fortune to marry a sister of that girl. In the human trade cartel of Francesca meanwhile they torture, sell drug and so on there is a silent war between wealthy Genoese families who pay an additional service to Francesca, a trafficking service.
 
+- 29/4/2022 Francesca follow to torture, torture ,torture, torture, torture. She doesn't stop, night and day. Stop that monster. Please.
+
+- 2/5/2022 All night long dream injection. Stop that monster.
+
   
 
 
