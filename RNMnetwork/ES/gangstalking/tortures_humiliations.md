@@ -2225,6 +2225,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 2/5/2022 All night long dream injection. Stop that monster.
 
+- 2/5/2022 **Francesca** is speaking about that I'm washing myself not so much. Totally false but in part true because I don't take entire showers because basically I'm alone without someone to live with. Obviously because of heavy torture that I'm supposed to. Francesca is underline how all, and she is speaking about Mafia and racket people that I've known in my life obviously because I'm victim of human traffic, know it. Francesca those people will be jailed for minimum of twenty years. I don't really don't care if they know if I, under extreme torture by you Francesca, don't clean myself too much.
+
   
 
 
