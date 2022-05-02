@@ -2219,6 +2219,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 28/4/2022 21:40 **Francesca** follow to torture. She simply doesn't stop. **Andreu** also. Please put in jail those terrorist they are guilty of crimes against humanity.
 
+- 29/4/2022 09:30 Aurora, that as I've already underline, is the engineer of the cartel of human traffic, mafia and drug market management owned by Francesca and her family torture me doing stalking copying the voice of a girl of a good family of Genoa. This monster live with a man that got to fortune to marry a sister of that girl. In the human trade cartel of Francesca meanwhile they torture, sell drug and so on there is a silent war between wealthy Genoese families who pay an additional service to Francesca, a trafficking service.
+
   
 
 
