@@ -2,8 +2,6 @@
 
 ![Riccardo Giuntoli](http://telecomlobby.com/Images/riccardo_giuntoli_about_me.webp)
 
-*Un reloj roto dos veces al día marca la hora correcta*
-
 ### Biografía de Riccardo Giuntoli.
 
 Riccardo Giuntoli ha nacido en Genova el 31 de Marzo 1981 a las 19 y 13 horas. Mi madre me hizo Católico pero desde que fui un adolescente he elegido ser un ateo con pasión política claramente de izquierdas. Amo a las personas, la tecnología, la natura y a las telecomunicaciones.
@@ -78,19 +76,11 @@ Todo basado en software libre y **OpenBSD** [[42]](http://openbsd.org/).
 
 13. https://en.wikipedia.org/wiki/IRCnet
 
-14. https://en.wikipedia.org/wiki/IRC_takeover
-
-15. https://en.wikipedia.org/wiki/Stacheldraht
-
 16. https://en.wikipedia.org/wiki/Eggdrop
 
 17. https://en.wikipedia.org/wiki/BNC_(software)
 
 18. https://en.wikipedia.org/wiki/Shell_(computing)
-
-19. https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)
-
-20. https://en.wikipedia.org/wiki/Smurf_attack
 
 21. https://www.gnu.org/software/bash/manual/html_node/Bash-History-Facilities.html
 
