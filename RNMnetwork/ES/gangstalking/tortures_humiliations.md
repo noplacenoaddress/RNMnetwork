@@ -2229,6 +2229,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 3/5/2022 Wake up for heavy v2k, electroshock, dream injection and Mafia abuses. Francesca always wake up. This is the real point: in the human trade network, who the Republic call a family of "heroes" represent the most incredible madness that I've seen in aperson. A madness cultivated appositely by the Vatican terrorism to obtain a monster that follow to oppress the ancient mariner republic. She does it with some Cosa Nostra fellows, others mafias, and local patrician families for ancient rivalries with other local nobles, families reduced to the laundering of mafia money to maintain the status quo. 
 
+- 5/5/2022 07:32 The madness of Francesca follow as usual. Torturing all day and all night long. This night as usual dream injection and REM phase manipulation. Electroshock for the morning, v2k and so on. She tries to put in the mind of the victim, remember that she is noble this human trade instance is pederasty her family "eat" childs,  doubts. After what she call the "opening" when the victim is actively tortured the only purposes of this monster is inducting the victim to suicide. Meanwhile she is playing parimutuel betting system above the victim, the system is used to wash mafia black market money. Is a service from the city of Genoa, a service performed by her family and binded by the cast of the city. Who buy this service? Cosa Nostra and all the European mafias. How does it works? It is based on gambling with physical casinos in the Caribbean area.
+
   
 
 
