@@ -2235,6 +2235,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/5/2022 12:11 **Francesca** and **Andreu** heavy torture me disturbing my neural activity using this kind of direct energy weapons hidden behind broadcast FM radiators. 
 
+- 6/5/2022 15:23 That horrible terrorist, Francesca: "you've to do what I'm saying". She creates slaves with the final purposes to aliment pederasty. She puts them divided in states, virtual states of human trade, cartels of human trade. She give them possibility to work in drug market for corruption. They have got to act, to do crimes, in human trade. Act in suicide business and in woman slavery. To create new pederast, new victims of human trade. 
+
+- 6/5/2022 18:46 as in the parimutuel betting system virtual table mounted upon my slavery instance in the human trade network there is a lot of criminality cleaning with gambling black market money, **Aurora**, engeneer of Francesca and her family, follow to copy voices of others saying to Mafia that are pederast. Why she is doing this? Because to protect Francesca freedom from my enormous complaint try to let them kill me.
+
   
 
 
