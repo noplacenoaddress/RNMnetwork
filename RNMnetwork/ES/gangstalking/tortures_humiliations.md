@@ -2231,6 +2231,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 5/5/2022 07:32 The madness of Francesca follow as usual. Torturing all day and all night long. This night as usual dream injection and REM phase manipulation. Electroshock for the morning, v2k and so on. She tries to put in the mind of the victim, remember that she is noble this human trade instance is pederasty her family "eat" childs,  doubts. After what she call the "opening" when the victim is actively tortured the only purposes of this monster is inducting the victim to suicide. Meanwhile she is playing parimutuel betting system above the victim, the system is used to wash mafia black market money. Is a service from the city of Genoa, a service performed by her family and binded by the cast of the city. Who buy this service? Cosa Nostra and all the European mafias. How does it works? It is based on gambling with physical casinos in the Caribbean area.
 
+- 6/5/2022 10:00 As the day start Francesca and Andreu start to stalk, to harass, to threat, to torture, to humiliate. As usual, from November 2017. They play to tire mind and physic of the victim. Here on my human trade rented service, in my cell of torture, in my table of parimutuel bettin system inside a virtual Casino, there are a lot of Mafias. Cosa Nostra, probably Stidda, and Sardinia criminality participate in the threat. Ok guys, good morning. 
+
   
 
 
