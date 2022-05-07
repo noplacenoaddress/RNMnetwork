@@ -2241,6 +2241,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/5/2022 22:30 Francesca is all day long that is torturing me in a heavy way. A lot of Italian that live in Barcelona obviously enslaved by her and Andreu to black market but also to participate to human trade network and a lot of them also to participate to my virtual table of parimutuel betting system are also participating to stalking, threats and humiliations. All together under them directions want that I leave my work to start a new life in a mafia style way. Francesca and Andreu with the human trade technology have replicate in barcelona what was known as "Modelo" jail. They model, they they force people to crime to later use them as drug dealers as much as they do drugs, slowly ruining them in what can be defined as an assembly line until the ruin of the individual or in marginalization or in prison or in daily drug addiction.
 
+- 7/5/2022 04:30 only four hours of sleeping. Next sleep deprivation, a form of torture. Next electroshock. Stop Francesca and her gang of Mafia. Stop her.
+
   
 
 
