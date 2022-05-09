@@ -2243,6 +2243,16 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 7/5/2022 04:30 only four hours of sleeping. Next sleep deprivation, a form of torture. Next electroshock. Stop Francesca and her gang of Mafia. Stop her.
 
+- 7/5/2022 06:01 While she is torturing me, and her "generals", terrorist with para military background, and those mans are threating me of death, they are argue in a very intelligent mode that I'm who haven't understand that this is a "game". A game of what? They want that I'll return to see them to be kidnapped another time. It's incredible how the family of Francesca think to kill a person. Only for gambling, only to clean Mafia black market money. Be careful FRancesca hide all of this shit behind the target individual program. People think because others targets that FRancesca is executing only this adaptation of the CIA program to Mediterraneo. Francesca is the owner and chief of a very technological organized Mafia. People that work with her work in para  military administered infrastructure. Then there are the classical mafia, but all are mixed. There are people from all the territories. From East Mediterranean to Spain.
+
+- 7/5/2022 14:52 I've just returned to home Aurora and Francesca start to heavy electroshock my heart and my brain. Speaking about cocaine that they sell and saying foolishness about my family.
+
+- 7/5/2022 21:00 as I take some kilos from when I go walking in Barcelona searching for Saray thinking that it was a game, this is who it works persecution, Aurora just says to me: you've take a lot of kilos don't you state i nbad fellings? No aurora, son of a bitch, I've got some kilos as usual because of my constitution don't try to put in a bad mind myself. You work, with Cosa Nostra and others mafias, in the human trade network. 
+
+- 8/5/2022 19:30 Francesca follow without stopping a minute to torture. She is a monster.
+
+- 9/5/2022 04:10 Wake up for electroshock torture executed as usual by Francesca with Aurora. Andreu also is awake.
+
   
 
 
