@@ -2253,6 +2253,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 9/5/2022 04:10 Wake up for electroshock torture executed as usual by Francesca with Aurora. Andreu also is awake.
 
+- 9/5/2022 21:08 Francesca within her madness is playing with neural states that conduct victim into a bad felling. This terrorist repeat: "I've got your brain, you will die.". Yes Francesca, you've got my brain (superior layers) but the most important and worst think that you share it with Mafia. Nice girl you cannot play with terrorism and Mafia you're a marquees. Thank you miss go to jail for ever.
+
+- 9/5/2022 23:16 She follows to act in her madness. She follows to death threat my self. She follows and no one have interrupt this terrorist because of her surname. It's totally absurd that that woman is torturing me, heavy torture, from November 2017 after she and her family had manipulated my entire life, put me in Cosa Nostra problems, mafia problems, have try to kill me with motorcycle accidents, have play above my life parimutuel betting system have order to flash kidnap myself all executed by a Sardinia expert in Barcelona. All of that was and is organized using the global human trade network, my persecution is an instance of that network. The reason is washing of mafia black market money with gambling, gambling played in neural network but physically executed in Caribbean area. Fiscal paradises. Please stop her madness. Stop that terrorist.
+
   
 
 
