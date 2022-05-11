@@ -2257,6 +2257,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 9/5/2022 23:16 She follows to act in her madness. She follows to death threat my self. She follows and no one have interrupt this terrorist because of her surname. It's totally absurd that that woman is torturing me, heavy torture, from November 2017 after she and her family had manipulated my entire life, put me in Cosa Nostra problems, mafia problems, have try to kill me with motorcycle accidents, have play above my life parimutuel betting system have order to flash kidnap myself all executed by a Sardinia expert in Barcelona. All of that was and is organized using the global human trade network, my persecution is an instance of that network. The reason is washing of mafia black market money with gambling, gambling played in neural network but physically executed in Caribbean area. Fiscal paradises. Please stop her madness. Stop that terrorist.
 
+- 10/5/2022 23:50 as I want to go to bed Francesca start to move my internals organs applying micro charges. Result is bad feelings. She simply doesn't stop to torture applying the same program every day. 
+
+- 11/5/2022 09:09 As usual Francesca and Andreu torture me. They apply charges in all my internal organs. It's five years that I'm heave tortured.
+
   
 
 
