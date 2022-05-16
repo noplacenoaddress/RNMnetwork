@@ -76,6 +76,10 @@ Here you can see a diagnostic of a sever dysfunction  always produced with elect
 
 ![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/FRFUXoWX0AAUB8A.jpeg)
 
+Another form to demonstrate without any doubt that you're victim of direct energy weapons that are modules added to digital radio civilian broadcast system is size the temperature of your head with a thermal camera, results are obvious in a court chamber:
+
+![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/FSupPQ-WYAISeMF.jpeg)
+
 #### Personals toughs 
 
 ![Personals toughs](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_riccardo_giuntoli.webp)
