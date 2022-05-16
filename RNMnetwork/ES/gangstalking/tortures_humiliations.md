@@ -2261,6 +2261,18 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 11/5/2022 09:09 As usual Francesca and Andreu torture me. They apply charges in all my internal organs. It's five years that I'm heave tortured.
 
+- 12/5/2022 06:40 At 6 wake with electroshock. As usual Francesca and Andreu. Many of Genoa, a city enslaved by some part of the Church the marquees family of Francesca, high social class, paramilitaries and Cosa Nostra, speak also to let me hate themselves. Why? Because they wash Mafia money and properties from nobles with church corruption.
+
+- 13/5/2022 16:05 I'm working with people, face to face. Because I'm selling my service to Internet and mobile network. Francesca every time that I connect with another client, start to try to put inside my self doubts about. This MONSTER doesn't stop a minute to torture or try to unlock inside my ego madness. STOP THIS SHIT.
+
+- 13/5/2022 21:49 It's friday people in Genoa buy cocaine and start to torture. Aurora is one my favorites. She is fantastic, a tortured who torture from decades. A completely slave of the huma n trade cartel owned by Francesca and her family. People that have studied university to torture. Great cocaine addicted! You're wonderful.
+
+- 15/3/2022 18:58 Francesca with her crew of mafia dogs follow to torture stalk, death treat, etcetera etcetera. Andreu obviously copy shape and manners of others mafias that work for him. What does it means? Simple Andreu is the administrator of the Catalunya territory of the global human trade network. He rent services to others mafia in this target territory and permit them with corruption and neural control to not be arrested. For this "service" he gain money obviously. This is what is known as "mafiopoli". 
+
+- 15/3/2022 20:34 Francesca that got a psychotic attack follow to heavy torture me every seconds of my day and night. In her delirium affirm that I've got to shut up and suffer silently. Bitch your surname is exact the same to me, you're only the rod of the Italian democracy.
+
+- 15/3/2022 21:40 Andreu saying to me that I've got to go to sleep, Francesca that I've got to naked myself and masturbate myself.
+
   
 
 
