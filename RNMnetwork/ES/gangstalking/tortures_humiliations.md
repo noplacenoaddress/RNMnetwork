@@ -2267,11 +2267,13 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 13/5/2022 21:49 It's friday people in Genoa buy cocaine and start to torture. Aurora is one my favorites. She is fantastic, a tortured who torture from decades. A completely slave of the huma n trade cartel owned by Francesca and her family. People that have studied university to torture. Great cocaine addicted! You're wonderful.
 
-- 15/3/2022 18:58 Francesca with her crew of mafia dogs follow to torture stalk, death treat, etcetera etcetera. Andreu obviously copy shape and manners of others mafias that work for him. What does it means? Simple Andreu is the administrator of the Catalunya territory of the global human trade network. He rent services to others mafia in this target territory and permit them with corruption and neural control to not be arrested. For this "service" he gain money obviously. This is what is known as "mafiopoli". 
+- 15/3/2022 18:58 **Francesca** with her crew of mafia dogs follow to torture stalk, death treat, etcetera etcetera. Andreu obviously copy shape and manners of others mafias that work for him. What does it means? Simple Andreu is the administrator of the Catalunya territory of the global human trade network. He rent services to others mafia in this target territory and permit them with corruption and neural control to not be arrested. For this "service" he gain money obviously. This is what is known as "mafiopoli". 
 
-- 15/3/2022 20:34 Francesca that got a psychotic attack follow to heavy torture me every seconds of my day and night. In her delirium affirm that I've got to shut up and suffer silently. Bitch your surname is exact the same to me, you're only the rod of the Italian democracy.
+- 15/3/2022 20:34 **Francesca** that got a psychotic attack follow to heavy torture me every seconds of my day and night. In her delirium affirm that I've got to shut up and suffer silently. Bitch your surname is exact the same to me, you're only the rod of the Italian democracy.
 
-- 15/3/2022 21:40 Andreu saying to me that I've got to go to sleep, Francesca that I've got to naked myself and masturbate myself.
+- 15/3/2022 21:40 **Andreu** saying to me that I've got to go to sleep, Francesca that I've got to naked myself and masturbate myself.
+
+- 18/3/2022 05:20 **Francesca** torture me all night long with dream alteration and REM phase manipulation. At 5 am I try to sleep masturbating myself, I never take a pills to sleep and I'll never. Francesca and Andreu **always** try to humiliate people because applying micro charges the the sexual apparatus of a man seminal liquid result heavier and a tortured don't ejaculate  normally. I will write it in my chapter of health diseases, another important thing is that at star of torture they do exactly the same overloading your ejaculation. They do this to provoke obviously depression. 
 
   
 
