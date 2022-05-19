@@ -2273,7 +2273,11 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/3/2022 21:40 **Andreu** saying to me that I've got to go to sleep, Francesca that I've got to naked myself and masturbate myself.
 
-- 18/3/2022 05:20 **Francesca** torture me all night long with dream alteration and REM phase manipulation. At 5 am I try to sleep masturbating myself, I never take a pills to sleep and I'll never. Francesca and Andreu **always** try to humiliate people because applying micro charges the the sexual apparatus of a man seminal liquid result heavier and a tortured don't ejaculate  normally. I will write it in my chapter of health diseases, another important thing is that at star of torture they do exactly the same overloading your ejaculation. They do this to provoke obviously depression. 
+- 18/5/2022 05:20 **Francesca** torture me all night long with dream alteration and REM phase manipulation. At 5 am I try to sleep masturbating myself, I never take a pills to sleep and I'll never. Francesca and Andreu **always** try to humiliate people because applying micro charges the the sexual apparatus of a man seminal liquid result heavier and a tortured don't ejaculate  normally. I will write it in my chapter of health diseases, another important thing is that at star of torture they do exactly the same overloading your ejaculation. They do this to provoke obviously depression. 
+
+- 18/5/2022 22:00 Francesca doesn't stop a minute with her sick brain to think about my nervous system with her instrument of torture. A wireless brain machine interface that serve to torture victims. These monster with her nobles surname is also an high military figure and have to be a glory for the Italian Republic. These monster is the queen of the human trade network in the Mediterranean area. 
+
+- 18/5/2022 23:30 I go to sleep. Francesca doesn't stop to torture me. She says: "I can put your dick strong, don't you understand that I'm your master?" Monster, what you're doing is applying electric charges to my penis because of slowly corruption of the organ. Monster, you've got to be jailed for life.
 
   
 
