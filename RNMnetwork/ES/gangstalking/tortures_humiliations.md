@@ -2279,6 +2279,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/5/2022 23:30 I go to sleep. Francesca doesn't stop to torture me. She says: "I can put your dick strong, don't you understand that I'm your master?" Monster, what you're doing is applying electric charges to my penis because of slowly corruption of the organ. Monster, you've got to be jailed for life.
 
+- 20/5/2022 00:45 I go to sleep, Aurora and Francesca copy voices from many guys doing death threat to me. The only think that I know, fucking terrorist that you've got to be jailed for life. Stupid morons.
+
   
 
 
