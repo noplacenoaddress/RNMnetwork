@@ -2281,6 +2281,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 20/5/2022 00:45 I go to sleep, Aurora and Francesca copy voices from many guys doing death threat to me. The only think that I know, fucking terrorist that you've got to be jailed for life. Stupid morons.
 
+- 22/5/2022 19:42 Francesca follow to torture and sexual harass my person. She always try to induct the victim into depression. She always, without stopping a single minute is incredible her madness, try to block victim right to denunciate her terrorism. What she is calling state terrorism. 
+
   
 
 
