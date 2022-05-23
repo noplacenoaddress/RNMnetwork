@@ -2285,7 +2285,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 22/5/2022 21:08 **Francesca** follow to speak about drug. She said in her totally madness: "Riccardo in front of all yours friends (people that I've known in Genoa because of human trade with money laundering goal) do you prefer drug to work". Francesca, little human trader owner of a cartel of cocaine traffic, I work every day to reconstruct what you've destroyed in my life.
 
-  
+- 23/5/2022 00:45 I've just closed my eyes and start to sleep when this monster apply to my brain a lot of electroshock torture, I cannot awake clearly and she is saying "you've got to die". Please help me to put in jail this corrupted nobility. Help me.
+
+- 23/5/2022 07:00 as usual wake with electroshock torture. First phrase from the madness of Francesca: "do you want to understand that you're a slave?" No, moron, slavery was abolished.
 
 
 
