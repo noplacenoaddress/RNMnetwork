@@ -2281,9 +2281,23 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 20/5/2022 00:45 I go to sleep, Aurora and Francesca copy voices from many guys doing death threat to me. The only think that I know, fucking terrorist that you've got to be jailed for life. Stupid morons.
 
-- 22/5/2022 19:42 Francesca follow to torture and sexual harass my person. She always try to induct the victim into depression. She always, without stopping a single minute is incredible her madness, try to block victim right to denunciate her terrorism. What she is calling state terrorism. 
+- 22/5/2022 19:42 **Francesca** follow to torture and sexual harass my person. She always try to induct the victim into depression. She always, without stopping a single minute is incredible her madness, try to block victim right to denunciate her terrorism. What she is calling state terrorism. 
 
-  
+- 22/5/2022 21:08 **Francesca** follow to speak about drug. She said in her totally madness: "Riccardo in front of all yours friends (people that I've known in Genoa because of human trade with money laundering goal) do you prefer drug to work". Francesca, little human trader owner of a cartel of cocaine traffic, I work every day to reconstruct what you've destroyed in my life.
+
+- 23/5/2022 00:45 I've just closed my eyes and start to sleep when this monster apply to my brain a lot of electroshock torture, I cannot awake clearly and she is saying "you've got to die". Please help me to put in jail this corrupted nobility. Help me.
+
+- 23/5/2022 07:00 as usual wake with electroshock torture. First phrase from the madness of Francesca: "do you want to understand that you're a slave?" No, moron, slavery was abolished.
+
+- 23/5/2022 14:37 as king of Spain return to Europe, Andreu and Francesca join together with Mafia and a lot of people from Genoa start to heavy stalk me copying voices from Spanish kingdom. Those terrorist, fraquist terrorist, aliment hate versus Spanish crown. Here obviously they aren't presents. Those little nobles and corrupted military services are pure terrorism. 
+
+- 23/5/2022 21:09 Francesca and Andreu had passed all day long torturing me in heavy mode. Next they start staging histories without senses because the brain of the victim is tired. Normally after 12 hours of torture a person say something true. I'm victim of human trade, and practically all type of crimes that human kind has invented to do to another person. Those sadist are terrorist, all under the command of Francesca. A marquees.
+
+- 25/5/2022 01:31 Today I've worked all day long, as usual. I go to bed at midnight, Francesca and her crew of human trade start to heavy torture me. This idiot doesn't stop a minute to do this crime against humanity followed by her team of professionals, her non state actors crew (chief and organizer of Mafia) and components of mafias from all Italian regions and Catalonia. 
+
+- 26/5/2022 01:13 Francesca doesn't stop a minute to torture me. Here in my instance of human trade there are a lot of Mafia that see this in televisions injected in the visual cortex of those fellows that meanwhile clean money in the Genoese washing machine connected to central American fiscal paradises. 
+
+- 28/5/2022 22:30 As usual Francesca torture. When I finish money is an hell, because I'm victim of an enormous thief from her family and high class families from Genoa is totally normal that I've got little amount of money. I work as a professional and under heavy torture I start a business with all Mafia threating me all day long. Please STOP THIS MONSTER. Stop fascism. 
 
 
 
