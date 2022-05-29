@@ -2299,6 +2299,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 28/5/2022 22:30 As usual Francesca torture. When I finish money is an hell, because I'm victim of an enormous thief from her family and high class families from Genoa is totally normal that I've got little amount of money. I work as a professional and under heavy torture I start a business with all Mafia threating me all day long. Please STOP THIS MONSTER. Stop fascism. 
 
+- 29/5/2022 09:55 wake up as usual with electroshock torture, now Francesca as I start to work high up level of electroshock above my stomach, my penis, my brain, my eyes. I couldn't read with clarity or work. I'm so tired to be abused and tortured. 
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
