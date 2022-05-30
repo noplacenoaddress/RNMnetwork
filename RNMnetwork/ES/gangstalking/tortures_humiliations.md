@@ -2301,6 +2301,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 29/5/2022 09:55 wake up as usual with electroshock torture, now Francesca as I start to work high up level of electroshock above my stomach, my penis, my brain, my eyes. I couldn't read with clarity or work. I'm so tired to be abused and tortured. 
 
+- 30/5/2022 07:00 wake up in the morning with electroshock torture, sexual threats, electroshock apply into my stomach, eyes, brain, foot, toungh, hands. Stop this crew of terrorism. Stop marquees Francesca.
+
+- 30/5/2022 14:35 Francesca follow to sexual harass me she masturbate myself using electromagnetic weapons. She simply doesn't stop, I'm working while she is torturing me. 
+
+- 31/5/2022 00:10 It's totally human IMPOSSIBLE that marquees Francesca follow TO TORTURE me every minute, every day, every night! It's a MONSTER. She is the chief of the human trade network transmitted above citizens in the Mediterranean area. STOP THIS MONSTER.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
