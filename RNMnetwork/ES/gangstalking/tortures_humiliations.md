@@ -2301,11 +2301,25 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 29/5/2022 09:55 wake up as usual with electroshock torture, now Francesca as I start to work high up level of electroshock above my stomach, my penis, my brain, my eyes. I couldn't read with clarity or work. I'm so tired to be abused and tortured. 
 
-- 30/5/2022 07:00 wake up in the morning with electroshock torture, sexual threats, electroshock apply into my stomach, eyes, brain, foot, toungh, hands. Stop this crew of terrorism. Stop marquees Francesca.
+- 30/5/2022 07:00 wake up in the morning with electroshock torture, sexual threats, electroshock apply into my stomach, eyes, brain, foot, toungh, hands. Stop this crew of terrorism. Stop marquees **Francesca**.
 
-- 30/5/2022 14:35 Francesca follow to sexual harass me she masturbate myself using electromagnetic weapons. She simply doesn't stop, I'm working while she is torturing me. 
+- 30/5/2022 14:35 **Francesca** follow to sexual harass me she masturbate myself using electromagnetic weapons. She simply doesn't stop, I'm working while she is torturing me. 
 
 - 31/5/2022 00:10 It's totally human IMPOSSIBLE that marquees Francesca follow TO TORTURE me every minute, every day, every night! It's a MONSTER. She is the chief of the human trade network transmitted above citizens in the Mediterranean area. STOP THIS MONSTER.
+
+- 31/5/2022 06:40 wake up with electroshock torture. This night heavy dream injection with a sort of sexual humiliation, **Francesca** alter my REM phase with a porn movie when the girl touch my penis the sensation in my brain was to cum. Next I wake up, she is ALWAYS up. She doesn't sleep. She is a MONSTER.
+
+- 31/5/2022 22:53 as usual, as from 27 of November 2017, Francesca, a marquees, doesn't stop a single minute of the day and night to torture. This woman is a monster, a terrorist, someone to jail for life. Help me.
+
+- 2/6/2022 03:30 dream injections with erotic stuff, then wake up with electroshock torture. Then **Francesca** and **Aurora** use the voice of my mother and speak about masturbation.
+
+- 4/6/2022 19:05 **Francesca** in her apotheosis of being an idiot sing in my neural instance of torture that she is the only Mafia in the Mediterranean area. Dear idiot owning a rack in the Collserola tower where you torture people of left political vision and systematically destroy life of victims doesn't mean to be mafia. Mean to be a terrorist.
+
+- 6/6/2022 **Francesca** without any problems: "this is the new method of slavery". Yes Francesca but you're a marquees you cannot be the queen of human trade my dear and be the chief of all the Italian's mafias that rent service from you. Bitch
+
+- 6/6/2022 **Francesca** always in full delirium: "you've got to understand that you're victim of Mafia and you cannot go out". **Francesca** Europe is ours, citizens that work
+
+- 6/6/2022 16:40 I'm very tired that because today is a Cristian holiday connected to Jesus Christ **Francesca** follow with her gang of stalkers, and engineer of human trade, to heavy torture me. I cannot work clearly. 
 
 
 
