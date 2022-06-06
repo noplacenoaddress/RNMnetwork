@@ -2323,6 +2323,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/6/2022 21:27 Aurora start to try domination with myself: "go to bed!" This stupid is a little baby that at 20 years couldn't go out from her house. Now at 38 she thinks to dominate people that she had known in her life. Aurora because you got access to a remote interface to a unix server you're not my master, little moron.
 
+- 6/6/2022 22:30 Francesca follow her delirium. She affirms that I cannot do a complaint against her surname because she will heavy torture me destroying my brain.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
