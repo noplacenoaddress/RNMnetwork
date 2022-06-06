@@ -2321,6 +2321,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/6/2022 16:40 I'm very tired that because today is a Cristian holiday connected to Jesus Christ **Francesca** follow with her gang of stalkers, and engineer of human trade, to heavy torture me. I cannot work clearly. 
 
+- 6/6/2022 21:27 Aurora start to try domination with myself: "go to bed!" This stupid is a little baby that at 20 years couldn't go out from her house. Now at 38 she thinks to dominate people that she had known in her life. Aurora because you got access to a remote interface to a unix server you're not my master, little moron.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
