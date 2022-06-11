@@ -2325,6 +2325,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/6/2022 22:30 Francesca follow her delirium. She affirms that I cannot do a complaint against her surname because she will heavy torture me destroying my brain.
 
+- 10/6/2022 21:02 I'm mounting clients, Andreu and Francesca doesn't let me sleep. they only speak about mafia and cocaine addiction, what they are. Those idiots because yesterday they haven't let me sleep start heavy stalking me like the first years when they start to torture me. They modulate stalking upon the noise of a fan. All what they do is to let suffer people, target individuals are like people close in a concentration camp. A virtual one, the mine is called Carcelona, is the Catalan territory covered by the global human trade network oppressed for political reason. Is where John McAffee had die, because of this infrastructure of terrorism.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
