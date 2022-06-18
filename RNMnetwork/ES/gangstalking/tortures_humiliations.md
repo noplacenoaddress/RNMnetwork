@@ -2327,6 +2327,16 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/6/2022 21:02 I'm mounting clients, Andreu and Francesca doesn't let me sleep. they only speak about mafia and cocaine addiction, what they are. Those idiots because yesterday they haven't let me sleep start heavy stalking me like the first years when they start to torture me. They modulate stalking upon the noise of a fan. All what they do is to let suffer people, target individuals are like people close in a concentration camp. A virtual one, the mine is called Carcelona, is the Catalan territory covered by the global human trade network oppressed for political reason. Is where John McAffee had die, because of this infrastructure of terrorism.
 
+- 11/6/2022 23:12 as tomorrow I've got important work to do Francesca, and her band of torturer, are heavy stalking and torture me: voice to skull, sexual harassment and mafia threats. This idiot with very important surname have to be judged for high tradition in the italian republic. Go to jail forever.   
+
+- 12/6/2022 06:00 As today I work those terrorist don't let me sleep in a good way, from five am they stalk me. Sleep deprivation one of the most used torture by marquees Francesca and Andreu, probably a corrupted military service.
+
+- 15/6/2022 05:05 i was sleeping. Francesca wake up with REM phase manipulation and sexual harassment, using some morons of Genoa that I've known in my life start to death threat my person. This idiot think that a person wake up in the night got fear. Fear of what? Of a stupidity called "spectram", the mafia behind the global human trade network. A pyramid of foolishness, the antithesis of human kind, based over social classes. 
+
+- 17/6/2022 19:44 It's all day long that this terrorist, marquees Francesca, follow to sexual harass me, using her brain machine interface to electro magnetic weapons and thinking about my penis. STOP THIS MONSTER.
+
+- 18/6/2022 03:40 REM phase manipulation and electric charges in my eyes. Always Francesca. Impossible to understand how this monster follow to torture 24 hours over 24.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
