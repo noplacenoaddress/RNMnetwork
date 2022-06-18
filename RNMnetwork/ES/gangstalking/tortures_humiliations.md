@@ -2337,6 +2337,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/6/2022 03:40 REM phase manipulation and electric charges in my eyes. Always Francesca. Impossible to understand how this monster follow to torture 24 hours over 24.
 
+- 18/6/2022 22:30 when night come Francesca always, and I repeat always from 2017, repeat: "go to sleep". She tries to unlock a slavery mechanism in the soul and brain of the victim. She follows a little guide from CIA about mental domination.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
