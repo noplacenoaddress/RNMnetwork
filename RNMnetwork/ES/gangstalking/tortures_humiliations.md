@@ -4,7 +4,7 @@
 
 This image is taken from the scandal in the **war in Iraq** [[1]](https://en.wikipedia.org/wiki/Iraq_War) about the **Abu Ghraib** [[2]](https://en.wikipedia.org/wiki/Abu_Ghraib) **torture and prisoner abuse** [[3]](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse). Where **United States Army** [[4]](https://en.wikipedia.org/wiki/United_States_Army) and the **Central Intelligence Agency** [[5]](https://en.wikipedia.org/wiki/Central_Intelligence_Agency) commit a series of **human right violations** [[6]](https://en.wikipedia.org/wiki/Human_rights#Violations).
 
-Here in Spain, in my beloved country, I suffered the same but less physical violations but all in remote in the neural monitoring network. This facility is used by **Guardia Civil** [[7]](https://en.wikipedia.org/wiki/Civil_Guard_(Spain)), the **Spanish National Intelligence Center** [[8]](https://en.wikipedia.org/wiki/National_Intelligence_Centre) and the military forces. Obviously also nobility has got access to it. The infrastructure that I've perfectly described is opened and is from the Franco dictatorship.
+Here in Spain, in my beloved country, I suffered the same but less physical violations but all in remote in the neural monitoring network. This technology is used by corrupted part of **Guardia Civil** [[7]](https://en.wikipedia.org/wiki/Civil_Guard_(Spain)), the **Spanish National Intelligence Center** [[8]](https://en.wikipedia.org/wiki/National_Intelligence_Centre) and military forces. Also some nobles has got access to it. The infrastructure that I've perfectly described is opened and was develop from the Franco dictatorship above citizens, human guinea pigs. Almost low level class citizens, deported by the dictatorship. 
 
 > *But remember that I live in Catalunya and those state forces here are present but there are also others that pertain to the **Generalitat de Catalunya** [[9]](https://en.wikipedia.org/wiki/Generalitat_de_Catalunya).*
 
@@ -2338,6 +2338,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 - 18/6/2022 03:40 REM phase manipulation and electric charges in my eyes. Always Francesca. Impossible to understand how this monster follow to torture 24 hours over 24.
 
 - 18/6/2022 22:30 when night come Francesca always, and I repeat always from 2017, repeat: "go to sleep". She tries to unlock a slavery mechanism in the soul and brain of the victim. She follows a little guide from CIA about mental domination.
+
+- 19/6/2022 00:01 this idiot follow to shut that I'm her slave. Stupid slavery is an enormous crime against humanity, your surname it's not important. You're a terrorist.
+
+- 19/6/2022 05:30 electroshock applied to my neck and stomach. Always Francesca.
+
+- 20/6/2022 23:21 Francesca couldn't let me go to bed without torturing me. This monster cannot sleep without seeing some words written in my page about her maniac of torture. This sadist because I've started another time my work and because I started to do serious complaint against Mafias that work for her that have played parimutuel betting system above the systematic destruction of my life for money laundering purposes always repeat to me: you will loose another time your work and you will return to live in Genoa. Why? She says that only because of gambling. This monster convert people in mafia, use them like shit, and the put them in jail with those ridiculous games where victims commit suicide. They participate because of them work in black market.
 
 
 
