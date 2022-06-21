@@ -14,8 +14,6 @@ Now on 2020 they are playing with my internal organs to produce cancer and other
 
 This is how I can describe the electronic tortures that I've lived, 2018 was a very bad year next the decrease the power of the tortures and now they are trying to debilitate me. 
 
-![1.1% amigo mio esta vez la tienes chunga](http://telecomlobby.com/Images/2020-01-30-083641.jpg)
-
 But this will not happen. 
 
 Those are the tortures that I've suffered:
