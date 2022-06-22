@@ -2343,6 +2343,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 20/6/2022 23:21 Francesca couldn't let me go to bed without torturing me. This monster cannot sleep without seeing some words written in my page about her maniac of torture. This sadist because I've started another time my work and because I started to do serious complaint against Mafias that work for her that have played parimutuel betting system above the systematic destruction of my life for money laundering purposes always repeat to me: you will loose another time your work and you will return to live in Genoa. Why? She says that only because of gambling. This monster convert people in mafia, use them like shit, and the put them in jail with those ridiculous games where victims commit suicide. They participate because of them work in black market.
 
+- 22/6/2022 21:12 As I want to do good complaints against all the systematic thief that had orchestrate Francesca against my physical and juridical person, she always try to put into myself insecurity and doubts. She tries always to put fear into myself. Francesca your method is a classical mafia coercion. You're a marquess but you're a parasite.   
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
