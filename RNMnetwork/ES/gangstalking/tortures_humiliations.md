@@ -2347,6 +2347,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 25/6/2022 **Francesca** and her gang of torturer have grown level of torture. Her surname have been destroyed by this girl that in reality use torture to force people to drugs and people traffic. With her families from Genoa.  
 
+- 26/6/2022 21:00 I've done a great complaint against **Francesca**, her surname, some military related fellows and mafia below that depend from her and she doesn't stop a minute to death threat me. These idiot thinks that could spit upon the Italian Republic. I'm so tired about.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
