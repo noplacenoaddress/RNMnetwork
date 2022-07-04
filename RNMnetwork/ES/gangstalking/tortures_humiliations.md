@@ -2353,6 +2353,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 4/7/2022 10:56 **Francesca** and **Aurora** follow to humiliate myself because of my work. They simply don't stop a minute to torture. Help.
 
+- 4/7/2022 12:41 They follow without stop to torture. 
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
