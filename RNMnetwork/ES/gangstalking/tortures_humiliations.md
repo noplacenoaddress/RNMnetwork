@@ -2349,6 +2349,14 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 26/6/2022 21:00 I've done a great complaint against **Francesca**, her surname, some military related fellows and mafia below that depend from her and she doesn't stop a minute to death threat me. These idiot thinks that could spit upon the Italian Republic. I'm so tired about.
 
+- 1/7/2022 05:00 wake for sexual dream injection, while Francesca is doing pain to my penis. This monster doesn't sleep, she simply doesn't stop a minute to torture me. help me.
+
+- 4/7/2022 10:56 **Francesca** and **Aurora** follow to humiliate myself because of my work. They simply don't stop a minute to torture. Help.
+
+- 4/7/2022 12:41 They follow without stop to torture. 
+
+- 6/7/2022 05:00 **Francesca** and **Andreu** wake me with torture. Next they start delirium saying that I cannot do complaint against them, against mafia, against the person that have bought myself in a slavery market for a technological startup, that I cannot do complaint against people that administrate this kind of market in Genoa. Those morons thinks that them mafia cannot be touched because they hide behind Catholic Church. 
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
