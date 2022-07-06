@@ -2355,6 +2355,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 4/7/2022 12:41 They follow without stop to torture. 
 
+- 6/7/2022 05:00 **Francesca** and **Andreu** wake me with torture. Next they start delirium saying that I cannot do complaint against them, against mafia, against the person that have bought myself in a slavery market for a technological startup, that I cannot do complaint against people that administrate this kind of market in Genoa. Those morons thinks that them mafia cannot be touched because they hide behind Catholic Church. 
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
