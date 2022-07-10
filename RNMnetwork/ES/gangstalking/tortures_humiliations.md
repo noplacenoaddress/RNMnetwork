@@ -2357,7 +2357,13 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/7/2022 05:00 **Francesca** and **Andreu** wake me with torture. Next they start delirium saying that I cannot do complaint against them, against mafia, against the person that have bought myself in a slavery market for a technological startup, that I cannot do complaint against people that administrate this kind of market in Genoa. Those morons thinks that them mafia cannot be touched because they hide behind Catholic Church. 
 
+- 6/7/2022 22:30 as usual after work Aurora, Andreu, Fancesca and some mafia members speaks about cocaine abuse.
 
+- 7/7/2022 23:33 people here saying that if I do complaint I've got to have fear to loose my job another time.  As I go to sleep Francesca start to heavy stalk me as usual, torturing me every day and every night. STOP THIS MONSTER.
+
+- 8/7/2022 07:00 heavy torture this night, dream injection and REM phase manipulation every two hours. Francesca, always Francesca she simply doesn't sleep she is a totally addicted, use it to mafia threat and to obviously don't let me sleep. Why? because of my job, to create an accident driving or working. To induct people to abuse of drugs to resist against torture. 
+
+- 10/7/2022 22:33 Aurora in a confusional state due to the agitation deriving from its involvement in crimes against humanity being a trafficking engineer for Francesca's family operating in the Catalan autonomous community, she begins to torture me strongly indicating that she is doing the same with my father.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
