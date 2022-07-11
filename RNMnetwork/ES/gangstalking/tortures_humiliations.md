@@ -2365,6 +2365,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/7/2022 22:33 Aurora in a confusional state due to the agitation deriving from its involvement in crimes against humanity being a trafficking engineer for Francesca's family operating in the Catalan autonomous community, she begins to torture me strongly indicating that she is doing the same with my father.
 
+- 11/7/2022 09:39 Francesca saying that I will have to got fear remember me when a man from Cosa Nostra have heavy beaten myself inside a car.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
