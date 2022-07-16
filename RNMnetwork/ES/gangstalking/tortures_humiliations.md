@@ -2367,6 +2367,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 11/7/2022 09:39 Francesca saying that I will have to got fear remember me when a man from Cosa Nostra have heavy beaten myself inside a car.
 
+- 11/7/2022 23:34 A woman from Iran that live in the high class neighbor of Genoa follow to torture me saying that I'll do a complaint against her and her family she will let me kidnap me another time. 
+
+- 16/7/2022 23:49 I just don't write every day because I'm tired of this shit. I'm tired about Francesca, about her family, about Andreu, about organized crime from Genoa (pedophiles) and what the state call "mafia" that are people that work for pedophiles in Genoa for money. I'm tired.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
