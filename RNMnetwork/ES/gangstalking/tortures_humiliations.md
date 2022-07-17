@@ -2371,6 +2371,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 16/7/2022 23:49 I just don't write every day because I'm tired of this shit. I'm tired about Francesca, about her family, about Andreu, about organized crime from Genoa (pedophiles) and what the state call "mafia" that are people that work for pedophiles in Genoa for money. I'm tired.
 
+- 17/7/2022 03:40 Francesca wake me up with dream injection saying that a paramilitary that work for her family in the human trade network is the fourth in Italy in cocaine traffic market. Next she torture with electroshock, people that I've known in my life and my family participate. I'm victim of human trade, and I'm a play card of parimutuel betting system. Help me I only want to work in a Spain where human trade and torture doesn't exist. STOP THIS MADNESS.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
