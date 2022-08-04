@@ -2379,6 +2379,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 24/7/2022 18:47 I'm trying to do my job, as usual **Francesca**, a pervert torturer is torturing me in heavy way. I couldn't read or write nor think. It's an absurdity this fascist is a noble, she is the shame of the Italian Republic.
 
+- 4/8/2022 05:43 I'm very tired about, it's always the same. Torture every day and every night. Francesca doesn't sleep at all, she is simply the sickness person that could exist. It's the third time that she wake up with REM phase manipulation streaming into my brain ridiculous video that she rapidly produce obviously with a team that work with her in a audio visual production facility. Marquees **Francesca** works in fair right pseudo dictatorship look at Italian politic situation, who will be? Very simple, and you will understand how the Italian Republic was and is sold and by who and using what technology: then global human trade network transmitted by broadcast FM radiators and digital radio modules that add US patents from late seventy about remote neural states manipulation.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
