@@ -2381,6 +2381,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 4/8/2022 05:43 I'm very tired about, it's always the same. Torture every day and every night. Francesca doesn't sleep at all, she is simply the sickness person that could exist. It's the third time that she wake up with REM phase manipulation streaming into my brain ridiculous video that she rapidly produce obviously with a team that work with her in a audio visual production facility. Marquees **Francesca** works in fair right pseudo dictatorship look at Italian politic situation, who will be? Very simple, and you will understand how the Italian Republic was and is sold and by who and using what technology: then global human trade network transmitted by broadcast FM radiators and digital radio modules that add US patents from late seventy about remote neural states manipulation.
 
+- It's days that I decide that one hundred pages of logbook of torture is totally sufficient to put in jail for life a noble. And yes it is. Francesca follow every day doing the same, torturing. My business is already a reality another time dear marquees of terror. I've no fear of state forces, or International police. I've no fear at all because I'm a citizen, your facility of human and drugs trade in the Mediterranean area in the next few years will let you be put in jail for ever. I promise and I stop write this horrible but totally sure logbook. Fuck off stupid.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
