@@ -2385,6 +2385,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - a little boy son of billionaires from genoa grandson of an industrial entrepreneur of the early twentieth century, a useless man who uses the trafficking network to maintain the legally acquired wealth for his grandfather's part. With stupid insinuations he assumes that since I do not have access to the same network he maintains an almost genoflex position in front of him. Imbecile what the world commands is democracy.
 
+- A girl from Puglia speaking about my kidnapping and torturing saying that simply I've done a figure of shit. Why she is saying that? Because in the panoptic jail others people that are victim of, tortured who tortures, people see mafia victims being tortured in the post modern tv.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
