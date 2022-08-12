@@ -2383,6 +2383,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - It's days that I decide that one hundred pages of logbook of torture is totally sufficient to put in jail for life a noble. And yes it is. Francesca follow every day doing the same, torturing. My business is already a reality another time dear marquees of terror. I've no fear of state forces, or International police. I've no fear at all because I'm a citizen, your facility of human and drugs trade in the Mediterranean area in the next few years will let you be put in jail for ever. I promise and I stop write this horrible but totally sure logbook. Fuck off stupid.
 
+- a little boy son of billionaires from genoa grandson of an industrial entrepreneur of the early twentieth century, a useless man who uses the trafficking network to maintain the legally acquired wealth for his grandfather's part. With stupid insinuations he assumes that since I do not have access to the same network he maintains an almost genoflex position in front of him. Imbecile what the world commands is democracy.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
