@@ -2387,6 +2387,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - A girl from Puglia speaking about my kidnapping and torturing saying that simply I've done a figure of shit. Why she is saying that? Because in the panoptic jail others people that are victim of, tortured who tortures, people see mafia victims being tortured in the post modern tv.
 
+- A woman that was engaged with me in Genoa when I was an adolescent join together with Aurora  an engineer of human trade ( a neo franquist business that operate in Catalonia for very obvious motivation) start to sexual harass me and insinuate that I was sold in a forced marriage from when I was a child. 
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
