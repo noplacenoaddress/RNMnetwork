@@ -2383,11 +2383,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - It's days that I decide that one hundred pages of logbook of torture is totally sufficient to put in jail for life a noble. And yes it is. Francesca follow every day doing the same, torturing. My business is already a reality another time dear marquees of terror. I've no fear of state forces, or International police. I've no fear at all because I'm a citizen, your facility of human and drugs trade in the Mediterranean area in the next few years will let you be put in jail for ever. I promise and I stop write this horrible but totally sure logbook. Fuck off stupid.
 
-- a little boy son of billionaires from genoa grandson of an industrial entrepreneur of the early twentieth century, a useless man who uses the trafficking network to maintain the legally acquired wealth for his grandfather's part. With stupid insinuations he assumes that since I do not have access to the same network he maintains an almost genoflex position in front of him. Imbecile what the world commands is democracy.
+- 14/09/2022: I have decided to stop to take the logbook to after star to elaborate it in a good presentation, but Francesca and genoese "alberghi" (old associations of patricians and nobles) have raised the level of torture exponentially. So I will restart it day after day. Tomorrow starting from six AM REM phase manipulation, electroshock torture, persecution, gaslight, and various threats. Good morning.
 
-- A girl from Puglia speaking about my kidnapping and torturing saying that simply I've done a figure of shit. Why she is saying that? Because in the panoptic jail others people that are victim of, tortured who tortures, people see mafia victims being tortured in the post modern tv.
-
-- A woman that was engaged with me in Genoa when I was an adolescent join together with Aurora  an engineer of human trade ( a neo franquist business that operate in Catalonia for very obvious motivation) start to sexual harass me and insinuate that I was sold in a forced marriage from when I was a child. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
