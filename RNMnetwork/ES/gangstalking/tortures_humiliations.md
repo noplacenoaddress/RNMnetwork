@@ -2385,6 +2385,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 14/09/2022: I have decided to stop to take the logbook to after star to elaborate it in a good presentation, but Francesca and genoese "alberghi" (old associations of patricians and nobles) have raised the level of torture exponentially. So I will restart it day after day. Tomorrow starting from six AM REM phase manipulation, electroshock torture, persecution, gaslight, and various threats. Good morning.
 
+- 14/09/2022: as usual all day long torture, sexual harassment and gaslight. Always Francesca and Andreu.
+
+- 15/09/2022 5 AM: electroshock, voice to skull. As I'm victim of human trade (all) I'm victim also of forced marriage. They use the network to force me to return to Italy (forced deportation) and to marry with a woman of "alberghi". She is who is waking up me. Francesca is always present.
+
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
