@@ -2389,6 +2389,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/09/2022 5 AM: electroshock, voice to skull. As I'm victim of human trade (all) I'm victim also of forced marriage. They use the network to force me to return to Italy (forced deportation) and to marry with a woman of "alberghi". She is who is waking up me. Francesca is always present.
 
+- 17/09/2022 08:80 almost the same, all night long torture, I've got a broken tooth and with DEW Francesca and Andreu increase inflammation of the part. Those people only torture. They don't sleep and I promise that it not automatic torture guided by artificial intelligence. One of the goals of my human trade program is exactly develop of a all life long persecution.
+
+- 18/09/2020 01:00 sexual rem phase manipulation, sexual harrassment. Francesca and people from Genoa that have enslaved girls from rest of Italy. They have got access to the human network technology and they enslave womans. Human trade with final goal of forced prostitution.
+
+- 18/09/2022 08:40 all night long extreme torture to my lungs, mouth , eyes and head. I've got a bad sensation of fever and very high head cache.
+
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
