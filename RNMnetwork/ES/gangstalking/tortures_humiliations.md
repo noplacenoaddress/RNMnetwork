@@ -2383,11 +2383,20 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - It's days that I decide that one hundred pages of logbook of torture is totally sufficient to put in jail for life a noble. And yes it is. Francesca follow every day doing the same, torturing. My business is already a reality another time dear marquees of terror. I've no fear of state forces, or International police. I've no fear at all because I'm a citizen, your facility of human and drugs trade in the Mediterranean area in the next few years will let you be put in jail for ever. I promise and I stop write this horrible but totally sure logbook. Fuck off stupid.
 
-- a little boy son of billionaires from genoa grandson of an industrial entrepreneur of the early twentieth century, a useless man who uses the trafficking network to maintain the legally acquired wealth for his grandfather's part. With stupid insinuations he assumes that since I do not have access to the same network he maintains an almost genoflex position in front of him. Imbecile what the world commands is democracy.
+- 14/09/2022: I have decided to stop to take the logbook to after star to elaborate it in a good presentation, but Francesca and genoese "alberghi" (old associations of patricians and nobles) have raised the level of torture exponentially. So I will restart it day after day. Tomorrow starting from six AM REM phase manipulation, electroshock torture, persecution, gaslight, and various threats. Good morning.
 
-- A girl from Puglia speaking about my kidnapping and torturing saying that simply I've done a figure of shit. Why she is saying that? Because in the panoptic jail others people that are victim of, tortured who tortures, people see mafia victims being tortured in the post modern tv.
+- 14/09/2022: as usual all day long torture, sexual harassment and gaslight. Always Francesca and Andreu.
 
-- A woman that was engaged with me in Genoa when I was an adolescent join together with Aurora  an engineer of human trade ( a neo franquist business that operate in Catalonia for very obvious motivation) start to sexual harass me and insinuate that I was sold in a forced marriage from when I was a child. 
+- 15/09/2022 5 AM: electroshock, voice to skull. As I'm victim of human trade (all) I'm victim also of forced marriage. They use the network to force me to return to Italy (forced deportation) and to marry with a woman of "alberghi". She is who is waking up me. Francesca is always present.
+
+- 17/09/2022 08:80 almost the same, all night long torture, I've got a broken tooth and with DEW Francesca and Andreu increase inflammation of the part. Those people only torture. They don't sleep and I promise that it not automatic torture guided by artificial intelligence. One of the goals of my human trade program is exactly develop of a all life long persecution.
+
+- 18/09/2020 01:00 sexual rem phase manipulation, sexual harrassment. Francesca and people from Genoa that have enslaved girls from rest of Italy. They have got access to the human network technology and they enslave womans. Human trade with final goal of forced prostitution.
+
+- 18/09/2022 08:40 all night long extreme torture to my lungs, mouth , eyes and head. I've got a bad sensation of fever and very high head cache.
+
+- 22/09/2022 00:40 as I told I'm writing less log but torture is always the same, all day long all night long. I'm doing complaints against Camorra and Cosa Nostra but Francesca and the shareholders of her terror, human and drug traffic enterprise, the genoese families connected to ancient "alberghi", don't stop a minute to death threat my person.
+
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
