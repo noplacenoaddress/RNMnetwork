@@ -2395,6 +2395,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/09/2022 08:40 all night long extreme torture to my lungs, mouth , eyes and head. I've got a bad sensation of fever and very high head cache.
 
+- 22/09/2022 00:40 as I told I'm writing less log but torture is always the same, all day long all night long. I'm doing complaints against Camorra and Cosa Nostra but Francesca and the shareholders of her terror, human and drug traffic enterprise, the genoese families connected to ancient "alberghi", don't stop a minute to death threat my person.
+
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
