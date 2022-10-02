@@ -2397,6 +2397,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 22/09/2022 00:40 as I told I'm writing less log but torture is always the same, all day long all night long. I'm doing complaints against Camorra and Cosa Nostra but Francesca and the shareholders of her terror, human and drug traffic enterprise, the genoese families connected to ancient "alberghi", don't stop a minute to death threat my person.
 
+- 22/9/2022 06:37 sleep deprivation, REM phase manipulation with cosa nostra threats. nobility clean them ass with human rights. THIS IS IMPOSSIBLE I'VE GOT THE CONSTITUTIONAL RIGHT TO WORK! FUCK OFF!
+
+- 2/10/2022 21:54 As usual many days that I don't only because francesca program of slavery is always the same. She follows a very simple program flow using electromagnetic weapons as one instrument, torture and humiliations another and gaslight another. At least but not last a low of people from higher class of the genoese society participate, one torturing me seems to be who I will have to married, being sold in human trade also as forced marriage. Another, a stupid from Iran, saying "that I've got to understand as I'm a slave of Albaro", a high class neighborhood whew she lives. How is it possible? Look at Iranian situation and society. Will it be a good client for slavery programs exporting? Yes it is.
+
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
