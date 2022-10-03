@@ -2401,6 +2401,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 2/10/2022 21:54 As usual many days that I don't write only because Francesca program of slavery is always the same. She follows a very simple program flow using electromagnetic weapons as one instrument, torture and humiliations another and gaslight another. At least but not last a low of people from higher class of the genoese society participate, one torturing me seems to be who I will have to married, being sold in human trade also as forced marriage. Another, a stupid from Iran, saying "that I've got to understand as I'm a slave of Albaro", a high class neighborhood where she lives. How is it possible? Look at Iranian situation and society. Will it be a good client for slavery programs exporting? Yes it is.
 
+- 3/10/2022 06:00 as usual sleep deprivation and electroshock torture applied to stomach and brain as I wake up. As usual francesca and the woman (the shit better) that I've been assigned for forced marriage by the the patrician family who ordered my trafficking, my recycling.
+
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
