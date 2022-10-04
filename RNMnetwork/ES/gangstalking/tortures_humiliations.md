@@ -2403,8 +2403,9 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 3/10/2022 06:00 as usual sleep deprivation and electroshock torture applied to stomach and brain as I wake up. As usual francesca and the woman (the shit better) that I've been assigned for forced marriage by the the patrician family who ordered my trafficking, my recycling.
 
+- 4/10/2022 09:48 This monster that I've been sold to, son of pederast, follow to torture my, doing sleep deprivation, humiliation and follow to use the human trade network in Catalunya. She pertains to an old cast of dead mummies that eat sons of the city, of Genova. That stupid, a little girl all drugged of barbiturates think that I'll not doing a great complaint against all what she represents. Thinks that I'll not do it because when we was child we stay together. This stupid, enslaved by her mother, participated together with representatives of the Cosa Nostra, to what could me defined as "induced deportation" in Catalunya. Why here? Because this territory is a "human trade" develop camp. Why? Obviously because of deep politics roots.
 
-![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 4/10/2022 12:56 I just had surgery in my mouth, Costa follow to apply electromagnetic charges to it. Follow to speaks about cocaine, tobacco, Mafia, go out of party. This stupid little neo nazist follow to use the human trade network. I'm tired about. This is like a relay race where torturers pass the scepter of torture. The most interesting think is that the method is absolutely always the same. They try to induce the person to crime or abuse.![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
