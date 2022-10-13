@@ -2405,7 +2405,19 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 4/10/2022 09:48 This monster that I've been sold to, son of pederast, follow to torture my, doing sleep deprivation, humiliation and follow to use the human trade network in Catalunya. She pertains to an old cast of dead mummies that eat sons of the city, of Genova. That stupid, a little girl all drugged of barbiturates think that I'll not doing a great complaint against all what she represents. Thinks that I'll not do it because when we was child we stay together. This stupid, enslaved by her mother, participated together with representatives of the Cosa Nostra, to what could me defined as "induced deportation" in Catalunya. Why here? Because this territory is a "human trade" develop camp. Why? Obviously because of deep politics roots.
 
-- 4/10/2022 12:56 I just had surgery in my mouth, Costa follow to apply electromagnetic charges to it. Follow to speaks about cocaine, tobacco, Mafia, go out of party. This stupid little neo nazist follow to use the human trade network. I'm tired about. This is like a relay race where torturers pass the scepter of torture. The most interesting think is that the method is absolutely always the same. They try to induce the person to crime or abuse.![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 4/10/2022 12:56 I just had surgery in my mouth, Costa follow to apply electromagnetic charges to it. Follow to speaks about cocaine, tobacco, Mafia, go out of party. This stupid little neo nazist follow to use the human trade network. I'm tired about. This is like a relay race where torturers pass the scepter of torture. The most interesting think is that the method is absolutely always the same. They try to induce the person to crime or abuse.
+
+- 5/10/2022 00:30 I've been working all day long, this monster of Costa follow to torture and doing sleep deprivation to my person. This stupid is saying that I'm smelling cocaine.
+
+- 9/10/2022 06:00 Today I've got a great installation and I go to sleep at 8 PM. Francesca have TORTURED my self all night long. Dream injection with Stidda components threats, she use stidda to execute deportation, European human trade with destination the two camps of exploitation, torture and absolutism development presents in Europe, Catalunya and Holland. Now I wake up and start to prepare my self and my work! Go to fuck stupid noble.
+
+- 13/10/2022 11:47 ![](https://pbs.twimg.com/media/FdFIfPxX0AUCC54?format=png&name=900x900)
+
+  As human trade in Genoa is like a company listed on a hidden stock exchange in which every family belonging to what in ancient times were called "alberghi" has shares, people from my born city, a city of Mafia, follow to torture me. Every part of this graphic in form a cake is quoted in this market. The 5% "other unknown" is develop of absolutism in one of the European exploitation camp, the one that I'm living in the  Catalan. As I was sold in this slavery market also as forced marriage victim, the woman that have buy myself follow to extreme torture me. They only do it for money. Nothing else.
+
+  
+
+  ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
