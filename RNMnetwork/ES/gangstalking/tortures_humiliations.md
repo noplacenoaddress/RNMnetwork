@@ -2415,9 +2415,13 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
   As human trade in Genoa is like a company listed on a hidden stock exchange in which every family belonging to what in ancient times were called "alberghi" has shares, people from my born city, a city of Mafia, follow to torture me. Every part of this graphic in form a cake is quoted in this market. The 5% "other unknown" is develop of absolutism in one of the European exploitation camp, the one that I'm living in the  Catalan. As I was sold in this slavery market also as forced marriage victim, the woman that have buy myself follow to extreme torture me. They only do it for money. Nothing else.
 
-  
+- 16/10/2022 13:00 today is Sunday and after six days of work I want to go out with a friend of mine, another victim of human trade. Francesca follow to torture me, death threat my person with Andreu and all the mafia below. Sara, from Genoa, said that I cannot smoke cigarettes or drink something because she is my wife. I'm so tired to be tortured and humiliated in the human trade network because of exploitation from a Genoese patrician family.
 
-  ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+
+
+
+
+![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
