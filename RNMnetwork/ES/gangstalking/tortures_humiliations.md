@@ -2417,6 +2417,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 16/10/2022 13:00 today is Sunday and after six days of work I want to go out with a friend of mine, another victim of human trade. Francesca follow to torture me, death threat my person with Andreu and all the mafia below. Sara, from Genoa, said that I cannot smoke cigarettes or drink something because she is my wife. I'm so tired to be tortured and humiliated in the human trade network because of exploitation from a Genoese patrician family.
 
+- 18/10/2022 I was waked up at 2 AM by a bastard from a Genoese surname that I've know because I'm victim of human trade when I was a child. This stupid have heavy tortured me with a man of "Anonima Sarda" mafia. This man in 2019 had flash kidnapped myself. Today, 19, Francesca and this bastard have tortured me all day long. When they rise level of torture using direct energy weapons hidden in Spain behind civilian radio broadcast radiators I cannot work in the right way because my neural states are totally disturbed by electromagnetic fields that overload electric charges in my synapses. Result is be confused and general fatigue. I'm so tired that those bastards follow to torture my person, a citizen of Europe, in a theoretical democracy, Spain. I'm so tired about aristocracy terrorism. 
+
 
 
 
