@@ -2419,6 +2419,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/10/2022 I was waked up at 2 AM by a bastard from a Genoese surname that I've know because I'm victim of human trade when I was a child. This stupid have heavy tortured me with a man of "Anonima Sarda" mafia. This man in 2019 had flash kidnapped myself. Today, 19, Francesca and this bastard have tortured me all day long. When they rise level of torture using direct energy weapons hidden in Spain behind civilian radio broadcast radiators I cannot work in the right way because my neural states are totally disturbed by electromagnetic fields that overload electric charges in my synapses. Result is be confused and general fatigue. I'm so tired that those bastards follow to torture my person, a citizen of Europe, in a theoretical democracy, Spain. I'm so tired about aristocracy terrorism. 
 
+- 21/10/2022 Francesca join together with a member of the family that is guilty of human trade and another bastard that work for them administrating "play cards", that means mafia people in Genoa, are seriously torturing myself. This morning I simply cannot think clearly, I cannot work. In my favor there is the fact that I'm an autonomous business man, if I had been a wage worker I would have lost my job. These people trafficked into slavery, threaten women with hair loss or torture their children to create sex slaves. They threaten men with losing their jobs to create drug dealers. Drugs that they import through corrupt elements of the army, both Italian and Catalan, to poison Genoa.
+
 
 
 
