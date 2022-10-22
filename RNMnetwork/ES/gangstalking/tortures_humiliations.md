@@ -2421,6 +2421,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 21/10/2022 Francesca join together with a member of the family that is guilty of human trade and another bastard that work for them administrating "play cards", that means mafia people in Genoa, are seriously torturing myself. This morning I simply cannot think clearly, I cannot work. In my favor there is the fact that I'm an autonomous business man, if I had been a wage worker I would have lost my job. These people trafficked into slavery, threaten women with hair loss or torture their children to create sex slaves. They threaten men with losing their jobs to create drug dealers. Drugs that they import through corrupt elements of the army, both Italian and Catalan, to poison Genoa.
 
+- 21/10/2022 Francesca has tortured me in manner as I fall sleeping for three hours in full day of work. Her surname is remember as "heroes" of the second world war. Francesca sold torture to patrician families, administers elements of Cosa Nostra in trafficking, administers Camorra in drug trafficking, tortures innocent citizens, forces women into prostitution and silence, uses the Catalan explosion camp to foment terrorism. Help.
+
+- 22/10/2022 I recently got cold with a simple common virus and I have a slight inflammation of the airways. Francesca constantly increases the emission power of the digital radio modules of the route network so that the electromagnetic field that constantly runs through my body increases. The result is that the cough does not heal and becomes drier. This noble fool plays with people's minds and makes them believe it's a more serious disease. This terrorist must be arrested and tried by a military court. I am tired.
+
 
 
 
