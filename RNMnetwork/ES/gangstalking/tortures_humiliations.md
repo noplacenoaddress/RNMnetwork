@@ -2425,6 +2425,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 22/10/2022 I recently got cold with a simple common virus and I have a slight inflammation of the airways. Francesca constantly increases the emission power of the digital radio modules of the route network so that the electromagnetic field that constantly runs through my body increases. The result is that the cough does not heal and becomes drier. This noble fool plays with people's minds and makes them believe it's a more serious disease. This terrorist must be arrested and tried by a military court. I am tired.
 
+- 30/10/2022 02:05 Extreme torture, REM phase manipulation and lucid dreams injections while I was sleeping. Stupidity streamed into my visual cortex. This terrorist of Durand and her crew of morons are torturing my person to obtain brain stress, brain fatigue, and loose of concentration. Final goal is loose of work and destruction of the economical position of the target. Please stop the terrorism transmitted by FM broadcast radiators added modules in the human trade exploitation camp of Catalunya, Carcelona. Please stop with Durand, with genoese mafia of her human trade cartel that serve to old patrician surnames association of Genoa. Please stop with human trade network.
+
 
 
 

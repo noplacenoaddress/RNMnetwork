@@ -80,6 +80,10 @@ Another form to demonstrate without any doubt that you're victim of direct energ
 
 ![](https://github.com/redeltaglio/RNMnetwork/raw/master/Images/FSupPQ-WYAISeMF.jpeg)
 
+#### Another diagnostic of a victim of the human trade network.
+
+
+
 #### Personals toughs 
 
 ![Personals toughs](http://telecomlobby.com/Images/remote_neural_monitoring_network_crimes_riccardo_giuntoli.webp)
