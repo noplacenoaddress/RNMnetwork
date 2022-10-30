@@ -2405,7 +2405,33 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 4/10/2022 09:48 This monster that I've been sold to, son of pederast, follow to torture my, doing sleep deprivation, humiliation and follow to use the human trade network in Catalunya. She pertains to an old cast of dead mummies that eat sons of the city, of Genova. That stupid, a little girl all drugged of barbiturates think that I'll not doing a great complaint against all what she represents. Thinks that I'll not do it because when we was child we stay together. This stupid, enslaved by her mother, participated together with representatives of the Cosa Nostra, to what could me defined as "induced deportation" in Catalunya. Why here? Because this territory is a "human trade" develop camp. Why? Obviously because of deep politics roots.
 
-- 4/10/2022 12:56 I just had surgery in my mouth, Costa follow to apply electromagnetic charges to it. Follow to speaks about cocaine, tobacco, Mafia, go out of party. This stupid little neo nazist follow to use the human trade network. I'm tired about. This is like a relay race where torturers pass the scepter of torture. The most interesting think is that the method is absolutely always the same. They try to induce the person to crime or abuse.![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 4/10/2022 12:56 I just had surgery in my mouth, Costa follow to apply electromagnetic charges to it. Follow to speaks about cocaine, tobacco, Mafia, go out of party. This stupid little neo nazist follow to use the human trade network. I'm tired about. This is like a relay race where torturers pass the scepter of torture. The most interesting think is that the method is absolutely always the same. They try to induce the person to crime or abuse.
+
+- 5/10/2022 00:30 I've been working all day long, this monster of Costa follow to torture and doing sleep deprivation to my person. This stupid is saying that I'm smelling cocaine.
+
+- 9/10/2022 06:00 Today I've got a great installation and I go to sleep at 8 PM. Francesca have TORTURED my self all night long. Dream injection with Stidda components threats, she use stidda to execute deportation, European human trade with destination the two camps of exploitation, torture and absolutism development presents in Europe, Catalunya and Holland. Now I wake up and start to prepare my self and my work! Go to fuck stupid noble.
+
+- 13/10/2022 11:47 ![](https://pbs.twimg.com/media/FdFIfPxX0AUCC54?format=png&name=900x900)
+
+  As human trade in Genoa is like a company listed on a hidden stock exchange in which every family belonging to what in ancient times were called "alberghi" has shares, people from my born city, a city of Mafia, follow to torture me. Every part of this graphic in form a cake is quoted in this market. The 5% "other unknown" is develop of absolutism in one of the European exploitation camp, the one that I'm living in the  Catalan. As I was sold in this slavery market also as forced marriage victim, the woman that have buy myself follow to extreme torture me. They only do it for money. Nothing else.
+
+- 16/10/2022 13:00 today is Sunday and after six days of work I want to go out with a friend of mine, another victim of human trade. Francesca follow to torture me, death threat my person with Andreu and all the mafia below. Sara, from Genoa, said that I cannot smoke cigarettes or drink something because she is my wife. I'm so tired to be tortured and humiliated in the human trade network because of exploitation from a Genoese patrician family.
+
+- 18/10/2022 I was waked up at 2 AM by a bastard from a Genoese surname that I've know because I'm victim of human trade when I was a child. This stupid have heavy tortured me with a man of "Anonima Sarda" mafia. This man in 2019 had flash kidnapped myself. Today, 19, Francesca and this bastard have tortured me all day long. When they rise level of torture using direct energy weapons hidden in Spain behind civilian radio broadcast radiators I cannot work in the right way because my neural states are totally disturbed by electromagnetic fields that overload electric charges in my synapses. Result is be confused and general fatigue. I'm so tired that those bastards follow to torture my person, a citizen of Europe, in a theoretical democracy, Spain. I'm so tired about aristocracy terrorism. 
+
+- 21/10/2022 Francesca join together with a member of the family that is guilty of human trade and another bastard that work for them administrating "play cards", that means mafia people in Genoa, are seriously torturing myself. This morning I simply cannot think clearly, I cannot work. In my favor there is the fact that I'm an autonomous business man, if I had been a wage worker I would have lost my job. These people trafficked into slavery, threaten women with hair loss or torture their children to create sex slaves. They threaten men with losing their jobs to create drug dealers. Drugs that they import through corrupt elements of the army, both Italian and Catalan, to poison Genoa.
+
+- 21/10/2022 Francesca has tortured me in manner as I fall sleeping for three hours in full day of work. Her surname is remember as "heroes" of the second world war. Francesca sold torture to patrician families, administers elements of Cosa Nostra in trafficking, administers Camorra in drug trafficking, tortures innocent citizens, forces women into prostitution and silence, uses the Catalan explosion camp to foment terrorism. Help.
+
+- 22/10/2022 I recently got cold with a simple common virus and I have a slight inflammation of the airways. Francesca constantly increases the emission power of the digital radio modules of the route network so that the electromagnetic field that constantly runs through my body increases. The result is that the cough does not heal and becomes drier. This noble fool plays with people's minds and makes them believe it's a more serious disease. This terrorist must be arrested and tried by a military court. I am tired.
+
+- 30/10/2022 02:05 Extreme torture, REM phase manipulation and lucid dreams injections while I was sleeping. Stupidity streamed into my visual cortex. This terrorist of Durand and her crew of morons are torturing my person to obtain brain stress, brain fatigue, and loose of concentration. Final goal is loose of work and destruction of the economical position of the target. Please stop the terrorism transmitted by FM broadcast radiators added modules in the human trade exploitation camp of Catalunya, Carcelona. Please stop with Durand, with genoese mafia of her human trade cartel that serve to old patrician surnames association of Genoa. Please stop with human trade network.
+
+
+
+
+
+![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
