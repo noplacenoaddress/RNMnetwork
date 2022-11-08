@@ -2433,6 +2433,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 2/11/2022 01:00 the woman which family, that pertain to alberghi mafia of Genoa ( old aristocrats that live upon slavery and pederasty to hide tax evasions using corrupted priest in Liguria), had bought me when I was born, follow to heavy torture me. This terrorist was also an ex girlfriend of mine. Now I know exactly why I've known her, this monster want to marry me because of recycling and child traffic.  
 
+- 4/11/2022 20:19 The corrupted Spanish service that work in the torture of an entire territory, the Catalan, saying that freedom doesn't exist. Freedom is a constitutional right son of bitch.
+
+- 7/11/2022 03:00 this fucking noble, Francesca, follow to torture my person. I couldn't sleep because of her drug addiction. 
+
+- 8/11/2022 14:30 in the Spanish human trade network transmitted by non lethal weapons hidden behind civilian FM broadcast radiators, radio and television digital systems, francesca and her crew of torturer, stalkers and mafia is provoking to me an annoying continuous dry cough due to electromagnetic fields that continuously run through my internal organs, in this case more directed to the trachea, lungs and bronchi. People present at my torture by playing remote mutual betting system keep inciting me to go to a doctor indicating that it is due to the fact that I smoke. These idiots do not understand that they belong to one category, incarcerated for life for the simple and mere fact of being torturers.
+
 
 
 
