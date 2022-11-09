@@ -2439,6 +2439,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 8/11/2022 14:30 in the Spanish human trade network transmitted by non lethal weapons hidden behind civilian FM broadcast radiators, radio and television digital systems, francesca and her crew of torturer, stalkers and mafia is provoking to me an annoying continuous dry cough due to electromagnetic fields that continuously run through my internal organs, in this case more directed to the trachea, lungs and bronchi. People present at my torture by playing remote mutual betting system keep inciting me to go to a doctor indicating that it is due to the fact that I smoke. These idiots do not understand that they belong to one category, incarcerated for life for the simple and mere fact of being torturers.
 
+- 9/11/2022 20:10 Francesca quietly saying that causing severe inflammation in the respiratory tract is part of the psychological warfare. Francesca what you are is one of the worst terrorists in the Mediterranean and nothing less.
+
 
 
 
