@@ -2445,6 +2445,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 23/11/2022 It's two weeks that I'm seek because a common flu virus. Francesca and her crew with all the aristocrats connected and participating have grown and change the torture. They apply the same program of human trade to people that live in the street. Now I know why there a lot of people living in the street in Catalonia and why someone is Italian. This is what they call "the Jesus program", a man victim probably of child traffic that nobility crucify let him be persecuted by the people that he had known in his life. Persecute and exploited in a program digitally organized in the technological Catalan human trade network transmitted by illegal digital radio modules of neural control, interference and torture added to legal state broadcast FM radiators. This is how it works and how it was exported to other countries to create what is known as the target individual program a sort of surrogate of this gambling based persecution.
 
+- 23/11/2022 18:30 Francesca follow to death threat my person. She uses paramilitary figures that serve her family and were trained in Marina Military.
+
+- 28/11/2022 05:40 sleep deprivation all night long. It's Monday and I've got to work. This noble, this bitch have to be stopped. Stop marquees Francesca. She is a monster.
+
+- 1/12/2022 07:53 All night long sleep deprivation, always Francesca.
+
 
 
 
