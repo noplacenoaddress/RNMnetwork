@@ -2451,7 +2451,11 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 1/12/2022 07:53 All night long sleep deprivation, always Francesca.
 
+- 3/12/2022 08:00 All night long sleep deprivation, always Francesca.
 
+- 3/12/2022 08:49 The woman that I was sold as forced marriage is threating my person saying that if I would not participate I had to I have to shut up. This stupid cannot understand that I cannot shut up in front of crime against humanity. Thank you sweetie.
+
+- 4/12/2022 03:22 this woman got to be arrested. She simply doesn't sleep and only torture all day and all night long. As usual REM phase manipulation and sleep deprivation. Stop that pervert please.
 
 
 
