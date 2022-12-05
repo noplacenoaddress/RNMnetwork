@@ -2451,7 +2451,15 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 1/12/2022 07:53 All night long sleep deprivation, always Francesca.
 
+- 3/12/2022 08:00 All night long sleep deprivation, always Francesca.
 
+- 3/12/2022 08:49 The woman that I was sold as forced marriage is threating my person saying that if I would not participate I had to I have to shut up. This stupid cannot understand that I cannot shut up in front of crime against humanity. Thank you sweetie.
+
+- 4/12/2022 03:22 this woman got to be arrested. She simply doesn't sleep and only torture all day and all night long. As usual REM phase manipulation and sleep deprivation. Stop that pervert please.
+
+- 4/12/2022 19:31 Criminals that got access to the human trade network infrastructure, people from Cosa Nostra and other Mafia, clean money that come from them crimes ordered by aristocrats and nobles families of the north Italy in virtual casinos transmitted by the same infrastructure, obviously without torture. One is in Santo Domingo physically. They play gambling systems, parimutuel betting system based upon time on the life of the victim. Victim of European human trade, but is known as victim of Mafia (but it is not true). This system is the money laudering system binded by Francesca and Genoese "alberghi" to mafia that have been translated, as they do with police exactly the same, to the north from the south. Police are translated by state, Mafia by state terrorism, Vatican terrorism. Today I've been tortured at 3 AM with REM phase manipulation and sleep deprivation because with my work I can buy finally a car. In 2018 I was living in the street after an enormous thief because I was sold as a slave for a technological startup.
+
+- 5/12/2022 22:15 this idiot of a marquees that cover her crimes behind the name of the Catholic Church, by the way inside that institution there are a lot of corrupted priest, bishops and archibishops that cover her, follow to death threat my person using various figures of Mafia, Cosa Nostra in primis as the mafia of human trade. That terrorist of Francesca follow to torture every day and every night. Stop this monster.
 
 
 
