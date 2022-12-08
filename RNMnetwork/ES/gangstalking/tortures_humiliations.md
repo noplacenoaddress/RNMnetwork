@@ -2467,6 +2467,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 8/12/2022 01:15 A family from Albaro, the family that have bought from Francesca and her crew of paramilitary and Mafia my human trade persecution, start to torture myself when I go to sleep. Those idiots, that I've known in my life from when I was a child, don't understand the importance to have born in those family. Because they're only stupids they keep them surnames basing their fortune above human trade and cocaine traffic. They work together with Cosa Nostra, Ligurian racket and Sardinian criminaly to sell drug, sell child and also organize flash kidnap because of gambling  in santo Domingo to clean Mafia money, in virtual casinos trasmitted by this same technology, the human trade network. Go to fuck, idiot. 
 
+- 8/12/2022 07:40 Sleep deprivation as usual those fellows are addicted to torture. I love you stupids. Francesca have grown a lot torture my brain is under extreme electrical overload, I cannot think clearly when I weak up and as I do it, they start immediately to stalk, to harass, to humiliate. 
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
