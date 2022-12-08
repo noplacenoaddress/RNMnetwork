@@ -2461,6 +2461,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 5/12/2022 22:15 this idiot of a marquees that cover her crimes behind the name of the Catholic Church, by the way inside that institution there are a lot of corrupted priest, bishops and archibishops that cover her, follow to death threat my person using various figures of Mafia, Cosa Nostra in primis as the mafia of human trade. That terrorist of Francesca follow to torture every day and every night. Stop this monster.
 
+- 6/12/2022 08:00 all night long sleep deprivation using REM manipulation technique. Some [#TI](https://twitter.com/hashtag/TI?src=hashtag_click) call it lucid dreams, but obviously this is not the correct term. They are simply artificial modulation of data video over brain REM electrical states ( theta waves ).
+
+- 7/12/2022 12:47 one woman from genoese "alberghi" underlining that I shut up Francesca will stop torture me. No my dear I'm a citizen it could not be possible that a surname studied as "heroes" is the queen of the human trade network in the Mediterranean area. Regards,
+
+- 8/12/2022 01:15 A family from Albaro, the family that have bought from Francesca and her crew of paramilitary and Mafia my human trade persecution, start to torture myself when I go to sleep. Those idiots, that I've known in my life from when I was a child, don't understand the importance to have born in those family. Because they're only stupids they keep them surnames basing their fortune above human trade and cocaine traffic. They work together with Cosa Nostra, Ligurian racket and Sardinian criminaly to sell drug, sell child and also organize flash kidnap because of gambling  in santo Domingo to clean Mafia money, in virtual casinos trasmitted by this same technology, the human trade network. Go to fuck, idiot. 
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
