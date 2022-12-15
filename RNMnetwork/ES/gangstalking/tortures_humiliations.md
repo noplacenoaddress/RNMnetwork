@@ -2469,6 +2469,16 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 8/12/2022 07:40 Sleep deprivation as usual those fellows are addicted to torture. I love you stupids. Francesca have grown a lot torture my brain is under extreme electrical overload, I cannot think clearly when I weak up and as I do it, they start immediately to stalk, to harass, to humiliate. 
 
+- 8/12/2022 18:38 in Genoa some years ago a man that I've known in the past commit suicide. Now the woman that participate in my persecution as, saying here, forced married is saying without thinking a minute: "in this way we've archive that he had commit suicide".
+
+- 8/12/2022 21:05 that woman, which name is Sara,  was an ex girlfriend of mine. Obviously I've known her in the past because of this money laundering parimutuel betting system mounted above all what I'm doing from when Francesca had started to torture me, on 27 of November 2017. 27 of November is also the date in which in Gela, the city of roots of the family of Sicialian that work with Francesca better saying with Genoese aristocracy and old surnames in human trade, there was a gun  shooting. Sara had known also sexually obviously to deep known my physics limits, how to torture and stress my person. Those womans play parimutuel but are used by nobles and aristocrats, nobles like Francesca, to silently kill the victim. Who? Suicide, car accident, overdose, hearth attack. All of them are provoked by part of the IT structure used to administrate the human trade network, but also to torture and persecute, almost exactly like Nazi did in second world war, victims. For me, and for all the other victim, the human trade network is an exploitation camp. Help me.
+
+- 9/12/2022 08:00 genoese a part of applying various torture, harassment, humiliation and obviously forced sexual abstinence methods now start to let me think that I cannot speak clearly Spanish. All of that to obtain another forced deportation, like they've done previously in my life when I start to live in Catalunya. Now they have also organized a flash kidnap, using a dangerous criminal from Sardinia. Also  beatings from a Cosa Nostra member.
+
+- 9/12/2022 20:20 Friday is here and as usual Francesca start to apply electromagnetic fields and charges to my hearth. She starts to speaks with those genoese idiots about cocaine. Those morons don't understand that they are all evolved in crimes against humanity, in human trade.  
+
+- 15/21/2022 08:30 All night long sleep deprivation with REM phase manipulation and electroshock torture. Weaking up Francesca immediately start to apply micro charges to my hearth and face. I'm so tired of her fair right pseudo dictatorship and about the Catalan human trade territory called Carcelona, where many Italian criminals come to do crimes and get rich in exchange for shut up about human trade and participate in Francesca's persecution that are sold to other part of world cast to maintain power. Look at Iran and Venezuela for example.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
