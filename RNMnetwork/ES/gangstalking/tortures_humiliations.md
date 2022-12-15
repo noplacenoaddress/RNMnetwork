@@ -2475,6 +2475,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 9/12/2022 08:00 genoese a part of applying various torture, harassment, humiliation and obviously forced sexual abstinence methods now start to let me think that I cannot speak clearly Spanish. All of that to obtain another forced deportation, like they've done previously in my life when I start to live in Catalunya. Now they have also organized a flash kidnap, using a dangerous criminal from Sardinia. Also  beatings from a Cosa Nostra member.
 
+- 9/12/2022 20:20 Friday is here and as usual Francesca start to apply electromagnetic fields and charges to my hearth. She starts to speaks with those genoese idiots about cocaine. Those morons don't understand that they are all evolved in crimes against humanity, in human trade.  
+
+- 15/21/2022 08:30 All night long sleep deprivation with REM phase manipulation and electroshock torture. Weaking up Francesca immediately start to apply micro charges to my hearth and face. I'm so tired of her fair right pseudo dictatorship and about the Catalan human trade territory called Carcelona, where many Italian criminals come to do crimes and get rich in exchange for shut up about human trade and participate in Francesca's persecution that are sold to other part of world cast to maintain power. Look at Iran and Venezuela for example.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
