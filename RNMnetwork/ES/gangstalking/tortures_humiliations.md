@@ -2479,6 +2479,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/21/2022 08:30 All night long sleep deprivation with REM phase manipulation and electroshock torture. Weaking up Francesca immediately start to apply micro charges to my hearth and face. I'm so tired of her fair right pseudo dictatorship and about the Catalan human trade territory called Carcelona, where many Italian criminals come to do crimes and get rich in exchange for shut up about human trade and participate in Francesca's persecution that are sold to other part of world cast to maintain power. Look at Iran and Venezuela for example.
 
+- 15/12/2022 22:20 An engineer of human trade that work for Francesca family obviously for favoritism for her personal career,  a stupid that had decided to betray her friends for this fascist and her wallet dares to say that she is working while torturing and humiliating my self, that, yes, I'm alive and I'm working. Stupid terrorist go to jail. 
+
+- 17/12/2022 19:07 all day long torture by that insect of marquees. It's impossible that state or international police doesn't stop this human trafficker and Italian mafia administrator. She rent services in the human trade network to Cosa Nostra and Camorra families that live in Genoa. "Delegation" of that Mafia that operate in the Ligurian territory, with her adaptation of the target individual program, a program of human trade with exploitation purposes selling results and model to other countries, she also administrate a money laundering system based upon gambling and virtual casinos. Those are physically in central America, santo Domingo. 
+
+- 18/12/2022 06:30 all night long REM phase manipulation. a shame. Shame on you!
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
