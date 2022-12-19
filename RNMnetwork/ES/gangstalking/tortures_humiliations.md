@@ -2485,6 +2485,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/12/2022 06:30 all night long REM phase manipulation. a shame. Shame on you!
 
+- 19/12/2022 19:27 after all night long as usual of REM phase manipulation this monster of marquees is torturing me all day long. In front of a lot of people of Genoa, this absurdity is following to torture me. Torture, from 2017. Incredible.
+
 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
