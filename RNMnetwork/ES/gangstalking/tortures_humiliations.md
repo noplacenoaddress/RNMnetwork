@@ -2485,7 +2485,45 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/12/2022 06:30 all night long REM phase manipulation. a shame. Shame on you!
 
-- 19/12/2022 19:27 after all night long as usual of REM phase manipulation this monster of marquees is torturing me all day long. In front of a lot of people of Genoa, this absurdity is following to torture me. Torture, from 2017. Incredible.
+- 19/12/2022 19:27 after all night long as usual of REM phase manipulation this monster of marquees is torturing me all day long. In front of a lot of people of Genoa, this absurdity is following to torture me. Torture, from 2017. Incredible. The answer of Francesca is that she will detonate a bomb in front of my house in Genoa.
+
+- 20/12/2022 03:30 sleep deprivation with REM phase manipulation, always Francesca. She likes Christmas as she is connected with the Jesuits. Those monster hide inside the order a noble dedicated in her totality to torture.
+
+- 20/12/2022 07:00 wake up wit electroshock torture, as usual Francesca. In the morning when she wakes up with this kind of abuse, as usual she speaks with some other genoese families components about my father. They would have me believe that torture is way to be "like my father". go to fuck stupids. 
+
+- 20/12/2022 13:30 Francesca follow to sexual harass me. She is a marquees, child study about her grandfather at school. I don't ever understand how it is possible, but yes it is. She hide behind the fact that in human trade network is simple fake other people voices, but not the way to do it.
+
+- 21/12/2022 00:04 Alessandro a man that he crept into my life like a snake, together with sara an ex of mine under francesca's orders since i received an unexpected tax to pay they continue to torture me. This imbecile would also have been a good childhood friend of mine. These beggars to peddle some drugs or work in the municipality of Genoa torture the victims of the hotels. Who are the hotels? Genoese patrician families with medieval roots.
+
+- 21/12/2022 10:30 Francesca follow to humiliate myself saying that I've got to shut up and suffer as if I were a dog. A criminal who works for her in 2019 insinuated the exact same thing, going as far as the flash seizure. Now I am explaining to the world how the human trafficking network works, a network of low-level services for petty criminals who on a large scale are guilty of having broken the current democracy.
+
+- 21/12/2022 14:37 Sara, this woman that was my girlfriend when we was child, follow to say that my instance of torture in the human trade network, is "the game" of Genoa. She speaks about black market, drug management and Mafia administration. Dear sweetie "my game" is the work that those terrorist, and you little, have thief to my person. After that you've "played" with a group of paramilitaries specialist in marginalization and suicide betting over my life. When they was physically torturing me and to flash kidnap me. Sara, my dear, your family and now you are totally evolved in organized criminality. 
+
+- 21/12/2022 18:56 Why Sara is acting in that horrible way, torturing humiliating and doing sexual harass applying electromagnetic fields with electric micro charges to my penis. One of the first reasons is without any doubt that she is a player of parimutuel betting system and she had reserved a bet over the fact that I will return to Genoa (in practice another time is evolved in forced deportation, the first time join together with Cosa Nostra). The second, and the most horrible, is because of pederasty. What kind of? Living above a possible son between me and her, almost the same history of human trade that I've lived. Those programs of human trade sold by ancient families in Genoa are programs of slavery, son of a slave will be a slave. This is modern slavery version. By the way sweetie you've got to understand how **slavery was abolished by United Nation**. All of those services that see above all nobility, some of them, are technological managed with the human trade technology transmitted by FM broadcast radiators modules added by important people (nobles) to civilian installations. In Catalunya the human trade territory got a special nickname in the underground culture, **Carcelona**.
+
+- 21/12/2022  23:00 Aurora saying that all what I've lived from 2015, gaslight, intent of murder, intent of forced deportation by Cosa Nostra interaction, flash kidnap, gang stalking, torture without signs by paramilitaries forces connected to Marina Militare, betting over the systematic destruction of my life,  friendly environment became torture environment, more that five years of electronic torture, are "invention of my brain". Dear sweetie I'm victim of human trade, important human trade from aristocratic Genoese families. 
+
+- 22/12/2022 01:18 I go to bed Francesca with aurora and people that work for her start to death threat my person. Stop this shit of marquees, this terrorist, this monster of torture.
+
+- 22/12/2022 sleep deprivation until 5 AM. Why? Because marquees Francesca that theoretically is Jesuits join together with Andreu, the administrator of the Catalan human trade network that follow to say tha he is a noble (JAJJA) are in reality like "satanic".  
+
+- 22/12/2022 aurora below francesca orders saying after that a little boy from Camorra that sell cocaine in the Mediterranean area is threating me: "you've got to die for suicide because of fear of living". 
+
+- 23/12/2022 08:00 wake with electroshock. Immediately after Francesca start to threat with Mafia. And little minutes more and they start speak about my family, about my father. Pure catholic terrorism: cosa nostra, camorra, parents, corrupted nobles. Incredible we're living in 2022 son of a bitch.
+
+- 23/12/2022 17:40 Francesca and some morons from Genoa are torturing me in very heavy way using electroshock. I cannot think clearly and I cannot work. Why they do this just now? Because of noel. Because they "play" suicide with victims of human trade in Genoa following like monster depression. Dear Francesca, stupid, depression doesn't simply exist in the mind of a person that have lived a persecution from 2016 like me. Francesca, moron, it's from 27 November 2017 that you torture me every day and every night, now I've got a car and I'm starting gain 5 thousand euros monthly in front of your stupid face of fascist. Go to fuck.
+
+- 23/12/2022 the mother of a woman that I've known when I was a child: "if a marquees torture you, you've got to shut up." Dear honey, I'm victim of human trade if I shut up, marquees Francesca will kill me. Like have done other friend of us that you, little families of the city, have eaten.
+
+- 23/12/2022 18:55 Sara with Francesca, Aurora, Alessandro grown up torture. All because is noel, nothing less nothing more. In the insane mind of Francesca, because they are people that I've known in a very deep way when I was an adolescent this has to provoke bad felling into myself. Francesca those stupids go to jail because of human trade, and a lot of crimes more. Because pertaining to your group of terrorism. Francesca I repeat: FUCK YOU.
+
+- 25/12/2022 10:30 Francesca, a nobles very connected to Jesuits, start the Christmas day torturing, threating with Cosa Nostra, and with the dimensions of my penis. Francesca I'm tired about your terrorism.
+
+- 25/12/2022 14:00 while I'm eating Christmas dinner with my family follow to torture to speak about drug abuse to sexual harass me
+
+- 26/12/2022 21:01 as administrator of the Catalan human trade camp, obviously a military services, is many days that I don't speak about you, Andreu. Mafia, but not mafia, noble, and absolutely not noble, military, but no he seems to be a punk. Dear Andreu don't speak about cocaine, think about the kilos of amphetamine that you sniff to torture 24h/24. And you are in service my dear little functionary. I love you, your, but not so much, Riccardo: a victim of o program of human trade. European human trade. 
+
+- 27/12/2022 01:34 I go to sleep one hour and a half ago. This toxic of Francesca doesn't stop a minute to torture me, applying micro charges to my stomach, ass and penis. And to death treat my person. STOP THIS STUPID PLEASE and her program of gangstalking that cover slavery and forced marriage. 
 
 
 
