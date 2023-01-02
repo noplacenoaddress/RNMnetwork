@@ -2525,7 +2525,25 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 27/12/2022 01:34 I go to sleep one hour and a half ago. This toxic of Francesca doesn't stop a minute to torture me, applying micro charges to my stomach, ass and penis. And to death treat my person. STOP THIS STUPID PLEASE and her program of gangstalking that cover slavery and forced marriage. 
 
+- 27/12/2022 07:40 wake up with electroshock torture.
 
+- 28/12/2022 00:18 I go to sleep, immediately Francesca move her position above my head and start torturing in a form that I cannot sleep. I simply wake up, do a coffee and restart work. Stupid, with your gangstalking program you can only go to suck. 
+
+- 29/12/2022 19:16 Francesca and the human trafficking engineer who has dedicated to my trafficking program of European human trade, Aurora, as always, does not stop torturing me for a minute. I'm really tired of not being listened to by the authorities.
+
+- 29/12/2022 20:41 I wrote about her, and Aurora, as usual, start to threat my person because as she is a engineer of human trade she is contact with the actual Italian Mafia administrated by Francesca.
+
+- 30/12/2022 03:40 sleep deprivation, electroshock torture. Always that terrorist of Francesca. 
+
+- 30/12/2022 I'm working as usual now doing invoices for the new year to my customers. Francesca, as usual, is sexual harass me using the human trade technology. I'm tired. she follows to underline "why you don't sell drug". Francesca I'm an IT professional you CANNOT stop more my career. You've sold me in a slavery market administrated in the human trade network: SHUT UP! After that Aurora underlining that because I'm writing about the abuses that I'm suffering in the human trade network, Francesca will let me be jailed (curious she is the torturer and terrorist I'm a citizen) and then I'll commit suicide. Yes my dear. Yes, you've got to understand that in democracy constitution rules not a crazy noble. Kisses.
+
+- 30/12/2022 16:40 another fact that she always use to underline, better saying using threating against my person, is that I've got to return home, when she was, interacting in the life of the victim of human trade join together with him "friendly" environment, that forced my deportation to Spain. All of that is because her politic of suppression and favoritism, even if in reality the marquise does it only for mere gambling. The marquise lives by betting together with other unfortunates on the life of victims of human trafficking. The main problem is that high prelates use this drug addiction of his to destroy the initiative of the youth of the city of Genoa. In my opinion, the victims are identified as children who are smarter than normal in environments where Catholic sects such as communion and liberation or Jehovah's Witnesses are unfortunately still present today. 
+
+- 30/12/2022 22:58 Francesca follow to threat myself about break another time my professional career because of a complaint that she will do against me. The problem is, little marquees, that I'm speaking about you because you are torturing me every day and every night from more that five years. More than this you're supposed by myself, with proof obviously, to be guilty of an enormous series of crimes against my physic and professional person and more than this to be guilty of another enormous series of crimes that have seen many victims. Thank you honey.
+
+- 1/1/2023 obviously Francesca doesn't stop nor the first of January. I cannot sleep, she follow to torture me.
+
+- 2/1/2023 As usual Francesca and that stupid of human trafficker of Andreu, because being an human trafficker you've got to be only a moron, follow to torture with this absurdity transmitted by the national system of radio and television. This fucking noble cannot understand that being a noble doesn't means being a terrorist but means be a person respected and loved by all the people. Being who you are, bitch, starts paying the taxes you evade with this same system you torture.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
