@@ -2573,7 +2573,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 8/1/2023 17:10 Many here in the gangstalking program organized by Francesca that see ancients genoese families components as share holders obviously don't agree with the "method" of this criminal. She constantly threatens them to torture them child. 
 
-- 8/1/2023 18:20 as I'm following to write about her, because of her important surname, this terrorist is threating me to put me in jail, that in Catalunya see a lot of personal as corrupted, and then to kill me. Francesca I'm writing about you because you're torturing me and you want to kill me.
+- 8/1/2023 18:20 as I'm following to write about her, because of her important surname, this terrorist is threating me to put me in jail, that in Catalunya see a lot of personal as corrupted, and then to kill me. Francesca I'm writing about you because you're torturing me and you want to kill me as you've done with other victims.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
