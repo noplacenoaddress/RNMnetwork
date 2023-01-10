@@ -2575,6 +2575,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 8/1/2023 18:20 as I'm following to write about her, because of her important surname, this terrorist is threating me to put me in jail, that in Catalunya see a lot of personal as corrupted, and then to kill me. Francesca I'm writing about you because you're torturing me and you want to kill me as you've done with other victims.
 
+- 9/1/2023 00:10 as I go to sleep, francesca grow up level of torture. It's ABSOLUTELY impossible that this criminal follow to torture citizens after being victim of exploitations programs where idiots from high class family gain money. It's ABSOLUTELY impossible that this STUPID follow to torture me.
+
+- 9/1/2023 07:31 all night long dream injection. Those stupid genoese of high class use pornography to stalk me. 
+
+- 10/1/2023 02:38 wake up with electroshock torture, couldn't sleep. Just start to work, thank to me I'm a professional and I've got work at all time! Good morning Vietnam!
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
