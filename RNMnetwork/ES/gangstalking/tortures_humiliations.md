@@ -2581,6 +2581,14 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/1/2023 02:38 wake up with electroshock torture, couldn't sleep. Just start to work, thank to me I'm a professional and I've got work at all time! Good morning Vietnam!
 
+- 10/1/2023 11:11 as today I've got an important session to present a work of mine for a great customer, the idiot of Francesca and some Genoese high standing people have wake up me at 2.30 AM, next now they are stalking me without stopping a minute. Those people only play with something that simply doesn't exist.
+
+- 10/1/2023 21:06 as I stopped to work Francesca, as usual is doing that bitch, grow up level of torture. This time is the time of Mafia, this stupid start to play threats of Cosa Nostra. One of her favorites songs. This moron, a marquees, start with sexual harass, forced marriage, kidnapping, beating, cocaine, torture, human trade and always land into the Sicilian cancer: Cosa Nostra. Good Job idiot. 
+
+- 10/1/2023 23:09 and at least but not last this idiot saying: "my job is to make you commit suicide". Go to suck some cocks idiot. Good night.
+
+- 11/1/2023 21:10 It's five years that every time that I eat Francesca apply immediately after electromagnetic charges to my stomach. Digestion became heavy and body fell tired. Francesca think to let victim of forty years, the apotheosis of human kind, fell sick and tired like an old man. Stupid addicted stop your drug abuse.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
