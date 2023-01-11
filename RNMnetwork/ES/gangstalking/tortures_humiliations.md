@@ -2545,6 +2545,50 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 2/1/2023 As usual Francesca and that stupid of human trafficker of Andreu, because being an human trafficker you've got to be only a moron, follow to torture with this absurdity transmitted by the national system of radio and television. This fucking noble cannot understand that being a noble doesn't means being a terrorist but means be a person respected and loved by all the people. Being who you are, bitch, starts paying the taxes you evade with this same system you torture.
 
+- 2/1/2023 21:28 Francesca, a little fascist dick sucker, starts to speak about cocaine. It is probably her preferred addiction this is why this moron cannot sleep and torture all day and night long. This stupid doesn't understand that applying torture developed in nazi's camp using a remote technology is the worst think that could do a noble. This idiot doesn't understand that if you're doing crimes against humanity is a very good start point to not let people be free and to not saying her name to all. Remember that in my "torture chamber" (obtained by remote neural monitoring and interference technology) there are a lot of people and be an accomplice to such a crime, I don't think it pleases their families much.
+
+- 2/1/2023 23:22 now, as the global target individual program dictate, this enormous moron of Francesca start to speak about masturbation and self love. This stupid couldn't stop a minute, after she says that is all automatic. Now, little stupid, you're.
+
+- 2/1/2022 23:56 at least but not last she starts to threat about suicide, as she had manipulated all my entire life she argues that she had let suicide many others victims of European human trade. She underlines how was dead a man called Cristian, in Genoa a couple of years ago.
+
+- 3/2/2023 08:30 as I wake up after all night long of REM phase manipulation and waking up with electroshock torture Francesca simply doesn't stop a minute to copy voices of people that work with me, threating me with Cosa Nostra, and saying that I've got to return to Genoa to fulfill her trafficking program, marrying with Sara. Dear Francesca you cannot understand what is: GO TO FUCK BITCH?
+
+- 4/1/2023 20:18 francesca doesn't stop a minute to speaks about cocaine.
+
+- 6/1/2023 03:40 wakeup with REM phase manipulation, electroshock torture, and parents threats (like Mafia). Francesca in a delirium speaking about cocaine.
+
+- 6/1/2023 10:10 the idiot of Francesca, today that is a religious day, causes deafness in both eardrums using treat technology. I'm tired of this terrorist.
+
+- 6/1/2023 15:45 Francesca and Andreu in a delirium of neo franquism follow to heavy torture myself in front of a lot of Genoese that gain money from European human trade.
+
+- 6/1/2023 21:13 after all night and day long of torture this paramilitary and mercenary that administrate the human trade camp of Catalunya start his delirium of amphetamine saying that he will let me be jailed, when he, and I think part of his family, are without any doubt human trafficker and administrate Italian mafia to operate in Catalunya for obvious politics affairs. This monster and torture think that democracy doesn't exist. He is payed in my case by Genoese families to force me being a criminal and to not work. He had programmed the thief that have see me in a marginalization status after being the creator of a very successful technology  . This idiot with this stupidity doesn't stop to think about my hearth trying to put me in a hysteresis and call medical help. What he has already done in 2019 when I've done it and for protocol I was locked up in a medical hospital for something that I don't suffer. This is how this monster destroy career of victims. Someone commit suicide others live in the street, others are killed my mafia.
+
+- 7/1/2023 17:30 as usual Francesca and Andreu don't stop to torture. Today I've decided to relax myself and they simply doesn't stop. The most stupid terrorist of the world I think, a marquees, saying "my work with you...". I'm not a work I'm who let you jailed for life. Fucking fascist.  
+
+- 8/1/2023 08:50 all night long REM phase manipulation, as 6 times. Ad obviously 6 times I wake up. Always francesca.
+
+- 8/1/2023 10:20 Francesca and also Andreu, that is the strangest think that I've seen in my life he is an old man of more that sixty years and seems to be only a moron, try to let me think that what had pass to me, the systematic destruction of my life in a complex chain of events with interaction of almost all Mafia from Italy and some Spanish criminality, is a sort of "game" of black market influence in the Mediterrean area. Andreu, my dear little idiot, I'm not a trafficker. I'm an IT professional that was sold in a slavery market administrated by the human trade network technology.
+
+- 8/1/2022 16:26 the idiot of Francesca follow to heavy torture me. Every minutes she changes the reason why she is torturing me. This is incredible how this stupid think that a person under torture think that exist a reason. You're torturing me because you're a criminal, a terrorist, that hide her self behind the Church. And also hide her self using Marina Militare as a shield. Because this is what you are, sick criminal, you're applying the target individual program to the Mediterrean area having changed it in some parts giving it some "religious" reason. Child traffic. You're doing this only for your personal profit, bitch. Stop assassin youth of Genoa, monster.
+
+- 8/1/2023 17:10 Many here in the gangstalking program organized by Francesca that see ancients genoese families components as share holders obviously don't agree with the "method" of this criminal. She constantly threatens them to torture them child. 
+
+- 8/1/2023 18:20 as I'm following to write about her, because of her important surname, this terrorist is threating me to put me in jail, that in Catalunya see a lot of personal as corrupted, and then to kill me. Francesca I'm writing about you because you're torturing me and you want to kill me as you've done with other victims.
+
+- 9/1/2023 00:10 as I go to sleep, francesca grow up level of torture. It's ABSOLUTELY impossible that this criminal follow to torture citizens after being victim of exploitations programs where idiots from high class family gain money. It's ABSOLUTELY impossible that this STUPID follow to torture me.
+
+- 9/1/2023 07:31 all night long dream injection. Those stupid genoese of high class use pornography to stalk me. 
+
+- 10/1/2023 02:38 wake up with electroshock torture, couldn't sleep. Just start to work, thank to me I'm a professional and I've got work at all time! Good morning Vietnam!
+
+- 10/1/2023 11:11 as today I've got an important session to present a work of mine for a great customer, the idiot of Francesca and some Genoese high standing people have wake up me at 2.30 AM, next now they are stalking me without stopping a minute. Those people only play with something that simply doesn't exist.
+
+- 10/1/2023 21:06 as I stopped to work Francesca, as usual is doing that bitch, grow up level of torture. This time is the time of Mafia, this stupid start to play threats of Cosa Nostra. One of her favorites songs. This moron, a marquees, start with sexual harass, forced marriage, kidnapping, beating, cocaine, torture, human trade and always land into the Sicilian cancer: Cosa Nostra. Good Job idiot. 
+
+- 10/1/2023 23:09 and at least but not last this idiot saying: "my job is to make you commit suicide". Go to suck some cocks idiot. Good night.
+
+- 11/1/2023 21:10 It's five years that every time that I eat Francesca apply immediately after electromagnetic charges to my stomach. Digestion became heavy and body fell tired. Francesca think to let victim of forty years, the apotheosis of human kind, fell sick and tired like an old man. Stupid addicted stop your drug abuse.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
