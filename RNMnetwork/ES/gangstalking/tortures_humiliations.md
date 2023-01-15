@@ -2609,6 +2609,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 151/2023 05:00 rem phase manipulation, wake up and why not? Francesca torturing.
 
+- 15/1/2023 11:40 while I'm reading [this news](https://www.theguardian.com/us-news/2023/jan/11/black-lives-matter-co-founder-cousin-killed-los-angeles-police) about an horrifying arrest of a black guy in LA that terminate him life, Francesca obviously start to menace me with police. 
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
