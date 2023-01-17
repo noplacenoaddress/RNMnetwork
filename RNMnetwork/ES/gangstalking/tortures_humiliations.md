@@ -2611,6 +2611,14 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/1/2023 11:40 while I'm reading [this news](https://www.theguardian.com/us-news/2023/jan/11/black-lives-matter-co-founder-cousin-killed-los-angeles-police) about an horrifying arrest of a black guy in LA that terminate him life, Francesca obviously start to menace me with police. 
 
+- 15/1/2023 21:50 as the day come to end as usual Francesca grow the level of torture a stalk. With her some genoese acting in my persecution and exploitation instance of human trade. This stupid follow to sexual harass me thinking with her sick brain about my penis, result is an electromagnetic vortex pointing to it. Next others morons follow to speak about them stupidity as player in the human traffic "game". This is a crime against humanity not a game, I don't have to go to sleep because a marquees addicted to torture and various kind of drugs follow to electronic torture me. Thank you. 
+
+- 16/1/2023 02.47 RE; phase manipulation Andreu, totally intoxicated by amphetamine, and the other Francesca using the voices of my parents with a stupid vocoder technology. 
+
+- 16/1/2023 06:46 obviously I wake up and start to work, as all normal people will do being a self-employed person. This idiot, join together with a lot of Genoese tax defrauders who clean the money of mafias in human trafficking, start to treat as usual. Go to sleep drug addicted and start to pay your taxes. 
+
+- 16/1/2023 The idiot of Andreu, chief of the Catalan human trade camp administrator of what is known as Mafiopoli (Italians silently deported to Barcelona by high class families with final goal of drug traffic), as he wake up me this night at 3AM and because clearly after one day of work I'm tired, grow up level of threat and torture. He starts with the component of Sardinia mafia that flash kidnap me under his command and seen good for parimutuel betting system money laundering played by Genoese high class families to clean Cosa Nostra (human trade) and Camorra (cocaine traffic) black money, to kipping me under menace. 
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
