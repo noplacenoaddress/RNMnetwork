@@ -2587,7 +2587,37 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/1/2023 23:09 and at least but not last this idiot saying: "my job is to make you commit suicide". Go to suck some cocks idiot. Good night.
 
-- 11/1/2023 21:10 It's five years that every time that I eat Francesca apply immediately after electromagnetic charges to my stomach. Digestion became heavy and body fell tired. Francesca think to let victim of forty years, the apotheosis of human kind, fell sick and tired like an old man. Stupid addicted stop your drug abuse.
+- 11/1/2023 21:10 It's five years that every time that I eat Francesca apply immediately after electromagnetic charges to my stomach. Digestion became heavy and body fell tired. Francesca think to let victim of forty years, the apotheosis of human kind, fell sick and tired like an old man. Stupid addicted stop your drug abuse. Another point of lecture of the method used by this terrorist of continuous torture is that every day when a person is tired of his work she starts to grow up level of fear, starting threating with assassination or kidnapping. She is doing this from 27 November 2017. 
+
+- 11/1/2023 22:44 A woman that I've known in my past at primary school, where also I've known Francesca, is saying that I belong to her family. What does she means? Despite the abolition of servitude and slavery this surname that she represents follow to gain money with slavery, in our days with the modern human trade network system.
+
+- 12/1/2023 08:30 as usual wakeup for electroshock torture, Francesca is applying electromagnetic vortex to my lungs reducing  them capacity of oxygen volume. Why? Always the same inducting the apotheosis of human kind, a man of 41, think that he is sick. Go to fuck stupid. 
+
+- 12/1/2023 09:56 Under the administration of Andreu, the paramilitary or probably the military services that administrate the catalan human trade camp, Alessandro and Sara, the woman that the criminal associations of ancient Genoese families are forcing me to marry, are humilliating and torturing me while the administrator, Andreu, have grown level of torture. Results are tachycardia, shortness of breath, difficulty thinking clearly. All this of course while I'm working.
+
+- 12/1/2023 11:30 Francesca usually try to persuade a victim of human trade that to write about and to speak about his state of human trafficked isn't good because of black market. Francesca, my dear, I'm an IT professional I don't fall into human trade with final goal of black market. Thank you sweetie. 
+
+- 13/1/2023 00:17 I go sleep after fourteen hours of work. I've got to rebuild my business after an enormous thief from some Genoese families. After I go to bed and immediately start to sleep Francesca, as usual, wake up me. 
+
+- 13/1/2023 08:20 as I wake up, obviously for electroshock torture, Francesca immediately start to threat with voices from her diamond of money laundering and cocaine traffic. Her business group.
+
+- 13/1/2023 17:00 here in my exploitation and torture human trade instance there are a lot of people from Genoa, because is seems that the high class neighborhood of the city live upon human trade and drug traffic. There are a lot of people that I don't want to destroy because of relations that we've got when we was adolescents. Some of them it seems to be that pray me to do complaints against. It's friday I've worked six days I want to stay out a little and those fellows start with the group of paramilitaries experts in marginalization that arrive to flash kidnap me and start stalk. Go to fuck, idiots.
+
+- 14/1/2023 21:05 using the voice of Sara, the woman that in my exploitation cell in the human trade network seems to be them final goal for forced marriage, Francesca is saying "the last think that we can do with you is let you commit suicide like we've done with Cristian".
+
+- 14/1/2023 23:50 I go to sleep and Francesca with her sickness for torture, she is obviously completely addicted to amphetamine and barbiturates, grown the level of electronic torture. Electromagnetic field  invade my internal organs, my mouth and my bones are paths for electrons. I'm tired about the impunity of the terrorism of that marquees. Please do something to defeat this cancer.
+
+- 151/2023 05:00 rem phase manipulation, wake up and why not? Francesca torturing.
+
+- 15/1/2023 11:40 while I'm reading [this news](https://www.theguardian.com/us-news/2023/jan/11/black-lives-matter-co-founder-cousin-killed-los-angeles-police) about an horrifying arrest of a black guy in LA that terminate him life, Francesca obviously start to menace me with police. 
+
+- 15/1/2023 21:50 as the day come to end as usual Francesca grow the level of torture a stalk. With her some genoese acting in my persecution and exploitation instance of human trade. This stupid follow to sexual harass me thinking with her sick brain about my penis, result is an electromagnetic vortex pointing to it. Next others morons follow to speak about them stupidity as player in the human traffic "game". This is a crime against humanity not a game, I don't have to go to sleep because a marquees addicted to torture and various kind of drugs follow to electronic torture me. Thank you. 
+
+- 16/1/2023 02.47 RE; phase manipulation Andreu, totally intoxicated by amphetamine, and the other Francesca using the voices of my parents with a stupid vocoder technology. 
+
+- 16/1/2023 06:46 obviously I wake up and start to work, as all normal people will do being a self-employed person. This idiot, join together with a lot of Genoese tax defrauders who clean the money of mafias in human trafficking, start to treat as usual. Go to sleep drug addicted and start to pay your taxes. 
+
+- 16/1/2023 The idiot of Andreu, chief of the Catalan human trade camp administrator of what is known as Mafiopoli (Italians silently deported to Barcelona by high class families with final goal of drug traffic), as he wake up me this night at 3AM and because clearly after one day of work I'm tired, grow up level of threat and torture. He starts with the component of Sardinia mafia that flash kidnap me under his command and seen good for parimutuel betting system money laundering played by Genoese high class families to clean Cosa Nostra (human trade) and Camorra (cocaine traffic) black money, to kipping me under menace. 
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
