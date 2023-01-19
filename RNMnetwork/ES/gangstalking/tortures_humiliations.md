@@ -2619,6 +2619,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 16/1/2023 The idiot of Andreu, chief of the Catalan human trade camp administrator of what is known as Mafiopoli (Italians silently deported to Barcelona by high class families with final goal of drug traffic), as he wake up me this night at 3AM and because clearly after one day of work I'm tired, grow up level of threat and torture. He starts with the component of Sardinia mafia that flash kidnap me under his command and seen good for parimutuel betting system money laundering played by Genoese high class families to clean Cosa Nostra (human trade) and Camorra (cocaine traffic) black money, to kipping me under menace. 
 
+- 18/1/2023 05:00 rem phase manipulation, in the streamed video ligurian racket member doing threating to me.
+
+- 19/1/2023 4:42 rem phase minipulation, wake up with electromagnetic vortes inside my ass. in the streamed video obviously death threat. Torturing me presents: Francesca, Sara and Aurora.
+
+- 19/1/2023 22:55 As usual Francesca and also Andreu, another time, had tortured me all day long. Near the finish of the day I cannot have a good digestion process because of electromagnetic charges applied inside my stomach. As all night, in this mode Francesca let targets, victims of human trade organized and administrated with the neural monitoring, interference and torture network transmitted by broadcast FM civilian radiators (radio and television), put on weight. After that from 2016 to 2019 I've lived an enormous ancient gaslight in the city of Barcelona and next torture without trail and persecution by a military prepared group of experts in marginalization that work for that vomiting marquees of terror and obviously I've lost more that 25 kilos, Francesca think that now, after four years of all day works to be free with this project and to work another time in the same work that Francesca and Andreu had sold in an enormous organized thief covered by Cosa Nostra members and Camorra that operate in Barcelona, I fall into depression, which of course I don't even know what it is after all this madwoman has put me through, for being slightly overweight. Go to fuck Francesca.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
