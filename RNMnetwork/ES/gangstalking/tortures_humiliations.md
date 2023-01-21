@@ -2625,6 +2625,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 19/1/2023 22:55 As usual Francesca and also Andreu, another time, had tortured me all day long. Near the finish of the day I cannot have a good digestion process because of electromagnetic charges applied inside my stomach. As all night, in this mode Francesca let targets, victims of human trade organized and administrated with the neural monitoring, interference and torture network transmitted by broadcast FM civilian radiators (radio and television), put on weight. After that from 2016 to 2019 I've lived an enormous ancient gaslight in the city of Barcelona and next torture without trail and persecution by a military prepared group of experts in marginalization that work for that vomiting marquees of terror and obviously I've lost more that 25 kilos, Francesca think that now, after four years of all day works to be free with this project and to work another time in the same work that Francesca and Andreu had sold in an enormous organized thief covered by Cosa Nostra members and Camorra that operate in Barcelona, I fall into depression, which of course I don't even know what it is after all this madwoman has put me through, for being slightly overweight. Go to fuck Francesca.
 
+- 21/1/2023 15:08 Francesca doesn't stop to heavy torture me a minute.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
