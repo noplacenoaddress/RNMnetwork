@@ -2625,7 +2625,27 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 19/1/2023 22:55 As usual Francesca and also Andreu, another time, had tortured me all day long. Near the finish of the day I cannot have a good digestion process because of electromagnetic charges applied inside my stomach. As all night, in this mode Francesca let targets, victims of human trade organized and administrated with the neural monitoring, interference and torture network transmitted by broadcast FM civilian radiators (radio and television), put on weight. After that from 2016 to 2019 I've lived an enormous ancient gaslight in the city of Barcelona and next torture without trail and persecution by a military prepared group of experts in marginalization that work for that vomiting marquees of terror and obviously I've lost more that 25 kilos, Francesca think that now, after four years of all day works to be free with this project and to work another time in the same work that Francesca and Andreu had sold in an enormous organized thief covered by Cosa Nostra members and Camorra that operate in Barcelona, I fall into depression, which of course I don't even know what it is after all this madwoman has put me through, for being slightly overweight. Go to fuck Francesca.
 
-- 21/1/2023 15:08 Francesca doesn't stop to heavy torture me a minute.
+- 21/1/2023 15:08 Francesca doesn't stop to heavy torture me a minute. She is saying "for me torture and let suicide people is my favorite pastime, I enjoy it"
+
+- 24/1/2023 01:56 Today Francesca had bought good cocaine! Great! It's monday and this stupid, this useless rich girl , doesn't stop a minute to torture. Great Francesca, follow smell cocaine! Please.
+
+- 24/1/2023 08:00 wake with electroshock after only four hours of sleep, sleep deprivation from Francesca and her crew of paramilitaries dedicated to human torture, human traffic and drug traffic because of politic of nobles.
+
+- 24/1/2023 05:30 REM phase manipulation, death threat, electroshock torture. Wake up in a not natural way, as from november 2017, and why not? Francesca. She simply doesn't sleep.
+
+- 25/1/2023 21:04 Andreu in his apotheosis of being a moron, a slave, saying: "Riccardo you'll got a lot of problem (interesting after having suffered a flash kidnap by a paramilitary that work in the human trade territory that he admin), because you speak about the technology behind the human trade business". Dear Andreu I'm not a mafia I don't like the code of silence. 
+
+- 26/1/2023 04:50 REM phase manipulation, electroshock and threat by some genoese that live upon human trade. Always the same. Its very amusing like those tortured who torture, but ABSOLUTELY guilty of torture, got a battle horse: if you done some complaint about "Cosa Nostra" you cannot follow to work because of state justice. Dear morons, democracy work perfectly.
+
+- 26/1/2023 11:20 I've done a complaint about a fact that pertain to the chain of crimes that had systematically destroyed my life before being actively tortured inside the human trade network technology. Obviously Francesca is saying that her "mafia" is more powerful than state. Than Sara, who I'm forced to marry with, is saying "if you want that we stop you've got to commit suicide". Next threat: "stop write or we will do a complaint against you." This is awesome! I'm tortured and you want to do complaint against me. Please go ahead. 
+
+- 28/1/2023 23:24 I'm going to sleep and start reading about about cash management to streamline revenue management in my future business however I am self employed. Francesca doesn't let me read a line without speak about cocaine, about failure, about her life of terrorist. I'm tired about. 
+
+- 29/1/2023 10:37 Today I'm writing a complaint against a members of Sicilian criminality that work for the human trade cartel administrated by Francesca and payed by Genoese ancients families. Francesca, without any sense because she has to be a pride for the italian republic being a noble, saying: "don't you have fear, they know perfectly that you're doing it."
+
+- 30/1/2023 00:46 Francesca and some genoese idiots follow to don't let me sleep. They've got access to the collserola tower where the system of electromagnetic torture is installed and running under the eyes of a of an incredulous democratic city. These wrecks of Nazi fascism never stop bombarding the sector of sant pere de ribes with remote electrosmog using the ionosphere as transport. I'm tired about, I'm tired to be victim of parimutuel betting system, human trade, torture and sexual humanizations. They use also Saray, another victim of human trade.
+
+- 31/1/2023 21:43 Today I've brought complaints against Cosa Nostra members that works as human trade tool for some genoese cast families. Francesca, after obviously all day long of torture, start to threat me with one of her head of paramilitary terrorism chief. Forces that control and govern mafia under her directives.
 
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
