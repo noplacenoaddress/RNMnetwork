@@ -2647,6 +2647,14 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 31/1/2023 21:43 Today I've brought complaints against Cosa Nostra members that works as human trade tool for some genoese cast families. Francesca, after obviously all day long of torture, start to threat me with one of her head of paramilitary terrorism chief. Forces that control and govern mafia under her directives.
 
+- 2/2/2023 22:55 two days ago I've done complaints against Cosa Nostra members that work in human trade, child traffic, for genoese mafia called "alberghi". Sara a woman that pertain to start against to torture me. 
+
+- 5/2/2023 08:41 wake in the morning Sara is torturing me. Francesca also.
+
+- 6/2/2023 02.00 rem phase manipulation, wake up. They're animals its Monday. People got to work, fucking noble. Go to fuck Francesca with you only womans forced to stay up, poor girls. 
+
+- 6/2/2023 08:50 Sara and Aurora, obviously seeing Francesca while is torturing me as usual, is saying: "if you don complaint against us, mafia (slaves that work for them in the human trade network seeling drugs, doing thief and working in human trade)", will kill you".
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
