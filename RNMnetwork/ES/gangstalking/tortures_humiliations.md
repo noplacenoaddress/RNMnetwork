@@ -2655,6 +2655,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/2/2023 08:50 Sara and Aurora, obviously seeing Francesca while is torturing me as usual, is saying: "if you don complaint against us, mafia (slaves that work for them in the human trade network seeling drugs, doing thief and working in human trade)", will kill you".
 
+- 7/2/2023 00:00 as usual going to sleep, death threat start. And because I've grown also in my exploitation cell insults, my only form of violence, to people that have act in my human trading, people from Genoa hide themselves behind them mafia captain by marina militare terrorism grown up by Francesca family as service of human trade. Here they accompany the various mafiosi in their daily routine, drug dealing and trafficking in white women (sexual violence). At large scale you can PERFECTLY understand how have bought services from Francesca and her crew in Italy. Is very simple my friend.
+
+- 7/2/2023 20:32 In Genoa people with serious mental diseases from all over them life, from when they were child, use the human trade network transmitted by broadcast FM radiators in the Catalan human trade camp to torture normal guys and girls. those insects, addicted to every kind of drug, think that they could follow to induct to suicide normal people for the Francesca human trade cartel. Behind those ancients human trader families that gain money and protect them social position freezing the society of the city. Who could build something that work, something that isn't enveloped in mafia, is declared victim. Target individual.  
+
+- 8/2/2023 00:05 I was sleeping at 9 pm. Now wake up with an horrible dream about an old friend on mine. A man that I've known when he was only something more than a boy. Una persona a cui voglio bene. 
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
