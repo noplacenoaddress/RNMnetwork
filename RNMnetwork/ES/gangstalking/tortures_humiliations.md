@@ -2661,6 +2661,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 8/2/2023 00:05 I was sleeping at 9 pm. Now wake up with an horrible dream about an old friend on mine. A man that I've known when he was only something more than a boy. Una persona a cui voglio bene. 
 
+- 10/2/2023 01:20 sexual harassment, francesca. I cannot sleep so I wake to work. Go to fuck idiot.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
