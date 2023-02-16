@@ -2663,6 +2663,22 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 10/2/2023 01:20 sexual harassment, francesca. I cannot sleep so I wake to work. Go to fuck idiot.
 
+- 10/2/2023 17:50 Francesca as usual have tortured me all day long, and all night of course from 1 am. She simply doesn't stop saying that it is automatic, but it is totally false. She is doing electronic gaslight 24h/h. Torture, sexual arras, mafia threat, paramilitary threat, humiliating. She is saying that it is the church, she hides her terrorism behind the order of Jesuits. For sure someone know what she is doing but receive money. She is torturing people for data set recollect with final purposes of illegal military development.
+
+- 10/2/2023 19:46 As I've done complaints against Mafia that rent in the human trade network services from Francesca and her terrorism dedicated family she doesn't stop a minute saying to me that I'll live in terror. Francesca I'm living in terror from when I was a child, it simply doesn't matter. You've played to my person what you called "il vagabondo". Francesca a person after five years of torture simply doesn't think about terror, think about freedom. Freedom from you. 
+
+- 11/02/2023 as usual all day long torture by Francesca. As usual some idiot from Genoese human trade cartels appears. But she is who simply doesn't stop. She is a monster.
+
+- 13/2/2023 17:35 Francesca as usual is torturing me every minutes of the day. Now she is saying that if I will speak about her family in a tribunal she will let me beats from mafia or paramilitaries working for her in human trade.
+
+- 13/2/2023 22:38 Francesca follow like a desperate to copy voices of people that rent services from her. Services in the human trade network transmitted by broadcast FM radiators in Catalunya and in Italy also. I'm very, extremely tired about this moron.
+
+- 14/2/2023 06:00 wake up for some human trader, some idiots. REM phase manipulation with kidnapping threat. The moron of Andreu, a military services totally corrupted with the stupid of francesca in a delirium. 
+
+- 15/2/2023 05:30 electroshock torture, francesca obviously present but ordered by Sara and her family. She says: "you cannot gain 6 thousands euros, this money is mine. I've bought you". Human trade, forced marriage. Sleep deprivation.
+
+- 16/2/2023 After years of torture inflicted by a noble, Francesca, that sold human trade programs of silent exploitation to Genoese mafia and by the chief of the Catalan human trade camp, a sort of concentration camp transmitted by broadcast FM radiators in this region, I've understand only a reality. Those idiots, Francesca first of all, loose all them life torturing and persecuting victims with the only purpose to delete them traces, them crimes. Those morons loose all them day doing torture. They try the enter the victim in mafia administrated by technology loosing all about them social life, they are the worst slaves that I've seen. It's absolutely absurd how a woman that is in fact a noble have lost totally the meaning of life becoming an torturer, un boia. Is very funny see how she loose her mental health trying to kill using this stupid technology.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
