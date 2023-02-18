@@ -2679,6 +2679,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 16/2/2023 After years of torture inflicted by a noble, Francesca, that sold human trade programs of silent exploitation to Genoese mafia and by the chief of the Catalan human trade camp, a sort of concentration camp transmitted by broadcast FM radiators in this region, I've understand only a reality. Those idiots, Francesca first of all, loose all them life torturing and persecuting victims with the only purpose to delete them traces, them crimes. Those morons loose all them day doing torture. They try the enter the victim in mafia administrated by technology loosing all about them social life, they are the worst slaves that I've seen. It's absolutely absurd how a woman that is in fact a noble have lost totally the meaning of life becoming an torturer, un boia. Is very funny see how she loose her mental health trying to kill using this stupid technology.
 
+- 17/2/2023 It's friday Sara, that work in the municipality because of recommendations from Francesca family in Genoa, start to torture. Those fellows gains site of work only because of nobles or semi nobles families. To archive this they accept to work European, or perhaps also in extra European, human trade. Here they organize international traffic of humans but also of drugs, cocaine and a chemical drugs. They seems to be good families, but no. They're not.
+
+- 18/2/2023 09:00 I wake in the morning immediately Francesca start to sexual harass me. It's totally incredible how this addicted got a surname like she has.  
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
