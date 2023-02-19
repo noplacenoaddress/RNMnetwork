@@ -2683,6 +2683,8 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/2/2023 09:00 I wake in the morning immediately Francesca start to sexual harass me. It's totally incredible how this addicted got a surname like she has.  
 
+- 20/3/2023 00:09 Francesca as I want to go to sleep, every day, start to think about my brain and move her point of presence near my visual space above my head. She starts to speaks about violence, about death threats, about drugs while she is sexual harass me (thinking about my penis with her wireless brain machine interpreter point some electromagnetic fields above it). In my torture chamber, an instance rented in the catalan human trade network or better saying catalan human trade infrastructure, there are many people of my youth from Genoa. Owners, people that have gain money from my silent deportation and exploitation, including the startup of a technological firm that I've created and lost after a thief organized by Francesca human trade cartel, are presents at my torture being without any doubt instigators and accomplices. European human trade as Interpol indicate is a cake where people eat above an enormous organized crime against a single, a persecution very similar to what Catholic Church was doing in Inquisition historic period. 
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
