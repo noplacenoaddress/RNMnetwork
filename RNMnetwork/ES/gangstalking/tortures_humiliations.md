@@ -2683,6 +2683,14 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 18/2/2023 09:00 I wake in the morning immediately Francesca start to sexual harass me. It's totally incredible how this addicted got a surname like she has.  
 
+- 20/3/2023 00:09 Francesca as I want to go to sleep, every day, start to think about my brain and move her point of presence near my visual space above my head. She starts to speaks about violence, about death threats, about drugs while she is sexual harass me (thinking about my penis with her wireless brain machine interpreter point some electromagnetic fields above it). In my torture chamber, an instance rented in the catalan human trade network or better saying catalan human trade infrastructure, there are many people of my youth from Genoa. Owners, people that have gain money from my silent deportation and exploitation, including the startup of a technological firm that I've created and lost after a thief organized by Francesca human trade cartel, are presents at my torture being without any doubt instigators and accomplices. European human trade as Interpol indicate is a cake where people eat above an enormous organized crime against a single, a persecution very similar to what Catholic Church was doing in Inquisition historic period. 
+
+- 20/2/2023 as I wake up, immediately Francesca start to torture. I cannot smoke a cigarette without without coughing my lungs are bombarded by electromagnetic flows taking my breath away. Others deal with making me burp and giving me nausea and diarrhea. I'm really tired of insects allowing themselves to rape me every day. Always present members of the family that owner of my torture and exploration application, a person who has earned handsome benefits and who should have been my only option to avoid the ongoing torture to which I have been assigned by this same family in a slavery and pedophilia program with the possible child I supposedly had with her (another torturer).
+
+- 20/2/2023 21:38 as night comes Francesca start her delirium about Cosa Nostra and others mafia threats. It's fantastic seeing how a noble, that could have live like a princess, have destroyed her life being a stupid, a moron, a torturer. Stupidity is not welcome in Europe.
+
+- 21/2/2023 As I write in my notebook of torture, this stupid of Francesca inmediatly is saying "that is exactly what I want". Stupid those are 150 pages of log book of torture that you, noble that had sold her soul to terrorism, have has inflicted on my person.
+
 ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
