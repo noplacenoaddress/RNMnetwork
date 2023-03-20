@@ -2721,6 +2721,12 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 15/3/2023 Francesca had waked up me at 4 AM, now at 22 PM she follow to torture me.
 
+- 16/3/2023 As I wake up, Francesca, nephew of an Italian hero of war (incredible but sure), start immediately to menace me with kidnapping. 
+
+- 18/3/2023 2AM wake up with electroshock, then my lungs are interfered with electromagnetic fluxes and I cannot breathe clearly. Always Francesca with Sara.
+
+- 20/3/2023 20:21 I'm going ahead with project, my wireless internet service provider and the other base of my new mercantile that will grown upon the concept of simply annihilate the human trade network structure where some idiot had sold me as a human guinea pig for illegal military development to the family of francesca, the executer of my human trade. She doesn't stop to menace my integrity join together with lady that had married the chief of the patrician family owner of my trade. I don't public them surname for now because they are some how powerful. I prefer to have got a great structure up and running. 
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
