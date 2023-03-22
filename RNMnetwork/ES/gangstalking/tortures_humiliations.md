@@ -2691,7 +2691,47 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 21/2/2023 As I write in my notebook of torture, this stupid of Francesca inmediatly is saying "that is exactly what I want". Stupid those are 150 pages of log book of torture that you, noble that had sold her soul to terrorism, have has inflicted on my person.
 
-![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+- 21/2/2023 09:00 Wake up for obviously torture. Next I start work in a OpenBSD old machine trying to catch an error. As I cannot do those idiots, womans from Genoa, start to stalk. I'm tired about stupidity.
+
+- 22/2/2023 Francesca, many times copying shaping and voices of others that are by the way presents in my exploitation cell, doesn't stop a minute to think about my ass. She is harassing me without stopping a minute. Meanwhile she trying to humiliate myself comparing me with others, some are mafia others workers. Francesca I'm victim of human trade in 2019 I was living in the street because of your family of pederast. Now I've got more than one hundred customers and in one year i want to start again with my commercial firm. I will not marry who you want to because of sold of my feature son with her, fucking pederast. 
+
+- 22/2/2023 Francesca as come night start to threat. In her program of slavery there are some abuses that could be reconnected to many others cases around the world reading about victim of human trade electronically administrated, what is called "target individual". She starts to try to put in mind of the victim words like "fear", like "mafia" and others shit like that. Francesca world is of citizens not of slaves that you use to sell people. 
+
+- 23/2/2023 07:00 wake up for electroshock, same arguments. Francesca, Alessandro, Sara using figures, people that work for Alberghi, of mafia to do treat. Sara continue minutes after to try to put inside me fear about loosing my work....it seems that all Genoa is totally enslaved by pederast. 
+
+- 26/2/2023 as usual Francesca torture every minutes of the day, join together whit her all of those shittish genoese. 
+
+- 1/3/2023 all night of torture, next sexual harass, humiliations, persecutions. I've very tired about you francesca,.
+
+- 4/3/2023 I've worked all the day on friday, going to sleep a 8 pm. At 2 am Francesca, this stupid shit of noble, wake up me with torture. STOP THIS MONSTER. Now it's 6AM, four hours of torture. This stupid cannot understand that she had lost humanity because of her being a torturer. 
+
+- 5/3/2023 as I wake up Francesca immediately start to torture. She simply doesn't stop. 
+
+- 5/3/2023 22:10 as usual that moron of marquees Durand follow to torture and doesn't stop a minute. In fact she had tortured me all night long doing a delirium about cocaine addiction, something that without any doubt she knows very well. Next morning 6/3 she starts with masturbation, I want to underline as this terrorist, the chief of the execution of human trade of Genoa, is always, and I repeat always, escort by others Genoese belonging to what is defined as "alberghi". Genoese organized crime, human traffickers. 
+
+- 7/3/2023 3am: Francesca wake up me with REM phase manipulation and threats. 
+
+- 7/2023 Francesca and Andreu, as all the days, follow to remember me about Saray, another victim of human trade. They use her to promise being together another time if I accept to be a criminal, to join them human trade network business. I've got to start doing IT crimes, selling cocaine and probably start to participate to others human trade programs. In fact if I'll do it the say here that I can marry her. Its a form of strong coercion considering that she is victim of human trade and she has got a child (that now is not so child of course, time had passed).
+
+- 12/3/2023 It's sunday, francesca had tortured me all night long I've sleep only three hours. Because is sunday, Sara doesn't work. They, together with Aurora also, don't let me work, torture me without stopping a minute. I'm tired about the madness of people that work in the Genoa mafia, a mafia dedicated to human trade.
+
+- 12/3/2023 21:40 sara saying: "we know that you're in love with woman, you will never see again one."
+
+- 13/2/2023 08:00 as usual I was waked up with electroshock. Then Sara, who I supposed I've got to marry in forced marriage because I'm victim of human trade, start menace me that I will not have any sexual relation in my life because I'm tortured. Yes I know, slaver, it's totally normal because I can't get an erection obviously due to torture. This is why it's five years that I cannot kiss a woman.
+
+- 15/3/2023 Francesca had waked up me at 4 AM, now at 22 PM she follow to torture me.
+
+- 16/3/2023 As I wake up, Francesca, nephew of an Italian hero of war (incredible but sure), start immediately to menace me with kidnapping. 
+
+- 18/3/2023 2AM wake up with electroshock, then my lungs are interfered with electromagnetic fluxes and I cannot breathe clearly. Always Francesca with Sara.
+
+- 20/3/2023 20:21 I'm going ahead with project, my wireless internet service provider and the other base of my new mercantile that will grown upon the concept of simply annihilate the human trade network structure where some idiot had sold me as a human guinea pig for illegal military development to the family of francesca, the executer of my human trade. She doesn't stop to menace my integrity join together with lady that had married the chief of the patrician family owner of my trade. I don't public them surname for now because they are some how powerful. I prefer to have got a great structure up and running. 
+
+- 21/3/2023 another form of stalking of those genoese morons is that I'm speaking spanish with my clients, from about 15 years nothing less, and they interfered with my form of speaking let me doing some errors. And Sara says: "don't you hate speak spanish?" No stupid, I only want to put you and your family in jail. regards,
+
+- 21/3/2023 I've noticed another misery from you, little marquees of human trade. I was tired and I start to see videos on social network, I simply almost never do this. You, terrorist, have relaxed neural torture, electrical overload of synapses, and also electromagnetic body torture, internal organs almost. This is how I've loose one hour and a half and time had passed in a somehow false happiness for my psyche. Your tricks, terrorist, are very important to be described to obtain what you've got to pass despite your surname: jail for life for crimes against humanity.
+
+- ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
 
