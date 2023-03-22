@@ -2727,6 +2727,10 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 20/3/2023 20:21 I'm going ahead with project, my wireless internet service provider and the other base of my new mercantile that will grown upon the concept of simply annihilate the human trade network structure where some idiot had sold me as a human guinea pig for illegal military development to the family of francesca, the executer of my human trade. She doesn't stop to menace my integrity join together with lady that had married the chief of the patrician family owner of my trade. I don't public them surname for now because they are some how powerful. I prefer to have got a great structure up and running. 
 
+- 21/3/2023 another form of stalking of those genoese morons is that I'm speaking spanish with my clients, from about 15 years nothing less, and they interfered with my form of speaking let me doing some errors. And Sara says: "don't you hate speak spanish?" No stupid, I only want to put you and your family in jail. regards,
+
+- 21/3/2023 I've noticed another misery from you, little marquees of human trade. I was tired and I start to see videos on social network, I simply almost never do this. You, terrorist, have relaxed neural torture, electrical overload of synapses, and also electromagnetic body torture, internal organs almost. This is how I've loose one hour and a half and time had passed in a somehow false happiness for my psyche. Your tricks, terrorist, are very important to be described to obtain what you've got to pass despite your surname: jail for life for crimes against humanity.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
