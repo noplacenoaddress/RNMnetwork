@@ -2731,6 +2731,30 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 21/3/2023 I've noticed another misery from you, little marquees of human trade. I was tired and I start to see videos on social network, I simply almost never do this. You, terrorist, have relaxed neural torture, electrical overload of synapses, and also electromagnetic body torture, internal organs almost. This is how I've loose one hour and a half and time had passed in a somehow false happiness for my psyche. Your tricks, terrorist, are very important to be described to obtain what you've got to pass despite your surname: jail for life for crimes against humanity.
 
+- 23/3/2023 4 AM: sleep deprivation, the shame of all armies, the shame of democracy. always you, noble sleaze. 
+
+- 24/3/2023 another slaver in my instance of human trade is an Iranian girl. Her family live in a very high class neighborhood is very interesting why she is here and why they've got so that amount of money. It's so interesting that I'm thinking about Francesca, about her importance in a military contest, and about the kill of the democratic dream of a territory like Iran. Very interesting thinking about illegal military develop of program of persecution executed in the human trade camp in Catalunya and then probably sold to terrorist that rule a country. Yes...very interesting BITCH. 
+
+- 26/3/2023 01:00 REM phase alteration, sleep deprivation. Always Francesca.
+
+- 26/3/2023 04:00 REM phase manipulation, sleep deprivation, sexual harassment. Francesca and the Iranian woman.
+
+- 27/3/2023 21:36 While I'm working, as usual, Francesca as it is more that twelve ours that I'm doing it, I'm working in my wireless Internet provider that I've build after she had systematically destroyed my life forcing me to bagging and I've got more that one hundred contracts, she is saying that she will let me be killed.
+
+- 31/3/2023 23.35 Because is my birthday two mans from alberghi in Genoa, human trafficker, had call me to demonstrate their superior. The real problem is that I've know them when I was a child and is very disturbing how they play with the fact that I'm under torture from 2017 after that they sold me as a slave for a startup of a technological firm protected by a criminal that work with nobles in Catalunya. Why they do this? They try to let me think that behind my sold as a slave there is some kind of reason to annihilate the family of the person that execute human trade in Genoa for the child of those corrupted families. Pederasts.   This is obviously not true but because she is in fact a noble it seems that in the Mediterrean area justice doesn't work when a normal citizen, like me, do complaints. 
+
+- 1/4/2023 Alessandro, a man that work in human trade for a human trade cartel of Albaro a rich neighborhood of Genoa represented by various families of the same strict, is saying in my human trade instance transmitted by broadcast FM civilian installation in Catalunya, a human trade camp territory for obvious political reasons,  is saying that I'm addicted to cocaine. Little bastard your method of human trade is simple but had killed in the past others child of Genoa. You've got to be arrested for human traffic you and all the components of the human trade cartel of Albaro.
+
+- 2/4/2023 19:00 as I signed a new contract for my firm Francesca, immediately start a theater of Mafia. She is totally obsessed with Cosa Nostra and genoese pederast. She enter in a circle of madness with her sick mind were the victim live a constant blizzard and threat while she is torturing him. It's absolutely the most sick woman that I've seen in my entire life, and because I'm victim of human trade I've known a lot, but a lot, of sick mind. 
+
+- 2/4/2023 22:30 This moron of Francesca as I go to sleep apply electromagnetic fields inside my nose provoking continuous sneezing I'm so tired about this pederast that is in fact a stupid baby that play with people sometimes provoking them suicide disturbing in a extreme way them life. Some friends of mine had lost them life for this STUPID.
+
+- 3/4/2023 00:40 sleep deprivation because electronic torture and sexual harass always from that terrorist of noble. 
+
+- 3/4/2023 01:45 this stupid marquees follow to threat me and applying sleep deprivation to a citizen. She is saying that she wouldn't put me in jail but as I speak about her, normal you're torturing me from 2017 and threat me with a lot of paramilitaries and mafia you've got flash kidnap me and organized an intent of murder with a provoked accident, now she will do it. Ok, stupid, I'll reply with one hundred and fifty pages of logbook of torture. Tortures that you and your group of paramilitaries, catalans and italians, have done to me. All of that because of human trade to force me to marry a woman in genoa because a chain of slavery. Go to fuck idiot!
+
+- 5/4/2023 21:14 Yesterday Francesca, this torturer middle Jesuits and middle from Marina Militare, doesn't let me sleep nor a minute. This awesome torturer payed by Genoese old families to torture victim of human trade doesn't simple stop never to torture me from 11/2017. It's six years that she torture me every day.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
