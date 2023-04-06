@@ -2755,6 +2755,18 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 5/4/2023 21:14 Yesterday Francesca, this torturer middle Jesuits and middle from Marina Militare, doesn't let me sleep nor a minute. This awesome torturer payed by Genoese old families to torture victim of human trade doesn't simple stop never to torture me from 11/2017. It's six years that she torture me every day.
 
+- 5/4/2023 21:23 in this advanced circle of pederast the jingle is: "don't take drug!". Little Francesca the amount of amphetamine that you use to don't sleep from years, and I repeat from years and only to torture, is enormous. I don't ever understand how could you live.
+
+- 6/4/2023 03:00 sleep deprivations
+
+- 6/4/2023 11:00 two pearls of the morning from the leaders of military corruption: francesca is saying without any doubt that she will let me be put in jail without passing a normal criminal proceedings (I'm so curious how a terrorist will let be put in jail a citizen), the other from Andreu, that is always present but he is very careful to not be named in my logbook of torture, he says that Francesa is just working, not my bear Francesca is torturing me.
+
+- 6/4/2023 17:00 people in Genoa are going to start vacation for holy week, so they are free for torture. They have join all my instance of torture in the human trade network as the marquees have prepared myself with two days without sleeping because always of torture. Those stupids, Alessandro, Sara, Aurora, Nicola (the chief of the human trade cartel by inheritance) have grown level of torture. I known them from more than 20 years but this is exactly what the marquees search, depression leading to suicide. She is trying to cover the enormous crime that I've lived from 2013. This is "how it works" human trade in Genoa. As usual I'm working, integrating my NMS suite appliance with another software for inventory. 
+
+- 6/4/2023 20:11 after three days of sleep deprivation, a military technique of torture, as I came from dinner Francesca immediately start to threat that she will let me don't sleep a minute. Fucking military a Jesuits corrupted, go to fuck.
+
+- 6/4/2023 23:36 that shit of monster of Francesca is torturing me from four days. Here there are some woman violated in the human trade network. That slaver, that shit of noble, start to say that I've got to masturbate myself to sleep.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
 
 
