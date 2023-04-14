@@ -2767,7 +2767,30 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 6/4/2023 23:36 that shit of monster of Francesca is torturing me from four days. Here there are some woman violated in the human trade network. That slaver, that shit of noble, start to say that I've got to masturbate myself to sleep.
 
+- 9/4/2023 04:00 sleep deprivation, always Francesca.
+
+- 9/4/2023 10:00 as Sara doesn't work because is holiday, she is totally dedicated to torture. Doing stalk to me and electronic torture. As I filtered electrons in windows with a simple civil defense cover they cannot apply to my internal organs micro charges to provoke diseases like loose of blood in mucous membranes, ass and nose; so they are very nervous to cannot apply the program of human trade that they've got reserved to me. What is a program? A series of continuous tortures physical a psychological to obtain with coercion, torture and threats a forced marry to follow with the chain of slavery.
+
+- 9/4/2023 19:08 Francesca is following to try to interrupt my work, she follow to use Cosa Nostra threats to put fear inside me. I'm tired Francesca of your slavery games. Very tired that a surname like your is so disgusting. As I'm victim of human trade from Genoa cartels of trading, Francesca, that is the executer, follow to trying to put me fear about Mafia that work for her and paramilitaries that also work for her. The goal of Francesca is that I loose my job because of fear, dear stupid this democracy terrorism is nothing. Kisses, a citizen. FUCK YOU
+
+- 10/4/2023 07:00 wake up as usual with sleep deprivation, Francesca and Sara in a delirium of stalking. You will see how you will change your life stupid, with all those years of jail that you'll pay because of being human trafficker. 
+
+- 10/4/2023 14:00 every moment that this monster of Francesca do some brain machine interpreted torture, like think about my penis and provoking a magnetic field over it creating the same bad felling of being raped, I'm saying to her, playing with her amphetamine addicted mind: "stop doing this". She follow obviously like a moron and sometimes saying: "you've got to commit suicide if you want that I'm stop it". Dear idiot, as you're doing to me you've done to a lot of people from genoa that have been killed by you and your paramilitary and mafia group as a service sold to what I'm calling "alberghi", Genoese families that play parimutuel betting system of the life of human trade victims. Go to fuck, idiot.
+
+- 10/4/2023 16:10 I follow to work because I've got a great one in my hands and tomorrow after four days of holidays I've got a briefing with the customer, all those stupids genoese that work in human trade for heritage that have got free days because of them work, in the most cases works gotten because of favoritisms by old families of the city exactly because they work in human trade, follow to torture thinking that I'll loose it. Ok, morons, let's start to think that you'll loose all your works because you're a human traders. Ok?
+
+- 10/4/2023 23:56 as the end of the day the stupid of this marquees say: "I'm a noble I do whatever I want". Yes shit, but not let a citizen be flash kidnapped for parimutuel betting system and illegal military develop.
+
+- 11/4/2023 04:30 Sleep deprivation, threats by paramilitaries that work with Francesca in the Catalan human trade camp and others sub contracts. Sexual humiliations using the figure of a poor woman enslaved by those terrorist. 
+
+- 12/4/2023 after 5 days of hard work, today I decide to take for free. Obviously pederast using the human trade network doesn't stop a minute to torture. Every think that I'm seeing is commented, used to harass, to stalk, to disturb my day. In the morning as I was seeing complaints that I've done in public justice for sure they don't loose a moment to menace with mafia. People that have passed those days as holidays, today doesn't torture. They're working. Today is the turn of mothers of public considered good families. They try to copy voices, because the technology avoid this but not at all, of others. It's impossible to not understand how they are, because a victim of human trade is played in remote parimutuel betting system by people that he had known in the past. It's very simple understand who they are because of behavior and compartmental way. And no, they are not torturer who torture, they are fucking players of human trade as a sort of game played in families. Families totally connected with money laundering in a mafia infected city: Genoa. Why? Corrupted part of Vatican is used by those old families to totally block business initiatives by young people, they deport them in human trade camps (politically persecuted countries normally) to play them life in a animalistic situation of constant torture and abuse. 
+
+- 13/4/2023 22:30 as usual this moron of Francesca had tortured me all day long with her stupidity and her manual of CIA mental torture adapted to Vatican Jesuits shit. GO TO FUCK stupid noble you're the queen of human trade of the Mediterranean area just what Interpol is searching to close them investigation about. GO TO FUCK STUPID.
+
+- 14/4/2023 05:00 sleep deprivation.
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
+
 
 
 
