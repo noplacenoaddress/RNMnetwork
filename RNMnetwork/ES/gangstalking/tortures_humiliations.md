@@ -2913,7 +2913,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 29/5/2023 2 AM. Marquees Durand let me wake up at 2AM obviously sleep deprivation, obviously torture. Stop this shit of human trade network that she rents for money to middle class drug sellers in Catalunya and use also to persecute victim of human trade for silent military illegal development.
 
-- 29/5/2023 22:56 as usual in the human trade network people that have gain money for my silent exploitation for illegal military develop sold to tyranny like Iran by Durand family, people as T. family and others shit from Albaro as him cousin, stalk without stop a minute. They apply electromagnetic filed above my penis reducing his dimensions and let him welding. Next they start with Francesca, Aurora B. engineer of human trade programs, Elena the cousin of Nicola T. and others that was in my classroom when I was an adolescent speaking about the woman that I was in love to when they stole my business and obbly her with Mafia and threats of sexual violence the let her go away from our house: "you will let see Saray but you had prefer cocaine to her". Stupid stalkers, mafia, and other shitnetss go to jail: Thank you. You're guilty of human trade.  
+- 29/5/2023 22:56 as usual in the human trade network people that have gain money for my silent exploitation for illegal military develop sold to tyranny like Iran by Francesa family, people as T. family and others shit from Albaro as him cousin, stalk without stop a minute. They apply electromagnetic filed above my penis reducing his dimensions and let him welding. Next they start with Francesca, Aurora B. engineer of human trade programs, Elena the cousin of N. T. and others that was in my classroom when I was an adolescent speaking about the woman that I was in love to when they stole my business and obbly her with Mafia and threats of sexual violence the let her go away from our house: "you will let see S. but you had prefer cocaine to her". Stupid stalkers, mafia, and other shitnetss go to jail: Thank you. You're guilty of human trade.  
 
 - 3/6/2023 23:21 Yesterday night Francesca had let my nose bloody enormously. This stupid, this shit of torturer have got to be jailed for life.
 
@@ -2921,7 +2921,7 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 8/6/2023 02:35 as usual this moron of Francesca, that is so moron that has become a terrorist ( to be a terrorist you've got to one of the most stupid person that could exist because obviously human kind is wonderful ), apply the torture of "sleep deprivation". Her military and church related surname had to be condemned with various "jail for life". 
 
-- 12/6/2023 04:16 sleep deprivation, sexual harrassment, torture. Always Durand. Next she saying that I've got to masturbate myself.
+- 12/6/2023 04:16 sleep deprivation, sexual harrassment, torture. Always Francesca. Next she saying that I've got to masturbate myself.
 
 - 16/6/2023 21:44 days that I don't write but obviously nothing has change. Francesca try to justify her torture, a crime against humanity, with the fact that I call her in my silent exploitation cell transmitted by broadcast FM radiators in the catalan human trade system, "fucking shit of noble". Francesca there is no justification to torture a citizen.  
 
