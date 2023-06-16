@@ -2789,10 +2789,143 @@ She is protected by some Vatican orders. Those are building about Vatican a syst
 
 - 14/4/2023 05:00 sleep deprivation.
 
+- 14/4/2023 23:08 This torturer, remember that is marquees or better saying a noble someone that have got to represent our democracy in the world because we're European and we permit that those old families continue to exist because of representation of our culture, is saying without thinking a moment that if I do complaint against her and her group of mafia and paramilitary terrorism I will loose my job after that she have sold me for a technological startup and after five years of torture. Yes, FUCK OFF STUPID.
+
+- 14/4/2023 01:50 sleep deprivation.
+
+- night between 15 and 16 of abril 2023. Three times sleep deprivation.
+
+- 16/4/2023 as Sara is on holiday because is sunday, she is heavy torturing me with obviously this shit of marquees. I'm doing rent declaration and I cannot read the new year normative. 
+
+- 16/4/2023 As I'm doing rent declaration, first three month, that shit of marquees join together with those pederast of Genoese don't stop a minute to stalk. They say that I will close my new adventure in telecommunications while they play parimutuel betting system to clean money of Camorra (cocaine traffic) and Cosa Nostra (human traffic). Bye bye, criminals.  
+
+- 16/4/2023 23:30 as I was going to sleep, after, obviously, all day long torture that shit of marquees grown level of torture transmitting electromagnetic field directly to my room from the Collserola tower that interact with the artificially created strong field of my body. Electromagnetic filed flow into my ass, and my stomach. It grown it. This is the shit of human trade technology used by European nobility to create the number of victims that Interpol got in them databases.
+
+- 17/4/2023 08:00 three times sleep deprivation, a military torture. Francesca execute that kind of torture in a very professional way. Her method is mount a theater where the victim of torture could fall into think to be guilty and that the torture isn't what it is. Victim could believe that Francesca is doing this for his sake. All those people participate in the torture, tax evaders in the great majority, who earn from the trafficking of people attributed to one or more Sicilian families and the trafficking of cocaine. Moreover, they clean inherited fortunes, European havens, in tax havens, and launder them in offshore havens, Santo Domingo above all. And why not, after having wrote that phrases, that true, all fiscal defrauders start to menace.  
+
+- 17/4/2023 14:50 Francesca follow to disturb my senses, as speed of radio waves is like speed of light (a little less I think), lecture of mind could be faster than normal senses will interpret. Stalkers, torturers,  sometimes play with this feature and use it to put confusion in the mind of the victim. Many, that couldn't explain it scientifically is absolutely obvious that fall in anxiety, fear, trauma and confusion. Remember that Francesca also apply without loosing a day systematic sleep deprivation torture, doing so humor and the desire to do and the state of mind are already heavy degraded. This kind of military torture is absolutely a non sense that is permitted to be transmitted by civilian broadcast FM radiators, the same technology used by those little class nobles to administrate illegal market.
+
+- 17/4/2023 21:44 I was going to sleep soon, because Francesca is days that apply to me heavy sleep deprivation methodical procedures. Aurora and always the same marquees, do exactly the same today. Argument that cover the real purposes, sleep deprivation, is that because I'm doing the surname of the marquees in social network screaming help to international police authorities, after five years of torture, flash kidnap, intent of murder in various ways and a lot of shit more, they think that I'll start to got fear of being jailed for defamation. Morons you've got to answer about crimes against humanity. If she has got an important surname is however more serious because of the enormous abuse of power others victims got fear to do complaint because exactly of that. Shit of bitches.
+
+- 17/4/2023 23:00 Francesca follow to torture this time join with Andreu, the military services that administrator the human trade camp in Catalunya. They mount theater, as was done in Nazi time, to do continous gaslight. They represent copying people from the city where I was born, Genoa. Good people also victim of human trade but of high class. Human trade is very deeply common in Genoa, is used by old families of "alberghi" to freeze the city in a sort of pederast ambient dominated by corrupted church and corrupted militarism, Marina Militare. 
+
+- 17/4/2023 01:00 as Francesca is torturing me, I've learned to go ahead with my work because I can because is remote work and I do it as a autonomous professional. Now she is saying: "or you stop to work or I'll go ahead to torture you". Yes, bitch. Go ahead and fuck you.
+
+- 18/4/2023 as I wake obviously with a sort of magnetic shower that give a fell to the victim to be closed in a concentration camp, it can be called "brain jail", Francesca underline that I've got to live under the protection of a military. Dear terrorist, my dear torturer, I'm a man of deep left vision I'm totally contrary to the existences of military. 
+
+- 18/4/2023 09:20 Francesca is underling that she had let me sleep something (I'm very tired because of years of torture Francesca in reality I'll need one month of sleep). Francesca because you're related to military high rank I think that a great military judgment will be great against your crimes against humanity. Another preciosity from her ass hole mouth is that if I'll do complaints against Mafia that she administrate with this system, the human trade network, she will let me deport another time to Italy. She is a totally fanatic of deportation, little terrorist this is Europe I can live wherever I want.  
+
+- 18/4/2023 12:57 Sara, the woman that I was sold to as forced marry in human trade by old powerful families of Genoa because of chain of slavery (our son will be sold also as I was for parimutuel betting system, illegal military develop and forced mafia), follow to torture. With her always as usual Francesca. Also Alessandro is always present, a name connected to those ancient merchant association of Genoa, probably a man that was duped with false promises by these same families and unfortunately fell into the trafficking of people, known people: friends. It's always the same game, pederast that own Genoa and freeze it economically speaking, with human trade, fear, mafia, drug traffic.
+
+- 18/4/2023 as I'm writing about forced married in the my instance of torture transmitted by the human trade network in Catalunya Francesca, obviously Sara and probably some friend of her remember me that if they torture all together I'll die.
+
+- 18/4/2023 16:56 all day long of torture. 
+
+- 18/4/2023 Aurora and Sara follow to say that I've fear of life, I don't really know how.
+
+- 18/4/2023 Francesca follow to masturbate my penis using electromagnetic field that interact with the one of the organ produced because of electrons overload. It's five fucking years that she is doing sexual harass to me. The most horrible fact is this torture machine transmitted by FM broadcast radiators, because are DSP modules added to civilian installations, work as a remote brain electrical state interpreter. She is thinking about my penis without stopping a minute. She is horrible.
+
+- 19/4/2023 00:12 And why not, I'm going to sleep and as usual Francesca grown magnetic fields into my bedroom, a site that she had transform into a torture environment, exactly the same that she had done to my friendly environment revealing that all, or almost all, are envelop into organized crime. Another night in which my right as an European citizen, a little professional of telecommunications after an enormous organized thief with some intent of murder, are annihilated. 
+
+- 21/4/2023 14:07 As usual this stupid of Francesca follow to torture, why not? She is always underline that if I want that she'll stop to torture I'll commit suicide. As she is saying to me that absurdity I'm absolutely secure that in that way they've got killed, and not the victim commit suicide but without any doubts those are assassinations, at least two others guys and using motorcycle or car accident others. People that was forced to work for them in criminality as human and drugs traffic had suffered others accidents.  
+
+- 21/4/2023 20:05 as I speak about cocaine traffic Francesca  immediately start to threat me with kidnapping done with her paramilitary group. I'm tired about this woman. 
+
+- 21/4/2023 23:23 while speaking to a good friend mine, victim of also of the human trade network program from Francesca and present in my torture environment, some woman, especially one envelop with the sold of military programs to an extra European country, say to him that she will let him loose possibility to see him sons. 
+
+- 24/4/2023 all night long sleep deprivation, as I wake up obviously a start to remote work. This idiot of Francesca doesn't stop a minute to apply electromagnetic fields to my body and my brain.
+
+- 24/4/2023 17:04 Francesca follow to use words like "we" or "us" alimenting the phobia of Mafia in the victim. This idiot doesn't understand how little will be her freedom in the next years. Bye bye, stupid. 
+
+- 24/4/2023 21:02 she simply doesn't stop to apply electromagnetic fields thinking about my ass hole and my penis. That pervert with important surname have to be jailed for life.
+
+- 25/4/2023 00:43 Francesca follow also with her gang of Mafia to torture, without stopping a minute. The method is always the same: she starts her theater, very similar to what Nazis did in second world war, and try to catch attention of the victim while he simply wants to sleep. She obtains sleep deprivation with her stupid inventions covering the only reality: very deeply studied military torture. A crime against humanity.
+
+- 25/4/2023 02:15 I cannot sleep because those idiots of Genoese below the military command of Francesca, a surname totally, but totally, dedicated to torture. This is awesome.
+
+- 25/4/2023 18:27 as obviously I don't use violence nor I haven't use in my life, as all normal European citizens, Francesca follow to try to humiliate myself because in my exploitation cell inside the human trade network she let all criminals that work for her, from upper layers composed by paramilitaries recruited by his family obviously due to his surname and obvious character problems  to lower low class criminality, participate to my persecution and torture, and for them state of be slaved they simply doesn't say nothing seeing silent or almost the horrible show of torture. The most interesting part is that here, a lot of "good families" components use those fellows to do the most pervert and horrible crimes driving them practically insane for the mere fact that they are victims of trafficking, a murderous trafficking that slowly kills both the mind and the body.
+
+- 26/4/2023 00:40 as usual, I go to sleep, and why not? this bitch follow to torture me. IT's absolutely incredible how much amphetamine in pills, obviously, she swallows. sleep deprivation is her bread of 24h/h.
+
+- 26/4/2023 10:40 Francesca follow to threat my person because I want to do complaint against her in public justice and because I write about her madness. Aurora, engineer of human trade that work for the cartel of trading owned by Francesca and rented as service to old genoese families, starts to say the she will let be jailed. Strangeness you work in human trade and I'm a victim.
+
+- 26/4/2023 12:25 this stupid follow to torture every minutes of the day, this amphetamine addicted totally drugged grown the torture following her sick mind. 
+
+- 27/4/2023 23:03 As I'm reading a POST about a concentration camp image where you can see a prisoner suffering the worst torture of food deprivation, Francesca immediately is saying why I'm looking at him penis. 
+
+- 28/4/2023 02:50 sleep deprivation.
+
+- 30/4/2023 19:10 as usual I'm working, Francesca with Andreu, a military service, grown electronic torture to disturb my work. Work as a professional that those idiots think to stop with this stupidity, the network that they rent to middle class drug dialers in Catalunya as a secure system. In reality is the human trade network.
+
+- 30/4/2023 22:17 Francesca as usual follow to humiliate my person. More than this use elements of Mafia that rent from her services in the human trade network transmitted by broadcast FM radiators in Catalunya to go ahead with threats. This monster simply doesn't stop a minute to torture, to humiliate, to threat. 
+
+- 1/5/2023 11:08 It's very amusing how a marquees define being beaten by members of Sicialian and Sardinian criminality, flash kidnapped and living a persecution called gaslight from a chief of catalan mafia, very surely a military services for logical political motivations, being a moron. Idiot, I'm victim of all the mafia that you administrate in the human trade network because I'm victim of european human trade. Shut up stupid. 
+
+- 1/5/2023 13:06 as it is holiday, as always, Francesca and her crew of paramilitaries grown level of torture. They do always the same treatment and take part also a lot of civilian from Genoa. That is an absurdity, they take the better years of the life of a man, from 35 to 45, and simply destroy it with abuses, torture, mafia, threats, humiliations. That is the target individual program apply in the Ligurian capital sold to the old families to block economy of the city, it is executed by Francesca and military related to Marina Militare in the Catalan human trade camp, a camp of drug traffic, human traffic and silent exploitation with military purposes. Why Catalunya? Very simple to answer.
+
+- 1/5/2023 15:56 Francesca is argue that she is torturing me from 27 November of 2017 because she is forcing me to go out from black market of Genoa. Very interesting I never be part of black market. She is saying that is an heritage from my father, Francesca if my father is a criminal there is public justice. Thank you.
+
+- 2/5/2023 09:18 as I start to work Francesca inmediatly start to menace, to threats.
+
+- 3/5/2023 05:00 sleep deprivation. sleep deprivation it's six years that I suffer this military torture. Six years.
+
+- 4/5/2023 07:30 all night long sleep deprivation, Francesca and Aurora.
+
+- 6/5/2023 04:42 sleep deprivation. Francesca and Alessandro. Present also a member of an old family.
+
+- 7/5/202308:30 this bitch of Francesca join together with Alessandro, Nicola (an old Genoa family) and Sara have tortured me from 48hours. Sleep deprivation and I've got all my face full of signs.  Those people have got a life, they're married and some got money from heritage. What the hell they want by me? Simple that I follow the human trade program.
+
+- 9/5/2023 23:36 Tomorrow I've got to work at 6 aM, Francesca doesn't stop a minute to torture. This a part of my exploitation instance in human trade the same technology that she uses her group of Italia and Catalan Mafia, it's ABSURD that a citizen that pay taxes after an enormous persecution with military illegal development final goal is followed to be tortured by this military high level with an Italian important surname trying to kill me and to not do complaint. For her work some paramilitary, various sud Italy clan, also one of Cosa Nostra and no one of them, because yes they are mafia but they are also person, say NOTHING.
+
+- 12/5/2023 08:54 This shit of service of Andreu as I wake up start immediately to threat my person with kidnapping and violent murder because I'll start to present my compliant against the human trade network in the public justice palace of Barcelona.
+
+- 12/5/2023 11:42 Francesca follow to do sexual violence to myself using this technology. She says "I'm disturbing you?". No, bitch, you're masturbating myself from 6 years.
+
+- 12/5/2023 14:02 This bitch follow her addiction to torture now she saying: "don't you've got fear to people that sell drugs?"
+
+- 12/5/2023 16:15 she simply doesn't stop to torture. That woman live upon torture, torturing all day longs. She starts to speaks about Cosa Nostra and others mafia that work renting from her services in the human trade network. It's seem to be that this shit of noble think that people could live under torture and continuous threats from her surname full of shit and falsity. I'm so tired to live under her menace. 
+
+- 15/5/2023 00:11 sleep deprivation, always Fracensca using figures of Sardinian criminality to try to force me to not present to public justice palace tomorrow.
+
+- 15/5/2023 21:12 As I've speak about the surname of Francesca as chief and executer of my human trade program in the Barcelona justice palace, as I opened the door of my house she starts to say that she has got to kill me because I've do it. Stupid your surname is not so important, terrorist go to jail forever. Thank you.
+
+- 16/5/2023 22:11 As I return to home after a perfect day of work, Francesca, as usual, use her pyramid of terrorism to threat my person and my integrity. I'm a little bit tired about terrorism and pseudo dictatorship in nobles radio.
+
+- 17/5/2023 all day long of torture. This bitch doesn't stop to think about my penis, provoking an electromagnetic field above it. Sexual torture, the penis shrinks and this monster of nobles doesn't stop a minute to speak about sexual impotence. She thinks to destroy the mind of her victims with those stupidities, she is like a little child this is probably why she is a pederast. The shame of the human being, the church with its monsters with shields. Tax evasion trees.
+
+- 21/5/2023 sleep deprivation, I'm not writing a lot because I'm heavy working. She is torturing me every day, obviously.
+
+- 21/5/2023 08:27 The woman of the owner of my human trade, a patrician family from Genoa, start to threat myself of be beaten by some element of criminality that work in human trade and drug traffic for her. For them cartel of trade. She next says that I'll not arrive at the day of the judgment. 
+
+- 23/5/2023 07:00 all night long of torture. 
+
+- 24/5/2023 01:00 this bitch, this monster, this pervert noble follow to torture me. All day long of torture, all night long of torture. Now she is applying with her sick brain electromagnetic fields above my penis. I'm filming a video to bring it up to public justice. I'm being sexual abused from 27/11/2017 by Durand and the mafia families of Genoa that live above silent exploitation sold by her family as a service to them.
+
+- 24/5/2023 07:00 wake up, electroshock and torture. Always Francesca, also Andreu. He always try to put sadness inside me using the figure of a woman that I was in love to, another victim of human trade that he has enslaved to "play" in human trade as occasional forced prostitution. 
+
+- 24/5/2023 23:57 as usual this terrorist, this marquees, follow to torture. Obviously alone I'm trying to redo what she, and those families of good surnames of Genoa, have thief me. My business. After they have try to kill me with a motorbike accident and they have let me flash kidnapped by a Sardinia criminal that work together with an important member of Francesca high level paramilitary crew because of privileges in the Catalan drug market administrated with the human trade technology. Those idiots follow to try to let me think that I cannot arrive at my goals. Stupids, go to jail forever.
+
+- 24/5/2023 As I wake up obviously with electroshock, she starts to say that I could do complaint but not to the instigators. Next she starts with sexual harass and she says that I cannot masturbate myself.Another interesting feature of the terrorism of these shit of marquees and the man that work in the corrupted part of military services in Catalunya is that they are happy to underline that they've let suicide people.
+
+- 25/5/2023 20:03 as I return from work immediately near my house, Francesca with the help of Aurora and Alessandro (in theory two friends of mine when we was child) start to threat about complaints. They say that the technology of human trade, and sure it is, is how they administrate criminality because they are Genoese and for some kind of ancient agreement the are the chief of south Italy organized criminality (by the way drug sellers and human trader very low type of criminality). As I'm victim of human trade using this technology those two fellows that surely work together in criminality seem to be dangerous or I don't ever know what ever. Very interesting see how people loose all them values because of money, work favor binded  by nobles  or patrician, and access to European semi fiscal paradises, Andorra san Marino and Monaco and some shit of priest with access to Vatican bank is absolutely more important than shut up the torture that I'm living from 2017 inflicted by marquees Durand being the executer of my persecution, my kidnapping executed by a Sardinian crimnal guided by Ligurian paramilitary forces and my problems with a family of Cosa Nostra or Stidda. Ok "friends", let's see us in public justice. Bye bye.
+
+- 25/5/2023 Andreu, a military service that operate in Catalunya for human trade purposes, more that other persecutions of victims of ancient franquist internal deportation managing drug traffic inside the country and participating to silent military exploitation programs from others countries executed in the Catalan human trade camp for money purposes (as I am), say without any problem: "Riccardo, why don't play in techno?" With techno he means the human trade facility, means do crimes against humanity. Dear little Andrew, my dear fellow, how much do I care about you? Nothing here you are your photo:
+
+- 29/5/2023 2 AM. Marquees Durand let me wake up at 2AM obviously sleep deprivation, obviously torture. Stop this shit of human trade network that she rents for money to middle class drug sellers in Catalunya and use also to persecute victim of human trade for silent military illegal development.
+
+- 29/5/2023 22:56 as usual in the human trade network people that have gain money for my silent exploitation for illegal military develop sold to tyranny like Iran by Durand family, people as T. family and others shit from Albaro as him cousin, stalk without stop a minute. They apply electromagnetic filed above my penis reducing his dimensions and let him welding. Next they start with Francesca, Aurora B. engineer of human trade programs, Elena the cousin of Nicola T. and others that was in my classroom when I was an adolescent speaking about the woman that I was in love to when they stole my business and obbly her with Mafia and threats of sexual violence the let her go away from our house: "you will let see Saray but you had prefer cocaine to her". Stupid stalkers, mafia, and other shitnetss go to jail: Thank you. You're guilty of human trade.  
+
+- 3/6/2023 23:21 Yesterday night Francesca had let my nose bloody enormously. This stupid, this shit of torturer have got to be jailed for life.
+
+- 6/6/2023 05:27 Durand wake up me as usual with sleep deprivation next start to speak about mafia. she also underline as she had done in the past that I've got to let me diagnose to Cattolica victims of trafficking in a very violent form, with the same technology she administers the active mafia in Barcelona guaranteeing an almost perfect form both for organizing trafficking and for administering money laundering havens.
+
+- 8/6/2023 02:35 as usual this moron of Francesca, that is so moron that has become a terrorist ( to be a terrorist you've got to one of the most stupid person that could exist because obviously human kind is wonderful ), apply the torture of "sleep deprivation". Her military and church related surname had to be condemned with various "jail for life". 
+
+- 12/6/2023 04:16 sleep deprivation, sexual harrassment, torture. Always Durand. Next she saying that I've got to masturbate myself.
+
+- 16/6/2023 21:44 days that I don't write but obviously nothing has change. Francesca try to justify her torture, a crime against humanity, with the fact that I call her in my silent exploitation cell transmitted by broadcast FM radiators in the catalan human trade system, "fucking shit of noble". Francesca there is no justification to torture a citizen.  
+
 - ![/](http://telecomlobby.com/Images/90KHz_during_stalking.webp)
-
-
-
 
 ![July 31 StopElectronicTorture](http://telecomlobby.com/Images/gangstalking_tortures_humiliations_day_against.webp)
 
