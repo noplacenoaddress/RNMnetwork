@@ -53,11 +53,19 @@ Have no fear sweetie and dude. No fear. We're going to act in this absurd circus
 
 Call me guys. Call me. We've to fight together not loosing time in stupidity but doing what I'm doing, I know that you've not the technological culture to do this but I will do it for you. Just come here and speak about your life and the Machine without any problem. 
 
-The machine is a crime. Is a monster. Is what is changing our Europe. And you have child. Don't loose time trying to fight with those enormous titanic selling drug or selling yourself. At the question how we will live? It's simple. Working. Monarchy could not destroy your legal work. This is a full stop. I'm not a stupid and the king of this country know it.
+### Torture as an extreme coercion method.
 
-Full stop.  
+![](https://raw.githubusercontent.com/redeltaglio/RNMnetwork/master/Images/373656160_10232260668921955_3486968085317669692_n.jpg)
 
-### Logbook of tortures which Riccardo Giuntoli is subjected
+
+
+Why people from the executive department of my human trade program had used, use and will use torture?
+
+Torture is obviously used to obtain one of the human trade goals, all in fact are a business based upon slavery. A business of exploitation, minus one forced begging. Forced begging is a state in which many victims of European human trade fall, is a state of marginalization that slowly destroy the physical and mental health of the victim. Next to marginalization, many times with the intervention of military that serve nobles and the church and not the democracy better saying terrorist, come death. Death for physical problems despite marginalization. Those deaths have to be considered without any doubt, assassinations. And assassinations of the worst type, slow and full of pains.
+
+Another goal that sometimes is obtained with torture, torture in all its forms, is suicide. Another assassination of a human trade victim. 
+
+### Logbook of tortures which Riccardo Giuntoli is subjected.
 
 ![Logbook](http://telecomlobby.com/Images/remote_neural_monitoring_network_myexperience_logbook.webp)
 
