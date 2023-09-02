@@ -83,6 +83,14 @@ Who are behind those image boards?
 
 But the most important think is that i know personally like almost the **organization chart**  [[25]](https://en.wikipedia.org/wiki/Organizational_chart). They have to be put in jail from International Police like **Interpol** [[26]](https://en.wikipedia.org/wiki/Interpol). 
 
+#### A representation of the human trade channel
+
+Transmitted directly to the visual cortex of many victims, human trade operators (normally ex military enslaved), mafia (criminals obviously also enslaved) and a lot of slavers. 
+
+![](/home/taglio/Pictures/354216162_10211117682896116_6584939157141449155_n.jpg)
+
+
+
 # External Links 
 
 1. https://en.wikipedia.org/wiki/Internet_fraud
